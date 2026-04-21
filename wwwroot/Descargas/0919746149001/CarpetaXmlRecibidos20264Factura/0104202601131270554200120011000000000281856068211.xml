@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601131270554200120011000000000281856068211</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T09:28:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>GOROZABEL MENENDEZ MIGUEL ANGEL</razonSocial>
+        <nombreComercial>MG IMPORTACIONES </nombreComercial>
+        <ruc>1312705542001</ruc>
+        <claveAcceso>0104202601131270554200120011000000000281856068211</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000028</secuencial>
+        <dirMatriz>Barrio: CIUDADELA CALIFORNIA Calle: 24 DE MAYO Numero: S/N Interseccion: 3 DE MAYO </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>01/04/2026</fechaEmision>
+        <dirEstablecimiento>Barrio: CIUDADELA CALIFORNIA Calle: 24 DE MAYO Numero: S/N Interseccion: 3 DE MAYO </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>RODRIGUEZ FLORES CHRISTIAN ALFREDO</razonSocialComprador>
+        <identificacionComprador>0919746149001</identificacionComprador>
+        <totalSinImpuestos>520.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>520.00</baseImponible>
+                <valor>78.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>598.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>598.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>00026</codigoPrincipal>
+            <descripcion>SERVICIOS PROFESIONALES MES DE MARZO 2026</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>520</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>520.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>520.00</baseImponible>
+                    <valor>78.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">044608267</campoAdicional>
+        <campoAdicional nombre="Email">christian_rodriguez_flores@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-d7466193-79a3-4bc5-b04a-afb886f2e496"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-d7466193-79a3-4bc5-b04a-afb886f2e496-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>p30s2Yp+1hHSvte0BBqsIseclAgZ3oNAPUelqOv7/nU=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-d7466193-79a3-4bc5-b04a-afb886f2e496-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>A06e2a8m84oxzftcEpot7RDT3gkN8giZvYOtN9Q5CDk=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-d7466193-79a3-4bc5-b04a-afb886f2e496-sigvalue">hshYeuPat5MQGS3lqGwGoF0r2SGjxq8nqgKNIu5kTcY1J6JAXGggoO9n6sSjs+eElJ2xf05VmWZdvb0WPOGUTYrkJVyEcfD/0frntT0RNd3KO1V7E1wrTmx2AyEKcN+jeZ2kYEJAHtiknKwmRwbIvd1yVD0K0aloB43j4JoL8pAV3pSJmInce94eo76CuONDgb7V7lKbPQyB28GsADqQ+efAbM7fNI4ru8OlFAe8Ou6rm1sAtOmhnYGp4WadqO2LFJ6RvkLh9FyTaenRugKk2/o9xfL77agFH/0jWLpNZmdu716D2GA9YEZ8SmxwYl5xhykZP2EY5cSkpIiZuDcf6w==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIKzDCCCLSgAwIBAgIIXGYqh27IdxMwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMTA5MDMxODIzWhcNMjgwMTA5MDMxODIzWjCBqjEoMCYGA1UEAwwfTUlHVUVMIEFOR0VMIEdPUk9aQUJFTCBNRU5FTkRFWjEgMB4GA1UEBRMXMTMxMjcwNTU0Mi0wODAxMjYyMjI4MTUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw8dN3M2wGvURIXzQCn4mp9nF8lgUa8H4RCsVXNbipDXaJG7sTe1rkgD0Os9uc4dAxsskm+xuKoDlgrKP1VQFw8EORLGLk9M6AtnpEXGHs0Fi16Pt7njyFcdqYRbo0oSZf6W7s7/8dZWBDcemgO4H4a+TkMM680SBZlZd4uCPIlLvSWeFrbc+O/CoSfi4izmoB1vRyklzugIUhbj2I05XLeH0EHsPYo11jUuK1vGrJeBRA8dWtXi2Fu8/gOEcw5hP1kPy6oSN27inBzBQVxbZO91hUWAZMQPmzJkOo5VoN1gPsf6EoukAMNCahEJE7fiwa6qHprz1uJCdMgCSf/KsLwIDAQABo4IGAzCCBf8wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIgYDVR0RBBswGYEXbWlndWVsLmdvcm9AaG90bWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFGo/ld4AFfIlc7hvdU4vxoLufKYgMCsGA1UdEAQkMCKADzIwMjYwMTA5MDMxODIzWoEPMjAyODAxMDkwMzE4MjNaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjEzMTI3MDU1NDIwQQYKKwYBBAGCpnIDCQQzDDFQT1JUT1ZJRUpPIENBQkVDRVJBIENBTlRPTkFMIFkgQ0FQSVRBTCBQUk9WSU5DSUFMMBEGCisGAQQBgqZyAyIEAwwBLjAqBgorBgEEAYKmcgMHBBwMGjI0IERFIE1BWU8gUyBOIFkgMyBERSBNQVlPMBwGCisGAQQBgqZyAwIEDgwMTUlHVUVMIEFOR0VMMB8GCisGAQQBgqZyAyAEEQwPMDA0MDAxMDAwMTY4Mjk5MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGCpnIDAwQLDAlHT1JPWkFCRUwwGQYKKwYBBAGCpnIDHgQLDAlJTkdFTklFUk8wHQYKKwYBBAGCpnIDCwQPDA0xMzEyNzA1NTQyMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAYBgorBgEEAYKmcgMEBAoMCE1FTkVOREVaMBoGCisGAQQBgqZyAwgEDAwKMDk5NjI2ODk5MTANBgkqhkiG9w0BAQsFAAOCAgEAYVF07gliEOF+Wq2Iu8Oc2xhXn+TKwea5YC9mVWzeuZwUosMPokrR2LFFhTnAT15P0jG9WiZigJwZYIXbRwKSuq4c0IBhw1dBJidkt9EYdqgs4ZjOjYiSqzOrUwyS5Rk2gXoqGQDBu2STRnARu5hpJWKCjvFjsu1j3XNEcKD49T6x26Wru5bJxSFoRUUeStvOfbTzXMqFZX3B1eN/IL4ZYEnG6XuZcubpgjl+pH79uPOacI7VOfrXeCSu9udWv7TSSxZGAgV+5X1GparWhycoNSFBSOEprIMxqPQiDEYe16DBXbEEC6vOiizt5Ud5QpMVQkMRHjX8YFQ3+DpEYzqS/iErlYUS3ytD8abeMZvEMGs+omTiVr5SPTRN3+JaHHVJOgVYkGg0H6BuwvEQMHS3G1yuZ7hVoDcind0Hl2L/uw1NYmskpqRn8jfjUW/eqv1IeqIVWLpL+J0Ra9ILz4/Kd2P1qgFigtMKHEcasru6SNtf4Ahk093Fwy5rHbMpqm91sk1+UqUsQD5OaeoSeXKy4G8+J8EToyVBukccuc4LBexs9ZGLxU0uXhrKc7RZHiAxXRfBf+oiV2BlFbW9C4kK/71edBET944gWd98QPVWdegPFlsV1mDLxP6iJylCW2DTb2hWuXfspSliKptR1LtUcZUSB+PhN+4TUOAtNGy5GRY=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-d7466193-79a3-4bc5-b04a-afb886f2e496"><xades:SignedProperties Id="xmldsig-d7466193-79a3-4bc5-b04a-afb886f2e496-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-01T09:28:37.325-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>cOBzaebIIo4xW6NJqzofEDfHyIPLMkO0wWEWvHsMd10=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>6658055860281440019</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-d7466193-79a3-4bc5-b04a-afb886f2e496-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

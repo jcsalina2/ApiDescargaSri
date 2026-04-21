@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601130342981300120010010000323389876543210</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T09:18:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PAZMINO MOREIRA ANGELA MARIA</razonSocial>
+    <nombreComercial>IMPORTADORA ANGIE</nombreComercial>
+    <ruc>1303429813001</ruc>
+    <claveAcceso>0804202601130342981300120010010000323389876543210</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000032338</secuencial>
+    <dirMatriz>San Camilo Norte Calle Guayaquil</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>08/04/2026</fechaEmision>
+    <dirEstablecimiento>San Camilo Norte Calle Guayaquil</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ADOLFO BENITO JIMENEZ ANDRADE</razonSocialComprador>
+    <identificacionComprador>1204646788001</identificacionComprador>
+    <direccionComprador>QUEVEDO</direccionComprador>
+    <totalSinImpuestos>32.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>32.00</baseImponible>
+        <valor>4.80</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>36.80</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>36.80</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>032664340802             </codigoPrincipal>
+      <codigoAuxiliar>032664340802             </codigoAuxiliar>
+      <descripcion>CPR ENCHUFE CHINO COOPER 15A 250V 340802 4866 IA49</descripcion>
+      <cantidad>16</cantidad>
+      <precioUnitario>2</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>32.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>32</baseImponible>
+          <valor>4.80</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Contribuyente">PERSONA NATURAL - REGIMEN GENERAL</campoAdicional>
+    <campoAdicional nombre="Tipo">AGENTE DE RETENCION</campoAdicional>
+    <campoAdicional nombre="Dirección">QUEVEDO</campoAdicional>
+    <campoAdicional nombre="Teléfono">Ninguno</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-8a0e428e-1579-4236-8a96-d3dbc72f95e4"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-1388d0d9-bd33-4ee5-8ca8-1cbae9cabb44" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>30olKtmwe8O+iTUoiSaVxw8fv4RQU8G+/Ni6Hs6elCo=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-8a0e428e-1579-4236-8a96-d3dbc72f95e4"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>yezPY0r56WdEhq21fkPFhw/sCajETKrvlEwQFUHFSUU=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-8a0e428e-1579-4236-8a96-d3dbc72f95e4"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>G6NqaDR9BOlaGexllTRqy5r3Zi4ziCk/4lTS+J3ruyg=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-8a0e428e-1579-4236-8a96-d3dbc72f95e4">ATt2dqRdsPBZr3UDaCRqMyJblKiynwAmPGrmJ81OogA3n2GxDix3/A5g9ghNOt+GzbM2crWYHxG0MZVNkxk9lolqEBrzof6/5dOpMsEFK0vxohfyAda1L62EG5AagY9cBpvYKGj5EyJc25SQttJCD7U30E1a8Ek5ZD641s2MaGdEu0pXNWCS3pUHeJyEFLjxJtEacPSK2SApoUiWe4aUC4VouJ9/ItwhzFcsPoCQn8DK1gqmCm58QFjCHyW4/0u3xD7xb3YDvCuOjIPyTDiMr1mn2dzGMP38C0DcFN3jPyTdyiFL6L9jqUl7nSaDj4iDd97u348m8t13gagWuiDStw==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-8a0e428e-1579-4236-8a96-d3dbc72f95e4"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>hIFKKw0q3jMhFDj3L9hSMvYvw0MVOX9rgbT9/oyY+uXtpkT4npWiaVzGGzGVJB8KosPGI4InP3mV6AQ9JZKijj45pcznXp8eeOfJ0bPWOUWWsRtbPm1VYDmwBKCT3hjKy0bFuP+s0dFhu0GXqjAIK/FrehsYw8nOUsAfrdKO0TS2cCWggCY9uLpHevbulctmAOvS8jAxEu8+PCOAlcAhvlZcIph8Nv49Coa7wB0b8G2GVaD9WhfM42nmvTupxpXoHAuetWsTb2fouiuOo1lIDRbFGOMHaJTUem3SlqkdfD7DHUztiaeH2hPrOw1U8+u0K9RUoBn34OO+LxuCn7tUWQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-d64cda96-1acd-41c1-b177-332a303c310d"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-d1f6293d-4e9d-44fd-82fb-caee20b9cab4" Target="#Signature-8a0e428e-1579-4236-8a96-d3dbc72f95e4"><xades:SignedProperties Id="SignedProperties-Signature-8a0e428e-1579-4236-8a96-d3dbc72f95e4"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-08T09:18:02-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>yN3+xya8nYdZzvppvvJt5BnFDhPDoDGxVOMHlb5I7xE=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>8587340871394117994</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate><xades:SignaturePolicyIdentifier><xades:SignaturePolicyId><xades:SigPolicyId><xades:Identifier>http://csrc.nist.gov/publications/nistpubs/800-57/sp800-57-Part1-revised2_Mar08-2007.pdf</xades:Identifier><xades:Description /></xades:SigPolicyId><xades:SigPolicyHash><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue></xades:SigPolicyHash></xades:SignaturePolicyId></xades:SignaturePolicyIdentifier></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-1388d0d9-bd33-4ee5-8ca8-1cbae9cabb44"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

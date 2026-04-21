@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601099337634000120010020000107910001082317</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T09:41:36-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>IMPORTADORA GARCIA DENT S.A.S.</razonSocial>
+	    <nombreComercial>IMPORTADORA GARCIA DENT S.A.S.</nombreComercial>
+	    <ruc>0993376340001</ruc>
+	    <claveAcceso>0604202601099337634000120010020000107910001082317</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000010791</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / GUAYAQUIL / CDLA.SAUCES I PB Y AV ISIDRO AYORA</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>06/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / GUAYAQUIL / CDLA.SAUCES I PB Y AV ISIDRO AYORA</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>ANDREA TORRES TORRES</razonSocialComprador>
+	    <identificacionComprador>0802978809001</identificacionComprador>
+		<direccionComprador>sauces 6</direccionComprador>
+	    
+	    <totalSinImpuestos>68.17000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>68.17</baseImponible>
+				<valor>10.23000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>78.40000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>01</formaPago>
+	    		<total>78.40</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>210</codigoPrincipal>
+		<codigoAuxiliar>210</codigoAuxiliar>
+      	<descripcion>GASA ZOGEAR</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>0.869500</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.48</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.48000</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>645</codigoPrincipal>
+		<codigoAuxiliar>645</codigoAuxiliar>
+      	<descripcion>GUANTES NITRILO M</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>4.340000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.34</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.34000</baseImponible>
+          <valor>0.65</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>59</codigoPrincipal>
+		<codigoAuxiliar>59</codigoAuxiliar>
+      	<descripcion>HILO DE SUTURA SMI 3/0</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>2.434700</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.74</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>9.74000</baseImponible>
+          <valor>1.46</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>58</codigoPrincipal>
+		<codigoAuxiliar>58</codigoAuxiliar>
+      	<descripcion>HILO DE SUTURA SMI 4/0</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>2.434700</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.74</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>9.74000</baseImponible>
+          <valor>1.46</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>66</codigoPrincipal>
+		<codigoAuxiliar>66</codigoAuxiliar>
+      	<descripcion>LUBRICANTE SPRAY MAQUIRA 100ML</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.695600</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.70</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>8.70000</baseImponible>
+          <valor>1.30</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>213</codigoPrincipal>
+		<codigoAuxiliar>213</codigoAuxiliar>
+      	<descripcion>NEWCAINA EPINEFRINA 2% PLASTICAS BLISTER</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>3.913000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.83</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.83000</baseImponible>
+          <valor>1.17</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>339</codigoPrincipal>
+		<codigoAuxiliar>339</codigoAuxiliar>
+      	<descripcion>ROXICAINA LIDOCAINA  SPRAY</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>13.043400</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.04</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>13.04000</baseImponible>
+          <valor>1.96</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>211</codigoPrincipal>
+		<codigoAuxiliar>211</codigoAuxiliar>
+      	<descripcion>SEPTODONT ANASTESICO 4% ARTICAINA BLISTER</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>5.652100</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>11.30</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>11.30000</baseImponible>
+          <valor>1.70</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature730204">
+<ds:SignedInfo Id="Signature-SignedInfo63884">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID819524" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature730204-SignedProperties173652">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WApAMfpg1SQzK1VW8mvRpoHOkvU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate568559">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>R1DlvB3QuCblXr/RzkhqXHV+0po=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-379502" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8HTLZtR7jT3kqULdxmaMMp38lic=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue609304">
+rmtlgdOXJR5ZAKtiKxIoNIEP3ILqDsumEsVJIBpRwJuCib1gW7SNLg/K3JPQQa0FAvDlm2a57rmm
+EjgdK7oWcyTXDb0DSQ9frfO8efccQduFi0SdLyGFKfL+IqPZKNMQgzonPyOQhTffxjUGMDdb9nia
+iT4lZ1L23sXXsHA5LbIkl5mz5yCHLz3cE15IWGIg/45/SxlcKIM0OMHQApUL8Ayrgu2nraz8i323
+b3k3AF1O2Kt3FNMneJe/DvJOWwRMV2imRuLEjXxoWDtFS9NFUntDHBw3bpk61KDcJbeMv2YQbOtB
+qUqo7eZWqN6ePuTmWh5WInKWkdGmv7DnmKx2Qw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate568559">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJczCCB1ugAwIBAgIIbI02zMLfoM0wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTEwMzA1MDQwMFoXDTI3MTEwMjA1MDQwMFowgd0xCzAJBgNVBAYTAkVDMScwJQYDVQQKDB5J
+TVBPUlRBRE9SQSBHQVJDSUEgREVOVCBTLkEuUy4xGDAWBgNVBAwMD0dFUkVOVEUgR0VORVJBTDEU
+MBIGA1UEBAwLQlJBTiBNT1JFVEExFzAVBgNVBCoMDkNBUkxPUyBBTEZSRURPMRkwFwYDVQQFExBJ
+RENFQy0wOTE2NzI4ODkyMSMwIQYDVQQDDBpDQVJMT1MgQUxGUkVETyBCUkFOIE1PUkVUQTEcMBoG
+A1UEYQwTVkFURUMtMDk5MzM3NjM0MDAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ANDNDFM/vd+gZIKq/1/r2CmIUhRfSBQtw6qSZQTuztXHICrO4IH7hOU5LiUTAi/T+UXAT+4PfNti
+oWYDjyvWcT0sH4pRZvAzzqdF9DAM9mJ8imf4T+Htz65DsHgRjDxc5i5WDqZUF67vXfJqCOfcaJXv
+DNCi/rlF2xsR3ONHOy77QhQnjIjeihjmZQtlbMP5Kj4sNyEcO/53IjGvZriW1fUvT+hcgr0/OZXH
+AuYyrgoQDYsHGQZYtACTOfHoS2yqI5q4RSJONz2omUqnYE/97lq2hCHGdkh94gViVgPNs8iv9xPM
+VJEvtI8utLTU7qOdPRe6fP6dxfNJjEa4yUc4M9UCAwEAAaOCBFgwggRUMIHXBggrBgEFBQcBAQSB
+yjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2Fk
+L3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29j
+c3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2Nz
+cDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFMG2/Is7IJUt7kaJSb0n
+r4ucjrD1MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgY4G
+A1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8g
+REUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9j
+cmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyG
+Omh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5j
+cmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAdYGA1Ud
+EQSCAc0wggHJgR9pbXBvcnRhZG9yYWdhcmNpYWRlbnRAZ21haWwuY29toBsGCysGAQQBgvE2ZgMB
+oAwMCjA5MTY3Mjg4OTKgHwYLKwYBBAGC8TZmAwKgEAwOQ0FSTE9TIEFMRlJFRE+gFQYLKwYBBAGC
+8TZmAwOgBgwEQlJBTqAXBgsrBgEEAYLxNmYDBKAIDAZNT1JFVEGgIAYLKwYBBAGC8TZmAwWgEQwP
+R0VSRU5URSBHRU5FUkFMoDMGCysGAQQBgvE2ZgMHoCQMIkNETEEuU0FVQ0VTIEkgUEIgWSBBViBJ
+U0lEUk8gQVlPUkGgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5NjgxNTEyODWgGgYLKwYBBAGC8TZm
+AwmgCwwJR1VBWUFRVUlMoC8GCysGAQQBgvE2ZgMKoCAMHklNUE9SVEFET1JBIEdBUkNJQSBERU5U
+IFMuQS5TLqAeBgsrBgEEAYLxNmYDC6APDA0wOTkzMzc2MzQwMDAxoBMGCysGAQQBgvE2ZgMMoAQM
+AkVDoCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VOVEFOVEUgTEVHQUygGAYLKwYBBAGC8TZmAzOg
+CQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAIiS4IhD/1FAkmLzcHOlCYdZAyQLEFOVajbOc
+e9Bwgk8F1a6A8e+c+UW3rtOEbWWb7nnWJfzFCSnqxNGAK6ihDzgAwQdjK0n/nk1CB1iJEx42JLme
+Y1XHyQXQdOVjmfrcgH8EU5QIIzY/7Iu9wOCB6Ztzy7MPe1pdYNP8yd41wWi8zvzNMJWey4VmFmqS
+a8Za/bIedJ9GZK/1HSki6Oh36OAOS4HxVKGZ5ygFu8AsA4sgTD4fZEHArXgXMO2cOg0S6VDVpKxj
+b11WvlCXdpLKNEScnqtVN90XBHU4zrthIsqodc1zw8yPFzR8VNXZ4R6BO8mkwZjd4jXByJcO0e1c
+KyLb+bWftyHzr/coClhoqRJmdU0jpBnsHzeL9XWhVyGo3R/wI6k1NCrIqGj+rdd9tRsAmG1b2M05
+SE036FiCNSRBenpG8EiZz9edku1f/kvSZeUDJ0WwIRWXPuC1F7Y/uuc6gtI+5eAm3jOP7VOItSEp
+kMIuxyG7yr/b6nrgmiNkHn8IdVIbof64zEPP8v/aTTBxvGRp3O0581S0dMVCu2xaZs8P8r09Ig0k
+WMDcpFY1uaQuoJZypWxAAN3Ego/m7SzId61bUHc9d/HcwPxNOV3u4STbv5Zo4t9z1XHERuGBr9Zy
+u2DLv18aKY3EgIdXD8/EefCNkV/j+qAaAZXKcQI=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0M0MUz+936Bkgqr/X+vYKYhSFF9IFC3DqpJlBO7O1ccgKs7ggfuE5TkuJRMCL9P5RcBP7g9822Kh
+ZgOPK9ZxPSwfilFm8DPOp0X0MAz2YnyKZ/hP4e3PrkOweBGMPFzmLlYOplQXru9d8moI59xole8M
+0KL+uUXbGxHc40c7LvtCFCeMiN6KGOZlC2Vsw/kqPiw3IRw7/nciMa9muJbV9S9P6FyCvT85lccC
+5jKuChANiwcZBli0AJM58ehLbKojmrhFIk43PaiZSqdgT/3uWraEIcZ2SH3iBWJWA82zyK/3E8xU
+kS+0jy60tNTuo509F7p8/p3F80mMRrjJRzgz1Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature730204-Object48481"><etsi:QualifyingProperties Target="#Signature730204"><etsi:SignedProperties Id="Signature730204-SignedProperties173652"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T09:41:34-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>SU9tullQiYBhzAs+u99XBzKL/vI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>7821968380883083469</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

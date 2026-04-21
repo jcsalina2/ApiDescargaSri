@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601209175777200120010020000006884081486217</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T17:04:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>GALAENCANTO S.A.</razonSocial>
+	    <nombreComercial>GALAENCANTO SA</nombreComercial>
+	    <ruc>2091757772001</ruc>
+	    <claveAcceso>0804202601209175777200120010020000006884081486217</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000000688</secuencial>
+	    <dirMatriz>SANTA CRUZ / PUERTO AYORA / CALLE MICONIA Y MARCHENA</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>08/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>SANTA CRUZ / PUERTO AYORA / CALLE MICONIA Y MARCHENA</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>NAUTIDIVING S A</razonSocialComprador>
+	    <identificacionComprador>2090004460001</identificacionComprador>
+		<direccionComprador>Fragata 47 y Escalesia, Barrio el Eden, Puerto Ayora, Santa Cruz Island Galápagos</direccionComprador>
+	    
+	    <totalSinImpuestos>360.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>360.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>360.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>360.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>SERV-001</codigoPrincipal>
+		<codigoAuxiliar>H492001</codigoAuxiliar>
+      	<descripcion>SERVICIO DE TRANSPORTE</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>180.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>180.00</precioTotalSinImpuesto>
+	  
+	  
+	  	<detallesAdicionales>
+			
+    			<detAdicional nombre="Detalle" valor="DE PASAJEROS TOUR DIARIO 2 VIAS 22/03"/>
+    		
+      	</detallesAdicionales>
+      
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>180.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SERV-001</codigoPrincipal>
+		<codigoAuxiliar>H492001</codigoAuxiliar>
+      	<descripcion>SERVICIO DE TRANSPORTE</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>180.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>180.00</precioTotalSinImpuesto>
+	  
+	  
+	  	<detallesAdicionales>
+			
+    			<detAdicional nombre="Detalle" valor="DE PASAJEROS TOUR DIARIO 2 VIAS 23/03"/>
+    		
+      	</detallesAdicionales>
+      
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>180.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">SERVICIO DE TRANSPORTE RN</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature469075">
+<ds:SignedInfo Id="Signature-SignedInfo463908">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID996294" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature469075-SignedProperties226951">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>IuegJRBKRw10espzWbnp19g5y5o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate121159">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>QFTExRxzg/kj7iGpCriqICMYidg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-610004" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rplEc95G/7FBjB/u3CEv3wzid64=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue319784">
+edtTzkuXJPBroH1LOv9S+3ZaxpOWgkgUakJwSdgYgei4NerAFogAIIe7q1zfvY6CpgZhjrG/Tshk
+UMxG6CZC1EpU6eIFVowvLAAQAid7kb7/6XONVvlF+8xt2HMz5q8Hm0B0hNZdoqUvP7ZFJKNqmdj3
+b2SJi4tqfH6ZSaIGaJ1xWivr46oHrxhA9q6rrWXjdHXfKdEfXuKpGWCOaerTt63pllALI/1FYY0g
+qKwMQAf/6cG08AeE1LDpZDCeAVsn6FAIKZUD3/7q8o8tnzma+kDtzLLTvQTHiDFdntVQSor3nKKD
+RA3kd0j7GNrgQn94kczhkwCDkGnrP0a8UQpIrw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate121159">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJgTCCB2mgAwIBAgIIegtuWfpFv2EwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDIyNTE2NDQwMFoXDTI4MDIyNTE2NDQwMFowgcYxCzAJBgNVBAYTAkVDMRkwFwYDVQQKDBBH
+QUxBRU5DQU5UTyBTLkEuMRMwEQYDVQQMDApQUkVTSURFTlRFMRYwFAYDVQQEDA1DSEFQSSBNRVJD
+SEFOMRMwEQYDVQQqDApIVUdPIElUQUxPMRkwFwYDVQQFExBJRENFQy0yMDAwMDM5MjkzMSEwHwYD
+VQQDDBhIVUdPIElUQUxPIENIQVBJIE1FUkNIQU4xHDAaBgNVBGEME1ZBVEVDLTIwOTE3NTc3NzIw
+MDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCKLWuF1g75R8aaLLFmzipyhwNkJtCw
+wGfe7kqIihgU02Qb8hBud8AXKbiNBIW3UaGFG+44mk64r6sed0WN59wMdUfbaH5oKWjNvehN59DO
+Aw8zWIwsZ3AIiu793n3ZuEN/3tZz7KeZzPKoIZPyADY6OkelCtGHCR1JiOXwlPnN6RgrEQLiX4cZ
+cGSL+JgphkJ9rdfrbcyptsClCrcFZJyRUCXFi1BFmMB0BGe8JHhm7q6AP+MnRMpufKlH0elgSHb5
+Sjk6NwUvbELwYsVtGKR2bgGK3UlgtF4uDqJBNoq7uM8vG1R8nGsHt0l2p881Cbu5oXKcmc+f7Hcw
+UIgH6/qxAgMBAAGjggR9MIIEeTAbBgsrBgEEAYLxNmYDAQQMDAoyMDAwMDM5MjkzMB4GCysGAQQB
+gvE2ZgMLBA8MDTIwOTE3NTc3NzIwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklo
+dHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9z
+dWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1
+YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVi
+bGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUk0Xjslh8lIt0W/o5iL1fMXstiHIwDAYDVR0TAQH/BAIw
+ADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBjgYDVR0gBIGGMIGDMIGABgwrBgEE
+AYLxNmYCAwEwcDA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9w
+a2kvZHBjLWVjLzA1BggrBgEFBQcCAjApDCdDRVJUSUZJQ0FETyBERSBSRVBSRVNFTlRBTlRFIEVO
+IEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1
+YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBvgYDVR0RBIIBtTCCAbGBHm5vdGlmaWNh
+Y2lvbmVzZmlybWFzQHNpaWdvLmNvbaAbBgsrBgEEAYLxNmYDAaAMDAoyMDAwMDM5MjkzoBsGCysG
+AQQBgvE2ZgMCoAwMCkhVR08gSVRBTE+gFgYLKwYBBAGC8TZmAwOgBwwFQ0hBUEmgGAYLKwYBBAGC
+8TZmAwSgCQwHTUVSQ0hBTqAbBgsrBgEEAYLxNmYDBaAMDApQUkVTSURFTlRFoC4GCysGAQQBgvE2
+ZgMHoB8MHUNBTExFIE1JQ09OSUEgTjAyOSBZIE1BUkNIRU5BoB8GCysGAQQBgvE2ZgMIoBAMDjAw
+NTkzOTY3ODUyMDA2oB0GCysGAQQBgvE2ZgMJoA4MDFBVRVJUTyBBWU9SQaAhBgsrBgEEAYLxNmYD
+CqASDBBHQUxBRU5DQU5UTyBTLkEuoB4GCysGAQQBgvE2ZgMLoA8MDTIwOTE3NTc3NzIwMDGgEwYL
+KwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAY
+BgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQBsYVjTGFbznioEImYG
++UGBqDtTK3Mi2xVd9ncYn57MSC5S1uCgkuSOsJ8uTMeRYsoYM2BIxilRlcxQyZQHEEyhy0qvLcWd
+vZT6TtnKXghq6n6gVsQ5ItbdeJA2u4+3pk2vyacdp+SynGRlNCi3MjQhTFRplD6Ky1VDCxpBY7Xx
+FY3KY/y//DRGYiJ9NlGcWFlJiNn2rKA5fZYJ87+FsHdO+kodXrtiQI0gS7AeMW3NZuOY2SmpQHDs
+MoqlvxyqEdbQU9JBUfssQ7/u+LH0J4j4X/UPYPQG+M1SyjY7z4JJOZu0trHXQ3aGi7JhwtxfJqxv
++bjHi67V9yQdeI68jcCLreVDC4PR1jmYH79zrYKDdTFf/VjXdKpL1At2dK7ZbcaLBo/L13E6n8EM
+VPJ094WJ1PojvRdX5oG1ELFapOi24DeXBgQhhnhaE9lQzwBs9Zb02djOoueWx70tBI+7x7lMEMpA
+HG4aydFvZwbzAYrV7Ql+ZegOWvhQz7+lCJjH69FrAYf74GqViR1HBvhkv7MnV21Jaj7jBOePFUR0
+lophT9HB8ZuVQ7KRrp0e9SiOWne8XyNWJBKWXjokZr0J0pUz+AWcfuWu2QdKzCiv1o8DDz3cbqH7
+CJlGK4VG/NGMbjw+PkzRYI2/B6oZQ3PsTdz+uKCZ9llqZIjTaWR7i3SG5g==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ii1rhdYO+UfGmiyxZs4qcocDZCbQsMBn3u5KiIoYFNNkG/IQbnfAFym4jQSFt1GhhRvuOJpOuK+r
+HndFjefcDHVH22h+aClozb3oTefQzgMPM1iMLGdwCIru/d592bhDf97Wc+ynmczyqCGT8gA2OjpH
+pQrRhwkdSYjl8JT5zekYKxEC4l+HGXBki/iYKYZCfa3X623MqbbApQq3BWSckVAlxYtQRZjAdARn
+vCR4Zu6ugD/jJ0TKbnypR9HpYEh2+Uo5OjcFL2xC8GLFbRikdm4Bit1JYLReLg6iQTaKu7jPLxtU
+fJxrB7dJdqfPNQm7uaFynJnPn+x3MFCIB+v6sQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature469075-Object508396"><etsi:QualifyingProperties Target="#Signature469075"><etsi:SignedProperties Id="Signature469075-SignedProperties226951"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-08T17:04:41-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>+mZmX3nR/RX/CQfTFyGlHkpj+K0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>8794244030101045089</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

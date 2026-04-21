@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601095787856400120012000000071390000000614</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T18:23:09-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MARTINEZ LANDA DENNISE KAROLINA</razonSocial>
+        <nombreComercial>BOGATI</nombreComercial>
+        <ruc>0957878564001</ruc>
+        <claveAcceso>0104202601095787856400120012000000071390000000614</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>200</ptoEmi>
+        <secuencial>000007139</secuencial>
+        <dirMatriz>Samanes 4 mz 907 si 4</dirMatriz>
+        <contribuyenteRimpe>CONTRIBUYENTE NEGOCIO POPULAR - RÉGIMEN RIMPE</contribuyenteRimpe>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>01/04/2026</fechaEmision>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>ANDREA TORRES</razonSocialComprador>
+        <identificacionComprador>0802978809</identificacionComprador>
+        <direccionComprador>SAUCES 7</direccionComprador>
+        <totalSinImpuestos>1.65</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>1.65</baseImponible>
+                <valor>0.25</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>1.90</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>1.90</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>1633</codigoPrincipal>
+            <descripcion>CONO BOGATI PLUS</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>1.65</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1.65</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>1.65</baseImponible>
+                    <valor>0.25</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="celular">999999999</campoAdicional>
+        <campoAdicional nombre="telefono">999999999</campoAdicional>
+        <campoAdicional nombre="correo">samanes4@bogati.ec</campoAdicional>
+        <campoAdicional nombre="regimen">Contribuyente RIMPE Negocio Popular</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature396725">
+<ds:SignedInfo Id="Signature-SignedInfo823122">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID356216" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature396725-SignedProperties801897">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ni6KzMnyMJAH+oXjNqpjqBf9avQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1919495">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>u42NDebHSX5q3XAQefAbRIfRwe0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-218230" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>mYfNIYGX/xtWXz89b75fTbgiQGc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue529145">
+okz2ZgPDXCqMoWzrGKR8qGOarGCzE3ySHAZpWJqd+P026A8NgZ0VDWaca/hM962qguLfKW+oVEWt
+Ax8TaolbfEnTPK9wIc2F7+mxT4lxoM7hJ/IFdmjQGgrpX+SNOL6T1Y/s0+XGra0Dxh+NLbrnTdjS
+sL0m/nwMMg+a9O96wWeLGD/h6cj2TMB4Sn1eAx97FdNvm1j8po1/84AzCwy0FR2MVCRE0eX8Hl4c
+4bQWLEgdyhXTtilaYqAqoKAfpqvYKUMAk8z6ymzNaE2Zv74NDY46k3o/xzE9JTX3xR/3/uHH5VbX
+KCyFK72xWlvwjf1PWen4ESUHqgMras6nUucm7Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1919495">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKyDCCCLCgAwIBAgIENABPHDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA1MDYxOTU2MjdaFw0yODA1MDUxOTU2MjdaMIGqMSgw
+JgYDVQQDDB9ERU5OSVNFIEtBUk9MSU5BIE1BUlRJTkVaIExBTkRBMSAwHgYDVQQFExcwOTU3ODc4
+NTY0LTA2MDUyNTE1MDYyMTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC6F+ST1znJ0Gvct92KzkcAL+EFisWzBaH6Z6fu
+FqBSj3RrG3nqdAtBDfkz0tBeaK3f689LWy5Ddy352zjS+ROlJG0mrVuwshBQKYoLlEsqO0a/XbPf
+DVovUx62TKOCRxyW2aBPkGjax/tRGtAucoVNh2E4lN3p+F2lGmQytXfeJLwHQzW5TTpG2XhyMaKx
+vLO43wuitRiRQoDCvlpMfBPvM3r7YqJ9MsZ8JW42ADGqpQZwtkSd3joRMeFyFq2jAwOJuagsUdsY
+lQUtScDbc+gfrfAX7v222vgzLI+moMnM1ZL+3EBxI3bvKZ2oq9LzVmKEVcLNa4+mxj/FvaA6f8/x
+AgMBAAGjggYDMIIF/zAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAmBgNVHREEHzAdgRttYXJsYWRl
+bi5rYXJvbGluYUBnbWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsG
+AQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAA
+TgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2Rl
+X0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBk
+ZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiG
+Nmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKB
+n6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNV
+UklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0
+cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHd
+oIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2Ev
+cHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0O
+BBYEFPB9UrswDEdpjqFBd0cJ0+vAr12yMCsGA1UdEAQkMCKADzIwMjUwNTA2MTk1NjI3WoEPMjAy
+ODA1MDUxOTU2MjdaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjA5NTc4Nzg1NjQwFgYK
+KwYBBAGCpnIDCQQIDAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMFsGCisGAQQBgqZyAwcETQxL
+SVNJRFJPIEFZT1JBIFkgQ0FMTEUgMjBCIE5FIERFTCBNQUVTVFJPIFNPTEFSIDEyIFkgQ0FMTEUg
+MjBCIE5FIERFTCBNQUVTVFJPMCAGCisGAQQBgqZyAwIEEgwQREVOTklTRSBLQVJPTElOQTAfBgor
+BgEEAYKmcgMgBBEMDzAwMTAwMjAwMDk5MjA0MjARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGC
+pnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwITUFS
+VElORVowGQYKKwYBBAGCpnIDHgQLDAlFTVBMRUFET1IwHQYKKwYBBAGCpnIDCwQPDA0wOTU3ODc4
+NTY0MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAVBgorBgEEAYKmcgMEBAcMBUxBTkRBMBAGCisGAQQB
+gqZyAwgEAgwAMA0GCSqGSIb3DQEBCwUAA4ICAQBDi/d8NjRFvR5VsvfPQdsHXg1MSmTDN/EnYxnv
+Xb3GleF9RdTMEREtRsxko4EK9nYM7HkwHJStJPXY2SyC9caCPsmx7pdUAZ2F92knJsUtzWngmGHt
+V/609Vc1pFD59KaBpmTF/zQG68e9dArcT0JMIekJmefooEBZoM4+evckAnzxuugZocbD0tQiwEiD
+tbAkEycMHEjju2nIMUjpSRmTNC3t3Hw7zkp5nb5OXZzQ3gBlYuSKw9d0kxEsqc1q873nzrPkuOFn
+ChEVW9htdECKz1XJefLLolNIOHmIK/4bYaAph7dPiWUYgIPALusT1dls7K8R+ne2tI/RGgPKzzOO
+a+qPOcbKv839qeAwu1yK9uyeEqI8M+UoWcw6oIbikcU7qthupVKKQVJukTiaGMsXz/UaIr2BWWas
+qkmTQBSkKUTXcploUQq4C25iK+KemKFySBFmBOVGsXiT1pZLmA1zKc+T6ubc9DRUIrbxylOmSMlP
+0I7BnrORypybwTldz7uUWRYvLK7AfJvz0358rw7vQPN93RASba3XgvCekw1hhTr9k91Xw1QX3wAr
+sPXGpjo/Uxm4pcF50W66vzwnFzdApJGizPEPr06xTg22y9It5gCZsN5Z3i7YCXaFb5PYcDFUk77W
+OQaOc3Xq6fAqaoGhXWhTYznjsM+AlsPoX5TaVg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uhfkk9c5ydBr3Lfdis5HAC/hBYrFswWh+men7hagUo90axt56nQLQQ35M9LQXmit3+vPS1suQ3ct
++ds40vkTpSRtJq1bsLIQUCmKC5RLKjtGv12z3w1aL1MetkyjgkccltmgT5Bo2sf7URrQLnKFTYdh
+OJTd6fhdpRpkMrV33iS8B0M1uU06Rtl4cjGisbyzuN8LorUYkUKAwr5aTHwT7zN6+2KifTLGfCVu
+NgAxqqUGcLZEnd46ETHhchatowMDibmoLFHbGJUFLUnA23PoH63wF+79ttr4MyyPpqDJzNWS/txA
+cSN27ymdqKvS81ZihFXCzWuPpsY/xb2gOn/P8Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature396725-Object858021"><etsi:QualifyingProperties Target="#Signature396725"><etsi:SignedProperties Id="Signature396725-SignedProperties801897"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T18:23:08-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>zdZaOxx+clrSN9lI1xDFWJSv2mw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>872435484</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-218230"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

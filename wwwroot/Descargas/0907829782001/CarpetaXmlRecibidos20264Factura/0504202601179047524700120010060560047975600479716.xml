@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0504202601179047524700120010060560047975600479716</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T22:35:14-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>AIG METROPOLITANA CIA. DE SEGUROS Y REASEGUROS S.A.</razonSocial>
+    <nombreComercial>AIG Metropolitana</nombreComercial>
+    <ruc>1790475247001</ruc>
+    <claveAcceso>0504202601179047524700120010060560047975600479716</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>006</ptoEmi>
+    <secuencial>056004797</secuencial>
+    <dirMatriz>QUITO BRASIL 293 Y ANTONIO GRANDA CENTENO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>05/04/2026</fechaEmision>
+    <dirEstablecimiento>GUAYAQUIL:Parque Empresarial Colon Edif. Corp II 2piso Of.203 CUENCA:ROBERTO CRESPO TORAL 2-46 Y MIGUEL CORDERO ESQUINA EDIFICIO LAS ACACIAS</dirEstablecimiento>
+    <contribuyenteEspecial>5368</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>GONZALEZ PAREDES JOSE JAVIER</razonSocialComprador>
+    <identificacionComprador>0907829782</identificacionComprador>
+    <totalSinImpuestos>0.45</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>0.45</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>0.07</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>0.52</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>0.52</total>
+        <plazo>15</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>0</codigoAuxiliar>
+      <descripcion>SUPER DE BANCOS</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.02</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.02</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.02</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>188855</codigoPrincipal>
+      <codigoAuxiliar>13505</codigoAuxiliar>
+      <descripcion>50001 ATM TARJETA PROTEGIDA DINERS VARIOS PLANES</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.43</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.43</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Sucursal" valor="QUITO"/>
+        <detAdicional nombre="Ramo" valor="RIESGOS ESPECIALES- ANEXO DE TARJETAS DE CREDITO ATM"/>
+        <detAdicional nombre="NroPoliza" valor="50001"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.43</baseImponible>
+          <valor>0.07</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">JGONZALEZDR@HOTMAIL.COM</campoAdicional>
+    <campoAdicional nombre="CodInternoSAP">60712747</campoAdicional>
+    <campoAdicional nombre="CodSociedad">1078</campoAdicional>
+    <campoAdicional nombre="DetInfoAdic">RIESGOS ESPECIALES- ANEXO DE TARJETAS DE CREDITO ATM</campoAdicional>
+    <campoAdicional nombre="DetInfoAdic1">Suma Asegurada: 1600.00</campoAdicional>
+    <campoAdicional nombre="DetInfoAdic2">Vigencia: 2026.04.01 AL 2026.04.30</campoAdicional>
+    <campoAdicional nombre="Gran Contribuyente">NAC-GCFOIOC21-00001097-E</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature126652">
+<ds:SignedInfo Id="Signature-SignedInfo910646">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID1012150" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature126652-SignedProperties232075">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3Qo9K7qVQaVbALze3Zei4EIgqx0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1901290">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>2veYtd3VmcAT0e7w7ZY3DSazjT8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-598096" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>O7zxyzajfeY2mfbjHtSmnYoKhYc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue360626">
+d3kirtb+sSDMh2qOiaHkT0Pj3ZaHq+SqPKDkRiqUv5GVXifR3c64DzcLzbFpxSHqgcxA491glykl
+qcqbG7O9aeffdJvMbaXAL3tbNmtS9lxOElTnE2b9cHpZeSXAZ+LGvNqFmdgAKnaj06kB60KBfD82
+7PvJiLWqSNA22KJ+Td4DK26NBaJhO6PLjfdyZAlHYXb/9bQApV6UTAoskR20922N1nm0CpIWKfo8
+gcuub8NhpOKPoTZ9MoVCwVZF7xnm1QC8Ak6eOxQtn1YqQ1bHJIxAMO9cR6wuoPNAumuugsSRDIKF
+yHVwKwdi6VIj4KU3yV/+U9DVdtYqmW2WVPm9CA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1901290">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILQzCCCSugAwIBAgIEEOJ/cTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA0MjUxOTUwMzhaFw0yNzA0MjUxOTUwMzhaMIGdMRww
+GgYDVQQDDBNSSUNBUkRPIFBBQkxPIExFTkdBMR8wHQYDVQQFExZBQUk4Mjg0MzEtMjUwNDI1MTUw
+MDMzMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAMQpBWxhOrm+66BFBqerHoozkL2I1jFT7ALY+F0sJI+NaNqXw0jAGCoe
+eiKpm12ZE1cum44XSDgVz13POJJswNuNmKIvqgayChuxkeEEnhE4U0YWDMEjdewPGcZCdDL9Mx9x
+crsZMdeOXOGloK4BHWQzuoADZAY3FDHtBcv6kRK0/Tk019uQcPQjBlFRgdf1AY5oLTJXRY63CFDB
+WOCE4wRBnxZLCpdku9LXn2RnIf5MzKMg4MuvyvnUbR143PdufZkmVemD+kB9ciirFb7B6DcRSEDL
+E9/gb7Ux67vRs9r4ttKPp2albjWSr1hfo2ahe9WbNVvj3etUu9jgLiQ3ujkCAwEAAaOCBoswggaH
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCAGA1UdEQQZMBeBFXJpY2FyZG8ubGVuZ2FAYWlnLmNv
+bTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIA
+dABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBn
+AGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0
+eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZp
+Y2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMB0G
+A1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHeoDqgOIY2aHR0
+cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2NybGZpbGUuY3JsooGfpIGc
+MIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZ
+IERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8v
+Y3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmwwgeCggd2ggdqG
+gddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJs
+aWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU
+gww54o8/GFJ3Je5eTaj7dIqnWGQwKwYDVR0QBCQwIoAPMjAyNTA0MjUxOTUwMzhagQ8yMDI3MDQy
+NTE5NTAzOFowCwYDVR0PBAQDAgXgMDMGCisGAQQBgqZyAwUEJQwjR0VSRU5URSBERSBPUEVSQUNJ
+T05FUyBZIFNJTklFU1RST1MwGQYKKwYBBAGCpnIDAQQLDAlBQUk4Mjg0MzEwbwYKKwYBBAGCpnID
+CQRhDF9RVUlUTyBESVNUUklUTyBNRVRST1BPTElUQU5PIENBQkVDRVJBIENBTlRPTkFMIENBUElU
+QUwgUFJPVklOQ0lBTCBZIERFIExBIFJFUFVCTElDQSBERUwgRUNVQURPUjARBgorBgEEAYKmcgMi
+BAMMAS4wOAYKKwYBBAGCpnIDBwQqDChBViBCUkFTSUwgMzkgOTEgWSBBTlRPTklPIEdSQU5EQSBD
+RU5URU5PMB0GCisGAQQBgqZyAwIEDwwNUklDQVJETyBQQUJMTzAfBgorBgEEAYKmcgMgBBEMDzY2
+NjY2NjY2NjY2NjY2NjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFE
+T1IwFQYKKwYBBAGCpnIDAwQHDAVMRU5HQTBBBgorBgEEAYKmcgMKBDMMMUFJRyBNRVRST1BPTElU
+QU5BIENJQSBERSBTRUdVUk9TIFkgUkVBU0VHVVJPUyBTIEEwHQYKKwYBBAGCpnIDCwQPDA0xNzkw
+NDc1MjQ3MDAxMBEGCisGAQQBgqZyAx0EAwwBLjARBgorBgEEAYKmcgMEBAMMAS4wGgYKKwYBBAGC
+pnIDCAQMDAowOTk5OTk5OTk5MA0GCSqGSIb3DQEBCwUAA4ICAQCK6fnVM2ALwN6ab1lGy4CuIOBs
+MW6hdY2cTLyx5Vzg7w+6bPoMD1JcVgLgVtD+26NrABFHYupuoVxrMO26vRzlP+iBZ98JWgLEDf/H
+3ch9/9RPCOJxYgv+FWonBRi59p/5LJLrsq8LQx2S2JCyw3R5mQ0bIrftz2xNTqX6oMksYB3X5m48
+MgIkSDPP87dOffVCSrdaLczWOaUgzM/b12Uq3po8M/yF88ceOJ35yhsK5gCzeUSJ/mMq2Qi7T47e
+SINKJXKCQjbyr5yXLnZZ0zxFbUUq90Tbhm+uaUDMwVICKqB/3W0zqwqavcAW8r8i1yfNyuw8HMUf
+FU5JMGww9AZQNbFpcpftZ4iszrzlYYXB2zIp9yn5HKx+HGYRhpVeEbf592ghiBx6SwZ8TjjNedKX
+hHhp03hzcvCKXdnNx8BaEQQxVQPYUgCQKHb397XE7do19/GyXpzsG6JTBm8iAhGXHZHc/wgQDq7u
+t0WvwEXTJ+aCPwfPEUIm/Jm+2cKXp+18s6Z5ZH1FkKFOfj6S4cFtwEEerrMDXicxVhpUcleEiwQE
+X8jgHAVk89AFsJ2k1Pb/dEPnulBeo3fGutFmoylBjKMy5X0JalToF0TkMr2x4n639wzms527pDJF
+BfzGZ1w3eJmAO4VY1s4JdiJsZYjEimIY5Emw51wFqNR30VqIiA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xCkFbGE6ub7roEUGp6seijOQvYjWMVPsAtj4XSwkj41o2pfDSMAYKh56IqmbXZkTVy6bjhdIOBXP
+Xc84kmzA242Yoi+qBrIKG7GR4QSeEThTRhYMwSN17A8ZxkJ0Mv0zH3Fyuxkx145c4aWgrgEdZDO6
+gANkBjcUMe0Fy/qRErT9OTTX25Bw9CMGUVGB1/UBjmgtMldFjrcIUMFY4ITjBEGfFksKl2S70tef
+ZGch/kzMoyDgy6/K+dRtHXjc9259mSZV6YP6QH1yKKsVvsHoNxFIQMsT3+BvtTHru9Gz2vi20o+n
+ZqVuNZKvWF+jZqF71Zs1W+Pd61S72OAuJDe6OQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature126652-Object779577"><etsi:QualifyingProperties Target="#Signature126652"><etsi:SignedProperties Id="Signature126652-SignedProperties232075"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T22:35:13-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>yqlpatNAD85pCMJsp8/zKUZqZkk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>283279217</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-598096"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

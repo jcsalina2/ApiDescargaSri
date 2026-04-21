@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601176800984000120060020001465321357924619</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T14:25:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version = '1.0' encoding = 'UTF-8'?>
+<factura id="comprobante" version="1.1.0">
+   <infoTributaria>
+      <ambiente>2</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>BASE NAVAL SAN CRISTOBAL</razonSocial>
+      <nombreComercial>CAPITANIA MENOR DE PUERTO SEYMOUR-CAPSEY</nombreComercial>
+      <ruc>1768009840001</ruc>
+      <claveAcceso>1704202601176800984000120060020001465321357924619</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>006</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000146532</secuencial>
+      <dirMatriz>PTO BAQUERIZO MORENO, BARRIO FRIO, AV. ARMADA NACIONAL SN</dirMatriz>
+      <agenteRetencion>00000001</agenteRetencion>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>17/04/2026</fechaEmision>
+      <dirEstablecimiento>GALAPAGOS/SANTA CRUZ, SANTA ROSA AV. BALTRA S/N                                                     </dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+      <razonSocialComprador>BERDONCES SERRA VICENTE</razonSocialComprador>
+      <identificacionComprador>0912909207</identificacionComprador>
+      <totalSinImpuestos>7.52</totalSinImpuestos>
+      <totalDescuento>0</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <baseImponible>0</baseImponible>
+            <valor>0</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0</propina>
+      <importeTotal>7.52</importeTotal>
+      <moneda>DOLAR</moneda>
+      <pagos>
+         <pago>
+            <formaPago>20</formaPago>
+            <total>7.52</total>
+            <plazo>0</plazo>
+            <unidadTiempo>dias</unidadTiempo>
+         </pago>
+      </pagos>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>210</codigoPrincipal>
+         <descripcion>Servicio de Despacho</descripcion>
+         <cantidad>1</cantidad>
+         <precioUnitario>5.360000</precioUnitario>
+         <descuento>0</descuento>
+         <precioTotalSinImpuesto>5.36</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>5.36</baseImponible>
+               <valor>0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>69</codigoPrincipal>
+         <descripcion>Formato de Seguridad</descripcion>
+         <cantidad>1</cantidad>
+         <precioUnitario>0.190000</precioUnitario>
+         <descuento>0</descuento>
+         <precioTotalSinImpuesto>0.19</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>0.19</baseImponible>
+               <valor>0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>198</codigoPrincipal>
+         <descripcion>Uso de Fondeadero (en Cap.Pto.Insulares)</descripcion>
+         <cantidad>1</cantidad>
+         <precioUnitario>1.970000</precioUnitario>
+         <descuento>0</descuento>
+         <precioTotalSinImpuesto>1.97</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>1.97</baseImponible>
+               <valor>0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+   <infoAdicional>
+      <campoAdicional nombre="Concepto">Despacho Tráfico Nacional - GALAPAGOS SHARK II _ Cancela 1 día(s) por uso Fondeadero</campoAdicional>
+      <campoAdicional nombre="Telefono">052527004</campoAdicional>
+      <campoAdicional nombre="Direccion">CALLE FRAGATA BARRIO EL EDEN, SANTA CRUZ</campoAdicional>
+      <campoAdicional nombre="Email">vicente.berdonces@gmail.com</campoAdicional>
+      <campoAdicional nombre="No. Trámite:">3791499</campoAdicional>
+      <campoAdicional nombre="Factura Emitida Por">LCUASMIQUER 17-04-2026 14:19</campoAdicional>
+   </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature721979" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo492406">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference URI="#Signature721979-SignedProperties793292" Id="SignedPropertiesID249948" Type="http://uri.etsi.org/01903#SignedProperties">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>M3XXiXrBn60py6R7j0YmqFVLIXM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1695954">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>wksTfszXyAyGf04OZjeeAIEvx0I=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#comprobante" Id="Reference-ID-959965">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3kT+2vgJ3q5lNhpnC2DfDY+w+E4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1006337">
+vVDN8G6EOz6x1RGfJbs+34ZurVLUgrOnOL6nWOPL6fWp+YHv3e6BAk4HbdUmu98PIFBiBY98GkhY
+7g9jVLzGxNeO9DXKdJ4ku44r9uxip+uHj0wDKhzxNmFo3bsdc5m7mF0Z/gtj/8FwE+RC6d/M2Lv8
+QFnnqImwmEcc2u0f7/BPLfHxhucIt3pZPqUfy5bYUgZrqNWI5pU+b2d0+8uKQfo1/WUGVP18d5c0
+WdH0hJe/69LL3YzU41g2hthpquZUUHOmqD8fPu0XljkeOn/9BhMWNoDmUDuF2d+9bXaLbJiv8+hk
+DSkpZDL909laeUxBL1s4BXy5twsez/87jIGjUw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1695954">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ4DCCB8igAwIBAgIEZeWnVjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI1MDEzMDE2MjU1OVoXDTI3MDEzMDE2NTU1
+N1owgbQxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE4MBEGA1UEBRMKMDIwMDA0MjUwODAjBgNVBAMTHFBBVUwgR0VPVkFOTlkg
+U0lMVkEgTUVOT1NDQUwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDqeIIo824JM6ol
+s0TiFtS76zLvE2t2iIcn51cC0EW6LD/6h8odhIR/ddz65syR/ELzqRSwV3jXW/DHEwpB42RYeHMF
+Nf7a/wGFW20BjUuTODTjbmbL13m+nWNDab9AE46oh3TlwJ1xjxqMdObmQwY83m19ihVH5oOW3hjR
+6X/W/rMPoz7xHWEkeGvf4BJeHPdgg53XthQOgBYhb0OdF4L1JckwZHJUizvdWNK2wbJpvmMujcoP
+XQIFX36BKerDvYPGD+QNMzE7rzeu1SIN56AgjM107/gRTutuMVNOtQOJsMW3TBxhUwD+BH8Gcqwm
+FHjMwxzNSpbqEz6rbqMptFFrAgMBAAGjggUJMIIFBTALBgNVHQ8EBAMCB4AwZwYDVR0gBGAwXjBc
+BgsrBgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRp
+Y2EtY2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4G
+CCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwMCgGCisGAQQBgqg7AwoEGhMYQkFTRSBOQVZBTCBTQU4gQ1JJU1RPQkFMMB0G
+CisGAQQBgqg7AwsEDxMNMTc2ODAwOTg0MDAwMTAaBgorBgEEAYKoOwMBBAwTCjA5MTk4Mjc5MDcw
+HQYKKwYBBAGCqDsDAgQPEw1QQVVMIEdFT1ZBTk5ZMBUGCisGAQQBgqg7AwMEBxMFU0lMVkEwGAYK
+KwYBBAGCqDsDBAQKEwhNRU5PU0NBTDAYBgorBgEEAYKoOwMFBAoTCFRFU09SRVJPMB4GCisGAQQB
+gqg7AwcEEBMOQkFTRSBOQVZBTCBTVVIwGQYKKwYBBAGCqDsDCAQLEwkwNTMwMTA5MzgwGQYKKwYB
+BAGCqDsDCQQLEwlHVUFZQVFVSUwwFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7
+AzMEEhMQU09GVFdBUkUtQVJDSElWTzAgBgNVHREEGTAXgRVwYXNpbHZhQGFybWFkYS5taWwuZWMw
+ggHhBgNVHR8EggHYMIIB1DCCAdCgggHMoIIByIaB1mxkYXA6Ly9iY2VxbGRhcHN1YnAxLmJjZS5l
+Yy9jbj1DUkwyMTY0LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFV
+SVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVD
+SUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJl
+dm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19j
+cmxmaWxlY29tYi5jcmykgbYwgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFM
+IERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBE
+RUwgRUNVQURPUjEQMA4GA1UEAxMHQ1JMMjE2NDArBgNVHRAEJDAigA8yMDI1MDEzMDE2MjU1OVqB
+DzIwMjcwMTMwMTY1NTU3WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4E
+FgQUzJcJe0juIk+YYEmZR1cN0K12+iswCQYDVR0TBAIwADAaBgkqhkiG9n0HQQAEDTALGwVWMTAu
+MAMCBDAwDQYJKoZIhvcNAQELBQADggIBAI1P2cR6XmEwGC/XjKpEZtm9/lxRlj05OtCOba+dYd4D
+7z2QKTJNYy3cWKuJtrvKxrb0g9/sjqZ8xf5q768fKl/ZUZwf/OwxnDrXKMPF1T9wM8kvAVKm2VRn
+9av0mdrvNVuzjVrrQfx/cAz5ecf3wpPEB2FDipx2l96ONvnuoQjS78YZ0zjNJPwVRzpDJjpRe7GX
+x/DLJtb5fR6M6VcZcIjPFz9a48ycT3sunyB7eU7JKBuqMbRlt/FUk2DSWjqp9M2rUYx7mkPgPA8D
+LhiLKEZvVx8gkoxo9m1tPhQG7xgDqaKZZWi7JxH0MXtNq08mMpH9e+W9lmWTGTq+kmJMOyciABR9
++8bQOsNFlh8CiO9FB6xT18QlIx4QJDu386xczeV3JKFyxQT80nHlMX59QMUETPfsrTHFGSZQDtLH
+awjyvMuKCAzm5aTylxOuNcGjpq8XClQpbxMtWWFRFaRB8blODlHAmyrg9k77rXwYYmhcpseSvB8V
+BfQNJ09PRsWhQknh7oDMnz7E39j0AuvK8jHdXQqisaAhS4Al1oFIbY7UvHJ1C6ejUs48MBekIFOG
+yomLVz4GzkO2XUQd59Z07jsZXODj5B294XgvLUAsp/ggRVPLKFGOgd084nGhcuHFBBJgEs7SosY5
+3+ZkiXFPhPbOpTQ5uCebSqPreQGiS7KY
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+6niCKPNuCTOqJbNE4hbUu+sy7xNrdoiHJ+dXAtBFuiw/+ofKHYSEf3Xc+ubMkfxC86kUsFd411vw
+xxMKQeNkWHhzBTX+2v8BhVttAY1Lkzg0425my9d5vp1jQ2m/QBOOqId05cCdcY8ajHTm5kMGPN5t
+fYoVR+aDlt4Y0el/1v6zD6M+8R1hJHhr3+ASXhz3YIOd17YUDoAWIW9DnReC9SXJMGRyVIs73VjS
+tsGyab5jLo3KD10CBV9+gSnqw72Dxg/kDTMxO683rtUiDeegIIzNdO/4EU7rbjFTTrUDibDFt0wc
+YVMA/gR/BnKsJhR4zMMczUqW6hM+q26jKbRRaw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature721979-Object871399"><etsi:QualifyingProperties Target="#Signature721979"><etsi:SignedProperties Id="Signature721979-SignedProperties793292"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T14:19:39-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ZtcVX6sdVa0m+ydvAtL+5+MMev4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709549398</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-959965"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

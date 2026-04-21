@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601120512887700120010020000074280000000211</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T23:11:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ANASTACIO ESPINOZA YOLANDA ROSANA</razonSocial>
+        <nombreComercial>ROSS STORE</nombreComercial>
+        <ruc>1205128877001</ruc>
+        <claveAcceso>1804202601120512887700120010020000074280000000211</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>002</ptoEmi>
+        <secuencial>000007428</secuencial>
+        <dirMatriz>CUIDADELA MIRAFLORES SOLAR 5 VIA AL EMPALME, FRENTE LA IGLESIA DE JESUCRISTO DE LOS SANTOS DE LOS ULTIMOS DIAS. </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>18/04/2026</fechaEmision>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>ADOLFO JIMENES ANDRADE .</razonSocialComprador>
+        <identificacionComprador>1204646788</identificacionComprador>
+        <direccionComprador>QUEVEDO - LOS RIOS - ECUADOR</direccionComprador>
+        <totalSinImpuestos>70.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>70.00</baseImponible>
+                <valor>0</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>70.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>70.00</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>2223</codigoPrincipal>
+            <descripcion>N PULOVER ADONAI 26</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>16.50</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>16.50</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>16.50</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>2054</codigoPrincipal>
+            <descripcion>N MEDIAS BLANCAS ADONAI 6   8</descripcion>
+            <cantidad>5.00</cantidad>
+            <precioUnitario>3.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>15.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>15.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>2152</codigoPrincipal>
+            <descripcion>N FALDA ADONAI 30</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>22.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>22.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>22.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>2352</codigoPrincipal>
+            <descripcion>N BLUSA ADONAI 30</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>16.50</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>16.50</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>16.50</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="celular">0992188040</campoAdicional>
+        <campoAdicional nombre="correo">dasha_19@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature482013">
+<ds:SignedInfo Id="Signature-SignedInfo248701">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID804728" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature482013-SignedProperties330656">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ryttHdfjm2Qmr5xpywm5iqgA/eI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1142040">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>7+umkbaCKTF0HqE4xdfuP2pBAcM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-500752" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>jKXmTze8Vk7Bxx5Q747jy7+ugns=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue927341">
+GHfY8MKcdNca93iySNNEWG3kZ5+ipxF1cvTe0f6/qWiE6rJcGS/4P0vVo7zjsnHi5CfcE6zLGL+0
+5HOe4adv3wVOz9Wqzv20BNiDc0pjPs/e5dZ6VGJfeFk0KYNDNhb3DciNrtYaX581LNiTIPVKbGiZ
+x3FBzXFTvGgrhaxg31XHq1SAKIzc2bteMUZPz39dcdEJ16ClUCZclZh5hi7q6+C48aLin4+1nccP
+tlWN7mPm1+7X/H1j9QIkuLWZS40D1Bk4hQVAQI0k6akwLCAAlbgZeTyEbGAb1MkZP3X4Hr0sJFH6
+LA/YuHytAvoTJHcW+/VJ8OwZumLPVwXzJgPq6Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1142040">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHzjCCBbagAwIBAgIRAPfzaE9y8N3ez++7F89TngAwDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNjAzMTcxOTQ3MTlaFw0yODAzMTcyMDQ3MThaMIHeMS0wKwYD
+VQQFEyQ1YTM0ZmM0Mi01OGY3LTQ0ODctOTkzMi1kMDU3NjMwOTYzNTMxJTAjBgkqhkiG9w0BCQEW
+FnB1bnRvYmlsbGluZ0BnbWFpbC5jb20xKjAoBgNVBAMTIVlPTEFOREEgUk9TQU5BIEFOQVNUQUNJ
+TyBFU1BJTk9aQTEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OMRswGQYDVQQKExJGSVJNQVNFR1VSQSBTLkEuUy4xCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmj+b2X1wnZPC1apRQxzJ2jDyq3yMkDfIaW9MYy0yvtPaTx6i
+HGQqmnl+U0pEC5Pq8DGiNqgjvlN8dhLfRMRXosFg6haVpbH2HygqYd/jsOKVFUZCrpK7N7dpspqf
+3erE8RkynnfXpPCbHJPKXQlMlTmnx7vHYp1Y3+6cMlwIcz5wQ49RXvlrdSOGPH3krJXFwG6k1Zna
+UWZZWymceW//UgvmEXJK6caYLqrCbFzZBzC/vKH1y47/117auZe+XFnpAa53g8RVSfwfLH0M/Lrz
+E+AIM9Tqouho4WUmFXuvY2oQrhLxFeMkwcpdHRajXTTOq26iwjyEoHSPvaudGx0ViwIDAQABo4IC
+nzCCApswCQYDVR0TBAIwADAfBgNVHSMEGDAWgBQTRpNoCa7XJIczRWMmd9+sXl6KUTAdBgNVHQ4E
+FgQUoZH0yXhGOq/Ml5iEuy/FKlcExLcwWgYDVR0fBFMwUTBPoE2gS4ZJaHR0cDovL2NybC5maXJt
+YXNlZ3VyYWVjLmNvbS9jcmwvY2NjZTVhNGYtNmI2OC00NmZjLWE2MjAtNGFiY2M0YzRhNjkwLmNy
+bDA5BggrBgEFBQcBAQQtMCswKQYIKwYBBQUHMAGGHWh0dHA6Ly9vY3NwLmZpcm1hc2VndXJhZWMu
+Y29tMBoGCisGAQQBg955AwEEDBYKMTIwNTEyODg3NzAeBgorBgEEAYPeeQMCBBAWDllPTEFOREEg
+Uk9TQU5BMBkGCisGAQQBg955AwMECxYJQU5BU1RBQ0lPMBgGCisGAQQBg955AwQEChYIRVNQSU5P
+WkEwLAYKKwYBBAGD3nkDBwQeFhxHVUFZQUNBTiAvIFBSSU5DSVBBTCBTT0xBUiA1MBwGCisGAQQB
+g955AwgEDhYMNTkzOTY4MDAyNTQ1MBcGCisGAQQBg955AwkECRYHUVVFVkVETzATBgorBgEEAYPe
+eQMMBAUWA0VDVTAdBgorBgEEAYPeeQMLBA8WDTEyMDUxMjg4NzcwMDEwgZwGA1UdIASBlDCBkTBQ
+BgsrBgEEAYPeeQIBATBBMD8GCCsGAQUFBwIBFjNodHRwczovL2Zpcm1hc2VndXJhZWMuY29tL3Bv
+bGl0aWNhc19wZXJzb25hX25hdHVyYWwwPQYLKwYBBAGD3nkCAgEwLjAsBggrBgEFBQcCAjAgDB5D
+ZXJ0aWZpY2FkbyBkZSBQZXJzb25hIE5hdHVyYWwwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEB
+CwUAA4ICAQCXC0d0NK1949vXjKYx9i6VLXBHcB/7Z1ZP3sT2A5gdFa9gYcmkly95Nd0BqmRDXLQH
+81sYZ0nJoRiGc3DVSoA6COeJvECoF2zm+l+vZmZ81aHjUQpntH6U5SH9f2IocMOhzAa1H62XX+t+
+XiIpiGKwi+j1YKCiCQqqqxx19Pyeq+cgtVA7Yq3oTkFX3irZB8HuA9MLVYAkulE9TUMBeO+eCtZb
+4MDMfTDbWQq1A+RitGAPfUdSXD1N4xTe1QdbgyPndXlrboSooGmnPViDMMK9qKseS5iiUBq9AMeG
+82n1UyreF8MvD0RzhNLsqv05etiOaoigyn0pOxuM/s3s9/9mbw8HKHxfs5J0b3c725wK9DoBqWT/
+/AyMTMLapguO0P26r/i1RVzwXtlmui5cx05vlX8hDrPs4oGxbSze+Lj9EZkc3TFDdlQUGCc6OZP7
+qzH86mpTJQsIdL0U5vWiKM6QOaDUirCEACz5V2s46sLpHmlBMDDr9jdL0ikU9PEs3GtgsHsAVIr0
+M1/D1BDIGlaaskItdYnwr8UMyT5L0JzydWA0y2Sz/35fZ+vLa9E1w7xgzwy/iKkALUr0+fhhks4q
+NvFgCk3foDABrs98r1Uv4zxX6LS61RfSx+mZyb1TQHRWZFT9DAX8S/jIjAyN5d3mzWdqPbFJ8mc1
+ayQBBKQQIg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mj+b2X1wnZPC1apRQxzJ2jDyq3yMkDfIaW9MYy0yvtPaTx6iHGQqmnl+U0pEC5Pq8DGiNqgjvlN8
+dhLfRMRXosFg6haVpbH2HygqYd/jsOKVFUZCrpK7N7dpspqf3erE8RkynnfXpPCbHJPKXQlMlTmn
+x7vHYp1Y3+6cMlwIcz5wQ49RXvlrdSOGPH3krJXFwG6k1ZnaUWZZWymceW//UgvmEXJK6caYLqrC
+bFzZBzC/vKH1y47/117auZe+XFnpAa53g8RVSfwfLH0M/LrzE+AIM9Tqouho4WUmFXuvY2oQrhLx
+FeMkwcpdHRajXTTOq26iwjyEoHSPvaudGx0Viw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature482013-Object908230"><etsi:QualifyingProperties Target="#Signature482013"><etsi:SignedProperties Id="Signature482013-SignedProperties330656"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T23:11:51-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>wtCSIiSyjfbyIvxeOfkCLHaKLfo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>329583158760694283191074162489240559104</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-500752"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

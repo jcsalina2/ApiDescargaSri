@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601090505736000120010020000795530007955317</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T11:51:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>Cedeno Pincay Lilia Azucena</razonSocial>
+		<nombreComercial>Almacen Gallardo</nombreComercial>
+		<ruc>0905057360001</ruc>
+		<claveAcceso>1304202601090505736000120010020000795530007955317</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>002</ptoEmi>
+		<secuencial>000079553</secuencial>
+		<dirMatriz>Calle 18 De Febrero Y Roberto Schiess</dirMatriz>
+		<agenteRetencion>1</agenteRetencion>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>13/04/2026</fechaEmision>
+		<dirEstablecimiento>Calle 18 De Febrero Y Roberto Schiess</dirEstablecimiento>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>Nautidiving</razonSocialComprador>
+		<identificacionComprador>2090004460001</identificacionComprador>
+		<direccionComprador>Calle Malecon</direccionComprador>
+		<totalSinImpuestos>36.54</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<baseImponible>36.54</baseImponible>
+				<valor>5.48</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>42.02</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>42.02</total>
+				<plazo>1</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>TAGUA 1</codigoPrincipal>
+			<descripcion>Tubo Galvanizado Agua 1" Metro</descripcion>
+			<cantidad>6.0000</cantidad>
+			<precioUnitario>6.09000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>36.54</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15</tarifa>
+					<baseImponible>36.54</baseImponible>
+					<valor>5.48</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="referencia">Contado</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature98452">
+<ds:SignedInfo Id="Signature-SignedInfo597912">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID288866" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature98452-SignedProperties429828">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5AQIkxBcJCQxqSXw08VFMCRtH6g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1776997">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0qcxHlvdq0M+8NSIAZjKP7CfWjI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-692018" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>S+kTo2fvUaFbtS5oqVE0x8b60eo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue166062">
+Jv/ZItp0Zp1sno12azSgI++LhwvZLC3FsjIUgM65MQIMEPiYIaQ2K7bfsVJ9Nm8PAPzH3XUPzJKU
+WdQywe4idFAEriTT9rPjonwSl40afGKFKwnjp/3tmP7JEJiT4EM5U5bBFX4rTlp1cZGmaDZ3oLIi
++Co8ZgEs0vIg4XqlS3Sik5B7XVlshSPGHk5Z+VdYW62Pi12qnj15F1qkNDrS0g1VsUBEzleWGl0U
+8p3xG56wxEU7f+P/voElalFvpM28XCOO/DNM90xXQAhhknNXUp1f7AgZVgFX+a903NGun2HvjF0Z
+pIX4hFhK05qt7+5Tnkf07XCgE6jTRN+qn4Cr0w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1776997">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH8zCCBdugAwIBAgIIDsLCky8OsxIwDQYJKoZIhvcNAQELBQAwgbUxCzAJBgNVBAYTAkVDMREw
+DwYDVQQHDAhETSBRVUlUTzEhMB8GA1UECgwYQ09OU0VKTyBERSBMQSBKVURJQ0FUVVJBMUQwQgYD
+VQQLDDtTVUJESVJFQ0NJT04gTkFDSU9OQUwgREUgU0VHVVJJREFEIERFIExBIElORk9STUFDSU9O
+IEROVElDUzEqMCgGA1UEAwwhRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIElDRVJULUVDMB4XDTI0
+MDkyNTE1MzIwMFoXDTI2MDkyNTE1MzIwMFowejELMAkGA1UEBhMCRUMxFTATBgNVBAcTDFBVRVJU
+TyBBWU9SQTETMBEGA1UEBRMKMDkwNTA1NzM2MDE/MD0GA1UEAx42AEwASQBMAEkAQQAgAEEAWgBV
+AEMARQBOAEEAIABDAEUARABFANEATwAgAFAASQBOAEMAQQBZMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAh5rr+62jrp0OFrFWY0c1rHZCp4rbLjVQg25Gqh9I8EarVpaIEjz80OdSRwe2
+qosIgJaz2cZQTDxt8GVhGBY8RZUfbkSy+tu0aHfra2BSlTKQgkaaciUY9d04CC9tOE7MEA0PReoh
+sQGq+apPNEmCHZ4OEJ48P8EM0wNGR84PC++4VUQVxwSBWzRpzz6Ne9eFLBfGHq4am+zLDF4jQZSz
+niXPqXsrQLb6hJwcmY/oUxUxARS9mH9onVqpURu5xWHGiYBbXcgLWRlrJ4Y48Uog3OCukztnQP6Y
+7v17QXr+XIz9occUn+Ndh5b+s27iQcJJs9j+o0ajlwyL2totXatibwIDAQABo4IDPzCCAzswggHT
+BgNVHREEggHKMIIBxoEbYWxtYWNlbmdhbGxhcmRvQGhvdG1haWwuY29toBsGCysGAQQBgtVhAQMB
+oAwMCjA5MDUwNTczNjCgHgYLKwYBBAGC1WEBAwKgDwwNTElMSUEgQVpVQ0VOQaAYBgsrBgEEAYLV
+YQEDA6AJDAdDRURFw5FPoBcGCysGAQQBgtVhAQMEoAgMBlBJTkNBWaA1BgsrBgEEAYLVYQEDB6Am
+DCRBVi4gMTggRkVCUkVSTyAzODQgWSBST0JFUlRPIFNDSElFU1OgHgYLKwYBBAGC1WEBAwigDwwN
+KzU5Mzk5MzA1OTA3NaAdBgsrBgEEAYLVYQEDCaAODAxQVUVSVE8gQVlPUkGgHgYLKwYBBAGC1WEB
+AwugDwwNMDkwNTA1NzM2MDAwMaAYBgsrBgEEAYLVYQEDDKAJDAdFQ1VBRE9SoCAGCysGAQQBgtVh
+AQMyoBEMD1BFUlNPTkEgTkFUVVJBTKAgBgsrBgEEAYLVYQEDM6ARDA9BUkNISVZPIFBLQ1MjMTKg
+HgYLKwYBBAGC1WEBAzSgDwwNMDkwNTA1NzM2MDAwMaAjBgsrBgEEAYLVYQEDNaAUDBJRVUVIQUNF
+UiBET01FU1RJQ08wCQYDVR0TBAIwADAfBgNVHSMEGDAWgBQvInr4Xm2UjmpAFDfHbmty6TrCPzA4
+BggrBgEFBQcBAQQsMCowKAYIKwYBBQUHMAGGHGh0dHA6Ly9vY3NwLmljZXJ0LmZqZS5nb2IuZWMw
+cgYDVR0gBGswaTBnBg4rBgEEAYLVYQECAQECATBVMFMGCCsGAQUFBwIBFkdodHRwOi8vd3d3Lmlj
+ZXJ0LmZqZS5nb2IuZWMvZHBjL2RlY2xhcmFjaW9uX3ByYWN0aWNhc19jZXJ0aWZpY2FjaW9uLnBk
+ZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDov
+L3d3dy5pY2VydC5mamUuZ29iLmVjL2NybC9pY2VydC5jcmwwHQYDVR0OBBYEFO1l+xYKDN/QOfZ+
+qmkq5pxx0/vMMA4GA1UdDwEB/wQEAwIGwDANBgkqhkiG9w0BAQsFAAOCAgEAOpUA37pasqSqMrSm
+8++w0JeQTBzGHoYGhIuLZITRr5exHBvoqStmbq2ovtwtpkZwzRmmKpWOu9ZYtERC19YOr9QeCnR+
+1w1lijs0cBxefqSzYY7+2p4XPQdzop8hz8azhrWa39Fj+PY+r6q1BHsU8xeXqAWYFzzhZwS4PKGi
+dzqtU+RVx0Dt7EK9hsO3/zu0kIuzS6JgWCRCit3lL+HblHrWCqgsoheZQ9ofg9K3u4e042e431pz
++ZKu5YMP8Q48gs2zvV5pMC5GRmTs4Q45o9kb6f13zDmE7TrYeBN698K0YnZcdDK4YdiqKhjmfb4E
+vLtfqjkgSUXFyoCMEDrR4vqjd3ZgnEZVtG7ETJmrDTLJQHVtfOux2Cj85BGnqmadsruqyNvKXhr0
+turWqUx+1Mw5oshztFXzC5HH7VUgjgB9BwF5tz+yAP54tf2Z7iavYHMLfkZMiEfdOzZO1OWVuLUu
+DMrRjrBA3QlSzsGJCr/aZ/YvFhyhf4qunXi0ztl/rK9oQ5yoJnTsWw2UAlRZfFDg2OqUz/IJxU89
+4u9E58cq7MXfcvfZaBEifMN59EaiyRhGx9yqypLK83ZEPI8qdKNWLfgwepKO5yyqVJDBunasIoJ/
++CV2a7hh9/cbIJVBG3E7aGyILBcYPjM/e6Vudsl0hJ2F8S5AvShUEGWpdHM=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+h5rr+62jrp0OFrFWY0c1rHZCp4rbLjVQg25Gqh9I8EarVpaIEjz80OdSRwe2qosIgJaz2cZQTDxt
+8GVhGBY8RZUfbkSy+tu0aHfra2BSlTKQgkaaciUY9d04CC9tOE7MEA0PReohsQGq+apPNEmCHZ4O
+EJ48P8EM0wNGR84PC++4VUQVxwSBWzRpzz6Ne9eFLBfGHq4am+zLDF4jQZSzniXPqXsrQLb6hJwc
+mY/oUxUxARS9mH9onVqpURu5xWHGiYBbXcgLWRlrJ4Y48Uog3OCukztnQP6Y7v17QXr+XIz9occU
+n+Ndh5b+s27iQcJJs9j+o0ajlwyL2totXatibw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature98452-Object272501"><etsi:QualifyingProperties Target="#Signature98452"><etsi:SignedProperties Id="Signature98452-SignedProperties429828"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T10:51:38-06:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>7ygyTdYzMben71/o/eL/8H4dIAQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ENTIDAD DE CERTIFICACION ICERT-EC,OU=SUBDIRECCION NACIONAL DE SEGURIDAD DE LA INFORMACION DNTICS,O=CONSEJO DE LA JUDICATURA,L=DM QUITO,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1063626399418331922</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-692018"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

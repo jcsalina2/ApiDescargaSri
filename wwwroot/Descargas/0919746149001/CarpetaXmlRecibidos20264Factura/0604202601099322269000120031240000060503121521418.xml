@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601099322269000120031240000060503121521418</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T15:42:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version='1.0' encoding='UTF-8'?>
+<factura version="2.1.0" id="comprobante">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>FERROCENTER FERROCIMA S.A.</razonSocial>
+    <nombreComercial>FERROCENTER FERROCIMA S.A.</nombreComercial>
+    <ruc>0993222690001</ruc>
+    <claveAcceso>0604202601099322269000120031240000060503121521418</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>124</ptoEmi>
+    <secuencial>000006050</secuencial>
+    <dirMatriz>COOP LOS VERGELES, AUTOPISTA NARCISA DE JESUS SOLAR 1-2 Y SN</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>06/04/2026</fechaEmision>
+    <dirEstablecimiento>Ferrocenter Chongon</dirEstablecimiento>
+    <contribuyenteEspecial>00000011</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>RODRIGUEZ FLORES CHRISTIAN ALFREDO</razonSocialComprador>
+    <identificacionComprador>0919746149001</identificacionComprador>
+    <direccionComprador>Ciudad Celeste</direccionComprador>
+    <totalSinImpuestos>40.230000</totalSinImpuestos>
+    <totalDescuento>13.41</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>40.230000</baseImponible>
+        <tarifa>15.000000</tarifa>
+        <valor>6.03</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>46.26</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>46.26</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PLO01068</codigoPrincipal>
+      <descripcion>[PLO01068] LLAVE PASO FUSION NEW 20MM VASTAGO CROMADO M/METALICA VESBO</descripcion>
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>9.629361</precioUnitario>
+      <descuento>9.63</descuento>
+      <precioTotalSinImpuesto>28.89</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>28.890000</baseImponible>
+          <valor>4.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>FER00469</codigoPrincipal>
+      <descripcion>[FER00469] CAJA D/PASO C/TAPA PVC 20X20X08 CM</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>15.121521</precioUnitario>
+      <descuento>3.78</descuento>
+      <precioTotalSinImpuesto>11.34</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>11.340000</baseImponible>
+          <valor>1.70</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Referencia">Fact 003-124-000006050</campoAdicional>
+    <campoAdicional nombre="Vendedor">KATHYA MACOOL CORREA MITE</campoAdicional>
+    <campoAdicional nombre="E-mail">kcorrea@ferrocenter.com.ec</campoAdicional>
+    <campoAdicional nombre="Email Cliente">c.rodriguezf67@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature9799188f-7a5f-4933-a2f6-7adb7d09e918">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" Id="SignedPropertiesID582d7511-d853-4e24-b022-c80f4aded2b3" URI="#Signature9799188f-7a5f-4933-a2f6-7adb7d09e918-SignedPropertiesIDde6e4aad-5939-4a33-9a16-dc61eb902401">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kpJqvil7+qtqz+abDV1HiH+2yR4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificateff6cfbd0-d238-4657-8a59-6c875d41a009">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xlBCQ3lE/dalgg18ZC6uHo2ILME=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#comprobante" Id="Reference-ID-5b534abe-a23c-4228-84d9-4fed0f1ba732">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dKxWiVkwDBQOA50xCmCuTQd6+k4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>iQUZWTY1wCI8OQXL2uk4W066qvEe6A/n6bo1M6aFondaO360KYEeNBVnPW9LOf3kZHmBvN8W9xxH
+LHuT9ijRcepiVqefSECmc8QuUEMb4R0h+AgqyobaV/hFiYojbyne8MDArBe0gRwZswCUGhnQD1Zu
+Im4wkB2nFVwyRlCmJvkWXMJIWj/CvJKHBFeoME3X3GkU6wCfJ9ZPoGODnbhJPoxIIucnp/en8ThQ
+Ay4z5LltigCBtfnJ5c03uQqwTQB7/mTPy+aDoNo9EtqZhNWPdZ4tCkpqyPVVgSJwsMz3qcjYWe1K
+0A9h8FvGh60ZXZkSCll1+u4GMrcTrfb9AISzYA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificateff6cfbd0-d238-4657-8a59-6c875d41a009">
+<ds:X509Data>
+<ds:X509Certificate>MIIMJTCCCg2gAwIBAgIEZOCgVjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA4MTYyMDI2MDZaFw0yOTA4MTYyMDI2MDZaMIGrMSkw
+JwYDVQQDDCBLQVRIRVJJTkUgTklDSE9MRSBTQU5ET1ZBTCBMT1BFWjEgMB4GA1UEBRMXMDkzMTE3
+NTgxNC0xNjA4MjQxNTM1NTYxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1VKMd1Vc8vA6eYxdIRw7FmeY+mU/gAsXFimz
+nKjgORcQ7aWD0gm8gUmD7926+936Z9gAuEUTatfh993pMmmVkgOtN8iR+sUHUX5qXyj3GID01vLL
+3bljl44nesqACzBCvqSsQne+YkDDjcDz+kKGlEi4Kn8WZT3CTcDY+XGDzZj+isghDjhkQly1EtmN
+0wKuLBLmZrYinjCZY0TAhyNiL2D5QgVjUe2NW0rNvaWwEJ2HZiMnYU9d+4vCgkXJH4VxSo5O87y9
+sbxzO9A2yzaVzehmTu5es330vlFNLyfeNyOQTngQbj3v0qAD+/i7UvPE91cGDAZo5XImQxLJlna7
+TQIDAQABo4IHXzCCB1swDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42u
+Yt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCB
+vqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0
+YVJldm9jYXRpb25MaXN0P2Jhc2UwJAYDVR0RBB0wG4EZa3NhbmRvdmFsQGltcG9ybWVsLmNvbS5l
+YzCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIA
+dABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBn
+AGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0
+eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZp
+Y2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIIC
+ogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBT
+LkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRh
+dGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkg
+REFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklU
+WSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB
+2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQW
+BBQ0JvHp42vHBiWwsJpUO1KaenjlKjArBgNVHRAEJDAigA8yMDI0MDgxNjIwMjYwNlqBDzIwMjkw
+ODE2MjAyNjA2WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUww
+GgYKKwYBBAGCpnIDAQQMDAowOTMxMTc1ODE0MBkGCisGAQQBgqZyAwkECwwJUEFTQ1VBTEVTMBEG
+CisGAQQBgqZyAyIEAwwBLjA5BgorBgEEAYKmcgMHBCsMKUFVVE9QSVNUQSBOQVJDSVNBIERFIEpF
+U1VTIFNPTEFSIDEgMiBZIFNOMCEGCisGAQQBgqZyAwIEEwwRS0FUSEVSSU5FIE5JQ0hPTEUwHwYK
+KwYBBAGCpnIDIAQRDA8wMDEwMDIwMDA2MzA1NjgwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYB
+BAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwIU0FORE9WQUwwKAYKKwYBBAGCpnID
+CgQaDBhJTVBPUlRBRE9SQSBJTVBPUk1FTCBTIEEwHQYKKwYBBAGCpnIDCwQPDA0wOTkzMjIyNjkw
+MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAVBgorBgEEAYKmcgMEBAcMBUxPUEVaMBoGCisGAQQBgqZy
+AwgEDAwKMDk5NTczOTk0NTANBgkqhkiG9w0BAQsFAAOCAgEAh/Cufqmni1UxlnSrKxRsYvonYI/V
+DIQBjQJfuBCaeeeLS6jntIHGad3+txON5yDQ6dRQ0xDg9/Bb3UIUhik6bYcVdN/Pr08dblOituuf
+BFZfocaTvi4ZxW53fvAPPq60D3CJY+ga2CUAPJs5xC2qHXKAkiXVdaqxbQ2iz0mTa6VV9qhnmATK
+okS4sj/4Ub1B9xA8w9+DvREgXKIIr5XSKt2F/+0Wmxk07ekL3Fe9aW/C/j/Qht8wsI2k8trAXKGt
+wrYxjMEnibHWI33VzrasiES8WHiuwcrHdGP5LMZK7gaVaLhe2bGV6FCWXcReAz5tDN13MLa81pXT
+cWM/x/eMRenNzOHHQfvcNP3d0/pgj/rrdrELa7FcMesEiVl0vAwHmYsQvOnjAfSFnM0ebCNQaFRT
+yJ2qt38OfcaGzob/ZNqDJlirOISRXsJNLPIWa5tVPCiDxva+F11MqdDJPnoJwzAXdK336CB/cQI5
+t6PZB/QrXiW5i4mxqPwuLuVcHLSbZWwv8hnxWFvk51qThEAOBeWP+bKXOP5F0zw2McULPd8z4rwX
+rwYbOaRhOTEHlNWNDKpIY2oogaTql3cHCZL4A8xMcQCNXwN44aAGkr6UwWxQw/eI6QN9Z3cWGZpU
+yQa5piFcamWSntw0PGXb58Qvgr4kNX5EkgHxuPI6UCpnFgQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>1VKMd1Vc8vA6eYxdIRw7FmeY+mU/gAsXFimznKjgORcQ7aWD0gm8gUmD7926+936Z9gAuEUTatfh
+993pMmmVkgOtN8iR+sUHUX5qXyj3GID01vLL3bljl44nesqACzBCvqSsQne+YkDDjcDz+kKGlEi4
+Kn8WZT3CTcDY+XGDzZj+isghDjhkQly1EtmN0wKuLBLmZrYinjCZY0TAhyNiL2D5QgVjUe2NW0rN
+vaWwEJ2HZiMnYU9d+4vCgkXJH4VxSo5O87y9sbxzO9A2yzaVzehmTu5es330vlFNLyfeNyOQTngQ
+bj3v0qAD+/i7UvPE91cGDAZo5XImQxLJlna7TQ==
+</ds:Modulus>
+<ds:Exponent>AQAB
+</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature9799188f-7a5f-4933-a2f6-7adb7d09e918" Id="Signature9799188f-7a5f-4933-a2f6-7adb7d09e918"><etsi:SignedProperties Id="Signature9799188f-7a5f-4933-a2f6-7adb7d09e918-SignedPropertiesIDde6e4aad-5939-4a33-9a16-dc61eb902401"><etsi:SignedSignatureProperties><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>k8i4Wo2hw2yqFNjQ5jgPyLR34Ek=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1692442710</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-5b534abe-a23c-4228-84d9-4fed0f1ba732"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

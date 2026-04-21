@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601179116691400120051220013569000000000118</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T19:42:41-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PETROLEOS DE LOS RIOS PETROLRIOS C.A.</razonSocial><nombreComercial>PETROLEOS DE LOS RIOS PETROLRIOS C.A.</nombreComercial><ruc>1791166914001</ruc><claveAcceso>1704202601179116691400120051220013569000000000118</claveAcceso><codDoc>01</codDoc><estab>005</estab><ptoEmi>122</ptoEmi><secuencial>001356900</secuencial><dirMatriz>Km 1 Av de Los Colonos 72 y Colorados</dirMatriz></infoTributaria><infoFactura><fechaEmision>17/04/2026</fechaEmision><dirEstablecimiento>Av. 7 de octubre s/n y Av. Walter Andrad</dirEstablecimiento><contribuyenteEspecial>0155</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>VALDEZ COELLO ROSALBA KATHERINE</razonSocialComprador><identificacionComprador>1719205591</identificacionComprador><totalSinImpuestos>13.04</totalSinImpuestos><totalSubsidio>0.25</totalSubsidio><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>13.04</baseImponible><valor>1.96</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>15.00</importeTotal><moneda>DOLAR</moneda><placa>GSI7139</placa><pagos><pago><formaPago>01</formaPago><total>15.00</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>0101      </codigoPrincipal><codigoAuxiliar>0101      </codigoAuxiliar><descripcion>EXTRA</descripcion><cantidad>4.960</cantidad><precioUnitario>2.629565</precioUnitario><precioSinSubsidio>2.679700</precioSinSubsidio><descuento>0.00</descuento><precioTotalSinImpuesto>13.04</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>13.04</baseImponible><valor>1.96</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Vendedor">DD0000021</campoAdicional><campoAdicional nombre="Detalle">Surti:04-B MANG:03</campoAdicional><campoAdicional nombre="Sodinfo">Facturacion Electronica</campoAdicional><campoAdicional nombre="SODINFO">FACTURACION ELECTRONICA</campoAdicional></infoAdicional><ds:Signature Id="Signature423804" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo437416">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID995705" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature423804-SignedProperties159839">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>tPCBB0QjHqBqvb1uY5ruN33AwJA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1362041">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kCEKSXT/tchfZ80nY+1Lkwsd23w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-238019" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uaXVwaM9SDrTkK4AhnDoXHIXhbM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue453726">
+Q7UWrxLlWw0eYOaE+TjNsDFLEeW4SA0A8jx2tNd4sPs9HtperNcIUK7pnxxZ1wNw//pkGzcFPYyq
+HTV75+FopLsIemoMQv8TM4jyMEKtU8Cerp9cIlMRMT0889DWcQzddAsKlfgNsjRbwOBDFID0oRwI
+QrdDU5WmiQmNQLrpCNz1/pxa0dh84/vbvlrV551P21dTiSa0Q/0TwFXLguLHl4pDLRafaEvdcGrJ
+ZYE+7lPXYaOMwryV/30FmJ9AT2LEJWQ7vBf77wsVZDQSYIecCyqWr4wOT3t1sCuYgQ57gz1OuvCK
+zNGRFccLT/nc2D8l0qVJEQvD9LAHtmyHWOZuEQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1362041">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILtTCCCZ2gAwIBAgIMAzdEQDCQUHAkdwk7MA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjMwOTA2MDkzMTI5WhcNMjYwOTA1MDkzMTI5WjCCAc8xOzA5BgNVBAoMMlBFVFJPTEVP
+UyBERSBMT1MgUklPUyBQRVRST0xSSU9TIENPTVBBw5FJQSBBTk9OSU1BMRowGAYKKwYBBAGCpEIK
+BAwKMTcwNzU0Mjk0ODEwMC4GA1UECwwnQ2VydGlmaWNhZG8gUGVyc29uYSBKdXJpZGljYSBFQyAo
+RklSTUEpMRgwFgYDVQQqDA9WSVZJQU5BIFZBTkVTU0ExFjAUBgNVBGETDTE3OTExNjY5MTQwMDEx
+CzAJBgNVBAYTAkVDMRMwEQYDVQQFEwoxNzA3NTQyOTQ4MRYwFAYDVQQEDA1QQVJFREVTIFJBTU9T
+MTEwLwYDVQQDDCgxNzA3NTQyOTQ4IFZJVklBTkEgVkFORVNTQSBQQVJFREVTIFJBTU9TMRgwFgYD
+VQQMDA9HRVJFTlRFIEdFTkVSQUwxJjAkBgkqhkiG9w0BCQEWF3ZwYXJlZGVzQHBldHJvbHJpb3Mu
+Y29tMTEwLwYDVQQNDChDZXJ0aWZpY2FkbyBkZSBQZXJzb25hIEp1csOtZGljYSAzIGHDsW9zMRYw
+FAYDVQQIDA1TQU5UTyBET01JTkdPMRYwFAYDVQQHDA1TQU5UTyBET01JTkdPMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4lvKziJw7EL2U1r35jlmf9cRVVkMQazfC2gYrg3UL4xTYjK2
+fNSu52LwEBHR22J3fg1TTHSm54kBt80oo+Oxelowh3MKbZsGydzFjuIsk/6b+/TR4zt14Gh/es/o
+5J7HUOZtWhzKK17lV2EHfX5u372CpGKOQLz1jKXRrlvti7spYZMc4IPTGQMMpjQHypTaNxN5agrY
+qkG6x0AnDIXGdKP2ISqdiipProLhVRcI5zhufsVkVfQ4+b9BtYMayc4v2JK72DxRTsfr+yVryZUz
+YmypH1+BiKNYlAyqjl3kaPFeChzhmXORP1VBUV1B/W+c131Q8K0GHTHn1dlbZu4cAwIDAQABo4IF
+ojCCBZ4wHwYDVR0jBBgwFoAUkq7Uy4K0mcbRexFsZerFTWgh+awwHQYDVR0OBBYEFK7PPBf4m7dt
+fahBjqckkWrpCDBNMIH6BgNVHREEgfIwge+BF3ZwYXJlZGVzQHBldHJvbHJpb3MuY29tpIHTMIHQ
+MR8wHQYKKwYBBAGCpEIKAQwPVklWSUFOQSBWQU5FU1NBMRcwFQYKKwYBBAGCpEIKAgwHUEFSRURF
+UzEVMBMGCisGAQQBgqRCCgMMBVJBTU9TMRowGAYKKwYBBAGCpEIKBAwKMTcwNzU0Mjk0ODEZMBcG
+CSsGAQQBg71uAQwKQS0wNTA5MjAyMzExMC8GA1UEAwwoMTcwNzU0Mjk0OCBWSVZJQU5BIFZBTkVT
+U0EgUEFSRURFUyBSQU1PUzETMBEGA1UEBQwKMTcwNzU0Mjk0ODAOBgNVHQ8BAf8EBAMCBsAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMFAGA1UdHwRJMEcwRaBDoEGGP2h0dHA6Ly9jcmwu
+YW5mLmVzL2NybC9BTkZIaWdoQXNzdXJhbmNlRWN1YWRvckludGVybWVkaWF0ZUNBLmNybDCCAQMG
+A1UdIASB+zCB+DCB3wYMKwYBBAGCpEICBQEDMIHOMCgGCCsGAQUFBwIBFhxodHRwOi8vd3d3LmFu
+Zi5lcy9kb2N1bWVudG9zMIGhBggrBgEFBQcCAjCBlAyBkUNlcnRpZmljYWRvIGNvbmZvcm1lIGEg
+bGEgbGVnaXNsYWNpw7NuIGRlIGZpcm1hIGVsZWN0csOzbmljYS4gQW50ZXMgZGUgYWNlcHRhcmxv
+IGNvbXBydWViZSBpbnRlZ3JpZGFkLCBsaW1pdGFjaW9uZXMsIHZpZ2VuY2lhIHkgdXNvcyBhdXRv
+cml6YWRvcy4wCQYHBACL7EABATAJBgdghVQBAwUIMIGbBggrBgEFBQcBAQSBjjCBizAnBggrBgEF
+BQcwAYYbaHR0cDovL29jc3AuYW5mLmVzL3NwYWluL0FWMGAGCCsGAQUFBzAChlRodHRwOi8vd3d3
+LmFuZi5lcy9lcy9jZXJ0aWZpY2F0ZXMtZG93bmxvYWQvQU5GSGlnaEFzc3VyYW5jZUVjdWFkb3JJ
+bnRlcm1lZGlhdGVDQS5jZXIwDAYDVR0TAQH/BAIwADAoBgkrBgEEAYGPHBMEGwwZNTg2NzI2ODEz
+NTIzLTU0NTA2MjA4NDQ2NTAVBgorBgEEAYGPHBMCBAcMBTM3NDQyMCkGCisGAQQBgqRCEwEEGwwZ
+NTQ1MDYyMDg0NDY1LTU0MTkyODQ3MzMyODAaBgorBgEEAYKkQgMBBAwMCjE3MDc1NDI5NDgwQgYK
+KwYBBAGCpEIDCgQ0DDJQRVRST0xFT1MgREUgTE9TIFJJT1MgUEVUUk9MUklPUyBDT01QQcORSUEg
+QU5PTklNQTAdBgorBgEEAYKkQgMLBA8MDTE3OTExNjY5MTQwMDEwEgYKKwYBBAGCpEIDDAQEDAJF
+QzAfBgorBgEEAYKkQgMCBBEMD1ZJVklBTkEgVkFORVNTQTAdBgorBgEEAYKkQgMDBA8MDVBBUkVE
+RVMgUkFNT1MwHwYKKwYBBAGCpEIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwHQYKKwYBBAGCpEIDCQQP
+DA1TQU5UTyBET01JTkdPMBQGCisGAQQBgqRCLgEEBgwEMTA5NTBQBgorBgEEAYKkQi8BBEIMQDRk
+YTQzZDI2OTgwNzYzM2QwNjRkNGVmMDBjN2EwZDM3ZDUzNTFhY2YyNDkxYTY5OGFmMTdiM2NjODIz
+MzZkYTgwRAYIKwYBBQUHAQMEODA2MAgGBgQAjkYBATATBgYEAI5GAQYwCQYHBACORgEGATAJBgcE
+AIvsSQEBMAoGCCsGAQUFBwsCMA0GCSqGSIb3DQEBCwUAA4ICAQBjwtF7tucLdUo/bTYisaOFZod+
+Do//UDe6CRQmM4HUlmQFlKVWLSwJEoOGciLKYNSa85dFuSbdZlvOnCsTIDpZrlk6bAnauz4/x+l7
+TUniIalWm0pgxYjhWIAU27Llzjf1jzp5TS1AszVqYana8lBUSKKiPzaszg8yqf5sX76rcxP1tGae
+PfTVpGxmt2zGqhQH5DXZuKHn8pu4J7weI5gu38R029Tiz/dLSsqeRDsvTciqUY0/Z0oRUw6qmQFd
+rSBTeyyZsi0RGohRinuVFKpcBspODVtsUhT4y8iIdch6MNb+WONYRjC8kNBDFF1NbROmBZfqCbF5
+zqERIEsKTwRR5ZE1Nd6WH1wlZu32HNh8nuVxLeXPeZAuzqNuJAa3cMTiZg0lmOSyekrMbMqWWC0A
+18hPGDPeR2rYzGBZ8mTL7oSORE6KhqkHhuWBv0ZlCI+kY0N20ojKtIPEUxHhQF8g1eCj1UHQIPJM
+fA7Mk0PPsqGQsoVmHyCse+HsnbXQpKUEiB6J7CqZ7GQZrOJnnCZsZQQx7zvyNktEmLohVTbhZW44
+b3CMou16sRwZCQM10MduWypT+r2EYpCtNZ9MWR16X7sPIhpMKv4/edq/nWTBBBI5bGltsZ/ZUGI9
+QqRz6UqvcUofsLmbqU0y5kQMDo0/y8tAkxdOXdJBz//yvFfyng==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4lvKziJw7EL2U1r35jlmf9cRVVkMQazfC2gYrg3UL4xTYjK2fNSu52LwEBHR22J3fg1TTHSm54kB
+t80oo+Oxelowh3MKbZsGydzFjuIsk/6b+/TR4zt14Gh/es/o5J7HUOZtWhzKK17lV2EHfX5u372C
+pGKOQLz1jKXRrlvti7spYZMc4IPTGQMMpjQHypTaNxN5agrYqkG6x0AnDIXGdKP2ISqdiipProLh
+VRcI5zhufsVkVfQ4+b9BtYMayc4v2JK72DxRTsfr+yVryZUzYmypH1+BiKNYlAyqjl3kaPFeChzh
+mXORP1VBUV1B/W+c131Q8K0GHTHn1dlbZu4cAw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature423804-Object946752"><etsi:QualifyingProperties Target="#Signature423804"><etsi:SignedProperties Id="Signature423804-SignedProperties159839"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T19:41:32-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>haXZ9t38oB1vo2GAUQ+8W8u8iH4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>995268254554681017114233147</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-238019"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1004202601092163881300120012020000373190009213613</numeroAutorizacion>
+<fechaAutorizacion>2026-04-10T09:19:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>LITUMA RAMIREZ RUTH ELSA</razonSocial>
+	    <nombreComercial>FERRETERÍA LITUMA</nombreComercial>
+	    <ruc>0921638813001</ruc>
+	    <claveAcceso>1004202601092163881300120012020000373190009213613</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>202</ptoEmi>
+	    <secuencial>000037319</secuencial>
+	    <dirMatriz>NARANJITO / GUAYAQUIL S/N Y 10 DE AGOSTO</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>10/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>NARANJITO / GUAYAQUIL S/N Y 10 DE AGOSTO</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>TRANSPODESA</razonSocialComprador>
+	    <identificacionComprador>0992838094001</identificacionComprador>
+		<direccionComprador>SAN EDUARDO MZ 251 SOLAR 24</direccionComprador>
+	    
+	    <totalSinImpuestos>139.48000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>139.48</baseImponible>
+				<valor>20.92000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>160.40000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>01</formaPago>
+	    		<total>160.40</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>00012172</codigoPrincipal>
+		<codigoAuxiliar>00012172</codigoAuxiliar>
+      	<descripcion>ANGULO PERIMETRAL GYPSUM 3.05 MT</descripcion>
+      
+      <cantidad>30.000000</cantidad>
+      <precioUnitario>0.695650</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>20.87</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>20.87000</baseImponible>
+          <valor>3.13</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>00001209</codigoPrincipal>
+		<codigoAuxiliar>00001209</codigoAuxiliar>
+      	<descripcion>CAJA TORNILLO 1/2X8 GYPSUM P/BROCA MIL</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>6.695650</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.39</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>13.39000</baseImponible>
+          <valor>2.01</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>12231-CAJA MIL</codigoPrincipal>
+		<codigoAuxiliar>12231-CAJA MIL</codigoAuxiliar>
+      	<descripcion>CAJA TORNILLO GYPSUM 6X1 H.F  (MIL UNIDADES)</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>7.391300</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>14.78</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>14.78000</baseImponible>
+          <valor>2.22</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>D91018665</codigoPrincipal>
+		<codigoAuxiliar>D91018665</codigoAuxiliar>
+      	<descripcion>OMEGA GYPSUM 0.40MM  3.66 MT</descripcion>
+      
+      <cantidad>20.000000</cantidad>
+      <precioUnitario>1.739130</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>34.78</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>34.78000</baseImponible>
+          <valor>5.22</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>20092021</codigoPrincipal>
+		<codigoAuxiliar>20092021</codigoAuxiliar>
+      	<descripcion>STUD - CORREA 1 5/8 - PERFORADO 40X32X2.44X 0.40MM GYPSUM</descripcion>
+      
+      <cantidad>20.000000</cantidad>
+      <precioUnitario>1.478260</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>29.57</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>29.57000</baseImponible>
+          <valor>4.44</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>19092021</codigoPrincipal>
+		<codigoAuxiliar>19092021</codigoAuxiliar>
+      	<descripcion>TRACK 1 5/8 (CANAL) 41X23X2.44X0.40MM  GYPSUM</descripcion>
+      
+      <cantidad>20.000000</cantidad>
+      <precioUnitario>1.304340</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>26.09</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>26.09000</baseImponible>
+          <valor>3.91</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature699977">
+<ds:SignedInfo Id="Signature-SignedInfo281764">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID739565" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature699977-SignedProperties812524">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pTC+loOABMNlmJqB+QoppLm8M/o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate761328">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>MzGb+HmbCM4c9mh8OeFrjPuMdBU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-237002" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>fPrIBWBcE6ZUIVQX64tNCE37pyY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue358444">
+e5OxEpKO39uOPxFjHKsYiHM0Hksdqvt1GoeO7yO35Cv6r1YLyX1PETBWD+sVSnGpZqpxyfeiFMwy
+619DHRDc7ZT3cQydf7FvWf1zEG7i5CMk4KdtK3mRN2eqP7rgLcZHagXVajjjb40URg1REBeM4RK4
+Cs2GH3ycPAp7wfcBpXxQJL/5CAT2KEbALlQY0d2OlS8IaSRgOgtkyF/cJY5U7rpsXH/wklYvWZEV
+9ryiHspv/TnsohCh+4IantrajhJQwPvmF1J+1XVW2pOfCW9HllIhp9qjtDkn1uexBHOicc0iw0zi
+0Rotgub1nepUApv9oxV8BzN0QxRN5EE5cqAiUQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate761328">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHwDCCBaigAwIBAgIRANZ45IreuWOY1/qfZPvLr8IwDQYJKoZIhvcNAQELBQAwgbUxCzAJBgNV
+BAYTAkVDMRgwFgYDVQQKDA9EYXRpbG1lZGlhIFMuQS4xMDAuBgNVBAsMJ0VudGlkYWQgZGUgY2Vy
+dGlmaWNhY2lvbiBkZSBpbmZvcm1hY2lvbjEPMA0GA1UECAwGR3VheWFzMTUwMwYDVQQDDCxEYXRp
+bCBBdXRvcmlkYWQgZGUgQ2VydGlmaWNhY2lvbiBTdWJvcmRpbmFkYTESMBAGA1UEBwwJR3VheWFx
+dWlsMB4XDTIzMTIxMzE1MjMzN1oXDTI2MTIxMjE2MjMzN1owgYkxITAfBgNVBAMMGFJ1dGggRWxz
+YSBMaXR1bWEgUmFtaXJlejEmMCQGCSqGSIb3DQEJARYXcnV0aF9saXR1bWFAaG90bWFpbC5jb20x
+DjAMBgNVBAoMBURhdGlsMR8wHQYDVQQLDBZDZXJ0aWZpY2Fkb3MgRGlnaXRhbGVzMQswCQYDVQQG
+EwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK4ZAtqkD09dx7Dzaon51f4VAWmT
+5pQjIv03JtuBYHe6BP+YRMYjhTsVZuzD4QhO/4hr2IZ9HyYu9iN+H3HYRz/AiNQfs4zh6P9uK+uU
+q8IVD5DSs8kS9ddIsb9bXDwLDycgYAvEgwtKqlgZ7r+Ms/5OiEX/SX1/9OoD5QXxgUO5hamjmllh
+1PAdT1DdjeR4aOBQnTTucx0LFjkQLlr+LIjhsYcXFir6DjiTjKUEM/9AHqnz/1NqE807WQWb4tAr
+5oECK+kJVLGm8BuMqTZV4Hr+EOobwV5pOmumq5s6kjBUt7Cqof7FfcuIrastIv+CI9qovVJR4436
+ctqqPUXCeWkCAwEAAaOCAvMwggLvMCIGA1UdEQQbMBmBF3J1dGhfbGl0dW1hQGhvdG1haWwuY29t
+MAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAU5Wb5snh2G2r0z8t4UMUFHzqd4HcwHQYDVR0OBBYEFIKp
+GbeXh25J6u0yC/K0XR9CZWQPMIGiBgNVHSAEgZowgZcwgZQGCysGAQQBg5sjAgUBMIGEMIGBBggr
+BgEFBQcCARZ1aHR0cHM6Ly9kYXRpbC1vcy1wdWJsaWMuczMudXMtd2VzdC0yLmFtYXpvbmF3cy5j
+b20vOThlMjFkYmQtYjZlYy00ZTgzLWI5ZTktZDRhZTEyYjRkOTY3L0RhdGlsX0NQU19QZXJzb25h
+X05hdHVyYWwucGRmMG8GA1UdHwRoMGYwZKBioGCGXmh0dHA6Ly9kYXRpbC1zdWJjYS1jcmwuczMu
+dXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vY3JsL2EwNzg4ZWUwLTc4YmItNDA2Yi1iMzhhLTMyZTM2
+YWE0ZGJkYi5jcmwwRwYIKwYBBQUHAQEEOzA5MDcGCCsGAQUFBzABhitodHRwOi8vb2NzcC5hY20t
+cGNhLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tMA4GA1UdDwEB/wQEAwIGwDAdBgorBgEEAYObIwML
+BA8MDTA5MjE2Mzg4MTMwMDEwGgYKKwYBBAGDmyMDAQQMDAowOTIxNjM4ODEzMBkGCisGAQQBg5sj
+AwIECwwJUnV0aCBFbHNhMBYGCisGAQQBg5sjAwMECAwGTGl0dW1hMBcGCisGAQQBg5sjAwQECQwH
+UmFtaXJlejAbBgorBgEEAYObIwMHBA0MC0d1YXlhcXVpbCBTMBkGCisGAQQBg5sjAwgECwwJMDk5
+OTk5OTk5MBkGCisGAQQBg5sjAwkECwwJTmFyYW5qaXRvMBIGCisGAQQBg5sjAwwEBAwCRUMwIQYK
+KwYBBAGDmyMDIAQTDBEwMDEtMDAyLTAwMDAzMDgwMzANBgkqhkiG9w0BAQsFAAOCAgEA6r4rOeLt
+s1uvZSeQfLegD3622QtU1lcvihHtKM120d9aGyKvkDpsjI2/WyuqD62HBmOLyDzDEGc/Ih8Rdfd4
+xu3aisniH4XRvyW0k4FPHvlpGNdlQypWChN34YkeTPJb8r3BF8Ql9WcAu51R9KgoJUmfVg6nCoYO
+Gc5e+9C6sxJaz0e47ikA/644IJQ5duUjP57gRq855ewxDZ8jOZY1IFK4sb5Q1dCHarT3pcj/9Lpl
+y4+Rxb5ybtfrAr0pY5NIkOTAN3Cj92mEoTIO20Qm41RU1rRVSFMtErIKQqxdL1XEYjhoZWV8B5HT
+C41Ee4l2faSpEczM8l8JWV00gycxHmwhDbmOFVk6dRwpbzrkattRnZJ/ekAqb2z/gqUrwtoQtQQ0
+3Kni6ubfYC89CYBlOg7ljFJsxYuSN0GFrU6+Y/d0wbyZwOfnOLHTrL3BiJCGYPpUXWMdxxStXEnd
+D2kNs+KgDGVdzTSv4axWykJM7WEafk0p+Lh2I3BxhzDoNNrlQFEjrnIL/7MwB3GDl9Kb3ns2ju7r
+B/d3xCRmmwS+APFItZzHHv0bIsiu2D/mxSrQ7D4juehPNV0BrtCf/StdJ8RRdEeDR6b+f39+JaKT
+CD7ZOTPLieNT4HgbcseBUY8ORL2zXfkImo03krrJVTmZ27qJ4ACswJ80hBxoRe3jhh4=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rhkC2qQPT13HsPNqifnV/hUBaZPmlCMi/Tcm24Fgd7oE/5hExiOFOxVm7MPhCE7/iGvYhn0fJi72
+I34fcdhHP8CI1B+zjOHo/24r65SrwhUPkNKzyRL110ixv1tcPAsPJyBgC8SDC0qqWBnuv4yz/k6I
+Rf9JfX/06gPlBfGBQ7mFqaOaWWHU8B1PUN2N5Hho4FCdNO5zHQsWORAuWv4siOGxhxcWKvoOOJOM
+pQQz/0AeqfP/U2oTzTtZBZvi0CvmgQIr6QlUsabwG4ypNlXgev4Q6hvBXmk6a6armzqSMFS3sKqh
+/sV9y4itqy0i/4Ij2qi9UlHjjfpy2qo9RcJ5aQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature699977-Object34505"><etsi:QualifyingProperties Target="#Signature699977"><etsi:SignedProperties Id="Signature699977-SignedProperties812524"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-10T09:18:44-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>UMw4JDzu+pD05plmkMTCk5hU+8Q=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Datil Autoridad de Certificacion Subordinada,C=EC,L=Guayaquil,ST=Guayas,O=Datilmedia S.A.,OU=Entidad de certificacion de informacion</ds:X509IssuerName><ds:X509SerialNumber>285082502112802029456890760013210693570</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

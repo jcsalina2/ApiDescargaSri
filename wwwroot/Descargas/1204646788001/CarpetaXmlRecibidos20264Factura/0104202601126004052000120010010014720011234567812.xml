@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601126004052000120010010014720011234567812</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T01:34:45-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>EMPRESA PUBLICA MUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO CANTON QUEVEDO</razonSocial>
+        <nombreComercial>EPMAPAQ</nombreComercial>
+        <ruc>1260040520001</ruc>
+        <claveAcceso>0104202601126004052000120010010014720011234567812</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>001472001</secuencial>
+        <dirMatriz>AV. QUITO S/N</dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>01/04/2026</fechaEmision>
+        <dirEstablecimiento>AV. QUITO S/N</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>JIMENEZ ANDRADE ADOLFO BENITO</razonSocialComprador>
+        <identificacionComprador>1204646788</identificacionComprador>
+        <direccionComprador>CALLE ABDON CALDERON (E) CALLE ISAAC MONTES Y CALLE OCTAVA</direccionComprador>
+        <totalSinImpuestos>5.300000</totalSinImpuestos>
+        <totalDescuento>0.000000</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>5.300000</baseImponible>
+                <valor>0.000000</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <importeTotal>5.300000</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>5.30</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>5</codigoPrincipal>
+            <codigoAuxiliar>5</codigoAuxiliar>
+            <descripcion>COSTO VARIABLE (AA.PP.)</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>3.000000</precioUnitario>
+            <descuento>0.000000</descuento>
+            <precioTotalSinImpuesto>3.000000</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.000000</tarifa>
+                    <baseImponible>3.000000</baseImponible>
+                    <valor>0.000000</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>4</codigoPrincipal>
+            <codigoAuxiliar>4</codigoAuxiliar>
+            <descripcion>ALCANTARILLADO</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>0.300000</precioUnitario>
+            <descuento>0.000000</descuento>
+            <precioTotalSinImpuesto>0.300000</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.000000</tarifa>
+                    <baseImponible>0.300000</baseImponible>
+                    <valor>0.000000</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>6</codigoPrincipal>
+            <codigoAuxiliar>6</codigoAuxiliar>
+            <descripcion>COSTO FIJO (SERV. ADM).</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>2.000000</precioUnitario>
+            <descuento>0.000000</descuento>
+            <precioTotalSinImpuesto>2.000000</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.000000</tarifa>
+                    <baseImponible>2.000000</baseImponible>
+                    <valor>0.000000</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="PERIODO:">03-2026</campoAdicional>
+        <campoAdicional nombre="Id.Suministro:">33883</campoAdicional>
+        <campoAdicional nombre="Geocodigo:">06-01-03--00030-00-00</campoAdicional>
+        <campoAdicional nombre="Nro.Cuenta/Clave:">020105801600/00033883</campoAdicional>
+        <campoAdicional nombre="DIRECCION:">CALLE ABDON CALDERON (E) CALLE ISAAC MONTES Y CALLE OCTAVA</campoAdicional>
+        <campoAdicional nombre="TARIFA:">01. Residencial</campoAdicional>
+        <campoAdicional nombre="Nro. Emision:">4153934</campoAdicional>
+        <campoAdicional nombre="Consumo:">L.Anterior: ( 0 ) L. Actual : ( 0 ) Consumo : ( 0) m3</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature159508">
+<ds:SignedInfo Id="Signature-SignedInfo951739">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID505419" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature159508-SignedProperties572364">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>1kTubXBjr86u9t+h+sIx5iq5ONQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1177112">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>++gQtI6Y4cvjLLz5T/f3sDl34cQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-335148" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>N95WP/kGpcM9+Y6AcO6ZCm9AW8E=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1031527">
+GARTCajGEf2ukyWXOcoYKqlQFzt/zhcVAb7xPBy2jCp++dXmRH29IhIxwVAhc0XEmxC1WJPC57w1
+Kvffjg4D50B015V4m9bwHndKSuYYv3jMlqpEjJ0Myx5nRjCGcHcySIq2paAR+BkbKjH7KohDG8Rt
+qD3g1VPZTT7/5fxZVwko6LIIX9jzUE5Bu/zRhd5EWljBQD+nE5OQCx7JPplW4z+aq72VoLDU4ADG
+3fmJuJ7AOos6zeMx+gIA8XC6kfqGL/CyojkCmy/qsrvpOW7vuWiUOCAqzYApeOIdHH9mxquLPltM
+vn3Td/YQ9yDaomvocnnVMOhl8+/cBwZ2q6Z3Tg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1177112">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKVDCCCDygAwIBAgIEZeatJDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI1MDcxMDE2MjMwNVoXDTI3MDcxMDE2NTMw
+NVowgbExCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE1MBEGA1UEBRMKMDIwMDA1MTE5MjAgBgNVBAMTGURBUldJTiBHT05aQUxP
+IFJFWU5BIEFDSEkwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCsYd6bN/9QMjQtWE8j
+5Z9SSEhF7I4ly/+WT9i7uXmexqKB6bJFSzC68AdBHpB06cHbnPUmyL63jfL5vMRLV4pN4unYbMdZ
+2nCCoYIcrefd1E+1EQJbx2/tkmGsC+Lc61yuRZAR7SaAw7gp5oUakLMAdib3xYBdScDp2BrMjy4/
+IoS83vnOE+z1RgRZ4d75iUWxa94+8F20/vrkMcgDBLIxEKBwO3TMHWWhHgy3S2T4+fOU4mEXoIXn
+GpvP1ZqxmNCCgfRws1RJhRT0fHfQCh1BoaEOs2reEA4noDwGGIi4+6CPm51zHTAhJQkBudjMp2GJ
+E//DJ94iPogWg+cDn3ehAgMBAAGjggWAMIIFfDALBgNVHQ8EBAMCB4AwZwYDVR0gBGAwXjBcBgsr
+BgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRpY2Et
+Y2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsG
+AQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2Nz
+cDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwMFkGCisGAQQBgqg7AwoESxNJRU1QUkVTQSBQVUJMSUNBIE1VTklDSVBBTCBERSBB
+R1VBIFBPVEFCTEUgWSBBTENBTlRBUklMTEFETyBDQU5UT04gUVVFVkVETzAdBgorBgEEAYKoOwML
+BA8TDTEyNjAwNDA1MjAwMDEwGgYKKwYBBAGCqDsDAQQMEwoxNzIzMTQwNTc4MB4GCisGAQQBgqg7
+AwIEEBMOREFSV0lOIEdPTlpBTE8wFQYKKwYBBAGCqDsDAwQHEwVSRVlOQTAVBgorBgEEAYKoOwME
+BAcTBUFDSEkgMCAGCisGAQQBgqg7AwUEEhMQR0VSRU5URSBHRU5FUkFMIDA/BgorBgEEAYKoOwMH
+BDETL0NPT1AuIENBUkxPUyBKVUxJTyBNWi0gNiBTTC0xOCAgR1VTVEFWTyBDSE9OUVVJMBkGCisG
+AQQBgqg7AwgECxMJMDUyNzU2Njk4MBcGCisGAQQBgqg7AwkECRMHUVVFVkVETzAXBgorBgEEAYKo
+OwMMBAkTB0VDVUFET1IwHQYKKwYBBAGCqDsDMgQPEw0xNzIzMTQwNTc4MDAxMCAGCisGAQQBgqg7
+AzMEEhMQU09GVFdBUkUtQVJDSElWTzAiBgNVHREEGzAZgRdkZ3JleW5hMTk4OUBob3RtYWlsLmNv
+bTCCAeEGA1UdHwSCAdgwggHUMIIB0KCCAcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNl
+LmVjL2NuPUNSTDIyNDQsY249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9
+UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04t
+RUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRl
+UmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2Vj
+X2NybGZpbGVjb21iLmNybKSBtjCBszELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRS
+QUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFM
+IERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdDUkwyMjQ0MCsGA1UdEAQkMCKADzIwMjUwNzEwMTYyMzA1
+WoEPMjAyNzA3MTAxNjUzMDVaMB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1Ud
+DgQWBBRlk8qg5Wfyo+FwqxlfKwOLJ/oV1DAJBgNVHRMEAjAAMBoGCSqGSIb2fQdBAAQNMAsbBVYx
+MC4wAwIEMDANBgkqhkiG9w0BAQsFAAOCAgEALlPgyrBATXIkDnoftamFxDkOpHZMJgkrt16KbeQ8
+LDHYdHppWc6CXTxkEVt1DSq9fCMgTPLbm4Tn48q21bheltwr+abySrQxKGOzeYyb3p/mOcY4fUSI
+nCVR8CmJ2R9aZ5lM3QA8jnHLgrJPbnwOZY+Pdtm0DQZ/cNYhWxgz7Ow4lDEO4nncHT2pKqZLAQln
+gIKW8Ijw8eaWU0BEFHqEpbUN7sMrXoBh+MEpyCKwrUJ91ETW//6rtY+d8MG0R6LtNZ69UMplCJ/t
+fMApIlRvJbtVaRyIzlhPzyAXTOUkascEQ5dEZxDX5wD+v9/T0o4RmUOtlaGIFPJgOruG3EEDsmvn
+pN8ilzRmhaKpKSG9FMSzB/Uv6L5/ru4CwqprLy7DkMD9kCGH233zjhZZO+RVbgmv4Uathxrl+P3A
+OIPpKtLgB0yUmEMQE6Xs94W78zlKVa+x0gXB4NG7I2sIM6A5sARYkUpfGDdKcJARkFtLi99kXJKy
+YWRep+K4fjexGDPEi+qOyrR4Yk2O0InoSjYt+VEdKZcdoxviZkRLP5MXcPR0yAr+3NtmgizLFWlT
+87E9zLciU0HA7KOcAqyqk/kS+FPCsuRJ/YgH7dQnICqG9srtZEOVd3HoUgPgE+4bHcAqIR+duxsW
+ByzClFP42MfSmRkiHi0PVU384Ej5jme09Es=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rGHemzf/UDI0LVhPI+WfUkhIReyOJcv/lk/Yu7l5nsaigemyRUswuvAHQR6QdOnB25z1Jsi+t43y
++bzES1eKTeLp2GzHWdpwgqGCHK3n3dRPtRECW8dv7ZJhrAvi3OtcrkWQEe0mgMO4KeaFGpCzAHYm
+98WAXUnA6dgazI8uPyKEvN75zhPs9UYEWeHe+YlFsWvePvBdtP765DHIAwSyMRCgcDt0zB1loR4M
+t0tk+PnzlOJhF6CF5xqbz9WasZjQgoH0cLNUSYUU9Hx30AodQaGhDrNq3hAOJ6A8BhiIuPugj5ud
+cx0wISUJAbnYzKdhiRP/wyfeIj6IFoPnA593oQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature159508-Object683147"><etsi:QualifyingProperties Target="#Signature159508"><etsi:SignedProperties Id="Signature159508-SignedProperties572364"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T01:34:44-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>JoZFOeYkaZX7rQHGURXV5/YUCBM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709616420</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-335148"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

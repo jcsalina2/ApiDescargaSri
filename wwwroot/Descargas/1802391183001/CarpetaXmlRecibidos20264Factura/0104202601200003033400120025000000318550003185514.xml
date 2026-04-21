@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601200003033400120025000000318550003185514</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T20:04:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>MENESES GALLARDO GLORIA PURIFICACION</razonSocial>
+		<nombreComercial>DISTRIBUIDORA BIOMENTOS GALAPAGOS</nombreComercial>
+		<ruc>2000030334001</ruc>
+		<claveAcceso>0104202601200003033400120025000000318550003185514</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>002</estab>
+		<ptoEmi>500</ptoEmi>
+		<secuencial>000031855</secuencial>
+		<dirMatriz>C/ ROBERTO SCHIESS 036 Y 18 DE FEBRERO</dirMatriz>
+	   <agenteRetencion>1</agenteRetencion>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>01/04/2026</fechaEmision>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>TORRES GUERRERO LUCIA</razonSocialComprador>
+		<identificacionComprador>1802391183001</identificacionComprador>
+		<direccionComprador>SANTA ROSA</direccionComprador>
+		<totalSinImpuestos>1991.00</totalSinImpuestos>
+		<totalDescuento>0</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<baseImponible>1991.00</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>1991.00</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>1991.00</total>
+				<plazo>0</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>B1.PORC.004</codigoPrincipal>
+			<descripcion>CERDO FASE 5 CRECIMI PLT 40KG</descripcion>
+			<cantidad>50.0000</cantidad>
+			<precioUnitario>39.0000</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>1950.00</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>1950.00</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>B1.PORC.007</codigoPrincipal>
+			<descripcion>CERDO LACTACION PLT 40KG</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>41.0000</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>41.00</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>41.00</baseImponible>
+					<valor>0</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="AGENTERETENCION">AGENTE DE RETENCION SG RESOLUCION No.1</campoAdicional>
+		<campoAdicional nombre="CORREOELECTRONICO">luciatorres3010@hotmail.com</campoAdicional>
+		<campoAdicional nombre="CONTROL">0101B0031855</campoAdicional>
+		<campoAdicional nombre="OBSERVACIONES">42910</campoAdicional>
+		<campoAdicional nombre="VENDEDOR">VEN99 VENTA EN OFICINA</campoAdicional>
+		<campoAdicional nombre="FORMA_PAGO">CREDITO</campoAdicional>
+		<campoAdicional nombre="FECHA_VENCIMIENTO">01/04/2026</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature951243">
+<ds:SignedInfo Id="Signature-SignedInfo649980">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID888084" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature951243-SignedProperties643120">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>aCcvjVt/wyycWUKY0AG9MFERI8M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1137415">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>YEfVdnEQL22HBPZJaZNGrgmsOlo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-35363" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>G7dZEs+a34qdlisG1VeViSOUTVc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue189465">
+EXKB7Vg7M+vbJXcPgDwofQFlDCv1lUvQpa0SrcC7wH8r8CvQnL2SDJgUT1VjiV/Pe3setUyHDYHm
+wH2B5FcFjUGtM173r+9BAgyPsClolkN0orM1yN+mRrD81khrkuL+oKNuRup0cQzA4dARDMzF/9FJ
+bw71OMu7Mb1qJ76MPFCJWJvwhi8OZ1JJ1mRaWO3FpZwUm+tAFuy3nhzs0ZXRU4284N2/7d1YW3k3
+Fzdeo3XF+vvM1mg9JZE9F8/m6hdw0jWGCbl5a7t8hazGg97mRqQXBt1aX8eWmuXPfWtY/9aZlzNe
+VSSsmvGeTMvxMResvqUvmjHPsK/taTz+KeqFuA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1137415">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJJjCCBw6gAwIBAgIIUu8Lu/3luL4wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDUyOTE0NTIwMFoXDTI3MDUyOTE0NTIwMFowga4xCzAJBgNVBAYTAkVDMRkwFwYDVQQEDBBN
+RU5FU0VTIEdBTExBUkRPMRwwGgYDVQQqDBNHTE9SSUEgUFVSSUZJQ0FDSU9OMRkwFwYDVQQFExBJ
+RENFQy0yMDAwMDMwMzM0MS0wKwYDVQQDDCRHTE9SSUEgUFVSSUZJQ0FDSU9OIE1FTkVTRVMgR0FM
+TEFSRE8xHDAaBgNVBGEME1RJTkVDLTIwMDAwMzAzMzQwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDlesVl7UPYcUNhxRy5V3E25mJ60Y5y949jmFSI9JcOs4K/dxL9ZOfHPvo2CeOs
+a0uvRUfLEFbDdNJZkXgfKgQwe07URGIBX9xFCq6rgyXQ2psAcwZ8n9b0gJlWcEnZob2IuKejua2M
+eon+z/nOl9ybUHBJArv29ZWiQRWzRPNy5F/NbbUdEHlCULjOuA908A6BNom6QTUKaUD8N2wC2Lxx
+vhUEqa6h+R5dGt6LArtj17EoDYB8rp6O2494elXwaynEnk9n4zqkzl6D43jTWGPtWAnSWpOevw7Y
+bxWnT2U0w/850Yuua8SB8hzE8cvbCxi/mCZ6ZWbXmcdC7diSSwbpAgMBAAGjggQ6MIIENjAbBgsr
+BgEEAYLxNmYDAQQMDAoyMDAwMDMwMzM0MB4GCysGAQQBgvE2ZgMLBA8MDTIwMDAwMzAzMzQwMDEw
+gdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9w
+dWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUF
+BzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUH
+MAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQU
+FyRyZ4vbK/DnXcDQHSJtugg01PwwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqni
+o2jw4RGydJJz/TCBmQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYr
+aHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0
+DDJDRVJUSUZJQ0FETyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYD
+VR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwv
+Q0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggr
+BgEFBQcDAgYIKwYBBQUHAwQwggFwBgNVHREEggFnMIIBY4EeYXZpbWVudG9zZ2FsYXBhZ29zQGhv
+dG1haWwuY29toBsGCysGAQQBgvE2ZgMBoAwMCjIwMDAwMzAzMzSgJAYLKwYBBAGC8TZmAwKgFQwT
+R0xPUklBIFBVUklGSUNBQ0lPTqAYBgsrBgEEAYLxNmYDA6AJDAdNRU5FU0VToBkGCysGAQQBgvE2
+ZgMEoAoMCEdBTExBUkRPoBYGCysGAQQBgvE2ZgMHoAcMBVFVSVRPoB8GCysGAQQBgvE2ZgMIoBAM
+DjAwNTkzOTkzODAxMzM2oBYGCysGAQQBgvE2ZgMJoAcMBVFVSVRPoB4GCysGAQQBgvE2ZgMLoA8M
+DTIwMDAwMzAzMzQwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgKQYLKwYBBAGC8TZmAzKgGgwYUEVS
+U09OQSBOQVRVUkFMIE8gRklTSUNBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcN
+AQELBQADggIBABEx9M7xrwVsdsxYzUWuMtTK9YHi29yp0ZyaN+8gSw6gLBalz063G2w3RhOxCniY
+JeeAqOeZdhDNvOxOoHS0k7jZWS1apoQMsifBcJTdnxRWXOk7Og5bkn75lta7sTLdXzBlM+iBRXoM
+wmPzXmWwWuME5iSq/mU8+ldvp7itRZ/vvY9ThbIiw5riGdznlmgHp6Z6IZc3qxuFxBgpLUxCC6yx
+vqZXAtoExJeyRlhOVv8SMczyn79ZR43ENTRcpZ0AcJbFPcHSHtv8cX/b6jiOpL3zYXM3Fazz2rct
+oOz7kvdKa5f+5/XfjNIuuvkvYnqpqgbGJkqqYDqkeCrS0Gqx/Zmxv+sVinxWi2s9H4Z8+ivIRZhX
+wgh5/GGMnFBol8yaImowQBSf9uL9SG8OYLxA3KODfy84z8tWRKLhVDlv/mj6Yg2QDYilSyFJywjG
++WWNFha4pU1TiZP9P1LByBgIva/ACMpaNjSOvqnMsYaY/wDQkiP97AKLiwSHYSH+sTtsF+VwbJyN
+RZOdBZf97SbDPBPRnThj4WZdBZbjjssKz8r3/XsGa5X86LUmSa9iEbZXqfoTOomZ8WyIgubotn9j
+tjsVw0ag1PjXdKcza1L/65ONQ2SaTKXSZ9/k/OLQBLqjXVfs5rkVa1A/WULy004pNPOgh7yYSIUB
+uacEhSFez4Es
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+5XrFZe1D2HFDYcUcuVdxNuZietGOcvePY5hUiPSXDrOCv3cS/WTnxz76NgnjrGtLr0VHyxBWw3TS
+WZF4HyoEMHtO1ERiAV/cRQquq4Ml0NqbAHMGfJ/W9ICZVnBJ2aG9iLino7mtjHqJ/s/5zpfcm1Bw
+SQK79vWVokEVs0TzcuRfzW21HRB5QlC4zrgPdPAOgTaJukE1CmlA/DdsAti8cb4VBKmuofkeXRre
+iwK7Y9exKA2AfK6ejtuPeHpV8GspxJ5PZ+M6pM5eg+N401hj7VgJ0lqTnr8O2G8Vp09lNMP/OdGL
+rmvEgfIcxPHL2wsYv5gmemVm15nHQu3YkksG6Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature951243-Object958409"><etsi:QualifyingProperties Target="#Signature951243"><etsi:SignedProperties Id="Signature951243-SignedProperties643120"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T20:04:16-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>gWGAvsWiiXImXDgJf6HR5G04M8I=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>5976008132590418110</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-35363"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

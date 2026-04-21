@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0304202601070385809200120010020000047331234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-03T12:45:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PIEDRA GRANDA LEIDY MEDALIT</razonSocial><nombreComercial>DERMALEIDY</nombreComercial><ruc>0703858092001</ruc><claveAcceso>0304202601070385809200120010020000047331234567811</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000004733</secuencial><dirMatriz>AV. LUIS ORRANTIA 21 - 22 Y NAHIM ISAIAS EDIF. UDIMEF 2. 2DO PISO CONS. 202</dirMatriz></infoTributaria><infoFactura><fechaEmision>03/04/2026</fechaEmision><dirEstablecimiento>AVENIDA LA REPUBLICA SN Y SANTA ROSA</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>RODRIGUEZ FLORES CHRISTIAN ALFREDO</razonSocialComprador><identificacionComprador>0919746149</identificacionComprador><direccionComprador>guayaquil</direccionComprador><totalSinImpuestos>50.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>50.00</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>50.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>50.00</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>0022</codigoPrincipal><descripcion>CONSULTA</descripcion><cantidad>1</cantidad><precioUnitario>50.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>50.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>50.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Email Cliente">chistian_rodriguez_flores@hotmail.com</campoAdicional><campoAdicional nombre="Telef. Cliente">0989770965</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-9d769353-39fb-49d7-8347-77d34c2255f6">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="xmldsig-9d769353-39fb-49d7-8347-77d34c2255f6-ref0" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+lFD1Xkak5wMqbY8uhWvF4lsD9A=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-9d769353-39fb-49d7-8347-77d34c2255f6-signedprops">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0czL411tfm/AosxtZ9L0BjGgxoY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="xmldsig-9d769353-39fb-49d7-8347-77d34c2255f6-sigvalue">
+Aprf7scGtmwFZN5by2Sf8NJGEyi4WKPzmxdXqZxUtWkHLgt6zkboJY3tDIymtbOsTHbEyWc756BE&#13;
+5n6BsPUm6rJJr/kyOShirknaIR/ou7em6zm3jUiLw7sqaj6Bi5frlBI+ZYvSoCTBLpXCgcVwP1m9&#13;
+tkc3BZKAJalKSpgUOyYfI+WSXSHowATTYioCvwS+HwtHdmR418tz0OSU0QjDqOrPsPL5rp9Jbnv7&#13;
+6ZDf0QfKEW4+d9spJRGUNq2FuGH+YfaBNdvgkfJL3UjbcYePyInFwwbCSiPaIE5oGK90yzLRcIRf&#13;
+QiOThT0YuKsHbiuymjDR7/+dHVku8BmcYQNSQQ==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKojCCCIqgAwIBAgIIeW+UXrIibIIwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w&#13;
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ&#13;
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP&#13;
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwODA4MTY0MTExWhcNMjYwODA4MTY0MTExWjCB&#13;
+pjEkMCIGA1UEAwwbTEVJRFkgTUVEQUxJVCBQSUVEUkEgR1JBTkRBMSAwHgYDVQQFExcwNzAzODU4&#13;
+MDkyLTA4MDgyNTExNTEwMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO&#13;
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi&#13;
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDMqoA4D4mLP9odwLC7nN9nmSdysdV2/sR+b6rM&#13;
+nga+3d9gAdvchB9LzzhCXP9Oo956/6X2UCpSSdOWF4uKVF+TZSh0nf8pWVaMoWHFZjQtVbQPfT36&#13;
+eEpKn64W/+qKniUkUqpmGtEWj1pcyLJysyYg7meHneY6j5lpGXWO6FH26R6+/G2bAgX3UjhQq0F7&#13;
+bUje+eJbV/2b/opsJqtcmokhO+WNHGdkwtOb4CiTwHhOaJYc9VQKeqx4cHheV42Rmu2MVDC8SYWf&#13;
+oKL9ZMNlL3PDwow8vOyaJrgwjl0zj0q31a7QuQYoUJLZz2AJoyshdSbYDeZRVZ2z8hXpiWS07Sxp&#13;
+AgMBAAGjggXdMIIF2TAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i&#13;
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh&#13;
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAgBgNVHREEGTAXgRVkZXJtYXBp&#13;
+ZWwwMUBnbWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwIC&#13;
+MD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQA&#13;
+dQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3Vy&#13;
+aXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRp&#13;
+ZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjAdBgNV&#13;
+HSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiGNmh0dHA6&#13;
+Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKBn6SBnDCB&#13;
+mTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE&#13;
+QVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb&#13;
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0cDovL2Ny&#13;
+bDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHdoIHahoHX&#13;
+aHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGlj&#13;
+d2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJ&#13;
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lP&#13;
+TiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFOZh&#13;
+LVUSuYa9cT5U6uAtgcdZeGHWMCsGA1UdEAQkMCKADzIwMjUwODA4MTY0MTExWoEPMjAyNjA4MDgx&#13;
+NjQxMTFaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjA3MDM4NTgwOTIwFgYKKwYBBAGC&#13;
+pnIDCQQIDAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMDgGCisGAQQBgqZyAwcEKgwoQVYgTFVJ&#13;
+UyBPUlJBTlRJQSBTTCAyMCAyMSBZIE5BSElNIElTQUlBUzAdBgorBgEEAYKmcgMCBA8MDUxFSURZ&#13;
+IE1FREFMSVQwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDEwMzAzNTEwEQYKKwYBBAGCpnIDIwQD&#13;
+DAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEE&#13;
+AYKmcgMDBAgMBlBJRURSQTAWBgorBgEEAYKmcgMeBAgMBk1FRElDTzAdBgorBgEEAYKmcgMLBA8M&#13;
+DTA3MDM4NTgwOTIwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGR1JBTkRB&#13;
+MBoGCisGAQQBgqZyAwgEDAwKMDk2OTA1NTAxNjANBgkqhkiG9w0BAQsFAAOCAgEAKKcXMyxG7hV7&#13;
+pHLER2m8JBi1OvnPR3N8EsCA8hNEAmZ3k3un32WuJfadVuaRZfxTbzOMM5G1CnWKC2XHpTNJx412&#13;
+Vsattmk8jwhifnp8TUzrAHer98LryrtiRs3pHlDfEwAeYD5F1cG2/6u0yptdxyxWflzGDNXcH8+O&#13;
+BOsKmODPzRcbg2Ou9+f2KRCzGDL0WKX4SRHHfsvSw7H4WLmGvUGPwSbI1JiiK1q80VpAcKxuj4LM&#13;
+OG5+ENeQzlxySvIw6D1h85BqB/yK6bjZqmjcwhYik/t7UdpvCJlReJGpTLAXef2RoXzCeKekaTk5&#13;
+HIQjEZ8w9iRuJ05nMEGNeahvEqdRPDW/RYCE9aYRLShKI3kD3MMlbQMxjetwn4sgXg2YasQcoTDX&#13;
+ASo2W9+/6K6/q4ISFkU4wn1HngL97g2mo1KYCVdOMhz5CAEb7Qu8oEzEnohwERtYYIQs0JKsXF3I&#13;
+kWyhRCV3ROEsyhqPZViBSsdAWD0iow+LHAce9E5KH2SZRLdHTM/dRQ+PtOVMzVHXM9XS26E8Ye0p&#13;
+Zs7tUlrm9FKiR/9trxEo5e/7oSHrKCdTk/iX/HqKusddG4nZp5QISV2+3kFzX/PnF3Eizq4bF7mc&#13;
+fIPclNGWViddBoSd0gEqZnOGiYGxJKeZaneznV/6vI0TLig+K2oVgVUoSBwk2B8=
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-9d769353-39fb-49d7-8347-77d34c2255f6"><xades:SignedProperties Id="xmldsig-9d769353-39fb-49d7-8347-77d34c2255f6-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-03T12:43:02.579-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>D8EeoIaReptdkZBXu5VbXBX3G/g=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>cn=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,ou=ENTIDAD DE CERTIFICACION DE INFORMACION,o=SECURITY DATA S.A. 2,c=EC</ds:X509IssuerName><ds:X509SerialNumber>8750375735440600194</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-9d769353-39fb-49d7-8347-77d34c2255f6-ref0"><xades:MimeType>text/xml</xades:MimeType></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

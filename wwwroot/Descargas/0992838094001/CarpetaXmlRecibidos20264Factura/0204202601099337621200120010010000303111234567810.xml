@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601099337621200120010010000303111234567810</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T13:34:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>IMPORTADORA ARCUANSA SAS</razonSocial>
+    <nombreComercial>IMPORTADORA ARCUANSA</nombreComercial>
+    <ruc>0993376212001</ruc>
+    <claveAcceso>0204202601099337621200120010010000303111234567810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000030311</secuencial>
+    <dirMatriz>AYACUCHO 3604 ENTRE LA NOVENA Y DECIMA</dirMatriz>
+    <agenteRetencion>10</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>02/04/2026</fechaEmision>
+    <dirEstablecimiento>Ayacucho 3604 entre la novena y la decima                                                           </dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>TRANSPODESA S.A.</razonSocialComprador>
+    <identificacionComprador>0992838094001</identificacionComprador>
+    <direccionComprador>SAN EDUARDO  MZ 251  SL 24</direccionComprador>
+    <totalSinImpuestos>54.19</totalSinImpuestos>
+    <totalDescuento>7.60</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>54.19</baseImponible>
+        <valor>8.13</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>62.32</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>62.32</total>
+        <plazo>30</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>102802-TKL</codigoPrincipal>
+      <descripcion>KIT VALVULA R-12/R-14</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>14.990000</precioUnitario>
+      <descuento>1.61</descuento>
+      <precioTotalSinImpuesto>13.38</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>13.38</baseImponible>
+          <valor>2.01</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>111-T30-KTC</codigoPrincipal>
+      <descripcion>DIAFRAGMA PULMON T-30</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>4.000000</precioUnitario>
+      <descuento>0.43</descuento>
+      <precioTotalSinImpuesto>3.57</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.57</baseImponible>
+          <valor>0.54</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>25169065-OE</codigoPrincipal>
+      <descripcion>SEGURO CAPOT MACK MP8 (37-99-344)</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>42.800000</precioUnitario>
+      <descuento>5.56</descuento>
+      <precioTotalSinImpuesto>37.24</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>37.24</baseImponible>
+          <valor>5.59</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Vendedor:">ZAMBRANO GARCIA JOEL XAVIER                                                                                                                                                                             </campoAdicional>
+    <campoAdicional nombre="Ciudad:">GUAYAQUIL</campoAdicional>
+    <campoAdicional nombre="Telefono:"> </campoAdicional>
+    <campoAdicional nombre="Término:">30 DIAS                                                                                             </campoAdicional>
+    <campoAdicional nombre="Vencimiento:">02-May-2026</campoAdicional>
+    <campoAdicional nombre="Correo:">anacornejom@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Tipo:">CREDITO</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature85763" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo Id="Signature-SignedInfo58618"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID72933" URI="#Signature85763-SignedProperties93146" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>gCU0Ha4Kz+ClUoF601roBPioxW8=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate53423"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>GxJiW5I6w9nFz0nQUK5khtJNUIg=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-65301" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>8+RK6XljAItydk6J+zg6YXdARXc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue69731">ICGbDMrOb+ID2rO3dWiOZVGD0rIruywugH1Fys2wJVaxJTb6vOSqyvK7QMQBx8fNVT7l8R+qKj24
+Svm2wbbwZDktdDJBqA4WsC6hsYToasTAArTNEXKkbz6Y9rILOFqF0RLN9WGVD5hMWn8CzvGsc4v1
+QB0FQzpvYTBNDu1/dilWPT8v8tN2EsRIlHxKanUcYc+rwPWakmEXcdWx6xi6B/FrZN4kGnb5D75U
+1XC3dAhvonpTp5b2W+fbq9FFjh47zqdxWT8m5dR1FK1BciswHtZTCK039AjLSPoaC8d87tS0kOVF
+xPyW9HnWd75npPSZ5hgOqrcA5mNTs0KaLNXgkg==</ds:SignatureValue><ds:KeyInfo Id="Certificate53423"><ds:X509Data><ds:X509Certificate>MIIJ5zCCB8+gAwIBAgIIdhBurnkfMoIwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTAzMTIwMDUwMFoXDTI2MTAzMTIwMDUwMFowgeAxCzAJBgNVBAYTAkVDMSQwIgYDVQQKDBtJ
+TVBPUlRBRE9SQSBBUkNVQU5TQSBTLkEuUy4xGDAWBgNVBAwMD0dFUkVOVEUgR0VORVJBTDEWMBQG
+A1UEBAwNQ1VCSUxMT1MgTElNQTEYMBYGA1UEKgwPSU5ESVJBIFZJUkdJTklBMRkwFwYDVQQFExBJ
+RENFQy0wOTE4ODA4MjQ3MSYwJAYDVQQDDB1JTkRJUkEgVklSR0lOSUEgQ1VCSUxMT1MgTElNQTEc
+MBoGA1UEYQwTVkFURUMtMDk5MzM3NjIxMjAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAI0CCwmM9Uv7RPDXDPWKKkxZhOzpLz1rw+wL537F5e0UVgY0YsOCt2iDVnXH0MdNARizQqnX
+CGIak3G+AWe8J3xCfPH0oAZE1AGzAT3PkYmS/4KGYHbFWprk8wO0EgHY8B/a2uK6P6GPL9CUBGRa
+3qiZYUj3ljWmk8MMO2jdU22+D9Vjwy16aoyRnjed0M+/8QzPJzPrsvA2dSXLFDRge30v9hzTsBm2
+TcX+0cap+yLdqVHM6uFgX3Wkucf8NXFFhk5PHGiuDwnIj93h1CnY+nGG4tshdhqqGGJ7ilHVzvqF
+xlDEaROHtW+w9xCyVmmHbH1vG/2ak7dmG4985YdyTXECAwEAAaOCBMkwggTFMBsGCysGAQQBgvE2
+ZgMBBAwMCjA5MTg4MDgyNDcwHgYLKwYBBAGC8TZmAwsEDwwNMDk5MzM3NjIxMjAwMTCB1wYIKwYB
+BQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9k
+b3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0
+dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0
+cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBQ/CRi7aCJ+
+3q30uKgrOJAg8PzRszAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0
+knP9MIGOBgNVHSAEgYYwgYMwgYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczov
+L3d3dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJ
+RklDQURPIERFIFJFUFJFU0VOVEFOVEUgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggIKBgNVHREEggIBMIIB/YEUc2VyY29udHJpc2FAeWFob28uZXOgGwYLKwYBBAGC8TZmAwGgDAwK
+MDkxODgwODI0N6AgBgsrBgEEAYLxNmYDAqARDA9JTkRJUkEgVklSR0lOSUGgGQYLKwYBBAGC8TZm
+AwOgCgwIQ1VCSUxMT1OgFQYLKwYBBAGC8TZmAwSgBgwETElNQaAgBgsrBgEEAYLxNmYDBaARDA9H
+RVJFTlRFIEdFTkVSQUygcgYLKwYBBAGC8TZmAwegYwxhQkFSUklPOiBTIE4gQ0FMTEU6IENBTExF
+IDNFUkEgTk1FUk86IDIwOSBJTlRFUlNFQ0NJTjogQVZFTklEQSAzRVJBIENBUlJFVEVSQTogUyBO
+IEtJTE1FVFJPOiBTIE4gQ6AfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5NzM1MjM2M6AaBgsrBgEE
+AYLxNmYDCaALDAlHVUFZQVFVSUygLAYLKwYBBAGC8TZmAwqgHQwbSU1QT1JUQURPUkEgQVJDVUFO
+U0EgUy5BLlMuoB4GCysGAQQBgvE2ZgMLoA8MDTA5OTMzNzYyMTIwMDGgEwYLKwYBBAGC8TZmAwyg
+BAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAYBgsrBgEEAYLxNmYD
+M6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQCP5Rqu0lRuTPYuoxDm1C5kfwdaZAIFM+k9
+mb8dkOVy6JxaUV0yZSboThwUGI6B/lDfCARjPM+JfsCf7wSbONgim69j5h8lLIROycznEx6ktVmX
+NcId4IZb+uJxctcGRHTbHNGRDnzl++VtJpviNdRSCnzJW257KkGeUmpyty/kdS7HWWqtVSifH4EV
++V3jD5xkmW76yCbdwBQONiJzKfyc63Ln8IWJxL3b6NzeDRAiG1v1g3vMliNANJdCWFJlb9E1n3M1
+rXn2ilUftZ14TolrWKEE5+QWthHyjDOhiMTPieqcHRV+8bl/1QxK/viPt0Y7s9LXA3CAFSSJRNmE
+1+JEWlOmJm18Zi6n6ClaUmY+21uooYIzZbzm2NPtvye2ys1pjyqyM/7ONek2gMHJYCi6FEN+bgrt
+bI3n1rIKMp0SwAXavkaeD7Wm21Y2zxKJ8WScJWU0vdpAJCfmYaEYFaUlqS5+K1L2edJfpIiDuQv/
+cawWhfwSt/MvKrV3xJzTvSy0KHArVPflYcRYEqqIUKbkTP+jSIzqz3kbbGeW0Rg6zcJ+vdQ+biPW
+CvWnZUFgr6FPkYdG4CVtyv7bYdhznVXTAE3YY9gtVmT2iqk94Vu/ZLre7Eev333PK9iq94R51DJo
+tx1AkdgXRBdkeD4S20O3lbLoWMXDoYSAMlEnc8wG4A==</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>jQILCYz1S/tE8NcM9YoqTFmE7OkvPWvD7AvnfsXl7RRWBjRiw4K3aINWdcfQx00BGLNCqdcIYhqT
+cb4BZ7wnfEJ88fSgBkTUAbMBPc+RiZL/goZgdsVamuTzA7QSAdjwH9ra4ro/oY8v0JQEZFreqJlh
+SPeWNaaTwww7aN1Tbb4P1WPDLXpqjJGeN53Qz7/xDM8nM+uy8DZ1JcsUNGB7fS/2HNOwGbZNxf7R
+xqn7It2pUczq4WBfdaS5x/w1cUWGTk8caK4PCciP3eHUKdj6cYbi2yF2GqoYYnuKUdXO+oXGUMRp
+E4e1b7D3ELJWaYdsfW8b/ZqTt2Ybj3zlh3JNcQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature85763-Object62212"><etsi:QualifyingProperties Target="#Signature85763"><etsi:SignedProperties Id="Signature85763-SignedProperties93146"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T13:34:42</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>Wk9e0oAeo6bWrTVbL8q9yMubZRQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>8507421391738319490</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-65301"><etsi:Description>Servicios IT, Luis Orellana Escalante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

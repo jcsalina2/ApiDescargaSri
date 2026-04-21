@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601095074218900120019010000001823569668318</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T15:12:23-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DE LA TORRE MACIAS ANDRES ALEXANDER</razonSocial>
+    <nombreComercial>TORRE-BLU</nombreComercial>
+    <ruc>0950742189001</ruc>
+    <claveAcceso>0104202601095074218900120019010000001823569668318</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>901</ptoEmi>
+    <secuencial>000000182</secuencial>
+    <dirMatriz>MALECON SOLAR 21 Y RICAURTE Y DECIMA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/04/2026</fechaEmision>
+    <dirEstablecimiento>MALECON SOLAR 21 Y RICAURTE Y DECIMA</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>JIMENEZ ANDRADE ADOLFO BENITO</razonSocialComprador>
+    <identificacionComprador>1204646788001</identificacionComprador>
+    <direccionComprador>12 DE OCTUBRE S/N Y 39</direccionComprador>
+    <totalSinImpuestos>28.74</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>28.74</baseImponible>
+        <valor>4.31</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>5</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>33.05</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>33.05</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>000973</codigoPrincipal>
+      <descripcion>CABLE CONCENTRICO 3X12 AWG ANDES</descripcion>
+      <cantidad>20.0000</cantidad>
+      <precioUnitario>1.4370</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>28.74</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>28.74</baseImponible>
+          <valor>4.31</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="CONTRIBUYENTE REGIMEN">CONTRIBUYENTE RÉGIMEN GENERAL</campoAdicional>
+    <campoAdicional nombre="SISTEMA">SYCOF</campoAdicional>
+    <campoAdicional nombre="EMAIL">info.torreblu@gmail.com</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0000000000</campoAdicional>
+    <campoAdicional nombre="EMAIL CLIENTE">tecniservisios@gmail.com</campoAdicional>
+    <campoAdicional nombre="TELEFONO CLIENTE">0989078967</campoAdicional>
+    <campoAdicional nombre="FORMA DE PAGO">EFECTIVO</campoAdicional>
+    <campoAdicional nombre="OBSERVACION FORMA DE PAGO">SN</campoAdicional>
+    <campoAdicional nombre="OBSERVACION">SN</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature318152">
+<ds:SignedInfo Id="Signature-SignedInfo723816">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID603263" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature318152-SignedProperties919644">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>LO2fxB0wdNS5HGyb8nKgGulNaNE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate190971">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>mjTRYrBfKa5g9kvPV92JwtoMJUM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-500574" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+BgnvWw1KKpEeKTwkk/vK0DQZIk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue824293">
+GiEJTMnVXkmmttLVPMrw7NntWcQPvwcPbzF6ea+9GRmePcD7ayx+nbCPaF4z3jA9hYxhl8VbqMSS
+UEsbykWhExTEec77DHrAZ0HVfnIFdurZGsYryop8mNPRS/tdYYkHBet/6vuWPU3pB+jr2YZ59weI
+FfcxMmBPLRDS+TDQldaCNdEZyy8lz0Iz9Z8JrC0bXaoOIySJtcd3j1Dd2Q47ESjd50oRLhZuKE1n
+YbWnL2pphovWgkS9Eyqw9ZGbSYhge3vwx9dy3JaOqNxt7UQjNXjmla2kcjq5p1nklVtd27cxhVXT
+EK2fAd8uhW1n1/XFBnLylrts/eju54ns2N+1Xg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate190971">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH7DCCBdSgAwIBAgIRALEG28s33XYbMZu1qPUenzAwDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNjAxMDcwMDAzNDhaFw0yNzAxMDcwMTAzNDhaMIHlMS0wKwYD
+VQQFEyQ4YzJlOTk4NS04ODIxLTQ3NzItODI1My02MjVkYzhhNGE1MzcxKjAoBgkqhkiG9w0BCQEW
+G2FuZHJlcy5kZWxhdG9ycmVtQGdtYWlsLmNvbTEsMCoGA1UEAxMjQU5EUkVTIEFMRVhBTkRFUiBE
+RSBMQSBUT1JSRSBNQUNJQVMxMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEbMBkGA1UEChMSRklSTUFTRUdVUkEgUy5BLlMuMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKHHm7Hu6tAANryhGVOwtJ9utCrfO4iAV2k+UKtg
+HNlMCs5RHwjvGEC8GEByA7CHRUzJPQ6R639Y6U1GWOUo15yvE5aJgWe2YPx2/bAV73eT+2Zw54Oy
+IrUiuStDz1X0x/ZNBzMpYAj35nGpL05NHKuAQeAkOrlkpUgdl4d9CljyjU3Y4saHBp6YuLZy/una
+7Jm+m7ZAonU4nCk4150qJ2ejP+V28FRSyyiSiQFQTKtj6JH8QXy8rUDO7PHDGuhoe0awrQ9mawNO
+1vMKMxfF+YyM05LpH+rw6f4P86rm/c4aMttH8cTeOTPtJDU+dv7P/YPnbTPAOCTFZ1FaVTS5vV0C
+AwEAAaOCArYwggKyMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUE0aTaAmu1ySHM0VjJnffrF5eilEw
+HQYDVR0OBBYEFLnvov84qDgXLQvfsRblQ43/knl8MFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9j
+cmwuZmlybWFzZWd1cmFlYy5jb20vY3JsL2NjY2U1YTRmLTZiNjgtNDZmYy1hNjIwLTRhYmNjNGM0
+YTY5MC5jcmwwOQYIKwYBBQUHAQEELTArMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5maXJtYXNl
+Z3VyYWVjLmNvbTAaBgorBgEEAYPeeQMBBAwWCjA5NTA3NDIxODkwIAYKKwYBBAGD3nkDAgQSFhBB
+TkRSRVMgQUxFWEFOREVSMBsGCisGAQQBg955AwMEDRYLREUgTEEgVE9SUkUwFgYKKwYBBAGD3nkD
+BAQIFgZNQUNJQVMwPQYKKwYBBAGD3nkDBwQvFi1NQUxFQ09OIE5PLiBTT0xBUiAyMSBZIFJJQ0FV
+UlRFIFkgREVDSU1BIE1aLjYwHAYKKwYBBAGD3nkDCAQOFgw1OTM5ODE3MDI0OTUwFwYKKwYBBAGD
+3nkDCQQJFgdRVUVWRURPMBcGCisGAQQBg955AwwECRYHRWN1YWRvcjAdBgorBgEEAYPeeQMLBA8W
+DTA5NTA3NDIxODkwMDEwgZwGA1UdIASBlDCBkTBQBgsrBgEEAYPeeQIBATBBMD8GCCsGAQUFBwIB
+FjNodHRwczovL2Zpcm1hc2VndXJhZWMuY29tL3BvbGl0aWNhc19wZXJzb25hX25hdHVyYWwwPQYL
+KwYBBAGD3nkCAgEwLjAsBggrBgEFBQcCAjAgDB5DZXJ0aWZpY2FkbyBkZSBQZXJzb25hIE5hdHVy
+YWwwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQAUUcuHEeooTDwScueZE6oq1ELF
+yp2ATGmSv2gv6rS2trRJ/ht3JOECF7kVtkfwUNzlUbpYXOLBhkkdUQq9KMViUmS0oc7YdDRfiDeQ
+6S1mn8JjD2+PPMZ95U8EVM2kbiFt1kI99OIck6XlxB4/LwMADoJrHd/Y6Rf4HxVfQkdo8WM6jX7B
++ZSEsoJn+/67XNq1x+N4ewKCP4piaZUOgB+80irwSK8xn4jGj+UOHfQxYb/52nS6sBzVg0VS6Rwk
+2B1cAAIoc07ElpNqOc4joo1eBYjqSRJ0fgdKYRZ8HvOyqdevDq/TMtdkgxRra9ZXg7qt56EkffVx
+3yACjXNFtQajpw1sW/HEIrQlGMKIbwpr4/sLrOHq54tFbQQpuCX3uXFXaZkxxsRKwpjh7SRw4fEO
+BxPo6D2Kkmr6KhJxXM5IIQeIipgjsZxC1KfLPaQrkNLb16xAaApGcH3Q9pCqNHKYzU0lGnpzV4BE
+5pF+3hpw5rhsejF321mTBOJk19nfRoUiaMogCEq0lk8/FcuYkU7jfOq/PNUaQMihlELsO7ImsC8I
+PKPR7OEYXvdrLbaFo1f5ITpl8MEgwn2gArxNFC1waBhhZcbUXK/4571JbTrjS3oERSg/CFZ2sBfT
+uOhhwCAzjM73NE67pff6n5HBotCj2Q2lL/0CC6sZe8ZUzLafGA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ocebse7q0AA2vKEZU7C0n260Kt87iIBXaT5Qq2Ac2UwKzlEfCO8YQLwYQHIDsIdFTMk9DpHrf1jp
+TUZY5SjXnK8TlomBZ7Zg/Hb9sBXvd5P7ZnDng7IitSK5K0PPVfTH9k0HMylgCPfmcakvTk0cq4BB
+4CQ6uWSlSB2Xh30KWPKNTdjixocGnpi4tnL+6drsmb6btkCidTicKTjXnSonZ6M/5XbwVFLLKJKJ
+AVBMq2PokfxBfLytQM7s8cMa6Gh7RrCtD2ZrA07W8wozF8X5jIzTkukf6vDp/g/zqub9zhoy20fx
+xN45M+0kNT52/s/9g+dtM8A4JMVnUVpVNLm9XQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature318152-Object213020"><etsi:QualifyingProperties Target="#Signature318152"><etsi:SignedProperties Id="Signature318152-SignedProperties919644"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T15:12:22-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>en1xboRnD+a92zyqXHglrT6Fr7Q=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>235308966983390914468418939487336177456</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-500574"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

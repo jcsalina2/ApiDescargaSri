@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601091287665300120010100000007970000079710</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T12:55:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>TAMA VELASCO JUAN MANUEL</razonSocial><nombreComercial>NOTARIA CUADRAGESIMA SEPTIMA</nombreComercial><ruc>0912876653001</ruc><claveAcceso>0104202601091287665300120010100000007970000079710</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>010</ptoEmi><secuencial>000000797</secuencial><dirMatriz>CALLE AV. AGUSTIN FREIRE INTERSECCION AV GUILLERMO PAREJA</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>01/04/2026</fechaEmision><dirEstablecimiento>CALLE AV. AGUSTIN FREIRE INTERSECCION AV GUILLERMO PAREJA</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>COMPAÑIA DE TRANSPORTE COMERCIAL DE CARGA PESADA PODEROSA SOCIEDAD ANONIMA TRANSPODESA</razonSocialComprador><identificacionComprador>0992838094001</identificacionComprador><totalSinImpuestos>9.38</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>0</descuentoAdicional><baseImponible>9.38</baseImponible><valor>1.40</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>10.79</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>10.79</total><plazo>0</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>999</codigoPrincipal><descripcion>(1) CERTIFICACIÓN DE DOCUMENTOS MATERIALIZADOS DESDE PÁGINA WEB O DE CUALQUIER SOPORTE ELECTRÓNICO / </descripcion><cantidad>1.0000</cantidad><precioUnitario>1.34</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.34</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.34</baseImponible><valor>0.20</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>999</codigoPrincipal><descripcion>(4) CERTIFICACIÓN DE DOCUMENTOS MATERIALIZADOS DESDE PÁGINA WEB O DE CUALQUIER SOPORTE ELECTRÓNICO / </descripcion><cantidad>1.0000</cantidad><precioUnitario>5.36</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>5.36</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>5.36</baseImponible><valor>0.80</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>999</codigoPrincipal><descripcion>(2) CERTIFICACIÓN DE DOCUMENTOS MATERIALIZADOS DESDE PÁGINA WEB O DE CUALQUIER SOPORTE ELECTRÓNICO / </descripcion><cantidad>1.0000</cantidad><precioUnitario>2.68</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.68</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2.68</baseImponible><valor>0.40</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Email Cliente">trapodesahotmail.com</campoAdicional><campoAdicional nombre="Telefono 1">0</campoAdicional><campoAdicional nombre="Referencia">S/R</campoAdicional><campoAdicional nombre="Libro">20260901047C01699</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature770436">
+<ds:SignedInfo Id="Signature-SignedInfo1031825">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID87500" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature770436-SignedProperties443489">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>cr7ga73oizdDxIJ3Iky2UnxWJr8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1735301">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>r5mWr2jsq6REb4klEnhqxKfnz3k=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-773501" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>8nCT/NqZ2JumVRBYlH/q2kBhsYs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue749931">
+fylzbPW9z2Nju12tpMeNqDArLbSgrTnNbvuD1tZP2iikzHgpbNqmpuO5NLgYMja8Y1kKWXQkc/Fo
+9C5zvuUYiSqp2dC29ckqcRLzbGahgAkSXTwNbxfDaiuQAHwXO7CaVbUzWrEkR7FNgoiRaFqqDNpe
+HUDPLFkBDAzvALBgqTaYjyBEH/ZP0rHuKd/74Ue+BS359ttYbEpJqFlz8YjE4QGHL53HAUi0BBp3
+LQVNjsXdpuePpKLgWaY53fC+ntMi+kFHgWPqvtMRF5UpALqh1dPfFWTH6EYJZSUZcNJaj7Jz2eYP
+SvX0x3/1MsBE4MHNVbRJBMUVzVepb75LCBxvxA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1735301">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHszCCBZugAwIBAgIITv2lfcEO6HIwDQYJKoZIhvcNAQELBQAwgbUxCzAJBgNVBAYTAkVDMREw
+DwYDVQQHDAhETSBRVUlUTzEhMB8GA1UECgwYQ09OU0VKTyBERSBMQSBKVURJQ0FUVVJBMUQwQgYD
+VQQLDDtTVUJESVJFQ0NJT04gTkFDSU9OQUwgREUgU0VHVVJJREFEIERFIExBIElORk9STUFDSU9O
+IEROVElDUzEqMCgGA1UEAwwhRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIElDRVJULUVDMB4XDTI1
+MDgyMjE2MzEwMFoXDTI3MDgyMjE2MzEwMFowWTELMAkGA1UEBhMCRUMxEjAQBgNVBAcTCUdVQVlB
+UVVJTDETMBEGA1UEBRMKMDkxMjg3NjY1MzEhMB8GA1UEAxMYSlVBTiBNQU5VRUwgVEFNQSBWRUxB
+U0NPMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmpyPtbNGayGBAXXsQ5eD3sn+Z/rn
+wsrgIO6dNsDhv43gQRQhaJCJ6D6YW3oprYvCYEyJdAjAwEknY1Nvg/mut4YUF2hYrhqlfAjj1nqV
+j1p/zvXqCneMFt1EoASMmSH+ghWZt1hA1pRwCUpLH4Aio+6jEJLXb4K/6P1YmMuDqcTD14fvM4/0
+/S+/m1unexeYZZguCSg9F1rXqpXl56v0xZW/7PGgx1oOw4BK1MpP9dNKYZCYl3baHLa+RnVHT2Q9
+yrEqXAfuK6hGn3CXWfO0ppfR3RPmhAk4KmsqVKJq2S95bUMs65EorlEJfFMPjXBqrjNWIBI3rONz
+VsiwIahIJQIDAQABo4IDIDCCAxwwggG0BgNVHREEggGrMIIBp4EVaW5mb0Bub3RhcmlhNDcuY29t
+LmVjoBsGCysGAQQBgtVhAQMBoAwMCjA5MTI4NzY2NTOgHAYLKwYBBAGC1WEBAwKgDQwLSlVBTiBN
+QU5VRUygFQYLKwYBBAGC1WEBAwOgBgwEVEFNQaAYBgsrBgEEAYLVYQEDBKAJDAdWRUxBU0NPoDsG
+CysGAQQBgtVhAQMHoCwMKkxPQ0FMIDEwOCBDLkMuIEdBUlpPQ0VOVFJPIFNIT1BQSU5HIENFTlRF
+UqAeBgsrBgEEAYLVYQEDCKAPDA0rNTkzOTg2OTYyMzQyoBoGCysGAQQBgtVhAQMJoAsMCUdVQVlB
+UVVJTKAeBgsrBgEEAYLVYQEDC6APDA0wOTEyODc2NjUzMDAxoBgGCysGAQQBgtVhAQMMoAkMB0VD
+VUFET1KgIAYLKwYBBAGC1WEBAzKgEQwPUEVSU09OQSBOQVRVUkFMoCAGCysGAQQBgtVhAQMzoBEM
+D0FSQ0hJVk8gUEtDUyMxMqARBgsrBgEEAYLVYQEDNKACDACgGAYLKwYBBAGC1WEBAzWgCQwHQUJP
+R0FETzAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFC8ievhebZSOakAUN8dua3LpOsI/MDgGCCsGAQUF
+BwEBBCwwKjAoBggrBgEFBQcwAYYcaHR0cDovL29jc3AuaWNlcnQuZmplLmdvYi5lYzByBgNVHSAE
+azBpMGcGDisGAQQBgtVhAQIBAQIBMFUwUwYIKwYBBQUHAgEWR2h0dHA6Ly93d3cuaWNlcnQuZmpl
+LmdvYi5lYy9kcGMvZGVjbGFyYWNpb25fcHJhY3RpY2FzX2NlcnRpZmljYWNpb24ucGRmMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDA6BgNVHR8EMzAxMC+gLaArhilodHRwOi8vd3d3Lmlj
+ZXJ0LmZqZS5nb2IuZWMvY3JsL2ljZXJ0LmNybDAdBgNVHQ4EFgQU0NT9JwhO5I7g2I7sYWNen/L7
+2X8wDgYDVR0PAQH/BAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQAzXMDVfCOWFPuaos0g+TTnmfHE
+rkOMS3Mo3VESrFABjpYn+2VXS1N+leIlZBnYVQhptzVWzppOv7vuCB5H8dzGuzCE5CIGv3UuUv/h
+vzgRcNnaGRhNFc0a8rnAVVqutwyla3/DD7c6OcGXi1dp7hXsn9MxDVSa/iLgGKLY2VMQI7q0Nw5Y
+6Qm8wUXTK6QC8wx1W8NZVhMmSoFbPwksGPNtps5tHp9SdvcyQvZX0Iutmgv8j3TwXsD4vH8YJSnw
+/KHevoaO6WQLgahvSVfmT0R7EdE7wvdQyxFet1JKvvIPwgphmcz7HmHW8wV542VqjJysH3yjgcn+
+paPLHNW0yflwlwQ8oHo8bEC5zhGh/bPxXpPlEmdRx2bA3d8tts76Iorhd5PRc/+ypOpdfSQdZ+iP
+rfWGqIMS45jX3oi1XYwJcvTxE7W2oMuhQdepbma6ENvLQ+ScZCN/HbuL9l3q51TDwq47lK5ENKkf
++McYoq9LayC21kZebfDl/tDvINH33WaHZcWCgo+tVrYcOFqRPT2+8eQRnkU/+0Ua6IzY2EfTpbKr
+gyzRkIizpT8GYlfFL6rUS717lz+Adp4rx0UbLQXzbK9komTZbBUhkcUvnNFZiRSuzolWiyH2AVHg
+Ok2thUTDEei/ifwoFlnQdelp3NVIomwRcyaa8p8PBDabLdquKg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mpyPtbNGayGBAXXsQ5eD3sn+Z/rnwsrgIO6dNsDhv43gQRQhaJCJ6D6YW3oprYvCYEyJdAjAwEkn
+Y1Nvg/mut4YUF2hYrhqlfAjj1nqVj1p/zvXqCneMFt1EoASMmSH+ghWZt1hA1pRwCUpLH4Aio+6j
+EJLXb4K/6P1YmMuDqcTD14fvM4/0/S+/m1unexeYZZguCSg9F1rXqpXl56v0xZW/7PGgx1oOw4BK
+1MpP9dNKYZCYl3baHLa+RnVHT2Q9yrEqXAfuK6hGn3CXWfO0ppfR3RPmhAk4KmsqVKJq2S95bUMs
+65EorlEJfFMPjXBqrjNWIBI3rONzVsiwIahIJQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature770436-Object84808"><etsi:QualifyingProperties Target="#Signature770436"><etsi:SignedProperties Id="Signature770436-SignedProperties443489"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T12:55:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>YwEMwWtLEhymwVgZ8kNv2pWGW/g=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ENTIDAD DE CERTIFICACION ICERT-EC,OU=SUBDIRECCION NACIONAL DE SEGURIDAD DE LA INFORMACION DNTICS,O=CONSEJO DE LA JUDICATURA,L=DM QUITO,C=EC</ds:X509IssuerName><ds:X509SerialNumber>5691887463594649714</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-773501"><etsi:Description></etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601099226219200120081010017242741416512211</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T16:52:36-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>LETERAGO DEL ECUADOR S.A.</razonSocial>
+    <nombreComercial>LETERAGO</nombreComercial>
+    <ruc>0992262192001</ruc>
+    <claveAcceso>1404202601099226219200120081010017242741416512211</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>008</estab>
+    <ptoEmi>101</ptoEmi>
+    <secuencial>001724274</secuencial>
+    <dirMatriz>Manuel Cordova Galarza km 6</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>14/04/2026</fechaEmision>
+    <dirEstablecimiento>Km19 ½ Via Daule Parque Indust - Guayaquil - Guayas</dirEstablecimiento>
+    <contribuyenteEspecial>345</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <guiaRemision>008-101-001724274</guiaRemision>
+    <razonSocialComprador>VESTRI MEDICUS EC S.A.S.</razonSocialComprador>
+    <identificacionComprador>1291789843001</identificacionComprador>
+    <direccionComprador>DECIMA CUARTA S/N Y CALLE 12 DE OCTUBRE PISO 525 - LOS RIOS-QUEVEDO - Los Ríos</direccionComprador>
+    <totalSinImpuestos>481.10</totalSinImpuestos>
+    <totalDescuento>277.11</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>422.27</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>58.82</baseImponible>
+        <valor>8.82</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>489.91</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>489.91</total>
+        <plazo>1.00</plazo>
+        <unidadTiempo>días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>8904091116133</codigoPrincipal>
+      <codigoAuxiliar>058-001-100048</codigoAuxiliar>
+      <descripcion>Altacef 500mgx16 tabletas</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>8.000000</cantidad>
+      <precioUnitario>15.070000</precioUnitario>
+      <descuento>45.21</descuento>
+      <precioTotalSinImpuesto>75.35</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalDescuento" valor="37.50"></detAdicional>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="55250005_31/12/2027"></detAdicional>
+        <detAdicional nombre="detAdicionalBoni" valor="3"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>75.35</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7702605336661</codigoPrincipal>
+      <codigoAuxiliar>053-001-GE433666</codigoAuxiliar>
+      <descripcion>Diosmectita 3mg 10 sobres</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>7.000000</cantidad>
+      <precioUnitario>6.800000</precioUnitario>
+      <descuento>13.60</descuento>
+      <precioTotalSinImpuesto>34.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalBoni" valor="2"></detAdicional>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="110391_30/08/2027"></detAdicional>
+        <detAdicional nombre="detAdicionalDescuento" valor="28.57"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>34.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7750215032107</codigoPrincipal>
+      <codigoAuxiliar>051-001-9342000007</codigoAuxiliar>
+      <descripcion>Esoz LR 20 mg x28cap</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>6.000000</cantidad>
+      <precioUnitario>23.030000</precioUnitario>
+      <descuento>69.09</descuento>
+      <precioTotalSinImpuesto>69.09</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalDescuento" valor="50.00"></detAdicional>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="2075465_25/07/2028"></detAdicional>
+        <detAdicional nombre="detAdicionalBoni" valor="3"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>69.09</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7862103556265</codigoPrincipal>
+      <codigoAuxiliar>027-001-8396</codigoAuxiliar>
+      <descripcion>Flora Balance Vitamina C-D3 caja x 10 capsulas probioticas -- Producto con IVA</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>5.000000</cantidad>
+      <precioUnitario>16.340000</precioUnitario>
+      <descuento>22.88</descuento>
+      <precioTotalSinImpuesto>58.82</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalDescuento" valor="28.00"></detAdicional>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="F0126001_31/01/2029"></detAdicional>
+        <detAdicional nombre="detAdicionalBoni" valor="0"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>58.82</baseImponible>
+          <valor>8.82</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861148010039</codigoPrincipal>
+      <codigoAuxiliar>001-001-008</codigoAuxiliar>
+      <descripcion>Fluconacx 150mg caps x2</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>7.000000</cantidad>
+      <precioUnitario>1.830000</precioUnitario>
+      <descuento>1.83</descuento>
+      <precioTotalSinImpuesto>10.98</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="250776H_31/08/2029"></detAdicional>
+        <detAdicional nombre="detAdicionalDescuento" valor="14.29"></detAdicional>
+        <detAdicional nombre="detAdicionalBoni" valor="1"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>10.98</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7862119360351</codigoPrincipal>
+      <codigoAuxiliar>033-001-13170</codigoAuxiliar>
+      <descripcion>Oralyte plus 75 sol oral x 400ml (manzana)</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>20.000000</cantidad>
+      <precioUnitario>3.740000</precioUnitario>
+      <descuento>29.92</descuento>
+      <precioTotalSinImpuesto>44.88</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalBoni" valor="8"></detAdicional>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="H2509501_02/09/2027"></detAdicional>
+        <detAdicional nombre="detAdicionalDescuento" valor="40.00"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>44.88</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7862119360375</codigoPrincipal>
+      <codigoAuxiliar>033-001-13172</codigoAuxiliar>
+      <descripcion>Oralyte plus 75 sol oral x 400ml (uva)</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>20.000000</cantidad>
+      <precioUnitario>3.920000</precioUnitario>
+      <descuento>31.36</descuento>
+      <precioTotalSinImpuesto>47.04</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="H2601001_23/01/2028"></detAdicional>
+        <detAdicional nombre="detAdicionalDescuento" valor="40.00"></detAdicional>
+        <detAdicional nombre="detAdicionalBoni" valor="8"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>47.04</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7703153008802</codigoPrincipal>
+      <codigoAuxiliar>029-001-0075</codigoAuxiliar>
+      <descripcion>Umbral 500mg capsulas blandas x50</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>5.000000</cantidad>
+      <precioUnitario>10.420000</precioUnitario>
+      <descuento>13.02</descuento>
+      <precioTotalSinImpuesto>39.08</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="1577729_30/09/2028"></detAdicional>
+        <detAdicional nombre="detAdicionalDescuento" valor="25.00"></detAdicional>
+        <detAdicional nombre="detAdicionalBoni" valor="0"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>39.08</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7862103553554</codigoPrincipal>
+      <codigoAuxiliar>029-001-0707</codigoAuxiliar>
+      <descripcion>Umbral GripGel caja x 20 capsulas blandas</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>5.000000</cantidad>
+      <precioUnitario>12.500000</precioUnitario>
+      <descuento>14.38</descuento>
+      <precioTotalSinImpuesto>48.13</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalBoni" valor="0"></detAdicional>
+        <detAdicional nombre="detAdicionalDescuento" valor="23.00"></detAdicional>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="1586574_31/12/2027"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>48.13</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861141103615</codigoPrincipal>
+      <codigoAuxiliar>073-001-036223010</codigoAuxiliar>
+      <descripcion>VIRUX TABS 500MG CAJA X 20</descripcion>
+      <unidadMedida>DOLAR</unidadMedida>
+      <cantidad>5.000000</cantidad>
+      <precioUnitario>17.910000</precioUnitario>
+      <descuento>35.82</descuento>
+      <precioTotalSinImpuesto>53.73</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="detAdicionalBoni" valor="2"></detAdicional>
+        <detAdicional nombre="detAdicionalLote_Vence" valor="25WU0401_30/04/2027"></detAdicional>
+        <detAdicional nombre="detAdicionalDescuento" valor="40.00"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>53.73</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="infoAdicionalDirecCliente">DECIMA CUARTA S/N Y CALLE 12 DE OCTUBRE PISO 525</campoAdicional>
+    <campoAdicional nombre="infoAdicionalDetalle2">Lote</campoAdicional>
+    <campoAdicional nombre="infoAdicionalCliente">52758 - VESTRI MEDICUS EC S.A.S.</campoAdicional>
+    <campoAdicional nombre="infoAdicionalOrdenCompra">0</campoAdicional>
+    <campoAdicional nombre="infoAdicionalDetalle3">Fecha de Vencimiento del Lote</campoAdicional>
+    <campoAdicional nombre="infoAdicionalPedido">PDA - 782023</campoAdicional>
+    <campoAdicional nombre="infoAdicionalZona">A005  - Los Rios A</campoAdicional>
+    <campoAdicional nombre="infoAdicionalVendedor">C758 - Espinel Judith</campoAdicional>
+    <campoAdicional nombre="infoAdicionalDetalle1">Unidades Bonificadas</campoAdicional>
+    <campoAdicional nombre="infoAdicionalCondiVenta">Contado</campoAdicional>
+    <campoAdicional nombre="infoAdicionalVenciFactu">15/04/2026</campoAdicional>
+    <campoAdicional nombre="infoAdicionalComprobante">FELCO</campoAdicional>
+    <campoAdicional nombre="infoAdicionalObser">0</campoAdicional>
+    <campoAdicional nombre="infoAdicionalContribuyente">Gran Contribuyente NAC-GCFOIOC21-00000915-E</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature740245">
+<ds:SignedInfo Id="Signature-SignedInfo816719">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID259640" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature740245-SignedProperties164668">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>EUcEjjAqAAQzplZLKTQxFo764a8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate152323">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>BjIDCRPSEneNTVVdq/OGgOz+RNs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-327704" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>no4xB+Qxe0VWWiE1d5OHZxTDF2c=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue383755">
+tCEGEKgG1MggbhyE4+SUgaiDO0vtfyjx6od+jfU+AbUG55YrKn77oNVf7goStoebonsxkBgeqcss
+C3fvwsE2jhslDhNLQBqwEhAmgPtULYCUUuPBNdBp/e74mYN4wq/E8ajxAYDfVLQm0OjrK46YuYJG
+sG6CLoETsxaeq2IGT3EBmZ6nMIrwIc+Omgp3W/9GAt3G2UAngWWyEQB9ORsHEudVfhG/4cMyb0J2
++aslYluSO3gy549cazUwbuhmn6tcFnl2yahkUaTtTmTtFhGRRWzK07yg8ASsE0DPJXKUPK8974H4
+hIoXb3grSkPJUkgmcLnwZQeBgCjadKLlnSBk2A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate152323">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMTTCCCjWgAwIBAgIEC6wQYjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTAxMzEyMjM3NTNaFw0zMDAxMzEyMjM3NTNaMIGmMSQw
+IgYDVQQDDBtBTUlMQ0FSIFJFTkUgSkFDT01FIEdVRVJST04xIDAeBgNVBAUTFzA0MDEwMzYyNDkt
+MzEwMTI1MTc0NzQ4MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMESZ09QZR7TqdS8POqgIYrWSzHirzvymgL1txOu27B9
+ds0UaxlhnBTqgnrt5mUUQGP0pNJG5JdLTxcN73usXBBagHAtJmF8PxB/uXGWTTxStJ17tJVBcm1q
+G6Rg7D43JJPRQa/mKDISSbcPsQEkJSeJLnrPde5l9H17punWLx6JMRh92V6qJVgzKfNDXAg4J2YG
+Qfln88pDToGvgtrX+Cte3yCRRPLekczwhh0+YYrsHH5F/j08aHKOY2TOI4IMtMHgTQjQ/K5SGYfe
+wTc0XHNUrLIwU0lWuqynh9ct8n3OC27+DNoD4VQKRE4suJoV8eOcRqvCT5JsS1D+Olmc9CsCAwEA
+AaOCB4wwggeIMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8w
+WQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuG
+gbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZv
+Y2F0aW9uTGlzdD9iYXNlMCIGA1UdEQQbMBmBF2FqYWNvbWVAbGV0ZXJhZ28uY29tLmVjMIIBEgYD
+VR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBp
+AGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYK
+KwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0
+LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9s
+aXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwHQYDVR0lBBYwFAYI
+KwYBBQUHAwIGCCsGAQUFBwMEMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZ
+MTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNz
+dWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDMB0GA1UdDgQWBBTsVmeH8COkVza2TYvwYSWBVbeKjjArBgNVHRAEJDAigA8y
+MDI1MDEzMTIyMzc1M1qBDzIwMzAwMTMxMjIzNzUzWjALBgNVHQ8EBAMCBeAwIAYKKwYBBAGCpnID
+BQQSDBBDT05UQURPUiBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMDQwMTAzNjI0OTAYBgorBgEE
+AYKmcgMJBAoMCFBPTUFTUVVJMBEGCisGAQQBgqZyAyIEAwwBLjBSBgorBgEEAYKmcgMHBEQMQkFV
+VE9QSVMgTUFOVUVMIENPUkRPVkEgR0FMQVJaQSBTNyAzMzIgWSBDQUxMRSBPRTJGIERFIExBUyBW
+SU9MRVRBUzAcBgorBgEEAYKmcgMCBA4MDEFNSUxDQVIgUkVORTAfBgorBgEEAYKmcgMgBBEMDzAw
+MjAwMTAwMDkzNzI1ODATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFE
+T1IwFgYKKwYBBAGCpnIDAwQIDAZKQUNPTUUwKAYKKwYBBAGCpnIDCgQaDBhMRVRFUkFHTyBERUwg
+RUNVQURPUiBTIEEwHQYKKwYBBAGCpnIDCwQPDA0wOTkyMjYyMTkyMDAxMBEGCisGAQQBgqZyAx0E
+AwwBLjAXBgorBgEEAYKmcgMEBAkMB0dVRVJST04wGQYKKwYBBAGCpnIDCAQLDAkwMjIzNTAyNTUw
+DQYJKoZIhvcNAQELBQADggIBAK8qLCkT7mof73W84gg3stYG6Tb7speGFHZSYP++JjtBMmEYP7EF
+E1Ffl0yvLPY565wKj2jHoXluF1jyJTFWQ3TsJ0SZN4ttxlCLP3YMcbxG4f6K0bXQXgjwSAbGHwsS
+mZeqzjhyMEd8yLernNG6rFiHLJg7WnphYU06+SGONNaRjSlMnTnynaxpTcFHXW4yx2JwvKmQzH1R
+OBiFN3hVanklzNJtPihy13EqTZg6u7vg5QaBB1SD4ntL/cvVhU7FQBwLCUMZogpErNA3tKG3YgH4
+UVtlFAI1aVP36YXyfjtrtFrwKRZIMAlPhEHVGi4dkk1cXkjmBw3/pjywNax4WccDqjRCR21Zq4wa
+Y+luLKLi+7BuFTemnyH+U4v8yXTq2a8Z9NdkAEty0DtU3SdnW1beL2ECddYNH8Ih52E9Glw/iqGb
+aLkJKXPhcIAYCvWNkN7NvhulhgaKJ3FPYupLbNZwubAaw/Xsm3uNieBlqJiR+P6NEPiDBK+KN+jD
+m70LoxCprcPkLo1+zJaNI0V4WaA3K2eSrq3rIBTXhuymKQLcpEyishaw5ShZgpEkBcgtnFvTVaWi
+rIPw+FdPRdNKOmXyzjqlKhLGfdJlO9nrNKFEQUmr2+y7cHNn67xIASrzyhH5TqbS9XZD2zl69LJ3
+XgAEC3T2GhZ8RVDAtx799+7U
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wRJnT1BlHtOp1Lw86qAhitZLMeKvO/KaAvW3E67bsH12zRRrGWGcFOqCeu3mZRRAY/Sk0kbkl0tP
+Fw3ve6xcEFqAcC0mYXw/EH+5cZZNPFK0nXu0lUFybWobpGDsPjckk9FBr+YoMhJJtw+xASQlJ4ku
+es917mX0fXum6dYvHokxGH3ZXqolWDMp80NcCDgnZgZB+WfzykNOga+C2tf4K17fIJFE8t6RzPCG
+HT5hiuwcfkX+PTxoco5jZM4jggy0weBNCND8rlIZh97BNzRcc1SssjBTSVa6rKeH1y3yfc4Lbv4M
+2gPhVApETiy4mhXx45xGq8JPkmxLUP46WZz0Kw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature740245-Object83702"><etsi:QualifyingProperties Target="#Signature740245"><etsi:SignedProperties Id="Signature740245-SignedProperties164668"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T16:51:55-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>MNHRTpEtHzalrD9AEhk9RtpkuCY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>195825762</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-327704"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

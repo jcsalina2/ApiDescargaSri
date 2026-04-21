@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1104202601099249353400120010020000644279924935312</numeroAutorizacion>
+<fechaAutorizacion>2026-04-11T15:16:32-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MACROSALUD S.A.</razonSocial>
+        <nombreComercial>CERID</nombreComercial>
+        <ruc>0992493534001</ruc>
+        <claveAcceso>1104202601099249353400120010020000644279924935312</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>002</ptoEmi>
+        <secuencial>000064427</secuencial>
+        <dirMatriz>CDLA. ALAMOS 1 MZ.B SOLAR 3</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>11/04/2026</fechaEmision>
+        <dirEstablecimiento>GUAYAQUIL; ALAMOS I; MANZANA B; SOLAR 3</dirEstablecimiento>
+        <contribuyenteEspecial>00011</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>TORRES TORRES ANDREA STEFANIE</razonSocialComprador>
+        <identificacionComprador>0802978809</identificacionComprador>
+        <direccionComprador>SAUCES 6</direccionComprador>
+        <totalSinImpuestos>35.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>35.00</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>35.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>35.00</total>
+                <plazo>0</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>30</codigoPrincipal>
+            <codigoAuxiliar>31</codigoAuxiliar>
+            <descripcion>PIE AP Y LATERAL</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>35.000000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>35.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>35.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="PACIENTE">TORRES TORRES ANDREA STEFANIE</campoAdicional>
+        <campoAdicional nombre="Correo Electrónico:">odontorres89@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature722241"><ds:SignedInfo Id="Signature-SignedInfo682558"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID349617" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature722241-SignedProperties229822"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>+aoS2pqtGPuydRWbX0W6wPZ6PkQ=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1835912"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>q3WJyhIaFmj0FUNvToFEJbgzkX0=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-7535" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>bnM6S+uhofuyTDWH2aYUQ5Ml5Cs=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue52784">jKassGA1KjB4zlzkWLk3s4i73Z7Xld3vTr+VDhep+63/l9M34b3pr8VmPEaJ/TTw9XPH4r4qp1ffK8oS97GkTrDFIa7fS7W6WGlQb/iBU8QV4xM3mZI+0/qCvTmM7uB5/1NSPwQUHMZ0s93Yde6mSiSTgP9eqmoek8SQx4z81IaGV/qyhJK+EwE4l5KqrLc7wZHfd+YT8TBR6bBdusyonRXuIpLvYr4f8kltygraAtt6mfq7OTUIvVRKs98R+N8+Z1J5zdHFNYQeQvn6T8a2aDcISxx0XduBv529hQH5w5+eGQ47mIaUcj0GT2i/y2HpT7OsaUaagPuihzHPOgRv/g==</ds:SignatureValue><ds:KeyInfo Id="Certificate1835912"><ds:X509Data><ds:X509Certificate>MIIMCjCCCfKgAwIBAgIEGTVFbzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAxMTIxNjA4MjlaFw0yNzAxMTIxNjA4MjlaMIGdMSYwJAYDVQQDDB1KVUFOIENBUkxPUyBST0RSSUdVRVogREVMR0FETzEVMBMGA1UEBRMMMTIwMTIzMTExODE0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJANhFYPmV/jwjL5aSYGIpjw6jIJ6dHndsxki/7Xm8GdJcR5U3wVIOtEV42ArAcMjF8WsV3AFpb6Nrs4UzrjdUyUcRDrTQpruQDitGGNulHBPKucEqQ3nktAY919cdw1GkY2uHgAR/63IRKE2hvSqAmeofZVMdiqe8z4zeyvLG+REr7gF4mvtzXnZ8oGIo/9PDuTTQmxO6N9sisOG8k4F71RqcIpiOKsY5gdl0ph8NqswlyGKcnLYrcJBVp/M/ZnU2phpRz4wCMcsSFLZ3VSj25SR0EY2yR7Vl6nNaAAytNC/kop/GKlCXw2thsy7n6ZHA8gtZ4xI4UKt1CJpVQGUD8CAwEAAaOCB1IwggdOMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCYGA1UdEQQfMB2BG2p1YW4ucm9kcmlndWV6QGNlcmlkLmNvbS5lYzCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSvck2aChzXAi3gRTVJb4LMrv/Z0jArBgNVHRAEJDAigA8yMDIzMDExMjE2MDgyOVqBDzIwMjcwMTEyMTYwODI5WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxMzA1OTc4MTcxMBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZyAyIEAwwBLjA2BgorBgEEAYKmcgMHBCgMJkFWIERFTU9DUkFDSUEgU09MQVIgMyBZIFNVRlJBR0lPIExJQlJFMBsGCisGAQQBgqZyAwIEDQwLSlVBTiBDQVJMT1MwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDAzMzk4NTIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBkGCisGAQQBgqZyAwMECwwJUk9EUklHVUVaMB4GCisGAQQBgqZyAwoEEAwOTUFDUk9TQUxVRCBTIEEwHQYKKwYBBAGCpnIDCwQPDA0wOTkyNDkzNTM0MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFwYKKwYBBAGCpnIDBAQJDAdERUxHQURPMBoGCisGAQQBgqZyAwgEDAwKMDk4MDkyODYyNDANBgkqhkiG9w0BAQsFAAOCAgEADXA2bNXTw02nh3hJB7nH+M3ncSQ3/bpCmSwdYidmQReI+k2QK3bjEpOIGwPB2jtkNBP4nc6sZzkMUIUbMz/i7llPBPMiesL6e1t8bmqL0uANqc7Y6XLn3WuAoZdxH5iD0yw2l8VbG2mblCq/sd2lWwuSqGt4pfyvreKI8xNqm9iQwssQ4tSXv1QFtmFV/zgycmDabbOYyncqNJe2XHVZBv9DENd8VfK4Rq7snTmvdxpQdFzr1Dkdno32lcvc7uDLk3iyapc3/Id6njanOZ5QiCsaj88V5lm0R/jGVwmkwHum8EdqXO+NkR+nHEZY9IbT71SeNII9n0BWPQONEBlCDKgiCuyX6CIcxjgtqVsBY+qfY/5wIDB06ejAAxLV0g+kwh+bCjOeOVNCEg+SoIFdwKKhL933yvfY6deQANehrK37mmW8uV98XKdMfdn4J26CYz9SvWmIRwiheVbThg1aBhXcWE23I2/lasl3ozQcVopBQ4N4MQ6uRDVwcrSm1qrRnjWZPSS2lxhqTJXnyNt2sRVi55x6WRAlyLr/ZYustBeAdsk0V1Zy3uy/apH4jo+Crx360uzf+lW9itFI3ySxEfP7yiBYvCGNh/EtQc2DZ5c5Rv2OttKjOSgLiXBRkAbE2+ef2aXGPnVJPKVhoMsXs7cL3py4xpZylw2hwEFLlmA=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+kA2EVg+ZX+PCMvlpJgYimPDqMgnp0ed2zGSL/tebwZ0lxHlTfBUg60RXjYCsBwyMXxaxXcAWlvo2uzhTOuN1TJRxEOtNCmu5AOK0YY26UcE8q5wSpDeeS0Bj3X1x3DUaRja4eABH/rchEoTaG9KoCZ6h9lUx2Kp7zPjN7K8sb5ESvuAXia+3NednygYij/08O5NNCbE7o32yKw4byTgXvVGpwimI4qxjmB2XSmHw2qzCXIYpyctitwkFWn8z9mdTamGlHPjAIxyxIUtndVKPblJHQRjbJHtWXqc1oADK00L+Sin8YqUJfDa2GzLufpkcDyC1njEjhQq3UImlVAZQPw==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature722241-Object285168"><etsi:QualifyingProperties Target="#Signature722241"><etsi:SignedProperties Id="Signature722241-SignedProperties229822"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-11T16:16:31-04:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>/ljM4vVzI0ieIsDD/iR25KceoLI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>422921583</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-7535"><etsi:Description>Documento electrónico para SRI</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601092202455900120030100000068211776212319</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T19:20:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CONDOY MIRANDA FRANCISCO WILFRIDO</razonSocial><nombreComercial>CONDOY MIRANDA FRANCISCO WILFRIDO</nombreComercial><ruc>0922024559001</ruc><claveAcceso>1404202601092202455900120030100000068211776212319</claveAcceso><codDoc>01</codDoc><estab>003</estab><ptoEmi>010</ptoEmi><secuencial>000006821</secuencial><dirMatriz>N21JORE WASHINGTON N2080 Y AV RIO AMAZONAS</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>14/04/2026</fechaEmision><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>NAUTIDIVING S.A.</razonSocialComprador><identificacionComprador>2090004460001</identificacionComprador><direccionComprador>PUERTO BAQUERIZO MORENO/ARMADA NACIONAL S/N</direccionComprador><totalSinImpuestos>473.91</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>473.91</baseImponible><valor>71.09</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>545.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>545.00</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>IN0149</codigoPrincipal><descripcion>IMPRESORA EPSON L6370 IMPRESORA A4 COPIADORA ESCANER ADF WIFI WIFI DIRECT APP MOVIL PANTALLA BANDEJA DE PAPEL</descripcion><cantidad>1</cantidad><precioUnitario>473.91</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>473.91</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>473.91</baseImponible><valor>71.09</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="SERIE">XDPY030374</campoAdicional><campoAdicional nombre="Correo">contabilidadnautidiving@gmail.com</campoAdicional><campoAdicional nombre="Teléfono">0989919654</campoAdicional><campoAdicional nombre="Ciudad">ISABELA</campoAdicional><campoAdicional nombre="Observaciones">TRANSFERENCIA BANCO PICHINCHA</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature403712">
+<ds:SignedInfo Id="Signature-SignedInfo112230">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID132178" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature403712-SignedProperties997286">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>bdJ474zVI+V3JKdCuoicHtw4Utw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate609812">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>U9s7KL8a5IRoL36xEPe7iNtGhUw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-209904" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>7x+0N/H1pPuiMNsxtzKKLD8vXtM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue903929">
+BmI7+yd9QfdVf3mccfCRYBcGIf8kcs96tyAws7wXbMagIpWL2VQybGsGm+H0Uri7
+yYI2L8TlcNfPgk7YCPtqPgXPOpsppDBYWZBr9ATCaZTKwy3VWBr6sTxmxuB3Om+/
+PULmb3BB8VxjszSEZWH7WQeMJC2C3zxcc5Y8qIfrt4NBbWCqRUZYTQY3kEwPHuhn
+CG+7nMNoWZ7LpDl7ubUfMbeWXEyx+9wUdMFkAlRva8otiBt2BtySMsc5GJbEJuuL
+I7ZV/d/vBX7R5fG3WRReYF6gTeequjxbM5SRGtYpW7uHGQZOuWitsJzjPFIb3TlJ
+ZmcgC1MerbJx+4P5kSYylQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate609812">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKtDCCCJygAwIBAgIMAzn5x2cebAn+a+s/MA0GCSqGSIb3DQEBCwUAMIG5MRYw
+FAYDVQQFEw0xNzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5G
+QUMgQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYD
+VQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVkaWEgIEVDMTMwMQYDVQQDEypBTkYg
+SGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUgQ0EwHhcNMjUwMjEz
+MjEzNTA0WhcNMjcwMjEzMjEzNTA0WjCCAWoxKjAoBgNVBAoMIUNPTkRPWSBNSVJB
+TkRBIEZSQU5DSVNDTyBXSUxGUklETzEaMBgGCisGAQQBgqRCCgQMCjA5MjIwMjQ1
+NTkxKzApBgNVBAsMIkNlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbCBSVUMgRUMx
+GzAZBgNVBCoMEkZSQU5DSVNDTyBXSUxGUklETzEWMBQGA1UEYRMNMDkyMjAyNDU1
+OTAwMTELMAkGA1UEBhMCRUMxEzARBgNVBAUTCjA5MjIwMjQ1NTkxFzAVBgNVBAQM
+DkNPTkRPWSBNSVJBTkRBMTUwMwYDVQQDDCwwOTIyMDI0NTU5IEZSQU5DSVNDTyBX
+SUxGUklETyBDT05ET1kgTUlSQU5EQTElMCMGCSqGSIb3DQEJARYWcGFuY2hvY29u
+ZG95QGdtYWlsLmNvbTESMBAGA1UECAwJUElDSElOQ0hBMREwDwYDVQQHDAhRVUlU
+VU1CRTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANj0UEs2vBEnaozP
+vvkhVrTxw9Q2H/pJ9hvN3iwQCbnqH7XUBC+GeLJPChfpRouNlYooWvK2Ttfb2fU9
+v+aPFDNzAFErqi7NUED7cm/6hTzG3pFJN8tfbWAQOx/wsyxZxAfm/9BcgkUB74bc
+wkB+toB+8UNUdPufWRCtV9/c4/eezGgAFkcP7m+Bjv1VUzxqmEGXUBo+GbjLbHR5
+cyXzb9cPBHxfLbXlFeyit8feaKWCsXp5vOwe38OCMWdpg2A+BXOnNslX5pB1cYz8
+s4xY9gYfwAX1F0gwyYJ6NTQEhsLaIDae6Kkl+LZSVrZ46/yxvYtsytbViovpmHV7
+dz+RITMCAwEAAaOCBQYwggUCMB8GA1UdIwQYMBaAFJKu1MuCtJnG0XsRbGXqxU1o
+IfmsMB0GA1UdDgQWBBSlY29Keem/B2v76w3i/BW3Naz2BjCBtQYDVR0RBIGtMIGq
+gRZwYW5jaG9jb25kb3lAZ21haWwuY29tpIGPMIGMMSIwIAYKKwYBBAGCpEIKAQwS
+RlJBTkNJU0NPIFdJTEZSSURPMRYwFAYKKwYBBAGCpEIKAgwGQ09ORE9ZMRcwFQYK
+KwYBBAGCpEIKAwwHTUlSQU5EQTEaMBgGCisGAQQBgqRCCgQMCjA5MjIwMjQ1NTkx
+GTAXBgkrBgEEAYGPHAEMCkEtMTMwMjIwMjUwDgYDVR0PAQH/BAQDAgbAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMEBggrBgEFBQcDAjBQBgNVHR8ESTBHMEWgQ6BBhj9odHRw
+Oi8vY3JsLmFuZi5lcy9jcmwvQU5GSGlnaEFzc3VyYW5jZUVjdWFkb3JJbnRlcm1l
+ZGlhdGVDQS5jcmwwggENBgNVHSAEggEEMIIBADCB5wYMKwYBBAGCpEICBQEDMIHW
+MDAGCCsGAQUFBwIBFiRodHRwczovL2FuZi5lcy9lYy9yZXBvc2l0b3Jpby1sZWdh
+bC8wgaEGCCsGAQUFBwICMIGUDIGRQ2VydGlmaWNhZG8gY29uZm9ybWUgYSBsYSBs
+ZWdpc2xhY2nDs24gZGUgZmlybWEgZWxlY3Ryw7NuaWNhLiBBbnRlcyBkZSBhY2Vw
+dGFybG8gY29tcHJ1ZWJlIGludGVncmlkYWQsIGxpbWl0YWNpb25lcywgdmlnZW5j
+aWEgeSB1c29zIGF1dG9yaXphZG9zLjAJBgcEAIvsQAEBMAkGB2CFVAEDBQgwgZsG
+CCsGAQUFBwEBBIGOMIGLMCcGCCsGAQUFBzABhhtodHRwOi8vb2NzcC5hbmYuZXMv
+c3BhaW4vQVYwYAYIKwYBBQUHMAKGVGh0dHA6Ly93d3cuYW5mLmVzL2VzL2NlcnRp
+ZmljYXRlcy1kb3dubG9hZC9BTkZIaWdoQXNzdXJhbmNlRWN1YWRvckludGVybWVk
+aWF0ZUNBLmNlcjAMBgNVHRMBAf8EAjAAMCgGCSsGAQQBgY8cEwQbDBk2MzIyNjM1
+NDQ1NjAtNTI1MDIwMTcyMTE1MBUGCisGAQQBgY8cEwIEBwwFMzc0NDIwKQYKKwYB
+BAGCpEITAQQbDBk1MjUwMjAxNzIxMTUtNDg3MDY1MTIyMzQ4MBoGCisGAQQBgqRC
+AwEEDAwKMDkyMjAyNDU1OTAxBgorBgEEAYKkQgMKBCMMIUNPTkRPWSBNSVJBTkRB
+IEZSQU5DSVNDTyBXSUxGUklETzAdBgorBgEEAYKkQgMLBA8MDTA5MjIwMjQ1NTkw
+MDEwEgYKKwYBBAGCpEIDDAQEDAJFQzAiBgorBgEEAYKkQgMCBBQMEkZSQU5DSVND
+TyBXSUxGUklETzAeBgorBgEEAYKkQgMDBBAMDkNPTkRPWSBNSVJBTkRBMBgGCisG
+AQQBgqRCAwkECgwIUVVJVFVNQkUwFwYKKwYBBAGCpEIqAQQJDAdVSU8tMDA3MBMG
+CisGAQQBgqRCLgEEBQwDNzMwMFAGCisGAQQBgqRCLwEEQgxAOWIwOTNhNjJjN2U5
+ZjhlODJkYzk3MzhkMzRiNDg0MDBjMDZmNGM3NWIxYjlmNThjM2VlNjFiNTA2NDRk
+YjlmMzANBgkqhkiG9w0BAQsFAAOCAgEATy1Am/QawUJbQHygOgNSUo7UNIL/46M3
+3szjDL2qFAr65D3cYNH+hmr4/4fKqNXXjQi9E2ryc+fRlJCAr1Yv1u5QRNTwffH8
+l74YdRx46K4nukUBtWh4kbQyUBbSlBBcYEhXob6Ds7juMe80y7BNgAgPVOTc2qSC
+O/spLMib/HiRygxcvEq5p8StHUeaCoGPJsNMu1UZIJxada9o9hQWDAJHIANNMQnl
+jxLUZn8juje9PdOm9rbf0mH4VH5EdtLsgm1OcQCTUYNGtrHFUHfS5mm1pnnxXIpl
+Sxn58Mp22tLKs2HaidT2ZAT5VnmAs0E9pPTnPsWox0RdgGMCXifoyyqFnrvsSE95
+LTAaOO9wJOM7nulaKrnU2wnXAUqd9VpB1U2LkEMDnYSy7vwrON8aUTuysE7cm29Q
+xG+0IFCz4CfkBzVl5DQdMM4rSXqiLV0e4VycuNWAQBVm7qRBnzaoI8pa8gR/oOnV
++rzeJHWt9lu9bgFpsO+jMj6+pX3rDBP25Xqsw35hz3S9/FMNCcUzV06L5wG/r0U6
+tawxg+Nu8778bxE6JkY96jH17yU46npy9zzXHx4wbbxElGiEiqkUI2MC5n/Q9nuP
+Sq+8RH6ggO+d5lqbfZoiYf1+dom7GE7ggguIlNf2qkW/Tb0P1C/4mI4+diGOeu1a
+t4Ym/7ooZ8A=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+2PRQSza8ESdqjM+++SFWtPHD1DYf+kn2G83eLBAJueoftdQEL4Z4sk8KF+lGi42V
+iiha8rZO19vZ9T2/5o8UM3MAUSuqLs1QQPtyb/qFPMbekUk3y19tYBA7H/CzLFnE
+B+b/0FyCRQHvhtzCQH62gH7xQ1R0+59ZEK1X39zj957MaAAWRw/ub4GO/VVTPGqY
+QZdQGj4ZuMtsdHlzJfNv1w8EfF8tteUV7KK3x95opYKxenm87B7fw4IxZ2mDYD4F
+c6c2yVfmkHVxjPyzjFj2Bh/ABfUXSDDJgno1NASGwtogNp7oqSX4tlJWtnjr/LG9
+i2zK1tWKi+mYdXt3P5EhMw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature403712-Object265340"><etsi:QualifyingProperties Target="#Signature403712"><etsi:SignedProperties Id="Signature403712-SignedProperties997286"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T19:20:26-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>IDuXZgYbHJrVA5GYzgRXlhpg8xg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,serialNumber=1792601215001</ds:X509IssuerName><ds:X509SerialNumber>998543348768869504378465087</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-209904"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>FIRMA DIGITAL SRI</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

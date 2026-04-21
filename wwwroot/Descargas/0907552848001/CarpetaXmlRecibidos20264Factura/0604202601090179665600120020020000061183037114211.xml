@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601090179665600120020020000061183037114211</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T08:49:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+   <ambiente>2</ambiente>
+   <tipoEmision>1</tipoEmision>
+   <razonSocial>IDROVO FEIJOO VICTOR ANTONIO</razonSocial>
+   <nombreComercial>TECNOLAVADO</nombreComercial>
+   <ruc>0901796656001</ruc>
+   <claveAcceso>0604202601090179665600120020020000061183037114211</claveAcceso>
+   <codDoc>01</codDoc>
+   <estab>002</estab>
+   <ptoEmi>002</ptoEmi>
+   <secuencial>000006118</secuencial>
+   <dirMatriz>SAUCES 6 MZ 259 F8 V 12</dirMatriz>
+   <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+</infoTributaria>
+<infoFactura>
+   <fechaEmision>06/04/2026</fechaEmision>
+   <obligadoContabilidad>NO</obligadoContabilidad>
+   <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+   <razonSocialComprador>IDROVO GANCHOSO EDISON</razonSocialComprador>
+   <identificacionComprador>0907552848</identificacionComprador>
+   <totalSinImpuestos>24.22</totalSinImpuestos>
+   <totalDescuento>0.00</totalDescuento>
+   <totalConImpuestos>
+   <totalImpuesto>
+     <codigo>2</codigo>
+     <codigoPorcentaje>4</codigoPorcentaje>
+     <baseImponible>24.22</baseImponible>
+       <tarifa>15</tarifa>
+     <valor>3.63</valor>
+   </totalImpuesto>
+   </totalConImpuestos>
+   <propina>0.00</propina>
+   <importeTotal>27.85</importeTotal>
+   <moneda>DOLAR</moneda>
+<pagos>
+   <pago>
+     <formaPago>01</formaPago>
+     <total>27.85</total>
+     <plazo>0</plazo>
+     <unidadTiempo>dias</unidadTiempo>
+   </pago>
+</pagos>
+</infoFactura>
+<detalles>
+  <detalle>
+    <codigoPrincipal>1</codigoPrincipal>
+    <descripcion>COMBO(LAVADO Y DOBLADO)</descripcion>
+    <cantidad>3.00</cantidad>
+    <precioUnitario>2.086957</precioUnitario>
+    <descuento>0.00</descuento>
+    <precioTotalSinImpuesto>6.26</precioTotalSinImpuesto>
+    <impuestos>
+     <impuesto>
+       <codigo>2</codigo>
+       <codigoPorcentaje>4</codigoPorcentaje>
+       <tarifa>15.00</tarifa>
+       <baseImponible>6.26</baseImponible>
+       <valor>0.94</valor>
+     </impuesto>
+    </impuestos>
+  </detalle>
+  <detalle>
+    <codigoPrincipal>3</codigoPrincipal>
+    <descripcion>EDREDONES</descripcion>
+    <cantidad>1.15</cantidad>
+    <precioUnitario>4.052174</precioUnitario>
+    <descuento>0.00</descuento>
+    <precioTotalSinImpuesto>4.66</precioTotalSinImpuesto>
+    <impuestos>
+     <impuesto>
+       <codigo>2</codigo>
+       <codigoPorcentaje>4</codigoPorcentaje>
+       <tarifa>15.00</tarifa>
+       <baseImponible>4.66</baseImponible>
+       <valor>0.70</valor>
+     </impuesto>
+    </impuestos>
+  </detalle>
+  <detalle>
+    <codigoPrincipal>3</codigoPrincipal>
+    <descripcion>EDREDONES</descripcion>
+    <cantidad>1.15</cantidad>
+    <precioUnitario>4.304348</precioUnitario>
+    <descuento>0.00</descuento>
+    <precioTotalSinImpuesto>4.95</precioTotalSinImpuesto>
+    <impuestos>
+     <impuesto>
+       <codigo>2</codigo>
+       <codigoPorcentaje>4</codigoPorcentaje>
+       <tarifa>15.00</tarifa>
+       <baseImponible>4.95</baseImponible>
+       <valor>0.74</valor>
+     </impuesto>
+    </impuestos>
+  </detalle>
+  <detalle>
+    <codigoPrincipal>4</codigoPrincipal>
+    <descripcion>LAVADO ESPECIAL (CAMISAS-PANTALONES)</descripcion>
+    <cantidad>8.00</cantidad>
+    <precioUnitario>1.043478</precioUnitario>
+    <descuento>0.00</descuento>
+    <precioTotalSinImpuesto>8.35</precioTotalSinImpuesto>
+    <impuestos>
+     <impuesto>
+       <codigo>2</codigo>
+       <codigoPorcentaje>4</codigoPorcentaje>
+       <tarifa>15.00</tarifa>
+       <baseImponible>8.35</baseImponible>
+       <valor>1.25</valor>
+     </impuesto>
+    </impuestos>
+  </detalle>
+</detalles>
+<infoAdicional>
+   <campoAdicional nombre="Direccion">FLORIDA NORTE</campoAdicional>
+   <campoAdicional nombre="Email">edison.idrovo63@gmail.com</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature753592">
+<ds:SignedInfo Id="Signature-SignedInfo41767">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID694300" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature753592-SignedProperties1001922">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>stY1fRUQXO/WCNG7/mVsHbmEq/s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1282278">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>TUfQeFnThm2uFQHRAVXSJcCx0IA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-686943" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>4zxsOLAt9DBFo5PpAUV1lqB87i0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue160917">
+tCwajdajNY4uUa7FRnid8LyFTX9/+7PjWCMfp/z5TAyUIdeScJr6B5jV4LtCTiYn1PFOHkb82rQF
+Rjp4FYTO4J13fR36HyJOeXOg6Pina5qpTID3Z+fP7aZHzFMpv1cr6zcDG2/3GtjNoSZItv5ZjeXX
+XHohrFFB3wWNGEjCvvBjj380EvtsglHXWwvQlQ8hUjrOrzOrugXYspgwMRiGeFj5q/7uVF/kmbYN
+ivFHW5yxkRhj7OT/lsI/vsanuFZnKqXUyn8Dcx75D4YSCa5cW5GSZsG3HcjBKCE1MO1WctxpAOwc
+r74l1pDjZbAMJBDHJAUHuVEDJ7/3dOFM9sfj5A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1282278">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL+DCCCeCgAwIBAgIEawywPDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA0MDUxNjI2MjBaFw0yNzA0MDUxNjI2MjBaMIGnMSUw
+IwYDVQQDDBxWSUNUT1IgQU5UT05JTyBJRFJPVk8gRkVJSk9PMSAwHgYDVQQFExcwOTAxNzk2NjU2
+LTA1MDQyNDExMzYwODEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDmjylFAJM/YZxpJw8yzBLeVK54dgFxflX/10qs6X3r
+fl0wl7hPmr2wAyYUD3sZ838EU08OkFk4spIaOFOjhXDSzCh6wXfMNAHybIgnsZwGs+aQP7YwiaUD
+C+vXdc1QfLwRrjBn0LgQ3tKgLh/dbk5veAiwm2rIMUDL0o9p+4GoUbqYCxqD10HMf7zwK2Yi77dN
+EFm9VVQ1qO4X2KN2rv1q4GVyGDa+dnME2HG0BDgvSeOA+dGuJFOAZALBwsk/JBgBRT3iNtShlkO+
+Y1DVp1gxdxmSRxrtJBEMiLNfxhWeVfbVKTZllwLGfJZMBP6Gca4y2lUrY+NvxWVWsfrjxkdtAgMB
+AAGjggc2MIIHMjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7
+hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2
+b2NhdGlvbkxpc3Q/YmFzZTAnBgNVHREEIDAegRx2aWN0b3JpZHJvdm9mZWlqb29AZ21haWwuY29t
+MIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABp
+AGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisG
+AQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVj
+L3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRp
+Y2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB
+5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0
+YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3Qv
+Y2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFJ8h0nfB5K5s2mtcVbVJ
+ImTFjRJEMCsGA1UdEAQkMCKADzIwMjQwNDA1MTYyNjIwWoEPMjAyNzA0MDUxNjI2MjBaMAsGA1Ud
+DwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjA5MDE3OTY2NTYwFgYKKwYBBAGCpnIDCQQIDAZUQVJR
+VUkwEQYKKwYBBAGCpnIDIgQDDAEuMEAGCisGAQQBgqZyAwcEMgwwTVogMjU5IEYgOCBTT0xBUiAx
+MiBZIEFWIERSIEVOUklRVUUgREUgR1JBVSBSVUlaMB4GCisGAQQBgqZyAwIEEAwOVklDVE9SIEFO
+VE9OSU8wHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDA1NjY4ODgwEQYKKwYBBAGCpnIDIwQDDAEu
+MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKm
+cgMDBAgMBklEUk9WTzAZBgorBgEEAYKmcgMeBAsMCUlOR0VOSUVSTzAdBgorBgEEAYKmcgMLBA8M
+DTA5MDE3OTY2NTYwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGRkVJSk9P
+MBoGCisGAQQBgqZyAwgEDAwKMDk5NjA3MTE4MzANBgkqhkiG9w0BAQsFAAOCAgEAaKtkqoQlfDeF
+YzPzygmjV04zjK+gg7d3l4UCwTYTSDv9/cA5g9v+VRGhGIUtixPClENaDAJAXnUz6zvKW/NA0THg
+9xIXiP6Soo8FIdlLixTa5qOouaqeSUsW4hesSQtykWY9WzVCKfUDlgCJ5uUTO6L+IyI3e9rq4OgR
+YOfe2l7NKzPtYEqVEn64XfrtIuAlnleNH5qjGnAdhzDOceXg7rV/DRb77YJfqT6+8XN+0MTN5R6c
+k41b3hbWO+RPSDDYi3joPYO+hW0gRCIc72X1WZbXN0GqMqz8H4FyinkNkz8VoqQNOkSRsf0kJHd/
+fFLD24QgTHf/bgdNLZj5mZBh54yTH7exi+3hCTixHMmQ+Tj94Ml6LXAPAxRHSb6UnhnLV+BO3Atc
+N/mHn8JrAzo2UVwdi/K12YSL4ZaBScGOCCssdTqSJgr3biYycKjbQ9F6S2c66l1HZdRl4QvCWvFX
+Af43XIgYlhfbsp3cXwaSfH2rblo7O6+dPfzET9e8k74LkXCx/UlGCbhn8qirIylP7e/YLH0Gq8Fu
+RAX+w7iF7KJb7FqsR15CbJiQBsr7z8k+pgBUXzg4oThV1J7iiL37QP3R7RI4fa4ty4vF93RqWUk8
+hAgqqvzoVs/GpVsplaURYVCOF7fGo686YWd//MgRedPYGiMBpnNCYNl1qtbDsoM=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+5o8pRQCTP2GcaScPMswS3lSueHYBcX5V/9dKrOl9635dMJe4T5q9sAMmFA97GfN/BFNPDpBZOLKS
+GjhTo4Vw0swoesF3zDQB8myIJ7GcBrPmkD+2MImlAwvr13XNUHy8Ea4wZ9C4EN7SoC4f3W5Ob3gI
+sJtqyDFAy9KPafuBqFG6mAsag9dBzH+88CtmIu+3TRBZvVVUNajuF9ijdq79auBlchg2vnZzBNhx
+tAQ4L0njgPnRriRTgGQCwcLJPyQYAUU94jbUoZZDvmNQ1adYMXcZkkca7SQRDIizX8YVnlX21Sk2
+ZZcCxnyWTAT+hnGuMtpVK2Pjb8VlVrH648ZHbQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature753592-Object772562"><etsi:QualifyingProperties Target="#Signature753592"><etsi:SignedProperties Id="Signature753592-SignedProperties1001922"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T08:49:22-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>GV4pzD9OVhfgQeCeLMyI1JZphd0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1795993660</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-686943"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

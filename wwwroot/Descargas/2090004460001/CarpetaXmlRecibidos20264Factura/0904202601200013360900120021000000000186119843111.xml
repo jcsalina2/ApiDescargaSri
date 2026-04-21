@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0904202601200013360900120021000000000186119843111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T15:36:39-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>PAREDES ALTAMIRANO DIRC ALEXANDER</razonSocial>
+        <ruc>2000133609001</ruc>
+        <claveAcceso>0904202601200013360900120021000000000186119843111</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>002</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000018</secuencial>
+        <dirMatriz>Barrio: CENTRAL Calle: LAS FRAGATAS Numero: S/N </dirMatriz>
+        <contribuyenteRimpe>CONTRIBUYENTE NEGOCIO POPULAR - RÉGIMEN RIMPE</contribuyenteRimpe>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>09/04/2026</fechaEmision>
+        <dirEstablecimiento>Barrio: CENTRA Calle: FRAGATAS Numero: S/N Interseccion: AV 16 DE MARZO </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>NAUTIDIVING S.A.</razonSocialComprador>
+        <identificacionComprador>2090004460001</identificacionComprador>
+        <totalSinImpuestos>450.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>450.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>450.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>450.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>G-01</codigoPrincipal>
+            <descripcion>SERVICIO DE GUIANZA</descripcion>
+            <cantidad>3.00</cantidad>
+            <precioUnitario>150</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>450.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>450.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">vicente.berdonces@gmail.com</campoAdicional>
+        <campoAdicional nombre="Referencia:">Guianza 7,8 y 9 de abril del 2026.</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-da9462f3-df22-4642-8ddf-c664b7c7366c"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-da9462f3-df22-4642-8ddf-c664b7c7366c-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>H9PPr9hT+N/wDb6gs4F8jY2rZgj6mwvfV/vfRWUPrqw=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-da9462f3-df22-4642-8ddf-c664b7c7366c-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>foQz+RmczHVLnQx83Ayr9BxHPjAXCnAJgg9smpuBDf8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-da9462f3-df22-4642-8ddf-c664b7c7366c-sigvalue">gjOy1STfuKc6Xe5tCBgMKWa/YZLvdK5/N2W+7Be+N8hbwur4haOcnD64ko1a+RWp0m4+fYy4a0QE9bGyds2suHK0FaqLnonpTM0A73f84TXwnwOrIanlxfM5BD+mEnibGWkbIk4jEgA1dM1q6zmj5nW2CjFgk4mZ/OWICI2fJHLpnzi6adyltiCjlMRf4c/c+mnvY8UfFez4XQWo/ZrxvlYwyos/XXHLfr4fDNkkny0J5HtxSKfIZohe8++92Fy/5WRjjY8vJzHqOBsZhj9nptNfxtOlDhMtWKUSe+1hJRWI8tZSqU5R6MtDdTrwXHm2lV0MvqAXUiu9KVRTAdGbjQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-da9462f3-df22-4642-8ddf-c664b7c7366c"><xades:SignedProperties Id="xmldsig-da9462f3-df22-4642-8ddf-c664b7c7366c-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-09T15:36:38.936-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>BWxQF+UM0E1THHCXfMbg37uqEfkfbas06q9JyYQqtUQ=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254867226</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-da9462f3-df22-4642-8ddf-c664b7c7366c-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0904202601209000159300120010090004515300045153019</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T19:06:17-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>Proveedora Insular  Proinsular C Ltda</razonSocial>
+		<nombreComercial>Proinsular C Ltda</nombreComercial>
+		<ruc>2090001593001</ruc>
+		<claveAcceso>0904202601209000159300120010090004515300045153019</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>009</ptoEmi>
+		<secuencial>000451530</secuencial>
+		<dirMatriz>Av Charles Darwin</dirMatriz>
+		<agenteRetencion>1</agenteRetencion>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>09/04/2026</fechaEmision>
+		<dirEstablecimiento>Av Charles Darwin</dirEstablecimiento>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>Nautidiving S.A</razonSocialComprador>
+		<identificacionComprador>2090004460001</identificacionComprador>
+		<direccionComprador>Fragata 47 Y Escalesia</direccionComprador>
+		<totalSinImpuestos>54.03</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<baseImponible>44.60</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<baseImponible>9.43</baseImponible>
+				<valor>1.41</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>55.44</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>55.44</total>
+				<plazo>1</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>522145</codigoPrincipal>
+			<descripcion>Caracol Insular</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>1.13040000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1.13</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15</tarifa>
+					<baseImponible>1.13</baseImponible>
+					<valor>0.17</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>215136</codigoPrincipal>
+			<descripcion>Funda Kraft D/Papel #6</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>0.04350000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.04</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15</tarifa>
+					<baseImponible>0.04</baseImponible>
+					<valor>0.01</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>00RUS005</codigoPrincipal>
+			<descripcion>Pan Insular Rustico Sin Lactosa Integral</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>3.26090000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>3.26</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15</tarifa>
+					<baseImponible>3.26</baseImponible>
+					<valor>0.49</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>273612</codigoPrincipal>
+			<descripcion>Queso Chueco Corona Del Diablo 250gr</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>10.10000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>10.10</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>10.10</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>27362</codigoPrincipal>
+			<descripcion>Queso Chueco Los Gemelos 250gr</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>8.40000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>8.40</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>8.40</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>27368</codigoPrincipal>
+			<descripcion>Queso Chueco Media Luna Camembert 270 Gr</descripcion>
+			<cantidad>2.0000</cantidad>
+			<precioUnitario>8.40000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>16.80</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>16.80</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>090388003519</codigoPrincipal>
+			<descripcion>Sardina Real Tomate Tinapa 156gr A.F. (100und)</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>1.30000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1.30</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>1.30</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>041224182202</codigoPrincipal>
+			<descripcion>Anchoas Roland Filetes Lata 2 Onz</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>5.00000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>5.00</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15</tarifa>
+					<baseImponible>5.00</baseImponible>
+					<valor>0.75</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>8001200045091</codigoPrincipal>
+			<descripcion>Pasta Agnesi Le Linguine N.10 500gr</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>3.65000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>3.65</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>3.65</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>8001200038994</codigoPrincipal>
+			<descripcion>Pasta Agnesi Spaguetti No.3 Integral 500gr</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>4.35000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>4.35</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>4.35</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="referencia">Contado</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature24896">
+<ds:SignedInfo Id="Signature-SignedInfo836140">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID716919" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature24896-SignedProperties41818">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>AyZw4HZA1g6BgzRNV1uErF59THs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1193869">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vzjQEzkDZqyTH4PsWvneYPPhqVQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-116058" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4y2wP7UwCTrnUMVbDkP0GHDZ8Hw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue509285">
+QGjjPN90ey77mMQSxLdPvsYVk+mhLlLVQFzbsWZ0qJjbXKWB4fGluUqczCsXLuxnZ5MAod8m9NiD
+YPGXi8Fwz/Xr5OUVNzEUCdz3My4NlHYpHelcQNvfHvpMTIkK/xGoXLuYBn4N/UNMIBIYJEThrwNj
+sVI0sNKG/hAOQdio025ryh3nOpEd41ZPwVb3tJy6GFo/ZKeoYeV+Ijbv9EmfqU/HQwlzXqKEcBRt
+74gKcz6rOnUFyLURWQ7UxSJEqQJYo+VMixp0NHmLKplbsnYJ4vHrffJwqSBpHxbJTH+6ph/BXHYl
+njJXGrErIWlgWw+OaqLPwi1Rh77xVHOi0a64/w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1193869">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK2jCCCMKgAwIBAgIEJGbMFjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA2MDUwMjU5NDJaFw0yNzA2MDUwMjU5NDJaMIGmMSQw
+IgYDVQQDDBtTSUxWSUEgSVNBQkVMIFNJRVJSQSBHQVJDRVMxIDAeBgNVBAUTFzE3MTA0NjA1MTgt
+MDQwNjI1MjIwOTM1MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAK2y3cbx0nEnh0ncTjiWJFqnB8oV34QF0vVz+MlwF7hb
+i2A+tbKJzxgeHFnyDuErpTnjqMPdu9PeFptp4y3gHOaJbJxnwuLoFe5pRO2aMPtcX+YP7cCQ/Uje
+mSU+8jt1bszMPNAOkU3NcEd1+S9sKo2XsnsosDeUUuuli8QBvfkCvxTAvi43XKsj8/ISVvUEAejB
+xjUJIHT7xXiHQAcFXuCLneMEPW4PW9uI8FcFKzlH9BFeShr6rtfuBUDAfp2ZfLYyDr/dEYOfEX6e
+m6r79pSw1Rqe3aNud/OJZjARqszo2R0FRM7dGEPaihVfAJRQ9bYi+SIUV0liZhL3PLMchB0CAwEA
+AaOCBhkwggYVMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8w
+WQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCQGA1UdEQQdMBuBGXNpbHZpdGFzZzE5
+NzBAaG90bWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUH
+AgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEA
+bgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6
+Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFz
+L1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRl
+IExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIIC
+AjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxm
+aWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8
+oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUu
+Y3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUMwHQYDVR0OBBYEFKThkbjjvH0qypvGuCki7JfiFmyjMCsGA1UdEAQkMCKADzIwMjUwNjA1MDI1
+OTQyWoEPMjAyNzA2MDUwMjU5NDJaMAsGA1UdDwQEAwIF4DAXBgorBgEEAYKmcgMFBAkMB0dFUkVO
+VEUwGgYKKwYBBAGCpnIDAQQMDAoxNzEwNDYwNTE4MC4GCisGAQQBgqZyAwkEIAweUFVFUlRPIEFZ
+T1JBIENBQkVDRVJBIENBTlRPTkFMMBEGCisGAQQBgqZyAyIEAwwBLjAlBgorBgEEAYKmcgMHBBcM
+FUFWIENIQVJMRVMgREFSV0lOIFMgTjAdBgorBgEEAYKmcgMCBA8MDVNJTFZJQSBJU0FCRUwwHwYK
+KwYBBAGCpnIDIAQRDA8wMDEwMDIwMDEwMDM1MTYwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYB
+BAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGU0lFUlJBMDQGCisGAQQBgqZyAwoE
+JgwkUFJPVkVFRE9SQSBJTlNVTEFSIFBST0lOU1VMQVIgQyBMVERBMB0GCisGAQQBgqZyAwsEDwwN
+MjA5MDAwMTU5MzAwMTARBgorBgEEAYKmcgMdBAMMAS4wFgYKKwYBBAGCpnIDBAQIDAZHQVJDRVMw
+GgYKKwYBBAGCpnIDCAQMDAowOTkyMDU5ODM4MA0GCSqGSIb3DQEBCwUAA4ICAQCitdC3RF28PhV2
+CgJEC1dyDIgZMFnY3lOO8CYgDyFhza+tj7xm/RZDWdrkKjqSWvu0TnrtbJg/GTTle7DppEtFTEtg
+XGm1GsjOTNKRFcKYceWJaoqRzh0m/gQmJCvY98c3s4mgZbNXcTSouGHnBmZziHrfn1LUIAZpgCIG
+haZ4UQ3GWYsOw6HagyC7mCjimpoGB9+Wy0Q88JvulSZtl1G6RD6/8oOKoeH4onCi32pXy8MNqmTA
+BQHWQAsaO1N9O/iWGd/1SoEtZ2v3N4PJU7+OQa5sXofRmn88hE9I28lEh1mKgUWC9u5WyJ+EsU48
+cSsJzAE6dNbWbeT1TkEl/NBwyGDlvqb9UKmwBSbZ2+ccDgrXxjSfdux7ue1Lg2uPun/qfTeP9vgl
+gqL+dfnuGVyx6Sp15vrl9nmPoOs9xgGqHjcvjPgMEoJD2DivW8mnyplcBgbqQdeJMPeId2tEC3rp
+h//J+1YcxbjsT1uR7qYTBVZF0L82KqL1EvJCX1F9RLAXGrfkvnCfePBRI268DWj9y9QTVhlwKYgD
+Xo5v65sB8aqfSQrucz9fU/OtQo+4ZqWW4P7D480snr80R4eANwuojMkrYahM2s/Kwx3oMOUwQmMQ
+ZQ/IfqLQ8/qzRyzZeZBIO0+lIqYA1dXp2gstRADArKBba+b9zGH8V5yh52A4ag==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rbLdxvHScSeHSdxOOJYkWqcHyhXfhAXS9XP4yXAXuFuLYD61sonPGB4cWfIO4SulOeOow927094W
+m2njLeAc5olsnGfC4ugV7mlE7Zow+1xf5g/twJD9SN6ZJT7yO3VuzMw80A6RTc1wR3X5L2wqjZey
+eyiwN5RS66WLxAG9+QK/FMC+LjdcqyPz8hJW9QQB6MHGNQkgdPvFeIdABwVe4Iud4wQ9bg9b24jw
+VwUrOUf0EV5KGvqu1+4FQMB+nZl8tjIOv90Rg58Rfp6bqvv2lLDVGp7do25384lmMBGqzOjZHQVE
+zt0YQ9qKFV8AlFD1tiL5IhRXSWJmEvc8sxyEHQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature24896-Object104539"><etsi:QualifyingProperties Target="#Signature24896"><etsi:SignedProperties Id="Signature24896-SignedProperties41818"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-09T18:06:15-06:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>8fd67jfhKiMcnYuhKFkvCU3wz18=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>610716694</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-116058"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

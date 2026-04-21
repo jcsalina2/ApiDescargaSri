@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601099339138000120050020000042190001799218</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T17:05:23-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="1.1.0">
+     <infoTributaria>
+          <ambiente>2</ambiente>
+          <tipoEmision>1</tipoEmision>
+          <razonSocial>PETPOINT S.A.S.</razonSocial>
+          <nombreComercial>PETPOINT S.A.S.</nombreComercial>
+          <ruc>0993391380001</ruc>
+          <claveAcceso>1504202601099339138000120050020000042190001799218</claveAcceso>
+          <codDoc>01</codDoc>
+          <estab>005</estab>
+          <ptoEmi>002</ptoEmi>
+          <secuencial>000004219</secuencial>
+          <dirMatriz>MAPASINGUE ESTE Calle: VIA A DAULE Número: 0400 Intersección: 3RA.Y 4TA. AV. Edificio: CENTRO PECUARIO Número de piso: PB Referencia: FRENTE AL LOCAL ESPAÑOLA</dirMatriz>
+     </infoTributaria>
+     <infoFactura>
+          <fechaEmision>15/04/2026</fechaEmision>
+          <dirEstablecimiento>URB TORRES DEL SALADO Número: SOLAR 3 Conjunto: CENTRO COMERCIAL PLAZA TIA, LOCALL12 Manzana: 7.</dirEstablecimiento>
+          <obligadoContabilidad>SI</obligadoContabilidad>
+          <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+          <razonSocialComprador>VALAREZO JIMENEZ KARLA GIANELLA</razonSocialComprador>
+          <identificacionComprador>0705030427</identificacionComprador>
+          <direccionComprador>VIA A LA COSTA</direccionComprador>
+          <totalSinImpuestos>85.00</totalSinImpuestos>
+          <totalDescuento>0.00</totalDescuento>
+          <totalConImpuestos>
+               <totalImpuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <baseImponible>85.00</baseImponible>
+                    <valor>0.00</valor>
+               </totalImpuesto>
+               <totalImpuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>6</codigoPorcentaje>
+                    <baseImponible>0.00</baseImponible>
+                    <valor>0.00</valor>
+               </totalImpuesto>
+          </totalConImpuestos>
+          <propina>0.00</propina>
+          <importeTotal>85.00</importeTotal>
+          <moneda>DOLAR</moneda>
+          <pagos>
+               <pago>
+                    <formaPago>20</formaPago>
+                    <total>85.00</total>
+                    <plazo>1</plazo>
+                    <unidadTiempo>días</unidadTiempo>
+               </pago>
+          </pagos>
+     </infoFactura>
+     <detalles>
+          <detalle>
+               <codigoPrincipal>Eco4567</codigoPrincipal>
+               <codigoAuxiliar>Eco4567</codigoAuxiliar>
+               <descripcion>ECOCARDIOGRAFIA</descripcion>
+               <cantidad>1.000000</cantidad>
+               <precioUnitario>85.000000</precioUnitario>
+               <descuento>0.00</descuento>
+               <precioTotalSinImpuesto>85.00</precioTotalSinImpuesto>
+               <detallesAdicionales>
+                    <detAdicional nombre="Varios" valor="UNI||||||||||||||" />
+                    <detAdicional nombre="Porcentaje" valor="0.00||0.00||0.00||0.00" />
+               </detallesAdicionales>
+               <impuestos>
+                    <impuesto>
+                         <codigo>2</codigo>
+                         <codigoPorcentaje>0</codigoPorcentaje>
+                         <tarifa>0.00</tarifa>
+                         <baseImponible>85.00</baseImponible>
+                         <valor>0.00</valor>
+                    </impuesto>
+               </impuestos>
+          </detalle>
+     </detalles>
+     <infoAdicional>
+          <campoAdicional nombre="Código Cliente">0705030427</campoAdicional>
+          <campoAdicional nombre="Nombre Comercial">VALAREZO JIMENEZ KARLA GIANELLA</campoAdicional>
+          <campoAdicional nombre="Direccion">VIA A LA COSTA</campoAdicional>
+          <campoAdicional nombre="Email">karlavalarezoj@gmail.com</campoAdicional>
+          <campoAdicional nombre="Teléfono">0</campoAdicional>
+          <campoAdicional nombre="Vendedor">01-GENERAL</campoAdicional>
+          <campoAdicional nombre="Provincia">GUAYAS</campoAdicional>
+          <campoAdicional nombre="Ciudad">GUAYAQUIL</campoAdicional>
+          <campoAdicional nombre="Condición de Pago">1-CONTADO</campoAdicional>
+     </infoAdicional>
+<ds:Signature Id="Signature310735" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#"><ds:SignedInfo Id="Signature-SignedInfo558355"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID810062" URI="#Signature310735-SignedProperties489098" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>5Pvrs+bgeTz9GWvqS4O/f9T7Q7Y=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate711132"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>8c6eDpxuMIPJdfxjwGkGAEHQUkY=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-17166" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>DTYgSgJzxUikZIhYYNzhjwA6sfg=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>Bytv77cyOJL4k+DKOrnyOx4esfY7mScZ/yEu6ElXqhC5O1xbggH8VNJM11/3C0QArkNSpLFp45enya7XsHs7UIZyMy12IrJE8dutT2Uf2s2Dr8KFKPLLFi4OvF0CWmqx2jFEG/I+noyDsOUVZaJ0KttNDeb7pu7M5wPe5Vqy9bmk1xw9Miw31YoDTNZJoyaAnHc56A8jQlD6mtsQ7YPxEYN4EvxV2RpqJSOxM1tpXDrlq9NcpBI7ak2jvCR1L881QPm+rxH+3ByVdADJs0fb7UfLybC30gWvwo2Rqlydr4nm707Ct5xO1KRAuXNpi0eRTUwRAVY3E5FPVRSnoNylNA==</ds:SignatureValue><ds:KeyInfo Id="Certificate711132"><ds:X509Data><ds:X509Certificate>MIIK3DCCCMSgAwIBAgIIR81r6Vlz64kwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwODIyMTc1MTQ2WhcNMjYwODIyMTc1MTQ2WjCBpzElMCMGA1UEAwwcUk9OQUxEIERBVklEIENPTlRSRVJBUyBQT1RFUzEgMB4GA1UEBRMXMDkyMDAwMjUzMi0yMjA4MjUxMzAxMzgxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAreBwF5+s66KEjqooPNqDgjA+YsL5f3j0rbkxGtxV1F9etwrriKrF9jFK2XO1uT/gtvjSSf5HJEb2ZmjlguLr99JPd7eVV5Y12yaCA58pzo2YuqmQ0e/LHFzw6ihYmOboxcF9EnIZQGN7FJwzebf+sau4H/7QF8qvWZU3zV5Rfwc3jJdOn3z7qgtEDkLn/aX1gXL1dfcdC15YypcmeF9Qax7g+atQXONVqLR2YIPM321ds2ibhw/GQNl2S1shUZywsZ8nr+Hq+/4d9+hZ46wSA8/kn99xH9CqhkMSiu4DeNN0pGdai2/YnExKs4H5dhpzGXvz0V0kOa72EVHReU82JQIDAQABo4IGFjCCBhIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwHwYDVR0RBBgwFoEUcmRjcDE5ODRAaG90bWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFBQaLeq0rRUa7HsZX5YZIwvf4fR8MCsGA1UdEAQkMCKADzIwMjUwODIyMTc1MTQ2WoEPMjAyNjA4MjIxNzUxNDZaMAsGA1UdDwQEAwIF4DAXBgorBgEEAYKmcgMFBAkMB0dFUkVOVEUwGgYKKwYBBAGCpnIDAQQMDAowOTIwMDAyNTMyMEAGCisGAQQBgqZyAwkEMgwwR1VBWUFRVUlMIENBQkVDRVJBIENBTlRPTkFMIFkgQ0FQSVRBTCBQUk9WSU5DSUFMMBEGCisGAQQBgqZyAyIEAwwBLjAqBgorBgEEAYKmcgMHBBwMGjQwMCBZIEFWIFRFUkNFUkEgQVYgQ1VBUlRBMBwGCisGAQQBgqZyAwIEDgwMUk9OQUxEIERBVklEMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAxMDM2NDIwMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAZBgorBgEEAYKmcgMDBAsMCUNPTlRSRVJBUzAeBgorBgEEAYKmcgMKBBAMDlBFVFBPSU5UIFMgQSBTMB0GCisGAQQBgqZyAwsEDwwNMDk5MzM5MTM4MDAwMTARBgorBgEEAYKmcgMdBAMMAS4wFQYKKwYBBAGCpnIDBAQHDAVQT1RFUzAaBgorBgEEAYKmcgMIBAwMCjA5OTQ5MjkwODkwDQYJKoZIhvcNAQELBQADggIBACWQ2FREI0jffRaSk8f1uIiQTIE4cMX+fw5xtE04u82HtL1Ro3JnmMnhLbNXKMKoX8LditNFAcgvZwi/Ibcl7piuIWM4HcGtEboGI88LjbkNWWmTcmLbIJD4Rxk0EfJ08QC40fIg+cMty6dRxiz8EYEn2drIBvFqes0CMYI0rfHvGef12Rn9pCV/r7jYH/X7NwEWmnSLHRvZHQia2v7Ho/rZWgIeEyyclM8xnTak/QE9O2YIZCNKDU5E/meJykJ5LbcnFJWFHG0fgrW6w3rfYGOndCCvYKzl/r3RQqjY5JhGbPGGI/F3V1aKN2ZrGiaIMXjWACpOhPAkJAV72MZsz9BDFpYcPlV+2YigHtJb5XpVeSx5J6eyShTYeZ0SammBSy9zhbpDOMuN5+0ZBKVv7q4JcjdQfFaP/NeJ/3UHh8sGyek/0w4d+md6h+B8cqI1AfYDfJnxpoqjHNCcdj8Y874k59n55WNtlhBAViyEBdQv50XfyThQLdmKqoS5xEDmZRAXgiTRvehGOB9UXDamKk93WOlLfSpMqGwUVMIwQ+duGGscYiT7zUaOfGFTUo7ddonPUfX9QxjNCyg4ReTLq79c/naM9r7qGUyh+1/gxUgUMJUlTyNY6KFCeDPKACWdM0vx1VyCAeTR8GDbl5zCHx4jux5apx8jhKu9GtKz2qf0</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>reBwF5+s66KEjqooPNqDgjA+YsL5f3j0rbkxGtxV1F9etwrriKrF9jFK2XO1uT/gtvjSSf5HJEb2ZmjlguLr99JPd7eVV5Y12yaCA58pzo2YuqmQ0e/LHFzw6ihYmOboxcF9EnIZQGN7FJwzebf+sau4H/7QF8qvWZU3zV5Rfwc3jJdOn3z7qgtEDkLn/aX1gXL1dfcdC15YypcmeF9Qax7g+atQXONVqLR2YIPM321ds2ibhw/GQNl2S1shUZywsZ8nr+Hq+/4d9+hZ46wSA8/kn99xH9CqhkMSiu4DeNN0pGdai2/YnExKs4H5dhpzGXvz0V0kOa72EVHReU82JQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature310735-Object487936"><etsi:QualifyingProperties Target="#Signature310735"><etsi:SignedProperties Id="Signature310735-SignedProperties489098"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T22:02:52Z</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>5sgJyYaFOCciY7b0YgnrZ2vhozc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>5173910196890889097</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-17166"><etsi:Description>comprobante electronico</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

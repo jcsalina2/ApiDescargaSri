@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601099277618800120280050000396304529433514</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T16:20:00-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>VAMORET S.A.</razonSocial>
+    <nombreComercial>VAMORET S.A.</nombreComercial>
+    <ruc>0992776188001</ruc>
+    <claveAcceso>1804202601099277618800120280050000396304529433514</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>028</estab>
+    <ptoEmi>005</ptoEmi>
+    <secuencial>000039630</secuencial>
+    <dirMatriz>AV. JUAN TANCA MARENGO, KM 1.5 C.C MALL DEL SOL, TORRE A PISO 2 OFICINA # 206, GUAYAQUIL</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>18/04/2026</fechaEmision>
+    <dirEstablecimiento>LOS RIOS / QUEVEDO / PASEO SHOPPING QUEVEDO /  CARRETERO QUEVEDO BUENA FE KM 1</dirEstablecimiento>
+    <contribuyenteEspecial>011</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>ADOLFO JIMENEZ</razonSocialComprador>
+    <identificacionComprador>1204646788</identificacionComprador>
+    <direccionComprador>QUEVEDO</direccionComprador>
+    <totalSinImpuestos>95.620000</totalSinImpuestos>
+    <totalDescuento>0.000000</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>95.620000</baseImponible>
+        <valor>14.340000</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>109.960000</importeTotal>
+    <moneda>DÓLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>109.960000</total>
+        <plazo>0</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>MME180765-BG</codigoPrincipal>
+      <codigoAuxiliar>7861221985988</codigoAuxiliar>
+      <descripcion>MOCHILA MOZIONI TRIPLE COMPARTIMENTO CON BOLSILLO PARA LAPTOP INCLUYE LLAVERO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>60.861000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>60.860000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>60.860000</baseImponible>
+          <valor>9.130000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MEG181114-BG</codigoPrincipal>
+      <codigoAuxiliar>7861221992764</codigoAuxiliar>
+      <descripcion>TERMO PLASTICO MEDIANO MOZIONI</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.687000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>8.690000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>8.690000</baseImponible>
+          <valor>1.300000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MPB180766-BG</codigoPrincipal>
+      <codigoAuxiliar>7861221987494</codigoAuxiliar>
+      <descripcion>LAPICERA MOZIONI EXPANDIBLE</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>19.122000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>19.120000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>19.120000</baseImponible>
+          <valor>2.870000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MJV180880-CF</codigoPrincipal>
+      <codigoAuxiliar>7861221985797</codigoAuxiliar>
+      <descripcion>LLAVERO PELUCHE MOZIONI CAFE</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.948000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.950000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>6.950000</baseImponible>
+          <valor>1.040000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>KAC01113</codigoPrincipal>
+      <codigoAuxiliar>KAC01113</codigoAuxiliar>
+      <descripcion>FUNDA PLASTICA GRANDE MOZIONI</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.000000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.000000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>0.000000</baseImponible>
+          <valor>0.000000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">QUEVEDO</campoAdicional>
+    <campoAdicional nombre="Telefono">0989078967</campoAdicional>
+    <campoAdicional nombre="Email">S/C</campoAdicional>
+    <campoAdicional nombre="Fecha Vencimiento:">18/04/2026</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature201915">
+<ds:SignedInfo Id="Signature-SignedInfo689377">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID987745" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature201915-SignedProperties982937">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>P8TKtujl6dVdcnd/GzMavJecD5s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1236447">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>vrN3b9fuqrI2T1lasRMRksxhgS4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-531090" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2PP1rKzOdEWgDWyfzAmM0/GVkCk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue484847">
+m2I+jcKB/MnmQdmJbhFGLU+T04FAs6EpIxt6oUuQKBox2lKvJmkFi8s3wl3+f3A68RXrAK+Gc93/
+LWZJAjvSMTQcZf6ZkqHQseShMngK1F5zgdup1eTB2AUdq6Az6++t0WZvolDdZq4jrTBLL5C6Nuvz
+gJ4MoDXgxj/Yf76vl/MANK5viCPTYmp3Jj3lMQHIrgAh82O5zVgMEJz8rMCXTkChjN0NRy+P2ed1
+Y1anSJkD3/axVGSBUPpRDxWdeQ3cBCCoYod6HIg06rbneGgrEJ1duZJvheZr2z4Og1Ky6wiG9w+A
+uvIw6Ix1h4ZHnFHBfLh5lT5g/pyldWow1MAmxw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1236447">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL8TCCCdmgAwIBAgIERczl1DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEwMDcyMjAwNTJaFw0yNzEwMDcyMjAwNTJaMIGcMSUw
+IwYDVQQDDBxKT1NFIE1JR1VFTCBQQUxBQ0lPUyBNT05DQVlPMRUwEwYDVQQFEwwwNzEwMjIxNzEw
+MzUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA7t/vuGlx9cVeR9aW7gh8rzsxbmmFJrKVMLo3421swQ0t8HM94RIBv49Z
+OJR7529AclBGmL+2uGYD8q5j3h32GXGVz8+MCrbgcU3nJufORMWrCz5m+6pYQhVAhhhP+byudxSd
+ish+gT/ui2ZPITb8oJRfg/+Suyl5xkudVbK/2BK2OQ9sxe92TC933MUkD6178LlFlVc9LNFNCun6
+X5TlItJlF1HNaY3Swjhz2Kv+kv83HqxYTdkqZr4aeBXhhLd1hC6C9lbEbYNKL/TUdaIuobnkQTW7
+inqNzg8EY+G1NTYOfHLS5x1z90rFMEP5+ibSJmiFBwWebhS3+cpNXe0hrQIDAQABo4IHOjCCBzYw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwKgYDVR0RBCMwIYEfbWlndWVsLnBhbGFjaW9zQGdydXBvcGFsbW9uLmNvbTCCARUGA1Ud
+IASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBj
+AGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYK
+KwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0
+LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9s
+aXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIIC
+mTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVi
+bGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJ
+BgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVj
+L0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1F
+TlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMu
+QS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBz
+Oi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93
+ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQ0FW+pzTmT
+FeKoVRuWenF15GoJmTArBgNVHRAEJDAigA8yMDIyMTAwNzIyMDA1MlqBDzIwMjcxMDA3MjIwMDUy
+WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGC
+pnIDAQQMDAowOTE0Nzk2NjUxMBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZy
+AyIEAwwBLjAeBgorBgEEAYKmcgMHBBAMDkFWIERFTCBCT01CRVJPMBsGCisGAQQBgqZyAwIEDQwL
+Sk9TRSBNSUdVRUwwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDAyNjU2NDIwEwYKKwYBBAGCpnID
+IQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwIUEFMQUNJ
+T1MwGwYKKwYBBAGCpnIDCgQNDAtWQU1PUkVUIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTI3NzYx
+ODgwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAXBgorBgEEAYKmcgMEBAkMB01PTkNBWU8wGgYKKwYB
+BAGCpnIDCAQMDAowOTk4OTA4ODg4MA0GCSqGSIb3DQEBCwUAA4ICAQB/glOQ4x0kBmEJ0VukwFNs
+5rl2GFxXxY2l4bstMEUPdF12o2Pwh/y4tSYcB3dynLc2bgRZRnFuGT1a0rcD0w2WrW8F88halRvw
+cols5uolLWQ8mjAFTSUKvNWfpwpmg6P0LQUOHiRIlrZyi7MVnbWAiHDu1pBJKJWY4/J+iwG6OzXs
+DztGZKS0KTOIaCkC8cTQggc9TdIlZh3uuNprnjmnnPoZYwVgPzWs9cWaF1mI98vnIJ2imUJEKYRH
+PUBSSB/rqK1qRmOI9AFrIZ03uyfI7t1DBoB9hh5DD3Q/reKp6Xl3/tJ8ZAC0qFS28HEPlEK/Hv47
+Sh92ptrfqaxTHgPHQnwBR12TupclsbI3Gj0cSdJd5g65TBTnvHOvRpN00Az3RYiXoQYiU4dRymFj
+KVRtNvs20MjVIewVqUPknG+mopxIDf/0BNtuO8RDMVjX9SVmmyYznuUqpqRbsiyhGuLtM161E5YL
+4dmgAovNg0gbdThd/GuGjqLxVcyF9A6ypOKv+iDnOlTX37bmZs23PXNWWMHDQiZM1ZodS7fMEH9W
+HJtUOkZj8n/v5iSfyNVgdUMhQtgNPSl6l8VK/dL+edaapj2Jpd6Dujlqf9RDhFqMfPIsTMnMwdMa
+IABaGswQ6srZKLj52xfOvgdQ40V0lw6vuP5fQz9PNtTAfF3EqL5i9g==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+7t/vuGlx9cVeR9aW7gh8rzsxbmmFJrKVMLo3421swQ0t8HM94RIBv49ZOJR7529AclBGmL+2uGYD
+8q5j3h32GXGVz8+MCrbgcU3nJufORMWrCz5m+6pYQhVAhhhP+byudxSdish+gT/ui2ZPITb8oJRf
+g/+Suyl5xkudVbK/2BK2OQ9sxe92TC933MUkD6178LlFlVc9LNFNCun6X5TlItJlF1HNaY3Swjhz
+2Kv+kv83HqxYTdkqZr4aeBXhhLd1hC6C9lbEbYNKL/TUdaIuobnkQTW7inqNzg8EY+G1NTYOfHLS
+5x1z90rFMEP5+ibSJmiFBwWebhS3+cpNXe0hrQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature201915-Object254326"><etsi:QualifyingProperties Target="#Signature201915"><etsi:SignedProperties Id="Signature201915-SignedProperties982937"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T13:20:56-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>F5taPmVFahlPlZ0UPfmGqEzTRRo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1171056084</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-531090"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

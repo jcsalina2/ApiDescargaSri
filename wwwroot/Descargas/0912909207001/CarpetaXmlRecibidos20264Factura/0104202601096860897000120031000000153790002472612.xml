@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601096860897000120031000000153790002472612</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T08:55:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>INSTITUTO OCEANOGRAFICO Y ANTARTICO DE LA ARMADA</razonSocial>
+    <ruc>0968608970001</ruc>
+    <claveAcceso>0104202601096860897000120031000000153790002472612</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000015379</secuencial>
+    <dirMatriz>AV. 25 DE JULIO 2601, VIA AL PUERTO MARITIMO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/04/2026</fechaEmision>
+    <dirEstablecimiento>AV. 25 DE JULIO 2601, VIA AL PUERTO MARITIMO</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>BERDONCES SERRA VICENTE</razonSocialComprador>
+    <identificacionComprador>0912909207</identificacionComprador>
+    <totalSinImpuestos>37.37</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>37.37</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>37.37</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>37.37</total>
+        <plazo>1</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>990.990.098.001.0004</codigoPrincipal>
+      <descripcion>DEDICADAS A TURISMO</descripcion>
+      <cantidad>49.820000</cantidad>
+      <precioUnitario>0.750000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>37.36</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>37.37</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">CALLE FRAGATA BARRIO EL EDEN  0 STA, CRUZ</campoAdicional>
+    <campoAdicional nombre="TELEFONO">2527004</campoAdicional>
+    <campoAdicional nombre="MAIL">leocas96@yahoo.com</campoAdicional>
+    <campoAdicional nombre="OBSERVACIONES">COMPROBANTE 0030944069 MARZO 24</campoAdicional>
+    <campoAdicional nombre="BANDERA/BUQUE/ORIGEN BUQUE/MATRICULA">ECUADOR / NAUTILUS / N / TN-01-00285</campoAdicional>
+    <campoAdicional nombre="PUERTO/T. BUQUE">PUERTO AYORA / LANCHAS DEPORTIVAS</campoAdicional>
+    <campoAdicional nombre="ARMADOR/TIPO TASA">BERDONCES SERRA VICENTE / TASA ANUAL FAROS Y BOYAS</campoAdicional>
+    <campoAdicional nombre="ESLORA/MANGA/CALADO">20,05 / 5,1 / 2,33</campoAdicional>
+    <campoAdicional nombre="TIPO DE VENTA">CONTADO - CON USO SIST. FINAN.</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature945735">
+<ds:SignedInfo Id="Signature-SignedInfo12074">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID298224" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature945735-SignedProperties779475">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>1sSqvR3zAZFxDml8ZPRME/Xq0Gk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1152036">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WQgQLhY11E7Ag95Ra5iu5+U7lQ4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-285481" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3MKhzNAcPtEgjpX9N5PY3awuDJs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue47723">
+J/ryNymIanI3PSo8q7YYNmW4IrjIghd5rPzdGDVf6FBOIh9wCruA6rLnlqZRobNtoQw65gIHHEjy
+wyE6c3D5VyELc2m4lZRpIauTgKlKuOxCU04I+uOrv5BdwzHiQf91rgwUJ4gC07fScgVhXhVd6Lsi
+w2Tk/LWInzQrkliZtjzG0tM9zxSzqExFFkSXU+j5W45ylXCKIbueiKrqLQiKkigvW86ZC2Ms9AZA
+034ffLwaGy2FWqPioDeAswO/1XNqw8udQ6R6aKqddCK4f1SkuQ2BIifFV4IsFODsLru7xONuNBM1
+IFsqT43By30eBrs04dOuQzrNfA8/eMmh3PJh2Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1152036">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKOzCCCCOgAwIBAgIEZeftzjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI2MDMwNjE0NTMzOVoXDTI4MDMwNjE1MjMz
+OFowgbcxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE7MBEGA1UEBRMKMDIwMDA2MDg5MTAmBgNVBAMTH0VTVEhFTEEgRVZFTFlO
+IEJBUlJFSVJPIFNBTkNIRVowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCt3+qZ9QLl
+iwandBArn1my4f3w3UhwoNpXhErQOLmNcuyH2LcXPYxslAjKlE97EeqJm0aylIcWjJWOxqasMgi+
+84B7tgR6/V3bYVNlHn8cIlOv9yPl9tt6Ko9TXTv2GAQ79sMYASOa0aJQ5OaKAjC2r7GlqAj6DFYv
+Ec+wjM9eaeCVmw7VyCnalDWbS2QAqWoENaQPG8BxdG5KsDi1V+qIOUg5Lk1N9GDErQNXrh4ukhGH
+2Pm7XhjNSrxHNZPNLMZDF6uSI/ImXmCXrBIjBjLEjr3eoGdR9d049VpjKMX4Ku6RxCpel5Xf1I01
+LvVzb8yuzmQ+iIs2EjfeuYgKeK6fAgMBAAGjggVhMIIFXTALBgNVHQ8EBAMCBsAwZwYDVR0gBGAw
+XjBcBgsrBgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9s
+aXRpY2EtY2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGB
+MD4GCCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0
+dXMvb2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGlj
+d2ViL3N0YXR1cy9vY3NwMEAGCisGAQQBgqg7AwoEMhMwSU5TVElUVVRPIE9DRUFOT0dSQUZJQ08g
+WSBBTlRBUlRJQ08gREUgTEEgQVJNQURBMB0GCisGAQQBgqg7AwsEDxMNMDk2ODYwODk3MDAwMTAa
+BgorBgEEAYKoOwMBBAwTCjA5MTc2NjM0NjAwHgYKKwYBBAGCqDsDAgQQEw5FU1RIRUxBIEVWRUxZ
+TjAYBgorBgEEAYKoOwMDBAoTCEJBUlJFSVJPMBcGCisGAQQBgqg7AwQECRMHU0FOQ0hFWjAnBgor
+BgEEAYKoOwMFBBkTF0FTSVNURU5URSBERSBURVNPUkVSw41BMEMGCisGAQQBgqg7AwcENRMzQVYu
+IE5BUkNJU0EgREUgSkVTVVMgTVVDSE8gTE9URSAyIFVSQiBWSUNUT1JJQSBDTFVCMBkGCisGAQQB
+gqg7AwgECxMJMDQzODEzNDQwMBkGCisGAQQBgqg7AwkECxMJR1VBWUFRVUlMMBcGCisGAQQBgqg7
+AwwECRMHRUNVQURPUjAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wKQYDVR0RBCIw
+IIEeZXN0aGVsYS5iYXJyZWlyb0Bpbm9jYXIubWlsLmVjMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIB
+zKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMjMzOSxjbj1BQyUyMEJB
+TkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBD
+RVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwl
+MjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRw
+Oi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQsw
+CQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMu
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMF
+UVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NS
+TDIzMzkwKwYDVR0QBCQwIoAPMjAyNjAzMDYxNDUzMzlagQ8yMDI4MDMwNjE1MjMzOFowHwYDVR0j
+BBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0OBBYEFIKGEMYalCMnVVGsN0wmAz3cL+N7
+MAkGA1UdEwQCMAAwGgYJKoZIhvZ9B0EABA0wCxsFVjEwLjADAgQwMA0GCSqGSIb3DQEBCwUAA4IC
+AQBVGHtwk+ELLLHL5GK+HPKdU7FXtCbpckoa3yYtVJdq1wr/G3mxDZjjvA5PSDyawcjLSxTIQhN5
+RJzYs1KW6nwixy9z1/0B1ZC+W7K7bWRH+E6F0j3DRNbDSnfA3FbXmWjGlts2NEYNCvI20Ym4t8e/
+7KWaE9vAQhs/+CRvXN8e3fk/VsWjHomsjOHR2aO18YAqt831M6KAR7JoTRykAuFQ8KcPzrL40asC
+OkahBclQiJeZxmv1laK3XQS4FoZkV8FxlBidrLYr1Wi3Gr583QcLF8v1WIvG2x29L8NL0rdHSFvQ
+Q44IFzcBPXASHj+YbhbMYlCXI2Pkt3y6ZRD2JInUrI5hU+F+Z9zffw1Y/7OwsjGqh49ooGqlhYVa
+ZXTryz9Hd4jRdlRP0/c5qc41qywtnwFw4UM0cnrIAX7eJjfKiyJbaEmnjkBsq5XVmGIteYXJKiBm
+vgtEeBRegxafNgRSYudttTrjPQH7v/mvWq+k58pIis4866vg4E+CdjeEr3NaxX9mYoHvvCY95FJx
+dsRnA+D14HuEV92oEoANLVgHMPuMcRNS46M6w8VcTWylQp3YqTVyo4UEWH5AOTQNgc0i2cJED6Yc
+Utx2OGQuc9uER3EYBbubXkh62vZ22cK1G4BLmlSVjybMdTOrRzd03cJr5lNETTp/w4eFoeM/IASD
+Cg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rd/qmfUC5YsGp3QQK59ZsuH98N1IcKDaV4RK0Di5jXLsh9i3Fz2MbJQIypRPexHqiZtGspSHFoyV
+jsamrDIIvvOAe7YEev1d22FTZR5/HCJTr/cj5fbbeiqPU1079hgEO/bDGAEjmtGiUOTmigIwtq+x
+pagI+gxWLxHPsIzPXmnglZsO1cgp2pQ1m0tkAKlqBDWkDxvAcXRuSrA4tVfqiDlIOS5NTfRgxK0D
+V64eLpIRh9j5u14YzUq8RzWTzSzGQxerkiPyJl5gl6wSIwYyxI693qBnUfXdOPVaYyjF+CrukcQq
+XpeV39SNNS71c2/Mrs5kPoiLNhI33rmICniunw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature945735-Object47654"><etsi:QualifyingProperties Target="#Signature945735"><etsi:SignedProperties Id="Signature945735-SignedProperties779475"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T08:55:17-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>SdG/A2PEe/g/HnABCxwfskE+LVs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709698510</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-285481"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

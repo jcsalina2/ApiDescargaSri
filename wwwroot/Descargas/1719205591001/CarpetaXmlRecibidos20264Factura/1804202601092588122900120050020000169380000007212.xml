@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601092588122900120050020000169380000007212</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T21:01:35-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ATWI SLEIMAN</razonSocial>
+    <nombreComercial>El Libanes</nombreComercial>
+    <ruc>0925881229001</ruc>
+    <claveAcceso>1804202601092588122900120050020000169380000007212</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>005</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000016938</secuencial>
+    <dirMatriz>Cdla. Sauces 1 MZ f10 solar  36</dirMatriz>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>18/04/2026</fechaEmision>
+    <dirEstablecimiento>Cdla. Sauces 1 MZ f10 solar  36</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>keterine valdez coello</razonSocialComprador>
+    <identificacionComprador>1719205591001</identificacionComprador>
+    <totalSinImpuestos>40.65</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>40.65</baseImponible>
+        <valor>6.10</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>46.75</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>46.75</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>lbi9a1txash0ueoblva2n51hs</codigoPrincipal>
+      <descripcion>PLATO DE POLLO / LOMO CON PAPAS</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.956522</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.96</baseImponible>
+          <valor>1.04</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>lbi91ela9etbbcuxn7y3t7zor</codigoPrincipal>
+      <descripcion>HAMBURGUESA - PAPAS - ENSALADA - COLA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>7.826100</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.83</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.83</baseImponible>
+          <valor>1.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>lbiqis5msldts3vv4z8s85m5m</codigoPrincipal>
+      <descripcion>tarrina</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>0.217391</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.43</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.43</baseImponible>
+          <valor>0.07</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>lbimh32po8fgwpivardv4tri8</codigoPrincipal>
+      <descripcion>combo1 con te</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.521700</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.52</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.52</baseImponible>
+          <valor>0.98</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>lbi8vlxet17efkfd3micvvmr2</codigoPrincipal>
+      <descripcion>PORCION DE KIPPE X 4</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>4.347800</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.35</baseImponible>
+          <valor>0.65</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>lbi92bek9zzlhswyoaw7ydf8i</codigoPrincipal>
+      <descripcion>SHAWARMA DE POLLO CON VEGETALES</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>3.478261</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.43</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>10.43</baseImponible>
+          <valor>1.57</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>lbi96hajt47dqiao9ug3vs1ac</codigoPrincipal>
+      <descripcion>TE</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.304348</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.61</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.61</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>cbx1or</codigoPrincipal>
+      <descripcion>Jucy Coco</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.521700</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.52</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.52</baseImponible>
+          <valor>0.23</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+<ds:Signature Id="Signature525581" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo44148">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID74699" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature525581-SignedProperties577333">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>s3JKecuKIxPOw4TkVK84gM2e/vU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1533109">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yuo/kBGvwpoRVaQtz20rlP+7Wss=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-633244" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>SWhCA6jZJkqeRWV9HbW1c/o16+0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1013407">
+kl5ATV6lkT4A7UDzW1yC/5XOBo6n2drvhJgIN01/qlRp1v8EnJDq+BxXosGwDvBotXIuTeL9xxJG
+1Fa3IOdM7XXhGVANaPCJj1h86glG/nZZ4AN2RiFr7dpbiJnmwiCq5GjWSOv9Fa0Jqk0B6v5cQZxn
+XdVxhP5GESA4NAUy/c3H4NyEEmbOFUQlO/NKh8YZiTQ3PpqIxKF65xnsOAtevooOni3BighLxeFs
+4jny/y1AC2ZlWgVqNjs7iqGmimRU/sG3Vo6CUDgBzb9dCH7KC4yxeJEss+SVhKXRsnOt1r11C8o9
+jh0ZbGan56W5kaLiWOmy6/EgOGB4T5Y9tWW34A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1533109">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILwzCCCaugAwIBAgIEOnlwQjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMTMxOTUwNTFaFw0yOTExMTMxOTUwNTFaMIGXMRUw
+EwYDVQQDDAxTTEVJTUFOIEFUV0kxIDAeBgNVBAUTFzA5MjU4ODEyMjktMTMxMTI0MTUwMDQzMTAw
+LgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoM
+FFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAM1aIzBqAiS3SJQryVQPGhko227bhH4UbdI7JMN04eEzqUsT1OtSlMz/dr1FbfFg
+RxHNtwGszv90RtrHQZGg6G1aDzhzi2ircj23w0um2jVBKbgZ8k3xunryrJOhkDwFmlXtVfLxQZHJ
+AA+7oGvhv6FtQAY8BY+P4WlfWU8k+IvqJsaJAEAhMDPsHGpyagIBpwgor3edNqs0r+U1u2oC/oTy
+JwxTSEhSnyzN1G01a8R8jZarC4dVoIpejYKOCIcMbUWpweav4AZx4LbXxJO/vf6H+LLDRmaA8a9d
+fqIqyKCGgq57Wv15A2rvCYmhgqfqJyvomBkHBqX5fXHMlPjg/+UCAwEAAaOCBxEwggcNMAwGA1Ud
+EwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBL
+MEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVi
+bGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNk
+Y2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNl
+MCAGA1UdEQQZMBeBFXNsZWltYW5hdHdpQGdtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEE
+AYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAA
+ZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcC
+ARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9O
+b3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJz
+b25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkw
+NwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEx
+MDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UE
+CgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xk
+YXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlv
+bkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVy
+PUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1F
+TlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMu
+QS4gMixDPUVDMB0GA1UdDgQWBBShSNlFsSEdCn2j2EZp2/YkkNhI7TArBgNVHRAEJDAigA8yMDI0
+MTExMzE5NTA1MVqBDzIwMjkxMTEzMTk1MDUxWjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQM
+DAowOTI1ODgxMjI5MBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjAv
+BgorBgEEAYKmcgMHBCEMH0NETEEgU0FVQ0VTIEkgU09MQVIgMzYgWSBNWiBGMTAwFwYKKwYBBAGC
+pnIDAgQJDAdTTEVJTUFOMB8GCisGAQQBgqZyAyAEEQwPMDA4MDAxMDAwMDEwNzExMBEGCisGAQQB
+gqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1Iw
+FAYKKwYBBAGCpnIDAwQGDARBVFdJMCQGCisGAQQBgqZyAx4EFgwUTEFTIFBFUk1JIFBPUiBMQSBM
+RVkwHQYKKwYBBAGCpnIDCwQPDA0wOTI1ODgxMjI5MDAxMBEGCisGAQQBgqZyAx0EAwwBLjARBgor
+BgEEAYKmcgMEBAMMAS4wEAYKKwYBBAGCpnIDCAQCDAAwDQYJKoZIhvcNAQELBQADggIBAAlyDFpc
+D6TLFENnwZWueA83G9VPpO57Z1gdiDlokg7Qysz1tKiVDiiIe5P+BG6cj5m8vrNywNfhN3lHayUV
+IwMDt5z0oR+djM5Qnb5hR2MpmpmHxZJ2TYTH3yGXH2GH/6mk14FmoW39prIW/7uFi1G1cETVnfP1
+PHiTgiGN8olnZdPnpZUm86xmeGcn5Hua9pMp6tLxAU1BP4xF0w7bVy/h2W8YV6n67BfcJiW6BHNT
+5XOajgYXgjxssxRwNTvGSQds6sOUrj34mK4T3QkaYsnS6r74HMq8J3Uv6ZEw/ATRIL1s1pM7Vuac
+6EeIWJwXud8gTsm7AVaGQT32YNHO5QI0wC6gINiryubuYH3btsPF7GsjsKRdDJ0rndPMtYTZ+3Bv
+6DJUq5+Xq1IfukeR3h/c/HK1AmymRoI5EZmdaivLFnI+Fyn9IlE/XG7mxVFnSgoBBKLoSzYO6gx+
+DHnSdGtMrE2nVBEIn2WXrafwlUcvJGlTLGD8ThrsJZW7QY3bpk1SBOVgkl5CsKPMKnB4/Kwmgtp5
+aYYH9HMBhBuEPElajlQVBlsvMYbPn26ap3TPUcP5kn4Pi6rqkqda4SqbqdetEOEaQVxkYQhCrXr1
+3RxC2adpyy4JuAUFqny2CelZVBHjGLfCzaHuQ72/bql9yPXLPs1ZYgtFsBmpvIlFxcJv
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zVojMGoCJLdIlCvJVA8aGSjbbtuEfhRt0jskw3Th4TOpSxPU61KUzP92vUVt8WBHEc23AazO/3RG
+2sdBkaDobVoPOHOLaKtyPbfDS6baNUEpuBnyTfG6evKsk6GQPAWaVe1V8vFBkckAD7uga+G/oW1A
+BjwFj4/haV9ZTyT4i+omxokAQCEwM+wcanJqAgGnCCivd502qzSv5TW7agL+hPInDFNISFKfLM3U
+bTVrxHyNlqsLh1Wgil6Ngo4IhwxtRanB5q/gBnHgttfEk7+9/of4ssNGZoDxr11+oirIoIaCrnta
+/XkDau8JiaGCp+onK+iYGQcGpfl9ccyU+OD/5Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature525581-Object831741"><etsi:QualifyingProperties Target="#Signature525581"><etsi:SignedProperties Id="Signature525581-SignedProperties577333"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T21:01:34-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Adhbyj0d0wZGa3BumZefMpcgzbM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>981037122</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-633244"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

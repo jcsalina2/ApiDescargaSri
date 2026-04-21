@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1604202601206000058000120010090000275926848420914</numeroAutorizacion>
+<fechaAutorizacion>2026-04-16T13:10:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>2</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SANTA CRUZ</razonSocial>
+      <nombreComercial>GAD MUNICIPAL SANTA CRUZ</nombreComercial>
+      <ruc>2060000580001</ruc>
+      <claveAcceso>1604202601206000058000120010090000275926848420914</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>009</ptoEmi>
+      <secuencial>000027592</secuencial>
+      <dirMatriz>MUNICIPIO - Av. Charles Darwin y 12 de Febrero</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>16/04/2026</fechaEmision>
+      <dirEstablecimiento>MUNICIPIO - Av. Charles Darwin y 12 de Febrero</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>BERDONCES SERRA VICENTE</razonSocialComprador>
+      <identificacionComprador>0912909207001</identificacionComprador>
+      <totalSinImpuestos>5.58</totalSinImpuestos>
+      <totalSubsidio>0.0</totalSubsidio>
+      <totalDescuento>0.0</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>0</codigoPorcentaje>
+            <baseImponible>5.58</baseImponible>
+            <valor>0.0</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.0</propina>
+      <importeTotal>5.58</importeTotal>
+      <moneda>DOLAR</moneda>
+      <pagos>
+         <pago>
+            <formaPago>01</formaPago>
+            <total>5.58</total>
+            <plazo>0</plazo>
+            <unidadTiempo>dias</unidadTiempo>
+         </pago>
+      </pagos>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>5009</codigoPrincipal>
+         <codigoAuxiliar>5009</codigoAuxiliar>
+         <descripcion>DESECHOS SOLIDOS S. C. RESIDENCIAL</descripcion>
+         <cantidad>1.0</cantidad>
+         <precioUnitario>5.58</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>5.58</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>5.58</baseImponible>
+               <valor>0.0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+   <infoAdicional>
+      <campoAdicional nombre="Domicilio">FRAGATA SN SCALECIA</campoAdicional>
+      <campoAdicional nombre="Contacto">sinregistro@gagsantacruz.gob.ec. - 0</campoAdicional>
+      <campoAdicional nombre="Fecha de cobro">16/04/2026 - 12:09:01</campoAdicional>
+      <campoAdicional nombre="Concepto">Marzo del 2026 202604  Tipo  Desechos Actividad  Ninguna , Referencia Externa  CONTRATO 200029443716, Direccion  FRAGATA. </campoAdicional>
+      <campoAdicional nombre="Referencia">8475</campoAdicional>
+      <campoAdicional nombre="Recaudador"> Marlon Ernesto Castro Maldonado</campoAdicional>
+   </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature970875">
+<ds:SignedInfo Id="Signature-SignedInfo73838">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID751150" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature970875-SignedProperties617982">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>nJpAfxHWS6fRwSFNlxIpNxrkCf0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1390026">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>IzzsEbhp0nzzrKZFj8Mu3+RE9bo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-503239" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ver3oiiqEp7mjIXgngo7tiY80vM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1044766">
+Gmmn//Js8x29kvyL4T35AhM/EYFiPA0BSs9Gx85xuQOJhlDPshJeZTbdEySmJjeUZ1fCU4gYTUkD
+OVbRPeFiXZWcf/FjtdZoPWb3nFxuR4gkbv7Sw57ixD/D8zIVCZLNoyL4f5t7peEWtUiSPz1jD/hQ
+VyvdBlkd/LeH7tm1BBO++WRBG1fF4YLyWCE162pNL6lr2hpdN/K1kWHgAq7OLxvq6ZpMhWLx4483
+LTM5Dip//AKywf/HC5ImkC9ibffvNU2if4k4SQr4DhfHwUzD3N2etbLjzrvo7dLNudVUHqX7FY8Z
+u3yJ7fbideLb07h9ugNThk6ls8njgjnXXKWyow==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1390026">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIezCCBmOgAwIBAgIIJDpfFHlud7owDQYJKoZIhvcNAQELBQAwgbUxCzAJBgNVBAYTAkVDMREw
+DwYDVQQHDAhETSBRVUlUTzEhMB8GA1UECgwYQ09OU0VKTyBERSBMQSBKVURJQ0FUVVJBMUQwQgYD
+VQQLDDtTVUJESVJFQ0NJT04gTkFDSU9OQUwgREUgU0VHVVJJREFEIERFIExBIElORk9STUFDSU9O
+IEROVElDUzEqMCgGA1UEAwwhRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIElDRVJULUVDMB4XDTI1
+MTAwMTE1MjMwMFoXDTI3MTAwMTE1MjMwMFowgaYxCzAJBgNVBAYTAkVDMUIwQAYDVQQKEzlHT0JJ
+RVJOTyBBVVRPTk9NTyBERVNDRU5UUkFMSVpBRE8gTVVOSUNJUEFMIERFIFNBTlRBIENSVVoxFTAT
+BgNVBAcTDFBVRVJUTyBBWU9SQTETMBEGA1UEBRMKMTEwMzU4MzE4MTEnMCUGA1UEAxMeU0FORFJB
+IEVMSVpBQkVUSCBQQVJFREVTIENVRVZBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+m+XEojr33f69kPxMc3LiEII20ZEO3N7JXFyrjarRn/lxYj2d8M7ZRV0aEB1BjN+xh1sk0BEXhZDY
+Ji0oFGevn0V1qkoCTR5+KiXgDSoNaYab/U3iLSeGXWOrcrGPqA76aTFZk1Mepnm+GQOSd2xh5XPI
+el49NxCTcB4N3Ua+LQuo2yauHKvJazH/tFFi61vd07tyG1em/jjFjKP4GwMlYtPVewGxJgOKqhIV
+mmbHo3hd8uAR4dwiWRWXAe5herFETtwrKrDxb4SwCsFtfls00rR8o9m8vyfK28FEQl6Xh2aLzmUJ
+G7P/BHqQc/QTEH/eX35/M4zgOs8ULEoOAgLi+QIDAQABo4IDmjCCA5YwggIuBgNVHREEggIlMIIC
+IYERc2FlbGk4MEBnbWFpbC5jb22gGwYLKwYBBAGC1WEBAwGgDAwKMTEwMzU4MzE4MaAhBgsrBgEE
+AYLVYQEDAqASDBBTQU5EUkEgRUxJWkFCRVRIoBgGCysGAQQBgtVhAQMDoAkMB1BBUkVERVOgFgYL
+KwYBBAGC1WEBAwSgBwwFQ1VFVkGgGQYLKwYBBAGC1WEBAwWgCgwIVEVTT1JFUkGgMQYLKwYBBAGC
+1WEBAwegIgwgTUlSQURPUiBDQUxMRSAxMCBNSVJBRE9SIENBTExFIEOgHgYLKwYBBAGC1WEBAwig
+DwwNKzU5Mzk4ODIyODMxNKAdBgsrBgEEAYLVYQEDCaAODAxQVUVSVE8gQVlPUkGgSgYLKwYBBAGC
+1WEBAwqgOww5R09CSUVSTk8gQVVUT05PTU8gREVTQ0VOVFJBTElaQURPIE1VTklDSVBBTCBERSBT
+QU5UQSBDUlVaoB4GCysGAQQBgtVhAQMLoA8MDTIwNjAwMDA1ODAwMDGgGAYLKwYBBAGC1WEBAwyg
+CQwHRUNVQURPUqAjBgsrBgEEAYLVYQEDMqAUDBJNSUVNQlJPIERFIEVNUFJFU0GgIAYLKwYBBAGC
+1WEBAzOgEQwPQVJDSElWTyBQS0NTIzEyoBEGCysGAQQBgtVhAQM0oAIMAKAtBgsrBgEEAYLVYQED
+NqAeDBxERVBBUlRBTUVOVE8gREUgQ09OVEFCSUxJREFEMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAU
+LyJ6+F5tlI5qQBQ3x25rcuk6wj8wOAYIKwYBBQUHAQEELDAqMCgGCCsGAQUFBzABhhxodHRwOi8v
+b2NzcC5pY2VydC5mamUuZ29iLmVjMHIGA1UdIARrMGkwZwYOKwYBBAGC1WEBAgEEAgEwVTBTBggr
+BgEFBQcCARZHaHR0cDovL3d3dy5pY2VydC5mamUuZ29iLmVjL2RwYy9kZWNsYXJhY2lvbl9wcmFj
+dGljYXNfY2VydGlmaWNhY2lvbi5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMDoG
+A1UdHwQzMDEwL6AtoCuGKWh0dHA6Ly93d3cuaWNlcnQuZmplLmdvYi5lYy9jcmwvaWNlcnQuY3Js
+MB0GA1UdDgQWBBRno5TvPSBtNSqIOxRek1DzcDCofTAOBgNVHQ8BAf8EBAMCBsAwDQYJKoZIhvcN
+AQELBQADggIBAG9nqmehmWElYUCOZVaFIvOCAbut3KzPjFEtU+PvM28u/OxJUEVSZiPkUZIm6e0D
+9pjFYM6AU3vP6lpJK/oMd9g+X88FcDFDMIPXXPUw50ZdDvOx+in/8ddcTAiRWzyUEzUIrVB1Fqxg
+oCxPfqNCEz+rdIpcUHbzN/uqNHL1Aq6kTnicC2D9EsdVFFul4Jij0wS5zEyLEBvJrjy6dvyfZe/7
+WBryw/PVid4lMSV/jf3z5LJ37x245TTjFOw8SuujnmAuxG0qgBPTaQ0Cih1IKNbdxIxcFprAiift
+yhewkliTta1lvl6nIxcg5GRhpdzRkePD2punj80N0ZkzMI5LE5S0Q1AxapIB30s7JglLKdXPh3Zw
+k9N2ZZTs7H5OaTl7mWhbYyt+pZBscVhneG7hKcLubAYQAPTZv3ZM/Ppqiv87BWMZxL62RHjdwbba
+2Q4j/T6GXPW9b08gmi0x08oTwjGlvZ/bClT2KygYNysIHcPqam9bJhqaagmCITcg0HPRe7MEWVOw
+Zrd6fKD3EomhtTjmCxNFZ0nTS4YCIOYlAita1t6/Ns5l2Onf+pnlqh4fmg4MKSjRXon/DmCtmow8
+wz8hilc203h/tLi0HPE7TSNX6blmdDGdbwc/4zuLb7l22G6WLxBhau8QmZnedtLdiSguBosm/Obj
+I306W5EFPqBw
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+m+XEojr33f69kPxMc3LiEII20ZEO3N7JXFyrjarRn/lxYj2d8M7ZRV0aEB1BjN+xh1sk0BEXhZDY
+Ji0oFGevn0V1qkoCTR5+KiXgDSoNaYab/U3iLSeGXWOrcrGPqA76aTFZk1Mepnm+GQOSd2xh5XPI
+el49NxCTcB4N3Ua+LQuo2yauHKvJazH/tFFi61vd07tyG1em/jjFjKP4GwMlYtPVewGxJgOKqhIV
+mmbHo3hd8uAR4dwiWRWXAe5herFETtwrKrDxb4SwCsFtfls00rR8o9m8vyfK28FEQl6Xh2aLzmUJ
+G7P/BHqQc/QTEH/eX35/M4zgOs8ULEoOAgLi+Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature970875-Object173900"><etsi:QualifyingProperties Target="#Signature970875"><etsi:SignedProperties Id="Signature970875-SignedProperties617982"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-16T12:10:06-06:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>KuLCxrM3jLMw2hpqnwQIgyuDhtU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ENTIDAD DE CERTIFICACION ICERT-EC,OU=SUBDIRECCION NACIONAL DE SEGURIDAD DE LA INFORMACION DNTICS,O=CONSEJO DE LA JUDICATURA,L=DM QUITO,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2610503475555891130</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-503239"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

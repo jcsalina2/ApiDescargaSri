@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1004202601172347030600120011000000000497665063211</numeroAutorizacion>
+<fechaAutorizacion>2026-04-10T17:00:08-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>RUBIO MORA OMAR FRANCISCO</razonSocial>
+        <ruc>1723470306001</ruc>
+        <claveAcceso>1004202601172347030600120011000000000497665063211</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000049</secuencial>
+        <dirMatriz>Calle: N89 Numero: OE3-34 Interseccion: OE3B </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>10/04/2026</fechaEmision>
+        <dirEstablecimiento>Calle: N89 Numero: OE3-34 Interseccion: OE3B </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>NAUTIDIVING S.A.</razonSocialComprador>
+        <identificacionComprador>2090004460001</identificacionComprador>
+        <totalSinImpuestos>200.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>200.00</baseImponible>
+                <valor>30.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>230.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>230.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>SERVSUPER</codigoPrincipal>
+            <descripcion>SERVICIOS PROFESIONALES ENVIO SUPERCIAS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>200</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>200.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>200.00</baseImponible>
+                    <valor>30.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">vicente.berdonces@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-e4346ce0-1741-4c29-8da6-f7dd8968a309"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-e4346ce0-1741-4c29-8da6-f7dd8968a309-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>3o9ZNhIiPDOp7NKFfAc9UYbHy2ENjRMxQfPnbFgQ5zI=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-e4346ce0-1741-4c29-8da6-f7dd8968a309-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>hJisorRfHGUxyO56HayDRKBP0AAAPQ5EvHoAa+PCpnc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-e4346ce0-1741-4c29-8da6-f7dd8968a309-sigvalue">JIyBk4nKe2HROesihmtSbpS8xl1UnkvzQJQvktnujo9trcMiGrvuwoVpgSNf24DUERzmAnpcqA8WPbB23qoRFuGrsQSD1Bi4XgWx1RjiVw++tq7mSnESILj2Gn6iKaqr/3o4bWtwpJbQrPIIX8rcvaKzQVVl8CZkClTTz5ueg/f1RnvZ4R7EpS43XGMk366SIDtN4W9k3YMiWLpM/GVJ9vKRgwpbxuKimnbEiEIxXuBPRI4QhrACaIZmQvzauDfpG/DNDqc+VQBCdGHmIpdsPrpKvkbs38n3qNv0bS+AIh87iVnMavIABA6YHmNS0a4IKsLGCnvzNtcbAEYFhlpSIQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-e4346ce0-1741-4c29-8da6-f7dd8968a309"><xades:SignedProperties Id="xmldsig-e4346ce0-1741-4c29-8da6-f7dd8968a309-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-10T17:00:06.988-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>HrSu27Eqxq44ZzwA+wBXIW+75ZzwcOSYV4pSmhEUn7E=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=ENTIDAD DE CERTIFICACION ICERT-EC,OU=SUBDIRECCION NACIONAL DE SEGURIDAD DE LA INFORMACION DNTICS,O=CONSEJO DE LA JUDICATURA,L=DM QUITO,C=EC</ds:X509IssuerName><ds:X509SerialNumber>8193698889856492559</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-e4346ce0-1741-4c29-8da6-f7dd8968a309-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

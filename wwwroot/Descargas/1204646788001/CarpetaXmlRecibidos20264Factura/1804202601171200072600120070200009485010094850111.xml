@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601171200072600120070200009485010094850111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T12:29:42-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CASTRO TELLO JUAN ROSENDO</razonSocial><nombreComercial>IMPORTADORA CASTRO</nombreComercial><ruc>1712000726001</ruc><claveAcceso>1804202601171200072600120070200009485010094850111</claveAcceso><codDoc>01</codDoc><estab>007</estab><ptoEmi>020</ptoEmi><secuencial>000948501</secuencial><dirMatriz>PADRE DOMINICO Y CALLE TULCAN SANTO DOMINGO Ecuador</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>18/04/2026</fechaEmision><dirEstablecimiento>CALLE 7 DE OCTUBRE Y CALLE DECIMA</dirEstablecimiento><contribuyenteEspecial>1308</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>JIMENEZ ANDRADE ADOLFO BENITO</razonSocialComprador><identificacionComprador>1204646788001</identificacionComprador><direccionComprador>QUEVEDO Ecuador</direccionComprador><totalSinImpuestos>234.80</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>0</descuentoAdicional><baseImponible>234.80</baseImponible><tarifa>15</tarifa><valor>35.22</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>270.02</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>270.02</total><plazo>0</plazo><unidadTiempo>días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>AV-VIGO016</codigoPrincipal><descripcion>SOPORTE P/AIRE ACONDICIONADO 100KG BLANCO QFACB-01 - GERARDO ORTIZ</descripcion><cantidad>40</cantidad><precioUnitario>5.87</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>234.80</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Cod. Prod" valor="QFACB-01"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>234.80</baseImponible><valor>35.22</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="emailCliente">JIMENEZABA1@HOTMAIL.COM</campoAdicional><campoAdicional nombre="Teléfono">593989078967</campoAdicional><campoAdicional nombre="Dirección Domicilio">QUEVEDO</campoAdicional><campoAdicional nombre="Condición pago">Otros con utilización del sistema financiero</campoAdicional><campoAdicional nombre="Datos Moto">NO APLICA</campoAdicional><campoAdicional nombre="Servicio técnico">-</campoAdicional><campoAdicional nombre="Garantía">En los casos que aplique, la Garantía de los productos es cubierta por la marca, no por Importadora Castro, su cobertura abarca defectos de fabricación que presentare el producto, no los daños generados por descargas eléctricas, golpes, rayones, humedad, desastres naturales, plagas o en los casos</campoAdicional><campoAdicional nombre="Garantía2">de evidenciarse una alteración o remoción de series. La instalación de los productos debe realizarse por el técnico autorizado de la Marca. Es de absoluta responsabilidad del cliente final cubrir el valor de la instalación directamente al técnico autorizado de la marca.  Importadora Castro</campoAdicional><campoAdicional nombre="Garantía3">No es responsable de la Instalación del producto. Los equipos de telefonía poseen garantía hasta tres meses desde su adquisición, presentando el empaque del producto. El cliente certifica conocer las indicaciones presentes, previo a la adquisición del producto por lo cual se emite la factura</campoAdicional><campoAdicional nombre="Comentarios">265 33TRANS PICHI 
+DES AUT LCDO JUAN CASTRO</campoAdicional><campoAdicional nombre="Vendedor">VIVANCO UBE JENNIFFER LISSETH</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature75990">
+<ds:SignedInfo Id="Signature-SignedInfo56225">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID297332" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature75990-SignedProperties388379">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>LW8DQa5pIDNXK9SVFqgO1w+uy+M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1798146">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>7AaT4+2aIYxhVc/vx+DVOC371F8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-697257" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Xb/+z37tAkWzKOo/7jqdGDBz2I0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue3278">
+pd8FKpP2OTsVUi/pu2wiQO8UH9Zk+zr4Rq8xAW8Fa89Lyl8mwESpUYGM6UbTzo4AHx6s0bfemwcJ
+9fpoIJpuWC/B5uVL0Isx/8U0xea09Iyim8KZ8nmRbJkZvLRzIYid0Mhzoe+Ys5Pb2iduPsSVcLJ8
+8OhakbsANyqv9BEVvlLFaW5tbXBdqJE+VCE9iALXioXyUiIw3rBKDNIBCIkBDtanO8RV/NSp6bDi
+y8bFrEuuQY4Rr4ukoVx4MhqWwzxRuTZOi0ZCZFW24+U4dG+RpH9bcc62BZPKuQdDA3WC9c2zg/J9
+mr1vbWr0JB3zdPvj0znenGB9bav04suc9GoaBQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1798146">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKuTCCCKGgAwIBAgIEBkKOjzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA1MDUxODU5NDlaFw0zMDA1MDUxODU5NDlaMIGkMSIw
+IAYDVQQDDBlKVUFOIFJPU0VORE8gQ0FTVFJPIFRFTExPMSAwHgYDVQQFExcxNzEyMDAwNzI2LTA1
+MDUyNTE0MDk0MDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCxwYxpMOvjKezuwN7/cZ0QbWgVTi1MSL9cGLSlxLAPEi35
+F8VWUXKFofXJE18kdv4l7iC88uNLci/yjqoB4D97rcPSePp7XJwJVgvibon6aKu3EkeDEx+HLwRj
+MlcXz5QtvVnSbPuhSiDxoSak7d1k3FlLlTr1AwFVGZGGM5/hLPwzHISAoDNJw+Fy3czBtYsjqsqh
+TPQYuyTNjxK2oP1Ygho5NvJnvsBhq/NA67MXtEvqgdUCi8cEqQWFiHvxz0xzVBO45BNpfAiUpXqI
+sDj2XRSqsJfrf8pgtc8mmnwF9RQpIweBCoKxA/ZhhuVFD+JCeF+6n50FfiNkVLj0tMnRAgMBAAGj
+ggX6MIIF9jAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkG
+CCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAtBgNVHREEJjAkgSJjb250YWJpbGlkYWRA
+aW1wb3J0YWRvcmFjYXN0cm8uY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggr
+BgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAg
+AE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3
+dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9k
+ZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5w
+ZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4
+hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyi
+gZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VD
+VVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0
+dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB
+3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1Ud
+DgQWBBRYgeZji0/XTwx3HSW65afiS2jbwzArBgNVHRAEJDAigA8yMDI1MDUwNTE4NTk0OVqBDzIw
+MzAwNTA1MTg1OTQ5WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxNzEyMDAwNzI2MC4G
+CisGAQQBgqZyAwkEIAweU0FOVE8gRE9NSU5HTyBERSBMT1MgQ09MT1JBRE9TMBEGCisGAQQBgqZy
+AyIEAwwBLjAtBgorBgEEAYKmcgMHBB8MHVBBRFJFUyBET01JTklDT1MgUyBOIFkgVFVMQ0FOMBwG
+CisGAQQBgqZyAwIEDgwMSlVBTiBST1NFTkRPMB8GCisGAQQBgqZyAyAEEQwPNjY2NjY2NjY2NjY2
+NjY2MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMM
+BAkMB0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZDQVNUUk8wGwYKKwYBBAGCpnIDHgQNDAtDT01F
+UkNJQU5URTAdBgorBgEEAYKmcgMLBA8MDTE3MTIwMDA3MjYwMDEwEQYKKwYBBAGCpnIDHQQDDAEu
+MBUGCisGAQQBgqZyAwQEBwwFVEVMTE8wGgYKKwYBBAGCpnIDCAQMDAowOTg1Nzc0NTk1MA0GCSqG
+SIb3DQEBCwUAA4ICAQCIc/qhigm86xroFyyCHXfCWcMU+pu84IoFjV9Gh13sWf13UTiaBe4dQWv/
+bZjsUvCDcvSErW8MqvSzZAVbDm6LcTw7baqTFMpX7oXIrOHr8H37zGnS53h1PSfB+Z3ird0tjHaB
+eKE7NtsJtU1apB30QH9kX9xxahR65TfZnuOPns2CJLcfc7/50f0ezxH9zszIuo6thoXQIeUssgdA
+31XLg8yTyVrbP1vpJ4Ye3ivbztEZYqp4uj4w1iZ3rgbZQ5ZtxPMTjm+LVwPYt2kUCOwkhSthx70k
+Nm9tr2FryWM26U8MQsYD9KkziFk+Jp2fP6u7LPb6034nHu7JFMwuKhN0pzhkXGgOvkJxlc1A65i6
+tRdAsxIL3rmXe68O/GS0YeJDyJEox5vzvxUkadHycmMhF+T4pY88Uh96iL1KMg0QoSISoOXtWHf/
+UDKn8i5F6SOdcO48HvTsrwtDNOPjocei9jt6+V4J2l2oUp5uFdMhG/AhDPfbMeGy89TG81PMBJ/o
+qm5bVzQi7r2XiASPfez8Oac2fVsBBWG8PjmLBLOYGmDvlgsIfJn2CUhmdFC0oYY4Yu1lypEuHkM5
+K0C7B/FJGPCfhgmKfk6Kc/vdi4ll6bMVS1hY8kSPSG5dEe2bAm9CDE4QoHMzknmGOoMhrl3QhUTR
+qcop4B/rKMkkw8IaoA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+scGMaTDr4yns7sDe/3GdEG1oFU4tTEi/XBi0pcSwDxIt+RfFVlFyhaH1yRNfJHb+Je4gvPLjS3Iv
+8o6qAeA/e63D0nj6e1ycCVYL4m6J+mirtxJHgxMfhy8EYzJXF8+ULb1Z0mz7oUog8aEmpO3dZNxZ
+S5U69QMBVRmRhjOf4Sz8MxyEgKAzScPhct3MwbWLI6rKoUz0GLskzY8StqD9WIIaOTbyZ77AYavz
+QOuzF7RL6oHVAovHBKkFhYh78c9Mc1QTuOQTaXwIlKV6iLA49l0UqrCX63/KYLXPJpp8BfUUKSMH
+gQqCsQP2YYblRQ/iQnhfup+dBX4jZFS49LTJ0Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature75990-Object227697"><etsi:QualifyingProperties Target="#Signature75990"><etsi:SignedProperties Id="Signature75990-SignedProperties388379"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T12:29:37-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>dfCKTjYctJuE7I9OdGXjg6K5+UU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>105025167</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-697257"><etsi:Description>powered by ElectroFacturas.com</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

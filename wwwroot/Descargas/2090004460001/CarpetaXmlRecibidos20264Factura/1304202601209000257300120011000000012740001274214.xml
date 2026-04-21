@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601209000257300120011000000012740001274214</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T13:03:36-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>COOPERATIVA DE TRANSPORTE EXPRESS GALAPAGOS CITTEG</razonSocial>
+    <nombreComercial>COOPERATIVA DE TRANSPORTE EXPRESS GALAPAGOS CITTEG</nombreComercial>
+    <ruc>2090002573001</ruc>
+    <claveAcceso>1304202601209000257300120011000000012740001274214</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000001274</secuencial>
+    <dirMatriz>Barrio: LAS ACACIAS Calle: RODRIGUEZ LARA Nmero: S/N Interseccin: 18 DE FEBRERO Referencia: A MEDIA CUADRA DEL CONSULTORIO REDENTAL</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/04/2026</fechaEmision>
+    <dirEstablecimiento>Barrio: LAS ACACIAS Calle: RODRIGUEZ LARA Nmero: S/N Interseccin: 18 DE FEBRERO Referencia: A MEDIA CUADRA DEL CONSULTORIO REDENTAL</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>NAUTIDIVING S.A.</razonSocialComprador>
+    <identificacionComprador>2090004460001</identificacionComprador>
+    <direccionComprador>FRAGATA 47 Y ESCALESIA PUERTO AYORA - GALPAGOS ECUADOR</direccionComprador>
+    <totalSinImpuestos>1260.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>1260.00</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <importeTotal>1260.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>1260.00</total>
+        <unidadTiempo>dia</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>001</codigoPrincipal>
+      <codigoAuxiliar>H492001</codigoAuxiliar>
+      <descripcion>SERVICIO DE TRANSPORTE</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1260.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1260.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>1260.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">FRAGATA 47 Y ESCALESIA PUERTO AYORA - GALPAGOS ECUADOR</campoAdicional>
+    <campoAdicional nombre="PUNTO DE EMISION">001 - 100  -  Régimen General</campoAdicional>
+    <campoAdicional nombre="RAZON SOCIAL">YUCAILLA CAGUANA ANGEL ALONSO</campoAdicional>
+    <campoAdicional nombre="RUC">1801519578001</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0990137399</campoAdicional>
+    <campoAdicional nombre="PLACA VEHICULO">89897</campoAdicional>
+    <campoAdicional nombre="EMAIL">yucaillaangel79@gmail.com</campoAdicional>
+    <campoAdicional nombre="Informacion">Servicio Transporte Lancha Nautilus 06/04/2026  07/04/2026 08/04/2026 09/04/2026 10/04/2026 11/04/2026 12/04/2026 Valor: $1.260</campoAdicional>
+    <campoAdicional nombre="Email">contabilidadnautidiving@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature274502">
+<ds:SignedInfo Id="Signature-SignedInfo996658">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID54313" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature274502-SignedProperties149553">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>e3tNX61CPxxIW+Xp5ob+vCALP/s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1468457">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>jnz78r0PmPUZP6YzSGlMSKSP6Xo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-447011" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2/Fa2Vx40JVlG3kybbuP7QkkOaw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1028218">
+IjhxfZMxYwTk8tSGzKSppPA5dtNfY3AtI+FRL5hVph9cYiAakzTHCeRiKkOrzoHjFtCsh3RjhHrd
+w0yw7R/Ug9znSIaSDt1ji2Yn7UHzmaxmhB36ucBp6nkmbJNEKFxDcDTu2pE00SCRvSw7tXF8H/MU
+I8uSW/w8p+VzrbpPgFdS6MuHPSMlJdka9i3DZ1EbcOgDs6er1y5a+TV+ebwuQtg4zYUijydXjWHO
+K22vV4+tPiRcvE9TSpMZ1EUZ420T0sbLRo3VNBOUnYJ06ijUI1dQeCcDRVTwTbqO++ol18tnbEBs
+EpSRISRlj02Tt8kqHvzYlAXKOi2F0eaZoMPDLw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1468457">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK+zCCCOOgAwIBAgIIarthTCwq82EwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMTI3MjEyNzIwWhcNMjcwMTI3MjEyNzIwWjCB
+pzElMCMGA1UEAwwcQ0FSTE9TIEZFUk5BTkRPIEFSVFVSTyBMT1BFWjEgMB4GA1UEBRMXMTcxNjAw
+NDMxMC0yNzAxMjYxNjM3MTAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnjJozatkEnSt+0zZvxPt7Vwp+OOEFsfaA1EF
+NuxZytzB6SfN+15bUG1Y60zEVFqekE/+PN2KSfWL6VULYFcXqS7/67yfsRUk6GyCSF4bUIReGIBu
+CCcPm96YhE24HpZyu7RNZaXiPQwYx0CJBowrLccKwzbN0XLsbRXG4CX8qBvNV9T9U3pn4LivbDxO
+cArTThJg6fv63J7GU30edmoFwuq3I7czm+zzc0jBwPIsdj81oJh0FqQs8zMs2XUOozWotO/pJXmq
+ItEYtZ8Hx6VdNHWTTSS1RELMOr37knv4INTT1c6MriK8G6U8HowjbmEd+Z9UliiMrxOypezBqjMu
+QQIDAQABo4IGNTCCBjEwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42u
+Yt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwJAYDVR0RBB0wG4EZY2FybG9z
+ZmFydHVyb0Bob3RtYWlsLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggr
+BgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBu
+AHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJo
+dHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1h
+dGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2Vu
+dGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSC
+AgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwx
+L2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYT
+AkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3Js
+ZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQzAdBgNVHQ4EFgQU65bsolnu8DYAGslYPzJQDjQQ3YIwKwYDVR0QBCQwIoAPMjAyNjAx
+MjcyMTI3MjBagQ8yMDI3MDEyNzIxMjcyMFowCwYDVR0PBAQDAgXgMBcGCisGAQQBgqZyAwUECQwH
+R0VSRU5URTAaBgorBgEEAYKmcgMBBAwMCjE3MTYwMDQzMTAwLgYKKwYBBAGCpnIDCQQgDB5QVUVS
+VE8gQVlPUkEgQ0FCRUNFUkEgQ0FOVE9OQUwwEQYKKwYBBAGCpnIDIgQDDAEuMDIGCisGAQQBgqZy
+AwcEJAwiUk9EUklHVUVaIExBUkEgUyBOIFkgMTggREUgRkVCUkVSTzAfBgorBgEEAYKmcgMCBBEM
+D0NBUkxPUyBGRVJOQU5ETzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTEwMjczOTATBgorBgEE
+AYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZB
+UlRVUk8wQgYKKwYBBAGCpnIDCgQ0DDJDT09QRVJBVElWQSBERSBUUkFOU1BPUlRFIEVYUFJFU1Mg
+R0FMQVBBR09TIENJVFRFRzAdBgorBgEEAYKmcgMLBA8MDTIwOTAwMDI1NzMwMDEwEQYKKwYBBAGC
+pnIDHQQDDAEuMBUGCisGAQQBgqZyAwQEBwwFTE9QRVowGgYKKwYBBAGCpnIDCAQMDAowOTgxMDQ1
+NzMwMA0GCSqGSIb3DQEBCwUAA4ICAQCL2FuQYGRVX4OWrs4S5DiN1SfGVlUxy4AudSH4K2P5peH9
+ykPUeFWlcqyppySZf7mbJvSKy2Ttk1HsCMtDZZ2oUhwKaRxVaF71HeDyIE/z7E0lKTV7QJ8FMyPm
+azbRMnRwgqGwW5+CECOKFBwY5+XmYOvMfXEaDxsz+7or7XZnebnKWkaaDCJjnrNpwBrmLdWG1Ma7
+jAYC7+kIck9B6Y8MzfdyMl8sYFqcwhePg9+uh1SJaroIlyAgwnijWkB90r94Oti5HipI0tJGnmCa
+dwMOM6HwSfaWlIp0u7sly/K6EzI2XndDMXYFBOO/YD4pWZ1cSs3hCPQhVHZXucR0PNyOrNmZS2Jt
+gY0ao7sSOmjUEKoqX4zKdX3F70P2CgKm3yhPQSjRFX7SoNwlE6ETe7NZ7+hGw87kJvfgmOx1LsTz
+jdO1dM+Y3XDDRmtj8rvLg7HzH8WHnIFbqbCodBfqDRQddsUfAj6zGBMQGEOhomwxkfTxHqbyAd/O
+wLk6V7hoGiuKKzwPjNYTM93WZ9b18eKV8fkzYX7G2PHWOB4OT9jDH8N69Ve7O/cd7x1LHuKaU/vL
+qDq2TOYoUNFN0aJPaEJaWa6HhpRJ0kYvDbSsqPEuh1qXV6+qmW78VCqj+aIqbLxlV36DibVVjsQJ
+8j7fcrK8neJF20ZVKVspUMt8pX7CYw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+njJozatkEnSt+0zZvxPt7Vwp+OOEFsfaA1EFNuxZytzB6SfN+15bUG1Y60zEVFqekE/+PN2KSfWL
+6VULYFcXqS7/67yfsRUk6GyCSF4bUIReGIBuCCcPm96YhE24HpZyu7RNZaXiPQwYx0CJBowrLccK
+wzbN0XLsbRXG4CX8qBvNV9T9U3pn4LivbDxOcArTThJg6fv63J7GU30edmoFwuq3I7czm+zzc0jB
+wPIsdj81oJh0FqQs8zMs2XUOozWotO/pJXmqItEYtZ8Hx6VdNHWTTSS1RELMOr37knv4INTT1c6M
+riK8G6U8HowjbmEd+Z9UliiMrxOypezBqjMuQQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature274502-Object585418"><etsi:QualifyingProperties Target="#Signature274502"><etsi:SignedProperties Id="Signature274502-SignedProperties149553"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T13:03:14-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>/mQvffTGDjRMGFUMb0QZGxIoIb4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>7690847768451674977</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyId><etsi:SigPolicyId><etsi:Identifier>http://www.facturae.es/politica_de_firma_formato_facturae/politica_de_firma_formato_facturae_v3_1.pdf</etsi:Identifier><etsi:Description>Política de Firma FacturaE v3.1</etsi:Description></etsi:SigPolicyId><etsi:SigPolicyHash><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue></etsi:SigPolicyHash></etsi:SignaturePolicyId></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-447011"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601099295821900120120010000753281234567813</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T21:54:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>RESTAURANT EDDYS-BBQ S.A.</razonSocial>
+    <nombreComercial>Eddys bbq</nombreComercial>
+    <ruc>0992958219001</ruc>
+    <claveAcceso>0604202601099295821900120120010000753281234567813</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>012</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000075328</secuencial>
+    <dirMatriz>KENNEDY VIEJA CALLE 8VA OESTE Y AV SAN JORGE</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>06/04/2026</fechaEmision>
+    <dirEstablecimiento>VIA LA COSTA KM. 9.5 PLAZA COMERCIAL GOURMET GARDEN P1 L2-R1</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>COMPA IA DE TRANSPORTE COMERCIAL DE CARGA PESADA PODEROSA SOCIEDAD ANONIMA TRANSPODESA</razonSocialComprador>
+    <identificacionComprador>0992838094001</identificacionComprador>
+    <totalSinImpuestos>61.67</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>61.67</baseImponible>
+        <valor>9.26</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>70.93</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>70.93</total>
+        <plazo>1</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>C396</codigoPrincipal>
+      <codigoAuxiliar>C396</codigoAuxiliar>
+      <descripcion>15 + 5 Gratis</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>13.90</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.90</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>13.90</baseImponible>
+          <valor>2.09</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C475</codigoPrincipal>
+      <codigoAuxiliar>C475</codigoAuxiliar>
+      <descripcion>Picana</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>18.25</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>18.25</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>18.25</baseImponible>
+          <valor>2.74</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C27</codigoPrincipal>
+      <codigoAuxiliar>C27</codigoAuxiliar>
+      <descripcion>Burrito De Lomo Fino</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>7.82</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.82</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>7.82</baseImponible>
+          <valor>1.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C13</codigoPrincipal>
+      <codigoAuxiliar>C13</codigoAuxiliar>
+      <descripcion>Hamb. Big Eddys</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>12.60</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.60</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>12.60</baseImponible>
+          <valor>1.89</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C78</codigoPrincipal>
+      <codigoAuxiliar>C78</codigoAuxiliar>
+      <descripcion>Jugo Natural : Limon</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>2.60</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.60</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.60</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C77</codigoPrincipal>
+      <codigoAuxiliar>C77</codigoAuxiliar>
+      <descripcion>Jugo Natural : Maracuya</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>2.60</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>5.20</baseImponible>
+          <valor>0.78</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C85</codigoPrincipal>
+      <codigoAuxiliar>C85</codigoAuxiliar>
+      <descripcion>Agua Sin Gas : Botella</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1.30</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.30</baseImponible>
+          <valor>0.20</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email:">transpodesa@hotmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1026817">
+<ds:SignedInfo Id="Signature-SignedInfo674273">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID340696" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1026817-SignedProperties141696">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>LExwpLOVds6LZUREkSHfzlJephE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1179384">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>R45+43KVg5IY7e9btpEbNPV4Gac=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-44653" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>1WfH1JrNgdXQCqp2LCtxukpg7Qw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue31954">
+JUxzSzCxKOrSXdnF61fMXh4wL6EREwDZPFCRYok+AuPQmZGe72HeFoGaM0ffuqnEOVbgJFNnTLhj
+zZ88fQv4EthSnkcPFi/68whfxUzLSP4+c0cgvJXey0DDN72nbfxT3lQtm7ijyKVV5DKlW7usujll
+rewtlLXp/nGkQiqZ/QsPs5JfFOMMEZfAaUPpCi5C+ks+HodyImCqQluXOJpYmg4r1ywsu8RIn497
+hyRPBuHz56CU3QTYh4UaCOVWqqk6XldotftO22HoK5QX43QkozGgNZKPvcIDc7SrxaQrJc+5jhsD
+Fh1cmp3bR4is/eDby4hdMes2G3KpgziCcCGT+w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1179384">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK0zCCCLugAwIBAgIICjdBf5NytaEwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMDIzMTYyMzAyWhcNMjgxMDIyMTYyMzAyWjCB
+pzElMCMGA1UEAwwcRURVQVJETyBKQVZJRVIgWlVOSUdBIEZMT1JFUzEgMB4GA1UEBRMXMDkyMzEy
+MzQwMC0yMzEwMjUxMTMyNTAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAulld9UlSPnxaYrjVC87WYkNY7ATgyisotIsQ
+dHsApFgjPQAa98RSzrxuaxN6a0k7oqJcVgjOb55W9qSVyhVMpvS+smrKt6aV7CW1iYIYULE72wbp
+084EhDXDy3cIWcI5/z7UrB/cvnkA90hQDBJlvqwQAbmi5kxN+pJzt8+gVQrMut8wHFpgEk5gYYLR
+9Uh0sj05BAGANkJqVzHtZdwpkZlb5J4ceH1kaOUaqKYX4Ml1iuumVScS/J9zcaang9pv0OCuJ56z
+qDtvUZgtAKRj//2Jwtl5hal8e/Wa/IZzKPfR+QsnmeSmBwFn7wDr7G2JIbkKpnEPD4wgPNu+JGIf
+ZQIDAQABo4IGDTCCBgkwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42u
+Yt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIAYDVR0RBBkwF4EVZWRkeXNi
+YnEuZWNAZ21haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUF
+BwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABh
+AG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBz
+Oi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZh
+cy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50
+ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCC
+AgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3Js
+ZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+PKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxl
+LmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFE
+IERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixD
+PUVDMB0GA1UdDgQWBBT/oQ4mjslmleLbImovX4wMbiYR8jArBgNVHRAEJDAigA8yMDI1MTAyMzE2
+MjMwMlqBDzIwMjgxMDIyMTYyMzAyWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJF
+TlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTIzMTIzNDAwMBYGCisGAQQBgqZyAwkECAwG
+VEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjA4BgorBgEEAYKmcgMHBCoMKEFWIFZJQ1RPUiBFTUlM
+SU8gRVNUUkFEQSAxMjE0IFkgTEFVUkVMRVMwHgYKKwYBBAGCpnIDAgQQDA5FRFVBUkRPIEpBVklF
+UjAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTA2MjYzMzATBgorBgEEAYKmcgMhBAUMA1BGWDAX
+BgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZaVU5JR0EwKAYKKwYBBAGC
+pnIDCgQaDBhSRVNUQVVSQU5UIEVERFlTIEJCUSBTIEEwHQYKKwYBBAGCpnIDCwQPDA0wOTkyOTU4
+MjE5MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBkZMT1JFUzAaBgorBgEE
+AYKmcgMIBAwMCjA5ODAwMTUyMjkwDQYJKoZIhvcNAQELBQADggIBAJbif+6+jQjcgBJUYOgrT8Gr
+of3Sb7oKPtmwuGGPDxf7dc1L0UR5fDEZ4YqSULi7foKFSDw5y4nA33jQqC7IusbN2UPtr7jgSuna
+3WH/QjSZ2Dzy0lB2v8ViiCIUHap0lYZJ1x1B+4XwbaTibTJ4c+JcWDfmB3JtyyyIk33fuyaIM3jL
+icI9xocq/jnZ3Rgx08hjLrVx7Hj/of0JlAFUE4FlN66kMvkoi4Bl/dAme1zqTkoNxwFdAR7KIPRq
+m1JEZ0IA1siFg1oOWwW0ixMie4RtIVBvEhmq4ZIc08zXwec8wiV3hH+6ZNS5dhMUMf0D6Sd3j9y4
+VzK4sBf1nuDeyzm7cmEvsByOCuFGo7V5rvUBEZTONV2tQ6D6hsTpwWLkt4AwELxE0GJHhBhYBKxb
+p82MRKWzqBfOomXX7TZxuEoW5VGpQ9eNakk2+775/xNDBMBj9ct0qu0nakxbcqh9NtQZs80s3Q6B
+Qmhj1G6eCYAThyL+tA0TEGbKaLmewRqMfOY/45BGh3j+qVSNKwI5tj9C1mJF8fonZ90KH27jhjc3
+M5iL8zALip9776zvmJjPYhCma0/LQtSLy6N0jbuPweWk7qsdTGDNL1hW9El8b3ZoeTMs6KzaGW/V
+1KeLn8y7y3aBWKuQ2j+xk13ndZgNlgo7Pd/S6WJrjxdMK5+PTfyr
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ulld9UlSPnxaYrjVC87WYkNY7ATgyisotIsQdHsApFgjPQAa98RSzrxuaxN6a0k7oqJcVgjOb55W
+9qSVyhVMpvS+smrKt6aV7CW1iYIYULE72wbp084EhDXDy3cIWcI5/z7UrB/cvnkA90hQDBJlvqwQ
+Abmi5kxN+pJzt8+gVQrMut8wHFpgEk5gYYLR9Uh0sj05BAGANkJqVzHtZdwpkZlb5J4ceH1kaOUa
+qKYX4Ml1iuumVScS/J9zcaang9pv0OCuJ56zqDtvUZgtAKRj//2Jwtl5hal8e/Wa/IZzKPfR+Qsn
+meSmBwFn7wDr7G2JIbkKpnEPD4wgPNu+JGIfZQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1026817-Object53012"><etsi:QualifyingProperties Target="#Signature1026817"><etsi:SignedProperties Id="Signature1026817-SignedProperties141696"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-07T02:54:06+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>z5sHi0sRjRpDEKGndGauzCwlKfs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>736129080288785825</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-44653"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

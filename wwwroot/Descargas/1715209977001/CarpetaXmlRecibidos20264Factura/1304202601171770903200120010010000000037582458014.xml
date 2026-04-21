@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601171770903200120010010000000037582458014</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T13:14:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>RUEDA GUEVARA DAVID ALEJANDRO</razonSocial>
+        <nombreComercial>COSMOS FOOD&amp;COFFEE</nombreComercial>
+        <ruc>1717709032001</ruc>
+        <claveAcceso>1304202601171770903200120010010000000037582458014</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000000003</secuencial>
+        <dirMatriz>Calle: IBARRA Numero: 12-40 Interseccion: OBISPO JESUS YEROVI </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>13/04/2026</fechaEmision>
+        <dirEstablecimiento>Calle: IBARRA Numero: 12-40 Interseccion: OBISPO JESUS YEROVI </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>PALACIOS RAMON NELSON MAURICIO</razonSocialComprador>
+        <identificacionComprador>1715209977001</identificacionComprador>
+        <direccionComprador>Inca</direccionComprador>
+        <totalSinImpuestos>20.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>20.00</baseImponible>
+                <valor>3.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>23.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>23.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>001</codigoPrincipal>
+            <descripcion>SERVICIO DE ALIMENTACIÓN</descripcion>
+            <cantidad>8.00</cantidad>
+            <precioUnitario>2.5</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>20.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="MENÚ CORPORATIVO DIARIO"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>20.00</baseImponible>
+                    <valor>3.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">02326664</campoAdicional>
+        <campoAdicional nombre="Email">mauriciopyp@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-ffca0198-a1ab-46a4-ac8f-7bd50c8e207a"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-ffca0198-a1ab-46a4-ac8f-7bd50c8e207a-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>HQDKE32uNi5Z0kEAi0PwykLVS1q3gCOZ7jam9ucwab0=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-ffca0198-a1ab-46a4-ac8f-7bd50c8e207a-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>aVKPM1EQEhv0UBW/UCMYvc/fob24IicBVhXFf49k+DM=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-ffca0198-a1ab-46a4-ac8f-7bd50c8e207a-sigvalue">akW9N/Z9NGyjdA7T6qGoHlNIrchC/NnWH29iMahXs9YXYwUVQkvJJFV6IwFgKHua2PUE8ni0wsRlkPLyBvbWEwJjTHDzgahkliPSpBhFOCfXv05dLyH2AgNSU9lfbMqJzxrpvN6L7J3vFB8EzOHfLM8oTjQBypAJPUgoVJPyBvZJd6Y1aByuKs3065hbv6hcktqXMVoltAM6/Lcw4aXdtgACJNQSfvPUvWRDWok9qVMVgMpqhNTwVobzfpZMpEckGxgGCyYDslhsDZKFiKYyatOrl1qOu+uGDOY14ayNV4DFf5maTXKz9Xt+ffAzCy72QD2Q7hqzL1tiDzXGH4eldQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIKpTCCCI2gAwIBAgIIHwP5VNtZAP8wDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwNDEyMDE1OTA2WhcNMjgwNDExMDE1OTA2WjCBqDEmMCQGA1UEAwwdREFWSUQgQUxFSkFORFJPIFJVRURBIEdVRVZBUkExIDAeBgNVBAUTFzE3MTc3MDkwMzItMTEwNDI2MjEwODU3MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK30FH371HgJWg0VI4Trs0z3u1N+AtQuc6VmEMKF+iqyxVKhZ58LOinSZT4bJscFajob/d4I1aiqYBIFbWujH/VO0g7mZF6pA76WhWLhgoDQPHYLXSEV3V8YxX/HOhjWawCXkmib9mmTr5S9Oh9va35BEdbEfUnx5fk5bkljDqU7O4AGZyFob6J4M/imTTVs0/PyzP9sWZ01ByWlFt7iRk1wyc9uoBiKvreI8xyqMPfVe6gZWAO+owkJH+RmZ8imtIHDOF+rK2OAQ4JSsc/Tf8KcRuKc5MB1xW4fR7BJvqQWnXZRnQNlBmiZ2c6Y1XTbAWSt4Rjyaj6h0zJ3KO51F90CAwEAAaOCBd4wggXaMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCEGA1UdEQQaMBiBFm5lcm9vbmxvYm9AaG90bWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFIOmHJPzHvw6DL2/swC59SwtZR1EMCsGA1UdEAQkMCKADzIwMjYwNDEyMDE1OTA2WoEPMjAyODA0MTEwMTU5MDZaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjE3MTc3MDkwMzIwGAYKKwYBBAGCpnIDCQQKDAhTQUdSQVJJTzARBgorBgEEAYKmcgMiBAMMAS4wMgYKKwYBBAGCpnIDBwQkDCJJQkFSUkEgMTIgNDAgWSBPQklTUE8gSkVTVVMgWUVST1ZJMB8GCisGAQQBgqZyAwIEEQwPREFWSUQgQUxFSkFORFJPMB8GCisGAQQBgqZyAyAEEQwPMDEzMDAxMDAwMDIxMDQ2MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFQYKKwYBBAGCpnIDAwQHDAVSVUVEQTAYBgorBgEEAYKmcgMeBAoMCEVNUExFQURPMB0GCisGAQQBgqZyAwsEDwwNMTcxNzcwOTAzMjAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdHVUVWQVJBMBoGCisGAQQBgqZyAwgEDAwKMDk2MjUyNjcxMjANBgkqhkiG9w0BAQsFAAOCAgEAKI/wsRRQ/73SIRV3yKJi1M4MlaIcazfsjwtRuTeaxlRYHNt9aiCNMJfffezD7k7ZutrBeLnKWvcWO7l1g6yZttBioG0WCCxscmhcNxCaTS4NEbw7RpuDyGkGMpOVJaoCa1lNzEQkxMuii3gG9xstK+4wNyVdvX2XsF5ZSHPhtf49Fi9woBA6t2LD8Ufhrkx5TD5m66fnSPIPT5VdBPLpO2aAhDGmxJoGeN/u7Zd+ra4Z80Ax5mFcoNmUpdKjjiK3GqDg2h8D9At2atoywVx81hfA8rIF/MiWOh6kfSWUPLoT3yveasrjKWwtqZfXwL12Ewinx88ZgN6CHlWF9Y8dv3iS6soZt3YV8NW/VtyFxsTqOh6L3WuUBPzuKC75pdd1AxYggqZ0z4yFudPLKeN5nkU9MM0Zb9/duXUkWM0xIBBp03VMiidA6R9YEfsN9faxHw68KRt5fSzrXIpsgiQ2Mfp+xCkTTLN2cAJWvaQxrMLsUOU8UTVd+FDChw4ykTKRHk3ybGmv58NBhgG1CL9BGqd9eqYQckroQn4SvhxuhtRno3/AHgjsSWmrn0nOWeCVygmbC2/mDmWlOtKOq7Rhm+rSISyqkW+GqjJSeMFiiyn7+0mNp3QDw6WQ5OxNxrenIrowED1lAzwNqkKivcrUY01ml0HxYhr3mlUzBY/ObxQ=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-ffca0198-a1ab-46a4-ac8f-7bd50c8e207a"><xades:SignedProperties Id="xmldsig-ffca0198-a1ab-46a4-ac8f-7bd50c8e207a-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-13T13:14:43.557-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>w6xwnQtOoeZcb6b+hRttRktfalR4wjTSBE7f03XXBZs=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2234903982958510335</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-ffca0198-a1ab-46a4-ac8f-7bd50c8e207a-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

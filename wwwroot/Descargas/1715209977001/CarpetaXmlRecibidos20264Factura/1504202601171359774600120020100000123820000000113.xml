@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601171359774600120020100000123820000000113</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T13:28:46-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>PEDRO HERNAN CEPEDA YANEZ</razonSocial>
+        <nombreComercial>OXICOMERCIAL</nombreComercial>
+        <ruc>1713597746001</ruc>
+        <claveAcceso>1504202601171359774600120020100000123820000000113</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>002</estab>
+        <ptoEmi>010</ptoEmi>
+        <secuencial>000012382</secuencial>
+        <dirMatriz>AV FRAY VACAS GALINDO S N Y MIGUEL ANGEL BUONAROTI</dirMatriz>    </infoTributaria>
+<infoFactura>
+<fechaEmision>15/04/2026</fechaEmision>
+<dirEstablecimiento>AV FRAY VACAS GALINDO S N Y MIGUEL ANGEL BUONAROTI</dirEstablecimiento>        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>MAURICIO PALACIOS</razonSocialComprador>
+        <identificacionComprador>1715209977001</identificacionComprador>
+        <direccionComprador>QUITO</direccionComprador>
+        <totalSinImpuestos>120.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos> 
+                    <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>120.00</baseImponible>
+                <valor>18.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>138.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        
+        <pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>138.00</total>
+            <plazo>1.00</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+   </pago>
+            </pagos>
+         </infoFactura>
+         <detalles>
+        <detalle>
+            <codigoPrincipal>1066</codigoPrincipal>
+            <codigoAuxiliar>1066</codigoAuxiliar>
+            <descripcion>ACETILENO DE 2KG</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>59.130400</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>59.13</precioTotalSinImpuesto>
+             
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>59.13</baseImponible>
+                    <valor>8.87</valor>
+                 </impuesto>          </impuestos>
+        </detalle> 
+        <detalle>
+            <codigoPrincipal>RACP</codigoPrincipal>
+            <codigoAuxiliar>RACP</codigoAuxiliar>
+            <descripcion>REGULADOR DE ACETILENO PROWAR</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>60.869600</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>60.87</precioTotalSinImpuesto>
+            <detallesAdicionales>
+        <detAdicional nombre="Dato1" valor="BARRA" />
+
+   </detallesAdicionales> 
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>60.87</baseImponible>
+                    <valor>9.13</valor>
+                 </impuesto>          </impuestos>
+        </detalle> 
+    </detalles>   
+        <infoAdicional>
+        <campoAdicional nombre="eMail">mauriciopyp@gmail.com</campoAdicional>
+        <campoAdicional nombre="Sistema">FenixPRO</campoAdicional>
+        <campoAdicional nombre="Vendedor">ERICK TERAN</campoAdicional>
+        <campoAdicional nombre="Telefono">066001157</campoAdicional>
+        <campoAdicional nombre="Correo">oxicomercial@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Forma Pago">OTROS CON UTILIZACION DEL SISTEMA FINANCIERO USD-138.00</campoAdicional>
+        <campoAdicional nombre="Plazo">0 DIAS</campoAdicional>
+        <campoAdicional nombre="Contribuyente">Regimen General</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature557194"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-ID-552908" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>kFY7lf8V4BHdc3gCO+pMgobafHw=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate510726"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>FWxHu5f2OAbm7odnsl84/Lvm2Hc=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedPropertiesID544193" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature557194-SignedProperties397578"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>52nniTT14YCRlvqWX0GwIfKxpsg=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue430295">AafA8jD6VO5ymtxebe+jEtDI9vje4dY9GXtAQWFzv7FLfQSC3S0/BSfpFmgKXV4lAmmc5EmMfVbsdls4IrV04yHHS9rh6Of+7pEwsw8wsyqhSzlClPCWJm3kuQbxetQyzv9ElYDQZsIQt98xdKQCwU+fIvZBQ3gkNzxEYD4pcLN0EkN6Hszltl8LoXVTtj0uqa8kVhkvjcyLVyzsPKFQJodo5azvemPTZbXrXTK9zE6YGbwGHrWNF7aCjj7flkRRFiWackUJQYCtm6f6Kgtm/htdsEnrAdKX/xZgaMkEYMcYFYNY5VC3lWqL2UB7gi163BY1nSWzm9BtPeGKyIE0xg==</ds:SignatureValue><ds:KeyInfo Id="Certificate510726"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>tDq/VaWtyvO+phUkORJ3UuIuWMnqFWzWUOzk+TOOY42Qe/Bw1xPAozER2Zt81GrN3iZ79m/oyicpgSC+6jrF38BFM8NmdswhRGF92DOR2CcWEF2uSXPkJZknV+M7epK6Ohu0Ef9Rm0wrKzeHNsXQU45qNgz+06qkSTrjjquOduSd1dJRh5FfYGf1oOGdmy0blHeVhAKA3AQEpgOYTKyOA/CVU8dDxiUMwflR0R59Sc9S0aRWEqsXzLgQp6gJ91qctKhtxD3w7D96z3FrY4QGRm3RwjfJM7+ARywCZkIPX6xEv6r+ptqGmuj2P5F8f5x8g08V0ONUM2d+nd120tgbxw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature557194-Object187501"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature557194"><etsi:SignedProperties Id="Signature557194-SignedProperties397578"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T13:28:55-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>M/MmdvLJcte3ZneKOhe93j6e1J0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>455507559024251441</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-552908"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

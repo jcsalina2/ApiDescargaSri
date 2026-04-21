@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601019007200200120379180000629460310813315</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T18:02:06-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version = '1.0' encoding = 'UTF-8'?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>GERARDO ORTIZ E HIJOS CIA LTDA</razonSocial>
+<ruc>0190072002001</ruc>
+<claveAcceso>0104202601019007200200120379180000629460310813315</claveAcceso>
+<codDoc>01</codDoc>
+<estab>037</estab>
+<ptoEmi>918</ptoEmi>
+<secuencial>000062946</secuencial>
+<dirMatriz>AV. CARLOS JULIO AROSEMENA S/N</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>01/04/2026</fechaEmision>
+<dirEstablecimiento>VIA A SALITRE KM 10.5</dirEstablecimiento>
+<contribuyenteEspecial>3517</contribuyenteEspecial>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>KARLA VALAREZO JIMENEZ</razonSocialComprador>
+<identificacionComprador>0705030427</identificacionComprador>
+<direccionComprador>URB SAN ANTONIO MZ18 S13</direccionComprador>
+<totalSinImpuestos>35.12</totalSinImpuestos>
+<totalDescuento>3.03</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>31.39</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>3.73</baseImponible>
+<valor>0.56</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>35.68</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>35.68</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>X86002X</codigoPrincipal>
+<descripcion>QUINUA VERDE PAMPA 500G</descripcion>
+<cantidad>2.0000</cantidad>
+<precioUnitario>2.4872</precioUnitario>
+<descuento>0.15</descuento>
+<precioTotalSinImpuesto>4.82</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>4.82</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X89508Q</codigoPrincipal>
+<descripcion>CHAMPINON CEPA LAMINADO 200G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.0769</precioUnitario>
+<descuento>0.31</descuento>
+<precioTotalSinImpuesto>1.77</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.77</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X8L0821</codigoPrincipal>
+<descripcion>QUESO CREMA TONI 225G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.3500</precioUnitario>
+<descuento>0.47</descuento>
+<precioTotalSinImpuesto>1.88</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.88</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9502J2</codigoPrincipal>
+<descripcion>NARANJA CORAL</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>0.9784</precioUnitario>
+<descuento>0.03</descuento>
+<precioTotalSinImpuesto>0.95</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.95</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9606Y1</codigoPrincipal>
+<descripcion>CURCUMA 200G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.0714</precioUnitario>
+<descuento>0.03</descuento>
+<precioTotalSinImpuesto>1.04</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.04</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X96078P</codigoPrincipal>
+<descripcion>ZANAHORIA 1KG CORAL</descripcion>
+<cantidad>3.0000</cantidad>
+<precioUnitario>0.9286</precioUnitario>
+<descuento>0.08</descuento>
+<precioTotalSinImpuesto>2.71</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.71</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9681RY</codigoPrincipal>
+<descripcion>QUESO MOZZARELLA REYQUESO 700 G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>7.2409</precioUnitario>
+<descuento>0.94</descuento>
+<precioTotalSinImpuesto>6.30</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>6.30</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9MG1200</codigoPrincipal>
+<descripcion>YOGURT GRIEGO NATURAL TONI 900GR</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>5.9403</precioUnitario>
+<descuento>0.18</descuento>
+<precioTotalSinImpuesto>5.76</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>5.76</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY30011</codigoPrincipal>
+<descripcion>ZAPALLO RODAJA COSTENO</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>0.5429</precioUnitario>
+<descuento>0.10</descuento>
+<precioTotalSinImpuesto>0.44</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.44</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYK000U</codigoPrincipal>
+<descripcion>JENGIBRE KG</descripcion>
+<cantidad>0.2600</cantidad>
+<precioUnitario>2.8571</precioUnitario>
+<descuento>0.02</descuento>
+<precioTotalSinImpuesto>0.72</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="KG"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.72</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYK0032</codigoPrincipal>
+<descripcion>GUINEO KG</descripcion>
+<cantidad>3.1500</cantidad>
+<precioUnitario>1.0000</precioUnitario>
+<descuento>0.09</descuento>
+<precioTotalSinImpuesto>3.06</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="KG"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>3.06</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYK3616</codigoPrincipal>
+<descripcion>AGUACATE FUERTE MALLA CORAL</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.0000</precioUnitario>
+<descuento>0.06</descuento>
+<precioTotalSinImpuesto>1.94</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.94</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X0M0442</codigoPrincipal>
+<descripcion>TORTILLAS DE MAIZ PARA TACOS 12U 300G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.6800</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.63</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>1.63</baseImponible>
+<valor>0.24</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X89107R</codigoPrincipal>
+<descripcion>TORTILLA DE QUESO CONGELADO FACUNDO 320G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.6217</precioUnitario>
+<descuento>0.52</descuento>
+<precioTotalSinImpuesto>2.10</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="37"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>2.10</baseImponible>
+<valor>0.32</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Tipo Contribuyente">Gran Contribuyente, no aplica retencion en la fuente Impuesto a la Renta Resolucion NAC-GCFOIOC21-00000889-E</campoAdicional>
+<campoAdicional nombre="Lugar Venta">CORAL VIA A SALITRE</campoAdicional>
+<campoAdicional nombre="ICE FUNDA EXCENTO">Resolucion Nro. MPCEIP-SCIT-2020-0041-R</campoAdicional>
+<campoAdicional nombre="Codigo">9999999</campoAdicional>
+<campoAdicional nombre="Deducible Alimentacion">24.84</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature905689" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo473454">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference URI="#Signature905689-SignedProperties837226" Id="SignedPropertiesID658767" Type="http://uri.etsi.org/01903#SignedProperties">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>JwNBaXQUxBM8iu3HLBLlH7O/1ug=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1369896">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DoNzKui6/bQTbWJDbBiLWyuLgtM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#comprobante" Id="Reference-ID-759012">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8Xy17NPVpfctyLq9merzF6dO+Mo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue712675">
+XllbeLAZilqM42XVBmeyRuYrLALJTMRreP0OwS5HQIQta31sNRt0Bcp3spnqauKseC9neBGAdeKZ
+1HrFRAsRjeXodUDK4K7rXQ2RmpYPmLhdf9mfzvRSc36oNDssxw82Tf0hGNqVr/G0vInTzeJKwT16
+S1g+HixPPuTFS+IRrukE5EoFKJeKAeLzYKKLrol++hNmMffHv/g9tjUpdvSxSOw7W8gZVZFUjdAd
+v/z1Byqzj/hma6vxSWqrr9ulNGaOAEtNTWhngKf9xKMSMPmh3XxUsRO7LAe+mZQ+b0JfryMfF2Ii
+dLVNTV4u0kkOl03JoYq/qJPgZtg8fyXAu3LHsQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1369896">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK0TCCCLmgAwIBAgIIT+5gpJcyO/swDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMjI0MjIyNjA5WhcNMjcxMjI0MjIyNjA5WjCB
+qDEmMCQGA1UEAwwdSFVHTyBBTkRSRVMgUVVFWkFEQSBJWlFVSUVSRE8xIDAeBgNVBAUTFzAxMDQ3
+MTQwMTktMjQxMjI1MTczNjAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM7IBuEyytdoBhh5Z+QUMCatDOfwwePTUKeX
+khWZktuAdg0U3bPPkIZb2CsyCRWoMBL16d2EMM7mNhXdVKSHVWCOnM5e5gt9swablZpa2C+DCkY+
++ncZoYLLfmADLWfvVWeyiGlYpgZ85XuijuLXP+J06Kh3D7Rr3Ww/d/N9//TibiYnNGhQhU7tr4EE
+Q78lPv1ZsWcCztNX6heGWwQ+/XdI3CL9I8GUutH2tviJHKf8EE4ol9vv2bZRO8NJozJYfth7IoNm
+s1Aw9FHSUo/NpLfJWzvinXvIhJs+RmttmSG+nX/wrWr8byy4Nx4PXBgc+0C4dymWHrKmag+rjnXB
+E1UCAwEAAaOCBgowggYGMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+N
+rmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCYGA1UdEQQfMB2BG2dlcmFy
+b3J0aXpAZ2VyYXJkb29ydGl6LmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBS
+BggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMA
+ZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEW
+gYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05v
+cm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJl
+c2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1Ud
+HwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJj
+cmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNV
+BAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIv
+Y3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vl
+cj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQzAdBgNVHQ4EFgQUTTQBQJhD+fLYNHLRztWwh67j0KUwKwYDVR0QBCQwIoAPMjAy
+NTEyMjQyMjI2MDlagQ8yMDI3MTIyNDIyMjYwOVowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwUE
+DAwKUFJFU0lERU5URTAaBgorBgEEAYKmcgMBBAwMCjAxMDQ3MTQwMTkwFgYKKwYBBAGCpnIDCQQI
+DAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMC0GCisGAQQBgqZyAwcEHwwdQVYgQ0FSTE9TIEpV
+TElPIEFST1NFTUVOQSBTIE4wGwYKKwYBBAGCpnIDAgQNDAtIVUdPIEFORFJFUzAfBgorBgEEAYKm
+cgMgBBEMDzY2NjY2NjY2NjY2NjY2NjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMM
+BAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdRVUVaQURBMC4GCisGAQQBgqZyAwoEIAweR0VS
+QVJETyBPUlRJWiBFIEhJSk9TIENJQSBMVERBMB0GCisGAQQBgqZyAwsEDwwNMDE5MDA3MjAwMjAw
+MTARBgorBgEEAYKmcgMdBAMMAS4wGQYKKwYBBAGCpnIDBAQLDAlJWlFVSUVSRE8wGgYKKwYBBAGC
+pnIDCAQMDAowOTY3MzcxNzAyMA0GCSqGSIb3DQEBCwUAA4ICAQAZHJkkPcgD9avISssT2+jpBk27
+SEA3k9PDYhek0Gdqu26UiacEulM6CssUg6o2wIirqmQktI5lfeoCKzBptNL+0nb8oCfqahPJxUsY
+LYTUOPcchbXSX4CrntlDjlet7BAR48NYJPOKqu8J8Z+Cj/4c2yhgkXZHd8xVHu/qZbacynSijKuB
+yuWGsQ4NQ8HSozKAugjuh4M5sRiQDK/roV1lsPu3NxoLgX30kFWdZEWFHEADt8Fd85ufoe3GBx3+
+mHg4oJeI6bj4jdejkJXJvavi/doKPIsxBsHJD9BGzJRIS+qd8IZrx6yUo3oh2jDFp400orvRQOaK
+kefIGZhf9xMpNBOGLPs0smdQLV+sy13+aUg7o250e4HlkHbJ8fA++O3xmYrbwnOyF8pVqlhE88Bh
+aXGg1tgMgCZY3uJXWFo+LccCvDc1GavJr6H18dQIf72DH/xVMq/cA/BBEs8VtCdq/0YjXoTGFtUJ
+p5zsSo70JaKalXFGP1WiVuBmYBqxSuvSVgcez23cTyQNPNXjJMj1YX4QGmuVat72RcuNTOtjiyPJ
+X9Ds4G0qVqky39ZrrZ2RT1PdzQKld9qJ8da3MRpHJuVlEbnq0Ank3uzGugr11pXLjYUXc0tqQZI9
+TZJabpJQK3g0iVG5puyFMwJfoKGkzt0vEYNhNO3q6CwDJuj9lw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zsgG4TLK12gGGHln5BQwJq0M5/DB49NQp5eSFZmS24B2DRTds8+QhlvYKzIJFagwEvXp3YQwzuY2
+Fd1UpIdVYI6czl7mC32zBpuVmlrYL4MKRj76dxmhgst+YAMtZ+9VZ7KIaVimBnzle6KO4tc/4nTo
+qHcPtGvdbD93833/9OJuJic0aFCFTu2vgQRDvyU+/VmxZwLO01fqF4ZbBD79d0jcIv0jwZS60fa2
++Ikcp/wQTiiX2+/ZtlE7w0mjMlh+2Hsig2azUDD0UdJSj82kt8lbO+Kde8iEmz5Ga22ZIb6df/Ct
+avxvLLg3Hg9cGBz7QLh3KZYesqZqD6uOdcETVQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature905689-Object10325"><etsi:QualifyingProperties Target="#Signature905689"><etsi:SignedProperties Id="Signature905689-SignedProperties837226"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T18:02:05-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>5GHD3haE6AdwVZL/hTET+lTa+ok=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>5759647233480997883</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-759012"><etsi:Description>Contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

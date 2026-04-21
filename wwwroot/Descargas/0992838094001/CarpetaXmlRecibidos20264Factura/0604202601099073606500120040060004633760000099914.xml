@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601099073606500120040060004633760000099914</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T12:11:35-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>COOPERATIVA DE TRANSPORTES DE PASAJEROS INES MARIA</razonSocial><nombreComercial>E/S CITIM</nombreComercial><ruc>0990736065001</ruc><claveAcceso>0604202601099073606500120040060004633760000099914</claveAcceso><codDoc>01</codDoc><estab>004</estab><ptoEmi>006</ptoEmi><secuencial>000463376</secuencial><dirMatriz>JULIO PEREZ S/N</dirMatriz></infoTributaria><infoFactura><fechaEmision>06/04/2026</fechaEmision><dirEstablecimiento>ROBERTO ASTUDILLO - NARANJITO KM 1.5 AV. PRINCIPAL S/N</dirEstablecimiento><contribuyenteEspecial>00011</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>COMPA?IA DE TRANSPORTE COMERCIAL DE CARGA PESADA PODEROSA SOCIEDAD ANONIMA TRANSPODESA</razonSocialComprador><identificacionComprador>0992838094001</identificacionComprador><direccionComprador>SAN EDUARDO MZ 251 SOLAR 24</direccionComprador><totalSinImpuestos>26.10</totalSinImpuestos><totalSubsidio>9.15</totalSubsidio><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>26.10</baseImponible><valor>3.91</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>30.01</importeTotal><placa>GBN6914</placa><pagos><pago><formaPago>01</formaPago><total>30.01</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>0121</codigoPrincipal><codigoAuxiliar>0121</codigoAuxiliar><descripcion>DIESEL PREMIUM</descripcion><cantidad>10.612</cantidad><precioUnitario>2.459130</precioUnitario><precioSinSubsidio>3.321114</precioSinSubsidio><descuento>0</descuento><precioTotalSinImpuesto>26.10</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>26.10</baseImponible><valor>3.91</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Num_Factura">004-006-000463376</campoAdicional><campoAdicional nombre="E_MAIL">transpodesa@hotmail.com</campoAdicional><campoAdicional nombre="Direccion_Cliente">SAN EDUARDO MZ 251 SOLAR 24</campoAdicional><campoAdicional nombre="Telefono_Cliente">098598694</campoAdicional><campoAdicional nombre="Codigo_Cliente">19676</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature291902">
+<ds:SignedInfo Id="Signature-SignedInfo431505">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID403691" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature291902-SignedProperties492229">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DTkYJ2cV2lSMNr01OSAEUcNITxw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1461871">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>r8r1dZNUcAg551KmLVXVei8vtNg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-576000" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>C2yNcpyCwgtH4bFbXWSpPQirQbM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue267220">
+PKw7rOPdrlZuaz4KLQcFcpIRTdRiFoxKeZcQ8ydmAHmHK0NA9ccda4Hyq8txavW3mCgNjUvA5leA
+I7Wb9cRGYQsdO8ZE+HlM2C8LoDw1VSDwD5UCTBJVthOl0BsvADli4Tz4EQBSscf72b7KNNbOprxi
+d5s015kOtw9C82imE87WL4keBtIOpjmY0huFEWTv1tpDV716aAFe9ut7G1SYLKoCRb5WyXtRnwEr
+8GTEmqPjzgIW4QIC213QBfNeBGpaSaSCoaKhVifKRqHmEiiIU9xAfXveXLFlra2JcXL9h9VxVFNM
+9pD8/7CssjmZz2/VeJVbNSd7ea65AbP2hY8aEQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1461871">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJuzCCB6OgAwIBAgIIFuwvPDs7L0QwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDQxMTE2MzIwMFoXDTI2MDQxMTE2MzIwMFowge4xCzAJBgNVBAYTAkVDMTowOAYDVQQKDDFD
+T09QRVJBVElWQSBERSBUUkFOU1BPUlRFIERFIFBBU0FKRVJPUyBJTkVTIE1BUklBMRAwDgYDVQQM
+DAdHRVJFTlRFMRcwFQYDVQQEDA5WSVRFUkkgUEFSRURFUzEXMBUGA1UEKgwORURJU09OIEVVU0VC
+SU8xGTAXBgNVBAUTEElEQ0VDLTA5MTExODgwMDExJjAkBgNVBAMMHUVESVNPTiBFVVNFQklPIFZJ
+VEVSSSBQQVJFREVTMRwwGgYDVQRhDBNWQVRFQy0wOTkwNzM2MDY1MDAxMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAnx4qx6DirJNaW7W04NVtNVJ5DfdkMqOoh1WR2PCfrWBh/e5Cv1Jo
+va0YhqFTMNLW92cfz/NwW8h8soE3Sz40cY3Wd4gqmzE3eMVeB7Uaw3260FV9wnJXdNVnNs3wIKCn
+ODKqH1MjyKzSzNfkWPpFydcWm78UhmCIdt+JvFFNQyNR73WDXab0YZp3i3/VqY35IzsMnFTzZpHU
+DFzyEYgoLit1W1H2Bp8rHcDlxWJGsw3qV9xHyVrdNRL39JSiM6o3JVgP2oJrv7CEZSQXtdbgj1u+
+RCc+KT3ekaq5DvwWHszX5nDCU5UpHe7z7CDALZkjJFHoR9Oz2/qTienGCojUWwIDAQABo4IEjzCC
+BIswGwYLKwYBBAGC8TZmAwEEDAwKMDkxMTE4ODAwMTAeBgsrBgEEAYLxNmYDCwQPDA0wOTkwNzM2
+MDY1MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFj
+YS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2
+BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYG
+CCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYD
+VR0OBBYEFG5pA5aESPoC9fr5m9SMjZR1aKIqMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfn
+YHPOB0ap4qNo8OERsnSSc/0wgY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYB
+BQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYB
+BQUHAgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8E
+gYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJz
+dWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtp
+L2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMCBggrBgEFBQcDBDCCAdAGA1UdEQSCAccwggHDgRhqdWFuZmVyLnBsYXphY0BnbWFpbC5jb22g
+GwYLKwYBBAGC8TZmAwGgDAwKMDkxMTE4ODAwMaAfBgsrBgEEAYLxNmYDAqAQDA5FRElTT04gRVVT
+RUJJT6AXBgsrBgEEAYLxNmYDA6AIDAZWSVRFUkmgGAYLKwYBBAGC8TZmAwSgCQwHUEFSRURFU6AY
+BgsrBgEEAYLxNmYDBaAJDAdHRVJFTlRFoCYGCysGAQQBgvE2ZgMHoBcMFUNBTExFIEpVTElPIFBF
+UkVaIFMvTqAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5MzkzOTY3Nzk1MKAaBgsrBgEEAYLxNmYDCaAL
+DAlOQVJBTkpJVE+gQgYLKwYBBAGC8TZmAwqgMwwxQ09PUEVSQVRJVkEgREUgVFJBTlNQT1JURSBE
+RSBQQVNBSkVST1MgSU5FUyBNQVJJQaAeBgsrBgEEAYLxNmYDC6APDA0wOTkwNzM2MDY1MDAxoBMG
+CysGAQQBgvE2ZgMMoAQMAkVDoCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VOVEFOVEUgTEVHQUyg
+GAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAbAfVTtEOlhccuyn3
+8WIUheShbvL12httO4LcBRDK9ldwbiYgAnRKA95Daojon1HdmgYmwDc3ursj4jhHx+Knv7Ad6WWL
+UN/nYdbSEjT58rNnUbiyEUAjaXrNI2aBSt21xviITV02ySe85wQOG0wYgLYCo9JNwx+WkQodj4mz
+nMVezLfxWgXeqBRLcBKysncvW3ObIe0H0Mklcf1maqc40Ddu9K52awSSadnU0OZkqOsed4+Pe6eR
+VoswBfr9iaeaFRxh5XPlWt9Kc8X8pG0BMo/Wsxkf9mXSpOq3dCzvfv+XCGA3+pvnmkmZexyUCU0s
+99677UrVUcTANqxiaMrbLl1hH7Fi8WuszpMxFcsBbK6AR4JKyiQdnndHNLEcXHVRkrDjEAOYIpwW
+pI58R8j5mH2fEEnF4HM86/jRqaIHNElqZRGXJN5cYS97LdcabjbbHSoMYfROpJujA3Y4nqecNndm
+FIEvqnyHo9AYdbqALg3CRPMxjQyKY8Mnqu0H/gz5GigGHuGR7wW3yaucEsJVnWW6ArYLDX1KDK/d
+zPhXBn7jPSfPuyigO+t09HjnRKf1y4mi8Zt1JYdaP7cb9ubFmaNGhndPsLBdSg+LZczYaTso5owg
+ce//JbwR1XaCFFwuiGvrLTymf4CnUp4w6AJhh9MQBUH+iuMmkoFr8nNG5gQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nx4qx6DirJNaW7W04NVtNVJ5DfdkMqOoh1WR2PCfrWBh/e5Cv1Jova0YhqFTMNLW92cfz/NwW8h8
+soE3Sz40cY3Wd4gqmzE3eMVeB7Uaw3260FV9wnJXdNVnNs3wIKCnODKqH1MjyKzSzNfkWPpFydcW
+m78UhmCIdt+JvFFNQyNR73WDXab0YZp3i3/VqY35IzsMnFTzZpHUDFzyEYgoLit1W1H2Bp8rHcDl
+xWJGsw3qV9xHyVrdNRL39JSiM6o3JVgP2oJrv7CEZSQXtdbgj1u+RCc+KT3ekaq5DvwWHszX5nDC
+U5UpHe7z7CDALZkjJFHoR9Oz2/qTienGCojUWw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature291902-Object47808"><etsi:QualifyingProperties Target="#Signature291902"><etsi:SignedProperties Id="Signature291902-SignedProperties492229"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T12:11:35-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>4PTnosRYmndvxtNpGmUlIv4u3is=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>1651747099076407108</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-576000"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

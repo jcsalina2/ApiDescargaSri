@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601099235773800120010020000048564406582318</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T11:11:29-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>ASOCIACION DE ARMADORES DE TURISMO DE GALAPAGOS ADATUR</razonSocial>
+	    <nombreComercial>ADATUR</nombreComercial>
+	    <ruc>0992357738001</ruc>
+	    <claveAcceso>0204202601099235773800120010020000048564406582318</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000004856</secuencial>
+	    <dirMatriz>GALAPAGOS/ SANTA CRUZ/ PUERTO AYORA/MOISES BRITO No. 144 Y JUAN MONTALVO</dirMatriz>
+		
+		
+			<agenteRetencion>8</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>02/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GALAPAGOS/ SANTA CRUZ/ PUERTO AYORA/MOISES BRITO No. 144 Y JUAN MONTALVO</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>BERDONCES SERRA VICENTE</razonSocialComprador>
+	    <identificacionComprador>0912909207001</identificacionComprador>
+		<direccionComprador>FRAGATA 47 Y ESCALESIA</direccionComprador>
+	    
+	    <totalSinImpuestos>150.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>150.00</baseImponible>
+				<valor>22.50</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>172.50000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>SGMA01</codigoPrincipal>
+		<codigoAuxiliar>SGMA01</codigoAuxiliar>
+      	<descripcion>SERVICIOS DE GESTION MONITOREOS AMBIENTALES</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>150.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>150.00</precioTotalSinImpuesto>
+	  
+	  
+	  	<detallesAdicionales>
+			
+    			<detAdicional nombre="Detalle" valor="NAUTILUS EX SEA CLOUD"/>
+    		
+      	</detallesAdicionales>
+      
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>150.00000</baseImponible>
+          <valor>22.50</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">SERVICIOS DE GESTION MONITOREOS AMBIENTALES PRIMER SEMESTRE 2026</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature405987">
+<ds:SignedInfo Id="Signature-SignedInfo271292">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID852143" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature405987-SignedProperties104129">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cZfmT97BxwjwqrwKmGZYD1YJi/k=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate903820">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>UvkcLZL7QUQdEsZ53GBSMj3utMs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-529992" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RsE31mrM0b/LVzRc8wsG2q1kcnc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue747580">
+mYDsAbjLSiIZqiLEOClqsoFx6iqxq8w7J1Qd8HYDJAvZC9zoy3k4bxLJs3qy1t12sIpk0svM2o9r
+/wwxCxCf6qayKPqvuoLJVyLmkeReEvkVQAS4X0Y/DM7dXwKx2xMalulU6IGCH2TbCxKbe1T25AuP
+HEWKr80IEGztbHJoU2Q6G+JPGJicKib6AFytw6y8QS9eLEbHsvDv3xS8gHWmr8UbP54PEEEKIe5U
+YtzPxUbAWvWZof4yBEfAshfL1jSVHtNgIzdV0wQJvNOG4Bso3J2OKl5WAuxbIU6bhrIE9FORErxK
+bwCl6If6Luk6HycKHUi4heWm2s44EXWhyPsgNw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate903820">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ5zCCB8+gAwIBAgIIPcB6boeJOgMwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDgzMDE5NDAwMFoXDTI2MDgzMDE5NDAwMFowggEAMQswCQYDVQQGEwJFQzE/MD0GA1UECgw2
+QVNPQ0lBQ0lPTiBERSBBUk1BRE9SRVMgREUgVFVSSVNNTyBERSBHQUxBUEFHT1MgQURBVFVSMRMw
+EQYDVQQMDApQUkVTSURFTlRFMRcwFQYDVQQEDA5XSVRUTUVSIEdBUkNJQTEcMBoGA1UEKgwTUk9M
+RiBDSEFSTEVTIEFMRlJFRDEZMBcGA1UEBRMQSURDRUMtMjAwMDAyODk0MDErMCkGA1UEAwwiUk9M
+RiBDSEFSTEVTIEFMRlJFRCBXSVRUTUVSIEdBUkNJQTEcMBoGA1UEYQwTVkFURUMtMDk5MjM1Nzcz
+ODAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJq4nQDFgQNnZTohNUz0ebYJWK7R
+ydMFjhZs8FV/7hHQBGaEQpNSIaEcUdar7owtvpm7SoR8G4GkSwxqIGX+VTsuUiwxSMd6tx9Kj5F/
+sgn3HZ9cbHr5od1+z/j8L6K0fGUkPwV3zgwY8xg0VpyXOFuufy6SrsY/q7cV2k4a5DuGoreeK9eO
+gCm9iCxJE3ysycULQiL1gOjQDcvVYd9xrDmkAljmIjpxv6INm0srOmlidb97zJ2jXQrVhKJc/8pf
+fqq7EnKeKBJv79pcqz0SsVNZbFULLY8+Zm1yKL9BQPudLN3UW7dRXN6jKeMdAJcempKZpgZ5QKjU
+baFFijoY+0MCAwEAAaOCBKgwggSkMBsGCysGAQQBgvE2ZgMBBAwMCjIwMDAwMjg5NDAwHgYLKwYB
+BAGC8TZmAwsEDwwNMDk5MjM1NzczODAwMTCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKG
+SWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVz
+L3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20v
+cHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBRj+pHt08o20V6Bxak00MiQSaQL5zAMBgNVHRMBAf8E
+AjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGOBgNVHSAEgYYwgYMwgYAGDCsG
+AQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJRklDQURPIERFIFJFUFJFU0VOVEFOVEUg
+RU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20v
+cHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5h
+dGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF
+4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggHpBgNVHREEggHgMIIB3IEbYWx0LnRp
+LTFvNzM0cWVqQHlvcG1haWwuY29toBsGCysGAQQBgvE2ZgMBoAwMCjIwMDAwMjg5NDCgJAYLKwYB
+BAGC8TZmAwKgFQwTUk9MRiBDSEFSTEVTIEFMRlJFRKAYBgsrBgEEAYLxNmYDA6AJDAdXSVRUTUVS
+oBcGCysGAQQBgvE2ZgMEoAgMBkdBUkNJQaAbBgsrBgEEAYLxNmYDBaAMDApQUkVTSURFTlRFoCwG
+CysGAQQBgvE2ZgMHoB0MG0RJQUdPTkFMIEEgTEEgQ0FTQSBERUwgTEFHT6AfBgsrBgEEAYLxNmYD
+CKAQDA4wMDU5Mzk2MTE2MzY5NqAdBgsrBgEEAYLxNmYDCaAODAxQVUVSVE8gQVlPUkGgRwYLKwYB
+BAGC8TZmAwqgOAw2QVNPQ0lBQ0lPTiBERSBBUk1BRE9SRVMgREUgVFVSSVNNTyBERSBHQUxBUEFH
+T1MgQURBVFVSoB4GCysGAQQBgvE2ZgMLoA8MDTA5OTIzNTc3MzgwMDGgEwYLKwYBBAGC8TZmAwyg
+BAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAYBgsrBgEEAYLxNmYD
+M6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQCz6g1WP17rf3CMOQE4fC+4+YKkt2FVwcfj
+LVflUAhFLApkHF73774yTBmSb8IzIid4yOadwIyboErjaU1MsKwC1/7y/l25r7zPef4HC+H17QsU
+j22OKjOyR/uVGqAc8VMOPxF5qtYLNEZbT6xEKm8u092NVIaW6Ux/dGbgpiMoLv5MfjS6lDY09YCd
+rpYVAvkQFAfgLCFFW8vui1qVv0l7bjhiFaI4DOBcFgtoCdEsbz4hfK+n/zHF2/Q9iRyHo0Eb0xEI
+a3fss3MbO/HF+J3MXxBxLx89jqShfq/rM/j8I04UyrVmxXotSo0Gaf/eldnqApkGtZsLYgljbJcu
+dLqrBNQRvD3j3lveFsu/G5OFjLCwyTKK2i2+tANwkT7HrPk39F+dDy3SVChfB/fXtODkKyWnuNGl
+hNeeOqlMATeVf+yY92Wt+ED+C0aFH3nWXd003LVecBh0KTzVrWnb3Ht48TrAa3uHjjzMoEHGRRt+
+EMVNVCEAY/G/ImYQ9jKD2qx0/nQYVMNZigawKmnYDzXNxnUhNlxRP7DaZCDKkCr4aYFRM784bnzT
+iz0VuY//deV3Q2pXd1kukKvlWTRkIPeIhDRYw56B2H4uFaSi6XucBKIfcOwLcPAtvObHmT0T7cyL
+B1ekHdmjZW+79YEkVqAOe9UNURg29FWFVXCpB0yeZg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mridAMWBA2dlOiE1TPR5tglYrtHJ0wWOFmzwVX/uEdAEZoRCk1IhoRxR1qvujC2+mbtKhHwbgaRL
+DGogZf5VOy5SLDFIx3q3H0qPkX+yCfcdn1xsevmh3X7P+PwvorR8ZSQ/BXfODBjzGDRWnJc4W65/
+LpKuxj+rtxXaThrkO4ait54r146AKb2ILEkTfKzJxQtCIvWA6NANy9Vh33GsOaQCWOYiOnG/og2b
+Sys6aWJ1v3vMnaNdCtWEolz/yl9+qrsScp4oEm/v2lyrPRKxU1lsVQstjz5mbXIov0FA+50s3dRb
+t1Fc3qMp4x0Alx6akpmmBnlAqNRtoUWKOhj7Qw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature405987-Object29723"><etsi:QualifyingProperties Target="#Signature405987"><etsi:SignedProperties Id="Signature405987-SignedProperties104129"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T10:56:16-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>0m/8nYBbPtxKZTkRM+m/KHlH+VM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>4449691046980958723</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

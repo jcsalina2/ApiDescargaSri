@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202601200002673800120011010002425331234567815</numeroAutorizacion>
+<fechaAutorizacion>2026-04-07T08:32:57-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>GUERRERO ALDAS MAGALY MARIBEL</razonSocial><nombreComercial>GUERRERO ALDAS MAGALY MARIBEL</nombreComercial><ruc>2000026738001</ruc><claveAcceso>0704202601200002673800120011010002425331234567815</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>101</ptoEmi><secuencial>000242533</secuencial><dirMatriz>CUCUVE S/N Y ISLAS PLAZA</dirMatriz><agenteRetencion>00000010</agenteRetencion></infoTributaria><infoFactura><fechaEmision>07/04/2026</fechaEmision><dirEstablecimiento>CUCUVE S/N Y ISLAS PLAZA</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>NAUTIDIVING S.A</razonSocialComprador><identificacionComprador>2090004460001</identificacionComprador><direccionComprador>FRAGATA 47 Y ESCALESIA</direccionComprador><totalSinImpuestos>20.88</totalSinImpuestos><totalDescuento>0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><descuentoAdicional>0</descuentoAdicional><baseImponible>0</baseImponible><tarifa>0</tarifa><valor>0</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>0</descuentoAdicional><baseImponible>20.88</baseImponible><tarifa>15</tarifa><valor>3.13</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>24.01</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>24.01</total><plazo>0</plazo><unidadTiempo>días</unidadTiempo></pago></pagos><valorRetIva>0</valorRetIva><valorRetRenta>0</valorRetRenta></infoFactura><detalles><detalle><codigoPrincipal>96823406</codigoPrincipal><codigoAuxiliar>96823406</codigoAuxiliar><descripcion>TORNILLO GALV P/BROCA 8X1-1/2" CABEZA AVELL</descripcion><cantidad>300</cantidad><precioUnitario>0.0696</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>20.88</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Unidad" valor="UNIDAD"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>20.88</baseImponible><valor>3.13</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION">FRAGATA 47 Y ESCALESIA</campoAdicional><campoAdicional nombre="TELEFONO">0992641056</campoAdicional><campoAdicional nombre="E-MAIL">vicente.berdonces@gmail.com, contabilidadnautidiving@gmail.com</campoAdicional><campoAdicional nombre="TIPOVENTA">CONTADO</campoAdicional><campoAdicional nombre="COMENTARIO">EFE: 24.01
+AGENTE DE RETENCION NAC- GTRRIOC22-00000001
+RECIBIDO: 25, SU CAMBIO ES: 0.99</campoAdicional><campoAdicional nombre="LINK-DESCARGA">DESCARGUE SU COMPROBANTE ELECTRONICO EN HTTPS \\EVA.EC\</campoAdicional><campoAdicional nombre="AGENTE DE RETENCION">00000010</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature159949">
+<ds:SignedInfo Id="Signature-SignedInfo899793">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID700684" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature159949-SignedProperties1027467">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>GGDG+TR3KAbWKnWB2SttjwTgyZs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11021068">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>/AfM2oqSDZdJX1GtxLjx7zj8vsw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-60459" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>kWFFloMkwN7qzNxGsBQCs7Yy2SY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue398171">
+gIRzCWAbB5irKCglcnu6BOGl2Yi3+xfYuX/NGV/70I5Jc9pk7iveLNrCa9j8Q2YEcLYg29ZJtIAN
+C63BNSTlnKovXiaJA/ickT0MSmfXY2suUUCZ6f8MpB6kORFaMZRBFt8AbQmRGshlbB7kvzkKOcvg
+nrwOZeidPIqYz0QYJIRAV3/iVNjq6G7nnajimBrVxsZAB3bu6J0D87yEiBshuX4CT0ZKIP5EZe/q
+o7PFgLUiM/IdMhLdU61KOQVQN7Bk7eC8+MgDdKQKtklxuPqEA+Mnhaa9A+gInPFbWB7ph46qJeeP
+p5zbX6i5dl1yFVhnjp4JcNn6lEBRWWdrQwDYtA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11021068">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMHDCCCgSgAwIBAgIERiAGJTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMTMxODQ3NDJaFw0yNjEyMTMxODQ3NDJaMIGoMSYw
+JAYDVQQDDB1NQUdBTFkgTUFSSUJFTCBHVUVSUkVSTyBBTERBUzEgMB4GA1UEBRMXMjAwMDAyNjcz
+OC0xMzEyMjQxMzU3MzcxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzdNTnEYw81/q3gOuvm1teBg17vnFpbr6WzBCeaTL
+qWyrNsU+a9PSE9sbvGBtp/PegM0dNcTOjeU/RLh9D6z99YWuU4itJHiLznMLOMdn7vqXxlRfxFfD
+s4oryW0Dp2fIqv0Db411WHKaObPFWxFhajKiTMadRk4CH2ITRcD2ZYVKZ2tCrG0/k76cHQrpP/eK
+aHPXwS5RCj2BPfdfuBWqSvwBHugEesYzBTcMaOk2yZjIwaLVpuAYkyLIx+aw0mtNtKYJ5z3vyDhL
+ITT4A8VGKXIm9a3Uz4lQ0ToDsmnJI3fvIRLjr2Zjl7Pf/TB9M6UAlhHY2UhKimU/5gZy48yFpQID
+AQABo4IHWTCCB1UwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29
+jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCB
+u4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJl
+dm9jYXRpb25MaXN0P2Jhc2UwLwYDVR0RBCgwJoEkZWRvY3MubWFnYWx5X2d1ZXJyZXJvQHppbG1h
+dHNvZnQuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwA
+QwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBh
+AGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRh
+dGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fk
+b3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0lBBYw
+FAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2Nz
+cGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGc
+MIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZ
+IERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRh
+cDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2
+b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwm
+aXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBE
+QVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSoHpPatIeaafUKXyVvKPQH8oE65jArBgNVHRAEJDAi
+gA8yMDI0MTIxMzE4NDc0MlqBDzIwMjYxMjEzMTg0NzQyWjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGC
+pnIDAQQMDAoyMDAwMDI2NzM4MC4GCisGAQQBgqZyAwkEIAweUFVFUlRPIEFZT1JBIENBQkVDRVJB
+IENBTlRPTkFMMBEGCisGAQQBgqZyAyIEAwwBLjAoBgorBgEEAYKmcgMHBBoMGENVQ1VWRSBTIE4g
+WSBJU0xBUyBQTEFaQTAeBgorBgEEAYKmcgMCBBAMDk1BR0FMWSBNQVJJQkVMMBAGCisGAQQBgqZy
+AyAEAgwAMBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKm
+cgMMBAkMB0VDVUFET1IwGAYKKwYBBAGCpnIDAwQKDAhHVUVSUkVSTzAjBgorBgEEAYKmcgMeBBUM
+E0VNUExFQURPIFBBUlRJQ1VMQVIwHQYKKwYBBAGCpnIDCwQPDA0yMDAwMDI2NzM4MDAxMBEGCisG
+AQQBgqZyAx0EAwwBLjAVBgorBgEEAYKmcgMEBAcMBUFMREFTMBoGCisGAQQBgqZyAwgEDAwKMDk4
+MzQxMDQ3ODANBgkqhkiG9w0BAQsFAAOCAgEAIq9JPVsTTCrevdhyQMTn/ae07eniUpSXyufD7jvE
+3dvSV7zO78pnF63dwOQVWp/QEzHl42ynpxan89D1tVXaGgvzVicKYmg9MNJebz4hIrePdBCMNlag
+U9gR7/WWNu3fFMUbivj/Ud/ka55dcG8yRD0IcXOd5sgr6+w+O7yBu464TPzQte6RFr2JOCwlIdZ/
+gh3qliGrJbBxZooCG1jxaAQW3V9oeDRlumeHUW5bjlhiqW+MvLnVPoVBUsF4JIWpowGtwlp1Wqjy
+sAsUpCbHqEnUK/MzE9m/OqpbrOHlZRTV4UXN/faiMModfdY4fgOfIFe10ndSCmD4dYanAgdau0+I
+sg1oJ6xO+HNWmODr2ezk469A92S3bgB7/KrnOBkn3SLoRQOQJaU2GBelQTa4+gj9KnhO9g8wyMpX
++zWX+RZJfH8oby3nrme5jqKPfGWSIcn2iFhThLlPmSah8sXORC1UH+oAJ3YTK3F+ew5kMxkYIVMB
+6A+UDnVnijUeXDQWdkHKAKxKbJuK2XYIt33NbBFhdwxCnskGdpFS5gqAVYFJqeJJbqshn1PnUaI3
+c/nwAG2AOLQCzYBgTFHtUzU9WtY53eiAXclhszypl/WH6xrSB63gDK2lj+akdKremH5+njxcBiio
+RfhPKJvVTT9uaiklTACg9cqsmWI8p0DqeFM=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zdNTnEYw81/q3gOuvm1teBg17vnFpbr6WzBCeaTLqWyrNsU+a9PSE9sbvGBtp/PegM0dNcTOjeU/
+RLh9D6z99YWuU4itJHiLznMLOMdn7vqXxlRfxFfDs4oryW0Dp2fIqv0Db411WHKaObPFWxFhajKi
+TMadRk4CH2ITRcD2ZYVKZ2tCrG0/k76cHQrpP/eKaHPXwS5RCj2BPfdfuBWqSvwBHugEesYzBTcM
+aOk2yZjIwaLVpuAYkyLIx+aw0mtNtKYJ5z3vyDhLITT4A8VGKXIm9a3Uz4lQ0ToDsmnJI3fvIRLj
+r2Zjl7Pf/TB9M6UAlhHY2UhKimU/5gZy48yFpQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature159949-Object298598"><etsi:QualifyingProperties Target="#Signature159949"><etsi:SignedProperties Id="Signature159949-SignedProperties1027467"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-07T08:32:54-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>SWTElDnIdi1gvqQvKzY2WkI50fE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1176503845</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-60459"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

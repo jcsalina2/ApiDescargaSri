@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601172426871700120020030000000884137780111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T16:44:56-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ROSERO ZAMBRANO LUIS ANDRES</razonSocial>
+        <ruc>1724268717001</ruc>
+        <claveAcceso>1704202601172426871700120020030000000884137780111</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>002</estab>
+        <ptoEmi>003</ptoEmi>
+        <secuencial>000000088</secuencial>
+        <dirMatriz>Barrio: LAS PALMAS Calle: AV BALTRA Numero: SN Interseccion: SIN NOMBRE </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>17/04/2026</fechaEmision>
+        <dirEstablecimiento>Barrio: LAS PALMAS Calle: AV BALTRA Numero: SN Interseccion: SIN NOMBRE </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>NAUTIDIVING S.A.</razonSocialComprador>
+        <identificacionComprador>2090004460001</identificacionComprador>
+        <totalSinImpuestos>600.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>600.00</baseImponible>
+                <valor>90.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>690.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>690.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>0022</codigoPrincipal>
+            <descripcion>SERVICIO DE GUIANZA</descripcion>
+            <cantidad>4.00</cantidad>
+            <precioUnitario>150.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>600.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>600.00</baseImponible>
+                    <valor>90.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">contabilidadnautidiving@gmail.com</campoAdicional>
+        <campoAdicional nombre="Detalle servicios">13 abril
+15 abril
+16 abril
+17 abril</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-f409b1a7-39ab-4fac-9ea2-4b467f68de14"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-f409b1a7-39ab-4fac-9ea2-4b467f68de14-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>xByZRpJc7MEMR9uYydPj2XG3eVkwC37BYJdYi0egvKQ=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-f409b1a7-39ab-4fac-9ea2-4b467f68de14-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>6z0jY954yXZw6/ls383sf5PRe2oPNaCMSs68Af/kNEk=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-f409b1a7-39ab-4fac-9ea2-4b467f68de14-sigvalue">A6a5hg6a1+TOUGo+15enGJlDeHeFjkkQ3otTu0mpt/U1QdPje23pg+t5EfBBcDH7tbDyp27ln59xE1oSAfFhMiu9lTUBjhh1PjmZVbqus33w/HQ/bxIGkp11tShY4FVND+QQpybViFv11pTkJ9vnx/Jjqw3z/D1wUVgUa+Cory9ihYgTjc+QA/enxfBTgDIu+i4Vix+Y/GDWKQUOyGTxOcYJgwAPVD2tHKAmeY+5FqgTZP4H6XP5LHMl/sv2G03GsWux6ipEewbV7JSVzMaDid9uYCwuZ+3Run74wWfueS7M46Cwh84Csd4MIIxX/CKfGlfuzrVVKJl41Js71nkSLg==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-f409b1a7-39ab-4fac-9ea2-4b467f68de14"><xades:SignedProperties Id="xmldsig-f409b1a7-39ab-4fac-9ea2-4b467f68de14-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-17T16:44:55.344-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>6ocMztaBnhQqAIHrmJzzyGymQcb7g5Bdz9scKpQWAo0=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>997296482677081512569207773</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-f409b1a7-39ab-4fac-9ea2-4b467f68de14-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

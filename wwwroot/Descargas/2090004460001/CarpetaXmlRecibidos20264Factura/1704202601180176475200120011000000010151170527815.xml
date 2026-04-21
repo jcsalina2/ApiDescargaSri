@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601180176475200120011000000010151170527815</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T15:57:09-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MOROCHO EGAS HUMBERTO NEPTALI</razonSocial>
+        <nombreComercial>DECKO MUEBLES</nombreComercial>
+        <ruc>1801764752001</ruc>
+        <claveAcceso>1704202601180176475200120011000000010151170527815</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000001015</secuencial>
+        <dirMatriz>Barrio: MIRADOR Calle: CALLE A Numero: S/N Interseccion: CALLE 14 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>17/04/2026</fechaEmision>
+        <dirEstablecimiento>Barrio: MIRADOR Calle: CALLE A Numero: S/N Interseccion: CALLE 14 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>NAUTIDIVING S.A.</razonSocialComprador>
+        <identificacionComprador>2090004460001</identificacionComprador>
+        <direccionComprador>CALLE MALECON </direccionComprador>
+        <totalSinImpuestos>630.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>630.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>630.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>630.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>ESPONJA</codigoPrincipal>
+            <descripcion>10 COLCHONETAS ; ESPONJA MAS MANO DE OBRA</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>630</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>630.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>630.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">vicente.berdonces@gmail.com</campoAdicional>
+        <campoAdicional nombre="ARTESANO ">CALIFICACION JNDA</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-6b84e59a-dda9-46b7-9135-37fd843aba6a"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-6b84e59a-dda9-46b7-9135-37fd843aba6a-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>QyctkEusmRR9gSlvX/IElPiyn5uKKVXO7aoCOqDBLmM=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-6b84e59a-dda9-46b7-9135-37fd843aba6a-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ZmAQ7fVr9cXmjMxghXnsHmLUq4pJKfnIsBQKJhidocA=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-6b84e59a-dda9-46b7-9135-37fd843aba6a-sigvalue">dCVkdhPeVfZGvFbOzeWiOjrUQQju0K8KsNlDf+Nj93w9qu816CAFXFUZyRpRBQvoD28e/Z7I8o7yUw+UWF1wCRWlRS4sMyuQxTEBnKLz3esK2sY28zm21qqiD+FNAc7xvdz4xZvopM68AA0bphXWGfPu08G8tK+Mz/Lavtq4vEcZEmk5CoSSv4E3E0RmSamWgBHF1bqvCvFyv/PVfb0y705HIPSrm7Uhs124/QZpJ3TjUIWx4Ve7kd2AEIOHI5GGEHpasn0QQgxpMiyy884OS2kFZPKQbSC6Ai1mrbu3iEhvWY6zolrlK7XgPIewVdA/74FhDZ8MzsHnfFGtEPTDrA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIJtDCCB5ygAwIBAgIEZeUBoTANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI0MTExMTIxNDExMFoXDTI2MTExMTIyMTExMFowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDc4MjY4NzAkBgNVBAMTHUhVTUJFUlRPIE5FUFRBTEkgTU9ST0NITyBFR0FTMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn3+yZV6VlvD6nAK13UneS+9+UXl07TYxj9uevmOu6r9us41EnOlhA5ogBw2hRMZ7P+Hvf1nLidx6fitNTMo0F4JWI5WIq+FXHY7GIq2zDSiIHn3kRtdn7w8DXQReF/O53IVfF3YkUUI5rIJxhSsU6Q0Rq5+yy0ClkfL1aIGBJ20SQMBS4S2HuotLOJ3XZFNeo8aS9qtsb+Zg0yijzPO24gWFdLnRe7s+0mp7+i0WwLn7+9Qg3OSKT5ZL6uGlrrCCxR3dQGMQh9MbmxjaztUhrjFpZVaZUxd9KcMRZzyTNz/ADz/lB9TQHfTZVwiOO+AAmy/0cTA5aZict0pRWSp4tQIDAQABo4IE3DCCBNgwCwYDVR0PBAQDAgeAMGYGA1UdIARfMF0wWwYLKwYBBAGCqDsCAQEwTDBKBggrBgEFBQcCARY+aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtbmF0dXJhbC5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMBoGCisGAQQBgqg7AwEEDBMKMTgwMTc2NDc1MjAgBgorBgEEAYKoOwMCBBITEEhVTUJFUlRPIE5FUFRBTEkwFwYKKwYBBAGCqDsDAwQJEwdNT1JPQ0hPMBQGCisGAQQBgqg7AwQEBhMERUdBUzAuBgorBgEEAYKoOwMHBCATHkNhbGxlIGEgeSBjYWxsZSAxMyBlbCBtaXJhZG9yIDAZBgorBgEEAYKoOwMIBAsTCTA1MjUyNzEyMTAaBgorBgEEAYKoOwMJBAwTClNhbnRhIENydXowFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMB0GCisGAQQBgqg7AwsEDxMNMTgwMTc2NDc1MjAwMTAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wJgYDVR0RBB8wHYEbaHVtYmVydG9tb3JvY2hvQG91dGxvb2suY29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMvY249Q1JMMjExMSxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDIxMTEwKwYDVR0QBCQwIoAPMjAyNDExMTEyMTQxMTBagQ8yMDI2MTExMTIyMTExMFowHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0OBBYEFBAcjXVNfoM//rAtXMH7Lsdo6U4KMAkGA1UdEwQCMAAwGgYJKoZIhvZ9B0EABA0wCxsFVjEwLjADAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQCKLT0QxXg33+ZHOTjRZIFPyU84nAg35yD46/i0qV02Hldje4G8r6pLENjjR/P8LJCDLx0irM8Eq9jDHjvoMhp/3ASK6/XZMoc6b5qwjg2IiI6kZa3LoZt731q51wjGfc48wBQqRWTvfbiqMVAhaoAX4fiZcPwc1WXTCsq/50nVXYGsjktERf/yGfpNCrPlK8DITyOEV25GLYDq5GoIpvtMWpqeDJxuZttyw+hNItqxVQHj3OBkWeJn7beXNPIY+4XSpH3DXktrRJ2xjpozKgbQekDI0J5WxxG8tSok/RIlFI45kyzkDVVWODa0A9cKuQ8Kh5MIai/v16hJ7eldXds77JtIE0g6A2fuwEIhWuMGYwwqMIWOKZtDfQug1BUckb/po0ZJypJp9mrOkLiS/laWJQ+K609EamC3qeiaPKl0JU/vouTQdIQCnFJzv+nvph1mAwVtZzALe7oQMCPv2KStTjUommJXK3deq2WD8lTjCGLZsSZdd5X6sKxOO0aiVmrjrM8XN84+BEi7hBA5KLkRzqsJl3SY5xX1ZjgQMSRBC8ZY/EAdbkgKJ+CnoIQCbm04SDdash+5Mt631acB2F9/OkNUlXvWgwBaiSOJID1YF3Th2va1bEH9wWsQotCG+32sevFJrWevj3GODWyylyibk08x1QyBseCa0M1dcGs7IQ==</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-6b84e59a-dda9-46b7-9135-37fd843aba6a"><xades:SignedProperties Id="xmldsig-6b84e59a-dda9-46b7-9135-37fd843aba6a-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-17T15:57:09.550-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>1STdMStbVSkpM/JsEXtkiKEAR7iayoMazvPnKuOD79E=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709506977</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-6b84e59a-dda9-46b7-9135-37fd843aba6a-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

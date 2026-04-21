@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0404202601179322801800120031000000666630031897919</numeroAutorizacion>
+<fechaAutorizacion>2026-04-04T10:34:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>VIMOCAR S A S</razonSocial>
+    <nombreComercial>COMISARIATO DEL POLLO</nombreComercial>
+    <ruc>1793228018001</ruc>
+    <claveAcceso>0404202601179322801800120031000000666630031897919</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000066663</secuencial>
+    <dirMatriz>AV 6 DE DICIEMBRE N45-214 Y ISLA ISABELA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>04/04/2026</fechaEmision>
+    <dirEstablecimiento> SAN ISIDRO DEL INCA / NOGALES N50-46 Y OLIVOS</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>PALACIOS RAMON NELSON MAURICIO</razonSocialComprador>
+    <identificacionComprador>1715209977001</identificacionComprador>
+    <totalSinImpuestos>13.51</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>13.51</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>13.51</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>13.51</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>100</codigoPrincipal>
+      <descripcion>HUESO CARNUDO </descripcion>
+      <cantidad>2.830000</cantidad>
+      <precioUnitario>1.250000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.54</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>3.54</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>001</codigoPrincipal>
+      <descripcion>MR POLLO </descripcion>
+      <cantidad>4.770000</cantidad>
+      <precioUnitario>1.200000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.72</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>5.72</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>107</codigoPrincipal>
+      <descripcion>CHULETA DE LOMO  MR CHANCHO </descripcion>
+      <cantidad>1.440000</cantidad>
+      <precioUnitario>2.950000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.25</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>4.25</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">No Dir.</campoAdicional>
+    <campoAdicional nombre="Telefono">No Telf.</campoAdicional>
+    <campoAdicional nombre="Email">@gmail.com</campoAdicional>
+    <campoAdicional nombre="Fecha V">04/04/2026 (0) dias credito</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature112357">
+<ds:SignedInfo Id="Signature-SignedInfo485125">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID310636" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature112357-SignedProperties933319">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>EVzqkrtWwRg5o/CvNWbprJwY4UQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1529821">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>DLkwd+2KYMK8KgLqjrFSqHLuCTs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-682178" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>9aAmuv21UC2BhaDHCBiuubXEiUE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue123216">
+Yr1MvSYhwM0mQtjNEtYqv+UZqXTM1K6IWag7wzRncUpC7k5n017le8vT3SuV87+BQp5XUp9SwsIa
+Sk8CXYBDLDzQ440ejvAMz+O3GKB5nBTZ84QwXqahAg/3bca/k0g6ANAf9Ts2wGYBqlmmIUmT4iCa
+xCm70cS3X2P4ya+ms22U8KE0tj/mqM+O30J2/IwyVGCYdqlrzew7wa55QrIv4VpbAYhJ5egoEATw
+93AqYPCTXCpsy8ryp6KalE0vs8+YPxAs+nVfiKkc/rrfGKAz0bzFKwyWVoGQpuqv4APjYttKiY5k
+arcY4bdS2TW31+q0RTr7Ep6z2qVaEtKUT+nkiQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1529821">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJvDCCB6SgAwIBAgIIDiz2I+BSPCIwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDgwODIyMzMwMFoXDTI4MDgwNzIyMzMwMFowgeUxCzAJBgNVBAYTAkVDMRcwFQYDVQQKDA5W
+SU1PQ0FSIFMuQS5TLjEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMSAwHgYDVQQEDBdWSUxMQVZJ
+Q0VOQ0lPIFJPRFJJR1VFWjEXMBUGA1UEKgwOUEFPTEEgQ1JJU1RJTkExGTAXBgNVBAUTEElEQ0VD
+LTE3MTYxMzI1MzMxLzAtBgNVBAMMJlBBT0xBIENSSVNUSU5BIFZJTExBVklDRU5DSU8gUk9EUklH
+VUVaMRwwGgYDVQRhDBNWQVRFQy0xNzkzMjI4MDE4MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAo9ebBgoicQgcUsy6OQUqZD9qmVSlhWVjJq2HoGgW+1YfNzMTP4xfqIXDU6ScgSO7
+T7xjxSvNsX/flVZzftdcnHFCJOvwvVUUEdRugGniKv3PhmdLXaVYbmAjicEud6/HLePwgYVimws1
+CykLgWsFbgeOJlIZJCR0uwW5qMQz1k0HhKw13VbmGfukqUoxQTAuCAmqGW74sSW/6I6JHlWgCckK
+mb5+0kDIxF29dh/U06ujbZEZxjgzO7bQ14o211yshAblf1q7ueTPEcuk8P/LYwlR7xJEIjSESiwB
+1bzaZPkev3nzxRGJOi/QYAUJaOWpIv1zGxt16eWu1HLa3p11DQIDAQABo4IEmTCCBJUwGwYLKwYB
+BAGC8TZmAwEEDAwKMTcxNjEzMjUzMzAeBgsrBgEEAYLxNmYDCwQPDA0xNzkzMjI4MDE4MDAxMIHX
+BggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVi
+bGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcw
+AYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzAB
+hipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFKzh
+hnVxElBS5TwDnNe/403v0sG3MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo
+8OERsnSSc/0wgY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0
+dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwn
+Q0VSVElGSUNBRE8gREUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+
+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFk
+YS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJz
+dWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEF
+BQcDBDCCAdoGA1UdEQSCAdEwggHNgRVjYWFtYXlhMzEwMkBnbWFpbC5jb22gGwYLKwYBBAGC8TZm
+AwGgDAwKMTcxNjEzMjUzM6AfBgsrBgEEAYLxNmYDAqAQDA5QQU9MQSBDUklTVElOQaAeBgsrBgEE
+AYLxNmYDA6APDA1WSUxMQVZJQ0VOQ0lPoBoGCysGAQQBgvE2ZgMEoAsMCVJPRFJJR1VFWqAgBgsr
+BgEEAYLxNmYDBaARDA9HRVJFTlRFIEdFTkVSQUygLwYLKwYBBAGC8TZmAwegIAweV0hZTVBFUiBO
+MzItMiBESUVHTyBERSBBTE1BR1JPoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTY5ODAxMDkzoDAG
+CysGAQQBgvE2ZgMJoCEMH0RJU1RSSVRPIE1FVFJPUE9MSVRBTk8gREUgUVVJVE+gHwYLKwYBBAGC
+8TZmAwqgEAwOVklNT0NBUiBTLkEuUy6gHgYLKwYBBAGC8TZmAwugDwwNMTc5MzIyODAxODAwMaAT
+BgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FM
+oBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBAMs1jT6rHly4iUmJ
+r9NiDKCFvYaaZo+7KQrxLTwErstGvMrUwKLY6+Jzk95xVQpWSJAIj9PotD6QiJ0IYXNObezBm/JV
+2u5JnHadyiuiXNL0lhEZ5MSTHFIHOqlGKZ05k1hCcbBRhLEky3Z58MDMs6oWoyC599NtuPLkJ25P
+zy3GWIrG8nSroj9k3nETrEihedV8m5UU2OPJalLCKtWReiH2ux2WuknvYO22Lwn6T78EEOF9GUXG
+kBUV0DXl4EDik8MxalYBIa61g8hN2FdfaL/m67ZjpakNXiuVLxUFKDGM1WNSGu0VOmacAk+e1VRi
+MlDYIOQ5cRGPvzOltbu6cxr4KHn97mEVnFWFZjYN3Dtk4YDpD5jHpTMSANZPt3aZ1MZYadP2EaRg
+L8gNkQFUJHLG8igWoy3bNYhPz5QPl6hoYevTlydv2a/+knGa+mOW9AQYMFlvkEVhX/zMkkB9siM6
+S/a9ye3JuWBUuwwfUDd/gaO9B0szp9KaLk2gm8In2nvtUqBZ7I+AHQ//5ED59GD9c3KIHX7fLO0e
+7facK4D0w3H01zJ3jbFOSuehSKSh7IWzXaQFTZb4eDvXIbP59AMRwSochjVgzJr/DnTaB2772wwG
+wDsD18ep8t791+VpMzV0efvG9VXdZhp8o/ZOJvkO5bjFiuVmmDfRDgTUx1ub
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+o9ebBgoicQgcUsy6OQUqZD9qmVSlhWVjJq2HoGgW+1YfNzMTP4xfqIXDU6ScgSO7T7xjxSvNsX/f
+lVZzftdcnHFCJOvwvVUUEdRugGniKv3PhmdLXaVYbmAjicEud6/HLePwgYVimws1CykLgWsFbgeO
+JlIZJCR0uwW5qMQz1k0HhKw13VbmGfukqUoxQTAuCAmqGW74sSW/6I6JHlWgCckKmb5+0kDIxF29
+dh/U06ujbZEZxjgzO7bQ14o211yshAblf1q7ueTPEcuk8P/LYwlR7xJEIjSESiwB1bzaZPkev3nz
+xRGJOi/QYAUJaOWpIv1zGxt16eWu1HLa3p11DQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature112357-Object562385"><etsi:QualifyingProperties Target="#Signature112357"><etsi:SignedProperties Id="Signature112357-SignedProperties933319"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-04T10:34:29-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>mS2pn0pdHapWztQi8v8hRSRYd4M=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>1021461849454033954</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-682178"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

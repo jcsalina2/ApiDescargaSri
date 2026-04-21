@@ -1,0 +1,11 @@
+2026/04/20-10:12:24.409 2794 Creating DB C:\Users\lapto\Videos\ApiDescargav9\wwwroot\ChromeProfiles\Recibidos\0992838094001\Default\shared_proto_db since it was missing.
+2026/04/20-10:12:24.513 2794 Reusing MANIFEST C:\Users\lapto\Videos\ApiDescargav9\wwwroot\ChromeProfiles\Recibidos\0992838094001\Default\shared_proto_db/MANIFEST-000001
+2026/04/20-10:14:26.632 540c Level-0 table #5: started
+2026/04/20-10:14:26.639 540c Level-0 table #5: 133398 bytes OK
+2026/04/20-10:14:26.640 540c Delete type=0 #3
+2026/04/20-10:16:24.157 60b8 Level-0 table #7: started
+2026/04/20-10:16:24.160 60b8 Level-0 table #7: 131423 bytes OK
+2026/04/20-10:16:24.162 60b8 Delete type=0 #4
+2026/04/20-10:18:19.353 1d10 Level-0 table #9: started
+2026/04/20-10:18:19.357 1d10 Level-0 table #9: 128530 bytes OK
+2026/04/20-10:18:19.359 1d10 Delete type=0 #6

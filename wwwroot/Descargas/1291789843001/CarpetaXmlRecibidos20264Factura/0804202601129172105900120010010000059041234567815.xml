@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601129172105900120010010000059041234567815</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T10:06:57-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CIMEDLAB S.A.</razonSocial><nombreComercial>CIMEDLAB SIGLO XXI</nombreComercial><ruc>1291721059001</ruc><claveAcceso>0804202601129172105900120010010000059041234567815</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000005904</secuencial><dirMatriz>LOS RIOS / QUEVEDO / QUEVEDO / MZ 1 SOLAR 4 Y CALLE 18AVA</dirMatriz></infoTributaria><infoFactura><fechaEmision>08/04/2026</fechaEmision><dirEstablecimiento>  </dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>VESTRI MEDICUS EC SAS </razonSocialComprador><identificacionComprador>1291789843001</identificacionComprador><direccionComprador>14 AVA ENTRE JUNE GUZMAN Y 12 DE OCTUBRE</direccionComprador><totalSinImpuestos>48.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>48.00</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><importeTotal>48.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>48.0</total><plazo>30</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>RXDAPLS</codigoPrincipal><descripcion>RAYOS X DORSOLUMBAR AP Y LATERAL</descripcion><cantidad>3.00</cantidad><precioUnitario>16.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>48.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>48.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION DEL ADQUIRENTE">14 AVA ENTRE JUNE GUZMAN Y 12 DE OCTUBRE</campoAdicional><campoAdicional nombre="EMAIL DEL ADQUIRENTE">vestrimedicus@outlook.com</campoAdicional><campoAdicional nombre="OBSERVACION">V/PACIENTES REFERIDOS EN EL MES DE MARZO 2026</campoAdicional><campoAdicional nombre="PACIENTE">VESTRI MEDICUS EC SAS</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature124523">
+<ds:SignedInfo Id="Signature-SignedInfo712382">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID152068" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature124523-SignedProperties426407">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1BeRy74rQMB0nJc5fEFPU5cdIBY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1810768">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>OFjqJ63EQ6OPVEVZgiKqe4HStjE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-398889" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>CLtDnz5dZkmRWM2dtMHfSit+EhE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue706676">
+CtfxHbghU3AXCtflbU6Qq+lWbBMlN0Sdsc7zpEUGgGEapG7YmKIVpGIM2r7MbDCgF20LWU0SPHhs
+6aqCkUNwx0SQCUgC4faK18jyCeFkxN3W7WUoBUlfGnDQwfuXUmf666cYxtnYQb2TAe0v90JU3juh
+YjOG4GqkydRWpXmkUNJmvUDIL8m7bsI5siV+Cs4DNIru/A9gWDNX2WXS7K7pq+qn8E21BYwt5SrZ
+yFBlAl1wBkZX5nVW+JQh37JNKTonjT2ixF4btkqtCxmfdME87LA2U8Rf5VeN8DBifgpDApEMER2s
+I85yvTJ7w7yutxIMiXNwXzNvoMiYqjqoJPjX1Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1810768">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIDzCCBfegAwIBAgIQR/eDDI9hAM1Ko9HSEGmGnjANBgkqhkiG9w0BAQsFADCBwjELMAkGA1UE
+BhMCRUMxGzAZBgNVBAoMEkZJUk1BU0VHVVJBIFMuQS5TLjEwMC4GA1UECwwnRU5USURBRCBERSBD
+RVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMRMwEQYDVQQIDApUVU5HVVJBSFVBMT4wPAYDVQQD
+DDVBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIEZJUk1BU0VHVVJBIFMuQS5TLjEP
+MA0GA1UEBwwGQU1CQVRPMB4XDTI1MDQyNTE0NTA1NFoXDTI3MDQyNTE1NTA1NFowgdQxLTArBgNV
+BAUTJGFlMWE0YTE1LWUwNjUtNGU1OC05NWM1LTYyMGRiNmE5NmUxMzEjMCEGCSqGSIb3DQEJARYU
+Y2ltZWRsYWJAaG90bWFpbC5jb20xIjAgBgNVBAMTGUxFSURZIEFOQUJFTCBQRVJFWiBNQUNJQVMx
+MDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEbMBkGA1UE
+ChMSRklSTUFTRUdVUkEgUy5BLlMuMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAKSnom4B/XG0rhUg2tzemYgWePVfWsxfrWr18jpCPQoaSRV7etumA+KAtCWfA7AH
+fFqpMJGaEsUgvBfquN6jhX6tqZr9Cbr8NxsiqyKjCF+3nBEPoNyxAPPkJkW/vM2YnZBEKbVTOYN4
+cBLNbK6hQKpnsMu75DdS3cxPLkI/mJVsnovfI+ubiNU4DbngpBULnjswhI/0eBYbaESmbH+xbZML
+yBBXCNMaEfHtZQElgcXBVD3VYU8GQG0J9di5GWvwtNI7hamJQCXtKf5e+QkPsJek3w/x2QpugInF
+PaiDTpGnEsnBJoVexhtxanaYxXT2PyU7301KPXpVTnNc6f+4t70CAwEAAaOCAuswggLnMAkGA1Ud
+EwQCMAAwHwYDVR0jBBgwFoAUE0aTaAmu1ySHM0VjJnffrF5eilEwHQYDVR0OBBYEFEbOA4inMNqu
+hamZMMGxzD4bnRhOMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuZmlybWFzZWd1cmFlYy5j
+b20vY3JsL2NjY2U1YTRmLTZiNjgtNDZmYy1hNjIwLTRhYmNjNGM0YTY5MC5jcmwwOQYIKwYBBQUH
+AQEELTArMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5maXJtYXNlZ3VyYWVjLmNvbTAaBgorBgEE
+AYPeeQMBBAwWCjEyMDYyMDYxODUwHAYKKwYBBAGD3nkDAgQOFgxMRUlEWSBBTkFCRUwwFQYKKwYB
+BAGD3nkDAwQHFgVQRVJFWjAWBgorBgEEAYPeeQMEBAgWBk1BQ0lBUzAXBgorBgEEAYPeeQMFBAkW
+B0dFUkVOVEUwQgYKKwYBBAGD3nkDBwQ0FjJDQUxMRSBNWiAxIE5VTUVSTyBTT0xBUiA0IElOVEVS
+U0VDQ0lPTiBDQUxMRSAxOEFWQTAcBgorBgEEAYPeeQMIBA4WDDU5Mzk2OTI5OTkyNzAXBgorBgEE
+AYPeeQMJBAkWB1FVRVZFRE8wGwYKKwYBBAGD3nkDCgQNFgtDSU1FRExBQiBTQTAdBgorBgEEAYPe
+eQMLBA8WDTEyOTE3MjEwNTkwMDEwEwYKKwYBBAGD3nkDDAQFFgNFQ1UwgaQGA1UdIASBnDCBmTBU
+BgsrBgEEAYPeeQIBATBFMEMGCCsGAQUFBwIBFjdodHRwczovL2Zpcm1hc2VndXJhZWMuY29tL3Bv
+bGl0aWNhc19yZXByZXNlbnRhbnRlX2xlZ2FsMEEGCysGAQQBg955AgICMDIwMAYIKwYBBQUHAgIw
+JAwiQ2VydGlmaWNhZG8gZGUgUmVwcmVzZW50YW50ZSBMZWdhbDAOBgNVHQ8BAf8EBAMCBeAwDQYJ
+KoZIhvcNAQELBQADggIBADQiXgj0i+5tFxOgAdZzMz3gjBvMvLE2k1RHwEjuljazUK4xPCdeN6cZ
+hSLoRDqD2AKNLTbDjqEIi1Z2HFUjUHNFwiX6S0i5QC/Gq39G2fY1sclfDNIURrmCX7kdQbWM7Kd2
+R7prGO9/C7w0Ht0HjxT5VFOaBKFdScYpYvtHKX+p15QKtazlUVHu0S8gE6aGnECDz+WtTI0GoJM8
+b1k+xYMN6vimYaUZtGxOevVFNXQiUykALXa0XjxN4DdmEKpJlah5hCBGHXwd4F2Wk7t9oisFypkn
+47gVimgjCjjnMChCAD4wLK0KCLV+oCxhuLMqZr0iJm9Fo9ksj2pAnz12KQE+OpPntsDke/t+Bvky
+SQpdFF5PuScb3ux6It3emiJsDwHBwvNOojNHAZGPF9g53W3vo1TgNj65k91pXmSsIheROlS4xTJj
+6ZCEB2qHUTUzpAi3wZj4z7NQYPG7IVa6mwIXyk9acokXlB47EJ9q8S3pOA/dJWDBqVite6OXiXSV
+Ni/Gfp9o7GmsBkzOxAM4z0GOf4ignNC8DaYWRZuuRqiasquyN9sHrVSrTAaKQjiaP0Tv+OdgUHU1
+67dDFROZrIYynSZmBJ+jnkskNbEMvYs6VRw6kPJqk/41Ngb3uFi4JlZZxMoNZ/P52YoX+jO4hReF
+hPtg2LJ1QUnpuueDANS+
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pKeibgH9cbSuFSDa3N6ZiBZ49V9azF+tavXyOkI9ChpJFXt626YD4oC0JZ8DsAd8WqkwkZoSxSC8
+F+q43qOFfq2pmv0Juvw3GyKrIqMIX7ecEQ+g3LEA8+QmRb+8zZidkEQptVM5g3hwEs1srqFAqmew
+y7vkN1LdzE8uQj+YlWyei98j65uI1TgNueCkFQueOzCEj/R4FhtoRKZsf7FtkwvIEFcI0xoR8e1l
+ASWBxcFUPdVhTwZAbQn12LkZa/C00juFqYlAJe0p/l75CQ+wl6TfD/HZCm6AicU9qINOkacSycEm
+hV7GG3FqdpjFdPY/JTvfTUo9elVOc1zp/7i3vQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature124523-Object256868"><etsi:QualifyingProperties Target="#Signature124523"><etsi:SignedProperties Id="Signature124523-SignedProperties426407"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-08T10:06:56-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>IdPr1V2fCcY1Wxo+PdOxcSNK7Eg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>95660343015556783936330794133875164830</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-398889"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202601120409514300120090170000339640000000019</numeroAutorizacion>
+<fechaAutorizacion>2026-04-07T20:15:46-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CAMPELO VALLE MIRIAN LOURDES</razonSocial><nombreComercial>LA ERCILIA</nombreComercial><ruc>1204095143001</ruc><claveAcceso>0704202601120409514300120090170000339640000000019</claveAcceso><codDoc>01</codDoc><estab>009</estab><ptoEmi>017</ptoEmi><secuencial>000033964</secuencial><dirMatriz>TRONCAL DE LA COSTA E 25 PANAMERICANA SECTOR LA ERCILIA S/N Y VIA PANAMERICANA</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>07/04/2026</fechaEmision><dirEstablecimiento>TRONCAL DE LA COSTA E 25 PANAMERICANA SECTOR LA ERCILIA S/N Y VIA PANAMERICANA</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>JIMENEZ ANDRADE ADOLFO BENITO</razonSocialComprador><identificacionComprador>1204646788</identificacionComprador><direccionComprador>SIN DIRECCION</direccionComprador><totalSinImpuestos>43.48</totalSinImpuestos><totalSubsidio>20.59</totalSubsidio><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>43.48</baseImponible><valor>6.52</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>50.00</importeTotal><placa>ABA5876</placa><pagos><pago><formaPago>01</formaPago><total>50.00</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>0121</codigoPrincipal><codigoAuxiliar>0121</codigoAuxiliar><descripcion>DIESEL PREMIUM</descripcion><cantidad>17.681</cantidad><precioUnitario>2.459130</precioUnitario><precioSinSubsidio>3.623686</precioSinSubsidio><descuento>0.00</descuento><precioTotalSinImpuesto>43.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>43.48</baseImponible><valor>6.52</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Num_Factura">009-017-000033964</campoAdicional><campoAdicional nombre="E_MAIL">laericilia.info@gmail.com</campoAdicional><campoAdicional nombre="Direccion_Cliente">SIN DIRECCION</campoAdicional><campoAdicional nombre="Telefono_Cliente">0</campoAdicional><campoAdicional nombre="Codigo_Cliente">23649</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature25776">
+<ds:SignedInfo Id="Signature-SignedInfo1001153">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID175843" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature25776-SignedProperties996471">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>JGAn6/VGWA1r84kI5pG3UC4Rsj8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1189693">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xsVtgWwzE/6C7ZMw5gLb6JsiSUY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-391723" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>XtILiid5C6lxVnxODmRvI86hQKs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue341705">
+P6W0zdSbkUe5h/WT5TKW5g5RSKJBGK7f0bPHbgSdl3EDH0uAnH+A3IlquNcKejpIcngAkYzVFf1n
+8PAwTBOW7vthEWTg8X+ZZ6frpDxMeSGjjMLhE9pSUWVuPphbXmeeRuZdVYcAzl1ilbu10isY2iI7
+nMLlQc40gU5+pTatpviTMl6RXso1zCje50z3S5Q38q7qcxlCx4B3nXh19pM5S6kdqHvNDmGFutQL
+E2zNtK2fAjat+AroArugTCgMh1Wsd09ij8kZnulbuO4aMdwuz93JSKprSWEV4APB0zkFSV/KpsTi
+q0ewYCeTVqTg53n8vd0bKOrpzIKJRlzwlFCNDw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1189693">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH2TCCBsGgAwIBAgIFAMIBZtAwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI1
+MDYyNzE0MDQwN1oXDTI3MDYyNzE0MDQwN1owgZkxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEmMCQGA1UEAwwd
+TUlSSUFOIExPVVJERVMgIENBTVBFTE8gVkFMTEUxJTAjBgkqhkiG9w0BCQEWFmNhbXBlbG9taXJp
+YW5AeWFob28uZXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCc6qJpYxGiFvw2XzOl
+7wv6XkJtsBEkRRRL/MIbzG92YTXn7ko28RpXCLzWHPE4NR/IevF3vknpXtWe724+ehGGXchTicOR
+NJjePrtLdS5F9h8WvBoyNE2H+zS5EevE6rIIRvBwr/kilC2flVULnNe1MJSb+gRNZB+H/6bx7J7O
++4xmj6LOTS0L0xTy53VIP3nBeYRV+5J1h+fxvypPPSJMr2EQ+3+Xplco9puE+/u6eosgkM/rX1Vt
+CJztXTxmwKjFODb+9wlhEhvTMlEuBuVPIPl71wV5EGwJ1+4CuvxS92zotqTlFNdylXCfZ/LHKQ3L
+patesfbkdkgFjl9Ss8E3AgMBAAGjggR3MIIEczAaBgorBgEEAYPPdgMBBAwMCjEyMDQwOTUxNDMw
+HgYKKwYBBAGDz3YDAgQQDA5NSVJJQU4gTE9VUkRFUzAXBgorBgEEAYPPdgMDBAkMB0NBTVBFTE8w
+FQYKKwYBBAGDz3YDBAQHDAVWQUxMRTAlBgorBgEEAYPPdgMHBBcMFUxPUyBSSU9TIC0tICBWRU5U
+QU5BUzAaBgorBgEEAYPPdgMIBAwMCjA5Nzk5MTM1MjYwGAYKKwYBBAGDz3YDCQQKDAhWRU5UQU5B
+UzAXBgorBgEEAYPPdgMMBAkMB0VDVUFET1IwHQYKKwYBBAGDz3YDCwQPDA0xMjA0MDk1MTQzMDAx
+MAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFGFF90HmrOyHWYsHVKjoxJj2FuVIMB8GA1UdIwQYMBaA
+FO12SLAK8cmGhgxMRmTSBvjM1b0+MA4GA1UdDwEB/wQEAwIF4DA6BgNVHR8EMzAxMC+gLaArhilo
+dHRwOi9lbmV4dDIueHl6L0xhenphdGVDQTIvZW1pc29yQ0EyLmNybDCCAYQGA1UdIASCAXswggF3
+MHwGCisGAQQBg892AgEwbjBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBl
+cyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0
+ZSBDaWEuIEx0ZGEuMIH2BgkrBgEEAYPPdgIwgegwbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUg
+Y2VydGlmaWNhZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJp
+ZGFkIGRlIExhenphdGUgQ2lhLiBMdGRhLjB4BggrBgEFBQcCAjBsGmpFbCBwcmVzZW50ZSBjZXJ0
+aWZpY2FkbyBzdWJvcmRpbmFkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBk
+ZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMIIBDgYDVR0RBIIBBTCCAQGgGgYKKwYB
+BAGDz3YDAaAMDAoxMjA0MDk1MTQzoB4GCisGAQQBg892AwKgEAwOTUlSSUFOIExPVVJERVOgFwYK
+KwYBBAGDz3YDA6AJDAdDQU1QRUxPoBUGCisGAQQBg892AwSgBwwFVkFMTEWgJQYKKwYBBAGDz3YD
+B6AXDBVMT1MgUklPUyAtLSAgVkVOVEFOQVOgGgYKKwYBBAGDz3YDCKAMDAowOTc5OTEzNTI2oBgG
+CisGAQQBg892AwmgCgwIVkVOVEFOQVOgFwYKKwYBBAGDz3YDDKAJDAdFQ1VBRE9SoB0GCisGAQQB
+g892AwugDwwNMTIwNDA5NTE0MzAwMTA8BggrBgEFBQcBAQQwMC4wLAYIKwYBBQUHMAGGIGh0dHA6
+Ly9lbmV4dDIueHl6Ojg3NzcvYWRzcy9vY3NwMA0GCSqGSIb3DQEBCwUAA4IBAQA1bbisidCiJJVT
+K7OEm0MECQSqKImRwnB9wfEJnbeP/HF1oOb06byWOO5uY7oaEEJ4hCGn5/eup9T4rjVSTHNsfh5o
+PqYJo53k+qAVOLA07GitbBg3GLotzn8A4CdLfbhUiYp8yp1pvr89V6nX2XMmdLM/Ae2iCh078t1e
+uyLnu4YdbH0WIMnIRfQO1Do2ohgelSmgMQEqDxRaLIE9m01HUZEW3MqKhoIAsa5I1B1g26TQz27T
+Ei71DHSjXtxW5TsXaBXtaaN5J7d3ppZUtmts2UJWvgkERlA+FajfjrXN9MDn7pZDm6qYKIgYsDA8
+PXnNpQJYsdn9WDZe54mKizBT
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nOqiaWMRohb8Nl8zpe8L+l5CbbARJEUUS/zCG8xvdmE15+5KNvEaVwi81hzxODUfyHrxd75J6V7V
+nu9uPnoRhl3IU4nDkTSY3j67S3UuRfYfFrwaMjRNh/s0uRHrxOqyCEbwcK/5IpQtn5VVC5zXtTCU
+m/oETWQfh/+m8eyezvuMZo+izk0tC9MU8ud1SD95wXmEVfuSdYfn8b8qTz0iTK9hEPt/l6ZXKPab
+hPv7unqLIJDP619VbQic7V08ZsCoxTg2/vcJYRIb0zJRLgblTyD5e9cFeRBsCdfuArr8Uvds6Lak
+5RTXcpVwn2fyxykNy6WrXrH25HZIBY5fUrPBNw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature25776-Object213369"><etsi:QualifyingProperties Target="#Signature25776"><etsi:SignedProperties Id="Signature25776-SignedProperties996471"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-07T20:15:46-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>6WI/e/QPB2NxfdxgfoXEfUa2Rpg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254871760</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-391723"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601139009267500120010070000185921234567818</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T08:40:16-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>NAVIERA MARNIZAM CIA LTDA</razonSocial><nombreComercial>NAVIERA MARNIZAM CIA LTDA</nombreComercial><ruc>1390092675001</ruc><claveAcceso>1304202601139009267500120010070000185921234567818</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>007</ptoEmi><secuencial>000018592</secuencial><dirMatriz>Manta - Av. Malecon calle 18 y 19 Edif el Navío</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>13/04/2026</fechaEmision><dirEstablecimiento>Av. Malecon entre C-18 y 19 Edif. El Navio</dirEstablecimiento><contribuyenteEspecial>00137</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>NAUTIDIVING S.A.</razonSocialComprador><identificacionComprador>2090004460001</identificacionComprador><direccionComprador>ISABELA / PUERTO VILLAMIL / SN S/N Y SNGALAPAGOSECUADOR</direccionComprador><totalSinImpuestos>3541.010000</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>3541.010000</baseImponible><valor>531.15</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>4072.16</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>4072.16</total><unidadTiempo>Dia</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>M-601289</codigoPrincipal><codigoAuxiliar>CJ/GL%%18%%2026-04-13</codigoAuxiliar><descripcion>C-NAC-MOBILUBE HD 80W90 4X4L -CON IVA</descripcion><cantidad>2.00</cantidad><precioUnitario>88.373900</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>176.75</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Subsidio:" valor="0||0"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>176.75</baseImponible><valor>26.51</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>M-601826</codigoPrincipal><codigoAuxiliar>CJ/GL%%18%%2026-04-13</codigoAuxiliar><descripcion>C-NAC -M-SUP MULT SEMI SINT 20W50 4X4L</descripcion><cantidad>5.00</cantidad><precioUnitario>78.434700</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>392.17</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Subsidio:" valor="0||0"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>392.17</baseImponible><valor>58.83</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>M-602604</codigoPrincipal><codigoAuxiliar>CN1/5%%18%%2026-04-13</codigoAuxiliar><descripcion>C-NAC-M-DELVAC MODERN 15W-40 FULL PROTECTION 19L</descripcion><cantidad>30.00</cantidad><precioUnitario>99.069500</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2972.09</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Subsidio:" valor="0||0"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2972.09</baseImponible><valor>445.81</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION CLIENTE:">ISABELA / PUERTO VILLAMIL / SN S/N Y SN GALAPAGOS ECUADOR</campoAdicional><campoAdicional nombre="EMAIL CLIENTE:">contabilidadnautidiving@gmail.com</campoAdicional><campoAdicional nombre="ORDEN VENTA:">N/A</campoAdicional><campoAdicional nombre="COMENTARIO:">PDG-1832
+NAUTYLUS
+6/ABRIL/26 
+
+Basado en Pedidos de cliente 16729. Basado en Entregas 60010533.</campoAdicional><campoAdicional nombre="PROYECTO:">N/A</campoAdicional><campoAdicional nombre="PAGO:">CL - CONTADO</campoAdicional><campoAdicional nombre="FECHA VENCIMIENTO:">13/04/2026</campoAdicional><campoAdicional nombre="Informacion legal:">He recibido conforme el presente comprobante electrónico. Por tanto el valor indicado DEBO Y PAGARE a la orden de NAVIERA MARNIZAM CIA. LTDA y de no ser cancelado en la fecha convenida se cobrarán intereses y gastos de cobranzas</campoAdicional><campoAdicional nombre="Informacion legal:">En caso de juicio me sujeto a los jueces competentes y a la acción ejecutiva para lo cual renuncio fuero y domicilio</campoAdicional><campoAdicional nombre="Direccion web:">www.corporacionmarzam.com</campoAdicional><campoAdicional nombre="CUMPLIMIEDO LOPDP:">NAVIERA MARNIZAM CIA LTDA trata sus datos para facturación. No se cederán a terceros, salvo obligación legal. Ejercite acceso, rectificación, actualización, oposición y supresión: privacidad@corporacionmarzam.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature988265">
+<ds:SignedInfo Id="Signature-SignedInfo506977">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID891332" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature988265-SignedProperties435338">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Yk4Ls1xd7jYbTeSz9mFPW0nwtWI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1622072">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ZLv9sktz5+OcK9j3k5GzEzCwAH8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-500497" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>nAvWqNWKYLzdVAvw/mucf8phwew=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue403735">
+NBW6tCCg5xbYCWm7/npQLlTiyUzQcqnT5tuG/37cr7fxgVCIVt7MMwC85FFUdpvDL+YPpK8K+0bm
+X0Y5eoDEBgJGFu6P+y+0q3AdlxmjBSjXMF0J8kuWRiTV14Df9tsSsd9lwizRKYLHyDLieWxfwbyN
+vMnReHEM6LRRsi5EqyqWuithYGaIV5ldGD8YXvsbL9lhhYOe6P9LwmRY2e85zhCpUXGpfngmesy2
+hEPYSm/ISU5gtw/M0/pe39SAo2ns3vxTY5WW76wzGb9iJ2BWFqd+lord6yKldn4JK/cAQBqtIHqi
+bQuidrV6/VkICONauObz4deVXwt9dttdsK+lmw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1622072">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK3jCCCMagAwIBAgIEOfwlhzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA1MTQxOTM5NDhaFw0yNzA1MTQxOTM5NDhaMIGvMS0w
+KwYDVQQDDCRCQVJUT0xPTUUgUE9MSVZJTyBTQUxEQVJSSUFHQSBTQU5UT1MxIDAeBgNVBAUTFzEz
+MDE0ODkxMjQtMTQwNTI1MTQ0OTM4MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKf42gle6pOVa+K0kWTgOpYSvxt9Oml8
+cAXM/RWZcSGSZsgIWZKkSfQ2jKdfu2ZMzy+XsZCCbFwxR2Ois6MkNHnYQfnreQpjTD3FlwEhQsAR
+IUnYEquJC61WEmxibLnifG5T8uS+PbEPJ+L0QUNIdDgGqK5D1pGrsG30ZOOr9wXU/4Vlmtervjk/
+gWeFKzw6RL7Ju6ugjca8RKnQhMR74G3oV9bVUJk+Um1IwYCGKyPpmtH6rkVTiP/UZJzp4gi1FmS/
+bCwNXdUwNcyv2xhdN95FKVuvL3uCZ7s1uuQnAEREzCF6kskIv+GVx+V0XZGDVB7JcXa4YBfrUJYc
+AdCW3McCAwEAAaOCBhQwggYQMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpL
+Vb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3Vy
+aXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCkGA1UdEQQiMCCBHnBv
+bGl2aW9zQGNvcnBvcmFjaW9ubWFyemFtLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZy
+AgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAA
+cgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYB
+BQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxv
+YWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRv
+IFJlcHJlc2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCC
+Ag8GA1UdHwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9z
+dWJjYTJjcmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIx
+CzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNh
+MmNybDIvY3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3Js
+Jmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkg
+REFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUjm9cR8fSZ1TmPie8dqy7g9Z1qsswKwYDVR0QBCQw
+IoAPMjAyNTA1MTQxOTM5NDhagQ8yMDI3MDUxNDE5Mzk0OFowCwYDVR0PBAQDAgXgMB8GCisGAQQB
+gqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTMwMTQ4OTEyNDAVBgor
+BgEEAYKmcgMJBAcMBU1BTlRBMBEGCisGAQQBgqZyAyIEAwwBLjAuBgorBgEEAYKmcgMHBCAMHkFW
+IE1BTEVDT04gUyBOIFkgQ0FMTEUgMTggWSAxOTAhBgorBgEEAYKmcgMCBBMMEUJBUlRPTE9NRSBQ
+T0xJVklPMB8GCisGAQQBgqZyAyAEEQwPMDA0MDAxMDAwMTQ2NTgwMBMGCisGAQQBgqZyAyEEBQwD
+UEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAbBgorBgEEAYKmcgMDBA0MC1NBTERBUlJJQUdB
+MCkGCisGAQQBgqZyAwoEGwwZTkFWSUVSQSBNQVJOSVpBTSBDSUEgTFREQTAdBgorBgEEAYKmcgML
+BA8MDTEzOTAwOTI2NzUwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGU0FO
+VE9TMBoGCisGAQQBgqZyAwgEDAwKNTkzOTg0OTMzMjANBgkqhkiG9w0BAQsFAAOCAgEAFVNJPE7R
+hmZjjhnqkM1esXrTcFoeeDOAUO1CEj5dKErh2WWQPaeWDLOos6KNPnCKAd4hijQ6EmMP5pT74Pb/
+5eA2gIwFsuEdqSdwSllnO+x8CNOAnCi+UUD7OuV5Onp72P5nsFSLfxfeMuFpudXJ+TQ6SdDvSnkj
+CqgnQdwKfyG1aY5fZykBOHpa5HWU8veSOvGZdjFiPw/AsQvH02VRlkjGe80Cyu9knY0hcCglmysN
+tqZRuNqw3IiCpRdwgyyNTQnWWphUSDL/CzaWMZTBqdoVCWOLCJOy6ObRDLTUcsaOZKkW0Y0Wa0K8
+qdfeSWws1+mFAdCs0l+paRCOdi2eD9gcf1HYyk2CtzAfVBvwwf0mGXC2BMGRLQS45JmxtL22Piks
+5QAd9xohvwzpiEPPdybyvr1L2Nliph+4BwJ51gPDzUzbeeKM45Eay3zt3c/LXTpJitqZo9SUYjrx
+tWA3dXZWYOjxQ3K4GdDTFMEMSL7FkUsYnNiSv1URyU7W8FV93TyeULZcCFuoAzIS1ZX4h5ajxTjc
+NAbX+gqjdpqy9z6IvBzdFH2sTzJJyIcIHbi+Jetqdr/k8JTfxtbU/95E+BdsQmfB/Vdooc17CXoq
+RndX543n4E5bmHsda8Ui/5C9LNussQ5KkW0jEtpJVbhTJ5e0v5qhJk3UrQUBLjYHOQA=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+p/jaCV7qk5Vr4rSRZOA6lhK/G306aXxwBcz9FZlxIZJmyAhZkqRJ9DaMp1+7ZkzPL5exkIJsXDFH
+Y6KzoyQ0edhB+et5CmNMPcWXASFCwBEhSdgSq4kLrVYSbGJsueJ8blPy5L49sQ8n4vRBQ0h0OAao
+rkPWkauwbfRk46v3BdT/hWWa16u+OT+BZ4UrPDpEvsm7q6CNxrxEqdCExHvgbehX1tVQmT5SbUjB
+gIYrI+ma0fquRVOI/9RknOniCLUWZL9sLA1d1TA1zK/bGF033kUpW68ve4JnuzW65CcARETMIXqS
+yQi/4ZXH5XRdkYNUHslxdrhgF+tQlhwB0Jbcxw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature988265-Object533486"><etsi:QualifyingProperties Target="#Signature988265"><etsi:SignedProperties Id="Signature988265-SignedProperties435338"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T08:39:58-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>kB7TikQ8KJKVqUMWAFO2VrIBNA4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>972825991</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-500497"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

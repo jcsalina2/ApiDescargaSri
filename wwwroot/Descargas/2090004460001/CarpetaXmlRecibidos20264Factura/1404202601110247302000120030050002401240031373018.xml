@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601110247302000120030050002401240031373018</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T18:59:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>AVILA MONCAYO ANGEL VINICIO</razonSocial>
+	    <nombreComercial>AVILA MONCAYO ANGEL VINICIO</nombreComercial>
+	    <ruc>1102473020001</ruc>
+	    <claveAcceso>1404202601110247302000120030050002401240031373018</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>003</estab>
+	    <ptoEmi>005</ptoEmi>
+	    <secuencial>000240124</secuencial>
+	    <dirMatriz>PUERTO AYORA / CORMORANT S/N Y ISLA DUNCAN</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>14/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>PUERTO AYORA / CORMORANT S/N Y ISLA DUNCAN</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>NAUTIDIVING S.A.</razonSocialComprador>
+	    <identificacionComprador>2090004460001</identificacionComprador>
+		<direccionComprador>FRAGATA Y ESCALECIA</direccionComprador>
+	    
+	    <totalSinImpuestos>260.97000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>45.08</baseImponible>
+				<valor>6.76000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>215.89000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>267.73000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>267.73</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>VEREN1G011</codigoPrincipal>
+		<codigoAuxiliar>VEREN1G011</codigoAuxiliar>
+      	<descripcion>BERENJENA UNIDAD</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>2.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>8.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>BC4</codigoPrincipal>
+		<codigoAuxiliar>BC4</codigoAuxiliar>
+      	<descripcion>BROCOLI</descripcion>
+      
+      <cantidad>6.000000</cantidad>
+      <precioUnitario>3.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>18.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>18.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>7861001241631</codigoPrincipal>
+		<codigoAuxiliar>7861001241631</codigoAuxiliar>
+      	<descripcion>CREMA DE LECHE LA LECHERA 236 GRAMOS</descripcion>
+      
+      <cantidad>6.000000</cantidad>
+      <precioUnitario>1.964290</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>11.79</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>11.79000</baseImponible>
+          <valor>1.77</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>7861006008444</codigoPrincipal>
+		<codigoAuxiliar>7861006008444</codigoAuxiliar>
+      	<descripcion>ESPONJA TEJIDA DE COLORES ESTRELLA PACK X 2 UNIDADES</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.428570</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.86</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.86000</baseImponible>
+          <valor>0.43</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>HUEVCUB</codigoPrincipal>
+		<codigoAuxiliar>HUEVCUB</codigoAuxiliar>
+      	<descripcion>HUEVOS CUBETA</descripcion>
+      
+      <cantidad>10.000000</cantidad>
+      <precioUnitario>5.500000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>55.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>55.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>7861001235524</codigoPrincipal>
+		<codigoAuxiliar>7861001235524</codigoAuxiliar>
+      	<descripcion>LA LECHERA TRES LECHES 1 LITRO</descripcion>
+      
+      <cantidad>7.000000</cantidad>
+      <precioUnitario>4.347830</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>30.43</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>30.43000</baseImponible>
+          <valor>4.56</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>0097</codigoPrincipal>
+		<codigoAuxiliar>0097</codigoAuxiliar>
+      	<descripcion>MANZANAS VERDES UNIDAD</descripcion>
+      
+      <cantidad>6.000000</cantidad>
+      <precioUnitario>0.400000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.40</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>2.40000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PAPAQUINTAL</codigoPrincipal>
+		<codigoAuxiliar>PAPAQUINTAL</codigoAuxiliar>
+      	<descripcion>PAPA POR QUINTAL</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>48.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>48.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>48.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>0098</codigoPrincipal>
+		<codigoAuxiliar>0098</codigoAuxiliar>
+      	<descripcion>PERAS UNIDAD</descripcion>
+      
+      <cantidad>6.000000</cantidad>
+      <precioUnitario>0.550000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.30</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>3.30000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PI0002</codigoPrincipal>
+		<codigoAuxiliar>PI0002</codigoAuxiliar>
+      	<descripcion>PIMIENTO ROJO / AMARILLO UNIDAD</descripcion>
+      
+      <cantidad>8.000000</cantidad>
+      <precioUnitario>1.500000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>12.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PND0025</codigoPrincipal>
+		<codigoAuxiliar>PND0025</codigoAuxiliar>
+      	<descripcion>PIÑA UNIDAD</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>7.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>28.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>28.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>1188</codigoPrincipal>
+		<codigoAuxiliar>1188</codigoAuxiliar>
+      	<descripcion>VAINITA</descripcion>
+      
+      <cantidad>13.000000</cantidad>
+      <precioUnitario>1.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>13.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>Z0001</codigoPrincipal>
+		<codigoAuxiliar>Z0001</codigoAuxiliar>
+      	<descripcion>ZANAHORIA POR LIBRA</descripcion>
+      
+      <cantidad>22.550000</cantidad>
+      <precioUnitario>1.250000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>28.19</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>28.19000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature152110">
+<ds:SignedInfo Id="Signature-SignedInfo493596">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID708803" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature152110-SignedProperties816787">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kE7/jRZ9y3KU7Bp+QTTvBOKfd/o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate856627">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>lC0NNxQjktmlFTtXZpIJ8DFzG/8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-334127" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>acQEvf6aeFUYwGZ5erV3ApExN34=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue538098">
+rRHbaaXD8oTuoxXQB9HjuH6MEHacEXUfAbjV5gacXM5W2z0fG9R5OdthJEW4IKHdCbouMToZwU8X
+LkytAXG0T5B+geet3KVV8PNI5we1CbtJ0Na4z2RIAfSaYUVdzJPI+M+eQ9XnDhxvaZ2lRKTZk8b2
+uPTy7DcqIwgEtdqFhUzxNWny8TEpMCx2k4NHc6G1HfR3M8jSM0xJ8m5v8STBWmPEHaaZBa/jv+9W
+7wIAGgaZiTI9tWPe8XVP6a2iZwG/CTEHJmLgTCR+OnFFDhV0dtyd/2AFvkgKVH6CzsiirTIi97d4
+9Ax3CqAAugn4iNuYWwl9ekOB9T537Zfq6oRYfw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate856627">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKtDCCCJygAwIBAgIICN2WREm43fkwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMDMxMjEwOTA4WhcNMzAxMDMxMjEwOTA4WjCB
+pjEkMCIGA1UEAwwbQU5HRUwgVklOSUNJTyBBVklMQSBNT05DQVlPMSAwHgYDVQQFExcxMTAyNDcz
+MDIwLTMxMTAyNTE2MTg1ODEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC7hPXsQXX0Ya5LB5sOeotZTY9DTTVLV/zlBeiz
+lyjdnOV4GxKG9fBSzV1Ic56NrLhBcXAr1/352p9ySjHzOJZe6mGtc0xJOQp3Kh+GxMCpTEe83Fvo
+i299TlPaRNHxqTUmGS40oek0BCuwtQ8TYw5CPYlZOtGbOQK27ahmW0lXdY1xTvFlY6cR+GS3oKUF
+rcKrwivCmez1Wrprhe1XqiMSbqi9gSZAbdHGYjHLSgBz5VToseQXkg4Y7WmjpafzxBBV8H2KMoeX
+4Ch9RYm8HsI7BBUKUiKQj76Us0dj36lewv4x158PV8c76REe0VvWgigMyg+dMDmKdEzJYWc4VI1F
+AgMBAAGjggXvMIIF6zAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAiBgNVHREEGzAZgRd2aW5pY2lv
+YXZpbW9uQGdtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUH
+AgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEA
+dAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2Vy
+dGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMB0G
+A1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHeoDqgOIY2aHR0
+cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2NybGZpbGUuY3JsooGfpIGc
+MIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZ
+IERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8v
+Y3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmwwgeCggd2ggdqG
+gddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJs
+aWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU
+eGiI1JpqFq4DuyUu5TzY+Lb2giMwKwYDVR0QBCQwIoAPMjAyNTEwMzEyMTA5MDhagQ8yMDMwMTAz
+MTIxMDkwOFowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMTEwMjQ3MzAyMDAuBgorBgEE
+AYKmcgMJBCAMHlBVRVJUTyBBWU9SQSBDQUJFQ0VSQSBDQU5UT05BTDARBgorBgEEAYKmcgMiBAMM
+AS4wKwYKKwYBBAGCpnIDBwQdDBtDT1JNT1JBTlQgUyBOIFkgSVNMQSBEVU5DQU4wHQYKKwYBBAGC
+pnIDAgQPDA1BTkdFTCBWSU5JQ0lPMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAxMDY2MjQzMBEG
+CisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VD
+VUFET1IwFQYKKwYBBAGCpnIDAwQHDAVBVklMQTAbBgorBgEEAYKmcgMeBA0MC0NPTUVSQ0lBTlRF
+MB0GCisGAQQBgqZyAwsEDwwNMTEwMjQ3MzAyMDAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYB
+BAGCpnIDBAQJDAdNT05DQVlPMBoGCisGAQQBgqZyAwgEDAwKMDk5OTE5NzkyNjANBgkqhkiG9w0B
+AQsFAAOCAgEAxbUZsHIevF88wLkJRaC0YLNJ90De+xPXVQgOw68b3tURj3Wllhv+oG8jHpdZZT8T
+F9iaZwn+ZU5IXnLCUYvT3kdXca5ZUn/Qazt6qn+pnHYbm3b7DDAi26Stm7rcJPQmU7DrY9AqFy9F
+7U5URI3tyDolOmfmiG248ejuHAGauDCz9P5+5zoKaiPpYXtyxgcI2CMjHQJ7U7BR4biHkzwna/BF
+uGxlbza18MIoMRVK8bPoHaTfDIx46tK/AL1rUJrehHjMsLkG2ggoyVWDJnD42lwdPOxK4h7oPq+u
+YvqUuIEuzA5EojvTZM0CdP+3TdpermEOV5JTfq1cytv+A+P6jO9BS+h1POe+/U7nhgEOxawFcc24
+sSj9qjL+c8f3QvqwP7Gza0ckP2KTTZhiLit8K9/dqgwaHHiPlfrYLTlBCv5tZh7jQm2rAQjF2m4v
+p54BWk6Ra3CxcBKCrEduYl2I1UT4XFXkVSIdIo1AfWJBexZzFjQCFWV/+2ufYs2+H8VOsOo3kXr0
+hzWd9GhAp9G7CJgjtTCU9VWx0zhgAnLcoZKGgabd6dStp7UDumQk/UST1zF/BfGk8Y/7EG9imweQ
+Uo5FBg7JffYLYFEywxUv9QQbLlNf8MZ6lswerlRCB4bwU95vzZoBK2m21ddsZ01FRevVzBIkvyP9
+fP68h1W5UI8=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+u4T17EF19GGuSwebDnqLWU2PQ001S1f85QXos5co3ZzleBsShvXwUs1dSHOejay4QXFwK9f9+dqf
+ckox8ziWXuphrXNMSTkKdyofhsTAqUxHvNxb6ItvfU5T2kTR8ak1JhkuNKHpNAQrsLUPE2MOQj2J
+WTrRmzkCtu2oZltJV3WNcU7xZWOnEfhkt6ClBa3Cq8Irwpns9Vq6a4XtV6ojEm6ovYEmQG3RxmIx
+y0oAc+VU6LHkF5IOGO1po6Wn88QQVfB9ijKHl+AofUWJvB7COwQVClIikI++lLNHY9+pXsL+Mdef
+D1fHO+kRHtFb1oIoDMoPnTA5inRMyWFnOFSNRQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature152110-Object334930"><etsi:QualifyingProperties Target="#Signature152110"><etsi:SignedProperties Id="Signature152110-SignedProperties816787"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T18:59:00-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>m6EFwJ2neN0waepJjPRcK25G69E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>638831942195273209</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

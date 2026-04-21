@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1904202601099306891800120040010000170440000007211</numeroAutorizacion>
+<fechaAutorizacion>2026-04-19T16:11:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>RESTOBAR&amp;CO SA</razonSocial><nombreComercial>PADRE ALMEIDA</nombreComercial><ruc>0993068918001</ruc><claveAcceso>1904202601099306891800120040010000170440000007211</claveAcceso><codDoc>01</codDoc><estab>004</estab><ptoEmi>001</ptoEmi><secuencial>000017044</secuencial><dirMatriz>AV. DEL BOMBERO VISTA SAN EDUARDO LOCAL 321-322</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>19/04/2026</fechaEmision><dirEstablecimiento>AV. DEL BOMBERO VISTA SAN EDUARDO LOCAL 321-322</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>COMPAÑIA DE TRANSPORTE COMERCIAL DE CARGA PESADA PODEROSA SOCIEDAD ANONIMA TRANSPODESA</razonSocialComprador><identificacionComprador>0992838094001</identificacionComprador><direccionComprador>San eduardo</direccionComprador><totalSinImpuestos>69.14</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>69.14</baseImponible><valor>10.37</valor></totalImpuesto></totalConImpuestos><propina>6.91</propina><importeTotal>86.42</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>86.42</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>224</codigoPrincipal><descripcion>JUGO MARACUYA</descripcion><cantidad>4</cantidad><precioUnitario>3.73</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>14.92</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>14.92</baseImponible><valor>2.24</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>266</codigoPrincipal><descripcion>CALDO DE BOLA</descripcion><cantidad>1</cantidad><precioUnitario>8.99</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>8.99</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>8.99</baseImponible><valor>1.35</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>4450</codigoPrincipal><descripcion>CHUCHI NIÑOS</descripcion><cantidad>1</cantidad><precioUnitario>7.19</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>7.19</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>7.19</baseImponible><valor>1.08</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>252</codigoPrincipal><descripcion>PROMO COCA COLA</descripcion><cantidad>1</cantidad><precioUnitario>0.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>17</codigoPrincipal><descripcion>CHUCHI SECO DE POLLO</descripcion><cantidad>1</cantidad><precioUnitario>11.99</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>11.99</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>11.99</baseImponible><valor>1.80</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>58</codigoPrincipal><descripcion>LOMO DE ASADO</descripcion><cantidad>1</cantidad><precioUnitario>8.90</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>8.90</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>8.90</baseImponible><valor>1.33</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>59</codigoPrincipal><descripcion>LOMO FINO</descripcion><cantidad>1</cantidad><precioUnitario>15.50</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>15.50</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>15.50</baseImponible><valor>2.32</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>220</codigoPrincipal><descripcion>AGUA</descripcion><cantidad>1</cantidad><precioUnitario>1.65</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.65</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.65</baseImponible><valor>0.25</valor></impuesto></impuestos></detalle></detalles><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature240552">
+<ds:SignedInfo Id="Signature-SignedInfo885028">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID797851" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature240552-SignedProperties404018">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Kbg8LME+UnZxtPIn2Yi2oq/85mc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate274622">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>93NlMZPjXOZYvwlZq7JIyBWQGn4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-727877" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>yks60QXODVFhlE28FnIJKXAp80Q=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue677966">
+HSZ53R6oh82OhxIfGDMZzC1tDMCiqT5+/A10VzSVpjtEcU3taRO7TgpaHt5JP0pFBaqlCeGXfBER
+8NXb9f+7IWZvAhDxkanf7uMFCVIEOSmDFCdjguQ0V164tAncUbXjjaL1WsFM+qTdBKIf9wpYDquX
+z40r+ijdtMR4WJgLIyyelWtft6TTOLdVlIMHSKp+2Uc4ImVBbKYO7i4myDd3O7C2vuwYRoLCymYJ
+SU7ApHt5A/9Vyrmq9tmezlf84XyX4pILvo70pnGS16d+AlL+4bN6UlM5O3vMWu1NEU++2YP6B9jD
+fS3tMVP6si4xHVl/TK7ppnDi6ubqJnO2I/xgWw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate274622">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKkDCCCHigAwIBAgIIKbbEcREmFNgwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTI2MjA0MzQ3WhcNMjcwOTI2MjA0MzQ3WjCB
+mzEZMBcGA1UEAwwQTUlDSEVMIFNBQUIgQUNISTEgMB4GA1UEBRMXMDkwODkzNDA5NC0yNjA5MjUx
+NTUzMzcxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAxxgKAbrex8Z7gyqQ0FMY91QYT3kZ6nntn4jNdzQKhXLe1CpiGCQK
+ejcFonN+4TCLfiDD4DPDbUjhkLEmETNDDOGfpGsDW54MgFeLf0BuoQnZAS9qFZSjE3FpudD6RKS2
+cQfFz3GSV1SvjPYA+Q89jFerIxjlrS6ppeoISJr+ZjMMMEPsmGA06lWMpz47Iy4OXFf6Ig9seJa1
+Ht/9b+7tsPMRBAZEqmaZQPvz3MMGnDA4O+nXG/z1kLyEmO/q6OWyqzQXs40sCXjC10UHS4fQjQoA
+g9NYqeME0G/l5V6o5itCfThGpfA50OPR85J8A1l3s4tglHjRT3HIDonDIteqzwIDAQABo4IF1jCC
+BdIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEF
+BQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIwYDVR0RBBwwGoEYbWljaGVsc2FhYjc2QGhvdG1h
+aWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABD
+AGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAA
+TABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0Nl
+cnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5w
+ZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4
+hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyi
+gZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VD
+VVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0
+dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB
+3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1Ud
+DgQWBBSvbZ45YQgQPUlRmuqsqD7q5e05jzArBgNVHRAEJDAigA8yMDI1MDkyNjIwNDM0N1qBDzIw
+MjcwOTI2MjA0MzQ3WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVS
+QUwwGgYKKwYBBAGCpnIDAQQMDAowOTA4OTM0MDk0MBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEG
+CisGAQQBgqZyAyIEAwwBLjATBgorBgEEAYKmcgMHBAUMA1MgTjAWBgorBgEEAYKmcgMCBAgMBk1J
+Q0hFTDAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTA1MTI3NjATBgorBgEEAYKmcgMhBAUMA1BG
+WDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFAYKKwYBBAGCpnIDAwQGDARTQUFCMB8GCisGAQQB
+gqZyAwoEEQwPUkVTVE9CQVJZQ08gUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MzA2ODkxODAwMTAR
+BgorBgEEAYKmcgMdBAMMAS4wFAYKKwYBBAGCpnIDBAQGDARBQ0hJMBoGCisGAQQBgqZyAwgEDAwK
+MDk5NzAwMzIxNTANBgkqhkiG9w0BAQsFAAOCAgEALCjj9Oc53vnVRhi3zMpLkkUu9PIOdlcAae7t
+X0QW2EOT3kcS7JV0+my87Jwy/g3CL1s1/i0GKA+nEgNQ30xljPctFtURe6IMyyNOhzEvSHZVt39W
+aZ4Cz14pftVpCGoJNuQE+Qa05Y9H7x2WrdLrhIFvRX8Ge59QyURNU//+oY+y1hW/M7QnrmeTTv1H
+jNTJfWWomX9mF5/TFN9WduAFCZdWJHUSBm/o+XJ6cYwRXXxHGDtHnDQGdyA29z2m3q48QCeSz4Kj
+q+ZlWWhJf7wbJ9tww0lfvz6J16bDK54wIuNujBrh/3U1ySLuEpigNnCJzKr+rJn4c6rUyniu8daa
+3cA0VQCpP5kYizc7sVq0t5VIx/6UAP7uk4LV7vMkCDT2ZPn9PyFwduW8+88Vti/EBuJlSwdES214
+MIUoq70Rd4B9yv0RyQ8VUsta1oh7aP7VGzhrtw6/ef5pjOZq1HX4b4NrSbqFsF4iSkAGaRsfhCEj
+v+2igfpDdq5l9ckzWrmzj5chtfmdefxbW0o21IZOO2IoZO4qYyekUNvzNffp+nLhJsKvZelxGELg
+e20RVvAITSHGZqqDhDSblcTQ/Ss0Ivbp/z5eVSf+MwhleXpy5zmC04489GortPZaNTWZMXzr96f+
+4YWL3bZGO3bDUH2th8dW6e5VlI6IGHE75J4x/is=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+w4cYCgHCusOew4fDhnvCgyrCkMOQUxjDt1QYT3kZw6p5w63Cn8KIw413NArChXLDnsOUKmIYJAp6
+NwXConN+w6Ewwot+IMODw6Azw4NtSMOhwpDCsSYRM0MMw6HCn8KkawNbwp4MwoBXwot/QG7CoQnD
+mQEvahXClMKjE3FpwrnDkMO6RMKkwrZxB8OFw49xwpJXVMKvwozDtgDDuQ89woxXwqsjGMOlwq0u
+wqnCpcOqCEjCmsO+ZjMMMEPDrMKYYDTDqlXCjMKnPjsjLg5cV8O6Ig9seMKWwrUew5/DvW/DrsOt
+wrDDsxEEBkTCqmbCmUDDu8Ozw5zDgwbCnDA4O8Opw5cbw7zDtcKQwrzChMKYw6/DqsOow6XCssKr
+NBfCs8KNLAl4w4LDl0UHS8KHw5DCjQoAwoPDk1jCqcOjBMOQb8Olw6VewqjDpitCfThGwqXDsDnD
+kMOjw5HDs8KSfANZd8KzwotgwpR4w5FPccOIDsKJw4Miw5fCqsOP
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature240552-Object212669"><etsi:QualifyingProperties Target="#Signature240552"><etsi:SignedProperties Id="Signature240552-SignedProperties404018"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-19T16:11:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>QThuXAm11F/8f2d3AwzaZAeb2XU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>3005805791214441688</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-727877"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

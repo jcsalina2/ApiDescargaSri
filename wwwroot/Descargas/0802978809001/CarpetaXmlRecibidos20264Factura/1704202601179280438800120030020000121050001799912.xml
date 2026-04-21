@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601179280438800120030020000121050001799912</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T18:13:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>ALL MEDIC ECUADOR SCRUBS CIA.LTDA.</razonSocial>
+	    <nombreComercial>ALL MEDIC ECUADOR SCRUBS CIA.LTDA.</nombreComercial>
+	    <ruc>1792804388001</ruc>
+	    <claveAcceso>1704202601179280438800120030020000121050001799912</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>003</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000012105</secuencial>
+	    <dirMatriz>DISTRITO METROPOLITANO / AV ELOY ALFARO N33-409 Y AV 6 DE DICIEMBRE EDIF. ST MORITZ LOCAL 2</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>17/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>DISTRITO METROPOLITANO / AV ELOY ALFARO N33-409 Y AV 6 DE DICIEMBRE EDIF. ST MORITZ LOCAL 2</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Andrea Torres </razonSocialComprador>
+	    <identificacionComprador>0802978809001</identificacionComprador>
+		<direccionComprador>Guayaquil.</direccionComprador>
+	    
+	    <totalSinImpuestos>86.39000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>15.25</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>86.39</baseImponible>
+				<valor>12.96000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>99.35000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>99.35</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>779L-R-124-L</codigoPrincipal>
+		<codigoAuxiliar>779L-R-124-L</codigoAuxiliar>
+      	<descripcion>Harper Pant Limited Edition</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>53.720000</precioUnitario>
+	  
+      <descuento>8.06</descuento>
+      <precioTotalSinImpuesto>45.66</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>45.66000</baseImponible>
+          <valor>6.85</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>1130L-124-L</codigoPrincipal>
+		<codigoAuxiliar>1130L-124-L</codigoAuxiliar>
+      	<descripcion>Rena Top Limited Edition</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>47.920000</precioUnitario>
+	  
+      <descuento>7.19</descuento>
+      <precioTotalSinImpuesto>40.73</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>40.73000</baseImponible>
+          <valor>6.11</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">Cambio maximo en 48 horas con este recibo, las etiquetas no pueden ser desprendidas SIN EXCEPCION.</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature73339">
+<ds:SignedInfo Id="Signature-SignedInfo593089">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID227716" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature73339-SignedProperties614488">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>LqX3mlYJHtqtCQfZB2pYLTut3Ho=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate435720">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+efrhnW+USd4U8Sm5HbSPIr6DzE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-981183" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>OnqyegXQ8GWAeziKLFrA47Lya8Y=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue93333">
+he6T7mtONHu4zySRJUfd0fmu9vtV3jWg6MWUKelTrRkz0i951dYqpLdfN/3Ki/eX23pD+y3iuHFz
+lHkU+sNN4/qH48o5vpAnjRrs+FVI21jemOTyJ4hCIpkUxED06tQKe1xapsYDh9Vvtn1/Z7koJrS+
+trg57rZ/2rz2jRzzhYuMav32ejgw1ZqcoPHVGqCxeioukgfjC1vIuZZmTz+ZIa+/E3Jy2W8VyWnr
+/S+hcL/e8siiOlpXIFvhHYePWAO1IAEHS8D43iiQ40knGxsj9ItkCMK95QEXdwMbSdfaH5wQ+Ric
+eDXqedFU9LE19amTllJnFeWTTcSzjMDx6Wc4QA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate435720">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMEzCCCfugAwIBAgIEQOgcyzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAyMjcxODI5MjBaFw0yODAyMjcxODI5MjBaMIGdMSYw
+JAYDVQQDDB1HVVNUQVZPIERBUklPIE5FR1JFVFRFIEFDT1NUQTEVMBMGA1UEBRMMMjcwMjIzMTMz
+ODU3MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAIxLwTVqhYRrM4z+OcUvEv8RI76BJC8RmVmKPTUkI+im2EcXrZp9xRHs
+1iO4jFPvpSGab59Di9cCcf3aw+ACdOeyqNKPhLKkrqqo1mcojRCuxsE45x1Ts+taV808EfH+ccdF
+W/lKOOg9ttl53C4p46T8jg8RoKssxh0np2Vo2+4p90Gr1TkCEP56wA5C1jBQo3xt1pUKPQGhY4er
+SxvWFlbHe3AaoOBNt76y1gIivxl+i1RY1/rBxrOX3AV1W+bpZXHvMhqMlbry2xnESrdpOl7T4GBJ
+3tXJgpxdWhzAuzcNVwt6z/V26YR4U7b/PFMZnYW2rnLk8IN7/zqbRP9QUbkCAwEAAaOCB1swggdX
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlz
+dD9iYXNlMCYGA1UdEQQfMB2BG2FsbG1lZGljZWN1YWRvckBob3RtYWlsLmNvbTCCARUGA1UdIASC
+AQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEA
+ZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYB
+BAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVj
+L3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRp
+Y2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCC
+ApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGlj
+d2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNV
+BAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8v
+cG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJk
+aXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSH8ApGmldD1n62
+FPv9+W5zGopx7zArBgNVHRAEJDAigA8yMDIzMDIyNzE4MjkyMFqBDzIwMjgwMjI3MTgyOTIwWjAL
+BgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnID
+AQQMDAoxNzU4NjY0MTg3MBUGCisGAQQBgqZyAwkEBwwFUVVJVE8wEQYKKwYBBAGCpnIDIgQDDAEu
+MC0GCisGAQQBgqZyAwcEHwwdRUxPWSBBTEZBUk8gWSBDSEVDT0VTTE9WQVFVSUEwHQYKKwYBBAGC
+pnIDAgQPDA1HVVNUQVZPIERBUklPMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNTc1NTQyMBMG
+CisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAYBgorBgEEAYKmcgMD
+BAoMCE5FR1JFVFRFMDIGCisGAQQBgqZyAwoEJAwiQUxMIE1FRElDIEVDVUFET1IgU0NSVUJTIENJ
+QS5MVERBLjAdBgorBgEEAYKmcgMLBA8MDTE3OTI4MDQzODgwMDEwEgYKKwYBBAGCpnIDHQQEDAJO
+bzAWBgorBgEEAYKmcgMEBAgMBkFDT1NUQTAcBgorBgEEAYKmcgMIBA4MDDU5Mzk2MjkwOTI5NjAN
+BgkqhkiG9w0BAQsFAAOCAgEAxojV8jTv3xbz9TbUya9MhRxE7Vhkdd8DzUSqgcfdB2IgUiAp3bt9
+9JwKEf57jyOmE97njWINgmUTvhX11OxYk17zois1wK4PeV9n0jXTdV6eh/ZXiiI/2T/ulcMGZ+bI
+dXWObDxBgeYCsSlGS8maXKqQ6y24ccSgdEohV4jcDdboiKD/dsiiN/0+4ieyxizPLFUXv7pYOM9J
+3+i13OY7u8qeKiTxKbeKCDd/lsc6bJx7QNmu1mFNa9xAMWFR5rPiZbMjoVaUy0zqAKXIJVJXPjon
+FH2zyTRbL8XhL2whq3+WA6vgbALNBSCxope3szmwMlmwVxWGWTpOQIZGG6lpIsY+sbxS/BCrjzvJ
+kMEnvnoR0v5qXNKS2jAVbOn8rR/Ob7DxHHFRn5Fvg7uDCk3aLM7d+bbTtith7wbFO517QqV5D2qR
++7icGllwYV+ibKtBJShn8k1x9ebd1xBNvF8cDBXLfFM3jt72gb1vWG0ub29o32BmbqOUsWoWQrK2
+RA6CUwAIabychube8fN0p83+CnqCgF6Ls7x5hhHDLdEHI+zewN/5jmVm6cjaP2eAK49MtzrPHTEB
+Ujjx9DT2tQDoVVyfvQCouCEWGGRGfWnzYBD/tAEe/OlG1fVFjZSuPXKYdcp2WkWTp3GsEELIhU/I
+sLWEnGgfjKkYwtm+xJlft1I=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+jEvBNWqFhGszjP45xS8S/xEjvoEkLxGZWYo9NSQj6KbYRxetmn3FEezWI7iMU++lIZpvn0OL1wJx
+/drD4AJ057Ko0o+EsqSuqqjWZyiNEK7GwTjnHVOz61pXzTwR8f5xx0Vb+Uo46D222XncLinjpPyO
+DxGgqyzGHSenZWjb7in3QavVOQIQ/nrADkLWMFCjfG3WlQo9AaFjh6tLG9YWVsd7cBqg4E23vrLW
+AiK/GX6LVFjX+sHGs5fcBXVb5ullce8yGoyVuvLbGcRKt2k6XtPgYEne1cmCnF1aHMC7Nw1XC3rP
+9XbphHhTtv88UxmdhbaucuTwg3v/OptE/1BRuQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature73339-Object674658"><etsi:QualifyingProperties Target="#Signature73339"><etsi:SignedProperties Id="Signature73339-SignedProperties614488"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T18:06:33-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>3djLZgB8kRZQrnf23c4XgOEiFV0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>1088953547</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

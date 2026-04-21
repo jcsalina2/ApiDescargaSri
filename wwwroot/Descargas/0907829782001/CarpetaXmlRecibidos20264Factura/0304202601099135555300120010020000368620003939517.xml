@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0304202601099135555300120010020000368620003939517</numeroAutorizacion>
+<fechaAutorizacion>2026-04-03T16:35:45-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>CORPORACION CAFETERIA LO NUESTRO S.A. CAFSA</razonSocial>
+	    <nombreComercial>RESTAURANTE LO NUESTRO</nombreComercial>
+	    <ruc>0991355553001</ruc>
+	    <claveAcceso>0304202601099135555300120010020000368620003939517</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000036862</secuencial>
+	    <dirMatriz>AV. VICTOR EMILIO ESTRADA  903-A Y HIGUERAS E  ILANES</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>03/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>AV. VICTOR EMILIO ESTRADA  903-A Y HIGUERAS E  ILANES</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>JOSE GONZALEZ</razonSocialComprador>
+	    <identificacionComprador>0907829782</identificacionComprador>
+		<direccionComprador>GUAYAQUIL</direccionComprador>
+	    
+	    <totalSinImpuestos>37.90000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>8</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>37.90</baseImponible>
+				<valor>3.03000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>3.79000</propina>
+	    <importeTotal>44.72000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>44.72</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>PC023</codigoPrincipal>
+		<codigoAuxiliar>PC023</codigoAuxiliar>
+      	<descripcion>ROBALO PLANCHA</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>15.500000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>31.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>31.00000</baseImponible>
+          <valor>2.48</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>EN017</codigoPrincipal>
+		<codigoAuxiliar>EN017</codigoAuxiliar>
+      	<descripcion>PATACONES GUAYACOS</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>3.00000</baseImponible>
+          <valor>0.24</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>BE001</codigoPrincipal>
+		<codigoAuxiliar>BE001</codigoAuxiliar>
+      	<descripcion>GUITIG</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.450000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.90</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>2.90000</baseImponible>
+          <valor>0.23</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PORC052</codigoPrincipal>
+		<codigoAuxiliar>PORC052</codigoAuxiliar>
+      	<descripcion>ZUMO DELIMON</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>1.00000</baseImponible>
+          <valor>0.08</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA.</campoAdicional>
+    		
+    			<campoAdicional nombre="MESERO">Maza Acebo Walter Nixson</campoAdicional>
+    		
+    			<campoAdicional nombre="PEDIDO">11</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature115433">
+<ds:SignedInfo Id="Signature-SignedInfo401454">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID332287" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature115433-SignedProperties499228">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>wOkfFv1LrMHxCMTxBUBqXBbZXhU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate461487">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>nChZr2tkTNCDBqKy4qH9sMn3uZc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-135740" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>aFed7NMRUJtswS5bKjeFbTZC1lM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue983063">
+eFOrTEtyZeBv5DhwQKahT3o3Cm7qMMsFj6qTVk2i2RtVsl3cWIWF9tnMgF1ZIkXa1N86MI6yl09L
+4MB3MrvGnafeXwsg/pAi/c/sWvuVVhCxeR17DyvZ8dR/yvutMSIsaElpC/yt9K5a+e3JQIrGtJHF
+8rC5zm5Dznd9JBi45S1QM/qIDxFBfxWqezphm7OiFGLFbfJ6R0/zuSBL1hoejUU9b007/UQbjAK7
+yzSmDJjpWttftBFeM9gn6DYok6ZdBI0Wn9c6dUJZZLSQa/IkbiTZxipqt9WnLh7jL1sNKWMwLeTx
+yQlPYnKMSs1Wwho3f6FsJPj6HkjyKsd3Ozhd/g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate461487">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJxjCCB66gAwIBAgIIWnUevPirRP0wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDUyMzE4NDYwMFoXDTI2MDUyMzE4NDYwMFowgeUxCzAJBgNVBAYTAkVDMSkwJwYDVQQKDCBD
+T1JQT1JBQ0lPTiBDQUZFVEVSSUEgTE8gTlVFU1RSTzEQMA4GA1UEDAwHR0VSRU5URTEaMBgGA1UE
+BAwRRVNDT0JBUiBST0RSSUdVRVoxGDAWBgNVBCoMD0RFTk5JU0UgQVpVQ0VOQTEZMBcGA1UEBRMQ
+SURDRUMtMDkyMjAxODU0NDEqMCgGA1UEAwwhREVOTklTRSBBWlVDRU5BIEVTQ09CQVIgUk9EUklH
+VUVaMRwwGgYDVQRhDBNWQVRFQy0wOTkxMzU1NTUzMDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAiihi2w2Wx7pt0OcTRGc4Tyq44GCkg902cniDnw1oAiEfnq5Bfj2NfjXel2Mq0aCe
+xZRt5ZCc5BIamtX9tPN7iPlaLWwO0eKXLdE34gqCe4XzP9lGtlRDvATzvxeX9eGxGIlOIj67wLgz
+b9ym8vC1FQvONTrOxlbXIBJk1z1aWtKv1MupAB6MpC+KiJOO+Os8aOiW3cJySi+XMNWTNRIJ5lBl
+u9B7mMzGEAL1o7OIlu04fqyBTLQAmOM+leGcCH43iBq2nKhNOcxrGZ6yJg6PTcRJu2rZ97jQo+K+
+Ux4ARraxTgkNsPi0IEOLxLRsmwgCUaidje0oTHvaVhL3RDdOawIDAQABo4IEozCCBJ8wGwYLKwYB
+BAGC8TZmAwEEDAwKMDkyMjAxODU0NDAeBgsrBgEEAYLxNmYDCwQPDA0wOTkxMzU1NTUzMDAxMIHX
+BggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVi
+bGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcw
+AYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzAB
+hipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFALB
+/NL2JjLN5GFLiY1x1uJG5xfLMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo
+8OERsnSSc/0wgY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0
+dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwn
+Q0VSVElGSUNBRE8gREUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+
+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFk
+YS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJz
+dWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEF
+BQcDBDCCAeQGA1UdEQSCAdswggHXgR5ub3RpZmljYWNpb25lc2Zpcm1hc0BzaWlnby5jb22gGwYL
+KwYBBAGC8TZmAwGgDAwKMDkyMjAxODU0NKAgBgsrBgEEAYLxNmYDAqARDA9ERU5OSVNFIEFaVUNF
+TkGgGAYLKwYBBAGC8TZmAwOgCQwHRVNDT0JBUqAaBgsrBgEEAYLxNmYDBKALDAlST0RSSUdVRVqg
+GAYLKwYBBAGC8TZmAwWgCQwHR0VSRU5URaBBBgsrBgEEAYLxNmYDB6AyDDBWSUNUT1IgRU1JSU8g
+RVNUUkFEQSA5MDMgRU5UUkUgSElHVUVSQVMgRSBJTEFORVOgHwYLKwYBBAGC8TZmAwigEAwOMDA1
+OTM5NjMxNTU1NTmgGgYLKwYBBAGC8TZmAwmgCwwJR1VBWUFRVUlMoDEGCysGAQQBgvE2ZgMKoCIM
+IENPUlBPUkFDSU9OIENBRkVURVJJQSBMTyBOVUVTVFJPoB4GCysGAQQBgvE2ZgMLoA8MDTA5OTEz
+NTU1NTMwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5U
+QU5URSBMRUdBTKAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQCa
+1jhEDbk6+L/s9nQdQs7Q//4FGU8Vty7O8t5luY+a2KWZD0bGE0gKZZT9Wz9Xek1JjkP03aF9l1Ok
+r+sc55Kd1f78nVzZ1JuLJM9cTLChTX9Pbh4nL8YbdN03YedOyj4qJ6DHJiPQHjswzAClMcAxOouw
+ep0BgIj3gOLDR9dvbomLeO21l3N8zjPGteEBzEs/XR5YgyF7JJCKdRgdpdtw56mxCMP7Rlx8IbrX
+QBmrrzgHIT7ZTUZU1bnA8TgFTj3oVVoHmWYXt6PnsK5PVXUP/mjsZVHfvaZnQC6aim23+M49RfSC
+G/BnU3ZR/Q4J3z7Seu+YlvRHDhpW/H2PgEKkc7k7qPUtHnstwJMqgabHADgQyi26IsEMxlZxnHS9
+eb1WdRBYjd9GtXDTcEyxW3//Le7oMgLyq454vaeE0T2MVON/iPeFuE2LYBMvUviTJoWFhsV2Q1eA
+iHpiyrOOYgS0OtmbYqdjOXD141xT9w7TsIX+99/vDdFD3C6CU5myd0RoHePoEM/ysHvM2h73BnSb
+rLQvpUrQrpfz4kSjyIFQPCJFF8E0CTLlPts0DBNr1q8ysBG4DrkohOcPeUn3TWup6HZ1bAJrBR0M
+g82YEmZjAOoUGCBOGaZtVJEnWZXa6nqxfvzmVIGGSG6qVjL7b3nxWIU7J8oX8ZWWB82sGQ60vA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iihi2w2Wx7pt0OcTRGc4Tyq44GCkg902cniDnw1oAiEfnq5Bfj2NfjXel2Mq0aCexZRt5ZCc5BIa
+mtX9tPN7iPlaLWwO0eKXLdE34gqCe4XzP9lGtlRDvATzvxeX9eGxGIlOIj67wLgzb9ym8vC1FQvO
+NTrOxlbXIBJk1z1aWtKv1MupAB6MpC+KiJOO+Os8aOiW3cJySi+XMNWTNRIJ5lBlu9B7mMzGEAL1
+o7OIlu04fqyBTLQAmOM+leGcCH43iBq2nKhNOcxrGZ6yJg6PTcRJu2rZ97jQo+K+Ux4ARraxTgkN
+sPi0IEOLxLRsmwgCUaidje0oTHvaVhL3RDdOaw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature115433-Object764731"><etsi:QualifyingProperties Target="#Signature115433"><etsi:SignedProperties Id="Signature115433-SignedProperties499228"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-03T16:35:43-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Z6WCf2FE1wPA0xLuqFX6H2Rwsw4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>6518149832663319805</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

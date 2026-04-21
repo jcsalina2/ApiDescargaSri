@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601099105864800120060010000275538765432114</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T17:30:01-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>COOPERATIVA DE TRANSPORTE DE PASAJEROS MARISCAL SUCRE</razonSocial>
+        <nombreComercial>COOPERATIVA DE TRANSPORTE DE PASAJEROS MARISCAL SUCRE</nombreComercial>
+        <ruc>0991058648001</ruc>
+        <claveAcceso>1504202601099105864800120060010000275538765432114</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>006</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000027553</secuencial>
+        <dirMatriz>Via Mariscal Sucre y Bartolome de las Casas</dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>15/04/2026</fechaEmision>
+        <dirEstablecimiento>Via Mariscal Sucre y Bartolome de las Casas</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>TRANSPORTE PODEROSA S.A</razonSocialComprador>
+        <identificacionComprador>0992838094001</identificacionComprador>
+        <totalSinImpuestos>1478.26</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>1478.26</baseImponible>
+                <valor>221.74</valor>
+            </totalImpuesto>
+	</totalConImpuestos>
+	<propina>0.00</propina>
+        <importeTotal>1700.00</importeTotal>
+        <moneda>DOLAR</moneda>
+		<pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>1700.00</total>
+            </pago>
+        </pagos>
+        <valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>PROD02152</codigoPrincipal>
+            <codigoAuxiliar>PROD02152-2411</codigoAuxiliar>
+            <descripcion>1.-RULIMAN VOLANTE (6204) koyo  62042RSC3 //</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>9.57</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>9.57</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>9.57</baseImponible>
+                    <valor>1.44</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01370</codigoPrincipal>
+            <codigoAuxiliar>PROD01370-2411</codigoAuxiliar>
+            <descripcion>HINO - DISCO EMBRAGUE HINO AK (EXEDY) 0114DI012</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>173.91</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>173.91</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>173.91</baseImponible>
+                    <valor>26.09</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01855</codigoPrincipal>
+            <codigoAuxiliar>PROD01855-2411</codigoAuxiliar>
+            <descripcion>3.-COLLAR SINCRONIZADO DE 5TA Y 6TA FG/AK /1) 0111CO026</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>104.35</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>104.35</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>104.35</baseImponible>
+                    <valor>15.65</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01880</codigoPrincipal>
+            <codigoAuxiliar>PROD01880-2411</codigoAuxiliar>
+            <descripcion>10.-KIT PIÑON SINCRONIZADOR FG/AK/GH8/FM2/SG 0111KI034</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>43.48</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>43.48</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>43.48</baseImponible>
+                    <valor>6.52</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD02018</codigoPrincipal>
+            <codigoAuxiliar>PROD02018-2411</codigoAuxiliar>
+            <descripcion>3.-RULIMAN EJE PILOTO/CORREDIZO ntn  FG/AK/FTR/KY 0111RU023</descripcion>
+            <cantidad>2.0000</cantidad>
+            <precioUnitario>78.26</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>156.52</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>156.52</baseImponible>
+                    <valor>23.48</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01558</codigoPrincipal>
+            <codigoAuxiliar>PROD01558-2411</codigoAuxiliar>
+            <descripcion>7.-HINO - CANASTILLA HINO FG AK ESTÁNDAR (ALT) Ref SZ36451001 0111CA049</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>34.78</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>34.78</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>34.78</baseImponible>
+                    <valor>5.22</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD00868</codigoPrincipal>
+            <codigoAuxiliar>PROD00868-2411</codigoAuxiliar>
+            <descripcion>5.-HINO - RULIMAN DE PALILLOS CAJA CAMBIO - S3460-51360 S3460-51360</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>47.83</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>47.83</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>47.83</baseImponible>
+                    <valor>7.17</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01891</codigoPrincipal>
+            <codigoAuxiliar>PROD01891-2411</codigoAuxiliar>
+            <descripcion>5.-ACOPLE EJE PILOTO 5TA/6TA FG/AK (0111AC030) 0111AC030</descripcion>
+            <cantidad>2.0000</cantidad>
+            <precioUnitario>73.91</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>147.82</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>147.82</baseImponible>
+                    <valor>22.17</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01535</codigoPrincipal>
+            <codigoAuxiliar>PROD01535-2411</codigoAuxiliar>
+            <descripcion>1.-HINO - PIÑON CONSTANTE QUINTA MASA 47 D MAZA HINO FG AK - MA 0111PI084</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>147.83</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>147.83</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>147.83</baseImponible>
+                    <valor>22.17</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01536</codigoPrincipal>
+            <codigoAuxiliar>PROD01536-2411</codigoAuxiliar>
+            <descripcion>1.-HINO - EJE MOTRIZ 22 D HINO FG AK MASIERO 0111EJ027</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>173.91</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>173.91</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>173.91</baseImponible>
+                    <valor>26.09</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01078</codigoPrincipal>
+            <codigoAuxiliar>PROD01078-2411</codigoAuxiliar>
+            <descripcion>2.-HINO - ANILLO DE L PIÑON DEL RETRO SZ930-13021</descripcion>
+            <cantidad>2.0000</cantidad>
+            <precioUnitario>14.78</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>29.56</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>29.56</baseImponible>
+                    <valor>4.43</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01828</codigoPrincipal>
+            <codigoAuxiliar>PROD01828-2411</codigoAuxiliar>
+            <descripcion>18.-JUEGO EMPAQUE DE CAJA DE CAMBIO HINO AK  33142161</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>14.78</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>14.78</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>14.78</baseImponible>
+                    <valor>2.22</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD02094</codigoPrincipal>
+            <codigoAuxiliar>PROD02094-2411</codigoAuxiliar>
+            <descripcion>RETEN DEL MOTRIZ HINO AK FAC FF 50x68x9 NOK JAPON (GM) 08001-039 SA</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>8.70</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>8.70</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>8.70</baseImponible>
+                    <valor>1.31</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01619</codigoPrincipal>
+            <codigoAuxiliar>PROD01619-2411</codigoAuxiliar>
+            <descripcion>2- RETENEDOR EJE CORREDIZO FG/AK (ALT) 0111RE009 0111RE009</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>13.04</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>13.04</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>13.04</baseImponible>
+                    <valor>1.96</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD02304</codigoPrincipal>
+            <codigoAuxiliar>PROD02304-2411</codigoAuxiliar>
+            <descripcion>RULIMAN DE EMBRAGUE CT70B J08 GH FG AK FM1 FM2 KOYO S3124-21060 KO</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>43.48</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>43.48</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>43.48</baseImponible>
+                    <valor>6.52</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD02034</codigoPrincipal>
+            <codigoAuxiliar>PROD02034-2411</codigoAuxiliar>
+            <descripcion>7.-SINCRONIZADO CAJA FG/AK 5TA.6TA STEEL 0111SI028</descripcion>
+            <cantidad>2.0000</cantidad>
+            <precioUnitario>52.17</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>104.34</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>104.34</baseImponible>
+                    <valor>15.65</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01810</codigoPrincipal>
+            <codigoAuxiliar>PROD01810-2411</codigoAuxiliar>
+            <descripcion>7.-RULIMAN MASA CAJA AK NJ212RC3 1002541</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>65.22</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>65.22</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>65.22</baseImponible>
+                    <valor>9.78</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD02258</codigoPrincipal>
+            <codigoAuxiliar>PROD02258-2411</codigoAuxiliar>
+            <descripcion>SILICON GRIS CONSTRUCTOR DE EMPAQUES TUBO 3 OZ/85G 9-AB-85gx3oz</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>3.48</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>3.48</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>3.48</baseImponible>
+                    <valor>0.52</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD01711</codigoPrincipal>
+            <codigoAuxiliar>PROD01711-2411</codigoAuxiliar>
+            <descripcion>4.-RULIMAN NTN NUPK310HTNRSUV8 1006004</descripcion>
+            <cantidad>1.0000</cantidad>
+            <precioUnitario>82.61</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>82.61</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>82.61</baseImponible>
+                    <valor>12.39</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD00896</codigoPrincipal>
+            <codigoAuxiliar>PROD00896-2411</codigoAuxiliar>
+            <descripcion>5.-ACEITE 90  CASTROL GALON 71</descripcion>
+            <cantidad>3.0000</cantidad>
+            <precioUnitario>21.74</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>65.22</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>65.22</baseImponible>
+                    <valor>9.78</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PROD02266</codigoPrincipal>
+            <codigoAuxiliar>PROD02266-2411</codigoAuxiliar>
+            <descripcion>RTV SILICON GRIS CONSTRUCTOR DE EMPAQUES TUBO 1.5 OZ/42.5G 9-AB-42.5gx1.5oz</descripcion>
+            <cantidad>3.0000</cantidad>
+            <precioUnitario>2.61</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>7.83</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0000</tarifa>
+                    <baseImponible>7.83</baseImponible>
+                    <valor>1.17</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Direccion">SAN EDUARDO MZ.251-SOLAR 24</campoAdicional>
+        <campoAdicional nombre="Email">TRANSPODESA@HOTMAIL.COM</campoAdicional>
+        <campoAdicional nombre="Fono">0939634886</campoAdicional>
+        <campoAdicional nombre="Usuario">Ronquillo Rugel Fátima Beatriz</campoAdicional>
+        <campoAdicional nombre="observacion">ORDEN 13974</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature961925"><ds:SignedInfo Id="Signature-SignedInfo264412"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="SignedPropertiesID576049" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature961925-SignedProperties609274"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>8f9lzkuScPM1ktauRq4fyxPBD5s=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate913295"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Sru4CzZjQstutDK8w/UyE9zPZ+A=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-237573" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>n7udJnEVwguWjlmxW1DNh9fJBYM=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue600029">QatWcfAX5IKfkCd1br9paoEog/LzBr2te2CfQBcH+g6h1zl6tBA+mzwIFwjiRc3MIzgzKOxaV9pwoQw68XnQBFVSYymUTDz3Euazm9jBTH74REkwa0hEWKjkKl1rK63gqJvKAxtCKsB2dbFKhnijrDRTm4XOsYgjDPGyB6vh2Zo3t1Nbi1q6x/Uyc8e09xUMGErfeeGjVgCHxLcYgl323eZ6VGqhw53NeoD6xb7enIUREHGTeyutvdcRd3DYpXGNgZ+vknVLnrqHjuv+t4OFONlJGLFRJhsQiX4+Sg8ofo/zS2GtCX8PX4095/kXHAoNx7DjViU/HCUrkbwgBLZXAg==</ds:SignatureValue><ds:KeyInfo Id="Certificate913295"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>iIk5syiza3prWcQm2rctHJ/t01JEHFLrmopuFShJTURlguBTrA45Jh1y396BH5y14jMIGxPT07K476aj7LjPyl5RPcphcsaj3LIltK40PG07yRphXKtiMZxY9+jd2ApzgXigJxsTSXGQzxdJO+3jpJ3ZiK9oPLISGwbLw6I3n9DWTnaYlGA/oL4Zw2BuDz7ZZdl5joXF9NdI7DDiOqL5u1+nkj5gGuQ5PuOUgGOZl1+H6be/wDz2eIo5EkQhWLDG4locbwRKTkD3iaJ+vw7s9P6vPfZA7XxVAdvrLfmP13pc6KGtc885Lk+/6p2WSCaiY3+g5GodgiQ7d7h6mD6lpQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature961925-Object684149"><etsi:QualifyingProperties Target="#Signature961925"><etsi:SignedProperties Id="Signature961925-SignedProperties609274"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T17:29:59.826-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>0/9MQ9QMrOT/huuf3KiIBVadHAU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2238292062927079120</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-237573"><etsi:Description>contenido comprobante</etsi:Description><MimeType>text/xml</MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

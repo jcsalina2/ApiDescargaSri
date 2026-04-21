@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601200004266900120020050003027281234567810</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T10:38:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>URIBE LOPEZ ROMEL RENE</razonSocial>
+    <nombreComercial>FERRETERIA LA ROCKA</nombreComercial>
+    <ruc>2000042669001</ruc>
+    <claveAcceso>0604202601200004266900120020050003027281234567810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>005</ptoEmi>
+    <secuencial>000302728</secuencial>
+    <dirMatriz>Avenida Baltra s/n y 18 de febrero</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>06/04/2026</fechaEmision>
+    <dirEstablecimiento>Avenida Baltra s/n y 18 de febrero</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>NAUTIDIVING S A</razonSocialComprador>
+    <identificacionComprador>2090004460001</identificacionComprador>
+    <direccionComprador>AV BALTRA</direccionComprador>
+    <totalSinImpuestos>15.13</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>15.13</baseImponible>
+        <valor>2.27</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>17.40</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>17.40</total>
+        <plazo>1</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>41333001043</codigoPrincipal>
+      <codigoAuxiliar>Und</codigoAuxiliar>
+      <descripcion>BATERIA ALCALINA 9V DURACELL 873381</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.391300</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>5.39</baseImponible>
+          <valor>0.81</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>781718792271</codigoPrincipal>
+      <codigoAuxiliar>Und</codigoAuxiliar>
+      <descripcion>DETECTOR DE HUMO 9V MAVIJU 85DB 3M IL130033</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>9.739100</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.74</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>9.74</baseImponible>
+          <valor>1.46</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección:">AV BALTRA</campoAdicional>
+    <campoAdicional nombre="Telefono:">0992641056 |</campoAdicional>
+    <campoAdicional nombre="Vencimiento:">06-Abr-2026</campoAdicional>
+    <campoAdicional nombre="Vendedor:">ZAMBRANO REYES JOSIAS RENATO</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature72290" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo Id="Signature-SignedInfo99488"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID75662" URI="#Signature72290-SignedProperties73585" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>ySkwfv7zjwV7qA1c/WqzKDwAOEI=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate69302"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>bqHXhOR2EBustAqXDYytWI/w2+g=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-81347" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>Vs9xmzis9uF6k+V4YpnZHktwIZk=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue80251">l1BCyud5cbIq46Ajjz1nbR+HFIsdI6R6+EAbYsdebBb3gb8BkpCADlfVr88yYntoU0IBwso6bcac
+Z0ruomtRmbnJjrIIzH6YXooe44oRAcx69M78c3knESmXNuLSaQeNev7FYf4LxwRuPp1RICOo6DfJ
+Bh8AY84AewYMoraY6+tBIIkZwIoqTIQuwcRGsSdVPmuVXAq0Xo8uFx4R5UtXB8Oov7A9c+eQRMG7
+5NmZOir9TyBVPHJ2B4iZPo41Hh0UV9lNDt1Dugpm+cv46Em0zzZNkc3D3IRAs+l/YY+ya7BuG+qB
+4OGUyeO1zDY8PAoGs6JvNR2WKSN+KnY2oSXVeA==</ds:SignatureValue><ds:KeyInfo Id="Certificate69302"><ds:X509Data><ds:X509Certificate>MIILuTCCCaGgAwIBAgIEIPen0jANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjExMTkxODA3NDdaFw0yNzExMTkxODA3NDdaMIGWMR8w
+HQYDVQQDDBZST01FTCBSRU5FIFVSSUJFIExPUEVaMRUwEwYDVQQFEwwxOTExMjIxMzE3MjkxMDAu
+BgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwU
+U0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAwb8QmQSZh8hCcjBjcmWGaUSZ6hkUB99Vs92XwJdSOtOF4ibmByr131rsv8lNKcuO
+B/tRgdI4AB32sHXFfRZJhF+Lx1vEaxKVEHxJt+0KVqkRxfbIKQByS5qOY1w/DVaTxrHg64+2rOEW
+RJcMz2+SckHkXo8Sad3R/vJzdOL+F3GHj8t0Senxl3MlXIU3zj21oI8r0vNS2xSZ1yZpzdN6Uf9i
+Fr2La6b7Br1sfTIPgt0ZXfyEnELfgzfXNMXl6HAy22fkwL38QCXbPdeF+EkzMW4Wln7YIv73l56a
+4gQUAAUxRgvVacBTrfXxmOmCxHxe9VdOVTNaCTxoae7L2bf+DQIDAQABo4IHCDCCBwQwDAYDVR0T
+AQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEsw
+SQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJs
+aWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2Rj
+YTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2Uw
+IgYDVR0RBBswGYEXbW1tYXlyYWp1ZGl0aEBnbWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYB
+BAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQ
+AGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUH
+AgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMv
+Tm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVy
+c29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5z
+ZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5
+MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRB
+MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRp
+b25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vl
+cj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQzAdBgNVHQ4EFgQUW8j5FiKIJDCJ8DIWfWg4m6TMPekwKwYDVR0QBCQwIoAPMjAy
+MjExMTkxODA3NDdagQ8yMDI3MTExOTE4MDc0N1owCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEE
+DAwKMjAwMDA0MjY2OTAaBgorBgEEAYKmcgMJBAwMClNBTlRBIENSVVowEQYKKwYBBAGCpnIDIgQD
+DAEuMCEGCisGAQQBgqZyAwcEEwwRMTggREUgRkVCUkVSTyBTIE4wGgYKKwYBBAGCpnIDAgQMDApS
+T01FTCBSRU5FMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNDgzNjEzMBEGCisGAQQBgqZyAyME
+AwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFQYKKwYB
+BAGCpnIDAwQHDAVVUklCRTARBgorBgEEAYKmcgMeBAMMAS4wHQYKKwYBBAGCpnIDCwQPDA0yMDAw
+MDQyNjY5MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAVBgorBgEEAYKmcgMEBAcMBUxPUEVaMBoGCisG
+AQQBgqZyAwgEDAwKMDk4ODY1NDUxNDANBgkqhkiG9w0BAQsFAAOCAgEAfEPkHB0q51jDvE87bat5
+UUGtZnQc8nJ6sGdV7pD32suPOzTNlDLmXYrIaBMFeMXN0gMrUCx1SUcRyP9VEqCaYueMmLSX17U0
+GXaiKPigyK1jsV1JKyh83FihdxfrqWMbIKc2S83iBOjJwFB9OIQunCgr12VqQ8C7BjI/VkmExqfM
+mnnJhZLM5jTbTuVMpWrTHhb5aBogtnEo1wkXz0yB5y0bE/M2bacRZmFJvAI7tKVM7YRkHJhxT72U
++AbWWndfZqB1423+fzXEyRIbcO5e/by4vcyJzSYUSWj2oZD37ws3WScIHjV8SJIfwaFSaHoptEcf
+j4lL+5lcY+UJxvAwpAB1D4MlZlgXLs4AFF+WPeFLPWmb6vRMMWq6a15TR9GpMO2dAJtYf1yejMZe
+McusPUM8LWJXWPnkAP/K1iWGpmbqk0zbe7zxkaDJkDIPpX861scdFnwfO54Im+jg7ysl+d3rJOLE
+qozwkwCnEc0c2djMK38CjjGuCrkw7RM7rp/0Q5SHGuqOMrEh3LuQITCdYRdzizcUe+3VdS9XUqE2
+k+1gIEfacU4nDlSLQdiAR0H5siU5opNA/uBjr9XU9g4pVcTmXxaHlY2MpQ51qjup58XbN3xvP3Pd
+pLZqOOok89lGNde+kKtJmOB5MuXLx83gllNKVFRPsf5VAXzViptikRk=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>wb8QmQSZh8hCcjBjcmWGaUSZ6hkUB99Vs92XwJdSOtOF4ibmByr131rsv8lNKcuOB/tRgdI4AB32
+sHXFfRZJhF+Lx1vEaxKVEHxJt+0KVqkRxfbIKQByS5qOY1w/DVaTxrHg64+2rOEWRJcMz2+SckHk
+Xo8Sad3R/vJzdOL+F3GHj8t0Senxl3MlXIU3zj21oI8r0vNS2xSZ1yZpzdN6Uf9iFr2La6b7Br1s
+fTIPgt0ZXfyEnELfgzfXNMXl6HAy22fkwL38QCXbPdeF+EkzMW4Wln7YIv73l56a4gQUAAUxRgvV
+acBTrfXxmOmCxHxe9VdOVTNaCTxoae7L2bf+DQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature72290-Object58682"><etsi:QualifyingProperties Target="#Signature72290"><etsi:SignedProperties Id="Signature72290-SignedProperties73585"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-09T09:35:33</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>0V3aAG10ABj0kBA37F1sJs+oNUY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>553101266</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-81347"><etsi:Description>Servicios IT, Luis Orellana Escalante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
