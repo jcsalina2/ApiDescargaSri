@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2204202601030075905700120010040001227347800669415</numeroAutorizacion>
+<fechaAutorizacion>2026-04-22T17:36:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="2.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>SUMBA MEJIA ANGEL QUERUBIN</razonSocial>
+<nombreComercial>FERRETERIA SELECTA</nombreComercial>
+<ruc>0300759057001</ruc>
+<claveAcceso>2204202601030075905700120010040001227347800669415</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>004</ptoEmi>
+<secuencial>000122734</secuencial>
+<dirMatriz>FEBRES CORDERO / 38 AVA. 1432 Y EL ORO</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>22/04/2026</fechaEmision>
+<dirEstablecimiento>FEBRES CORDERO / 38 AVA. 1432 Y EL ORO</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>ASTECNAVIND S.A</razonSocialComprador>
+<identificacionComprador>0993387909001</identificacionComprador>
+<direccionComprador>GUASMO NORTE COOP 1 DE MAYO </direccionComprador>
+<totalSinImpuestos>12.17</totalSinImpuestos>
+<totalDescuento>0.0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>12.17</baseImponible>
+<valor>1.83</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.0</propina>
+<importeTotal>14.0</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>14.0</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>soport-a/c</codigoPrincipal>
+<codigoAuxiliar> </codigoAuxiliar>
+<descripcion>SOPORTE PARA AIRE AC/SPLIT</descripcion>
+<cantidad>1.0</cantidad>
+<precioUnitario>12.173913</precioUnitario>
+<descuento>0.0</descuento>
+<precioTotalSinImpuesto>12.17</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.0</tarifa>
+<baseImponible>12.17</baseImponible>
+<valor>1.83</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Dirección">GUASMO NORTE COOP 1 DE MAYO </campoAdicional>
+<campoAdicional nombre="E-MAIL">astecnavind.ecuador@gmail.com 
+contabilidadsstecnavind@gmail.com</campoAdicional>
+<campoAdicional nombre="Teléfono">0987730665</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature244456">
+<ds:SignedInfo Id="Signature-SignedInfo1040679">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID45454" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature244456-SignedProperties1040409">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ENVYtWt8O8ebkfEr5nPPAXrSC24=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1347349">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Btbigx6+r1yXPu/1yX4tiRbafaA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-518150" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>v6s779eZKFj5NgTtCXvfqsJUPUA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue226327">
+L3eUrKgcE7BCNZImPbMiTqtA9V1fmlaPor9vDVKWpAu7WpUkte+ASPE2cwgGdzc4yxJkkoSr4t15
+sNZ7vSviyMye6ACp64Gjd0lgsiBy47/LVSX3Tsy0jdtqbpukKev0uaSuKLgXuTthprI3wF57FxWK
+iAIqtf9QAd3tzhalnzZiJ9vZY0p4+EWI1zgifsyVG8Izfe3JqBDEYHKQNVRFsbVBJ3saeIlkRPub
+NkPQ/JgO5pYRQvfbnz9bFaoFSYHOlkJ3GiKG+WqFqx+2E0WdQMO/WGfl0ZXMKuvxLj51P+MIwK68
+KTttG/isTdeZzyYsn35TB1j7tZ2PNrkDcJ92Jw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1347349">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHvDCCBaSgAwIBAgIRAOkhAsVr7QR5zgPrp7GtZ4EwDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNTEwMzExNzQ4NTdaFw0yNjEwMzExODQ4NTZaMIHYMS0wKwYD
+VQQFEyRmZDM2ZWM1NS00NTM0LTRlZjItYmY0My1jZjc0N2M1NWU3OGYxJDAiBgkqhkiG9w0BCQEW
+FWYuc2VsZWN0YUBob3RtYWlsLmNvbTElMCMGA1UEAxMcQU5HRUwgUVVFUlVCSU4gIFNVTUJBICBN
+RUpJQTEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMRsw
+GQYDVQQKExJGSVJNQVNFR1VSQSBTLkEuUy4xCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAkWESOfvF0sYuIXTWzg/UEJ9/uzdJVN9VpI7bAgHjCYHAIaVJbC6qnQFQ
+MmrbmYF4JoMJpRULArek5D8vvsc4mGMhgSARG4yKYAnHwQZGA85w8IqZ/aO9+CJcQKkFrgUx/Ony
+FS3wnXBACq7eS3YQpKWC7pgDIgSlG36Whbqsj3BkNCjWffNdvPjUgsmHDejGDZWYnJgP5v+qb/es
+7yQwFCAeOQuXruSRW/SWSfMK2cgh5lTDusXJvL77y5ih3np+63YOy2ZCufHKpyQ6MqKeOenfXgcc
+nQQ+ECY5DfjoV/0h+EO0QLEJh00grS7a/dv1CbUTkMilKNm/CXONMVryrwIDAQABo4ICkzCCAo8w
+CQYDVR0TBAIwADAfBgNVHSMEGDAWgBQTRpNoCa7XJIczRWMmd9+sXl6KUTAdBgNVHQ4EFgQUpO1k
+jgD7v/CrOvzI8x1zeKYtWRswWgYDVR0fBFMwUTBPoE2gS4ZJaHR0cDovL2NybC5maXJtYXNlZ3Vy
+YWVjLmNvbS9jcmwvY2NjZTVhNGYtNmI2OC00NmZjLWE2MjAtNGFiY2M0YzRhNjkwLmNybDA5Bggr
+BgEFBQcBAQQtMCswKQYIKwYBBQUHMAGGHWh0dHA6Ly9vY3NwLmZpcm1hc2VndXJhZWMuY29tMBoG
+CisGAQQBg955AwEEDBYKMDMwMDc1OTA1NzAeBgorBgEEAYPeeQMCBBAWDkFOR0VMIFFVRVJVQklO
+MBUGCisGAQQBg955AwMEBxYFU1VNQkEwFQYKKwYBBAGD3nkDBAQHFgVNRUpJQTAlBgorBgEEAYPe
+eQMHBBcWFTM4IEFWQS4gMTQzMiBZIEVMIE9STzAcBgorBgEEAYPeeQMIBA4WDDU5Mzk5NzY4NDA2
+NzAZBgorBgEEAYPeeQMJBAsWCUdVQVlBUVVJTDATBgorBgEEAYPeeQMMBAUWA0VDVTAdBgorBgEE
+AYPeeQMLBA8WDTAzMDA3NTkwNTcwMDEwgZwGA1UdIASBlDCBkTBQBgsrBgEEAYPeeQIBATBBMD8G
+CCsGAQUFBwIBFjNodHRwczovL2Zpcm1hc2VndXJhZWMuY29tL3BvbGl0aWNhc19wZXJzb25hX25h
+dHVyYWwwPQYLKwYBBAGD3nkCAgEwLjAsBggrBgEFBQcCAjAgDB5DZXJ0aWZpY2FkbyBkZSBQZXJz
+b25hIE5hdHVyYWwwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQAk8xrK4mtc/Kyq
+YzifV3m5w7qazTSsonu5jpK3i3tqq+gHvKGtTFat8ODPR+62M+VraOtbEq0dHG53hnpu593cxLnP
+RK4qXYH1d8lc3WgrEMcW6k4ST1/L8Mgcjs4vnV/txz3uXE4GtH6xh08ZDnlkW06nykNUPhJU/Hvs
+/4XNIT9H586NzIGGmmUC+PW7LAVvvkZnnvFDo39EEnF/xmkfIMBaGvbD7uI021ciYQl/CjuSm0Le
+MrbwDlnyA7KnPT2IHZycq5elNtTOJHXEUod8EeZ0fh02Df+bfjXtAaiVb+pgi01NJwJQgEutO72s
+nam6cOiaK/DiKSavAzzJA+pJ3+xjVRuNAk1288xe+tDHtf4KK3/Y+UgDUxrXNbDNkpgXwZVek9f1
+u7GZw0ivHdkES5x0Ms+R1eaDIEO/+1CSfO7IRlXYg/KfaOgPw0IJzNBkUBEJZRTOmKIQqrgv63LP
+RcdrxHKpCy6OoB4LgtmPHeK4HmEg2ogNJ2Y/wb/KNDg+L0ldVH+kT3feBuanVafF6ZHvFI9oR7lU
+xrUdbR246wtaN2IBR3o0wki6FKgF2/5Vqnxxlg58d+XVqmVhC872TXgP/jZtWYmTS8IbfHOH+maP
+dfReZAAFt8m0N0ZWI2J1YnMJBKWNpgydet6l/QnATGCWavtlehRG5oHlfwcvIA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+kWESOfvF0sYuIXTWzg/UEJ9/uzdJVN9VpI7bAgHjCYHAIaVJbC6qnQFQMmrbmYF4JoMJpRULArek
+5D8vvsc4mGMhgSARG4yKYAnHwQZGA85w8IqZ/aO9+CJcQKkFrgUx/OnyFS3wnXBACq7eS3YQpKWC
+7pgDIgSlG36Whbqsj3BkNCjWffNdvPjUgsmHDejGDZWYnJgP5v+qb/es7yQwFCAeOQuXruSRW/SW
+SfMK2cgh5lTDusXJvL77y5ih3np+63YOy2ZCufHKpyQ6MqKeOenfXgccnQQ+ECY5DfjoV/0h+EO0
+QLEJh00grS7a/dv1CbUTkMilKNm/CXONMVryrw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature244456-Object994053"><etsi:QualifyingProperties Target="#Signature244456"><etsi:SignedProperties Id="Signature244456-SignedProperties1040409"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-22T17:36:26-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>zp7WlHoSBYAgmM9ShXJFR1dxd6U=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>309881525020385702918243427014455158657</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-518150"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

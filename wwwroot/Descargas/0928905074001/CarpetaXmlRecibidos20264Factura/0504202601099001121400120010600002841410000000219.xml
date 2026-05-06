@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0504202601099001121400120010600002841410000000219</numeroAutorizacion>
+<fechaAutorizacion>2026-04-05T14:10:54-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Almacenes De Prati S.A.</razonSocial><nombreComercial>Almacenes De Prati S.A.</nombreComercial><ruc>0990011214001</ruc><claveAcceso>0504202601099001121400120010600002841410000000219</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>060</ptoEmi><secuencial>000284141</secuencial><dirMatriz>LUQUE 502 Y BOYACA</dirMatriz></infoTributaria><infoFactura><fechaEmision>05/04/2026</fechaEmision><dirEstablecimiento>LUQUE 317 Y CHILE</dirEstablecimiento><contribuyenteEspecial>6925</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>carlos peralta</razonSocialComprador><identificacionComprador>0928905074001</identificacionComprador><totalSinImpuestos>118.04</totalSinImpuestos><totalDescuento>161.88</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>118.04</baseImponible><valor>17.71</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>135.75</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>135.75</total><plazo>12</plazo><unidadTiempo>meses</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>17526984</codigoPrincipal><descripcion>d)CAMISAS MODA MANGA C</descripcion><cantidad>1</cantidad><precioUnitario>29.56</precioUnitario><descuento>20.69</descuento><precioTotalSinImpuesto>8.87</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>8.87</baseImponible><valor>1.33</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>17580481</codigoPrincipal><descripcion>d)SWEATERS Y CARDIGANS</descripcion><cantidad>1</cantidad><precioUnitario>32.16</precioUnitario><descuento>16.08</descuento><precioTotalSinImpuesto>16.08</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>16.08</baseImponible><valor>2.41</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>17623298</codigoPrincipal><descripcion>d)CAMISAS MODA MANGA C</descripcion><cantidad>1</cantidad><precioUnitario>29.56</precioUnitario><descuento>20.69</descuento><precioTotalSinImpuesto>8.87</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>8.87</baseImponible><valor>1.33</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>17626327</codigoPrincipal><descripcion>d)CONJUNTOS NIÑA</descripcion><cantidad>1</cantidad><precioUnitario>24.34</precioUnitario><descuento>17.04</descuento><precioTotalSinImpuesto>7.30</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>7.30</baseImponible><valor>1.10</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>17634093</codigoPrincipal><descripcion>d)CONJUNTOS NIÑO</descripcion><cantidad>1</cantidad><precioUnitario>26.08</precioUnitario><descuento>18.26</descuento><precioTotalSinImpuesto>7.82</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>7.82</baseImponible><valor>1.17</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>17685585</codigoPrincipal><descripcion>d)PANTALONES FORMALES</descripcion><cantidad>1</cantidad><precioUnitario>32.16</precioUnitario><descuento>16.08</descuento><precioTotalSinImpuesto>16.08</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>16.08</baseImponible><valor>2.41</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>17685589</codigoPrincipal><descripcion>d)BLUSAS Y CAMISEROS M</descripcion><cantidad>1</cantidad><precioUnitario>26.08</precioUnitario><descuento>13.04</descuento><precioTotalSinImpuesto>13.04</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>13.04</baseImponible><valor>1.96</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>17737082</codigoPrincipal><descripcion>d)BLUSAS Y CAMISEROS M</descripcion><cantidad>1</cantidad><precioUnitario>23.47</precioUnitario><descuento>11.74</descuento><precioTotalSinImpuesto>11.73</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>11.73</baseImponible><valor>1.76</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>5715676908523</codigoPrincipal><descripcion>d)VESTIDOS Y ENTERIZOS</descripcion><cantidad>1</cantidad><precioUnitario>30.43</precioUnitario><descuento>15.22</descuento><precioTotalSinImpuesto>15.21</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>15.21</baseImponible><valor>2.28</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>7909874386094</codigoPrincipal><descripcion>d)SANDALIAS ESCOLAR NI</descripcion><cantidad>1</cantidad><precioUnitario>26.08</precioUnitario><descuento>13.04</descuento><precioTotalSinImpuesto>13.04</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>13.04</baseImponible><valor>1.96</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Tipo de Contribuyente">Gran Contribuyente</campoAdicional><campoAdicional nombre="GC según Oficio">No. NAC-GCFOIOC21-00000920-E</campoAdicional><campoAdicional nombre="Correo del cliente">carlosperaltam1989@gmail.com</campoAdicional><campoAdicional nombre="Dirección del cliente">gye</campoAdicional><campoAdicional nombre="Teléfono del cliente">00000000</campoAdicional><campoAdicional nombre="Número de Ticket">001-060-000524115</campoAdicional><campoAdicional nombre="Deducible Vestimenta">118.04</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature962945">
+<ds:SignedInfo Id="Signature-SignedInfo8747">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID745371" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature962945-SignedProperties731937">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RDV8KxfS0ZDCgPYNpZBNvqDOC0s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1372936">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>2ibsLD/nSZqWiLOJbYWN/c9S9Ys=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1008862" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>VzDYye2opQgbLO26cZTtZU0RdOk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1029113">
+XzWTXJBIZ6D6Wx+HiFhYA4WhFiraM9n5RzPUnKxbGjjs7YydiS4pXGTSbT4vHJUM2FWKVfq+RfJ1
+Ylk0fy+eAxgJiw5jvnigNvJqcw6TWvPLb40BH7kVbnDSXMxw3h9p3HnOwu5up93YEmcHim1vO2vM
+sSqEyY7gF6zCOFY6eodw+LoD24Kam70HNGqWKgjQbP1u/T0jdoWhOjMm3o30A0IiynSEoAuHaY5R
+Xmx4N7CqsXRDXwBrbaLt0rZswtkkOnuBUuLnarFzwESLpqblkMfoAHzafoF0jqSdmLcPeh9zRBDf
+D9VBX8Qh/VbMtVI4uh4e2T8s+16bCoh8tsFpwg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1372936">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK1DCCCLygAwIBAgIIYtzuVdtbcmkwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTEwMTYzOTQ2WhcNMjYwOTEwMTYzOTQ2WjCB
+pTEjMCEGA1UEAwwaTFVQRSBERUwgUk9DSU8gTEFSR08gTEFSR08xIDAeBgNVBAUTFzA5MTk1Mjc2
+MDYtMTAwOTI1MTE0OTM4MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALTyCqZ/rWDTxVL1pB1dgwi+pRZI8nhrwIc6Xqrk
+98z2AHZrVkB72fwRK1qqCxTLLywCmVCswcZ9G5ksRJABVezMElvumeBnzoOI1P88TlFG8OPDjzwp
+5k8XX4R990aiERyiw6lVGp3+vmzFfnVpLjpPDSm5qlw60roEwT0u0dz+6LusPS/oHsBqVsYQSmt1
+OQNpM2qMJnKyscnSbvwmHZif0gJWrKa9EtSmrtXTxIeNT/6X6sfPAoO+RbfVQdKZBJ4hdkyYIwnD
+10u+WeeScTpjYEGA/oInnjm1y69kI1Da/PpLS8dLsbHOea68w4L0w7Ota/PHWov4QGcahryGR1MC
+AwEAAaOCBhAwggYMMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCQGA1UdEQQdMBuBGWx1cGUubGFy
+Z29AZGVwcmF0aS5jb20uZWMwggESBgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYB
+BQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABk
+AGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBz
+Oi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZh
+cy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBF
+bXByZXNhLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIIC
+AjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxm
+aWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8
+oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUu
+Y3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUMwHQYDVR0OBBYEFBqh0Nqc7NGNoce20XzRNZTpzr/HMCsGA1UdEAQkMCKADzIwMjUwOTEwMTYz
+OTQ2WoEPMjAyNjA5MTAxNjM5NDZaMAsGA1UdDwQEAwIF4DAkBgorBgEEAYKmcgMFBBYMFEdFUkVO
+VEUgREUgSU1QVUVTVE9TMBoGCisGAQQBgqZyAwEEDAwKMDkxOTUyNzYwNjAaBgorBgEEAYKmcgMJ
+BAwMClJPQ0FGVUVSVEUwEQYKKwYBBAGCpnIDIgQDDAEuMCIGCisGAQQBgqZyAwcEFAwSTFVRVUUg
+NTAyIFkgQk9ZQUNBMB4GCisGAQQBgqZyAwIEEAwOTFVQRSBERUwgUk9DSU8wHwYKKwYBBAGCpnID
+IAQRDA8wMDEwMDIwMDEwMzg1MDkwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJ
+DAdFQ1VBRE9SMBUGCisGAQQBgqZyAwMEBwwFTEFSR08wEQYKKwYBBAGCpnIDHgQDDAEuMCYGCisG
+AQQBgqZyAwoEGAwWQUxNQUNFTkVTIERFIFBSQVRJIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTAw
+MTEyMTQwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBUGCisGAQQBgqZyAwQEBwwFTEFSR08wGgYKKwYB
+BAGCpnIDCAQMDAowOTgzMzQ2Mjc4MA0GCSqGSIb3DQEBCwUAA4ICAQAVyizsmu5AlwJZSCTW7iQX
+lbtJqHJIZAdyHTgW2Xovws/n+NIWwweBNfA9W+YR7v/xilCv84euFvI2WM6qw7LO6mPEuVV1vDa7
+PQzJWrN5FCWpf0J3wcVwofBXIE8PXywNpJD88nPMPJ19V8IdjtudKXMj+EV2+hseE+Vc7cmI2hge
+hDT3xbFUVfyqdbWv32cli7imQrkivX2IrDzUUOyus9caCFIjTYo4lGVLuVq+7c/0ugTG4lcFXwmU
+ZbGh5HWCs7F1zeKeTZf4WmGMatlGtvpQTj9KDk8+eDz6gGoWOsKyuwHVQy/keGFEhxH3Jl2DRTVZ
+nwUKJFM2JT8x/UI/WWXrjS3FqgK38mEczS8h2ViW/3a7Nl6r+vYftkvAMvUPCooGpUVbcW7/g9z2
+O34c+yZZpmB1VBAPAkCQY67uXkg0n7xckfdP1BYXy1e+Lrjby6u9HE0fm4Fph0qAl5dPphGSjAz3
+0UbysMm/yedrCW6dDH3kB6ktrsWq9NMUJkEamHb+X2jjkoe4rK/iDapJpkIhdmYXrQyx1xk6Jl1V
+ndf/AkKjOsiSYVfS3xPB/oGVnvkHsj8/cfZa77y99clN9wDLD/vmftkw1lm9XFvP1bZuh7hKd1Y4
+VY3vl8ivBhqcJtiCh0MzFonj9mF1VlTVR32XCxtof1GNfdRm+NcNTg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tPIKpn+tYNPFUvWkHV2DCL6lFkjyeGvAhzpequT3zPYAdmtWQHvZ/BErWqoLFMsvLAKZUKzBxn0b
+mSxEkAFV7MwSW+6Z4GfOg4jU/zxOUUbw48OPPCnmTxdfhH33RqIRHKLDqVUanf6+bMV+dWkuOk8N
+KbmqXDrSugTBPS7R3P7ou6w9L+gewGpWxhBKa3U5A2kzaowmcrKxydJu/CYdmJ/SAlaspr0S1Kau
+1dPEh41P/pfqx88Cg75Ft9VB0pkEniF2TJgjCcPXS75Z55JxOmNgQYD+gieeObXLr2QjUNr8+ktL
+x0uxsc55rrzDgvTDs61r88dai/hAZxqGvIZHUw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature962945-Object788408"><etsi:QualifyingProperties Target="#Signature962945"><etsi:SignedProperties Id="Signature962945-SignedProperties731937"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-05T14:10:53-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>dIq6N9ot+6m+odSOkimaQFzeKDk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>7123830763113116265</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1008862"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601080301708600120030200000044530000447611</numeroAutorizacion>
+<fechaAutorizacion>2026-04-29T15:20:29-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>RODRIGUEZ RECALDE ROY RONY</razonSocial>
+    <ruc>0803017086001</ruc>
+    <claveAcceso>2904202601080301708600120030200000044530000447611</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>020</ptoEmi>
+    <secuencial>000004453</secuencial>
+    <dirMatriz>AV PRINCIPAL, VIA TONSUPA-ATACAMES JUNTO A LA GASOLINERA DE PETROECUADOR</dirMatriz>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>29/04/2026</fechaEmision>
+    <dirEstablecimiento>AV PRINCIPAL, VIA TONSUPA-ATACAMES JUNTO A LA GASOLINERA DE PETROECUADOR</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>CEDENO LOOR MAYTER VALESKA</razonSocialComprador>
+    <identificacionComprador>0850472986001</identificacionComprador>
+    <direccionComprador>SN 00</direccionComprador>
+    <totalSinImpuestos>19.13</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>19.13</baseImponible>
+        <valor>2.87</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>22.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>22.00</total>
+        <plazo>30</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>22122</codigoPrincipal>
+      <codigoAuxiliar>22122</codigoAuxiliar>
+      <descripcion>BREAKER SOBREPUESTO 1X60A GENERAL ELECTRIC</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>9.565000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>19.13</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>19.13</baseImponible>
+          <valor>2.87</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">S N 00</campoAdicional>
+    <campoAdicional nombre="FORMA DE PAGO">EFECTIVO</campoAdicional>
+    <campoAdicional nombre="RESPONSABLE">Administrador de Planta</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature115990">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID990946" URI="#Signature115990-SignedPropertiesID140389" Type="http://uri.etsi.org/01903#SignedProperties">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7pjrtfqvE49sPyQSZi6PkVbiZYs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate744035">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>P6qP7YIWw/4YiJuaCcXcWy/I1aE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-977790" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>v6eiA6jw+2fsLx90BWP8dahidd0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>WOH5Esv4p/Fju8gldVgYWbDT8ng3t1LtM1pnIfYWtF6hwSnksj9AkpWpjZXlTyLm
+O7SUZIYA2Kqa1y5qzVkLnbPpxynJNIwX9l/BTDTihPnChNoDk++UhtGMh/OxshWH
+DZUycEEe6KxNVRpKQ/EfY0rv57VbR5cEjodi4Ltkc6lHvAuebZrucrlz+nDcaARQ
+zqq5WKCbKQWWW3ElyNUvgVMIpnBqYYvJl4B8o9MAvw2b4OogTOo5+WW/MlKbdzBV
+pSlqHdGv7aCoeFEQHXWqDQ22DrO5uJsVinmCYVq6P5abhCCW/DKIrya0Y9DL8XJn
+zxBuFPpQMRkiCE/G08N6/g==</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate744035">
+<ds:X509Data>
+<ds:X509Certificate>MIIHuzCCBqOgAwIBAgIFAMIA4NQwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMC
+RUMxGzAZBgNVBAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0
+ZSBFbWlzb3IgQ0EyMB4XDTI1MDMwNjE5MzkzN1oXDTI3MDMwNjE5MzkzN1owgZwx
+CzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6YXRlIENpYS4gTHRkYS4xHjAcBgNV
+BAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEkMCIGA1UEAwwbUk9ZIFJPTlkgIFJP
+RFJJR1VFWiBSRUNBTERFMSowKAYJKoZIhvcNAQkBFhtyb3lyb2RyaWd1ZXpfMTBA
+aG90bWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCnytNG
+U6/EmW+lgHSmGndugtO6MrcR9gkgMEeOqrWrLhCQW4hOIyRBTprxM/mqVnEvJN+F
+z56E0EuP7xLi6YQpFFy+LjR1EFxzkSavZM9vQ2UWDEBbvZguHHDMzyx1o3TCro8v
+cUsUW4vmejdqsUwzIEqjO/QQDXhBv4UHJxXPu5h/yZrR+Ok71xiH9D3ahZwrgi/Q
+wpKD4Awt7UwZXbYA/GcA2BB7reka49XBxy5dl4pKfNuv9YnX9xgK6UBllpn+2kNZ
+dFqN+ZW4fDVTXBspVRNRsrZ54AjwhOudNSiiqVap3ixjFjDTM9VE1cVR6gH8qMJU
+bzF+lAI2y7T6ry+pAgMBAAGjggRWMIIEUjAaBgorBgEEAYPPdgMBBAwMCjA4MDMw
+MTcwODYwGAYKKwYBBAGDz3YDAgQKDAhST1kgUk9OWTAZBgorBgEEAYPPdgMDBAsM
+CVJPRFJJR1VFWjAXBgorBgEEAYPPdgMEBAkMB1JFQ0FMREUwGAYKKwYBBAGDz3YD
+BwQKDAhBVEFDQU1FUzAaBgorBgEEAYPPdgMIBAwMCjA5ODI3Njk1OTAwGAYKKwYB
+BAGDz3YDCQQKDAhBdGFjYW1lczAXBgorBgEEAYPPdgMMBAkMB0VDVUFET1IwHQYK
+KwYBBAGDz3YDCwQPDA0wODAzMDE3MDg2MDAxMAwGA1UdEwEB/wQCMAAwHQYDVR0O
+BBYEFFnZpfk9WUnSf85xmmDDLXDKSthcMB8GA1UdIwQYMBaAFO12SLAK8cmGhgxM
+RmTSBvjM1b0+MA4GA1UdDwEB/wQEAwIF4DA6BgNVHR8EMzAxMC+gLaArhilodHRw
+Oi9lbmV4dDIueHl6L0xhenphdGVDQTIvZW1pc29yQ0EyLmNybDCCAYQGA1UdIASC
+AXswggF3MHwGCisGAQQBg892AgEwbjBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50
+ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNh
+cyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMIH2BgkrBgEEAYPP
+dgIwgegwbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUgY2VydGlmaWNhZG8gZXMg
+ZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRl
+IExhenphdGUgQ2lhLiBMdGRhLjB4BggrBgEFBQcCAjBsGmpFbCBwcmVzZW50ZSBj
+ZXJ0aWZpY2FkbyBzdWJvcmRpbmFkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMg
+cG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMIH9
+BgNVHREEgfUwgfKgGgYKKwYBBAGDz3YDAaAMDAowODAzMDE3MDg2oBgGCisGAQQB
+g892AwKgCgwIUk9ZIFJPTlmgGQYKKwYBBAGDz3YDA6ALDAlST0RSSUdVRVqgFwYK
+KwYBBAGDz3YDBKAJDAdSRUNBTERFoBgGCisGAQQBg892AwegCgwIQVRBQ0FNRVOg
+GgYKKwYBBAGDz3YDCKAMDAowOTgyNzY5NTkwoBgGCisGAQQBg892AwmgCgwIQXRh
+Y2FtZXOgFwYKKwYBBAGDz3YDDKAJDAdFQ1VBRE9SoB0GCisGAQQBg892AwugDwwN
+MDgwMzAxNzA4NjAwMTA8BggrBgEFBQcBAQQwMC4wLAYIKwYBBQUHMAGGIGh0dHA6
+Ly9lbmV4dDIueHl6Ojg3NzcvYWRzcy9vY3NwMA0GCSqGSIb3DQEBCwUAA4IBAQCv
+92u/VL7BNcP4y0W2/Qhle5A0kHOu/p8hEeV0MvwqXhVKnzWpWQMyViid+ZKNLW6c
+/II3SkiqI0qO/DQp2bP7GANCgwcSMKz1cvbDBo70CheKO/W51uMVJYGk1jJcj/e/
+DBEOslK447usbkQCQZkSdgLwILDHGva5GFY7CqAjjE4H5oWApjvsON+lVvTGi1lm
+qSUoYnhQmfEMbGOPEbKRzaDrafXfpPHTiFVRBg3VrQsamCdW2lbO6X0hlq53iFbs
++BZLyXlgUY8Mpz5pkTH0E2Xuyz/a3tOFZKGv5aeH0pN/ToY5D/YQr9Fp2V7JpCXM
+6xZvH6g23bp8cB6DfC4p</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>p8rTRlOvxJlvpYB0php3boLTujK3EfYJIDBHjqq1qy4QkFuITiMkQU6a8TP5qlZx
+LyTfhc+ehNBLj+8S4umEKRRcvi40dRBcc5Emr2TPb0NlFgxAW72YLhxwzM8sdaN0
+wq6PL3FLFFuL5no3arFMMyBKozv0EA14Qb+FBycVz7uYf8ma0fjpO9cYh/Q92oWc
+K4Iv0MKSg+AMLe1MGV22APxnANgQe63pGuPVwccuXZeKSnzbr/WJ1/cYCulAZZaZ
+/tpDWXRajfmVuHw1U1wbKVUTUbK2eeAI8ITrnTUooqlWqd4sYxYw0zPVRNXFUeoB
+/KjCVG8xfpQCNsu0+q8vqQ==</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature115990" Id="Signature115990"><etsi:SignedProperties Id="Signature115990-SignedPropertiesID140389"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-29T20:20:28+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>VtoYA4cGvGAtzm9Eoo6xhIvSiy4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2, O=Lazzate Cia. Ltda., C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254837460</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-977790"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

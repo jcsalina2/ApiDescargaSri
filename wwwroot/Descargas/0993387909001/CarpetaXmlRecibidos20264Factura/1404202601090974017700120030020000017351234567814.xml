@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601090974017700120030020000017351234567814</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T13:13:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>SORIANO LEON GUSTAVO FERNANDO</razonSocial>
+        <nombreComercial>SEAL FLUID</nombreComercial>
+        <ruc>0909740177001</ruc>
+        <claveAcceso>1404202601090974017700120030020000017351234567814</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>003</estab>
+        <ptoEmi>002</ptoEmi>
+        <secuencial>000001735</secuencial>
+        <dirMatriz>KM 6.5 VIA DAULE PROSPERINA MZ N SOLAR 25</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>14/04/2026</fechaEmision>
+        <dirEstablecimiento>PRINCIPAL</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <guiaRemision>000-000-000000000</guiaRemision>
+        <razonSocialComprador>ASTECNAVIND S.A.S.</razonSocialComprador>
+        <identificacionComprador>0993387909001</identificacionComprador>
+        <direccionComprador>GUAYAS/ GUAYAQUIL/ GUAYAQUIL/ 4TO. PASEO 52B SE Y 4TO. PASEO 52B SE/ GUASMO NORTE COOP. 1 DE MAYO</direccionComprador>
+        <totalSinImpuestos>44.06</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>44.06</baseImponible>
+                <tarifa>15.0</tarifa>
+                <valor>6.61</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>50.67</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>50.67</total>
+                <plazo>0.0</plazo>
+                <unidadTiempo>Dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>BSSGS/1-1/4</codigoPrincipal>
+            <descripcion>SELLO MECANICO TIPO GS - 1 1/4 CARB/CER/NITRILO MARCA BSS ESPAÑA</descripcion>
+            <cantidad>1.000</cantidad>
+            <precioUnitario>44.060</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>44.06</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>44.06</baseImponible>
+                    <valor>6.61</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="EMAIL:">astecnavind.ecuador@gmail.com , contabilidadastecnavind@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature Id="Signature308630" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo502776">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID360267" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature308630-SignedProperties989477">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Bfv3R33BUaFLWKFHP704sntI7Gw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1507845">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>TI5dB6R/tXzbzZ+usCt/2nen5Vk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-12891" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>loesX5eq7zX+mIzoYjSfWVKhcI8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1018976">
+tOqerE0TjKOO4ZdZjLQRTvX7rdqRCzVcJAqZFLY1AGtpjl54Glpq8/L7maYdZMTJdSCur/eA5k2o
+SZbhYJFFaZc4RnFutHNuPGirpqqK07TCCWCboTrUT1wNdV2iTz3zSvHCh1D49g5FAUGGXUp7/9Wc
+08Xme34b3YjZYqk/4s/QmjEYmIIoeNLvidawVFhY2fePncumVKYP8m/C94t7sU/7yF/43dqsvioq
+6nuYkyVLN4tKZf3A8u653PL8n8FklpRjE58/rrIlTi97iSCrrIe43rHmzQg0LkXOl0adEYyZj7gc
+LTT9lXy7zQUzzw1FAMud6t7Or6srQPVL74F4fA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1507845">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL0zCCCbugAwIBAgIEdCMenzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA0MTExNDU4MTRaFw0yNzA0MTExNDU4MTRaMIGdMSYw
+JAYDVQQDDB1HVVNUQVZPIEZFUk5BTkRPIFNPUklBTk8gTEVPTjEVMBMGA1UEBRMMMTEwNDIyMTAw
+NzUzMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAMb2y7Po3kOuh+Y+TUy87AXVmpYHx2LsSYOoGRM1lYcQK4NTh0Q/Ao46
+Yn78tiS64y96js1OaKicFp2RgGUW/fRe9g+hUJs4cid4v0dvTO4xjnNbL7ro1l/oK9i5zi1nMbXU
+qzhFolly8u8PwAj+W5XfsDPwMCfSEIpMR/msHGbquHBdwQM3XRUk1i+GsJseDDQXDtV66kmRBkij
+M/4RQtG4HcB4Dspr8WmLlt2ceMe2bTAKnkRclGCAWrKhb7sgff41fgZ+IVZsiFMFIVHW7nD5UcCb
+tpLxlgh3BytrM47XRiye2+msUc8u7q4Ruyg4bBJ2kmIaBt6+unxALP6LL3MCAwEAAaOCBxswggcX
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlz
+dD9iYXNlMCEGA1UdEQQaMBiBFmdzb3JpYW5vQHNlYWxmbHVpZC5jb20wggEGBgNVHSAEgf4wgfsw
+WgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABk
+AGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYI
+KwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3du
+bG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNh
+ZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29j
+c3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SB
+nDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklU
+WSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxk
+YXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJl
+dm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3Js
+Jmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkg
+REFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUGyO9mLH0u3IvaXmiH4WEhkgGA+AwKwYDVR0QBCQw
+IoAPMjAyMjA0MTExNDU4MTRagQ8yMDI3MDQxMTE0NTgxNFowCwYDVR0PBAQDAgXgMBoGCisGAQQB
+gqZyAwEEDAwKMDkwOTc0MDE3NzAZBgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDARBgorBgEEAYKm
+cgMiBAMMAS4wLwYKKwYBBAGCpnIDBwQhDB9WSUEgREFVTEUgU09MQVIgMjUgWSBBViBTRUdVTkRB
+MCAGCisGAQQBgqZyAwIEEgwQR1VTVEFWTyBGRVJOQU5ETzAfBgorBgEEAYKmcgMgBBEMDzAwNDAw
+MTAwMDAxNTQ2MjARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYB
+BAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHU09SSUFOTzARBgorBgEEAYKmcgMe
+BAMMAS4wHQYKKwYBBAGCpnIDCwQPDA0wOTA5NzQwMTc3MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAU
+BgorBgEEAYKmcgMEBAYMBExFT04wGgYKKwYBBAGCpnIDCAQMDAowOTk5NTQzNzM1MA0GCSqGSIb3
+DQEBCwUAA4ICAQCDbSeVE3AakSqnWVooHCPYh5YBxStwEaaJqO6GgjSK7W+lSK+eF7n6DpvZOmjQ
+zALfD17j8f/Ldd5jITKF4foosJGUyUARwuDz7A01AlQGNAvMR0QcvY2A12v+EqFl4aqr6b73y8wD
+oQEmHfuVy1JmKwx7A0sX9jWKRFVnatvOQU/E8TLJcyENVO9TU3SUO/in2cpAELsO6JF9OYwDElQI
+RYFRP6SRQMs34AuulR3CzTlnPEWKSPAdO6oBkJNuM2kfG/t4/y0z6jQRBqYdnLL/sk7up0cBTpbP
++LwC/7dsPtL6wX695iEVSBhqWTYgWZ48FLJcHHxyT+lY5bX3yqYPkadn0D5piT5569EgL1HpaFZ7
+FU56hxvxgB+NKkeMmJv0ldP2aYzt0TzeBivdg0PAnXgmqAE9XsNP6NdchRRfYbSySMrav+qOfBIh
+O/vVkjWsabEDekLqKDNwBiFStEGBaUqzutiOp7RSlvyuCO/IONCabAuwJ3wREQg9Rk59SB2uaU7g
+9ag6DsTFv2wBcwA9eR8FMaFDp4gzkRGO3SZrodI/PV4nO/0rI1O5+I0PifmRdwTwpquNZEBUwSTF
+CurjNA9RMOHczk6y5GjAUF6fm7HHCJUN80+u8HApk0LaULo/nPjvQqQs2wMPMQRYVnsrlh+xIZpz
+wlSAIC4j5sQxdg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xvbLs+jeQ66H5j5NTLzsBdWalgfHYuxJg6gZEzWVhxArg1OHRD8Cjjpifvy2JLrjL3qOzU5oqJwW
+nZGAZRb99F72D6FQmzhyJ3i/R29M7jGOc1svuujWX+gr2LnOLWcxtdSrOEWiWXLy7w/ACP5bld+w
+M/AwJ9IQikxH+awcZuq4cF3BAzddFSTWL4awmx4MNBcO1XrqSZEGSKMz/hFC0bgdwHgOymvxaYuW
+3Zx4x7ZtMAqeRFyUYIBasqFvuyB9/jV+Bn4hVmyIUwUhUdbucPlRwJu2kvGWCHcHK2szjtdGLJ7b
+6axRzy7urhG7KDhsEnaSYhoG3r66fEAs/osvcw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature308630-Object576793"><etsi:QualifyingProperties Target="#Signature308630"><etsi:SignedProperties Id="Signature308630-SignedProperties989477"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T13:13:00-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>W3ulyzPaYvBRMmaQK7UTXNC2JD0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1948458655</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-12891"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

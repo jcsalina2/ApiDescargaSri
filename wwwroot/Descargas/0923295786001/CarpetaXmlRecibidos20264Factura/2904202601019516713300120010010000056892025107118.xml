@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601019516713300120010010000056892025107118</numeroAutorizacion>
+<fechaAutorizacion>2026-04-29T10:13:08-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MESA VIBRANTE S.A.S.</razonSocial>
+    <nombreComercial>EL HUERTO</nombreComercial>
+    <ruc>0195167133001</ruc>
+    <claveAcceso>2904202601019516713300120010010000056892025107118</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000005689</secuencial>
+    <dirMatriz>COTOPAXI 1-13 Y LOS RIOS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>29/04/2026</fechaEmision>
+    <dirEstablecimiento>COTOPAXI 1-13 Y LOS RIOS</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MIGUEL JARA</razonSocialComprador>
+    <identificacionComprador>0923295786001</identificacionComprador>
+    <direccionComprador>NINGUNA</direccionComprador>
+    <totalSinImpuestos>15.22</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>0</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>15.22</baseImponible>
+        <valor>2.28</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>17.50</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>16</formaPago>
+        <total>17.50</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>5</codigoPrincipal>
+      <codigoAuxiliar>1</codigoAuxiliar>
+      <descripcion>EL HUERTO</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>7.61</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.61</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.61</baseImponible>
+          <valor>1.14</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7</codigoPrincipal>
+      <codigoAuxiliar>1</codigoAuxiliar>
+      <descripcion>TOCINO TOSTI</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>7.61</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.61</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.61</baseImponible>
+          <valor>1.14</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="CorreoCliente">ARTEYARMONIA.ESCUELA@GMAIL.COM</campoAdicional>
+    <campoAdicional nombre="CAJERO">JOHANNA P</campoAdicional>
+    <campoAdicional nombre="TRANSACCION">9692</campoAdicional>
+    <campoAdicional nombre="FORMA DE PAGO">T.D. VISA: 19.02</campoAdicional>
+    <campoAdicional nombre="GRATIFICACION">1.52</campoAdicional>
+    <campoAdicional nombre="FECHA CIERRE">29/04/2026</campoAdicional>
+    <campoAdicional nombre="TRANSPORTADO POR">Acklins S.A</campoAdicional>
+    <campoAdicional nombre="URL">http://facturas.acklins.net</campoAdicional>
+    <campoAdicional nombre="Rimpe">CONTRIBUYENTE REGIMEN RIMPE</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature717072">
+<ds:SignedInfo Id="Signature-SignedInfo1041595">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID930170" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature717072-SignedProperties1023892">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>GCNbJc51Mfyzgw3RKswtOPseGq8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1150567">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>8NgL9KM1aeNltWL/dTKIip1FTjI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-125817" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>YKkcdALWlBo3ZTREz70cTkvs79I=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue450598">
+PnFTdPaj1u2PX4WMB3lbapJqMV2eAnEJRevu2PEiI5HjmxZnHwiZLUoAGg1WfamvLHCleDFtxux3
++G5Am6MqHnio4zVgx6nzU8+KmmQlSMlGF3r7ElRLyIwGGShNX7A9d8cPh1EofYmXP77EAm+oL2Ae
+DSTs8cSAJ+iwfzNzGu/GwINUNIAnhHyp6JPtTcmhgcRAjSdGV1EeatxIIQaX3Krcj0ImU3kQklE2
+KEfS/ZebMO5o+NTri/lXEiCCCaQAxGoy7sb9ye1S7U2n3+DYsCJYq2OalW9v0BmVZ+f8MnBaR1l2
+s/6K1eNMiADlEtbGT/1rF14k/q6BULggXx8ofg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1150567">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJmjCCB4KgAwIBAgIIWtQVDKaaOpEwDQYJKoZIhvcNAQELBQAwgYYxCzAJBgNVBAYTAkVTMRIw
+EAYDVQQHDAlCYXJjZWxvbmExFjAUBgNVBAoMDVVBTkFUQUNBIFMuQS4xFTATBgNVBAsMDFRTUC1V
+QU5BVEFDQTEaMBgGA1UEAwwRVUFOQVRBQ0EgQ0EyIDIwMjExGDAWBgNVBGEMD1ZBVEVTLUE2Njcy
+MTQ5OTAeFw0yNTEwMDExNzE5MDBaFw0zMDA5MzAxNzE5MDBaMIH1MQswCQYDVQQGEwJFQzEdMBsG
+A1UECgwUTUVTQSBWSUJSQU5URSBTLkEuUy4xGDAWBgNVBAwMD0dFUkVOVEUgR0VORVJBTDEmMCQG
+A1UEBAwdRkVSTkFOREVaIERFIENPUkRPVkEgUEVTQU5URVoxFjAUBgNVBCoMDUpVQU4gRkVSTkFO
+RE8xGTAXBgNVBAUTEElEQ0VDLTAxMDQ0Mzg1MjgxNDAyBgNVBAMMK0pVQU4gRkVSTkFORE8gRkVS
+TkFOREVaIERFIENPUkRPVkEgUEVTQU5URVoxHDAaBgNVBGEME1ZBVEVDLTAxOTUxNjcxMzMwMDEw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDLDRQDdfmOCfNl6sd8quiQN0ShKdghn25r
+3yRau4QOHj+fIaVRA3cGx7nOtGKz1S7kwTdDGh8iEX+vF+E6t9DI3UAZB/AaWLsaCN0zq7/tEuP/
+QAS0rJwdEaop0T1qQEjoXq5drVCJVopVABVQC6ZTUUlmZg2vOlY55pCZfndfcSzj9CDKMuNdRsbV
+hfkbxeu72GZgF7/Akft1ihJeDOcBaeTMLmjSz9C3g/OvBt9VSB0XZ6MejUzI5jZkf5ckl4rGVDL0
+IH1FHBhF3xLImdqShSW005U9zbijzHH3M2g6uiCkgGaAdqETwPiTITOgynkUTNKGL9qdW+XUaj4D
+uigNAgMBAAGjggSZMIIElTAbBgsrBgEEAYLxNmYDAQQMDAowMTA0NDM4NTI4MB4GCysGAQQBgvE2
+ZgMLBA8MDTAxOTUxNjcxMzMwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRw
+Oi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJv
+cmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1Ymxp
+Yy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9vY3NwLzAdBgNVHQ4EFgQUOTZ6ObCFwa55vSpjRXYAEzHgVfYwDAYDVR0TAQH/BAIwADAf
+BgNVHSMEGDAWgBTF5zMl2O/UjedTh8qiW3U6i5bdSjAcBgNVHRIEFTATgRFpbmZvQHVhbmF0YWNh
+LmNvbTCBjgYDVR0gBIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3BggrBgEFBQcCARYraHR0cHM6
+Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1BggrBgEFBQcCAjApDCdDRVJU
+SUZJQ0FETyBERSBSRVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgYUGA1UdHwR+MHwwPKA6oDiGNmh0
+dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC8yMDIxQ0Exc3ViLmNybDA8oDqg
+OIY2aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsLzIwMjFDQTFzdWIuY3Js
+MA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggHGBgNVHREE
+ggG9MIIBuYEXZWxodWVydG8yNS5lY0BnbWFpbC5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMDEwNDQz
+ODUyOKAeBgsrBgEEAYLxNmYDAqAPDA1KVUFOIEZFUk5BTkRPoCUGCysGAQQBgvE2ZgMDoBYMFEZF
+Uk5BTkRFWiBERSBDT1JET1ZBoBkGCysGAQQBgvE2ZgMEoAoMCFBFU0FOVEVaoCAGCysGAQQBgvE2
+ZgMFoBEMD0dFUkVOVEUgR0VORVJBTKAnBgsrBgEEAYLxNmYDB6AYDBZDT1RPUEFYSSBTTiBZIExP
+UyBSSU9ToB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTk1MTIwOTE5oBcGCysGAQQBgvE2ZgMJoAgM
+BkNVRU5DQaAlBgsrBgEEAYLxNmYDCqAWDBRNRVNBIFZJQlJBTlRFIFMuQS5TLqAeBgsrBgEEAYLx
+NmYDC6APDA0wMTk1MTY3MTMzMDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCQGCysGAQQBgvE2ZgMy
+oBUME1JFUFJFU0VOVEFOVEUgTEVHQUygGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG
+9w0BAQsFAAOCAgEABZBxd3Wo1ZkpGGZFOzGprLuF0qN8NgJ9wlTZYZwGpiNel9QN4GGJnKRxoqQp
+F/ei/ITWM0qUgau2ZdcUSpy45HKCS+PRfmQ0C7AfFFj1O2ES0w/5wWxgc4Sz2XO5e8gUa/Z7PbMb
+4S75wd7M8AMdoKabAGzRJscU/sczitCLt+kghmE8VtPttSRL7iAnjxPVtPLUftrXJsxLf2gEbWXF
++UrRnSz17Bxi9J6Vx698jwtVXALpXNRTIBptpb84dRHSXFRpax1k474HtmdldNFqjbRnRJrpIyDT
+Z6WNMAxgr7zM0gK6txl07CGqBW/3Xv7NoMG3e6gV81qK6byEkG368H2a4DtH6iSqsbldHVy2yGKA
+gpnO3TguIWH+iJkYwWP+/09d4koSFiIEtchHK3uz8CbJq5/yLEZwjlTC/cy2w/t/o+tpwVC8jbLo
+oLK4s4yrF5SWnerm6Cz0vLpTn9stoP2sXEuHxOJECPDaVwQa/pqVCoGqHdTzsvyB5OqmMi0kA/Re
+rp3Atgb61X1qGpA3qwSoKbKsUsfYIQHiL0UroZXC/07DG32M1wV5r/2+7zActpFV0TQMHvWrUGOn
+z385XXYqCZultB909YYg4i8m5AZuyMuSbWk6brAtv9pH070Eu10OUk0LQupuF4RhwcLAlPsKzxfF
+XcIq8dcd0gfDA2M=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yw0UA3X5jgnzZerHfKrokDdEoSnYIZ9ua98kWruEDh4/nyGlUQN3Bse5zrRis9Uu5ME3QxofIhF/
+rxfhOrfQyN1AGQfwGli7GgjdM6u/7RLj/0AEtKycHRGqKdE9akBI6F6uXa1QiVaKVQAVUAumU1FJ
+ZmYNrzpWOeaQmX53X3Es4/QgyjLjXUbG1YX5G8Xru9hmYBe/wJH7dYoSXgznAWnkzC5o0s/Qt4Pz
+rwbfVUgdF2ejHo1MyOY2ZH+XJJeKxlQy9CB9RRwYRd8SyJnakoUltNOVPc24o8xx9zNoOrogpIBm
+gHahE8D4kyEzoMp5FEzShi/anVvl1Go+A7ooDQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature717072-Object56849"><etsi:QualifyingProperties Target="#Signature717072"><etsi:SignedProperties Id="Signature717072-SignedProperties1023892"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-29T10:13:07-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>ct9y9OtBXio09ZVrbtKRH2Smq8o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2021,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona,C=ES</ds:X509IssuerName><ds:X509SerialNumber>6544879302555089553</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-125817"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601099277618800120120050000687281031469012</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T21:22:23-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>VAMORET S.A.</razonSocial>
+    <nombreComercial>VAMORET S.A.</nombreComercial>
+    <ruc>0992776188001</ruc>
+    <claveAcceso>1304202601099277618800120120050000687281031469012</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>012</estab>
+    <ptoEmi>005</ptoEmi>
+    <secuencial>000068728</secuencial>
+    <dirMatriz>AV. JUAN TANCA MARENGO, KM 1.5 C.C MALL DEL SOL, TORRE A PISO 2 OFICINA # 206, GUAYAQUIL</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/04/2026</fechaEmision>
+    <dirEstablecimiento>GUAYAS / DAULE / VIA A LA AURORA KM 10.5 S/N</dirEstablecimiento>
+    <contribuyenteEspecial>011</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>JUAN CARLOS SALINAS</razonSocialComprador>
+    <identificacionComprador>0929761104</identificacionComprador>
+    <direccionComprador>VILLA DEL REY</direccionComprador>
+    <totalSinImpuestos>304.280000</totalSinImpuestos>
+    <totalDescuento>0.000000</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>304.280000</baseImponible>
+        <valor>45.640000</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>349.920000</importeTotal>
+    <moneda>DÓLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>349.920000</total>
+        <plazo>0</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>DHF179405-NG</codigoPrincipal>
+      <codigoAuxiliar>7861221975798</codigoAuxiliar>
+      <descripcion>LONCHERA FULL KUROMI</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>26.948000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>26.950000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>26.950000</baseImponible>
+          <valor>4.040000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MPT179875-NG</codigoPrincipal>
+      <codigoAuxiliar>7861221976443</codigoAuxiliar>
+      <descripcion>LAPICERA TRIPLE MOZIONI</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>17.383000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>17.380000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>17.380000</baseImponible>
+          <valor>2.610000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>KAC181423</codigoPrincipal>
+      <codigoAuxiliar>KAC181423</codigoAuxiliar>
+      <descripcion>BOLSO PROMOCIONAL</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.000000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.000000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>0.000000</baseImponible>
+          <valor>0.000000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>DPB180776-BG</codigoPrincipal>
+      <codigoAuxiliar>7861221987661</codigoAuxiliar>
+      <descripcion>LAPICERA MOZIONI LILO AND STITCH EXPANDIBLE</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>20.861000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>20.860000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>20.860000</baseImponible>
+          <valor>3.130000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>DME180109-MR</codigoPrincipal>
+      <codigoAuxiliar>7861221986404</codigoAuxiliar>
+      <descripcion>MOCHILA MOZIONI LILO AND STITCH</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>65.209000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>65.210000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>65.210000</baseImponible>
+          <valor>9.780000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MME180762-NG</codigoPrincipal>
+      <codigoAuxiliar>7861221985971</codigoAuxiliar>
+      <descripcion>MOCHILA MOZIONI TRIPLE COMPARTIMENTO CON BOLSILLO PARA LAPTOP INCLUYE LLAVERO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>60.861000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>60.860000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>60.860000</baseImponible>
+          <valor>9.130000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>DME178898-RS</codigoPrincipal>
+      <codigoAuxiliar>7861221986428</codigoAuxiliar>
+      <descripcion>MOCHILA MOZIONI HELLO KITTY AND FRIENDS TRIPLE COMPARTIMENTO CON BOLSILLO PARA LAPTOP INCLUYE LLAVERO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>78.252000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>78.250000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>78.250000</baseImponible>
+          <valor>11.730000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>KAC181422</codigoPrincipal>
+      <codigoAuxiliar>KAC181422</codigoAuxiliar>
+      <descripcion>BOLSO PROMOCIONAL</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.000100</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.000000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>0.000000</baseImponible>
+          <valor>0.000000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>KAC01113</codigoPrincipal>
+      <codigoAuxiliar>KAC01113</codigoAuxiliar>
+      <descripcion>FUNDA PLASTICA GRANDE MOZIONI</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>0.000000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.000000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>0.000000</baseImponible>
+          <valor>0.000000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MEG180672-NG</codigoPrincipal>
+      <codigoAuxiliar>7861221993105</codigoAuxiliar>
+      <descripcion>TERMO METALICO GRANDE MOZIONI</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>17.383000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>34.770000</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>34.770000</baseImponible>
+          <valor>5.220000</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">VILLA DEL REY</campoAdicional>
+    <campoAdicional nombre="Telefono">0963107183</campoAdicional>
+    <campoAdicional nombre="Email">juansalinas_v@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Fecha Vencimiento:">13/04/2026</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature343888">
+<ds:SignedInfo Id="Signature-SignedInfo214008">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID371614" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature343888-SignedProperties631736">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>QYl3YVgLU3k/f4Q9f4eGwaB8+hg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1435741">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>k39jxE8JyaIH6b1gVV4kIg2MWQ0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-292863" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>j+grfR+a7gWur70A2UCoiO0uXIo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue649542">
+OaNpDTYpE08+p64FP/9Je31uCueZXMVaXlwlS/tzNhBndJJUe8k+AcKA9TrYnbpNABBmlhcEsvRl
+g2l1xcO1JrjpUZNcRhACPVDC3l5iWUqYYyblYBJlMyQMKN8eS2P4kdUfxqf13WKV8mMP7ccMdoYC
+RsbfCVvHubTZ3Rtpe/ppDIjigcJbRzZ5BY0zxaxplvZREYxKDZV2cLq/dq6F5x2HTz80OOFlBUKj
+YZMX33k43b8/Sk4O+JPrYnpK66dTOplJkrzYVElifjpEsiD3Z3LZcatW1MKPfJZsgBN8WeUQeXok
+kTrrS0C+kZlP07KyAnJtTV3ckMAr1/SX6Jg6dA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1435741">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL8TCCCdmgAwIBAgIERczl1DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEwMDcyMjAwNTJaFw0yNzEwMDcyMjAwNTJaMIGcMSUw
+IwYDVQQDDBxKT1NFIE1JR1VFTCBQQUxBQ0lPUyBNT05DQVlPMRUwEwYDVQQFEwwwNzEwMjIxNzEw
+MzUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA7t/vuGlx9cVeR9aW7gh8rzsxbmmFJrKVMLo3421swQ0t8HM94RIBv49Z
+OJR7529AclBGmL+2uGYD8q5j3h32GXGVz8+MCrbgcU3nJufORMWrCz5m+6pYQhVAhhhP+byudxSd
+ish+gT/ui2ZPITb8oJRfg/+Suyl5xkudVbK/2BK2OQ9sxe92TC933MUkD6178LlFlVc9LNFNCun6
+X5TlItJlF1HNaY3Swjhz2Kv+kv83HqxYTdkqZr4aeBXhhLd1hC6C9lbEbYNKL/TUdaIuobnkQTW7
+inqNzg8EY+G1NTYOfHLS5x1z90rFMEP5+ibSJmiFBwWebhS3+cpNXe0hrQIDAQABo4IHOjCCBzYw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwKgYDVR0RBCMwIYEfbWlndWVsLnBhbGFjaW9zQGdydXBvcGFsbW9uLmNvbTCCARUGA1Ud
+IASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBj
+AGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYK
+KwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0
+LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9s
+aXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIIC
+mTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVi
+bGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJ
+BgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVj
+L0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1F
+TlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMu
+QS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBz
+Oi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93
+ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQ0FW+pzTmT
+FeKoVRuWenF15GoJmTArBgNVHRAEJDAigA8yMDIyMTAwNzIyMDA1MlqBDzIwMjcxMDA3MjIwMDUy
+WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGC
+pnIDAQQMDAowOTE0Nzk2NjUxMBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZy
+AyIEAwwBLjAeBgorBgEEAYKmcgMHBBAMDkFWIERFTCBCT01CRVJPMBsGCisGAQQBgqZyAwIEDQwL
+Sk9TRSBNSUdVRUwwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDAyNjU2NDIwEwYKKwYBBAGCpnID
+IQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwIUEFMQUNJ
+T1MwGwYKKwYBBAGCpnIDCgQNDAtWQU1PUkVUIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTI3NzYx
+ODgwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAXBgorBgEEAYKmcgMEBAkMB01PTkNBWU8wGgYKKwYB
+BAGCpnIDCAQMDAowOTk4OTA4ODg4MA0GCSqGSIb3DQEBCwUAA4ICAQB/glOQ4x0kBmEJ0VukwFNs
+5rl2GFxXxY2l4bstMEUPdF12o2Pwh/y4tSYcB3dynLc2bgRZRnFuGT1a0rcD0w2WrW8F88halRvw
+cols5uolLWQ8mjAFTSUKvNWfpwpmg6P0LQUOHiRIlrZyi7MVnbWAiHDu1pBJKJWY4/J+iwG6OzXs
+DztGZKS0KTOIaCkC8cTQggc9TdIlZh3uuNprnjmnnPoZYwVgPzWs9cWaF1mI98vnIJ2imUJEKYRH
+PUBSSB/rqK1qRmOI9AFrIZ03uyfI7t1DBoB9hh5DD3Q/reKp6Xl3/tJ8ZAC0qFS28HEPlEK/Hv47
+Sh92ptrfqaxTHgPHQnwBR12TupclsbI3Gj0cSdJd5g65TBTnvHOvRpN00Az3RYiXoQYiU4dRymFj
+KVRtNvs20MjVIewVqUPknG+mopxIDf/0BNtuO8RDMVjX9SVmmyYznuUqpqRbsiyhGuLtM161E5YL
+4dmgAovNg0gbdThd/GuGjqLxVcyF9A6ypOKv+iDnOlTX37bmZs23PXNWWMHDQiZM1ZodS7fMEH9W
+HJtUOkZj8n/v5iSfyNVgdUMhQtgNPSl6l8VK/dL+edaapj2Jpd6Dujlqf9RDhFqMfPIsTMnMwdMa
+IABaGswQ6srZKLj52xfOvgdQ40V0lw6vuP5fQz9PNtTAfF3EqL5i9g==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+7t/vuGlx9cVeR9aW7gh8rzsxbmmFJrKVMLo3421swQ0t8HM94RIBv49ZOJR7529AclBGmL+2uGYD
+8q5j3h32GXGVz8+MCrbgcU3nJufORMWrCz5m+6pYQhVAhhhP+byudxSdish+gT/ui2ZPITb8oJRf
+g/+Suyl5xkudVbK/2BK2OQ9sxe92TC933MUkD6178LlFlVc9LNFNCun6X5TlItJlF1HNaY3Swjhz
+2Kv+kv83HqxYTdkqZr4aeBXhhLd1hC6C9lbEbYNKL/TUdaIuobnkQTW7inqNzg8EY+G1NTYOfHLS
+5x1z90rFMEP5+ibSJmiFBwWebhS3+cpNXe0hrQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature343888-Object613105"><etsi:QualifyingProperties Target="#Signature343888"><etsi:SignedProperties Id="Signature343888-SignedProperties631736"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T21:14:03-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>F5taPmVFahlPlZ0UPfmGqEzTRRo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1171056084</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-292863"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

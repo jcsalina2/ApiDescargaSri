@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202601091571131100120030020001267180406198119</numeroAutorizacion>
+<fechaAutorizacion>2026-04-21T18:06:03-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>RODRIGUEZ QUIMIS KETTY JENNY</razonSocial>
+    <nombreComercial>RODRIGUEZ QUIMIS KETTY JENNY</nombreComercial>
+    <ruc>0915711311001</ruc>
+    <claveAcceso>2104202601091571131100120030020001267180406198119</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000126718</secuencial>
+    <dirMatriz>Calle 7 de octubre entre 9na y 10ma</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>21/04/2026</fechaEmision>
+    <dirEstablecimiento>Calle 7 de octubre entre 9na y 10ma</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <guiaRemision>001-001-000000000</guiaRemision>
+    <razonSocialComprador>MAURICIO CEDEÑO</razonSocialComprador>
+    <identificacionComprador>1204389850</identificacionComprador>
+    <totalSinImpuestos>26.09</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>26.08</baseImponible>
+        <valor>3.91</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>30.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>30.00</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>23VCH-017</codigoPrincipal>
+      <codigoAuxiliar>23VCH-017</codigoAuxiliar>
+      <descripcion>VINCHA 23VCH-017</descripcion>
+      <cantidad>12</cantidad>
+      <precioUnitario>0.376810</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.52</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Presentación" valor="UNID."></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.52</baseImponible>
+          <valor>0.68</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>24VCH-784</codigoPrincipal>
+      <codigoAuxiliar>24VCH-784</codigoAuxiliar>
+      <descripcion>24VCH-784 LIGAS EN CARTERITA</descripcion>
+      <cantidad>3</cantidad>
+      <precioUnitario>1.739130</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.22</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Presentación" valor="UNID."></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>5.22</baseImponible>
+          <valor>0.78</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>25VCH-591</codigoPrincipal>
+      <codigoAuxiliar>25VCH-591</codigoAuxiliar>
+      <descripcion>25VCH-591 PINCHOS X 60DC</descripcion>
+      <cantidad>12</cantidad>
+      <precioUnitario>0.536230</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.43</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Presentación" valor="UNID."></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.43</baseImponible>
+          <valor>0.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>8801038200026</codigoPrincipal>
+      <codigoAuxiliar>8801038200026</codigoAuxiliar>
+      <descripcion>GILLETTE DORCO PLANCHA BOLTO X 100 PLANCHAS</descripcion>
+      <cantidad>36</cantidad>
+      <precioUnitario>0.275360</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.91</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Presentación" valor="UNID."></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>9.91</baseImponible>
+          <valor>1.49</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">QUEVEDO</campoAdicional>
+    <campoAdicional nombre="Teléfono">.</campoAdicional>
+    <campoAdicional nombre="Email">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales1">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales2">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales3">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales4">AGENTE DE RETENCIÓN SEG. RESOL. 00001</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales5">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales6">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales7">..</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales8">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales9">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales10">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales11">.</campoAdicional>
+    <campoAdicional nombre="DatosAdicionales12">.</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature483369">
+<ds:SignedInfo Id="Signature-SignedInfo839984">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID465754" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature483369-SignedProperties704081">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>vWLyaJPNvjKjdHklFFX/wR7nyrc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1893025">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>vAzIqhF+vWfIIkMKhiDvuw0gkKY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-99644" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ZUF2WEvmSz6xi09TtyXop45nM0Y=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue47796">
+eQIFM5JkAAYgliQrugQ3Qtk+s+5mEKjldW++pyozKIyT3lffSywrrNQSDv46+9luAU7MyCPhA/pY
+1PMRxCA3s9N/suxOQ4hkxJZ2bhKPr5AzcnGY9t+Npsi/oDzYiwlbc9l6x6YzpDyVwao3yFGG4s1c
+tGPqwg5ZXXkS0zwTBXIsTgDHUKytWZ2pUo59FDA8F9MBjB8KMLDrlj7ineSSZSpcgNZ4XbaLHdSu
+Gwbh9z0qnUmAZfwtPPKqBe48WSzYQgBXDzJn9w3JtQTi0naTnLuM30igvldXdOSXzHJK6Y1Byw3t
+vnA5NpFOKG0dbH9tKld+f7aLJXD4EhDh9KU8dw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1893025">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMBDCCCeygAwIBAgIEdo41cTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMjExNjM4MjNaFw0yOTExMjExNjM4MjNaMIGnMSUw
+IwYDVQQDDBxLRVRUWSBKRU5OWSBST0RSSUdVRVogUVVJTUlTMSAwHgYDVQQFExcwOTE1NzExMzEx
+LTIxMTEyNDExNDgxOTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCv2+G9RR806uXlM7M3oBqZbgTe9SYieLAk7H+4bsj7
+g21vZCafs6aLpyGM3E/0Qqmemz7jv3TREk0UHn0MuigXhThYYr3mUHbd/yRWYIp2eKJi3oswYFuC
+KD8n34zGHjc0HeYUZLdsbw3YpKEH1B9Nddnpk5kdWamG30uzdFVovPqsEqfIlscOkjhF1CPh3ziy
+82RQtIHcLMjy+UfDfleN9h3siy59R0VWEOEggxrJwhkK14qxFbcnevpCnKuN3hZ6YVllyxW0+S3G
+ES7cB/u/mBYIhKI1dy73vhmO75hexhSs7RNtMgRX1oM19VdsCwCZtVDlYC+47z0hFvIl6a0NAgMB
+AAGjggdCMIIHPjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7
+hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2
+b2NhdGlvbkxpc3Q/YmFzZTAgBgNVHREEGTAXgRVvZmljaW5hQGtleXJvcS5jb20uZWMwggEGBgNV
+HSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMA
+YQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnIC
+ATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29u
+dGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUg
+Q2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9
+aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CB
+xKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0
+aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVy
+YWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlz
+dD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNF
+Q1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89
+U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUFtACqIjsJrrZxrcywhNHhFIdJCQw
+KwYDVR0QBCQwIoAPMjAyNDExMjExNjM4MjNagQ8yMDI5MTEyMTE2MzgyM1owCwYDVR0PBAQDAgXg
+MBoGCisGAQQBgqZyAwEEDAwKMDkxNTcxMTMxMTApBgorBgEEAYKmcgMJBBsMGU1JTEFHUk8gQ0FC
+RUNFUkEgQ0FOVE9OQUwwEQYKKwYBBAGCpnIDIgQDDAEuMEAGCisGAQQBgqZyAwcEMgwwR0FSQ0lB
+IE1PUkVOTyBTTiBZIE1JR1VFTCBWQUxWRVJERSBZIEVMT1kgQUxGQVJPMBsGCisGAQQBgqZyAwIE
+DQwLS0VUVFkgSkVOTlkwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDA2NzMzMDIwEQYKKwYBBAGC
+pnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAZ
+BgorBgEEAYKmcgMDBAsMCVJPRFJJR1VFWjAjBgorBgEEAYKmcgMeBBUME1RFQ05PTCBBRE0gRU1Q
+UkVTQVMwHQYKKwYBBAGCpnIDCwQPDA0wOTE1NzExMzExMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAW
+BgorBgEEAYKmcgMEBAgMBlFVSU1JUzAQBgorBgEEAYKmcgMIBAIMADANBgkqhkiG9w0BAQsFAAOC
+AgEAo9/MVO4AmsUKWA9BacUzHjFc+e1JErRs5iuHHM0Cl4KWcaC9r2LNdcjln61BSQwQXXCCVl/9
+YeliJMj5jSQfM68WUdy5Le6kHYGFMd+HJKJUnLkaaR9/U8mXW39IOT3RJ9+9/RFXup816MEpbbsV
+fOZPrv9+0fsHdR57bgAnVC6hlzItCCbOnTPOQMhITTi4/HYktFgcUwLokwP/+a2R6QRgu3l4c7yN
+3E4oeI+yawSoSOmBQoEuG0uaANyo9MzjVMevU/yBGopvtFattcyKFoy0Zqu0jFnnCiUIKkzbgLTU
+9NqToFX3XMrUrYsylm4Oif4pEc14nYmBEJ2j6GfeJJgU/KaJLanPR4OebBTe0CYzm33g+Rc9+0nR
+oTvoXYji916YxU+S08VkfPT2TxGwPE6lnqvpw0SVn/RWiP6Id20ZrD2xovpKaiMQctMVvQ9hX0W0
+LCmJFpRS1LxcLRvu5NfM/VNvmptjisWW6i9DNMekRRgj7Zdjr+PaaMrIovuDZBmoEBVHfZyNnr+D
+6sPM81irpqI+AJ5N5JzV2cVVW3enSlpirnqM5dyOeLtya6uvhnKKq9YmvaR03s6DBF5S33t/uzUr
+RJckPt1kY3E/+ma9QnKy6GB0YtjXmdvz7Xu+Vjq2ttzXacnR+IQ9LMUQHggQqrB1xhDX1Ji0rsXn
+Pd0=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+r9vhvUUfNOrl5TOzN6AamW4E3vUmIniwJOx/uG7I+4Ntb2Qmn7Omi6chjNxP9EKpnps+47900RJN
+FB59DLooF4U4WGK95lB23f8kVmCKdniiYt6LMGBbgig/J9+Mxh43NB3mFGS3bG8N2KShB9QfTXXZ
+6ZOZHVmpht9Ls3RVaLz6rBKnyJbHDpI4RdQj4d84svNkULSB3CzI8vlHw35XjfYd7IsufUdFVhDh
+IIMaycIZCteKsRW3J3r6Qpyrjd4WemFZZcsVtPktxhEu3Af7v5gWCISiNXcu974Zju+YXsYUrO0T
+bTIEV9aDNfVXbAsAmbVQ5WAvuO89IRbyJemtDQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature483369-Object339583"><etsi:QualifyingProperties Target="#Signature483369"><etsi:SignedProperties Id="Signature483369-SignedProperties704081"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-21T18:06:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>tvZxh76R24pdqlTSE4NTwUQAOuI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1989031281</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-99644"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

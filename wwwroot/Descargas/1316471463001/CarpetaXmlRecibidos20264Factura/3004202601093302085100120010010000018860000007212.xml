@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3004202601093302085100120010010000018860000007212</numeroAutorizacion>
+<fechaAutorizacion>2026-04-30T16:19:29-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>BRICEÑO PARRA FRANCO ROSNEL</razonSocial><nombreComercial>EL PAPA CEVICHE</nombreComercial><ruc>0933020851001</ruc><claveAcceso>3004202601093302085100120010010000018860000007212</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000001886</secuencial><dirMatriz>AV. LAS AGUAS #18 y AV. LAS AGUAS mz n 0170, FRENTE A MUEBLES EL BOSQUE</dirMatriz><contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe></infoTributaria><infoFactura><fechaEmision>30/04/2026</fechaEmision><dirEstablecimiento>AV. LAS AGUAS #18 y AV. LAS AGUAS mz n 0170, FRENTE A MUEBLES EL BOSQUE</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ZAMBRANO FIGUEROA JENIFFER NICOLLE</razonSocialComprador><identificacionComprador>1316471463001</identificacionComprador><direccionComprador> </direccionComprador><totalSinImpuestos>13.39</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>13.39</baseImponible><valor>2.01</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>15.40</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>15.40</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>5111</codigoPrincipal><descripcion>Pa`Dos</descripcion><cantidad>1</cantidad><precioUnitario>10.43</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>10.43</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>10.43</baseImponible><valor>1.57</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>15</codigoPrincipal><descripcion>Cola Personal</descripcion><cantidad>2</cantidad><precioUnitario>0.74</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.48</baseImponible><valor>0.22</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>6</codigoPrincipal><descripcion>Chifle</descripcion><cantidad>2</cantidad><precioUnitario>0.74</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.48</baseImponible><valor>0.22</valor></impuesto></impuestos></detalle></detalles><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature604031">
+<ds:SignedInfo Id="Signature-SignedInfo404177">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID730800" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature604031-SignedProperties269997">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>JlWBsAMOSVERQSMIfmre6zlfF9o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate336633">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>BdL7WKO1XU6gA8vnnG4KNH79z5U=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-768565" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>0Z709bA8QY6csSTVOsSLtLC1Rcw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue223054">
+Nmv4TQsXS+rh/cbtgLnhF3o9xscj92tRwA290tGJKFjchCep5DupSmVbqNtJfkxQBTfOz/JoEbH1
+DC/jTXja25WavyDgNQ5aoIXI0WuL+Zjp0AuIy39Tl5JiOrQrmBTor71lAbFQ/Ne/CHLDgD1vtFiK
+P2dPJwSZye2wVq5cPeo771QKnh7XhCapOnUZVWOzr4cXM2OOT+9PuzpPqfm4aKGlDkncYPjgWzAj
+4uM8OmhqMNkptLVbtnCBIDx7XK5ERZkPGN6uqLoAKuxJ/gWtjXpPyiDgOCSBICGII+OM6zNVlTMo
+fX8r+QMyPBtj+POCpknVSObc2J2cy/0fj5JOqg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate336633">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJKjCCBxKgAwIBAgIIQ6dN4yoirV4wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDgxODE3NDQwMFoXDTI2MDgxNzE3NDQwMFowgZ4xCzAJBgNVBAYTAkVDMRcwFQYDVQQEDA5C
+UklDRcORTyBQQVJSQTEWMBQGA1UEKgwNRlJBTkNPIFJPU05FTDEZMBcGA1UEBRMQSURDRUMtMDkz
+MzAyMDg1MTElMCMGA1UEAwwcRlJBTkNPIFJPU05FTCBCUklDRcORTyBQQVJSQTEcMBoGA1UEYQwT
+VElORUMtMDkzMzAyMDg1MTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALNRo28k
+Hl5aMkxOS5gtJrjrzA1uGLmF+2/rXtVLD4ar2u7gcRLRH6TR2F81VwUa+6rJBn4LDFD0SGw/HL7n
+WxyZd1NnWyxbRDdWs4JOiMoEQukBadpQBZqwR7zUQs5eoKjF9VKxXLWtKaBMWTCeZ40sGq4sYuJI
+I1fzGhEVKpHaS6PxGaT2Ey6N8Q9uimaOZw8FjQJPvNkrkjPtc8SLQ1dWWVl+9iW6S5O5CJX9PZNT
+/1Nc+1Wg/2lqAN2VIbyXzVRu++fBqNUleQ9uXhXAnfdkEhNOGEusyXYWBTrFDfsLUpdd7r/bxXs3
+ol6yrwaDFlHi6hqQDBsWqomw+UaCHyMCAwEAAaOCBE4wggRKMBsGCysGAQQBgvE2ZgMBBAwMCjA5
+MzMwMjA4NTEwHgYLKwYBBAGC8TZmAwsEDwwNMDkzMzAyMDg1MTAwMTCB1wYIKwYBBQUHAQEEgcow
+gccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90
+c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3Nw
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3Ay
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBQ6lPz22TbErg3j8e+q4C62
+k90E9TAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGZBgNV
+HSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5h
+dGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNFUlRJRklDQURPIERF
+IFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyG
+Omh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5j
+cmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJv
+cmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDCCAYQGA1UdEQSCAXswggF3gR5ub3RpZmljYWNpb25lc2Zpcm1hc0BzaWlnby5jb22gGwYLKwYB
+BAGC8TZmAwGgDAwKMDkzMzAyMDg1MaAeBgsrBgEEAYLxNmYDAqAPDA1GUkFOQ08gUk9TTkVMoBkG
+CysGAQQBgvE2ZgMDoAoMCEJSSUNFw5FPoBYGCysGAQQBgvE2ZgMEoAcMBVBBUlJBoC4GCysGAQQB
+gvE2ZgMHoB8MHVVSQkFOT1IgQ0FMTEUgQVYgTEFTIEFHVUFTIDE4oB8GCysGAQQBgvE2ZgMIoBAM
+DjAwNTkzOTY3ODUyMDA2oBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAeBgsrBgEEAYLxNmYD
+C6APDA0wOTMzMDIwODUxMDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoM
+GFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqG
+SIb3DQEBCwUAA4ICAQCnQDVXyn6EY6lD1qPgRoUU+0fcNGAV2/MyoSehG8EjFKAEA08IMgMiMYFp
+eoJifczHKzILjZrFy1F+UPRQWfGnnab7PgFbBxIodHQXEZqVV9j4JI9TBq8OQBEu2siibS8wc68Q
+z8L3o3RmNQ5KTmSf13VtY2oG9slnL6k9PXxb0C4QGrkyesrW5VQWX+s0a9juxoNebbX0P0Lusy+E
+qGbl5bC0KDIRyz9SX0HIXOyuaKxaC/Dl7mlGK8d8duayCzsWjXntGNZlmAEZHV1E/n1AbA7C6id6
+GSHlIVaWHNsLmEOuVjlxO+flIRu4VvpovqH7JEItgfZUMxnFnnAPjHvMDb0p7wy5qVwYl7l9g6VO
+jEEz/GaIe02hIWSaz0nk8/yzX371ZXKN/ZToghEm3zYJnAg3wzXv/xyphtDD7vgk6411nZQydATB
+pVIJKokf0AAEdAYsqykm+CGJakDnIzFaDI/Hpz1bnvLeNNoAxyCd1Bz42H2F1Cu7smV7b4iQZUCe
+8b1SZAoCnyJzIgia3JiNSNf74pis/MpWCErs2fPKDTq9wDHDKku0F7fInNPHuBOsI+xSC8AxYYhC
+/O6KW8TYA6Mp3BMmOBI+/BNWWX/kQCs/ypIz8l7oi6GVo2NcxAsQaQ0+gIPdyC2UMVNzUltCvysp
+DC5QWH5g8pu0q6Fy6g==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wrNRwqNvJB5eWjJMTkvCmC0mwrjDq8OMDW4YwrnChcO7b8OrXsOVSw/ChsKrw5rDrsOgcRLDkR/C
+pMORw5hfNVcFGsO7wqrDiQZ+CwxQw7RIbD8cwr7Dp1scwpl3U2dbLFtEN1bCs8KCTsKIw4oEQsOp
+AWnDmlAFwprCsEfCvMOUQsOOXsKgwqjDhcO1UsKxXMK1wq0pwqBMWTDCnmfCjSwawq4sYsOiSCNX
+w7MaERUqwpHDmkvCo8OxGcKkw7YTLsKNw7EPbsKKZsKOZw8Fwo0CT8K8w5krwpIzw61zw4TCi0NX
+VllZfsO2JcK6S8KTwrkIwpXDvT3Ck1PDv1Ncw7tVwqDDv2lqAMOdwpUhwrzCl8ONVG7Du8Onw4HC
+qMOVJXkPbl4Vw4DCncO3ZBITThhLwqzDiXYWBTrDhQ3DuwtSwpddw67Cv8Obw4V7N8KiXsKywq8G
+woMWUcOiw6oawpAMGxbCqsKJwrDDuUbCgh8j
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature604031-Object121004"><etsi:QualifyingProperties Target="#Signature604031"><etsi:SignedProperties Id="Signature604031-SignedProperties269997"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-30T16:19:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>0SudSr/iNZ5b1QmydtYT9lAgvRY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>4874950759711681886</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-768565"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

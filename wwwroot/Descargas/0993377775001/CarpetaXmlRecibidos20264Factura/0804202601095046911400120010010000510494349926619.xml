@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601095046911400120010010000510494349926619</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T13:24:50-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>ORTEGA MERO MARIA ANDREA</razonSocial>
+	    <nombreComercial>ORTEGA MERO MARIA</nombreComercial>
+	    <ruc>0950469114001</ruc>
+	    <claveAcceso>0804202601095046911400120010010000510494349926619</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000051049</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / 15 PASEO 19B NE SOLAR 02 MZ. 7</dirMatriz>
+		
+		
+			<agenteRetencion>8</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>08/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / 15 PASEO 19B NE SOLAR 02 MZ. 7</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>KAPICCHI S.A.S</razonSocialComprador>
+	    <identificacionComprador>0993377775001</identificacionComprador>
+		<direccionComprador>EDIFICIO BELLINI TORRE 2 PISO 606 PUERTO SANTA ANA</direccionComprador>
+	    
+	    <totalSinImpuestos>379.88000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>379.88</baseImponible>
+				<valor>56.98000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>436.86000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>436.86</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>AA-10651 ADVANCE</codigoPrincipal>
+		<codigoAuxiliar>AA-10651 ADVANCE</codigoAuxiliar>
+      	<descripcion>AA-10651 ADVANCE FILTRO DE MOTOR DONGFENG SX5</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>10.436000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.44</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>10.44000</baseImponible>
+          <valor>1.57</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>AC-4415 ADVANCE</codigoPrincipal>
+		<codigoAuxiliar>AC-4415 ADVANCE</codigoAuxiliar>
+      	<descripcion>AC-4415 ADVANCE FILTRO CABINA DFSK SX5</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>10.436000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.44</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>10.44000</baseImponible>
+          <valor>1.57</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0110N7096AA</codigoPrincipal>
+		<codigoAuxiliar>A0110N7096AA</codigoAuxiliar>
+      	<descripcion>AS568-110 ORING INYECTORES NBR BLACK AVEO</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>0.600000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.40</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.40000</baseImponible>
+          <valor>0.36</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>0242229630</codigoPrincipal>
+		<codigoAuxiliar>0242229630</codigoAuxiliar>
+      	<descripcion>BUJIA BOSCH FR8ME - TUCSON IX (09-13), SANTA FE 2.4 (09-12), SPORTAGE R(10..), CERATO KOUP 2.0 (10..), SORENTO 2.4 (09..), PEUGEOT 206 2.0 / 1.6 (01-07), 307 2.0 (02-05), 407 2.2 (04-05), X-TRAIL 2.5 (01-07), MURANO (04-08), PATHFINDER 3.5 (00-04), ALMERA 1.6, PATROL 4.8 (02-10)</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>5.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>20.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>20.00000</baseImponible>
+          <valor>3.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>AOE-9973 ADVANCE</codigoPrincipal>
+		<codigoAuxiliar>AOE-9973 ADVANCE</codigoAuxiliar>
+      	<descripcion>FILTRO DE ACEITE PEUGEOT 206, E44HD110 SIN GUIA, CITROEN C-ELYSEE O MAVETAXI GAS-DIES, JAC S7 2.0T 1109CL, FORD TERRITORY 1.5T</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.220000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.22</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>5.22000</baseImponible>
+          <valor>0.78</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>276799</codigoPrincipal>
+		<codigoAuxiliar>276799</codigoAuxiliar>
+      	<descripcion>HELADOS SUPER 118G</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.300000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.30</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.30000</baseImponible>
+          <valor>0.20</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>MD104978</codigoPrincipal>
+		<codigoAuxiliar>MD104978</codigoAuxiliar>
+      	<descripcion>JGO PASTILLA FRENO DLTA DFSK SX5</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>35.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>35.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>35.00000</baseImponible>
+          <valor>5.25</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SV0014</codigoPrincipal>
+		<codigoAuxiliar>SV0014</codigoAuxiliar>
+      	<descripcion>LIMPIEZA DE INYECTORES</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>27.600000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>27.60</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>27.60000</baseImponible>
+          <valor>4.14</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SV00136</codigoPrincipal>
+		<codigoAuxiliar>SV00136</codigoAuxiliar>
+      	<descripcion>LIMPIEZA Y CALIBRACION CUERPO ACELERACION</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>40.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>40.00000</baseImponible>
+          <valor>6.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SV00029</codigoPrincipal>
+		<codigoAuxiliar>SV00029</codigoAuxiliar>
+      	<descripcion>LIMPIEZA Y REGULACION FRENOS </descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>60.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>60.00000</baseImponible>
+          <valor>9.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SV000005</codigoPrincipal>
+		<codigoAuxiliar>SV000005</codigoAuxiliar>
+      	<descripcion>SERVICIO MECANICO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>90.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>90.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>90.00000</baseImponible>
+          <valor>13.50</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>ECU681047</codigoPrincipal>
+		<codigoAuxiliar>ECU681047</codigoAuxiliar>
+      	<descripcion>SPRAY FRENOS PYROIL PARTS CLNR  AERO 12/13 OZ</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>7.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.00000</baseImponible>
+          <valor>1.05</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PTAUTRH75800025</codigoPrincipal>
+		<codigoAuxiliar>PTAUTRH75800025</codigoAuxiliar>
+      	<descripcion>VALVOLINE H.P. GEAR OIL SAE 75W80 GL-5 LITRO</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>7.826000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>23.48</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>23.48000</baseImponible>
+          <valor>3.52</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PTAIPY000884544</codigoPrincipal>
+		<codigoAuxiliar>PTAIPY000884544</codigoAuxiliar>
+      	<descripcion>VALVOLINE PREMIUM PROTECTION GALON FULL SYNTHETIC 5W30 (5 LITROS)</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>40.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>40.00000</baseImponible>
+          <valor>6.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PTAIPY000602333</codigoPrincipal>
+		<codigoAuxiliar>PTAIPY000602333</codigoAuxiliar>
+      	<descripcion>VALVOLINE SPRAY DE CARBURADOR CARB&amp;THROTTLE BODY CLNR 13OZ</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>7.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.00000</baseImponible>
+          <valor>1.05</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">DFSK SX5</campoAdicional>
+    		
+    			<campoAdicional nombre="PLACA">GTJ-6861</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature859981">
+<ds:SignedInfo Id="Signature-SignedInfo521274">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID735464" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature859981-SignedProperties627198">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cGrP0QtjvLEJY4HCSzga/Q0WIno=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11691">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>BO67QWaYndDw0AySL8EkVoxGlt8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-825919" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>c4YpxOjRQcSI/HmeQqDvJbdOdaY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue949306">
+PdaqvcyrJCIMikj/7lw0bFgy7HHmrRIt/osvPz4+zQ7YPIBYJd+zhgiqLU5GFCuhli4eo2FIt+8f
+Lxu8N8jDCZpiiiC4pdru5OJZR4vEy7zujJKv4wa/ea0MbU5mDJQi9eeRIhr7zLEazZr+ps/AIUwa
+TCK6zsVu5g3snFpqI0WcFe60gN+JZTb7ZDnwsnsdaS/XixJdABTpls5z/oILLHDZ3uZusvnuU2Bc
+OgtIiPxwEevFR0M6gBo5PZ/9th2tAUcRkDxtYjmuEYrL20MhzhelbM38/k4TqFarSId3VizC6TWR
+keQV3vKOfVzs3qjHs8hk8ypnsIqHeMkSnwdZpA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11691">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJLjCCBxagAwIBAgIITsXMTHeiSGUwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTAyNDE3MDMwMFoXDTI3MTAyNDE3MDMwMFowgZYxCzAJBgNVBAYTAkVDMRQwEgYDVQQEDAtP
+UlRFR0EgTUVSTzEVMBMGA1UEKgwMTUFSSUEgQU5EUkVBMRkwFwYDVQQFExBJRENFQy0wOTUwNDY5
+MTE0MSEwHwYDVQQDDBhNQVJJQSBBTkRSRUEgT1JURUdBIE1FUk8xHDAaBgNVBGEME1RJTkVDLTA5
+NTA0NjkxMTQwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCKPKoyQcBqkEzqQ+24
+hmO7/CxNJpc0BHR57agwxB//kKn46WYJ08R31hcnHfJqOBro4sjDaVha0CSkXeux9Kz33eATlQ88
+ncO6w5FsVFhVp5r/4o12Lk3sFUXCjRl1BdnIqyioYBCa9h2oP2mkdO31oZQrpWCD2wwHLsi3bJnK
+Kbk8eBHi9AEOWb07zAtjbn7/5A/u65wQvpbh0+IgrvRAwI+iSrZCD2BbtsNHo+PSNiSdVuW/ak9R
+HmU3nFd8Y535CIruOeOnK6J8wHRgOhQF1wAInoWy7//0ig6ulF2YB3cddoWl7KSLIDQpRXc6ajsz
+yKxqMd5pnSOPON+3NvznAgMBAAGjggRaMIIEVjAbBgsrBgEEAYLxNmYDAQQMDAowOTUwNDY5MTE0
+MB4GCysGAQQBgvE2ZgMLBA8MDTA5NTA0NjkxMTQwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsG
+AQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRp
+ZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUH/NjrV+H8Lblo/IK487S7n5J/pIwDAYD
+VR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0gBIGRMIGO
+MIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29t
+L3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQRVJTT05B
+IE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8v
+Y3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8
+hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEu
+Y3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggGQBgNV
+HREEggGHMIIBg4EUbWVnYXRpcmVAb3V0bG9vay5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMDk1MDQ2
+OTExNKAdBgsrBgEEAYLxNmYDAqAODAxNQVJJQSBBTkRSRUGgFwYLKwYBBAGC8TZmAwOgCAwGT1JU
+RUdBoBUGCysGAQQBgvE2ZgMEoAYMBE1FUk+gSAYLKwYBBAGC8TZmAwegOQw3QVYgSVNJRFJPIEFZ
+T1JBIFkgSk9TRSBMVUlTIFRBTUFZTyBDRExBIEFMQk9OT1IgTVogNyBTMaAfBgsrBgEEAYLxNmYD
+CKAQDA4wMDU5Mzk2OTAwMjIyNKAaBgsrBgEEAYLxNmYDCaALDAlHVUFZQVFVSUygHgYLKwYBBAGC
+8TZmAwugDwwNMDk1MDQ2OTExNDAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYD
+MqAaDBhQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzAN
+BgkqhkiG9w0BAQsFAAOCAgEAYuJRsfoxP8zqI8/BhrLHzbW4NOsjrsLTXhpt1f6VozfgL9Kid24b
+Li5LGI6P7KNVqEyZFPcgY2Re4TeBFaA/3QrJADYWA4z9mQ7A65e7WfucPKQSnsGEFPJhV5JHBxQS
+FMcR/PhHw/wxKaPICRMz2x/RQz8pKQZsdHTgoUdhJzRwtIY8EDiD46/NcU0gvoEqYXpx4hrTMN/g
+ls+tr/rOOV6zCez5zvRkAJQtG538U8Q+KsJOWV6YwAaBia8q3tmcQGOJOqyGcZINS9K+nTGoKEr8
+xDA/dD2KOdNlEetb+yHesLlFBS9GmvF+yeFCj3LN1ZmgsVGKHG/PHFG1f7RM/QL75eKcmdr9ypyt
+4twWzjasmcwJJa6AUWI7Re5BG8ddzT417S1FAjkrmxZ2ACizp1DX6Wtp8rDAoNqNwlvEKWVDsaoA
+De20wG1X5EzvxZxZ1FRBvHh1gGBpnpbl26kAwr7/Yg3QJjWVRqtlGN0QKWYGRulm41JsKQl3/x19
+mMlbLo0S2g17Oa3YORcxipBjek6x2McE6YvGX9ZkIIXRqegPrRgbc8gCYzMWOXDt/My6ugXkNa79
+K2tLCIVjVDSZJb8FO9+UNV72UPmSBCm2f9kOInldrDb7m4DH6e/HvYTmx8r7XO+iB1G/Zc+aEYOR
+3JdKPu5QDzbZabg6MusPBVg=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ijyqMkHAapBM6kPtuIZju/wsTSaXNAR0ee2oMMQf/5Cp+OlmCdPEd9YXJx3yajga6OLIw2lYWtAk
+pF3rsfSs993gE5UPPJ3DusORbFRYVaea/+KNdi5N7BVFwo0ZdQXZyKsoqGAQmvYdqD9ppHTt9aGU
+K6Vgg9sMBy7It2yZyim5PHgR4vQBDlm9O8wLY25+/+QP7uucEL6W4dPiIK70QMCPokq2Qg9gW7bD
+R6Pj0jYknVblv2pPUR5lN5xXfGOd+QiK7jnjpyuifMB0YDoUBdcACJ6Fsu//9IoOrpRdmAd3HXaF
+peykiyA0KUV3Omo7M8isajHeaZ0jjzjftzb85w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature859981-Object120100"><etsi:QualifyingProperties Target="#Signature859981"><etsi:SignedProperties Id="Signature859981-SignedProperties627198"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-08T13:24:48-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>vnbMKkWqVuh+MAtIyhNhaNkGtj0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>5676167534167083109</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601179184765200120010010349588973495889710</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T06:53:57-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>SERVICIOS DE TELECOMUNICACIONES SETEL S.A.</razonSocial><nombreComercial>1791847652001</nombreComercial><ruc>1791847652001</ruc><claveAcceso>0104202601179184765200120010010349588973495889710</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>034958897</secuencial><dirMatriz>AV. ELOY ALFARO N44-406 Y DE LAS HIGUERAS EDIF. XTRIM TVCABLE</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>01/04/2026</fechaEmision><contribuyenteEspecial>1308</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>PATRICIO VILLEGAS</razonSocialComprador><identificacionComprador>0908962087</identificacionComprador><totalSinImpuestos>27.39</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>27.39</baseImponible><tarifa>15</tarifa><valor>4.11</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>31.50</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>31.50</total><plazo>10</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>939-0000008-500034</codigoPrincipal><descripcion>Servicio Internet - X-Plus (G)</descripcion><cantidad>1.00</cantidad><precioUnitario>27.390000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>27.39</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Desde" valor="0"/><detAdicional nombre="Hasta" valor="0"/><detAdicional nombre="Categoria" valor="INTERNET|(IVA)"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>27.39</baseImponible><valor>4.11</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="MarketInfo">DEFAULT_MK|DEFAULT_PU</campoAdicional><campoAdicional nombre="LinkInfo">VACIO|VACIO</campoAdicional><campoAdicional nombre="Mensajes">OTR|Descuentos solo aplican IVA</campoAdicional><campoAdicional nombre="CorreoInfo">28 de FEBRERO 2026 al 31 de MARZO 2026|01 de ABRIL 2026|10 de ABRIL 2026</campoAdicional><campoAdicional nombre="FormatoPriori">OTR|MAS|SI</campoAdicional><campoAdicional nombre="DatosExternos">OTR|Descuentos solo aplican IVA</campoAdicional><campoAdicional nombre="Correo">monicacastillocedeno@gmail.com</campoAdicional><campoAdicional nombre="PagueHasta">10/04/2026</campoAdicional><campoAdicional nombre="Convenio">0|0|0.00|0.00</campoAdicional><campoAdicional nombre="CobranzaInteres">0.00|0.00</campoAdicional><campoAdicional nombre="Direcciones">GUAYAS - GUAYAQUIL - VIA A LA COSTA - URBANO | MENORCA #V 8 Y N/C | MANZANA MZ 861</campoAdicional><campoAdicional nombre="GranContribuyente">Oficio Nro. NAC-GCFOIOC21-00000894-E</campoAdicional><campoAdicional nombre="DatosInternos">4780719|15757553|||0.00|0.00|31.50|28 FEB 2026|31 MAR 2026|01 ABR 2026|10 ABR 2026||||||SIN UTILIZACION DEL SISTEMA FINANCIERO|154669069|31.50</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature756417">
+<ds:SignedInfo Id="Signature-SignedInfo511116">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID379040" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature756417-SignedProperties352343">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>T880hB3Piu7a3iQBF7OJB4/AyVE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1360531">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>oNB+PyAPLzlN910eQOMpPyERHMM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-442805" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dzbolD1ATvvBe+kJn8PzB32up7A=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue36459">
+ALNUFLa7mIOdXlKTmz2EWQgfiroWCpvP644W0tMJS7Y7/FUg0ZU2wgY0N2+8JXOa14EuQFVw7Uv6
+3+W05UT9LceaZ1K/Xvj4/8/jwaCbAC5UFsWRIbi030RcEtxgqV7uI0lg//W7GEer0BB0ZeOQ6kmX
+FoEw3y7+RcHDYwdECxykhuWUMfnDJXJYp0Rn8/Dns4li16K0hAXhRsWCM+p6mBAn/W10aTm8Dc7g
+e07a/9mP0Bn6EhL1nCit8hGa4aIRFDEe2SJSjtXS1djd/ySWhK2M3M2vgHvCAU34JLYT/JTev5J/
+2k92xX+aJC6xTQjUZemCuGkYCnkCwvtTAbnTyA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1360531">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKMjCCCBqgAwIBAgIISZ2BmfEZcMYwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDcwMTIwNTcwMFoXDTI3MDcwMTIwNTcwMFowgfwxCzAJBgNVBAYTAkVDMTMwMQYDVQQKDCpT
+RVJWSUNJT1MgREUgVEVMRUNPTVVOSUNBQ0lPTkVTIFNFVEVMIFMuQS4xGTAXBgNVBAwMEENPTlRB
+RE9SIEdFTkVSQUwxHTAbBgNVBAQMFEZFUk5BTkRFWiBCRVRBTkNPVVJUMRcwFQYDVQQqDA5NQU5V
+RUwgQUxGT05TTzEZMBcGA1UEBRMQSURDRUMtMTcxMDMxNDMwMTEsMCoGA1UEAwwjTUFOVUVMIEFM
+Rk9OU08gRkVSTkFOREVaIEJFVEFOQ09VUlQxHDAaBgNVBGEME1ZBVEVDLTE3OTE4NDc2NTIwMDEw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCgNgS87DiUZfPYcqXY26P68xx3Ff8+19Uw
+iAPgLXzn/yzhLgiMNXmD/6QqZGPStKLHZySL+W1Ep6PV8VxGRm3z0l38Twx2rJCJ2RQ0XVFidh4v
+JfG99uIqUjfGrmBEqF2xCHaKEHvW+mDK666aknZN2IhLicYWNqCytti6raGQVBCLHh8Yhp+iXSaq
+9boPY10vl8qW1M8IP2+4cfDrSXrnmpxQ3rX2vGyNy3NVTnFX3+uYmcpxC6vVPPhnuRWc/quSAEhx
+ZkJfcoUMktDvogpjoIZnNGYe9tzw+XGeXzaAtdZNxc8CH38VKJ8LkChyEyrRl6aWtWqCg9GFZjCQ
+1ujnAgMBAAGjggT4MIIE9DAbBgsrBgEEAYLxNmYDAQQMDAoxNzEwMzE0MzAxMB4GCysGAQQBgvE2
+ZgMLBA8MDTE3OTE4NDc2NTIwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRw
+Oi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJv
+cmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1Ymxp
+Yy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9vY3NwLzAdBgNVHQ4EFgQU7w4e7QdWt/d0njofvs44/psDJMMwDAYDVR0TAQH/BAIwADAf
+BgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBsQYDVR0gBIGpMIGmMIGjBgwrBgEEAYLx
+NmYCAgEwgZIwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtp
+L2RwYy1lYy8wVwYIKwYBBQUHAgIwSwxJQ0VSVElGSUNBRE8gREUgTUlFTUJSTyBERSBFTVBSRVNB
+IE8gRU4gUkVMQUNJT04gREUgREVQRU5ERU5DSUEgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECg
+PqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5h
+ZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Ey
+c3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYB
+BQUHAwQwggIWBgNVHREEggINMIICCYEdbWFub2xvZmVybmFuZGV6NjhAaG90bWFpbC5jb22gGwYL
+KwYBBAGC8TZmAwGgDAwKMTcxMDMxNDMwMaAfBgsrBgEEAYLxNmYDAqAQDA5NQU5VRUwgQUxGT05T
+T6AaBgsrBgEEAYLxNmYDA6ALDAlGRVJOQU5ERVqgGwYLKwYBBAGC8TZmAwSgDAwKQkVUQU5DT1VS
+VKAhBgsrBgEEAYLxNmYDBaASDBBDT05UQURPUiBHRU5FUkFMoEcGCysGAQQBgvE2ZgMHoDgMNkJB
+UlJJTzogRUwgQkFUQU4gQ0FMTEU6IEFWLiBFTE9ZIEFMRkFSTyBOTUVSTzogTjQ0LTQwNqAfBgsr
+BgEEAYLxNmYDCKAQDA4wMDU5Mzk5OTIxMTY5MqAWBgsrBgEEAYLxNmYDCaAHDAVRVUlUT6A7Bgsr
+BgEEAYLxNmYDCqAsDCpTRVJWSUNJT1MgREUgVEVMRUNPTVVOSUNBQ0lPTkVTIFNFVEVMIFMuQS6g
+HgYLKwYBBAGC8TZmAwugDwwNMTc5MTg0NzY1MjAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6BABgsr
+BgEEAYLxNmYDMqAxDC9NSUVNQlJPIERFIEVNUFJFU0EgTyBFTiBSRUxBQ0lPTiBERSBERVBFTkRF
+TkNJQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQDGbP6Gu4Xi
+Iuiho4Tax234UNUTDBw0GYnD56owOSpdt2likArH9k7wykCRvBw96u0yyrUc7tbE5gFJLDhCF3AZ
+mC8gSUARE21awq1XMNHojaKqbWREIa1UELNqTmZ7Gw1Iy2rqwk/YLxfQEC7Pb8zyRRHfDrcI7nSr
++ApTTjxGeYz1dwVQNg6hiCf/45YUWmFoc+Zxx2c/XIFPgzqnNp05LMASOIhqrWNzj8OdG1NW7DCv
+boJui5Sjybny/c8XVkrTNIAJX3kHJLd5pIrrHHpo5mHOQXUy5sD2+rbGlhGy8MZeyVVMunKR/p2t
+9U99A/IWFQ57ewh30X0sxOjIxb6T2aVusKsRAz1TiENgGqM093mBAHamj3Mt2GeiKx+mllwOVMKg
+aG4IAVEEM9W5z+5AgCvJtnXdl58pFhIMXUpfMYwjvdb6l4mt0PCnjS4z5hxhdb2PqcSCxObt5TWK
+AtLItLpdQi0oq/IDct0ZUfwk0dFwL4wgHDJdgcHPojfQAlWqJ2B9Ysg6iDUZHb3IDcS+KWlsvG4d
+rOcVK809col1uLf+VmndI8Vjkuy85wd0ZuWd2K8Kw2d+FLyTgkpJNwAu/YmRO6bxiZ092tcgqpRE
+xXS/3rd0H6xUGuMDviwi8b14C2hghjIb25Eym1oz8xnpyA/K871UibOw+ioHXYFjhg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oDYEvOw4lGXz2HKl2Nuj+vMcdxX/PtfVMIgD4C185/8s4S4IjDV5g/+kKmRj0rSix2cki/ltRKej
+1fFcRkZt89Jd/E8MdqyQidkUNF1RYnYeLyXxvfbiKlI3xq5gRKhdsQh2ihB71vpgyuuumpJ2TdiI
+S4nGFjagsrbYuq2hkFQQix4fGIafol0mqvW6D2NdL5fKltTPCD9vuHHw60l655qcUN619rxsjctz
+VU5xV9/rmJnKcQur1Tz4Z7kVnP6rkgBIcWZCX3KFDJLQ76IKY6CGZzRmHvbc8Plxnl82gLXWTcXP
+Ah9/FSifC5AochMq0ZemlrVqgoPRhWYwkNbo5w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature756417-Object525786"><etsi:QualifyingProperties Target="#Signature756417"><etsi:SignedProperties Id="Signature756417-SignedProperties352343"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T06:51:18-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>nllUiUF49/TdiZTCc0CiEooMOLQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>5304538434287268038</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-442805"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

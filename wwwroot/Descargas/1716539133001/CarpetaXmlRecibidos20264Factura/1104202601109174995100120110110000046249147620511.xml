@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1104202601109174995100120110110000046249147620511</numeroAutorizacion>
+<fechaAutorizacion>2026-04-11T21:23:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>NITAVCORP S.A</razonSocial>
+<nombreComercial>NITAVCORP S.A - ASUMI</nombreComercial>
+<ruc>1091749951001</ruc>
+<claveAcceso>1104202601109174995100120110110000046249147620511</claveAcceso>
+<codDoc>01</codDoc>
+<estab>011</estab>
+<ptoEmi>011</ptoEmi>
+<secuencial>000004624</secuencial>
+<dirMatriz>CC ALTOS DEL CAYAMBE/PANAMERICANA NORTE SECUNDARIA VIA CAYAMBE OTAVALO KILOMETRO 1 1/2 SECTOR NAPOLES</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>11/04/2026</fechaEmision>
+<dirEstablecimiento>CC ALTOS DEL CAYAMBE/PANAMERICANA NORTE SECUNDARIA VIA CAYAMBE OTAVALO KILOMETRO 1 1/2 SECTOR NAPOLES</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<guiaRemision>011-011-000004624</guiaRemision>
+<razonSocialComprador>DAVID</razonSocialComprador>
+<identificacionComprador>1716539133</identificacionComprador>
+<direccionComprador>CAYAMBE</direccionComprador>
+<totalSinImpuestos>31.43</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<descuentoAdicional>0.00</descuentoAdicional>
+<baseImponible>31.43</baseImponible>
+<valor>4.71</valor>
+</totalImpuesto>
+</totalConImpuestos>
+
+<importeTotal>36.14</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago><formaPago>01</formaPago><total>36.14</total></pago>
+</pagos>
+</infoFactura><detalles>
+<detalle>
+<codigoPrincipal>JCN303</codigoPrincipal>
+<descripcion>PELU ASU-2025-28 GATO CON LUNA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>6.078260</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>6.08</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Detalle Adicional" valor="PELU ASU-2025-28 GATO CON LUNA"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>6.08</baseImponible>
+<valor>0.91</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>PPD857</codigoPrincipal>
+<descripcion>JUGUETE DINO SAURIO MGT-2026-803-2 MORDELON</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>3.469570</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>3.47</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Detalle Adicional" valor="JUGUETE DINO SAURIO MGT-2026-803-2 MORDELON"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>3.47</baseImponible>
+<valor>0.52</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>JCN298</codigoPrincipal>
+<descripcion>PELU ASU-2025-23 GATO LUCIFER ENOJADO</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>6.947830</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>6.95</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Detalle Adicional" valor="PELU ASU-2025-23 GATO LUCIFER ENOJADO"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>6.95</baseImponible>
+<valor>1.04</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>6973653642207</codigoPrincipal>
+<descripcion> ALLOY CAR SERIES TOP-SPEED</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>2.600000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>2.60</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Detalle Adicional" valor=" ALLOY CAR SERIES TOP-SPEED"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>2.60</baseImponible>
+<valor>0.39</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>6937118810051</codigoPrincipal>
+<descripcion>LIPGLOSS IMAN OF NOBLE MGT D-7</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>5.643480</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>5.64</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Detalle Adicional" valor="LIPGLOSS IMAN OF NOBLE MGT D-7"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>5.64</baseImponible>
+<valor>0.85</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>PBC148</codigoPrincipal>
+<descripcion>TOMATODO ARCOIRIS DISENOS LUZ LED</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>6.687500</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>6.69</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Detalle Adicional" valor="TOMATODO ARCOIRIS DISENOS LUZ LED"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>6.69</baseImponible>
+<valor>1.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Telefono">-</campoAdicional>
+<campoAdicional nombre="Email">-</campoAdicional>
+
+<campoAdicional nombre="Guia">00004624</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature23210">
+<ds:SignedInfo Id="Signature-SignedInfo14635">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID827624" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature23210-SignedProperties94654">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2YMr3HpZCzaWirV+6agWHQiAY7M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1131330">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>9I8+sSqkXwASR9yyWytTRaElzCk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-285843" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>tFupkQQecg0qLBgDcwl8y/TnyxI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue859996">
+TfVQ37joob6jOEwODaRafJTON9T3Qm1Wl8jCG1kdwlPgk1wzd0/1ePdG1rxP/LFVLeceLgswWvuN
+2SU6Kje6MHPT0Gg3l60bVL9/SwQJ97WznSZfprc0J7OYocDW/iUrH0dtrOBRlpGwZ2PA0sO0cV6u
+q+fDkqBq/VFVX8+pxdKfPii8C3l4U8mfzO1jGVPtV//W5HiWNSfF+CIRM3mTEIwR6f2STgkUyYcu
+p+C/0S8O6tVzGkdHBIyrVEQOtzApT5QZ/1O6HiIYGssMkxe7PxLNoBaSLXAGx7aQXp4+Wm6R+5AS
+JCn9EX6g/aJdMKQjjatKhUBbLmG0/C+DcJ2iCw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1131330">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMCDCCCfCgAwIBAgIEd3G/FjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA3MjYxNDUxNThaFw0yNzA3MjYxNDUxNThaMIGgMSkw
+JwYDVQQDDCBXSUxMSUFOIEZBQklBTiBBUkVRVUlQQSBWQUxFTkNJQTEVMBMGA1UEBRMMMjYwNzIz
+MTAwMTQyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAJMfIy7TWMJouseV4JFiMXlBMgIgjdRdKE6FM0o7yWGDshwGC6qM
+hBJOWl6fk0vionrLWEz1EzeXTgIyvYkXqlPKogUQKXvF6iAYGr76sbu4unfC0sygRc7pJTx3zjnI
+/Q+zrh8FIQ8lkayF+KZvEIeKDhplTVIVyiRaftid9egGfZ3ytHmDUT8yzXpmPiFPes3j9VPd1S+V
+2Wzq0hi+3T5Hw9xjBKr14iueVZ3x2roc1yAiXJhDqgmpl0OIxvOU8rKyL8VahQB8obs5QMhi/uot
+lFrvqwGQxOF6cs9VymxfrAsT2zE9KPOeythRDbp/7MgGrRfF6pnMll2DQIjJ78UCAwEAAaOCB00w
+ggdJMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYB
+BQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9u
+TGlzdD9iYXNlMB4GA1UdEQQXMBWBE25pdGF2Y29ycEBnbWFpbC5jb20wggEVBgNVHSAEggEMMIIB
+CDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAg
+AGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZy
+AgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1j
+b250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBk
+ZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHl
+oEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1F
+Qz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRh
+bC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9j
+ZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU9+fW94oqDCUqpPnavNfo
+C3lQIeIwKwYDVR0QBCQwIoAPMjAyMzA3MjYxNDUxNThagQ8yMDI3MDcyNjE0NTE1OFowCwYDVR0P
+BAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwK
+MTAwMzQxMDQzNjAWBgorBgEEAYKmcgMJBAgMBklCQVJSQTARBgorBgEEAYKmcgMiBAMMAS4wOgYK
+KwYBBAGCpnIDBwQsDCpTQU5DSEVaIFkgQ0lGVUVOVEVTIDE0IDg2IFkgWkVOT04gVklMTEFDSVMw
+HgYKKwYBBAGCpnIDAgQQDA5XSUxMSUFOIEZBQklBTjAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAw
+MDY1NzMzMzATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYK
+KwYBBAGCpnIDAwQKDAhBUkVRVUlQQTAdBgorBgEEAYKmcgMKBA8MDU5JVEFWQ09SUCBTIEEwHQYK
+KwYBBAGCpnIDCwQPDA0xMDkxNzQ5OTUxMDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wGAYKKwYBBAGC
+pnIDBAQKDAhWQUxFTkNJQTAaBgorBgEEAYKmcgMIBAwMCjA5ODM2MjYxNTMwDQYJKoZIhvcNAQEL
+BQADggIBAF/5BpoGverbAN2HkXXe4EEwJt6jxZvEZT4IZwysFlG/ZFT92HcF8XlOLaplG4MKImxd
+EVmDfQ2kOvUSQMQX4EXc2QTPNSt4Uqsd1qprogSo4bG/0hpoq7ySFnbTnXb6nokKlb0kTa9i59Eq
+oFPCUuUXG6RkvYX4n44QzeZ02jPFtbex+a+IgIY4IbuW5Oqrx67d36EtKd0JzxybenurVUFWSeor
+YUKsOHTRQEyc83shG7ncBJ2sXCG4UEsNdRkCqi2LI4WDf4q4gxyQ8jmtDGVrtY8r/WUH5h+xuV/K
+gvnmQWkN6dqPiEMSMgFTnoPShub/qU3rLHH3cePSqe4alC65InuaKobQT7DyfRNeJRq7TAlZ1yBm
+tB2P/mVywXLu/Bm2d15HO3aT86LoKXt0lfzwmytsK9vXr7KdU7z1n8VgA6nqdAWhwJzcZrHso1wN
+HonAeNb7hXG99TmCJDcYx5KeFM8rHRRBrO8l8ex5J1KSqINcevY+Ge5vnvktbJYRBim7FCPtaQ8p
+K7ZOJoJCtN40ZaPn+7WY47G6k34a1ljA189ARV9sAK21daQybQFQuIMKPr4fZpMmNpa6XSijHLv6
+MefH2VaRjnny3krqQfASWWLprxNHY4xdvFk6USUFjJuMnZy5m2gQYBrYUL7yV92cMBKw8Kdp2OI+
+QKNmWSOJ
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+kx8jLtNYwmi6x5XgkWIxeUEyAiCN1F0oToUzSjvJYYOyHAYLqoyEEk5aXp+TS+KiestYTPUTN5dO
+AjK9iReqU8qiBRApe8XqIBgavvqxu7i6d8LSzKBFzuklPHfOOcj9D7OuHwUhDyWRrIX4pm8Qh4oO
+GmVNUhXKJFp+2J316AZ9nfK0eYNRPzLNemY+IU96zeP1U93VL5XZbOrSGL7dPkfD3GMEqvXiK55V
+nfHauhzXICJcmEOqCamXQ4jG85TysrIvxVqFAHyhuzlAyGL+6i2UWu+rAZDE4Xpyz1XKbF+sCxPb
+MT0o857K2FENun/syAatF8XqmcyWXYNAiMnvxQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature23210-Object559338"><etsi:QualifyingProperties Target="#Signature23210"><etsi:SignedProperties Id="Signature23210-SignedProperties94654"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-11T21:23:18-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>BGQX/q+KLZHC2dO0qL8nirJQrK0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2003943190</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-285843"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

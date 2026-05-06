@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0404202601110396122100120010020000035450000000511</numeroAutorizacion>
+<fechaAutorizacion>2026-04-04T16:38:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ALEXANDRA TOA ORTEGA CARTUCHI</razonSocial>
+        <nombreComercial>SHAMUICO</nombreComercial>
+        <ruc>1103961221001</ruc>
+        <claveAcceso>0404202601110396122100120010020000035450000000511</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>002</ptoEmi>
+        <secuencial>000003545</secuencial>
+        <dirMatriz>10 DE MARZO SN Y JOSE MARIA VIVAR</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>04/04/2026</fechaEmision>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>MIGUEL JARA</razonSocialComprador>
+        <identificacionComprador>0923295786</identificacionComprador>
+        <direccionComprador>CUENCA</direccionComprador>
+        <totalSinImpuestos>65.22</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>8</codigoPorcentaje>
+                <baseImponible>65.22</baseImponible>
+                <valor>5.22</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>6.52</propina>
+        <importeTotal>76.96</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>76.96</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>1016</codigoPrincipal>
+            <codigoAuxiliar>22012</codigoAuxiliar>
+            <descripcion>MACARRONES BOLOGNESA</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>5.65</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>5.65</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>8</codigoPorcentaje>
+                    <tarifa>8</tarifa>
+                    <baseImponible>5.65</baseImponible>
+                    <valor>0.45</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1352</codigoPrincipal>
+            <descripcion>PLATANO CON MOLLEJAS</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>6.09</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>6.09</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>8</codigoPorcentaje>
+                    <tarifa>8</tarifa>
+                    <baseImponible>6.09</baseImponible>
+                    <valor>0.49</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1088</codigoPrincipal>
+            <descripcion>PROPUESTA DE TEMPORADA</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>31.30</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>31.30</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>8</codigoPorcentaje>
+                    <tarifa>8</tarifa>
+                    <baseImponible>31.30</baseImponible>
+                    <valor>2.50</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1390</codigoPrincipal>
+            <descripcion>MENU CASA FS</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>12.61</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>12.61</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>8</codigoPorcentaje>
+                    <tarifa>8</tarifa>
+                    <baseImponible>12.61</baseImponible>
+                    <valor>1.01</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1034</codigoPrincipal>
+            <descripcion>JUGO NATURAL</descripcion>
+            <cantidad>4.00</cantidad>
+            <precioUnitario>2.39</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>9.57</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+                <detAdicional nombre="garantia" valor="0"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>8</codigoPorcentaje>
+                    <tarifa>8</tarifa>
+                    <baseImponible>9.57</baseImponible>
+                    <valor>0.77</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="celular">0985860736</campoAdicional>
+        <campoAdicional nombre="correo">shamuicorestaurant@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature53753">
+<ds:SignedInfo Id="Signature-SignedInfo687338">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID379656" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature53753-SignedProperties255485">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>G8Ntmx7Rp4oYnQ3EiIE1FvMc278=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate172141">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>HLCKkPLIWo9Q7vCvjciQsvdCNOE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-349858" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>HFVGKN97dIlmzq7LhcQQVdBcmFw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue116082">
+A66yXjc95fSu0tPFYpMgqPamDwv8VDCS9M0krpFEXO5zCQ3F2ILDzIdju1nUGqz7SF2hhwPC9fsp
+ILl+PE3d9ZhouMxTQdNyYwC1seFlzHjBddqTpAmFKNLxRwUnBNQM3RedxzOd/OGUe5Qd0xf20x0E
+33RYET0CyCBXe61P/XeQ4Id8j7wdQNUBnACA3nVpTfls8oiEEAhozs3nyA2o7QSSkjTkxfZ2mSoX
++9F4jo16L0PB0R9xijw3HMkArxI1+qvqSVD/Kp4cH30PF6AwfsK/z/LxM54OqF0A05mKpjlKjAE8
+kZ+k5ol2D31c5rLxgP53tNKj3EkRMikr7lzIWQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate172141">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMADCCCeigAwIBAgIEf9Uz8zANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA4MTMyMjExMjdaFw0yNjA4MTMyMjExMjdaMIGoMSYw
+JAYDVQQDDB1BTEVYQU5EUkEgVE9BIE9SVEVHQSBDQVJUVUNISTEgMB4GA1UEBRMXMTEwMzk2MTIy
+MS0xMzA4MjQxNzIxMDQxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt//RLMG6RT+cjk0aRtoVRPjSvQidX4Hiof5oJePU
+rV8YCxRWagglKScS4RfSzzPR1tKH0U3lfoD6w3iZx+sn+s7u4f89a/x+u9JoArL66bPu7fOtjI0A
+zQAFFRWDfsHB3lJrHiIlId7O19wWHUwixgGKU8V5q7BwPH/BnzgoJvVe2UOTtO8vHFQ/XaWujTud
+/HzM4PfDNXn+Q+9PnRPqEiMXNUmbzPDFO8OUwGcscSD+2SRTYYTqJ34aPxpdK8uFDtwDpr3v8uLi
+FL8gXH1YdYel8FetvWyZR/r9vrSdIELlfbiju1z9Na9HLURIIiZkkzdfvGsYzFE3DiwDVuT3OwID
+AQABo4IHPTCCBzkwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29
+jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCB
+u4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJl
+dm9jYXRpb25MaXN0P2Jhc2UwJwYDVR0RBCAwHoEcc2hhbXVpY29yZXN0YXVyYW50QGdtYWlsLmNv
+bTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQA
+aQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgor
+BgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0
+aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUw
+geWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYT
+AkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFE
+IERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixD
+PUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9y
+dGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0
+L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSy17RjnTCBVNvc+2Jg
+unmu+i7bYzArBgNVHRAEJDAigA8yMDI0MDgxMzIyMTEyN1qBDzIwMjYwODEzMjIxMTI3WjALBgNV
+HQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxMTAzOTYxMjIxMCoGCisGAQQBgqZyAwkEHAwaU0FS
+QUdVUk8gQ0FCRUNFUkEgQ0FOVE9OQUwwEQYKKwYBBAGCpnIDIgQDDAEuMDEGCisGAQQBgqZyAwcE
+IwwhMTAgREUgTUFSWk8gU04gWSBKT1NFIE1BUklBIFZJVkFSMB0GCisGAQQBgqZyAwIEDwwNQUxF
+WEFORFJBIFRPQTAfBgorBgEEAYKmcgMgBBEMDzAxODAwMTAwMDAwMDI0MzARBgorBgEEAYKmcgMj
+BAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisG
+AQQBgqZyAwMECAwGT1JURUdBMBoGCisGAQQBgqZyAx4EDAwKQVJRVUlURUNUQTAdBgorBgEEAYKm
+cgMLBA8MDTExMDM5NjEyMjEwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBgGCisGAQQBgqZyAwQECgwI
+Q0FSVFVDSEkwGgYKKwYBBAGCpnIDCAQMDAowOTk5NjEwOTIzMA0GCSqGSIb3DQEBCwUAA4ICAQAl
+K66NZ+s0+7AeufMcMJh7b2YttkLhdVdnsZ8odK/GC6lRIxe+YYeyidTyU5r3kKfdFX9gtNm728WU
+//MT8t/FvpGh3E2Bc85XvUpJT5gPdfQ+s8bm+/+13y7xCn16IMPPcXVxzVqh64ZVkdb2zTgXe243
+YJ8SS2K/aM7V2nD180r/V5j0Br4Strfy97aAjkvx56UOzedng2F8gmzF9LIntArccgqYnl1jx/lB
+bOitr2w1bDiOqZQ7RoRLSVheWz4c0jWmslOH/COy7OL1o2s4kahcZd/xowrfTrs9HiIwMP1L+Z5l
+uETFS44AdM1dKdcqJUqSaBWztmpP8tl7yVEXVW0F/oWikYr5aB6Q5cbOZ4Ti6lJ+X+NtS1NCQlrd
+HIGuyb6RXvsNS2wI+G70NPXJQ79PUAIXmybP6xdIzu7627F/XVxkvEmHOCSFxcKKyavGab69Cz2U
+NYEf8uMH5HUGbB1IO32aWnvnNLiKwAsC1dxZFfVGxMqIDd6nq8YjblvtCjuAiPwWTMFxONrmr3Vc
+FfxR2kiLHqRGlEoYdw5uWbA15VQfC/TdIfJ1jXiXGz3cgjC/Cr6jdjWuSUTO92RIURjM8exjDrBv
+ZzXbSa+Alwd013O1NMPU2IHMw05jHl/lu6Hom+kA6gon/LqnD4L8ILKspBeLaENpPs4NOwyQrw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+t//RLMG6RT+cjk0aRtoVRPjSvQidX4Hiof5oJePUrV8YCxRWagglKScS4RfSzzPR1tKH0U3lfoD6
+w3iZx+sn+s7u4f89a/x+u9JoArL66bPu7fOtjI0AzQAFFRWDfsHB3lJrHiIlId7O19wWHUwixgGK
+U8V5q7BwPH/BnzgoJvVe2UOTtO8vHFQ/XaWujTud/HzM4PfDNXn+Q+9PnRPqEiMXNUmbzPDFO8OU
+wGcscSD+2SRTYYTqJ34aPxpdK8uFDtwDpr3v8uLiFL8gXH1YdYel8FetvWyZR/r9vrSdIELlfbij
+u1z9Na9HLURIIiZkkzdfvGsYzFE3DiwDVuT3Ow==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature53753-Object694212"><etsi:QualifyingProperties Target="#Signature53753"><etsi:SignedProperties Id="Signature53753-SignedProperties255485"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-04T16:38:29-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>RGsxdE/VOeNOWa1n4sjcVyIvtvY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2144678899</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-349858"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

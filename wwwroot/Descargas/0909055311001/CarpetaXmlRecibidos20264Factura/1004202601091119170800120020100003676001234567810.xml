@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1004202601091119170800120020100003676001234567810</numeroAutorizacion>
+<fechaAutorizacion>2026-04-10T15:07:00-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PINA ORTIZ FRANCISCO JAVIER</razonSocial>
+    <nombreComercial>IMPORTADORA DISTRIBUIDORA COMERCIAL PINA</nombreComercial>
+    <ruc>0911191708001</ruc>
+    <claveAcceso>1004202601091119170800120020100003676001234567810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>010</ptoEmi>
+    <secuencial>000367600</secuencial>
+    <dirMatriz>HUANCAVILCA 500 Y CORONEL</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>10/04/2026</fechaEmision>
+    <dirEstablecimiento>HUANCAVILCA 500 Y CORONEL</dirEstablecimiento>
+    <contribuyenteEspecial>338</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ALEMANIA LINO JAIME</razonSocialComprador>
+    <identificacionComprador>0909055311001</identificacionComprador>
+    <totalSinImpuestos>101.60</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>13.61</baseImponible>
+        <valor>2.04</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>87.99</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>103.64</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>103.64</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>7180</codigoPrincipal>
+      <codigoAuxiliar>7180</codigoAuxiliar>
+      <descripcion>HIDRAPLUS 75 CEREZA + ZINC X 4 SACHET</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>3.750000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>7.50</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>3366</codigoPrincipal>
+      <codigoAuxiliar>3366</codigoAuxiliar>
+      <descripcion>ORALYTE SOBRES X 10 FRESA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.350000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>5.35</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1166</codigoPrincipal>
+      <codigoAuxiliar>7804</codigoAuxiliar>
+      <descripcion>NOSOTRAS BASICAS TELA X 10</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>11.400000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>11.40</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>11.40</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>8073</codigoPrincipal>
+      <codigoAuxiliar>8073</codigoAuxiliar>
+      <descripcion>PREGABALINA 300MG X 30 CAPS. GENFAR</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.410000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.41</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>6.41</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>4350</codigoPrincipal>
+      <codigoAuxiliar>4350</codigoAuxiliar>
+      <descripcion>DIAREN TAB X 20</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.150000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.15</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>5.15</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>8598</codigoPrincipal>
+      <codigoAuxiliar>8598</codigoAuxiliar>
+      <descripcion>BONAGERMIN AMPOLLAS BEBIBLES X 10</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.260900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>6.26</baseImponible>
+          <valor>0.94</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>8597</codigoPrincipal>
+      <codigoAuxiliar>8597</codigoAuxiliar>
+      <descripcion>BONAGERMIN PLUS AMPOLLAS BEBIBLES X 5</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.260900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>6.26</baseImponible>
+          <valor>0.94</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>518</codigoPrincipal>
+      <codigoAuxiliar>4631</codigoAuxiliar>
+      <descripcion>DICLOFENACO GEL 1% TUBO 50GR GENFAR</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>2.730000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.19</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>8.19</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>591</codigoPrincipal>
+      <codigoAuxiliar>4663</codigoAuxiliar>
+      <descripcion>CLOTRIMAZOL CREMA TOPICA 40G GENFAR</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>1.050000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.15</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>3.15</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>176</codigoPrincipal>
+      <codigoAuxiliar>1102</codigoAuxiliar>
+      <descripcion>ENVASES DE ORINA BOHORQUEZ</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.087000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.09</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.09</baseImponible>
+          <valor>0.16</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>201</codigoPrincipal>
+      <codigoAuxiliar>1413</codigoAuxiliar>
+      <descripcion>SUERO B-DEX CON EQUIPO LIFE</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>3.500000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>7.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>9141</codigoPrincipal>
+      <codigoAuxiliar>9141</codigoAuxiliar>
+      <descripcion>TRAMADOL 50MG CAJA X 10 CAPSULAS GENFAR</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>1.180000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.54</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>3.54</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>6120</codigoPrincipal>
+      <codigoAuxiliar>6120</codigoAuxiliar>
+      <descripcion>PARALGEN JARABE 150MG/5ML 120ML JULPHARMA</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>2.900000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.80</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>5.80</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>9153</codigoPrincipal>
+      <codigoAuxiliar>9153</codigoAuxiliar>
+      <descripcion>DAMICOCYN (Levonorgestrel 1.5mg) x1</descripcion>
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>1.050000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>4.20</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>186</codigoPrincipal>
+      <codigoAuxiliar>1305</codigoAuxiliar>
+      <descripcion>ACI-TIP COMPR. MASTICABLES X 20</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>7.400000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.40</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>7.40</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>5403</codigoPrincipal>
+      <codigoAuxiliar>5403</codigoAuxiliar>
+      <descripcion>APYRAL JARABE 160MG/5ML/120ML ROCNARF</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>1.800000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.40</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>5.40</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>9588</codigoPrincipal>
+      <codigoAuxiliar>9588</codigoAuxiliar>
+      <descripcion>HIDRAPLUS 75 MANZANA + ZINC X 4 SACHET</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>3.750000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>7.50</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">LA DECIMA DE 2D SEDELANA</campoAdicional>
+    <campoAdicional nombre="Email">pharmavida598@gmail.com</campoAdicional>
+    <campoAdicional nombre="obs">ENVIO - TRANSPORTE   EN CARTON   TRASFERENCIA     CIUDAD: PLAYAS   COOPERATIVA POSORJA  NOMBRE : VALERIA TABOADA   CEDULA: 0957789340  TELEFONO: 098 9661094    NOMBRE :WENDY LINO   CEDULA :0925054264</campoAdicional>
+    <campoAdicional nombre="Guia de Remision">002-010-000022630</campoAdicional>
+    <campoAdicional nombre="Contribuyente">Regimen General</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-be963c44-30d1-4655-ab21-df08ce941e41"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-9d0dcfa2-3bf6-42bc-84cf-10e3c97753c9" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>OCI6M2rVge8DEXTmyUntHtcy1cDfhQHCJMWQw5mMQa4=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-be963c44-30d1-4655-ab21-df08ce941e41"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>/Yqki2qr0ezX7LBOvvtlf0qlK0NqfnLPpigiL6rWOYI=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-be963c44-30d1-4655-ab21-df08ce941e41"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>HvIUOy+a99J+JuqtEos4nVQsGVBf7fVzKT9a4C8z+0w=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-be963c44-30d1-4655-ab21-df08ce941e41">qr0zibKhk+qgrNX+Fr605DcKHHIky8ABUNSPwUTfiyTUCIn9SmUh9wmpGUnKjrWdeMg6TdSA2NYW2JvDv19AWKg6zlJ+bPXlY6RmUGZj+sv1Dxv1VAZ8f6sm4+Kv0XcIut2mFlImlbLxlgROb/BHICzdbOUZj741lFu5zQVGAmYBXAc3QM7WwMtbLNUNnBfb7pzVnHWuS9oNaNFS1ilzTfYOa/9R9P+W2SoXgNMagLgK4BSaxTK2Hj5HhpwUsx4Adw/+GRk0DthExKem6kwnMfNCXya3kHChfQJfjYdADJ/xfPK3XR9WAtP69MZl/wpIxXHsqUgqgAOGZFCFIQ3Dow==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-be963c44-30d1-4655-ab21-df08ce941e41"><ds:X509Data><ds:X509Certificate>MIILzzCCCbegAwIBAgIEWjc8EzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTA3MjAxMzE0NTZaFw0yNjA3MjAxMzE0NTZaMIGbMSQwIgYDVQQDDBtGUkFOQ0lTQ08gSkFWSUVSIFBJTkEgT1JUSVoxFTATBgNVBAUTDDIwMDcyMTA4MjQ1MTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC51nS4mwM4lJCEpRPd2fpZWi9dTKYK8gz0EXYsyIMRPbUqIs11hmXTu+1MOCsr6aAiKbcle3uFkRYAr8QB9eNO8xGeKWO9qC/gy/rqi/EqfMiDEiHPCCwE4NldyzSWAaFUfI5Jta/mZ7XZJfMN+B6t+sUETaE1cyD2d7R3+76ecvqwNSHEVLaCbMZf+Jc6cEHMebRM3k+tM/ZCTN/ugo4kDmSNdCdRcYjuniXK1uW4eA4Tz3JZJhZB1B4qSldSKQU+DbEehM7eJOLP8yAJT8pIIesSFBt4gLy8WNUTNIFt8HEWquLviwE4MMy0MnUWVmfggz/m7nqBfHb1dz7rm0uZAgMBAAGjggcZMIIHFTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTAlBgNVHREEHjAcgRpjb21lcmNpYWwucGluYUBob3RtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBR6mC7UgHu7tiTbmKd1oAhU+XdChzArBgNVHRAEJDAigA8yMDIxMDcyMDEzMTQ1NlqBDzIwMjYwNzIwMTMxNDU2WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowOTExMTkxNzA4MBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZyAyIEAwwBLjApBgorBgEEAYKmcgMHBBsMGUhVQU5DQVZJTENBIDUwMCBZIENPUk9ORUwwIAYKKwYBBAGCpnIDAgQSDBBGUkFOQ0lTQ08gSkFWSUVSMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwMTM0OTk5MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFAYKKwYBBAGCpnIDAwQGDARQSU5BMBEGCisGAQQBgqZyAx4EAwwBLjAdBgorBgEEAYKmcgMLBA8MDTA5MTExOTE3MDgwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBUGCisGAQQBgqZyAwQEBwwFT1JUSVowHAYKKwYBBAGCpnIDCAQODAw1OTM5OTgyMzY4ODYwDQYJKoZIhvcNAQELBQADggIBAHScgLZe8x+1TJ9U9bfQjLdsBAiMAJhiCfoCXlzdZs8nB0pUSSNDwYZ0mn/ccnMAv/ed+B96J8/iKSOLDC1annqH3wgtRo2ySYPCMEadqW8plJBkYVujePgX4Bf0AGXzlfBeSG3qb8LEaYM0ud16Wy0vVqbJHrKl+4PuMrEJL2kPJhMf5atKoI3meVhd7B+qSrr85VFmeRCKhKzeRUP0xHVvQyIxpAAxS8QwWAPSAlN6Io1FFgqKZCQjZS6Y/uR91t0mXr0g1sr1vlzA3fxm1CfKsfhyxXmcfsuIsgLAAU6PfwiJ9z/aaWs8jEHCmujH22xv2TuVr7/HYSKQQyoO2xrISBwv9pUqx6i6FvDYHuH3m66ipDGbmwBsuetL9CIxZvvUuXM0h/lcA2DsKICdPyoSW87Uk6X0vLLXk2L8IkR4toBjTVkLESy3Nyx/ffx1D+voVZ0bXTvXaRQ34FbptPM18rZfJ4MWD+Kxr59T8BVUIA5fOYPYyxrtWBxM/Ri7UV/mMo8tD6OJBLLITnmnHASaXiITP3MSkl8cSGq++xwpO3mlvAdKdFhVYvVNwkmGoWCNvvhXiekbcC46PcH3TJ+zxeJ9tH7qzvl7McECLLlqbX9CBkOZduU4cfvf/Dn2oaPWWCA9jXXQ1YZKsmjpAvTYVqIZLfSFExTfoWH7PLx3</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>udZ0uJsDOJSQhKUT3dn6WVovXUymCvIM9BF2LMiDET21KiLNdYZl07vtTDgrK+mgIim3JXt7hZEWAK/EAfXjTvMRniljvagv4Mv66ovxKnzIgxIhzwgsBODZXcs0lgGhVHyOSbWv5me12SXzDfgerfrFBE2hNXMg9ne0d/u+nnL6sDUhxFS2gmzGX/iXOnBBzHm0TN5PrTP2Qkzf7oKOJA5kjXQnUXGI7p4lytbluHgOE89yWSYWQdQeKkpXUikFPg2xHoTO3iTiz/MgCU/KSCHrEhQbeIC8vFjVEzSBbfBxFqri74sBODDMtDJ1FlZn4IM/5u56gXx29Xc+65tLmQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-7380a420-23c5-4d5b-9c69-e6ac7a77d9de"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-68050192-a33f-410e-b863-82cf751a2108" Target="#Signature-be963c44-30d1-4655-ab21-df08ce941e41"><xades:SignedProperties Id="SignedProperties-Signature-be963c44-30d1-4655-ab21-df08ce941e41"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-10T15:06:59-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>Sk65q9gLxBUcEEnu2ZxoYoAI3lNaNhZKOll7jr3onGE=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1513569299</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-9d0dcfa2-3bf6-42bc-84cf-10e3c97753c9"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

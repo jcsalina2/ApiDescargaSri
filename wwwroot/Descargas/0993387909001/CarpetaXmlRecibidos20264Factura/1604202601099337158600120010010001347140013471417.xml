@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1604202601099337158600120010010001347140013471417</numeroAutorizacion>
+<fechaAutorizacion>2026-04-16T09:27:06-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>LUBRIPERNOS S.A.</razonSocial>
+<nombreComercial>LUBRIPERNOS S.A.</nombreComercial>
+<ruc>0993371586001</ruc>
+<claveAcceso>1604202601099337158600120010010001347140013471417</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000134714</secuencial>
+<dirMatriz>GARCIA MORENO 1337 Y CLEMENTE BALLEN</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>16/04/2026</fechaEmision>
+<dirEstablecimiento>GARCIA MORENO 1337 Y CLEMENTE BALLEN</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>06</tipoIdentificacionComprador>
+<razonSocialComprador>ASTECNAVIND SA</razonSocialComprador>
+<identificacionComprador>0993387909001</identificacionComprador>
+<direccionComprador>GUASMO NORTE</direccionComprador>
+<totalSinImpuestos>50.30</totalSinImpuestos>
+<totalDescuento>7.52</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>50.30</baseImponible>
+<valor>7.55</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>57.85</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>57.85</total>
+ <plazo>0</plazo>
+ <unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>310105</codigoPrincipal>
+<codigoAuxiliar>310105</codigoAuxiliar>
+<descripcion>ANILLOS 3/8 PLANOS INOXIDABLE</descripcion>
+<cantidad>16.00000000</cantidad>
+<precioUnitario>0.070000</precioUnitario>
+<descuento>0.15</descuento>
+<precioTotalSinImpuesto>0.97</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>0.97</baseImponible>
+<valor>0.15</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>454882</codigoPrincipal>
+<codigoAuxiliar>454882</codigoAuxiliar>
+<descripcion>PINTURA SPRAY ORO 18K EVANS</descripcion>
+<cantidad>1.00000000</cantidad>
+<precioUnitario>3.640000</precioUnitario>
+<descuento>0.47</descuento>
+<precioTotalSinImpuesto>3.17</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>3.17</baseImponible>
+<valor>0.48</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>208104</codigoPrincipal>
+<codigoAuxiliar>208104</codigoAuxiliar>
+<descripcion>TUERCAS 1/2 ACERO HG G8</descripcion>
+<cantidad>16.00000000</cantidad>
+<precioUnitario>0.240000</precioUnitario>
+<descuento>0.50</descuento>
+<precioTotalSinImpuesto>3.34</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>3.34</baseImponible>
+<valor>0.50</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>211105</codigoPrincipal>
+<codigoAuxiliar>211105</codigoAuxiliar>
+<descripcion>TUERCAS 3/8 INOXIDABLE</descripcion>
+<cantidad>16.00000000</cantidad>
+<precioUnitario>0.100000</precioUnitario>
+<descuento>0.21</descuento>
+<precioTotalSinImpuesto>1.39</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>1.39</baseImponible>
+<valor>0.21</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>311128</codigoPrincipal>
+<codigoAuxiliar>311128</codigoAuxiliar>
+<descripcion>ANILLOS 1/2 PLANOS NACIONALES</descripcion>
+<cantidad>16.00000000</cantidad>
+<precioUnitario>0.070000</precioUnitario>
+<descuento>0.15</descuento>
+<precioTotalSinImpuesto>0.97</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>0.97</baseImponible>
+<valor>0.15</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>407105</codigoPrincipal>
+<codigoAuxiliar>407105</codigoAuxiliar>
+<descripcion>VARILLA 1/2 X 1METRO ASTM ROSCADA B7</descripcion>
+<cantidad>4.00000000</cantidad>
+<precioUnitario>6.000000</precioUnitario>
+<descuento>3.12</descuento>
+<precioTotalSinImpuesto>20.88</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>20.88</baseImponible>
+<valor>3.13</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>407106</codigoPrincipal>
+<codigoAuxiliar>407106</codigoAuxiliar>
+<descripcion>VARILLAS 3/8 LISA ACERO TRANSMISION X METRO</descripcion>
+<cantidad>2.50000000</cantidad>
+<precioUnitario>9.000000</precioUnitario>
+<descuento>2.93</descuento>
+<precioTotalSinImpuesto>19.58</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>19.58</baseImponible>
+<valor>2.94</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="mailcliente">CONTABILIDASASTECNAVINDGMAIL.COM</campoAdicional>
+<campoAdicional nombre="Observacion">.</campoAdicional>
+<campoAdicional nombre="Telefonos">0</campoAdicional>
+<campoAdicional nombre="Vendedor">JOSE MIGUEL</campoAdicional>
+<campoAdicional nombre="Bodega">001</campoAdicional>
+</infoAdicional>
+<ds:Signature Id="Signature915168" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo84351">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID305775" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature915168-SignedProperties390423">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>R1t/3d4aJLXHS/i7DxO3bMHUfr4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate188538">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pzRMjt2idIfpXAPxHX8f1F176D4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-189489" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yr+KZ1sg+HBMMiT3ZWB8S8iQYhc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue869654">
+MsqQFZGojvSz5RO4AOmXxjTXk3gcLP9DOkMPzsnBRwquDWCpZHM3xiJ6fqy1kocGdNgb7uohjDl7
+4koiZpSH12N65fpQDQlhjSH+RADQ0mcnDEEAY0EMlxIXOjBbF/EnOYdUjaFG3iYhWs+YOjGGu9Wv
+vk96pCKL73HUcYWWutdf+nx3A2NsEKr5AAFO8OsqjW5NeyEZrwEOKr7xBq0W4+IAvhTddwT1xFLw
+xY8MRfft2Ouy6d+klx8VZsMZCBnKmHb3dJLc82KMAsX4t642yFZAaYBP1sI1s+sYEgT9i6/gScus
+Qku9PFo/49QTMElsjMvfLCRjMuqJJoU0jzHRgg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate188538">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJujCCB6KgAwIBAgIIX5A7dI9Jd5YwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDgyMjE1NDEwMFoXDTI2MDgyMjE1NDEwMFowgc0xCzAJBgNVBAYTAkVDMRkwFwYDVQQKDBBM
+VUJSSVBFUk5PUyBTLkEuMRgwFgYDVQQMDA9HRVJFTlRFIEdFTkVSQUwxFjAUBgNVBAQMDVNBTlRP
+UyBaSElHVUUxFDASBgNVBCoMC0pPSE4gREFOSUVMMRkwFwYDVQQFExBJRENFQy0wOTE0NjAzMjYx
+MSIwIAYDVQQDDBlKT0hOIERBTklFTCBTQU5UT1MgWkhJR1VFMRwwGgYDVQRhDBNWQVRFQy0wOTkz
+MzcxNTg2MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsrbwTAx4sjowdBYEjm+9
+lWP6GCfdiUxVM386FsExrS2g6qMRZ/z+Oovm0ddkx3RsBkghCJsdQBHfn47xsgtaaAPan+ox/ven
+3srfjKbr+RvoIcYF+FuU+bal242P2jxjASyaPL6jNpVUUnr5glnJ+l+Y6Egg4+H/aDfGFR4PfUwf
+MvoYAcgAL8eanjrxuI+Al5qfS8su8f7wGPBa9znk/cEGb5pWaqWslxxwSC6ckmiCb3Z1LH5dK7RS
+rE6TDc/jzOvzbndc3fDYt8FxT3iKazKANwHXw8SEONVjAxAzEfOZzfZDexPOvr2x6NVF54iqTMmj
+92ha0xIZvnfGZ5e7/QIDAQABo4IErzCCBKswGwYLKwYBBAGC8TZmAwEEDAwKMDkxNDYwMzI2MTAe
+BgsrBgEEAYLxNmYDCwQPDA0wOTkzMzcxNTg2MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEF
+BQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZp
+Y2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2Eu
+Y29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFMak0rqcZOS4GEJgUVgdYtlRz+jlMAwGA1Ud
+EwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgY4GA1UdIASBhjCBgzCB
+gAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVTRU5U
+QU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwy
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/
+BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAfAGA1UdEQSCAecwggHjgRpq
+ZGF2aWxhLmdlcmVuY2lhQGdtYWlsLmNvbaAbBgsrBgEEAYLxNmYDAaAMDAowOTE0NjAzMjYxoBwG
+CysGAQQBgvE2ZgMCoA0MC0pPSE4gREFOSUVMoBcGCysGAQQBgvE2ZgMDoAgMBlNBTlRPU6AXBgsr
+BgEEAYLxNmYDBKAIDAZaSElHVUWgIAYLKwYBBAGC8TZmAwWgEQwPR0VSRU5URSBHRU5FUkFMoGEG
+CysGAQQBgvE2ZgMHoFIMUENBTExFOiBHQVJDSUEgTU9SRU5PIE5NRVJPOiAxMzM3IElOVEVSU0VD
+Q0lOOiBDTEVNRU5URSBCQUxMRU4gRURJRklDSU86IEVESUZJQ0lPoB8GCysGAQQBgvE2ZgMIoBAM
+DjAwNTkzOTg5MjU3MTc0oBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAhBgsrBgEEAYLxNmYD
+CqASDBBMVUJSSVBFUk5PUyBTLkEuoB4GCysGAQQBgvE2ZgMLoA8MDTA5OTMzNzE1ODYwMDGgEwYL
+KwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAY
+BgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQB65UfBNARF2TNW1YNP
+r5jk0uN502i1UL0iqGXZi1uGoix0iiPlMKQ5iQ3asWcf0cl/kGcLwTQV7irHZGIbhXWN91xNaoV0
+TbAKZQvEALy+jvXAoqw40zMnrYKOPc/aNrlkL6siz8BUTC1dAViTgWvDr/E80glQKAmJYGBc1iOd
+OEQ/rAk6cf8u92ihCLXkF4KzCFnBVtMJNUcOfby0du4rnw2+5XTrMjZoxue4D71iZzeCuss8CMsl
+DjMGX2dyJsNmRyPnh6dExf7h39ZqjG16SVWBeTnCSh5YnMINcg76j37YPODVvXK/1wNg4C7fAd6z
+byFm72sSi9/kTlqvmoFfiBJVi/1/6UPcS9WU3/HhabQh4fQ1cmGC50uSm9qMef79aCxzc5J3Ac3C
+By995S9DwU6WFm40sI7xkLV0fo4ldEy5cRJgGZZMAz7GdvZUd59biy6fwI5kIA2uSa7dpcqEKSAa
+PBVR5P1rodNcpfDgTT3hF3JI18c7l3us/81nurPDu5m+DnaVKzcxeJiHwYUOHRXACcxhSGpR2Za5
+9G9wz/wKayFkkTHoA5kIT1wrMhQwSMNUgStbAAUKRvZ1kXBf63sGrhNOCaxX/14tsXrkTuQxCwLk
+Xtt6w+F30tyI+ijVWoUd0CRid80U0P9InaeLd6gfMB/XArCECB8P5kCf5Q==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+srbwTAx4sjowdBYEjm+9lWP6GCfdiUxVM386FsExrS2g6qMRZ/z+Oovm0ddkx3RsBkghCJsdQBHf
+n47xsgtaaAPan+ox/ven3srfjKbr+RvoIcYF+FuU+bal242P2jxjASyaPL6jNpVUUnr5glnJ+l+Y
+6Egg4+H/aDfGFR4PfUwfMvoYAcgAL8eanjrxuI+Al5qfS8su8f7wGPBa9znk/cEGb5pWaqWslxxw
+SC6ckmiCb3Z1LH5dK7RSrE6TDc/jzOvzbndc3fDYt8FxT3iKazKANwHXw8SEONVjAxAzEfOZzfZD
+exPOvr2x6NVF54iqTMmj92ha0xIZvnfGZ5e7/Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature915168-Object929757"><etsi:QualifyingProperties Target="#Signature915168"><etsi:SignedProperties Id="Signature915168-SignedProperties390423"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-16T09:27:04-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>bFk1ih1haUGK0lGLdzi4uUgLXks=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>6886069202055690134</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-189489"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

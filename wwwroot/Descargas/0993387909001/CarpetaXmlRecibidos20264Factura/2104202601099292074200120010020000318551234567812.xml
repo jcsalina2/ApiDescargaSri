@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202601099292074200120010020000318551234567812</numeroAutorizacion>
+<fechaAutorizacion>2026-04-21T10:29:23-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ACERO, METALES Y HERRAMIENTAS STHAL DEL ECUADOR STHALMEAC S.A.</razonSocial>
+    <nombreComercial>ACERO, METALES Y HERRAMIENTAS STHAL DEL ECUADOR STHALMEAC S.A.</nombreComercial>
+    <ruc>0992920742001</ruc>
+    <claveAcceso>2104202601099292074200120010020000318551234567812</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000031855</secuencial>
+    <dirMatriz>ELOY ALFARO Y LETAMENDI</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>21/04/2026</fechaEmision>
+    <dirEstablecimiento>ELOY ALFARO Y LETAMENDI</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ASTECNAVIND S.A.S.</razonSocialComprador>
+    <identificacionComprador>0993387909001</identificacionComprador>
+    <totalSinImpuestos>37.36</totalSinImpuestos>
+    <totalDescuento>7.87</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>37.36</baseImponible>
+        <valor>5.60</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <importeTotal>42.96</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>42.96</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1018TR009</codigoPrincipal>
+      <descripcion>TRANSMISION SAE 1018 REDONDO DE 1"</descripcion>
+      <cantidad>5.6000</cantidad>
+      <precioUnitario>2.65</precioUnitario>
+      <descuento>2.67</descuento>
+      <precioTotalSinImpuesto>12.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>12.17</baseImponible>
+          <valor>1.83</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1018TR019</codigoPrincipal>
+      <descripcion>TRANSMISION SAE 1018 REDONDO DE 3"</descripcion>
+      <cantidad>10.9000</cantidad>
+      <precioUnitario>2.65</precioUnitario>
+      <descuento>5.20</descuento>
+      <precioTotalSinImpuesto>23.68</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>23.68</baseImponible>
+          <valor>3.55</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MO001</codigoPrincipal>
+      <descripcion>MANO DE OBRA</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>1.5</precioUnitario>
+      <descuento>0.0</descuento>
+      <precioTotalSinImpuesto>1.5</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.5</baseImponible>
+          <valor>0.22</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">contabilidadastecnavid@gmail.com</campoAdicional>
+    <campoAdicional nombre="Direccion">35 ENTRE VACAS GALINDO Y EL ORO</campoAdicional>
+    <campoAdicional nombre="Telefono">0996778063</campoAdicional>
+    <campoAdicional nombre="Forma de Pago">CONTADO</campoAdicional>
+    <campoAdicional nombre="Fecha Vence">21/04/2026</campoAdicional>
+    <campoAdicional nombre="Orden Compra">0</campoAdicional>
+    <campoAdicional nombre="Observacion">.</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1036334">
+<ds:SignedInfo Id="Signature-SignedInfo155369">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID349516" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1036334-SignedProperties548574">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Xl0HJdvy4phYyyvAEQLjrsyyaRo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1227516">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ugDpC8G+7nuIywkMWP4RPVrsNig=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-33800" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hJU1G98tc8fTXmBkHcKtcF4WoFU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue574916">
+LPjaesywNzKeyBvegI786wFgwqzomgcmVysVKpiZUx2dXrqvs3+j6ySAu77KXHYzl4WJtbIwG+cs
+dPgpZWdI0DtxFrNMSKlQVZyICyxWwr64O4I0+ofHFKZDMlRnQajS90jc+yQhfcpTayG+YwZSdoXD
+9nV90nYIeg1++dM1mEeJx+h4lT0Bx+aEtjmJ+zf2Jy6pMKeYH+G6+MR+qisrmgfxn7vdPMpR5iZ8
+Styf5bsHjv6LodlF3kAwEoRwsPTF5FFaO6vBQmzk6VPMOyhkNOtQ4sfD8KP4u/dAY+31XD5hOkvX
+qCrhHujbD21QdFaoKULkv62RWYfk4I9BQhBNhA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1227516">
+<ds:X509Data>
+<ds:X509Certificate>
+MIII5TCCB82gAwIBAgIFAMIBa+gwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI1
+MDcwMTE2MzUzOVoXDTI2MDcwMTE2MzUzOVowgZ8xCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEpMCcGA1UEAwwg
+WEFWSUVSIEVEVUFSRE8gTUFFU1RSRSBDQVNJTkVMTEkxKDAmBgkqhkiG9w0BCQEWGWNocmlzdGlh
+bnhzb3RvcEBnbWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCqKzWydQuU
+VzAxZUNgfGTVnGDu9siPbDBWF9htM94cPKqBoK3/otet19+EREPlvv8y610J6CzwEAwfKVofVxuS
+a2dGHzHzrF0qfh0x/RuVyywG0N1czensa2luFm7U7DFpDjcAoeSvoWoiDIeip40C5c4OeOF/JF6Z
+Y61o60AEpIxuo6cU8q/XzwBEcVYZzfgS1aUI3MucckcVlYiX9/IMo8TFIBv8CKh/EeLPsWqAYBBy
+Sg+eegiES3M5LmWmOUz/S+8ckDtK3AozoETm9eVEaQlxQjRqlUG4RKzzwWfpHcHC6SM0C4s5I4T8
+733cV9zmZz8P1zR0XlYUeAH0quddAgMBAAGjggV9MIIFeTAaBgorBgEEAYPPdgMBBAwMCjA5MTM5
+MzQ4MjQwHgYKKwYBBAGDz3YDAgQQDA5YQVZJRVIgRURVQVJETzAXBgorBgEEAYPPdgMDBAkMB01B
+RVNUUkUwGQYKKwYBBAGDz3YDBAQLDAlDQVNJTkVMTEkwHwYKKwYBBAGDz3YDBQQRDA9HRVJFTlRF
+IEdFTkVSQUwwNwYKKwYBBAGDz3YDBwQpDCdFTE9ZIEFMRkFSTyAxNDEzIFkgTEVUQU1FTkRJIDE0
+MTMgWSBTL04wGgYKKwYBBAGDz3YDCAQMDAowOTYwNDQ4NTMyMBkGCisGAQQBg892AwkECwwJR1VB
+WUFRVUlMMBIGCisGAQQBg892AwwEBAwCRUMwHQYKKwYBBAGDz3YDCwQPDA0wOTkyOTIwNzQyMDAx
+ME4GCisGAQQBg892AwoEQAw+QUNFUk8sIE1FVEFMRVMgWSBIRVJSQU1JRU5UQVMgU1RIQUwgREVM
+IEVDVUFET1IgU1RIQUxNRUFDIFMuQS4wDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQU9vMJ7/cKHlgJ
+IJ2Yz3HeSKVmRVUwHwYDVR0jBBgwFoAU7XZIsArxyYaGDExGZNIG+MzVvT4wDgYDVR0PAQH/BAQD
+AgXgMDoGA1UdHwQzMDEwL6AtoCuGKWh0dHA6L2VuZXh0Mi54eXovTGF6emF0ZUNBMi9lbWlzb3JD
+QTIuY3JsMIIBhAYDVR0gBIIBezCCAXcwfAYKKwYBBAGDz3YCAjBuMGwGCCsGAQUFBwICMGAaXkVs
+IHByZXNlbnRlIGNlcnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2Fz
+IGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wgfYGCSsGAQQBg892AjCB6DBsBggr
+BgEFBQcCAjBgGl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBs
+YXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMHgGCCsGAQUF
+BwICMGwaakVsIHByZXNlbnRlIGNlcnRpZmljYWRvIHN1Ym9yZGluYWRvIGVzIGVtaXRpZG8gZW4g
+YmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4w
+ggGRBgNVHREEggGIMIIBhKAaBgorBgEEAYPPdgMBoAwMCjA5MTM5MzQ4MjSgHgYKKwYBBAGDz3YD
+AqAQDA5YQVZJRVIgRURVQVJET6AXBgorBgEEAYPPdgMDoAkMB01BRVNUUkWgGQYKKwYBBAGDz3YD
+BKALDAlDQVNJTkVMTEmgHwYKKwYBBAGDz3YDBaARDA9HRVJFTlRFIEdFTkVSQUygNwYKKwYBBAGD
+z3YDB6ApDCdFTE9ZIEFMRkFSTyAxNDEzIFkgTEVUQU1FTkRJIDE0MTMgWSBTL06gGgYKKwYBBAGD
+z3YDCKAMDAowOTYwNDQ4NTMyoBkGCisGAQQBg892AwmgCwwJR1VBWUFRVUlMoBIGCisGAQQBg892
+AwygBAwCRUOgHQYKKwYBBAGDz3YDC6APDA0wOTkyOTIwNzQyMDAxoE4GCisGAQQBg892AwqgQAw+
+QUNFUk8sIE1FVEFMRVMgWSBIRVJSQU1JRU5UQVMgU1RIQUwgREVMIEVDVUFET1IgU1RIQUxNRUFD
+IFMuQS4wPAYIKwYBBQUHAQEEMDAuMCwGCCsGAQUFBzABhiBodHRwOi8vZW5leHQyLnh5ejo4Nzc3
+L2Fkc3Mvb2NzcDANBgkqhkiG9w0BAQsFAAOCAQEAHbVX6EDFyji9fA23xrMjKkmgmjwt1PTUX4sv
+47b3NAN9H0gLH6mUTXBWcWzqUl9wCU8b/cghciCuiLV7j+v3CzbYuRXURjBbDacuvl4RaBhVtuLq
+TIUwYOGLJ717/pALy6/hp4zp3kfAW0//ephNVfhINoM200dksu/OwljP6XOGO5jhsmAmWM214x5/
+wpl1Xq4/HlfA75PN/NbWJ3dtfa4mW0slE5GyxAOkvTqDQ3gq067CQhh+KgM4xNdTwsMZFYxFuxUS
+6QtrQF24HISTG9OjTDa9pwRqu9e7SuwTV6cVST52zfuaBeqX7DtMSOOLSiCpOhSyHyDnpW1IN9Rr
+3Q==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qis1snULlFcwMWVDYHxk1Zxg7vbIj2wwVhfYbTPeHDyqgaCt/6LXrdffhERD5b7/MutdCegs8BAM
+HylaH1cbkmtnRh8x86xdKn4dMf0blcssBtDdXM3p7GtpbhZu1OwxaQ43AKHkr6FqIgyHoqeNAuXO
+DnjhfyRemWOtaOtABKSMbqOnFPKv188ARHFWGc34EtWlCNzLnHJHFZWIl/fyDKPExSAb/AiofxHi
+z7FqgGAQckoPnnoIhEtzOS5lpjlM/0vvHJA7StwKM6BE5vXlRGkJcUI0apVBuESs88Fn6R3Bwukj
+NAuLOSOE/O993Ffc5mc/D9c0dF5WFHgB9KrnXQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1036334-Object994497"><etsi:QualifyingProperties Target="#Signature1036334"><etsi:SignedProperties Id="Signature1036334-SignedProperties548574"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-21T10:29:22-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>D3Hv8jaik4dkm6e0N1qDzmNxFIA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254873064</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-33800"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

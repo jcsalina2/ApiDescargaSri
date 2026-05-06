@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601172296282400120011010000275551234567814</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T14:23:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>AVILA SANCHEZ CAMILO ALFONSO</razonSocial><ruc>1722962824001</ruc><claveAcceso>0204202601172296282400120011010000275551234567814</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>101</ptoEmi><secuencial>000027555</secuencial><dirMatriz>MALECON ESCENICO LOCAL 10</dirMatriz></infoTributaria><infoFactura><fechaEmision>02/04/2026</fechaEmision><dirEstablecimiento>MALECON ESCENICO LOCAL 10</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>JENIFFER ZAMBRANO</razonSocialComprador><identificacionComprador>1316471463001</identificacionComprador><direccionComprador>Dir: X</direccionComprador><totalSinImpuestos>20.72</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>1.74</baseImponible><valor>0.26</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>18.98</baseImponible><valor>0</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>20.98</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>20.98</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>44</codigoPrincipal><codigoAuxiliar>44</codigoAuxiliar><descripcion>PESCADO APANADO</descripcion><cantidad>1.00</cantidad><precioUnitario>7.990000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>7.99</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>7.99</baseImponible><valor>0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>20</codigoPrincipal><codigoAuxiliar>20</codigoAuxiliar><descripcion>CAMARONES APANADOS</descripcion><cantidad>1.00</cantidad><precioUnitario>10.990000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>10.99</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>10.99</baseImponible><valor>0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1</codigoPrincipal><codigoAuxiliar>1</codigoAuxiliar><descripcion>GASEOSA PERSONAL</descripcion><cantidad>2.00</cantidad><precioUnitario>0.869565</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.74</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.74</baseImponible><valor>0.26</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Sistema Contable">Neola v.1.1</campoAdicional><campoAdicional nombre="Catastro">Régimen GENERAL</campoAdicional><campoAdicional nombre="Dirección">X</campoAdicional><campoAdicional nombre="Teléfono">x</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature737299">
+<ds:SignedInfo Id="Signature-SignedInfo260881">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID1022087" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature737299-SignedProperties1028472">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>gv9ThsIogzaTc4rG3ZBZB4bAe0M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1155502">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>fYbJk7lanVmtCxV5qr5UXH5NIcI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-129526" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>IpANIXw9SgWwgUw/UpkhU+XHHJs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue664381">
+SkcAQnrZ5A65kShbHwcc0sdWxBSf4v5mvJZFL8ioyh6l30FyKybFqlhI7lZNAnIKJdbgfksh6R/q
+JeVaIrpobvgtLjjTaD752jl2PS+khfaJgZa37CXSA3DuDykTpcNAfL4+89jpGD5RJUQUAy3d5CVi
+a2KmEojzTwoOBUuOmizee/jvnQ5fGUs6339ZyguZNZVpVOMVUIPHNdSLKdk2sPAuOyXtVAIJrb+D
+RMXFqbpQ3UbP1BjX0XIGjLbBs5gw9KWn5PRK6D/5z5u42ar82ofIyAA6TFPL90nGZiBDr3ECFuGs
+pi4bcheSU/eFpC1e1InfpbMffSfziGZFLzl1ng==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1155502">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL6TCCCdGgAwIBAgIEBzaTUTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTAxMTkxNzQ1MTBaFw0yNzAxMTkxNzQ1MTBaMIGnMSUw
+IwYDVQQDDBxDQU1JTE8gQUxGT05TTyBBVklMQSBTQU5DSEVaMSAwHgYDVQQFExcxNzIyOTYyODI0
+LTE5MDEyNTEyNTUwNTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCu4u2N/nAjZHYd8c5GEz+JdJ7ZSr3c8R8RXkPMzKV6
+GG5pfPZ4t/kjhp8DxNgeXCIgPVhwzR1M0+ttt2Y64KjQ48+u2wDeiSLekwGSrf5Yq2agZ7gi3uuz
++cemaq17ACfTyPy6J+1UtV51aA1E5mlmyQMtfvWTiT8vPOpf7YmT4PSmZSbrJztYacxgDSfIEhDn
+GqjTmny2L9RLuiIprNISd5QnsU0VD/AtRpneEI+ldWKuAaHtF0h/YiRxhVbG+MPqjsT4l1iMap+X
+IqwSJNR+dP3GAl5RnUH7hlnyKnaEpk7VUAEKuPOqfKM4QXruW/Ul7i45zo1+i+HhmPBssucrAgMB
+AAGjggcnMIIHIzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7
+hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2
+b2NhdGlvbkxpc3Q/YmFzZTAjBgNVHREEHDAagRhjYW1pbG8yMDAwMTk4NUBnbWFpbC5jb20wggEG
+BgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBp
+AGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGC
+pnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3At
+Y29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMg
+ZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYI
+KwYBBQUHAwQwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMM
+MEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UE
+CwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNV
+UklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2Ey
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9i
+YXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUMwHQYDVR0OBBYEFMpvZp357wQJz7qsIGX7Na22mF1dMCsGA1UdEAQkMCKADzIwMjUwMTE5MTc0
+NTEwWoEPMjAyNzAxMTkxNzQ1MTBaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjE3MjI5
+NjI4MjQwFQYKKwYBBAGCpnIDCQQHDAVNQU5UQTARBgorBgEEAYKmcgMiBAMMAS4wIgYKKwYBBAGC
+pnIDBwQUDBJQUklOQ0lQQUwgTE9DQUwgMTAwHgYKKwYBBAGCpnIDAgQQDA5DQU1JTE8gQUxGT05T
+TzAfBgorBgEEAYKmcgMgBBEMDzAwNDAwMTAwMDEzMzM0OTARBgorBgEEAYKmcgMjBAMMAS4wEwYK
+KwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisGAQQBgqZyAwME
+BwwFQVZJTEEwGAYKKwYBBAGCpnIDHgQKDAhFTVBMRUFETzAdBgorBgEEAYKmcgMLBA8MDTE3MjI5
+NjI4MjQwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBcGCisGAQQBgqZyAwQECQwHU0FOQ0hFWjAQBgor
+BgEEAYKmcgMIBAIMADANBgkqhkiG9w0BAQsFAAOCAgEAn3M2Ki1dhrTYRf8bO1Bxym23fvO00i1z
+gvCq9B8dv4S9uP/nNWoexgnM+KKE4AqHmp8AZJQh+wi+ijx3FZNMCuWPXmaHZdUAfw5Pi56bJ2lu
+EfSDGBo2Vroxc442qHpbPcc6Rc/olB3/fz3cTHfIRIZ5NQR3/4FNg9f0JIQJTw5sjSK7X0GYMMZU
+IfayiL1oCNw5a7Cp+cvJ8Bj/Xvbxz6KEkfojEqh18eW+25C6xakrFyZolTRF22Q/ccV/ZjkSzv9x
+8dtoggjP76mLTXFtHmYMUjbetg/Vl9YNddOPWc3V70wLu4dAWaL/Wuh0qvk1ez2PAg7FxiQjJX71
+FWMwd+Hge3Tz3lUERuHn7OxT7xrdnhtuGecVo49FcvRLAIzzW0R07ZMbJ8ZjDjp2Ig9LMrqBlnqg
+MKTBNxyha4ZStYdYggnHSMIbAJOMSD3odwYQGR2EUxy93xEB8o3T3me8tAressbm8WT4Sg0Art3g
+TlxLs+8Y7Cf7yCMU1ZWQ50TK7kZkwMa9Qbxllzq9cchdJnaByClRn7x7cWJVhQxixy8UCFMPK6Tj
+3l45ICT0uMSKDi+EML2hK2T9Fce8E8dP7jpdncybvhD9nWbk2wSK0768M0rcQZWpeRMxfLb9nLfZ
+MU6bmm6wnFZuNQR3QMAqgo/zehflHyS4eY3OSgwHYG0=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ruLtjf5wI2R2HfHORhM/iXSe2Uq93PEfEV5DzMylehhuaXz2eLf5I4afA8TYHlwiID1YcM0dTNPr
+bbdmOuCo0OPPrtsA3oki3pMBkq3+WKtmoGe4It7rs/nHpmqtewAn08j8uiftVLVedWgNROZpZskD
+LX71k4k/LzzqX+2Jk+D0pmUm6yc7WGnMYA0nyBIQ5xqo05p8ti/US7oiKazSEneUJ7FNFQ/wLUaZ
+3hCPpXVirgGh7RdIf2IkcYVWxvjD6o7E+JdYjGqflyKsEiTUfnT9xgJeUZ1B+4ZZ8ip2hKZO1VAB
+CrjzqnyjOEF67lv1Je4uOc6Nfovh4ZjwbLLnKw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature737299-Object265033"><etsi:QualifyingProperties Target="#Signature737299"><etsi:SignedProperties Id="Signature737299-SignedProperties1028472"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T14:23:38-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>3zRLj1t7kY09uHSOtQ81+ClXjuU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>121017169</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-129526"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

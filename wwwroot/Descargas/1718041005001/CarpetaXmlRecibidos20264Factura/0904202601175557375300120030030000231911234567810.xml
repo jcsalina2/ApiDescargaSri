@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0904202601175557375300120030030000231911234567810</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T17:44:32-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MATUTE ANABEL</razonSocial>
+    <nombreComercial>LINEAL DISTRIBUIDORA</nombreComercial>
+    <ruc>1755573753001</ruc>
+    <claveAcceso>0904202601175557375300120030030000231911234567810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>003</ptoEmi>
+    <secuencial>000023191</secuencial>
+    <dirMatriz>PICHINCHA / QUITO / CALDERON (CARAPUNGO) / AV . PADRE LUIS VACARI 234 Y RIO CAYAMBE</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>09/04/2026</fechaEmision>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>DIAZ YANEZ GABRIELA FERNANDA</razonSocialComprador>
+    <identificacionComprador>1718041005001</identificacionComprador>
+    <totalSinImpuestos>6.02</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>6.02</baseImponible>
+        <valor>0.90</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>6.93</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>6.93</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>836449007511</codigoPrincipal>
+      <descripcion>B ALLWRITE DAX CLEAR P/F NEGRO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.312522</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.31</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.31</baseImponible>
+          <valor>0.05</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>836449007528</codigoPrincipal>
+      <descripcion>B ALLWRITE DAX CLEAR P/F ROJO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.312000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.31</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.31</baseImponible>
+          <valor>0.05</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>836449007504</codigoPrincipal>
+      <descripcion>B ALLWRITE DAX CLEAR P/F AZUL</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.312000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.31</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.31</baseImponible>
+          <valor>0.05</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7708766304655</codigoPrincipal>
+      <descripcion>MARC D/P METALIZADO ETERNA X12</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.086957</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.09</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>5.09</baseImponible>
+          <valor>0.76</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">  0983013029</campoAdicional>
+    <campoAdicional nombre="Email">megacardsolutions@hotmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature165038">
+<ds:SignedInfo Id="Signature-SignedInfo202535">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID242574" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature165038-SignedProperties986800">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>pKbrMd4/L/PLnmuR8RjQdeG8w/o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate198601">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>sHELqD2rCdzc/l6Xf4WM+DuRCOU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-180819" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>eT6Cj+OSNJ6VySEPF9tupQYwTos=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue110242">
+fcHd6PGucCp+LLjCmXTEJlooaIv/ajrSGxkKYETsNH/igDPbgQzP55oCMWC9wVIIFblvud5GqxTO
+cgwBmzKNbw8V6lIM6C4bFbChQNRTbu0wwsI5301hBB9XgFrGg8iregP1vgoOw5IfCRpvyMLvNa7m
+PpR6no9KQN8epNgfN72SbVSjcEEsdVZ0TTPAtMjahJo3bcUU4IIwN1eQnf6loEAjxD8NE9qXA/2n
+p9t18Zyn/HXZOlg2mlL/6VeFaNm77xMXEUuURbPAEMh3+gomZAIPZKGfTEAz+DYTuqNanF3+uzWJ
+nJeGluzDVH9SDUmXb2pnPbGlAZEL1qwDidac1A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate198601">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIPDCCBySgAwIBAgIFAMIBUv4wDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI1
+MDYxMzE3MTQwMFoXDTI2MDYxMzE3MTQwMFowgZYxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEjMCEGA1UEAwwa
+S0VSTEEgQU5BQkVMICBNQVRVVEUgUVVJTUkxJTAjBgkqhkiG9w0BCQEWFmFuZmliaXVzMjAyNEBn
+bWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDHNdMxtXFHAwnO+2bVglaB
+S9H6cX3SVJE7J2PmNzAddFJ0mnNGIjcmZSbyfgvXVFgTxOucpfXBkhnzPCqtFC1TnnllWeKWkxSe
+lw6XbNUkJ4A4TAiNaPyrgCANQSCEdhHFvSwh+SbGKPINMEUcKxqqJKNerFWcaIQpdzslc21OPhcv
+xTUhONYFxtMNH65i7ub6oSLYkQWV9GBOgEebuNo3YnaDL+6xijLX2kECYC/fxL5T1r/Vs40xzIyP
+d2jS+FR+g6LCF0Aq7U53l2i3naq9RZ77i+vUaTFAj2zbz9seOgEamIBpEhAekIii+PW1yOl1Dj85
+bbkA4vjiMCXguIJTAgMBAAGjggTdMIIE2TAaBgorBgEEAYPPdgMBBAwMCjE3NTU1NzM3NTMwHAYK
+KwYBBAGDz3YDAgQODAxLRVJMQSBBTkFCRUwwFgYKKwYBBAGDz3YDAwQIDAZNQVRVVEUwFQYKKwYB
+BAGDz3YDBAQHDAVRVUlNSTBeBgorBgEEAYPPdgMHBFAMTlBJQ0hJTkNIQSAvIFFVSVRPIC8gQ0FM
+REVST04gKENBUkFQVU5HTykgLyBQQURSRSBMVUlTIFZBQ0FSSSAyMzQgWSBSSU8gQ0FZQU1CRTAa
+BgorBgEEAYPPdgMIBAwMCjA5OTA1NDYzNzkwFQYKKwYBBAGDz3YDCQQHDAVRdWl0bzAXBgorBgEE
+AYPPdgMMBAkMB0VDVUFET1IwHQYKKwYBBAGDz3YDCwQPDA0xNzU1NTczNzUzMDAxMAwGA1UdEwEB
+/wQCMAAwHQYDVR0OBBYEFIvRkMnSWPxY1ZYaTyjiR43S6L4hMB8GA1UdIwQYMBaAFO12SLAK8cmG
+hgxMRmTSBvjM1b0+MA4GA1UdDwEB/wQEAwIF4DA6BgNVHR8EMzAxMC+gLaArhilodHRwOi9lbmV4
+dDIueHl6L0xhenphdGVDQTIvZW1pc29yQ0EyLmNybDCCAYQGA1UdIASCAXswggF3MHwGCisGAQQB
+g892AgEwbjBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRv
+IGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0
+ZGEuMIH2BgkrBgEEAYPPdgIwgegwbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUgY2VydGlmaWNh
+ZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExh
+enphdGUgQ2lhLiBMdGRhLjB4BggrBgEFBQcCAjBsGmpFbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBz
+dWJvcmRpbmFkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlk
+YWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMIIBQQYDVR0RBIIBODCCATSgGgYKKwYBBAGDz3YDAaAM
+DAoxNzU1NTczNzUzoBwGCisGAQQBg892AwKgDgwMS0VSTEEgQU5BQkVMoBYGCisGAQQBg892AwOg
+CAwGTUFUVVRFoBUGCisGAQQBg892AwSgBwwFUVVJTUmgXgYKKwYBBAGDz3YDB6BQDE5QSUNISU5D
+SEEgLyBRVUlUTyAvIENBTERFUk9OIChDQVJBUFVOR08pIC8gUEFEUkUgTFVJUyBWQUNBUkkgMjM0
+IFkgUklPIENBWUFNQkWgGgYKKwYBBAGDz3YDCKAMDAowOTkwNTQ2Mzc5oBUGCisGAQQBg892Awmg
+BwwFUXVpdG+gFwYKKwYBBAGDz3YDDKAJDAdFQ1VBRE9SoB0GCisGAQQBg892AwugDwwNMTc1NTU3
+Mzc1MzAwMTA8BggrBgEFBQcBAQQwMC4wLAYIKwYBBQUHMAGGIGh0dHA6Ly9lbmV4dDIueHl6Ojg3
+NzcvYWRzcy9vY3NwMA0GCSqGSIb3DQEBCwUAA4IBAQBDQP3c7hqzw041HPIMdsqJ4OZGHV6ojgUG
+sLUXXtD/OZrCgXfGFIOVks1ej4KKIaMfdM+rxdSwKdyNUig5p/zLTarG8gWaRBkLRQ0Vytjg8llp
+dk0Eo3Gk0WX6A5GMLZr0QFZRDLqeBuCL9rblOtW+JPSKic/G8RJhSnZL77C4iZztS2y5dD6OzMjg
+SswI6nyv1UcAFFs+IgV5kneKRGDB9fmUdsbCJO/vOvgZg64LeR4pUnNqoUbe10ucFvyPx2D0yv32
+O1HE+vadgLMN8Cyt6HH8WwT4Eclzzioq2UQk/LV0ODdTavF+HEyBaaa5irYnfkDcZ7Xj3pmwZbPM
+9ucC
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xzXTMbVxRwMJzvtm1YJWgUvR+nF90lSROydj5jcwHXRSdJpzRiI3JmUm8n4L11RYE8TrnKX1wZIZ
+8zwqrRQtU555ZVnilpMUnpcOl2zVJCeAOEwIjWj8q4AgDUEghHYRxb0sIfkmxijyDTBFHCsaqiSj
+XqxVnGiEKXc7JXNtTj4XL8U1ITjWBcbTDR+uYu7m+qEi2JEFlfRgToBHm7jaN2J2gy/usYoy19pB
+AmAv38S+U9a/1bONMcyMj3do0vhUfoOiwhdAKu1Od5dot52qvUWe+4vr1GkxQI9s28/bHjoBGpiA
+aRIQHpCIovj1tcjpdQ4/OW25AOL44jAl4LiCUw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature165038-Object176912"><etsi:QualifyingProperties Target="#Signature165038"><etsi:SignedProperties Id="Signature165038-SignedProperties986800"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-09T17:44:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>00y4qFI2MQi3bcZdzjaMsXgwaWo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254866686</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-180819"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

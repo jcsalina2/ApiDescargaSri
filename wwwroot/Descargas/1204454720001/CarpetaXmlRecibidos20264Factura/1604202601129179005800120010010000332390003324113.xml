@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1604202601129179005800120010010000332390003324113</numeroAutorizacion>
+<fechaAutorizacion>2026-04-16T12:17:39-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PROMAINCO</razonSocial>
+    <ruc>1291790058001</ruc>
+    <claveAcceso>1604202601129179005800120010010000332390003324113</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000033239</secuencial>
+    <dirMatriz>Via a Valencia Km. 1 Sector Salvador Allende Principal Solar 13 - Telf: 052780512 - 0992023351</dirMatriz>
+    <agenteRetencion>10</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>16/04/2026</fechaEmision>
+    <dirEstablecimiento>Buena Fe Av. 7 de Agosto Nro. 21 y Manuel Nogales Telf: 052950949 - 0980760905</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>AGUAYO ALVARADO CARLOS ALBERTO</razonSocialComprador>
+    <identificacionComprador>1204454720001</identificacionComprador>
+    <direccionComprador>RUTA DEL RIO  GIMNASIO ATLAS  QUEVEDO</direccionComprador>
+    <totalSinImpuestos>138.95</totalSinImpuestos>
+    <totalDescuento>2.79</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>138.95</baseImponible>
+        <valor>20.84</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>159.79</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>159.79</total>
+        <plazo>30</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>463</codigoPrincipal>
+      <codigoAuxiliar>463</codigoAuxiliar>
+      <descripcion>TUBO CUADRADO  112  X  2</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>14.521739</precioUnitario>
+      <descuento>0.87</descuento>
+      <precioTotalSinImpuesto>42.69</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>42.69</baseImponible>
+          <valor>6.40</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>226</codigoPrincipal>
+      <codigoAuxiliar>226</codigoAuxiliar>
+      <descripcion>DISCOS NORTON CORTE METAL 7 FINO</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.521739</precioUnitario>
+      <descuento>0.06</descuento>
+      <precioTotalSinImpuesto>2.98</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.98</baseImponible>
+          <valor>0.45</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>4095</codigoPrincipal>
+      <codigoAuxiliar>4095</codigoAuxiliar>
+      <descripcion>ANTICORR LATINA LITRO NEGRO</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>3.826087</precioUnitario>
+      <descuento>0.15</descuento>
+      <precioTotalSinImpuesto>7.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>7.50</baseImponible>
+          <valor>1.13</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>248</codigoPrincipal>
+      <codigoAuxiliar>248</codigoAuxiliar>
+      <descripcion>DILUYENTE</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.217400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.43</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.43</baseImponible>
+          <valor>0.36</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>468</codigoPrincipal>
+      <codigoAuxiliar>468</codigoAuxiliar>
+      <descripcion>TUBO CUADRADO  3 X 2</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>28.347826</precioUnitario>
+      <descuento>1.70</descuento>
+      <precioTotalSinImpuesto>83.34</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>83.34</baseImponible>
+          <valor>12.50</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">RUTA DEL RIO   GIMNASIO ATLAS   QUEVEDO</campoAdicional>
+    <campoAdicional nombre="FORMA DE PAGO">DEPOSITO/TRANSFERENCIA QUEVEDO</campoAdicional>
+    <campoAdicional nombre="RESPONSABLE">DANEY QUIJIJE</campoAdicional>
+    <campoAdicional nombre="EMAIL">aguayoaca@gmail.com</campoAdicional>
+    <campoAdicional nombre="CELULAR">0999399935</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature180" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo765286">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID681838" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature180-SignedProperties749112">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4kOE4mwDmpqm3v3Eqh4PqKMXgE4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate130876">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jrGl3SnsVgyCMjLgxxRuab3EtDI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-73515" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kJ2KU/KIY5zNQAjoB4yr4A7DIMo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue24968">
+jo2PkSRtnsoo+UUj4F+V+3/ucpP/hjn/S5rC2sVKpUj//7svqM/F500uH1C7ZLa371Zs76xjX9ml
+s+1uiwjpBllB7YC7x2RbvolL4DQz81GQ4DPu2UVndxh/rSLo1XZSdWlFmroPu9K6TDhEgB96most
+o1Imi4QIbk3rCU3/5hhdGizZWtX5ETE57hEyezd3oSi4XbYC0QBoyDyhcfFyg+L2jWgrTgy5zwdu
+7xNB9pvbfyFreasHtT2Nt27plRS8wc3wsyMG8BiwZPOCXr3ZT3JTvSZiI9gJPCBB3eXIUzaaKpKf
+tfUjsw15+6fPyg5M8Ili1Tf7OYO5bbwTbC+KVA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate130876">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJZDCCB0ygAwIBAgIICcsaHUBe6zowDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTAxNzIxMjQwMFoXDTI3MTAxNjIxMjQwMFowgcwxCzAJBgNVBAYTAkVDMRIwEAYDVQQKDAlQ
+Uk9NQUlOQ08xGDAWBgNVBAwMD0dFUkVOVEUgR0VORVJBTDEVMBMGA1UEBAwMUFVFTlRFIEFMTEFO
+MRgwFgYDVQQqDA9FRFVBUkRPIE9STEFORE8xGTAXBgNVBAUTEElEQ0VDLTE3MTE5MzQ3MjcxJTAj
+BgNVBAMMHEVEVUFSRE8gT1JMQU5ETyBQVUVOVEUgQUxMQU4xHDAaBgNVBGEME1ZBVEVDLTEyOTE3
+OTAwNTgwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQChwYXVavmaR0f9WZknSip1
+PBk0Cl9Don5Qw53U+3Cw213cr5Lq0QYR8ipj3PQYBddVjiAYvQDfDeCQdR19rrYMb7hFg9meUFYJ
+yFdUooVEM7l7oPQW3sJA19nDKjA5oYUr5WJu23xmtM32Bl9ftCNaiq+os3QTajs9+s9i30u15a7t
+Oz3jP4o5RaUK35qdPrnLSTOvoGyd8o4OC+dCOct17O2I7eilIdQtOn3ORorJ2F5K/SUEMGd2rY9y
+UwgyXGk+C9SjHdMdwjyAa8omkHrigpZEUzi1DMUxDPQwV9B8s4Pam2gnrDb5nfEa+xFOOnem9V1F
+U29aCuQC0dNDK5aZAgMBAAGjggRaMIIEVjCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKG
+SWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVz
+L3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20v
+cHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBQ/Xkzb7Qp4LzFtxY8llYOjTSsYOjAMBgNVHRMBAf8E
+AjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGOBgNVHSAEgYYwgYMwgYAGDCsG
+AQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJRklDQURPIERFIFJFUFJFU0VOVEFOVEUg
+RU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20v
+cHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5h
+dGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF
+4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggHYBgNVHREEggHPMIIBy4EUcHJvbWFp
+bmNvQGhvdG1haWwuZXOgGwYLKwYBBAGC8TZmAwGgDAwKMTcxMTkzNDcyN6AgBgsrBgEEAYLxNmYD
+AqARDA9FRFVBUkRPIE9STEFORE+gFwYLKwYBBAGC8TZmAwOgCAwGUFVFTlRFoBYGCysGAQQBgvE2
+ZgMEoAcMBUFMTEFOoCAGCysGAQQBgvE2ZgMFoBEMD0dFUkVOVEUgR0VORVJBTKBVBgsrBgEEAYLx
+NmYDB6BGDERQQVJST1FVSUEgU0FOIENSSVNUT0JBTFwsIEJBUlJJTyBKT1NFRklOQSBJIENBTExF
+IFBSSU5DSVBBTCBTT0xBUiAxM6AfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk2OTkxMTc2OKAYBgsr
+BgEEAYLxNmYDCaAJDAdRVUVWRURPoBoGCysGAQQBgvE2ZgMKoAsMCVBST01BSU5DT6AeBgsrBgEE
+AYLxNmYDC6APDA0xMjkxNzkwMDU4MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCQGCysGAQQBgvE2
+ZgMyoBUME1JFUFJFU0VOVEFOVEUgTEVHQUygGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkq
+hkiG9w0BAQsFAAOCAgEAmoMsg3J/R8ZMXaDUZnVYpyYjvY+YCKQj3lkUnaS5+T4aRLqUzd3OtEQd
+1/Av4NXS/AQPQPjTwdT8wT5Rpj2wgUZeTHQI4ob+JVz8mul16D6cIG/4qpmwx6ZHv6UUINyErhQ/
+x2eUc9u7Ww34JZkG9sTDyfVAzs6BOAQnf64Fyg9JbibGe7XkUMYGLnFIDoKrQLBYSmSeEevxDBZY
+9DPFNWreOVmLo26VCsQI3DNpfqE/O/15LoOOzJVP9QZ2QhADDzyy+VRqRibE1zF1CIGhMj/NlVHh
+Esvn1Tx3OOCYTVX5kWvCZDCm3p+pdI4ZRimgRLGWJAr8ERqNuRVVHfP1nOi8KvLWKO2BUK1jXihT
+1fJ09pvVviAIeZdNs0KI+OC0dG8IsqBugDvG0qNODhjSc94GGAEi51+evjUDrEcZg7TZPGPYPEZg
+46OT2Zvxep/81J/X0/fyUuZVYHRtMEovz8vhjllNEsAxrpsjXxSkNgElDcXf8TPXnsJsrRTgFE3j
+UW2id1gW2IKB9W9Xk0IxNuUx8dWzWNYndoBYp1xRbdnI68q5AYlV4TWSqRdHQs2P7GN6bVUHySoF
+WB+FbxOaX6ii0mkWsYCd7iyODSfYpfmkNIZrlP+zFugF3qvzYkCA+YSJmsEk3azBlSemDuo2b1Cf
+Ec+LOmvNrg0qNt1fg6Y=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ocGF1Wr5mkdH/VmZJ0oqdTwZNApfQ6J+UMOd1PtwsNtd3K+S6tEGEfIqY9z0GAXXVY4gGL0A3w3g
+kHUdfa62DG+4RYPZnlBWCchXVKKFRDO5e6D0Ft7CQNfZwyowOaGFK+Vibtt8ZrTN9gZfX7QjWoqv
+qLN0E2o7PfrPYt9LteWu7Ts94z+KOUWlCt+anT65y0kzr6BsnfKODgvnQjnLdeztiO3opSHULTp9
+zkaKydheSv0lBDBndq2PclMIMlxpPgvUox3THcI8gGvKJpB64oKWRFM4tQzFMQz0MFfQfLOD2pto
+J6w2+Z3xGvsRTjp3pvVdRVNvWgrkAtHTQyuWmQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature180-Object528629"><etsi:QualifyingProperties Target="#Signature180"><etsi:SignedProperties Id="Signature180-SignedProperties749112"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-16T17:17:33+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>wjkJm1yjLo0gyvTn0vxnI0AqjnI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>705686479549950778</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-73515"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

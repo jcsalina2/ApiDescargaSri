@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0904202601099336408800120020010000254590000700911</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T15:18:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>LAVCONAR S.A.</razonSocial>
+	    <nombreComercial>LAVCONAR S.A.</nombreComercial>
+	    <ruc>0993364088001</ruc>
+	    <claveAcceso>0904202601099336408800120020010000254590000700911</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>002</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000025459</secuencial>
+	    <dirMatriz>TARQUI / AV.1RA. 0226 Y CALLE 5T</dirMatriz>
+		
+		
+			<agenteRetencion>10</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>09/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>TARQUI / AV.1RA. 0226 Y CALLE 5T</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>ERIKA FERNANDEZ</razonSocialComprador>
+	    <identificacionComprador>0920196813</identificacionComprador>
+		<direccionComprador>NUEVA KENNEDY</direccionComprador>
+	    
+	    <totalSinImpuestos>13.60000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>13.60</baseImponible>
+				<valor>2.04000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>15.64000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>15.64</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>LOC181</codigoPrincipal>
+		<codigoAuxiliar>LOC181</codigoAuxiliar>
+      	<descripcion>BLUSA AL SECO</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>2.500000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.50</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.50000</baseImponible>
+          <valor>1.12</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>LOC 182</codigoPrincipal>
+		<codigoAuxiliar>LOC 182</codigoAuxiliar>
+      	<descripcion>BLUSA PEDRERIA / APLIQUES</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>4.200000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.20</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.20000</baseImponible>
+          <valor>0.63</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>LOC254</codigoPrincipal>
+		<codigoAuxiliar>LOC254</codigoAuxiliar>
+      	<descripcion>CAMISETA AL SECO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.900000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.90</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.90000</baseImponible>
+          <valor>0.28</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature830069">
+<ds:SignedInfo Id="Signature-SignedInfo273122">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID98503" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature830069-SignedProperties906187">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>XguUPBgXr56Wa/8HGzPWvAV9wu8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate495413">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>UsazbQuMIaVsSjY0i6zRDY2gYBg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-889767" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xVY6fnu15lHDI4XgeiUSCY5e6yA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue915355">
+AbmEY9mMCygk3A3RQiaRd/SsQTrJssE1/ANmUQBtfFpRolDyEqGeTjFww3QaFx/hVsbgj+XWsLTZ
+ClxucMzNLWps11lW6V/UNfYa48rVpUgrgIt+W1QN+HxshjBYPGeF+Pd6p/u9VEdQbh6o3FkEXi5T
+IJXeiiiQyJdu3idEZ8mf9L9433pez7MvxkbIMuPkfXK63hhd12fqxNTYVIgSImJO4aAUxroyCQP1
+SmIfkmLuh/cSQoXE6NZmax6s9ln0Pi90ltOnmkewK5ZVac23AQ9Vf1mEGJRYi3DQ93jwkzhaC41a
+7is2qRiLbZbUs8IfJ9diAXD35s/z93exJRvXEg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate495413">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJjjCCB3agAwIBAgIIYdV5an1hJKgwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTEwNjIyMjYwMFoXDTI2MTEwNjIyMjYwMFowgcwxCzAJBgNVBAYTAkVDMRQwEgYDVQQKDAtM
+QVZDT05BUiBTQTEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMRcwFQYDVQQEDA5OQVJBTkpPIENB
+U1RSTzEVMBMGA1UEKgwMSU5FUyBHSVNFTExFMRkwFwYDVQQFExBJRENFQy0xNzI0MzQ1MDQ0MSQw
+IgYDVQQDDBtJTkVTIEdJU0VMTEUgTkFSQU5KTyBDQVNUUk8xHDAaBgNVBGEME1ZBVEVDLTA5OTMz
+NjQwODgwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCIxFvFgLgDkWc8vXN3hi2+
+0lzy9E58lgwQ4W4TZ9hD94LkoRYuR9EToFIvXfvKavpbpaJ7HEUvHXIGZU+fI5RmZUWwlbDg25Cs
+r+pNtXX2O++I7tnpEzUMfWSd+tc8lYedmQA8l3YKu0g5ljkUL+kZaDnxP7N19sNIdAmMMCNLu56h
+5PC0GuqcQHNlaYpJRt3BmbP4/aYydil8WBU6ebzOzfVdykebVE02iwUFoBr1YOo0+a9+izrmq+co
+9Oq89IyTXHFuutEJkQv9WXecMt+nacvygWQiC2iuN2HT18ZLyFGL8jqdRlZEWjcbGMO663t5xT9I
+GW41qEZ17XTDoV0VAgMBAAGjggSEMIIEgDAbBgsrBgEEAYLxNmYDAQQMDAoxNzI0MzQ1MDQ0MB4G
+CysGAQQBgvE2ZgMLBA8MDTA5OTMzNjQwODgwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUF
+BzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmlj
+YXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRhY2Eu
+Y29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5j
+b20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUDd9uzKjWHaVWUY/Mzq6CKoUem50wDAYDVR0T
+AQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBjgYDVR0gBIGGMIGDMIGA
+BgwrBgEEAYLxNmYCAwEwcDA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1
+YmxpYy9wa2kvZHBjLWVjLzA1BggrBgEFBQcCAjApDCdDRVJUSUZJQ0FETyBERSBSRVBSRVNFTlRB
+TlRFIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEudWFuYXRhY2Eu
+Y29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0cDovL2NybDIu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8E
+BAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBxQYDVR0RBIIBvDCCAbiBHm5v
+dGlmaWNhY2lvbmVzZmlybWFzQHNpaWdvLmNvbaAbBgsrBgEEAYLxNmYDAaAMDAoxNzI0MzQ1MDQ0
+oB0GCysGAQQBgvE2ZgMCoA4MDElORVMgR0lTRUxMRaAYBgsrBgEEAYLxNmYDA6AJDAdOQVJBTkpP
+oBcGCysGAQQBgvE2ZgMEoAgMBkNBU1RST6AgBgsrBgEEAYLxNmYDBaARDA9HRVJFTlRFIEdFTkVS
+QUygNQYLKwYBBAGC8TZmAwegJgwkVVJERVNBIE5PUlRFIEFWLjFSQS4gMDIyNiBZIENBTExFIDVU
+oB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTY3ODUyMDA2oBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlB
+UVVJTKAcBgsrBgEEAYLxNmYDCqANDAtMQVZDT05BUiBTQaAeBgsrBgEEAYLxNmYDC6APDA0wOTkz
+MzY0MDg4MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VO
+VEFOVEUgTEVHQUygGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEA
+XWQeSjDV+WJbj1tQkpYfrTOSCILnwwb6YAbaoFMKEXP565Kuvk43Y5ntFtQMTnpAEd8UjLDRawKr
+rxqZu2DFow4J0uzk8dR9agtCXaIsn3HPQdibosV4EgV5lNcS+PwSbDUBcRHHEe8BD1j7e+xF6+Dr
+pB2F+rVy4TyvnO//PXBKgBTe2OvkFI0fvyrOD+Y7LgcQpk+4PSgBdXmAE9e4aBPxgGbEKOncyTZI
+xVWjCrvdw+CtGWjCcQmt7w61NI5qwIIiWp0pAwW45EN3y7SrFCjlSHxctvwte+Qn2uFhVMf4EgIG
+8BreUoQGtRYvj5b7w/AVjhW40Ly79AMDo3fcptfJL0cbnYeFgOt2uz84O3oQYCwcF1H66D9/66o/
+gaWZT608DTros4WV7q+FuuCwzT79ZOvokUAgM4c10R2wAymxTx6DVHK1l7XUK6KvvRhehLi2HcJ0
+ywJBH5o2EEzZKYOTHxB/UeeXxkefz2uo5UucDzjTSqnwcv2ATW5bs1zsvyYrnm4IrAnLb2+dgVtd
+H2DaDkh2TXVIkEZ5QGJZc8hPS92fP9+5AOjPtdDfyGITWfWXhX5sRU8BkODod/tr2TMVJkjk/FdK
+WymGazbYBM4yH5WZamJeToQkUiGvcns7N7BMb0cb1ym5PI4pP7FVfoK3GKKVPmapzZjcEaneDN8=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iMRbxYC4A5FnPL1zd4YtvtJc8vROfJYMEOFuE2fYQ/eC5KEWLkfRE6BSL137ymr6W6WiexxFLx1y
+BmVPnyOUZmVFsJWw4NuQrK/qTbV19jvviO7Z6RM1DH1knfrXPJWHnZkAPJd2CrtIOZY5FC/pGWg5
+8T+zdfbDSHQJjDAjS7ueoeTwtBrqnEBzZWmKSUbdwZmz+P2mMnYpfFgVOnm8zs31XcpHm1RNNosF
+BaAa9WDqNPmvfos65qvnKPTqvPSMk1xxbrrRCZEL/Vl3nDLfp2nL8oFkIgtorjdh09fGS8hRi/I6
+nUZWRFo3GxjDuut7ecU/SBluNahGde10w6FdFQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature830069-Object342578"><etsi:QualifyingProperties Target="#Signature830069"><etsi:SignedProperties Id="Signature830069-SignedProperties906187"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-09T15:18:25-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>7pnU+vWasZ5FR40vtSEFlfhmMQg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>7049674289995392168</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

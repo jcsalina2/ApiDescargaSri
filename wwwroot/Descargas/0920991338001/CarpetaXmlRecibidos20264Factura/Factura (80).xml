@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601090766622600120030020000308800000007213</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T23:00:35-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CECILIA DE LA CRUZ VIZUETA PACHECO</razonSocial>
+    <nombreComercial>ROMARINA RESTAURANT TAPAS BAR</nombreComercial>
+    <ruc>0907666226001</ruc>
+    <claveAcceso>1804202601090766622600120030020000308800000007213</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000030880</secuencial>
+    <dirMatriz>AV. QUITO Y VICTOR EMILIO ESTRADA ESQUINA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>18/04/2026</fechaEmision>
+    <dirEstablecimiento>AV. QUITO Y VICTOR EMILIO ESTRADA ESQUINA</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ABRIL TRIANA EDWIN RAUL</razonSocialComprador>
+    <identificacionComprador>0920991338001</identificacionComprador>
+    <totalSinImpuestos>19.43</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>19.43</baseImponible>
+        <valor>2.91</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>22.34</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>22.34</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>10042</codigoPrincipal>
+      <descripcion>CHULETA ASADA PERSONAL</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.078300</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.08</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.08</baseImponible>
+          <valor>0.91</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>52412</codigoPrincipal>
+      <descripcion>FILETE DE POLLO EN SALSA DE CHAMPIGNON</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>7.391300</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.39</baseImponible>
+          <valor>1.11</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>qlrf6r</codigoPrincipal>
+      <descripcion>COCA COLA</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.130400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.26</baseImponible>
+          <valor>0.34</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>19068</codigoPrincipal>
+      <descripcion>LIMONADA HIERVA BUENA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.695700</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.70</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.70</baseImponible>
+          <valor>0.55</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+<ds:Signature Id="Signature781593" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo128672">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID916396" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature781593-SignedProperties597718">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qhQyreVBGLr50ESyUNSlzxqGjHQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate166162">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>bPBRQtFAkAyNWlbo76VuWpsJf+o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-299258" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>hnq9ylOjbEVBp1deYSCuOBQSv1Q=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue122576">
+qCnBOmFdY/sfcCSkJGuo37R3GZJJFiWseHY6dTcoJuhJ7NUCd36gDRnOor0b5I0fjTPLoBKouGiw
+miYbwMCuPnoAgYFVlfFGvD5jYPiCXI79GocmpQqkBUmQ/BCGxb1E1ICysll+MkFDm/h6V8FDxZmU
+1PeLv/NNvLhlJ/WU00PXHCcoDIv9a/RtKi/Fm91NuG7lvsbT4HQsM/P/9CRT7tPFc5CLaWdc4IHI
+WmUpvdSrjUgFhFlbsS70tpM058rZ9Ql9UT60fHPmI0iSQNKEg5WdmbsWQliJPsWO/9YfYFgiGjl+
+BsJWhcpYCrm4eepw+T+z2YLKVGPcF9HJl1Y/TA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate166162">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJKDCCBxCgAwIBAgIEZeTX7TANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI0MTAyMTE2NDQ1NloXDTI2MTAyMTE3MTQ1
+NlowgboxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE+MBEGA1UEBRMKMDAwMDc3MjE0ODApBgNVBAMTIkNFQ0lMSUEgREUgTEEg
+Q1JVWiBWSVpVRVRBIFBBQ0hFQ08wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDL/mH+
+EfbWCVWuPKLNmrV2kUXi3+wxCuU32TbZk2uEX4VWifENUQheqk850T+1euc3tnKe+miffIKbDPS7
+Ml3YNMRXyv36fVBF19ZqmgJcU4Ya1AVS8MiGkrq2SDFQZBntVgdwqkxC0yh0lwOJ+7LgH76NGCo+
+s+GjYn7nab2+CFvjsXKL9GeOh3GnwgBG8C2BU/pkt2+hmo/04+vuX6IxT3mc/Xzn2QhNGMNqMVmU
+1Zo0T5LrBo6qY2d6HYDVxHuAif0QT73ZJmK0BpjAlaA9rz70v/uNY9C2A1IyUFIhZdlUmRfl2dJs
+JVFYxQOJfWa5JKsiXYCH7Mmbaq4yJvjPAgMBAAGjggRLMIIERzALBgNVHQ8EBAMCBSAwgZEGCCsG
+AQUFBwEBBIGEMIGBMD4GCCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMBoGCisGAQQBgqg7AwEEDBMKMDkwNzY2NjIyNjAi
+BgorBgEEAYKoOwMCBBQTEkNFQ0lMSUEgREUgTEEgQ1JVWjAXBgorBgEEAYKoOwMDBAkTB1ZJWlVF
+VEEwFwYKKwYBBAGCqDsDBAQJEwdQQUNIRUNPMDMGCisGAQQBgqg7AwcEJRMjR3VhcmFuZGEgeSBB
+bGZyZWRvIFDDqXJleiBHdWVycmVybyAwGQYKKwYBBAGCqDsDCAQLEwkwNDI3MTMwNzcwFwYKKwYB
+BAGCqDsDCQQJEwdNaWxhZ3JvMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAdBgorBgEEAYKoOwML
+BA8TDTA5MDc2NjYyMjYwMDEwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCQGA1Ud
+EQQdMBuBGWpvcmdlX3Bpbm9fZWNAaG90bWFpbC5jb20wggHhBgNVHR8EggHYMIIB1DCCAdCgggHM
+oIIByIaB1mxkYXA6Ly9iY2VxbGRhcHN1YnAxLmJjZS5lYy9jbj1DUkwyMDk5LGNuPUFDJTIwQkFO
+Q08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENF
+UlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUy
+MERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6
+Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbYwgbMxCzAJ
+BgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5F
+TlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVR
+VUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEQMA4GA1UEAxMHQ1JM
+MjA5OTAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4EFgQUzEjTfrfzthoH
+zphvNIUMDMXlXPcwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4zAwIEkDANBgkqhkiG
+9w0BAQsFAAOCAgEAIocAbxezzGJBIkS+pGuWfAyD+uN4DL9/81QWBVxHlu91Mm9lMQraac/yhdyj
+kPulrtXo6lpLGVyQVqA+BSqZdycgi7QBSKK+F4P4s8dycO6BE7LS7e5rWGrzRN6IY61iIZHKFFbt
+rvgiPWi47x+lxUTsPcAnj8RSGCVmSEUP+z5tUJ2ZjizYzlnE8N7T9MA9vUMTTRtwTCe0fw6HvRSx
+iMIO+zDOHAJZgm80GJJGO6thK+nttH2Fjb4Eag4L0pyQjwyqQKYRXWDtwQXsETKdBvglK1AIJP35
+u/hkgF+F6oUwonF122zt8RPETAbI4KT6b0z/rV2jfxdtksarrwJF0q3WDrgMO8n4S+Qte5RNCc/C
+K3OTRYjMVQMNCFzuM+nbBD4c5ypkIghtp43TvacbJGXUFIxf0V0eunwYHUxwn7qQm8N7V6A6rxLv
+9QNdVwRAr1t42cjh8kxf6lue9JhVZH8RHE3FVjzKHSEwwvmlJxCifu5KoJG9oUrqAXxA31ayZSUH
+jB2iTvmVnwW+PlCqYeJxlhuBiGz2gPZyNJzWqarytAVOfgs3ajO0MJpDBdGKH4oSfQq0BpMIYRKF
+Psl4Mccq4HyE0UCUZfOZYbkf8R6bqnP/cxwVUKFt8KR5dktZiT6kufKeNBd6YO984/61X9V0u00O
+HWnCGsl6fed4I5g=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+y/5h/hH21glVrjyizZq1dpFF4t/sMQrlN9k22ZNrhF+FVonxDVEIXqpPOdE/tXrnN7Zynvpon3yC
+mwz0uzJd2DTEV8r9+n1QRdfWapoCXFOGGtQFUvDIhpK6tkgxUGQZ7VYHcKpMQtModJcDifuy4B++
+jRgqPrPho2J+52m9vghb47Fyi/Rnjodxp8IARvAtgVP6ZLdvoZqP9OPr7l+iMU95nP1859kITRjD
+ajFZlNWaNE+S6waOqmNneh2A1cR7gIn9EE+92SZitAaYwJWgPa8+9L/7jWPQtgNSMlBSIWXZVJkX
+5dnSbCVRWMUDiX1muSSrIl2Ah+zJm2quMib4zw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature781593-Object706456"><etsi:QualifyingProperties Target="#Signature781593"><etsi:SignedProperties Id="Signature781593-SignedProperties597718"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T23:00:33-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>XmDQ8TnefzpVk9DUdMrLn/kWq68=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709496301</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-299258"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

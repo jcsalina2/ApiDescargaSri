@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1604202601091479440900120011000000011181234567818</numeroAutorizacion>
+<fechaAutorizacion>2026-04-16T10:26:57-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MORAN COLOMA DALTON ALEJANDRO</razonSocial>
+    <ruc>0914794409001</ruc>
+    <claveAcceso>1604202601091479440900120011000000011181234567818</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000001118</secuencial>
+    <dirMatriz>RCTO. LA GABARRA MAZSNA 6, SOLAR 21</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>16/04/2026</fechaEmision>
+    <dirEstablecimiento>RCTO. LA GABARRA MAZSNA 6, SOLAR 21</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>PATRICIO MARCELO VILLEGAS VITERI</razonSocialComprador>
+    <identificacionComprador>0908962087001</identificacionComprador>
+    <totalSinImpuestos>117.39</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>117.39</baseImponible>
+        <valor>17.61</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>135.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>135.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>OP001</codigoPrincipal>
+      <codigoAuxiliar>BOSCH48HPBAT</codigoAuxiliar>
+      <descripcion>BATERIA BOSCH 48 HP S4</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>117.391304</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>117.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>117.39</baseImponible>
+          <valor>17.61</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección:">GUAYAQUIL</campoAdicional>
+    <campoAdicional nombre="Teléfono:">042274402</campoAdicional>
+    <campoAdicional nombre="Email:">patricio.villegas.viteri@hotmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature698675">
+<ds:SignedInfo Id="Signature-SignedInfo220697">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID232500" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature698675-SignedProperties394651">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ZD8hxO7/99XMu6VoAE+9CVtRvbs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1969657">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>bBTDdUp5tO+2sP3RC0NvJJbYVTo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-702469" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>gT7SekJeu4tr+2L5clKNLhfIaI4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue133818">
+KHmBV2D4QOQXaeFlWPtCqWCUeQ/Wswu9X8zm66LRTcqzD3eyXsVzCjPHfTTIpDPOUSTm/vSZD6kf
+GnsmdjcUuFqQWiuX+vwa3xMhlyXkFNa5FtfX/TEliOheIPulzgcYM23FtEs+Xkm8nsuJFROVDRdR
+fsK0Tmr1Ralag5QM9DPtaA4Bro0EDzc5B7FvbOSREFdqBJNdLvMBe1T4uNDg4ZunvHf/kFisJi2M
+oTWIpQXqQ3fPWnwMr7nTVJ/4CdPgmWiwosJsH1E6xzT07ARCwJgcN83BU3qp7zG/kXtsxul3TbqR
+Ck3/fyGyNrAblvJv1jMtuinxfVICFwpgeqGnjw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1969657">
+<ds:X509Data>
+<ds:X509Certificate>
+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
+QE2mWIU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+q3eCZJYpefHgzrD7W2CKF2AEAvEhPTRTqYmRwPtG+NpyNnqTLF8jcey8C+Y+pm+L6AulUFJdJVzQ
+TrpruKJo7Y7BtGwxjNy16HycY0BwggGhReG0xBS249OkGfFB7sPVM13jGdAUN6SZr+dNrnqQQwek
+e9SWFXKGuNXEfhyWn90ybEDDlrXNfY4lRD4tG01yrsvUq59kbjLglF8uG7w6EJmLGLKp+6sxShrV
+AzpBUX2RzgqQf48V716briCQg9kAeWI5APO+sw7cgtBacqA2t8ko8sdJmn/cc3eZHE8V+BFLZHXY
+HQQtY7X1cGICfM4JlDfpEMkw/8THInGB+kryLw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature698675-Object1032171"><etsi:QualifyingProperties Target="#Signature698675"><etsi:SignedProperties Id="Signature698675-SignedProperties394651"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-16T10:26:56-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>L2fMfAQ20rqzNIDmxFSskvbvP+E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ArgosData CA 1 - SHA256,OU=ArgosData CA,O=ArgosData,C=EC</ds:X509IssuerName><ds:X509SerialNumber>176955781085861290935713619283334950129</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-702469"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

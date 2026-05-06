@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601099339527700120010010000006380794246814</numeroAutorizacion>
+<fechaAutorizacion>2026-04-29T11:48:57-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>COMPAÑIA DE TRANSPORTE DE CARGA PESADA GRUASMACIAS S.A.</razonSocial>
+	    <nombreComercial>COMPAÑIA DE TRANSPORTE DE CARGA PESADA GRUASMACIAS S.A.</nombreComercial>
+	    <ruc>0993395277001</ruc>
+	    <claveAcceso>2904202601099339527700120010010000006380794246814</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000000638</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / GUAYAQUIL / 19</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>29/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / GUAYAQUIL / 19</dirEstablecimiento>
+		
+	    
+	    
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>ASTECNAVIND S.A.S.</razonSocialComprador>
+	    <identificacionComprador>0993387909001</identificacionComprador>
+		
+	    
+	    <totalSinImpuestos>125.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>125.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>125.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>125.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>SERV0001</codigoPrincipal>
+		<codigoAuxiliar>H492001</codigoAuxiliar>
+      	<descripcion>SERVICIO DE GRUA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>125.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>125.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>125.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">TRASLADO DE GRUA DESDE LA 35 Y MARACAIBO HASTA GUASMO NORTE   TRASLADO DE GRUA DESDE LA 35 Y MARACAIBO CON DESTINO DURAN</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature797420">
+<ds:SignedInfo Id="Signature-SignedInfo111616">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID69909" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature797420-SignedProperties337103">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>wkgHJaxzlVI3PP9Z+8xCfRLz+iw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate916046">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Z0VXJCvjFPLzGyehy7hXqkdKKkQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-355056" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>QD5iT8JRfg2LdcjepBgfhayIGGQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue342265">
+UXOCACD46hjmPl5ZrCFukQRnaOAYy4SAbuno69aP2IFotv6a7aRAEOAWpiYtGBMnOGokH9d201PU
+hQss4ZRrp9fTHXfT1H5BASrziudvYoAe8U690udPoDjKM0B8RDghvV4KohRHH3i1um5hzOur3EhG
+JN6yl2IuZAwisaiMq3X27wVEvX+YgFtChYZmOgC5wvh87hqZrsu9JnlvEsFmqdOk6SlByJBGYnkt
+TdGxt/aIa8Ki2N8NCemRnEQVZ2BGO38lzWx6voWd/Rmt6hCcYvKSOxidMLbNT8z7XhsZf1xuwF04
+EsG6HLlG7egUs/+ccA6O0Z0hFNrdL/YsR0JyKA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate916046">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMbzCCClegAwIBAgIENacW6DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMTAxMzI5MjhaFw0yNjEyMTAxMzI5MjhaMIGpMScw
+JQYDVQQDDB5JR05BQ0lPIExPUkVOWk8gTUFDSUFTIFJFSU5PU08xIDAeBgNVBAUTFzA5MTAwNDIz
+MzItMTAxMjI0MDgzOTIzMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOoiFWw8ZLFbTK4QpBWBOO3yb8EMYkbs2pngbOjP
+H4Pu3tUQ9Z8C2V+6Vc/wh2f461vVg9ucbpZnE4X0kGEcl7kN7KVDc253jbGb46/3PrK6YIT/6LUS
+XDuRDaIFyai9fHvoerYgRA28PHF7AswUUVoNm0iD2NwdI+4C/nGfhT+BQ4hCtm3+VMWseSem6jjS
+XTsh5Rp9O+0PJbApnJLG2Lnv1UwXyqdB6kzBxhB+d9VGTn6UWx52qk+J3r9SRbQfLg8PrqTJ6EBp
+Tx01vrzDatwSqQrMGa1Mao2h0p5qM2tNq8fr65oWb+y4V2BVrVN3Ot2mPMbqhemn292DM/Rh0EEC
+AwEAAaOCB6swggenMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMCcGA1UdEQQgMB6BHGlnbmFjaW9fbWFjaWFzNjNAaG90bWFpbC5j
+b20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQBy
+AHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUA
+ZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlm
+aWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjAd
+BgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0
+dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29j
+c3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIg
+U0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSg
+gcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlm
+aWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFk
+b3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/
+Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNV
+UklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNF
+Q1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFLPZ6T59wX4ReCZIJQvfKKhcxwjrMCsG
+A1UdEAQkMCKADzIwMjQxMjEwMTMyOTI4WoEPMjAyNjEyMTAxMzI5MjhaMAsGA1UdDwQEAwIF4DAf
+BgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjA5MTAwNDIz
+MzIwQAYKKwYBBAGCpnIDCQQyDDBHVUFZQVFVSUwgQ0FCRUNFUkEgQ0FOVE9OQUwgWSBDQVBJVEFM
+IFBST1ZJTkNJQUwwEQYKKwYBBAGCpnIDIgQDDAEuMCoGCisGAQQBgqZyAwcEHAwaQ0RMQSBMT1Mg
+VkVSR0VMRVMgWSBNWiAxNTcwHwYKKwYBBAGCpnIDAgQRDA9JR05BQ0lPIExPUkVOWk8wHwYKKwYB
+BAGCpnIDIAQRDA8wMDEwMDIwMDA2ODM1NzMwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGC
+pnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGTUFDSUFTMEYGCisGAQQBgqZyAwoEOAw2
+Q09NUEFOSUEgREUgVFJBTlNQT1JURSBERSBDQVJHQSBQRVNBREEgR1JVQVNNQUNJQVMgUyBBMB0G
+CisGAQQBgqZyAwsEDwwNMDk5MzM5NTI3NzAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGC
+pnIDBAQJDAdSRUlOT1NPMBAGCisGAQQBgqZyAwgEAgwAMA0GCSqGSIb3DQEBCwUAA4ICAQCPLrUj
+/WwMk/WEIJNGjQOcujRm51Nxuv8vaORoT6loaokk0EdVbX2I848U8jtk1a7feBfRXF5wqYbew9Hc
+j5MMCje60O9KneMwhIKNPPVoHVwYHxYppS1OIMj/Sv+0Kzf0UGf/5VUnK9PvUqEmMnKu/sRaO687
+6Z4JITyOdaHd3RwDzw9DXI+/+VIVXxO3glVznu2s/7OFvJh1KS3BOulV0086TsjaOJ+EKlThwNji
+Tb0qclmGp8g43nqmjGhIAItk6sB6DfNRGklCcH5qQ2XRdMmkqvorVFBTnOM5+BsjypbUAQt0dYQA
+k8RmVcUCLJIwoWP9RyKo3RSVr1D5YgcB1XZql29HSHni1zmUjIaTrVXy8T2lePLv9wwuKV1p/OMo
+4KYZvIiibbziQ8SFmrt7dR5ty81Y93eZhUl8ZfU6jS7t4vGlFXTamU5CD9DG2bi7rwiKoAI7sG4O
+cJ3yEpH5SdWfuAXN6ZHXHrrqFriLG0R2VIhsmTY8epAP780pV/5tJviKflTCRwFYaPLlSuurN0nO
+yL/05yb1Ef5XrVSAe1sHs5MH2Wtbl0+0m4ZYi1EUIK+sdD0fbaL9JWP+lQJTYFiJZhZFhjd3xS4C
+3TQeJoc3PFLVD9MHSRftZB2jD2bCfecDxnsTVcSusXFv8CcEZ5wBZ69iMVcenfXKMLxsZA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+6iIVbDxksVtMrhCkFYE47fJvwQxiRuzameBs6M8fg+7e1RD1nwLZX7pVz/CHZ/jrW9WD25xulmcT
+hfSQYRyXuQ3spUNzbneNsZvjr/c+srpghP/otRJcO5ENogXJqL18e+h6tiBEDbw8cXsCzBRRWg2b
+SIPY3B0j7gL+cZ+FP4FDiEK2bf5Uxax5J6bqONJdOyHlGn077Q8lsCmcksbYue/VTBfKp0HqTMHG
+EH531UZOfpRbHnaqT4nev1JFtB8uDw+upMnoQGlPHTW+vMNq3BKpCswZrUxqjaHSnmoza02rx+vr
+mhZv7LhXYFWtU3c63aY8xuqF6afb3YMz9GHQQQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature797420-Object506863"><etsi:QualifyingProperties Target="#Signature797420"><etsi:SignedProperties Id="Signature797420-SignedProperties337103"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-29T11:48:55-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>UswhpbAnzFtTjKKVC8SCT4JFpWM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>900142824</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

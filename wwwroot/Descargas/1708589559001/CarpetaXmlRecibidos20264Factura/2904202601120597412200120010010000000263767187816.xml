@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601120597412200120010010000000263767187816</numeroAutorizacion>
+<fechaAutorizacion>2026-04-29T22:28:19-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MONTERO MAYGUA MARIA BELEN</razonSocial>
+        <ruc>1205974122001</ruc>
+        <claveAcceso>2904202601120597412200120010010000000263767187816</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000000026</secuencial>
+        <dirMatriz>Ciudadela: NUEVO QUEVEDO Calle: AV. QUITO Numero: SOLAR 25 Interseccion: C Manzana: 7 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>29/04/2026</fechaEmision>
+        <dirEstablecimiento>Ciudadela: NUEVO QUEVEDO Calle: AV. QUITO Numero: SOLAR 25 Interseccion: C Manzana: 7 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>DAVILA PAZMIÑO WASHINGTON FIDEL</razonSocialComprador>
+        <identificacionComprador>1708589559001</identificacionComprador>
+        <totalSinImpuestos>78.26</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>78.26</baseImponible>
+                <valor>11.74</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>90.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>90.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>01-001</codigoPrincipal>
+            <descripcion>SERVICIOS/HONORARIOS PROFESIONALES</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>78.26</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>78.26</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>78.26</baseImponible>
+                    <valor>11.74</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">052750216</campoAdicional>
+        <campoAdicional nombre="Email">fwdavila@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-0cefb61c-1bf5-4d02-a2d3-1f4ec895c883"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-0cefb61c-1bf5-4d02-a2d3-1f4ec895c883-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>YYGcBXtROgEZiezGG5ICMQfNbiGw/T/0UboeBLIpDuo=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-0cefb61c-1bf5-4d02-a2d3-1f4ec895c883-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>VN1GnLIjaUUgUeIq+71vrNYMt5JHtN0Kco72UT++xg8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-0cefb61c-1bf5-4d02-a2d3-1f4ec895c883-sigvalue">gDsTaY+LxMeUJtIVtEr8ddkSmSdtyMkO/iFm97pDwtRwdN205ZyPu9rxGpy4Jvgtd7cNOw0kAN1Ou/g5uDu11GZmCXT8xJ0qBE4n2PY7RBUHYVnWMq3AwEOu50SxFOoaPNAuPOuwBahsTmrBICnQxlYiDcb+UPEdlbPiHlcIDO2TjAzogbh3ptpGxe3LfEINU8CYNWXK+V6WYYBUn0t/vbQHJE4993crsz4mMPKMrFjjT6tehUwwizMqFasmcIFDmocLpmp/GnMFddKZAaEHCwoDzDprpYPQafUbk04LsaKF+4KJ7/upk2/IqvGvnSqQS0WTM1Lt97K51ukxqYkurw==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-0cefb61c-1bf5-4d02-a2d3-1f4ec895c883"><xades:SignedProperties Id="xmldsig-0cefb61c-1bf5-4d02-a2d3-1f4ec895c883-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-29T22:28:18.798-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>EiA496bSlrQQ7++/1g48ogvJ/biUulDvEt6svVX319o=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>194996718565794882644183667446153924099</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-0cefb61c-1bf5-4d02-a2d3-1f4ec895c883-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

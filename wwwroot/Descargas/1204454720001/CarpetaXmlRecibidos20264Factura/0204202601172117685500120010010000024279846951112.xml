@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601172117685500120010010000024279846951112</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T14:31:56-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>Mariuxi Viviana Aguayo Triviño</razonSocial>
+    <nombreComercial>Mariuxi Viviana Aguayo Triviño</nombreComercial>
+    <ruc>1721176855001</ruc>
+    <claveAcceso>0204202601172117685500120010010000024279846951112</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000002427</secuencial>
+    <dirMatriz>Los Rosales Segunda etapa. Luis de Rivera y Luis Mideros</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>02/04/2026</fechaEmision>
+    <dirEstablecimiento>Los Rosales Segunda etapa. Luis de Rivera y Luis Mideros</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>AGUAYO ALVARADO CARLOS ALBERTO</razonSocialComprador>
+    <identificacionComprador>1204454720</identificacionComprador>
+    <direccionComprador>AV. 7 DE OCTUBRE #306 Y TERCERA, QUEVEDO</direccionComprador>
+    <totalSinImpuestos>50.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>50.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>50.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>50.00</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>CBMIN-CZ2</codigoPrincipal>
+      <descripcion>COMBO CITRUS ZINC X2</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>25.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>50.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>50.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">AV. 7 DE OCTUBRE #306 Y TERCERA, QUEVEDO</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0999399935</campoAdicional>
+    <campoAdicional nombre="EMAIL">-</campoAdicional>
+    <campoAdicional nombre="GENERAL">Contribuyente Régimen General</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature678775">
+<ds:SignedInfo Id="Signature-SignedInfo744425">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID908915" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature678775-SignedProperties620060">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>x4a1aSLzsC0u/IPZbC+wvgI+2U8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1695143">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>azOAfk808s43IIbYpRsu81exbB0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-612854" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>c9Dn+sdAoGNjl9Vbhe6v/9yI6Uc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue617885">
+geK6dr1a7I23sJ49/ySGIbKpJjvDNVJUQ/1IuazNKzR7R5/l4b5Upz3b3EgRbkwfKER47AGKYg1g
+dpc3rpMn6YGtJa2Y0bfMzH4a8SiQAwMwZ6EUhFWlOfrOE5UsIkWkfFv1l3Lutuol5S1hY4iBmKTC
+t5N2N8ERCpGZHxPjhT8HDfxsRIvauqT7gzMDn/ipx4Nb2Uj+DS73Z8I6tjKMtaU0uDZ4E8sCitzK
+L+HrFWJ7d+nqkg5wDtKAw9t2u6L7GuIVpM9UgxeEIJ31tLVoOtOQ3jm0XIat5AS1cZUG3jkQv8Nf
+JFW+JagCRd8Ufk+xxZ+vn9JgeVtV/0YBIKuzwQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1695143">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJUjCCBzqgAwIBAgIIXGmkDEtPhSAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MTAwMTE1MTkwMFoXDTI2MTAwMTE1MTkwMFowgaQxCzAJBgNVBAYTAkVDMRgwFgYDVQQEDA9B
+R1VBWU8gVFJJVknDkU8xGDAWBgNVBCoMD01BUklVWEkgVklWSUFOQTEZMBcGA1UEBRMQSURDRUMt
+MTcyMTE3Njg1NTEoMCYGA1UEAwwfTUFSSVVYSSBWSVZJQU5BIEFHVUFZTyBUUklWScORTzEcMBoG
+A1UEYQwTVElORUMtMTcyMTE3Njg1NTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AIqMMgSzcM9VcvMOWKT8d830RLYqo/IboWcZvTd8x39idcQsjwU72HdD+wKxY6jE28SsJpts6pA4
+XBlXhU6s80IAf5tBVmXaK/G4ZyuJ3NkUBpEi8IYwxVBAX1vVoVz/tHKnzOUruO60NSpRtv/0BYKc
+V3X1CmHvPZ0nfUGvDyZPKfuf9cYIXNRcOwN3lyOiNR+skZLbkNux1OE2XNSWCHFahtxavXpuMAg9
+YSHVrdenZn9PusdA0bY2pGt/CngnT6NbrbZTsdcHKSeg1SG6QeOwdqj/88aZrmuL4IMFrWXAxgaf
+b37nEggTsRDEj/mhaJkk5PnEXoM9aDRFvgbnYXMCAwEAAaOCBHAwggRsMBsGCysGAQQBgvE2ZgMB
+BAwMCjE3MjExNzY4NTUwHgYLKwYBBAGC8TZmAwsEDwwNMTcyMTE3Njg1NTAwMTCB1wYIKwYBBQUH
+AQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3du
+bG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6
+Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDov
+L29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBRSMvpAdgF7zopa
++RSyQNIR4GjrzzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9
+MIGZBgNVHSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRwczovL3d3
+dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNFUlRJRklD
+QURPIERFIFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQw
+QKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRp
+bmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9D
+QTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggr
+BgEFBQcDBDCCAaYGA1UdEQSCAZ0wggGZgRRsZXNjdXJlbGFiQGdtYWlsLmNvbaAbBgsrBgEEAYLx
+NmYDAaAMDAoxNzIxMTc2ODU1oCAGCysGAQQBgvE2ZgMCoBEMD01BUklVWEkgVklWSUFOQaAXBgsr
+BgEEAYLxNmYDA6AIDAZBR1VBWU+gGQYLKwYBBAGC8TZmAwSgCgwIVFJJVknDkU+gUwYLKwYBBAGC
+8TZmAwegRAxCTE9TIFJPU0FMRVMgU0VHVU5EQSBFVEFQQS4gTFVJUyBERSBSSVZFUkEgWSBMVUlT
+IE1JREVST1MgICAvICAvICAvoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTM5Nzc1MjM0oB4GCysG
+AQQBgvE2ZgMJoA8MDVNBTlRPIERPTUlOR0+gHgYLKwYBBAGC8TZmAwugDwwNMTcyMTE3Njg1NTAw
+MaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5BVFVSQUwg
+TyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAoUFd
+JDZfvpB81ScmeQx75MDJP2PztO0Z2PGBgUEUB8uJwXjc6r08fqEcZ3/YAmZnM0lfYkngA4z+9/J3
+bYi4ySCx8UvY0aQGMJbAk6V6vMi4fMU/dDIQB0CivJUdDbtP/0HmnlZQW7Nbm/GYi0eDgS1jdfiL
+p37yNczm29I3tqT7JPXX51/CCqP5pgUp/is6uSqNF9vSPD3OTAFrONlqaEXh8R0pIJ5SID+Fzu8j
+/4laEhoxfir3bnvMdRNTPTV4gtUKUPpk2FgGwdnSAE/QKRXn/VO76kKETwSORXMIiurzUgTqStN8
+lykb56XsbWOX25S7b3rGIFAqHSg6QZMQa05WSoFvqBfw+SuHYlnhwbeBLvKD8okp3f/uZK11aCiw
+SBqR0gnA+3179bqUY0risl1aCC5o6XFyFDIOhnfdX1sfrPKd57x09f3VSGsPoG5F7xN4XB/KVM1D
+F/YLNtxSL5UII5fTj25bSuv5Lnq3UZki2Agt31aNSuRIA4o22I5GEHOZHBg6seXf09h6ZwpGBcwE
+sWFX52oZUiv/Ac06G7FJmn8SfYIb5MssfXFWJy9rOTQknr8CPF7hghta+pAl+bowIUzRE2M2xAr/
+XCH1JZztHT4RhdUJcGgGXK2/4YpmmQMHV9XNWPMXL+eoS+KjwpY1MeciiLGPMp02qF3TeGA=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iowyBLNwz1Vy8w5YpPx3zfREtiqj8huhZxm9N3zHf2J1xCyPBTvYd0P7ArFjqMTbxKwmm2zqkDhc
+GVeFTqzzQgB/m0FWZdor8bhnK4nc2RQGkSLwhjDFUEBfW9WhXP+0cqfM5Su47rQ1KlG2//QFgpxX
+dfUKYe89nSd9Qa8PJk8p+5/1xghc1Fw7A3eXI6I1H6yRktuQ27HU4TZc1JYIcVqG3Fq9em4wCD1h
+IdWt16dmf0+6x0DRtjaka38KeCdPo1uttlOx1wcpJ6DVIbpB47B2qP/zxpmua4vggwWtZcDGBp9v
+fucSCBOxEMSP+aFomSTk+cRegz1oNEW+Budhcw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature678775-Object25735"><etsi:QualifyingProperties Target="#Signature678775"><etsi:SignedProperties Id="Signature678775-SignedProperties620060"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T14:31:53-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>H1+XfZR4hF6GT7EdIlz8ZTyJvxc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>6659033896754054432</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-612854"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

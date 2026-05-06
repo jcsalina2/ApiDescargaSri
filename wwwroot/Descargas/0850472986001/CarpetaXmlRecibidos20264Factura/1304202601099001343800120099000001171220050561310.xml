@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601099001343800120099000001171220050561310</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T12:34:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ANGLO ECUATORIANA DE GUAYAQUIL C.A</razonSocial>
+        <nombreComercial>ANGLO ECUATORIANA DE GUAYAQUIL C.A</nombreComercial>
+        <ruc>0990013438001</ruc>
+        <claveAcceso>1304202601099001343800120099000001171220050561310</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>009</estab>
+        <ptoEmi>900</ptoEmi>
+        <secuencial>000117122</secuencial>
+        <dirMatriz>AV. 9 DE OCTUBRE 1717 Y J.MASCOTE</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>13/04/2026</fechaEmision>
+        <dirEstablecimiento>Pedro Pablo Gómez 514 entre Machala y Quito</dirEstablecimiento>
+        <contribuyenteEspecial>02239</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>CEDEÑO LOOR MAYTER VALESKA</razonSocialComprador>
+        <identificacionComprador>0850472986001</identificacionComprador>
+        <direccionComprador>ESMERALDAS  ATACAMES / TONSUPA / VIA ATACAMES 11</direccionComprador>
+        <totalSinImpuestos>108.05</totalSinImpuestos>
+        <totalDescuento>36.43</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>108.05</baseImponible>
+                <tarifa>15</tarifa>
+                <valor>16.21</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>124.26</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>124.26</total>
+                <plazo>4</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>35003033002</codigoPrincipal>
+            <descripcion>EMBRACO EM2X3125U 1/3-3/8HP R290 110V BAJA/MEDIA</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>138.530000</precioUnitario>
+            <descuento>30.48</descuento>
+            <precioTotalSinImpuesto>108.05</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>108.05</baseImponible>
+                    <valor>16.21</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>60057REFRI01</codigoPrincipal>
+            <descripcion>PROT.ELECT. P'REFRIGERADOR 110V/12A SR-12-1 FRIGOP</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>5.950000</precioUnitario>
+            <descuento>5.95</descuento>
+            <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="CONDICIONES DE PAGO">AL COBRO,2026-04-17, $124.26 / </campoAdicional>
+        <campoAdicional nombre="DIRECCION">ESMERALDAS  ATACAMES / TONSUPA / VIA ATACAMES 11</campoAdicional>
+        <campoAdicional nombre="Correo Electrónico:">facturacion@myc-global.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature843845"><ds:SignedInfo Id="Signature-SignedInfo101907"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID90507" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature843845-SignedProperties504542"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>vYJZATf5bHMOU+Wn/WYtoZZJ2tA=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1123367"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>YMsyY1cG/rAeh0JgLOBMEKqWHBs=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-891582" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>CdsnkCx4mai8Bgh/W94gRdEjWBk=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue626602">SszXB6PSNDQfVkBXJezqpq7Ecx69qTGQYTuS2/yJNR/Kzk5Q20YdtH9h6xSeHLjkldsPF322A6b5VsGtx/4ZvoUdN+kN6napPKbRg3sQxcAHRaA9Aue0gkpumB+guOuzu+V9UXl8CyJwnq1W/SGsD0XKYIp4U/Xtr3q2a8iPfWknY3lrwi/SqwHXGoUE1RQUeCRzGaRbK2dm9JzUPzWvL0nGiOHfNWac61ag7S/osejBD3kw/TzprbMhOA9/fyvlxH+4PyhX+ows0z52bDmhpIoJgSziO+jTGJWYR4ODVJrONZbaFRI+awaH30giMHOro9qJNHIAO1rR/HBYnfH2PA==</ds:SignatureValue><ds:KeyInfo Id="Certificate1123367"><ds:X509Data><ds:X509Certificate>MIIMCTCCCfGgAwIBAgIEHGH1ATANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTEyMjcyMjQwMjRaFw0yNjEyMjcyMjQwMjRaMIGcMSUwIwYDVQQDDBxKVURZIEFOTkFCRUxMRSBSRVlFUyBTRUdBUlJBMRUwEwYDVQQFEwwyNzEyMjExNzUwMTMxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjCgFljCA3RstgjAV5ZoWmuZ2Gb/dsthQ3ZZwUwiXYw0yPO4RngQCR5aLCDlR849uxQGhkqeJJ6lj30TwzTwJJXQHLFmsk0aDBpMf7ifZeKGwkqgHtvmZF404h1rhrCoDDb11AjANdDR/n+walEZLYxD4Q8cmUp+kkVaHK1QnvOFOtQlTJFNgNwtcij1kwxLnklNnJAy8h2p10SAcEKdvlDbskv0/znHRkiVSJbgV8ITxdoUUvjm7B1aMGJVgm1R7KjKb8ROvvfqBdTIaBXtVZqAH38+690SgOS/CEWZxFPI6MJFZF+Fa9IxaLKnnhXJI3nrHc5ruy5Wj5MKAxjibXQIDAQABo4IHUjCCB04wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwHQYDVR0RBBYwFIESanVkeXJzNDU2QHlhaG9vLmVzMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFDUYfzeQLs6tuVvn6qisF6bOC89DMCsGA1UdEAQkMCKADzIwMjExMjI3MjI0MDI0WoEPMjAyNjEyMjcyMjQwMjRaMAsGA1UdDwQEAwIF4DAZBgorBgEEAYKmcgMFBAsMCUNPTlRBRE9SQTAaBgorBgEEAYKmcgMBBAwMCjA5MDYwMjA3MjIwGQYKKwYBBAGCpnIDCQQLDAlHVUFZQVFVSUwwEQYKKwYBBAGCpnIDIgQDDAEuMDQGCisGAQQBgqZyAwcEJgwkQVYuIDkgREUgT0NUVUJSRSAxNzE3IFkgSk9TRSBNQVNDT1RFMB4GCisGAQQBgqZyAwIEEAwOSlVEWSBBTk5BQkVMTEUwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDAxNzUxNDgwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisGAQQBgqZyAwMEBwwFUkVZRVMwMwYKKwYBBAGCpnIDCgQlDCNBTkdMTyBFQ1VBVE9SSUFOQSBERSBHVUFZQVFVSUwgQy5BLjAdBgorBgEEAYKmcgMLBA8MDTA5OTAwMTM0MzgwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAXBgorBgEEAYKmcgMEBAkMB1NFR0FSUkEwGgYKKwYBBAGCpnIDCAQMDAowOTk0OTczOTE3MA0GCSqGSIb3DQEBCwUAA4ICAQCsZOv+dVwE1lgnxmLgSmtjvQOiWolc8NKb5DZ8fkRsPwoGDBnOgtN2KoYURdXoCtbVmJq2+nkl69FLXEZRiWjBbilaLputGPLayHZXXcsCa00qoZkNsyhpj2g9Nfhy/zTXvK+nzT5qg3BkzltL+L74/ByXMScte4ub0OvydTNVVQ/eXQRrC/Ky6dYLksT8g1RD3h+cFhvfjG9pq6Ob6YmmpOubDhw8/lKNeps5TLQTqcKbvNzlCKHS4k2iYKaRhYH9qR4xyyPhdMgBtLyG9FGWNxsp+QwruXkty9K+w/3/5G1RX20mGo7ya8T7M64wE7uL7jaSYTKLksP+4JnSuHgQF5k4D93A8dBigbbB4PmS7W3DWBJn5k2iVSTaUpaU6XEMXblYUB0a0gzkKtu4W2KiZN/mI8U8Qg6MxTJGquA1ORb117J9ZyZ2mDpHC+qukWQ6j7RwSo22HLExK6lwBScm3Wqt8GEvQsufVdNMW1veuomCWuHujvNg5u+EWhQmBEqMY4IuV7aSGofhwJL+gSb0Z9YPR+zEx7U8os1XW5zGD4z7/W7XGFKL0rnX6ruX26mDCzJHWJvFrbSeZRocSvMFBnRzcIjahZmlfxQ60vz6rJ/CTdZ9LIOLQs3qxylY22YPccTgXOWoAZVDyTAXNZ3k58QDyXRqATHzfGWthkHnqA==</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+jCgFljCA3RstgjAV5ZoWmuZ2Gb/dsthQ3ZZwUwiXYw0yPO4RngQCR5aLCDlR849uxQGhkqeJJ6lj30TwzTwJJXQHLFmsk0aDBpMf7ifZeKGwkqgHtvmZF404h1rhrCoDDb11AjANdDR/n+walEZLYxD4Q8cmUp+kkVaHK1QnvOFOtQlTJFNgNwtcij1kwxLnklNnJAy8h2p10SAcEKdvlDbskv0/znHRkiVSJbgV8ITxdoUUvjm7B1aMGJVgm1R7KjKb8ROvvfqBdTIaBXtVZqAH38+690SgOS/CEWZxFPI6MJFZF+Fa9IxaLKnnhXJI3nrHc5ruy5Wj5MKAxjibXQ==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature843845-Object336564"><etsi:QualifyingProperties Target="#Signature843845"><etsi:SignedProperties Id="Signature843845-SignedProperties504542"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T13:34:32-04:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>8nS7EbpNrTEvOwlZMNz+jrD/uM8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>476181761</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-891582"><etsi:Description>Documento electrónico para SRI</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601099130007400120010040001693821234560114</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T19:26:05-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>ALMACEN PROMOCIONES S. A.</razonSocial><nombreComercial>ALMACEN PROMOCIONES S. A.</nombreComercial><ruc>0991300074001</ruc><claveAcceso>0604202601099130007400120010040001693821234560114</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>004</ptoEmi><secuencial>000169382</secuencial><dirMatriz>Clemente Ballen 625 entre Boyaca y Garcia Aviles</dirMatriz></infoTributaria><infoFactura><fechaEmision>06/04/2026</fechaEmision><dirEstablecimiento>Clemente Ballen 625 entre Boyaca y Garcia Aviles</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>ERIKA FERNANDEZ</razonSocialComprador><identificacionComprador>0920196813</identificacionComprador><totalSinImpuestos>17.52</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>17.52</baseImponible><valor>2.63</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>20.15</importeTotal><moneda>DOLAR</moneda></infoFactura><detalles><detalle><codigoPrincipal>0547-7</codigoPrincipal><descripcion>69. PRENDEDOR MEDALLA IMPERDIBLE 12-DIS.</descripcion><cantidad>6</cantidad><precioUnitario>0.65</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.90</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>3.90</baseImponible><valor>0.59</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>0547-4</codigoPrincipal><descripcion>69. ROSARIO BLANCO EN FRASCO 12-DIS.</descripcion><cantidad>12</cantidad><precioUnitario>0.83</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>9.96</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>9.96</baseImponible><valor>1.49</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>31024-39</codigoPrincipal><descripcion>69. LLAVERO RELIGIOSO</descripcion><cantidad>6</cantidad><precioUnitario>0.61</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.66</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>3.66</baseImponible><valor>0.55</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="email">erikaf89@gmail.com</campoAdicional><campoAdicional nombre="direccion">NUEVA KENNEDY</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature275218">
+<ds:SignedInfo Id="Signature-SignedInfo591967">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID189752" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature275218-SignedProperties707453">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>brAK++VGxx2xB1kX233+XcfxotM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11012085">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>UK3O3+TY5DBQ65Axk2ACHqE44TY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-741093" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>9vwA/uUanKbV0RMvCE1K0/OfrYs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue442365">
+kyLjk02a3YQp8+fQYnLiAQswVa38wnCGYRtDFwJzj08qM3MmpI669p4uSfa/BQCzoPVVPbOqDhB5
+l74uuwejl0ZGfqYoUwRgVEPNkbk31cAn6uacU0swHau7QocXMTtXCf2BrGWpZty/bVzNbWxdbfxE
+Uw4c9rR+dj/DFDinLec4dGCOfX9vfiQZ0K2/PaspAPzyeyLd+7CVAfjrgkgDOqkP69u/ZO2m2hPm
+odVSViwHBg8EBytedaRDuGPuz1LSx5fDYHkAeMiphbMDH8M2WkOK9/h/cgiKHAyfm9ZLQcVuCh5x
+G6DGYPeFgR1S0mnSJHueL6/MV43YRh5fLs9w7A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11012085">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ4TCCB8mgAwIBAgIEZefgPjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI2MDIyNTE3MzkyNVoXDTI4MDIyNTE4MDky
+NFowga4xCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzEyMBEGA1UEBRMKMDIwMDAyNjExODAdBgNVBAMTFk1BTlVFTCBJU0FBQyBN
+VU5PWiBQQVowggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDtEfypoF9tOV01pq3eXQyJ
+98ZxUcZaHlcsUsHhrdRBeAht84o4+Y1L8f/DpWCjHUGpEC+UtfVpePX6JSA2EA8lcbR3SgiE/7JY
+3+174Iyr7GWb0r910k2kZkoImjuW6MUCcglGPJlY91Fp6p7lHmaKWxp3xKroHktRKuuYexYVO94D
+dUJQmzuGzqWl6HbBnkDbnKREHyY+IVx7ZN2lhcX6ZWXhriB+kWJ+cxYOYcbg2HmdHDjkV79rxaJw
+xTtYuCuhj9uccIrVQ1t4EL+DfIWVdUW7udIPZVDVnZN6e/Mnj3Y/CEoYRbQrXx30dQI1LQ9P8eB9
+Ea2W34ZDUKBPfWKtAgMBAAGjggUQMIIFDDALBgNVHQ8EBAMCBsAwZwYDVR0gBGAwXjBcBgsrBgEE
+AYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRpY2EtY2Vy
+dGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsGAQUF
+BzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDA/
+BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1
+cy9vY3NwMDEGCisGAQQBgqg7AwoEIxMhQUxNQUNFTiBQUk9NT0NJT05FUyBTLkEuIEFMTUFQUk9N
+MB0GCisGAQQBgqg7AwsEDxMNMDk5MTMwMDA3NDAwMTAaBgorBgEEAYKoOwMBBAwTCjEyMDA0ODM5
+NTQwHAYKKwYBBAGCqDsDAgQOEwxNQU5VRUwgSVNBQUMwFQYKKwYBBAGCqDsDAwQHEwVNVU5PWjAT
+BgorBgEEAYKoOwMEBAUTA1BBWjAXBgorBgEEAYKoOwMFBAkTB0dFUkVOVEUwHwYKKwYBBAGCqDsD
+BwQREw9DTEVNRU5URSBCQUxMRU4wGQYKKwYBBAGCqDsDCAQLEwkwNDQ2MDI3NDMwGQYKKwYBBAGC
+qDsDCQQLEwlHVUFZQVFVSUwwFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7AzME
+EhMQU09GVFdBUkUtQVJDSElWTzAkBgNVHREEHTAbgRltbXVub3pwYXoxOTU0QGhvdG1haWwuY29t
+MIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2Uu
+ZWMvY249Q1JMMjMzNSxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1R
+VUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1F
+Q0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVS
+ZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNf
+Y3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJB
+TCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwg
+REVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDIzMzUwKwYDVR0QBCQwIoAPMjAyNjAyMjUxNzM5MjVa
+gQ8yMDI4MDIyNTE4MDkyNFowHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0O
+BBYEFPBIMkiOTCC/qFaasZJZrQV5C5KTMAkGA1UdEwQCMAAwGgYJKoZIhvZ9B0EABA0wCxsFVjEw
+LjADAgQwMA0GCSqGSIb3DQEBCwUAA4ICAQDC7pbP9guMsDPvno1JnRYLiI3JJCLS4XSEHcRpqMxf
+Fko+jXwpX1X/9iT4EkKznDAORnJzHgFeg5Pva/LLAMaRZFSi9HY7jqB4aOFeQodsW/N+KnkBw2jG
+C04o/5cYQnzZKFs2KxivlyWxxiqHqUCUUjrAEgcjbfe0Aon14t+/3jNMNly0GYGCzPGEkqctKOGa
+geubr/hAIu/ItRu2Kh9PK2j/N0gr7YXOhYWvgVVLqfzWOIgZd+kFGWtx3vtB3cStyU9U57kSb2Yk
+Ic62o+HgfBOFKdG93I0SX28Evf8EpEjT3X3ZeQRYgD/6v27ATpSeMZlQY14PVX27V5C/rxToMtL1
+2K0VyM3Gw8R/AHTT+FoRXzcnGrsWaN9hkTPQAfOsaK8bZiVO1XoBHlOPyNCqMkNtUNFn5Uu39s8B
+QM2oyRk3JvuWeDvnFKVYMZ6YN2stlLbimsXO99hytXdO44EbSMIkmNnMzYdZkACOJPZVyKLc6fBQ
+bc7Sl8uKBajVmXUTncRB0rNHZiD7P4KkpH6Pt7K4FhhzRAGBM5OTvrZD/jpuX2mw5EE2rdfWEp+V
+ZfpKZJF8XYagDs9lisrUxJBhkUZryE2GDS3nME+HjqofSIKA9IL0jMIFo/dyr2nOGok2elIBS20/
+4rJsnftltKKuy/FpUEl0bociDAQBfbJ+qQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+7RH8qaBfbTldNaat3l0MiffGcVHGWh5XLFLB4a3UQXgIbfOKOPmNS/H/w6Vgox1BqRAvlLX1aXj1
++iUgNhAPJXG0d0oIhP+yWN/te+CMq+xlm9K/ddJNpGZKCJo7lujFAnIJRjyZWPdRaeqe5R5milsa
+d8Sq6B5LUSrrmHsWFTveA3VCUJs7hs6lpeh2wZ5A25ykRB8mPiFce2TdpYXF+mVl4a4gfpFifnMW
+DmHG4Nh5nRw45Fe/a8WicMU7WLgroY/bnHCK1UNbeBC/g3yFlXVFu7nSD2VQ1Z2TenvzJ492PwhK
+GEW0K18d9HUCNS0PT/HgfRGtlt+GQ1CgT31irQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature275218-Object870859"><etsi:QualifyingProperties Target="#Signature275218"><etsi:SignedProperties Id="Signature275218-SignedProperties707453"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T19:35:26-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>hvkIM+zyut2tLySJnx4RVLj57YM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709695038</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-741093"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

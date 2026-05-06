@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601179181248400120210030001888717846333310</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T09:51:23-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ds="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>TRECX S.A.</razonSocial>
+        <nombreComercial>PINTULAC</nombreComercial>
+        <ruc>1791812484001</ruc>
+        <claveAcceso>1304202601179181248400120210030001888717846333310</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>021</estab>
+        <ptoEmi>003</ptoEmi>
+        <secuencial>000188871</secuencial>
+        <dirMatriz>Rumihurco OE4-365 y Pedro Freile</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>13/04/2026</fechaEmision>
+        <dirEstablecimiento>Vía Principal s/n(Junto al puente)</dirEstablecimiento>
+        <contribuyenteEspecial>590</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>CEDENO LOOR MAYTER VALESKA</razonSocialComprador>
+        <identificacionComprador>0850472986001</identificacionComprador>
+        <direccionComprador>TONSUPA </direccionComprador>
+        <totalSinImpuestos>31.68</totalSinImpuestos>
+        <totalDescuento>7.11</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>28.01</baseImponible>
+                <valor>4.21</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>3.67</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <importeTotal>35.89</importeTotal>
+        <moneda>USD</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>35.89</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>21567</codigoPrincipal>
+            <codigoAuxiliar>PBH-25</codigoAuxiliar>
+            <descripcion>BOQUILLA VERDE 25° P' HIDROLAV PORTEN</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>4.82</precioUnitario>
+            <descuento>0.24</descuento>
+            <precioTotalSinImpuesto>4.58</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>4.58</baseImponible>
+                    <valor>0.69</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>24493</codigoPrincipal>
+            <codigoAuxiliar>CRSM1-OC</codigoAuxiliar>
+            <descripcion>CARALZ PU/ PLSTER S/M COLORES PASTELES PLANOS @</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>7.08</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>7.08</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>7.08</baseImponible>
+                    <valor>1.06</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>37109</codigoPrincipal>
+            <codigoAuxiliar>W1723-OC</codigoAuxiliar>
+            <descripcion>PRIMER PU BCO 500CM3 C/CATAL WESCO</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>6.48</precioUnitario>
+            <descuento>1.56</descuento>
+            <precioTotalSinImpuesto>4.92</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>4.92</baseImponible>
+                    <valor>0.74</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>40421</codigoPrincipal>
+            <codigoAuxiliar>KD-20126</codigoAuxiliar>
+            <descripcion>DESTORNILLADOR ESTRELLA IMAN PH1X100MM KENDO</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>1.46</precioUnitario>
+            <descuento>0.29</descuento>
+            <precioTotalSinImpuesto>1.17</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1.17</baseImponible>
+                    <valor>0.18</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>40422</codigoPrincipal>
+            <codigoAuxiliar>KD-20132</codigoAuxiliar>
+            <descripcion>DESTORNILLADOR ESTRELLA IMAN PH2X150MM KENDO</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>1.94</precioUnitario>
+            <descuento>0.39</descuento>
+            <precioTotalSinImpuesto>1.55</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1.55</baseImponible>
+                    <valor>0.23</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>40495</codigoPrincipal>
+            <codigoAuxiliar>KD-10101</codigoAuxiliar>
+            <descripcion>ALICATE METALICO 160MM-6" C/MANGO-GOMA KENDO</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>4.95</precioUnitario>
+            <descuento>0.99</descuento>
+            <precioTotalSinImpuesto>3.96</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>3.96</baseImponible>
+                    <valor>0.59</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>41822</codigoPrincipal>
+            <codigoAuxiliar>CABL</codigoAuxiliar>
+            <descripcion>CUPON DE ACEPTACION</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>0.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>0.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>42285</codigoPrincipal>
+            <codigoAuxiliar>KD-20111</codigoAuxiliar>
+            <descripcion>DESTORNILLADOR PLANO IMAN 6X100MM KENDO</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>1.76</precioUnitario>
+            <descuento>0.35</descuento>
+            <precioTotalSinImpuesto>1.41</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1.41</baseImponible>
+                    <valor>0.21</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>58071</codigoPrincipal>
+            <codigoAuxiliar>SX-5073A-20/A</codigoAuxiliar>
+            <descripcion>FUMIGADORA 2LT</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>6.12</precioUnitario>
+            <descuento>2.45</descuento>
+            <precioTotalSinImpuesto>3.67</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.00</tarifa>
+                    <baseImponible>3.67</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>69300</codigoPrincipal>
+            <codigoAuxiliar>KD-20131</codigoAuxiliar>
+            <descripcion>DESTORNILLADOR ESTRELLA IMAN PH2X100MM KENDO</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>1.63</precioUnitario>
+            <descuento>0.33</descuento>
+            <precioTotalSinImpuesto>1.30</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1.30</baseImponible>
+                    <valor>0.20</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>69430</codigoPrincipal>
+            <codigoAuxiliar>KD-20217</codigoAuxiliar>
+            <descripcion>DESTORNILLADOR CORTO 2EN1 PH2X6MM KENDO</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>2.55</precioUnitario>
+            <descuento>0.51</descuento>
+            <precioTotalSinImpuesto>2.04</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>2.04</baseImponible>
+                    <valor>0.31</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="GRAN CONTRIBUYENTE">Oficio Nro. NAC-GCFOIOC21-00001002-E</campoAdicional>
+        <campoAdicional nombre="email">facturacion@myc-global.com</campoAdicional>
+        <campoAdicional nombre="terminos">Acepto que he sido informado sobre el uso, manejo, aplicación de los productos, y políticas de garantía en maquinaria y herramientas. No se aceptan devoluciones ni cambio de colores en productos preparados.</campoAdicional>
+        <campoAdicional nombre="Observacion">Ud. es importante para nosotros  </campoAdicional>
+        <campoAdicional nombre="Atendido">Atendido por: CECILIA CECIBEL  ZAMBRANO NAPA</campoAdicional>
+        <campoAdicional nombre="Observacion">DeUna: $35.89</campoAdicional>
+        <campoAdicional nombre="Compra">ORDEN DE COMPRA:  </campoAdicional>
+        <campoAdicional nombre="Entrega">DIRECCION DE ENTREGA: TONSUPA </campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1619192230"><ds:SignedInfo Id="SignedInfoDoc"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="SignedProperties734" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>l3Q+EySdmxJr+HkNYP522uvpSOA=</ds:DigestValue></ds:Reference><ds:Reference Id="Cert495" URI="#Certificate"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>SsQmjbP9S+2oDHI9QuMXWQ/JDgc=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference702" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>l+W0jkqoAHfJdf7alucjL7SdAcw=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>lMhSZ3rMSI0aGNdarMXH+MikWkvhRX41sdJWms5QjcHhdr5cha+CeMHvxzFxSSDeYvMv/mKhNdMaHvzPsfo9Blq/R3xDpWwVhuIu+YE6eBMxioODwV+vIgKzcq05eX2y+JvKnr1nrELRtClkr1bnzXTfWdNNGlHm0g149mGMZudkE0cfkd3lDLatAzfCyhWZL2ov5dpWtRVaupWwllvjJzlTxfdvAelwS5F+ysnlxlsoGOg0GLDvaB7oDt+rtj61sVRAiw+gDu50SLLrCHOwq2TF27b+G5zjwg/R3xwfVLBnVcj3jLWmF0wTa+YZqWTZShiKrma/uXOE99HyeOFuFA==</ds:SignatureValue><ds:KeyInfo Id="Certificate"><ds:X509Data><ds:X509Certificate>MIIMGjCCCgKgAwIBAgIEDnKXmTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA3MTAxNjQ0MTJaFw0yNzA3MTAxNjQ0MTJaMIGpMScwJQYDVQQDDB5HVVNUQVZPIFNFQkFTVElBTiBPUlRFR0EgVEFQSUExIDAeBgNVBAUTFzE3MjE4MzQ3ODQtMTAwNzI0MTE1NDAwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL2WdzehI8zTUMmcyGqt9L1l9H8U3c+yi9P7F+oeMRVaaFzEeh8H2JgsdJk9qYXkSMhTBpDaMjkGIqW4jg0n/pl/aRcTQi/hYY+9+OT/xUcotqtRih+ZIsaPPVGBwGWHNd2sid1ln8CN9gdIY+7kO5ECdwNHwz8wZCPRimkRkViBFcREe/4lLet9mQUYzq7X86BdgaK/mhRcff7uqD95WtBRPqL/tluwanEQUGs53nbmX6c+yGWPz+9fmVrPmjn0h8YKPMjc0i9h4wvGk1O6Zs0/RNjWqQKgIohWAVf4vkDJEPHAD8U2eUaJMhgsJt3WNACIGFmL2aOz+hicJGsoOAsCAwEAAaOCB1YwggdSMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCYGA1UdEQQfMB2BG29ydGVnYXNlYmFzdGlhbjIwQGdtYWlsLmNvbTCCARIGA1UdIASCAQkwggEFMGAGCisGAQQBgqZyAgowUjBQBggrBgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAATQBpAGUAbQBiAHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZyAgQwgZEwgY4GCCsGAQUFBwIBFoGBaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBRKZn/LyoRXRoymQ0i0k5+GNusblDArBgNVHRAEJDAigA8yMDI0MDcxMDE2NDQxMlqBDzIwMjcwNzEwMTY0NDEyWjALBgNVHQ8EBAMCBeAwHgYKKwYBBAGCpnIDBQQQDA5BTkFMSVNUQSBERSBUSTAaBgorBgEEAYKmcgMBBAwMCjE3MjE4MzQ3ODQwGgYKKwYBBAGCpnIDCQQMDApDT1RPQ09MTEFPMBEGCisGAQQBgqZyAyIEAwwBLjAvBgorBgEEAYKmcgMHBCEMH1JVTUlVUkNPIE9FNCAzNjUgWSBQRURSTyBGUkVJTEUwIQYKKwYBBAGCpnIDAgQTDBFHVVNUQVZPIFNFQkFTVElBTjAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMDgzOTUxMTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZPUlRFR0EwEQYKKwYBBAGCpnIDHgQDDAEuMBkGCisGAQQBgqZyAwoECwwJVFJFQ1ggUyBBMB0GCisGAQQBgqZyAwsEDwwNMTc5MTgxMjQ4NDAwMTARBgorBgEEAYKmcgMdBAMMAS4wFQYKKwYBBAGCpnIDBAQHDAVUQVBJQTAaBgorBgEEAYKmcgMIBAwMCjA5ODcyMTA2ODQwDQYJKoZIhvcNAQELBQADggIBAIV4Ap0iLOL+c2Yp/23ls8jAeqnFZ+mVJsVJVc9pfiULMDJH7aAE7/U1NGDCZ8RoGgOhGImbyRfIFSEVdf5a8C2tDeQD7hbE4kLYDuBHQvODn1VzSv+8CI17/FZgzkGDWIZfjEs7IJ2qOkuP0WO5Iz6w2usKF6l2zsRU7vq0ygyMZhT+XCwSKxMXxQkRvqNj2XLF0rH7n9TgC8B+aYQXbctV4CsK7zK5Lamzqa9Ix/748Hg8V82EyVDpGdbTMlINCqoYsYg5HHQp2BUXn0NW8JZydnM6qR50UGvfHljsh87GC2Nbe6OS1HrE3v32mmoLXBvcozVh6HtVOPxSpZzdrH9dvilrSeOT+nyhfHkueGFyFHw53T8RjeF9H3H+gvtXHdn05FwymglSOn1hqRMaX7GE8PqHPHOLn8VzdOc7Y5oI7pnTQ2J3Zj5XPYYf9dp4ham2V9LYO1QxiLOLb3bLLLLZK1R7G10PDvj22+P7wpZ0aLH93Y9zjeh0mD5VowoE9UjeQEolo0PwU1z7ut34D711PV9B4Xn5Y1cg6eP3dxCn6ms6SGdmujNhmt2JqAmb4SENSL5Sesj8HxRICZsz0f8N+kS56ZxHLW1xAM81aluuRt+4MZCIUB4cxzVglQql7wG9zwOik+bvU0CPiIk/BUB6bRynJqMZubC0V16YxOwn</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>vZZ3N6EjzNNQyZzIaq30vWX0fxTdz7KL0/sX6h4xFVpoXMR6HwfYmCx0mT2pheRIyFMGkNoyOQYipbiODSf+mX9pFxNCL+Fhj7345P/FRyi2q1GKH5kixo89UYHAZYc13ayJ3WWfwI32B0hj7uQ7kQJ3A0fDPzBkI9GKaRGRWIEVxER7/iUt632ZBRjOrtfzoF2Bor+aFFx9/u6oP3la0FE+ov+2W7BqcRBQazneduZfpz7IZY/P71+ZWs+aOfSHxgo8yNzSL2HjC8aTU7pmzT9E2NapAqAiiFYBV/i+QMkQ8cAPxTZ5RokyGCwm3dY0AIgYWYvZo7P6GJwkayg4Cw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature1619192230-Object"><etsi:QualifyingProperties Target="#Signature1619192230"><etsi:SignedProperties Id="SignedProperties"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T09:51:22.979-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>aOrogVsK7a6dqC7wV/+38+V4K9g=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>242390937</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference702"><etsi:Description>Comprobante SRI by QuindeFee</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

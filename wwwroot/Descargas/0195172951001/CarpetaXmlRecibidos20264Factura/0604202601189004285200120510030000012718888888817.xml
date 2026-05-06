@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601189004285200120510030000012718888888817</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T15:20:42-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>COOPERATIVA DE TRANSPORTES SANTA</razonSocial>
+    <nombreComercial>Servicio Automotorizado Nacional de Transporte Ambateño</nombreComercial>
+    <ruc>1890042852001</ruc>
+    <claveAcceso>0604202601189004285200120510030000012718888888817</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>051</estab>
+    <ptoEmi>003</ptoEmi>
+    <secuencial>000001271</secuencial>
+    <dirMatriz>Ambato, Estados Unidos 04-111 y Paraguay</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>06/04/2026</fechaEmision>
+    <dirEstablecimiento>Cuenca, Alcabalas 1-119 y Calle Vieja</dirEstablecimiento>
+    <contribuyenteEspecial>354</contribuyenteEspecial>
+    <tipoIdentificacionComprador>08</tipoIdentificacionComprador>
+    <razonSocialComprador>LUVET S.A.S</razonSocialComprador>
+    <identificacionComprador>0195172951001</identificacionComprador>
+    <direccionComprador>.</direccionComprador>
+    <totalSinImpuestos>4.35</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>4.35</baseImponible>
+        <valor>0.65</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <importeTotal>5</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>5.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>TIP02</codigoPrincipal>
+      <descripcion>CARGA 1 CARTON</descripcion>
+      <unidadMedida>UN</unidadMedida>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>4.35</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>4.35</baseImponible>
+          <valor>0.65</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Destino">LATACUNGA - SUSANA  CAMACHO</campoAdicional>
+    <campoAdicional nombre="Contenido">ND</campoAdicional>
+    <campoAdicional nombre="ValorDeclarado">0.00</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature847771">
+<ds:SignedInfo Id="Signature-SignedInfo450714">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID898699" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature847771-SignedProperties564208">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>DR0M+rWUG0+CCkZw0lp8qb4jDd8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1318420">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>VxUHDLyS3SMOl4NpK+NPrGQLNUw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1024126" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>FlS0QyY2u/DzoeeMf/7ixxqiljY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue275975">
+mjGiqr4aTbOVprjK6Mguq/XoHPmRgXzcgMGm2eQRFkeKWSUXGV8N5JPmEAJh0A49LWx5T52mxWvs
+hWRYmJmlIiiX8AcQHNzFoXbUCgctzHVBCvR441taeaUL9gJLSBPkinPscIlRf9KCTcdcPf/PJESn
+kMPnYIiernC0DRN6bRLTKG3E/TJ6snsPMma9d+k+pG8ZB3vrjh4IZlIIHwBTVi46+FIqoefzYG5b
+6KvhWL15oNeeS+4qw8ppkf8e4Gz2fmdZv1v0wRlMnNnzrrtdB0tikUgFjjjKdzeg0nlOn47PF491
+Sd4kPhDVyuWLM22hPDUc39Ca0OeAz96wP3YOlQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1318420">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK1TCCCL2gAwIBAgIIN/WaeuF9iOIwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMTI3MjA0MzE2WhcNMjgwMTI3MjA0MzE2WjCB
+pjEkMCIGA1UEAwwbQ0VTQVIgR0lPVkFOTkkgUkVZRVMgUFJPQU5PMSAwHgYDVQQFExcxODAyMjky
+MjA5LTI3MDEyNjE1NTMwODEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCvkNyo6TjlZunnWrspbJWqQE42yTeXg+t4BTFU
+zDSZnkhm7AoL5PZ+NOWAdxTmOQy1qwaq6hVd5oy1Vqg2IarpnKUjz3GueQlbZGeQo/IugkRm6HVA
+OzjsoMWL3jO6ijHIcKiUxaeBJ+/N0CHdiVTQqsJil1ahqO0JsdlHHY38tyaz7wx7HiIo6jX2cGzR
++3MLdYLdufCDXFjgpHH9IXCzgnBea/gXn6LjqpFyG/ZiBARi4N+LSJ8Icd4kj96mQlpaWn85cXDo
+be5f1yrNi/FiFTEwEWJeV2ZjS5vbRv4VH0nJulYaP1WGKlLuaCxwhWGuHDXuqzYKhWRHoBoPEkGX
+AgMBAAGjggYQMIIGDDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDApBgNVHREEIjAggR5jZXNhcmdp
+b3Zhbm5pcmV5ZXNAaG90bWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQw
+UgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBz
+AGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIB
+FoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9O
+b3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXBy
+ZXNlbnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNV
+HR8EggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2Ey
+Y3JsMS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwy
+L2NybGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1
+ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9V
+PUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEg
+Uy5BLiAyLEM9RUMwHQYDVR0OBBYEFI+i+NVIfV59i1aMelqT+vNsug0UMCsGA1UdEAQkMCKADzIw
+MjYwMTI3MjA0MzE2WoEPMjAyODAxMjcyMDQzMTZaMAsGA1UdDwQEAwIF4DAXBgorBgEEAYKmcgMF
+BAkMB0dFUkVOVEUwGgYKKwYBBAGCpnIDAQQMDAoxODAyMjkyMjA5MBkGCisGAQQBgqZyAwkECwwJ
+TEEgTUVSQ0VEMBEGCisGAQQBgqZyAyIEAwwBLjAwBgorBgEEAYKmcgMHBCIMIEVTVEFET1MgVU5J
+RE9TIDA0IDExMSBZIFBBUkFHVUFZMB4GCisGAQQBgqZyAwIEEAwOQ0VTQVIgR0lPVkFOTkkwHwYK
+KwYBBAGCpnIDIAQRDA8wMTUwMDEwMDAwMzM0MjIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYB
+BAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisGAQQBgqZyAwMEBwwFUkVZRVMwMAYKKwYBBAGCpnIDCgQi
+DCBDT09QRVJBVElWQSBERSBUUkFOU1BPUlRFUyBTQU5UQTAdBgorBgEEAYKmcgMLBA8MDTE4OTAw
+NDI4NTIwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGUFJPQU5PMBoGCisG
+AQQBgqZyAwgEDAwKMDk5OTAzMTEyNjANBgkqhkiG9w0BAQsFAAOCAgEAbARSiEK2MgL+OHZU9HrF
+h7PZku+I9HLlS1y1SGccPcN3SNtj6BwlzWSoTNJUc+c12IcQM0xHJEWhOEoyXINX/pWBfkwcM6dE
+XxkgWZU+OkmcRBWgZC/D76ycHLbDdh3czjL89CleKYVBVKcEGgUrIcd3EjuUSrpH6ZmcR5zIAzVA
+uY+EgXyuHLoGyQnRF1piD1XNOHeTN/fkykyIsuLT/CDXceaQoRIIHf59vuPqHEWJhH1FC619FeXk
+Zl1uIA29S2KzH8+ntPa8MMeWOWJXCwhO6xZTWokrCNYZc59HAzYfXdqdIENE5W4UkaJK6mEOFHZb
+GEc8dR8+cF0xFeVgjRE2pTJJ8LiYRXgcw8MQ59osYTU+5FZr1XHveozww5c4WoumwP4RzpqSf/iE
+YIC57UivzqMXA+AhLSr7gaP9f6sBHFeSOI26sxxcOLL8+CHNth/TLufQJSUgJ/f8IOMn+WqePTv+
+M+MEpvADiskANS8EmyXgNTanF1QUEAlOXobYYSNMZeRigQ7fPwwQ44q3plXoaQGirhYV8JnQ8yCW
+uCmoaCPkKXF84uEbDiNvlBtrPoLJ8S2Ey6IOaIeo9fF4g4nbiK0vOM9Ybz9RT8jqoGM4ZstGzZg8
+zxGdYX2L6f7kWlL61RB1sKl6yLdXkWwYg7KqYnjH/HmazSz06xUkGBg=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+r5DcqOk45Wbp51q7KWyVqkBONsk3l4PreAUxVMw0mZ5IZuwKC+T2fjTlgHcU5jkMtasGquoVXeaM
+tVaoNiGq6ZylI89xrnkJW2RnkKPyLoJEZuh1QDs47KDFi94zuooxyHColMWngSfvzdAh3YlU0KrC
+YpdWoajtCbHZRx2N/Lcms+8Mex4iKOo19nBs0ftzC3WC3bnwg1xY4KRx/SFws4JwXmv4F5+i46qR
+chv2YgQEYuDfi0ifCHHeJI/epkJaWlp/OXFw6G3uX9cqzYvxYhUxMBFiXldmY0ub20b+FR9JybpW
+Gj9VhipS7mgscIVhrhw17qs2CoVkR6AaDxJBlw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature847771-Object936633"><etsi:QualifyingProperties Target="#Signature847771"><etsi:SignedProperties Id="Signature847771-SignedProperties564208"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T15:20:41-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Ds2HgZdEVWZN+8/dE9E54f6X3Xk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>4032298893939935458</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1024126"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

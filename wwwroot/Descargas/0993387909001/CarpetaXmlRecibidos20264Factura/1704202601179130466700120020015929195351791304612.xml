@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601179130466700120020015929195351791304612</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T16:53:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>voestalpine High Performance Metals del Ecuador S.A.</razonSocial>
+    <nombreComercial>voestalpine High Performance Metals del Ecuador S.A.</nombreComercial>
+    <ruc>1791304667001</ruc>
+    <claveAcceso>1704202601179130466700120020015929195351791304612</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>592919535</secuencial>
+    <dirMatriz>Calle de las Avellanas E1-112 y Panamericana Norte KM 5 1/2</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>17/04/2026</fechaEmision>
+    <dirEstablecimiento>Vía a Daule Km. 7 ½ - Guayaquil (Ecuador)</dirEstablecimiento>
+    <contribuyenteEspecial>622E</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>Astecnavind S.A.S.</razonSocialComprador>
+    <identificacionComprador>0993387909001</identificacionComprador>
+    <totalSinImpuestos>918.72</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>918.72</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>137.81</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>1056.53</importeTotal>
+    <moneda>USD</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>1056.52</total>
+        <plazo>0</plazo>
+        <unidadTiempo>DÍAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>000000005057002302</codigoPrincipal>
+      <descripcion>V155 ACERO AISI/SAE 4340/34CRNIMO6 Rd 100mm redonda 100 mm x 550 mm</descripcion>
+      <cantidad>34.130</cantidad>
+      <precioUnitario>3.64</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>124.23</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="UNIDAD" valor="KG"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>124.23</baseImponible>
+          <valor>18.63</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000005057002325</codigoPrincipal>
+      <descripcion>V155 ACERO AISI/SAE 4340/34CRNIMO6 Rd 180mm redonda 180 mm x 1.000 mm</descripcion>
+      <cantidad>202.400</cantidad>
+      <precioUnitario>3.64</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>736.74</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="UNIDAD" valor="KG"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>736.74</baseImponible>
+          <valor>110.52</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000005057027013</codigoPrincipal>
+      <descripcion>ACERO 147M BAR PERF 168X90mm 168 mm x 90 mm x 55 mm</descripcion>
+      <cantidad>15.000</cantidad>
+      <precioUnitario>3.85</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>57.75</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="UNIDAD" valor="KG"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>57.75</baseImponible>
+          <valor>8.66</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Teléfono del Cliente:">0987730665</campoAdicional>
+    <campoAdicional nombre="Dirección del Cliente:">4to Paseo 52b Se y 4to Paseo 52b Se</campoAdicional>
+    <campoAdicional nombre="Condiciones de pago:">CO12 Contado</campoAdicional>
+    <campoAdicional nombre="Fecha de vencimiento:">17/04/2026</campoAdicional>
+    <campoAdicional nombre="Vendedor:">Stalin Ordoñez</campoAdicional>
+    <campoAdicional nombre="Términos y condiciones:">Declaro haber recibido a entera satisfacción los productos y servicios detallados en esta factura y a la vez acepto la obligación del pago de este documento y todos los términos y condiciones que constan en el adjunto de cada comprobante electrónico.</campoAdicional>
+    <campoAdicional nombre="-">En caso de mora en el pago de las obligaciones representadas en la FACTURA DE VENTA aceptada por el COMPRADOR, este está obligado al pago de los Intereses de Mora, liquidados a la tasa máxima autorizada por Resoluciones del Directorio del BCE hasta que se verifique el pago total.</campoAdicional>
+    <campoAdicional nombre="-">Así mismo están a su cargo, los gastos por concepto de honorarios de abogados, gastos procesales y todos aquellos derivados al cobro.</campoAdicional>
+    <campoAdicional nombre="-">El incumplimiento en el pago de las obligaciones representadas en la FACTURA DE VENTA, facultan al VENDEDOR para bloquear automáticamente el cupo de crédito asignado al COMPRADOR</campoAdicional>
+    <campoAdicional nombre="Documentos enviados:">Sus comprobantes electrónicos (RIDE y XML) los puede descargar de https://ecuador.e-factura.net/, también serán enviados a su correo electrónico registrado en nuestro Sistema Informático.</campoAdicional>
+    <campoAdicional nombre="Documentos recibidos:">Envíe sus documentos electrónicos a: documentoselectronicos@voestalpine.com.</campoAdicional>
+    <campoAdicional nombre="Moneda">American Dollar</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature988744" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo719758">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID628664" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature988744-SignedProperties385894">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>2qmQVOW1ZskFeLCKrwK6dzoDDZY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1256998">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>fC0wKz8H5qiUtmh11k01Jlaylpw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-931788" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>h0CIugE6wy7NnHD3zSjYQEbUcb8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1042843">
+ZlvUvqnKVKFUsv+ja8pHvdbxoItGdt276iYMT22sh1fW9UKcwMSu/CYnHssyhbO/oecDe6wsQHxj
+6FeK1G4v8LL/xvYYwvVenHJl1pc6Ce3cAGDtde2xTfp9t3ZlvL0pM/tYak+6xU9gjqao4NMrzfBo
+Kh8ghFf5UBVSMkj/n1qhEw53qAAKHQ7Ms+jabXzm4fziTZjvqyYSDQjw0VZ1NydskzPEyPShgo3A
+IpFChZDJWHPc5mHybjBmCM6pX+/F5y+e1lBnP5nzpt8z4IMrY9fc5EsILFZol1bolfhiiHpWeyBn
+CtZOwiHedszn0mIsyYZpAZb9w/QFV3oS1dQKlQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1256998">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK/zCCCOegAwIBAgIIF60XpNv17skwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMjA4MTMzNzU3WhcNMjYxMjA4MTMzNzU3WjCB
+pzElMCMGA1UEAwwcQ0hSSVNUSUFOIEFSVFVSTyBUQUNPIEdVRVJSQTEgMB4GA1UEBRMXMTcxMTA0
+OTU4My0wODEyMjUwODQ3NTAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq1UwSuK/TquIVYoxeUwBYtMG/nG0fjMsHcgZ
+Y1987rZNDb9f2RBTwO17wD4wtr01MKQvpiR6QVO9ycK6fsh0pS4AoTvIqHuEWxiBV+qeTdnHJJ7h
+pDpK+xfQ8dudDoqFgxpCOZlUJvNvKXI0aeFg4EvhAzmi2J9jBnGPo3EX7HLnTmAsjatH6/mxFg9k
+f4nAmhl6eNWG/4RDioWWQFywG699QvsEIySagDFy1N3RT4nsCPdEV2FaYrXrCJ5rgc95TDYJGw3S
+Ly+jBorFZjX3irgM/Xnv75kRESSauJmi08LWL/lUlEvtxeFBj/fprjoFdJdejN1EGQkUS0zhZLkI
+jwIDAQABo4IGOTCCBjUwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42u
+Yt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwKQYDVR0RBCIwIIEeY2hyaXN0
+aWFuLnRhY29Adm9lc3RhbHBpbmUuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBU
+MFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUA
+cwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcC
+ARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMv
+Tm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVw
+cmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYD
+VR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNh
+MmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkG
+A1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3Js
+Mi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNz
+dWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDMB0GA1UdDgQWBBSLbHfzfrgqcpwnc5+lVmSHQovqiTArBgNVHRAEJDAigA8y
+MDI1MTIwODEzMzc1N1qBDzIwMjYxMjA4MTMzNzU3WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnID
+BQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxNzExMDQ5NTgzMBoGCisGAQQB
+gqZyAwkEDAwKQ09UT0NPTExBTzARBgorBgEEAYKmcgMiBAMMAS4wPAYKKwYBBAGCpnIDBwQuDCxE
+RSBMQVMgQVZFTExBTkFTIEUxIDExMiBZIFBBTkFNRVJJQ0FOQSBOT1JURTAgBgorBgEEAYKmcgMC
+BBIMEENIUklTVElBTiBBUlRVUk8wHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDExMTQ3NzEwEwYK
+KwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBQGCisGAQQBgqZyAwME
+BgwEVEFDTzBDBgorBgEEAYKmcgMKBDUMM1ZPRVNUQUxQSU5FIEhJR0ggUEVSRk9STUFOQ0UgTUVU
+QUxTIERFTCBFQ1VBRE9SIFMgQTAdBgorBgEEAYKmcgMLBA8MDTE3OTEzMDQ2NjcwMDEwEQYKKwYB
+BAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGR1VFUlJBMBoGCisGAQQBgqZyAwgEDAwKMDk5
+NDcxODg2ODANBgkqhkiG9w0BAQsFAAOCAgEAJp6CYLyzKh/qK0G8hBTr/gQyMGPscDtdMCrbTYit
+Znm6QNx2pgSvI9chKnxr4TFOl0vvplXvMP3zB0vWDkoiD7nV0Z81oAV5Jn/jXF9FHZmOL1oGMYYA
+U1VQdOjG/ysepHfiFRIddDC3ZgnRRxdkS93bkUOLRtPoCTylNDv+2T1nZJXoomoi5G52rNwsjcKv
+jOuM0M5L3idoV4PE9rYT6gm2/3E+vfmuwAQnS442O3LnPMfK4aO9xy3W3YUWuMMdLXRrmIyzGQXM
+SiefXKEt3NbVsD/g+Qp49tNen8Vy86KQIYvcfWkNZlem2JA1VSQpUUkbp/MOjP5oeSxTuAZ4kPbE
+aqyV9hVHyGhPj0LJkoq5z3w7Irjs7X11MjfwlrVpRtsorrUw3t/NhwqFv8ryG1LVRdYWlh19AvbW
+PvLfRIGt7V7bLC7KnM8nwWnGJ7yj7etpYY1I0Gmwyspoq2sgZ3FBoc6ArrxxccV3aeNKv9oAUEQY
+vmMieUmo5KElI4x6fK9efZS1L0S31bzBn3yAvBrKqC5wfvW/7GTV0+zzJFjXNQ4SdK0u001pqusT
+PRYCBE3psGckwOb4oAWyVLVQ2ypTXA5rzapAO9qcTRc8K++91A2BPOLEsu1j4AS7+XLZEhjJPFsH
+QDgtz/4tGP0Se5Ol55F7DCoR1cwutleZsI4=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+q1UwSuK/TquIVYoxeUwBYtMG/nG0fjMsHcgZY1987rZNDb9f2RBTwO17wD4wtr01MKQvpiR6QVO9
+ycK6fsh0pS4AoTvIqHuEWxiBV+qeTdnHJJ7hpDpK+xfQ8dudDoqFgxpCOZlUJvNvKXI0aeFg4Evh
+Azmi2J9jBnGPo3EX7HLnTmAsjatH6/mxFg9kf4nAmhl6eNWG/4RDioWWQFywG699QvsEIySagDFy
+1N3RT4nsCPdEV2FaYrXrCJ5rgc95TDYJGw3SLy+jBorFZjX3irgM/Xnv75kRESSauJmi08LWL/lU
+lEvtxeFBj/fprjoFdJdejN1EGQkUS0zhZLkIjw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature988744-Object271267"><etsi:QualifyingProperties Target="#Signature988744"><etsi:SignedProperties Id="Signature988744-SignedProperties385894"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T23:52:33.571+02:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>NUTw1xV8VSofxWHdzjMuTlNNqhA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1706045830675689161</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignerRole><etsi:ClaimedRoles><etsi:ClaimedRole>emisor</etsi:ClaimedRole></etsi:ClaimedRoles></etsi:SignerRole></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-931788"><etsi:Description>Factura firmada</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

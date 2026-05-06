@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2304202601099339499400120020200000123601234567817</numeroAutorizacion>
+<fechaAutorizacion>2026-04-23T12:27:35-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>GRUPOCERVANTES SA</razonSocial>
+<nombreComercial>GRUPOCERVANTES SA</nombreComercial>
+<ruc>0993394994001</ruc>
+<claveAcceso>2304202601099339499400120020200000123601234567817</claveAcceso>
+<codDoc>01</codDoc>
+<estab>002</estab>
+<ptoEmi>020</ptoEmi>
+<secuencial>000012360</secuencial>
+<dirMatriz>AGUIRRE 606-A ENTRE BOYACA Y ESCOBEDO</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>23/04/2026</fechaEmision>
+<dirEstablecimiento>KM. 5.5 VIA DAULE</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>PATRICIO VILLEGAS </razonSocialComprador>
+<identificacionComprador>0908962087</identificacionComprador>
+<totalSinImpuestos>1.95</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>1.95</baseImponible>
+<valor>0.29</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>2.24</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>2.24</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>09812200</codigoPrincipal>
+<descripcion>CONTACT</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>1.500000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.50</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="detalleAdicional" valor="BU837-17 N.N. 45cm x 3m"/>
+<detAdicional nombre="detalleAdicional2" valor="TRANSPARENTE"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>1.50</baseImponible>
+<valor>0.23</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>09061063</codigoPrincipal>
+<descripcion>PAPEL BOND</descripcion>
+<cantidad>50.00</cantidad>
+<precioUnitario>0.009000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.45</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="detalleAdicional" valor=". A4"/>
+<detAdicional nombre="detalleAdicional2" valor="RAY.4 LINEAS"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>0.45</baseImponible>
+<valor>0.07</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Codigo">380604</campoAdicional>
+<campoAdicional nombre="Direccion">VIA A LA COSTA</campoAdicional>
+<campoAdicional nombre="Telefonos">0984219467</campoAdicional>
+<campoAdicional nombre="email">monicacastillocedeno@gmail.com</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1033657">
+<ds:SignedInfo Id="Signature-SignedInfo501760">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID69394" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1033657-SignedProperties868933">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>czS28/Vjx/fRlnYI2VGnzFqbXRs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1241227">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>J/gHwoIZxpkCytaxCMQe8hpl6BI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-528248" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>9BMJJx34YQ09B474zAgEndwiJnU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue696316">
+L3761m+twQM9XokmOo/xGCEn4D25UnbwvhtETkEEZ+7OqEwoAB553x6WOJfglxGfvrADqugcAm0a
+bRm+t0I0wym+lELgU3I+93fTf+TgqtDXMhI8BJQWVz8naYQf4L9/tdJmj4qDAc0kzwQFr7QYoUuH
+n5Zk1ERk4/1YlU/8Md4YyQoqqLaFAJ2yG6d1PXiPqSluUK0G3n+R994mXaFi98Kwd04Y0f7C0Pel
+flNoDh5GoHGXthpnRjI2kGSydADBJ4HAUmgIG781f6su2u8sI0Jo+xXKeT/uI5IxaG9SCF7NMnC/
+i6ks6MjF08ScvE8qotBzDn8Npo0w0LkJN/vN+w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1241227">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJqjCCB5KgAwIBAgIIYWysJMoyfvAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDEyMTE0NDIwMFoXDTI3MDEyMTE0NDIwMFowgdwxCzAJBgNVBAYTAkVDMRwwGgYDVQQKDBNH
+UlVQT0NFUlZBTlRFUyBTLkEuMRgwFgYDVQQMDA9HRVJFTlRFIEdFTkVSQUwxGDAWBgNVBAQMD1RP
+UlJFUyBDQVJERU5BUzEYMBYGA1UEKgwPTlVSSUEgQUxFWEFORFJBMRkwFwYDVQQFExBJRENFQy0w
+OTA5MjI0ODE4MSgwJgYDVQQDDB9OVVJJQSBBTEVYQU5EUkEgVE9SUkVTIENBUkRFTkFTMRwwGgYD
+VQRhDBNWQVRFQy0wOTkzMzk0OTk0MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+rxx5IH1qD0iMn03aDAVUQ05h/qeB6rNoHL2S7OkLM1Bf+lW+Dr2oyv7MkStS0W6Mg2649FuMHyEz
+X7T7HHfzDqzL5kwKJ/GeYOVogv3BXbSu9BlUua9CsenTKlkKHZTvf8EtBAEjSvSsocF+e1CbD6Tu
+wBNAK6WOmjEXVQ/7bz2Bs9rTb6nbbdtwG1kFkSk/yO/nF7gjSxupJd67/EIQDVxt9IBHT4UCsSyy
+bGGyI8DZ5iTwLBD7j5LjXsZumw+2VKjIM2Vju2/PTB18VwapZeoOkI4pdoUhP3VrAGVm/D8YOAbF
+iFzW8OEK4syRZrM1y9ZVu4VIRQ6etDrTZYaUnwIDAQABo4IEkDCCBIwwGwYLKwYBBAGC8TZmAwEE
+DAwKMDkwOTIyNDgxODAeBgsrBgEEAYLxNmYDCwQPDA0wOTkzMzk0OTk0MDAxMIHXBggrBgEFBQcB
+AQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25s
+b2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDov
+L29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8v
+b2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFOEbmNx3vqzW0/85
+m++NqHQTCAX3MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0w
+gY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNB
+RE8gREUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6
+Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+
+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFk
+YS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAdEG
+A1UdEQSCAcgwggHEgRtpbmcucm9uYWxkYmFycmVyYUBnbWFpbC5jb22gGwYLKwYBBAGC8TZmAwGg
+DAwKMDkwOTIyNDgxOKAgBgsrBgEEAYLxNmYDAqARDA9OVVJJQSBBTEVYQU5EUkGgFwYLKwYBBAGC
+8TZmAwOgCAwGVE9SUkVToBkGCysGAQQBgvE2ZgMEoAoMCENBUkRFTkFToCAGCysGAQQBgvE2ZgMF
+oBEMD0dFUkVOVEUgR0VORVJBTKA4BgsrBgEEAYLxNmYDB6ApDCdVUkJBTklaQUNJT04gUEFMTUFS
+IERFTCBSSU8gIE1aMSAtMTIwIEGgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5OTIxOTYzMzegGgYL
+KwYBBAGC8TZmAwmgCwwJR1VBWUFRVUlMoCQGCysGAQQBgvE2ZgMKoBUME0dSVVBPQ0VSVkFOVEVT
+IFMuQS6gHgYLKwYBBAGC8TZmAwugDwwNMDk5MzM5NDk5NDAwMaATBgsrBgEEAYLxNmYDDKAEDAJF
+Q6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQBgvE2ZgMzoAkM
+B0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBAM8fDSHtYbvIGA/Hm5VZLUBML9eptQf+ssPQVn44
+tBkecSttuIEpHVQgZ6eRVEU0w0fQURgBRFLaUQeKJreB8+1iYXKWSWi5kdYQkrbWR/9sItPqZ+ls
+w+dx0XulHktU0UWXIYMnMZ4iU5daSNSku20ALhFKXJC+bCbWq+MzzyGpd5YqI72WX46o17ucXAHF
+MMyBoQ/wEezgBfhitxa83s+Q18thUObDEfcPAr5BTJoF9e3BWH4i92oL2TiJn4riS/rVLoG8UiCS
+3AqqcLqB87pJ5GCJgovzZ6aEYRy4bGNsL8NcJ7dcY2ntMwgaizlZS/nL6zzsEmtgDat3PwFNxTcP
+4t/v+r7uSXYBkI8nnPsujZ7Sq6H3g2MSPcHhhcanbS3xXc4cIpd2X0w8EfmJt63mA5+CGt3L3Kmr
+sxnPhOkS5lu8jwvOa3Aj7pkWGvopD5aATkVRmoJwG93Jl9Bz6mdlkv3IELHZpZ1G8nAquiclqzug
+5jhXPbhscGUeFyb5FDSWt9RN4me0BXLnwQ0c1fK8XznaSJ63ahe0mBG2jL81pMiI734ou/NrObZh
+SNAQar2ncK/3cbyI5wbN9iuNLqqgCJMGbuS3o1vH1Zmo8enpMMdfaT5QvjpVi1yxYzr417M6OKym
++aHnqN4wNYC4JRpsOhEQmZjqWPJK3n4KfokP
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rxx5IH1qD0iMn03aDAVUQ05h/qeB6rNoHL2S7OkLM1Bf+lW+Dr2oyv7MkStS0W6Mg2649FuMHyEz
+X7T7HHfzDqzL5kwKJ/GeYOVogv3BXbSu9BlUua9CsenTKlkKHZTvf8EtBAEjSvSsocF+e1CbD6Tu
+wBNAK6WOmjEXVQ/7bz2Bs9rTb6nbbdtwG1kFkSk/yO/nF7gjSxupJd67/EIQDVxt9IBHT4UCsSyy
+bGGyI8DZ5iTwLBD7j5LjXsZumw+2VKjIM2Vju2/PTB18VwapZeoOkI4pdoUhP3VrAGVm/D8YOAbF
+iFzW8OEK4syRZrM1y9ZVu4VIRQ6etDrTZYaUnw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1033657-Object289437"><etsi:QualifyingProperties Target="#Signature1033657"><etsi:SignedProperties Id="Signature1033657-SignedProperties868933"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-23T12:27:37-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>PxGtSIEnMjepAaykjE3PBTqlocA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7020175193174867696</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-528248"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2304202601019050186800120010010000452991191524911</numeroAutorizacion>
+<fechaAutorizacion>2026-04-23T12:00:26-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>BULLSSTORE S.A.S.</razonSocial>
+        <nombreComercial>BULLSSTORE S.A.S.</nombreComercial>
+        <ruc>0190501868001</ruc>
+        <claveAcceso>2304202601019050186800120010010000452991191524911</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000045299</secuencial>
+        <dirMatriz>AZUAY / CUENCA / SUCRE / UNIDAD NACIONAL Y ESMERALDAS</dirMatriz>
+        
+        
+        <agenteRetencion>10</agenteRetencion>
+        
+        
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>23/04/2026</fechaEmision>
+        <dirEstablecimiento>AZUAY / CUENCA / SUCRE / UNIDAD NACIONAL Y ESMERALDAS</dirEstablecimiento>
+        
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        
+        <razonSocialComprador>CARLOS ALBERTO AGUAYO ALVARADO</razonSocialComprador>
+        
+        <identificacionComprador>1204454720</identificacionComprador>
+        <direccionComprador>QUEVEDO</direccionComprador>
+        <totalSinImpuestos>110.24</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <descuentoAdicional>0.00</descuentoAdicional>
+                <baseImponible>16.99</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+            
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <descuentoAdicional>0.00</descuentoAdicional>
+                <baseImponible>93.25</baseImponible>
+                <valor>13.99</valor>
+            </totalImpuesto>
+            
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>124.23</importeTotal>
+        <moneda>DOLAR</moneda>
+            <pagos>
+                
+                <pago>
+                    <formaPago>20</formaPago>
+                    <total>124.23</total>
+                    
+                </pago>
+                
+            </pagos>
+        <valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+    </infoFactura>
+    <detalles>
+        
+        <detalle>
+            <codigoPrincipal>BS-ENVIOS</codigoPrincipal>
+            
+            <descripcion>ENVIOS</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>5.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>5.00</precioTotalSinImpuesto>
+            
+            <impuestos>
+                
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>5.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+                
+            </impuestos>
+        </detalle>
+        
+        <detalle>
+            <codigoPrincipal>665716134007</codigoPrincipal>
+            
+            <descripcion>DIGESTIVE ENZIMES F X 100 TABLETS U.S.A SUN</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>11.99</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>11.99</precioTotalSinImpuesto>
+            
+            <impuestos>
+                
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>11.99</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+                
+            </impuestos>
+        </detalle>
+        
+        <detalle>
+            <codigoPrincipal>732907051990</codigoPrincipal>
+            
+            <descripcion>PRO TAN INSTANT TOP COAT</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>22.84</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>22.84</precioTotalSinImpuesto>
+            
+            <impuestos>
+                
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>22.84</baseImponible>
+                    <valor>3.43</valor>
+                </impuesto>
+                
+            </impuestos>
+        </detalle>
+        
+        <detalle>
+            <codigoPrincipal>810121056493</codigoPrincipal>
+            
+            <descripcion>L-CITRULLINE EVOGEN</descripcion>
+            <cantidad>3.00</cantidad>
+            <precioUnitario>23.47</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>70.41</precioTotalSinImpuesto>
+            
+            <impuestos>
+                
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>70.41</baseImponible>
+                    <valor>10.56</valor>
+                </impuesto>
+                
+            </impuestos>
+        </detalle>
+        
+    </detalles>
+    <infoAdicional>
+        
+            <campoAdicional nombre="Forma de Pago">OTROS CON UTILIZACION DEL SISTEMA FINANCIERO 124.23</campoAdicional>
+        
+            <campoAdicional nombre="Email Cliente">aguayoaca@gmail.com</campoAdicional>
+        
+            <campoAdicional nombre="Agente de Retención Resolución No.">NAC-DGERCG25-00000010</campoAdicional>
+        
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature117566" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo892309">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID904811" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature117566-SignedProperties962663">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>47oykVl9xVDWAo5qHtU34ErWsWk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1938106">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>AfnirgrtvO1pg2kYjJpsyd+sOwA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-114896" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>49S60sAfR9oKlipqpSeSdP18Zfw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue172508">
+hrl6grXSAQeam5AerVekML48GC/2WY9O8pe00eXvgryxIIOS3YIYO6kGZsjenUfo+RfvXJgk5r5P
+mXgsl7oWH24Cmq44UFuO9Bb8+CGcOKRS2ZIW3dASOyie7GQ87UXpOxWPVAUS1WfG0BJkS/eJE7Kl
+U6QOkvZS5vf0oimnlSiLpGqIGm70YL3x4zGGxtkNBHuETTzaMTulKh1bmQxzICjXH9a77zkPBK7W
+x/LthA7iROBxkYejBcGheKE7FVjI8IHR4kJ1IbaZHMJhplz3Kgtb/Gv8nyHgwjJNgnyS+a+zD0Ee
+TugQ3gMsMTCBUDOPWe0RwQ35UZ/t3xHGW33mcA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1938106">
+<ds:X509Data>
+<ds:X509Certificate>
+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
+m4eWziiFWxX+CfYTo2lWC9a50g==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tlqYj6LCFpHE4B5KxRJahxCznPbvf/t98iqJvvX4kwnsPT2u49+E4YlWkOEj4tBfit+VpxhyIrah
+WGD2NLzWZtNQdmPrR1SfZUDqsjqFVV0KD5LhbVpvvpBpV/Po28uwiVlmCkX6LtAlbb9d7rA5kZ10
+8PZM9iu873lOQIa5cHmmDlbbMjMEJljUILbFvRRU/ft2uhjsne8cwqeOzshNVauy0wd5EJ3wVvwH
+XcMpGxT+WhrQBuJ6uBgb9cytGbBAdILIVkCtTKIW6DZQIOjCbamGrLkkjOHdmCLYhxxSWliUN6iA
+ZuFcvgkzeSdvcaBoLfGmYBjap8K5skjyaPiYQw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature117566-Object970193"><etsi:QualifyingProperties Target="#Signature117566"><etsi:SignedProperties Id="Signature117566-SignedProperties962663"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-23T12:00:24-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>sA3LPsnNAO7XDeiAQjTdPMI05As=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ArgosData CA 1 - SHA256,OU=ArgosData CA,O=ArgosData,C=EC</ds:X509IssuerName><ds:X509SerialNumber>22483316119665463963476361119338491109</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-114896"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

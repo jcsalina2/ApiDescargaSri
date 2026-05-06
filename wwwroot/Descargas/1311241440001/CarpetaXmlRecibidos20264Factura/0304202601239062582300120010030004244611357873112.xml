@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0304202601239062582300120010030004244611357873112</numeroAutorizacion>
+<fechaAutorizacion>2026-04-03T16:09:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ASOCIACION EN CUENTAS EN PARTICIPACION DE GASOLINERA CHONE</razonSocial>
+    <nombreComercial>VENTA DE COMBUSTIBLE</nombreComercial>
+    <ruc>2390625823001</ruc>
+    <claveAcceso>0304202601239062582300120010030004244611357873112</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>003</ptoEmi>
+    <secuencial>000424461</secuencial>
+    <dirMatriz>VIA CHONE KM 2.5 023767487-0987930442</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>03/04/2026</fechaEmision>
+    <dirEstablecimiento>VIA CHONE KM 2.5 023767487-0987930442</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>EDISON SUAREZ</razonSocialComprador>
+    <identificacionComprador>1311241440001</identificacionComprador>
+    <totalSinImpuestos>26.09</totalSinImpuestos>
+    <totalSubsidio>1.10</totalSubsidio>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>26.09</baseImponible>
+        <valor>3.91</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>30</importeTotal>
+    <moneda>DOLAR</moneda>
+    <placa>GSQ4677</placa>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>30</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+    <valorRetIva>0.00</valorRetIva>
+    <valorRetRenta>0.00</valorRetRenta>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>0101</codigoPrincipal>
+      <descripcion>EXTRA</descripcion>
+      <cantidad>10.381</cantidad>
+      <precioUnitario>2.513043</precioUnitario>
+      <precioSinSubsidio>2.618738</precioSinSubsidio>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>26.09</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>26.09</baseImponible>
+          <valor>3.91</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email">000</campoAdicional>
+    <campoAdicional nombre="Direccion">QUITO</campoAdicional>
+    <campoAdicional nombre="Telefono">000000000</campoAdicional>
+    <campoAdicional nombre="Placa">GSQ4677</campoAdicional>
+    <campoAdicional nombre="Agente de Retención">1</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature871134">
+<ds:SignedInfo Id="Signature-SignedInfo426504">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID571440" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature871134-SignedProperties883658">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hFhL7HLFGgeOdHWhyXEBxSDVk2g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1838283">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>DHZ32vhWGrqVVKq5cgQbSzWFZTo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-105925" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>w5g3x32kP6qqHsnnLDoolJNUtYU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue543366">
+gNOOEfS+WDrxuNkuD7GyYgnRHxl2vsg7PbqwZ8H6poXm0tAiKrlFDLl0ZndxCjZ6gbXYMaSXnEnW
+eIBdcDEBqfOkNbboOkzjq9XB8ggXxLWyjQ2mGtSudJSNtk47/5QHa5E67UlhS3am/lVimDWedBuP
+Adag2rm42ppaLruF+ZeENKjrC9jucocBWqGDuS0V4yeBg4NmNqMWwW3QxJfumxy1J8IRG0T4OArP
+IY8HM71sHGkoyX2cGDEYowX9eji+QpF0HI1kN65tcE5gBiqiR0I3wR6MEjfApgS2eRYmfAGaKMV9
+oj/XtSostNhYfwdRELPHOoS1fev9iujFRrauQA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1838283">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK0TCCCLmgAwIBAgIEQcxtmjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA1MjEwMDQwNDVaFw0yNzA1MjEwMDQwNDVaMIGpMScw
+JQYDVQQDDB5FUk5FU1RPIEFMRUpBTkRSTyBMVU5BIE5BUlZBRVoxIDAeBgNVBAUTFzE3MDQ2OTA3
+NDAtMjAwNTI1MTk1MDM2MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKyv0FQPLAAqtRHmFDRNbminWQdeL0AXKWMmOcyZ
+raGQa8kfLKYmVgq/bbSQMRA35n6QCssF8lj/bGZ7YxW8nF+P7vkfKWhLuV6cJRDoYSv/ZcTm7IV1
+UiQM7j4JXWHY1lRLVJDCqBbfAJjzijuKm4/A5Gy6WwLAf+ybwuIPKHyI2RhzXVdMCY3ufZw+7M7Z
+XLVMNb/fghpzUW/EMxDp2T3u7Sjzq21LUwgQL06BeefV5bQCP5LLyZtE922ojNAKTTQLzSPqpZCM
+VXFhlT5xb/Ykrej75mXvmWW4oNTCQ++vvYHIelhVPCRgYR+OEKVThsFJlLOKdxKidy77XPIxgN8C
+AwEAAaOCBg0wggYJMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCEGA1UdEQQaMBiBFmF1cmFuYXJ2
+YWV6Z0BnbWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUH
+AgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEA
+bgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6
+Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFz
+L1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRl
+IExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIIC
+AjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxm
+aWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8
+oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUu
+Y3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUMwHQYDVR0OBBYEFBmotOqXayEaE9hqyFIXqO6tdYzFMCsGA1UdEAQkMCKADzIwMjUwNTIxMDA0
+MDQ1WoEPMjAyNzA1MjEwMDQwNDVaMAsGA1UdDwQEAwIF4DAXBgorBgEEAYKmcgMFBAkMB0dFUkVO
+VEUwGgYKKwYBBAGCpnIDAQQMDAoxNzA0NjkwNzQwMCEGCisGAQQBgqZyAwkEEwwRQUJSQUhBTSBD
+QUxBWkFDT04wEQYKKwYBBAGCpnIDIgQDDAEuMBAGCisGAQQBgqZyAwcEAgwAMCEGCisGAQQBgqZy
+AwIEEwwRRVJORVNUTyBBTEVKQU5EUk8wHwYKKwYBBAGCpnIDIAQRDA8wMDMwMDEwMDAwNTYyMTMw
+EwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBQGCisGAQQBgqZy
+AwMEBgwETFVOQTBKBgorBgEEAYKmcgMKBDwMOkFTT0NJQUNJT04gRU4gQ1VFTlRBUyBFTiBQQVJU
+SUNJUEFDSU9OIERFIEdBU09MSU5FUkEgQ0hPTkUwHQYKKwYBBAGCpnIDCwQPDA0yMzkwNjI1ODIz
+MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAXBgorBgEEAYKmcgMEBAkMB05BUlZBRVowGgYKKwYBBAGC
+pnIDCAQMDAowOTk5MzkwNjY0MA0GCSqGSIb3DQEBCwUAA4ICAQBwJOnx5OL/Amm6BUrk7uR1UQPc
+U7eYM+n+L0eIvdxwIQrtLtxhtv3xjNlfOX8Ux66PS45WUWaeBJBgnXn8XtBcr4vNiet9YfiszZzv
+mb2TQ1T2nox8xoLPBBzYQ7ZlT3yQYMKkXChqq3HtHE64ITEHlLH9Belb9UGAxYGUF5ibSFrY064R
+qfW59UXu4syXKZIbK6dZzJtaExexIA1ouxUWt5akKZKjbWX9AZOrfV4f6tMlL00Qp/ZAtuEbmtNr
+CPvVTjlOMu6YDCiKgj2yvcGCTl67hYo4fe62Iu8wLBnO04LtqR4GvgdhU0Rq93k5yTPb6vOpR5A9
+ArdGw4+SVhAYocXXFZyB/DEw+sqRKqpzGqnv6/Cb4w18C73O0hqiOmdOttYHoR208OZ482uxUASu
+qPoyHfKhNbGNAHr8Zk5OlXGtghr44ViVWTT7kVVItLSYwfA659SsEq962dfqWi5MjHx5sVnJ5631
+FaB7eIFTG2BoH4hFScdT7GbKXMk/r2zku84tRLwEizfhqaJFMzw8HQNhQwy3aRuIM2RzJW3zDu8H
+0uxEJx01fgasQ9cTeWKEnBONZpfSy3ydFeDD8I7gvnWQP2gujH0U3Gpn7rE3VslyzvMJZWco9nfj
+p4o1DNq/YhmZ5RDDwpdzQpWX07PZ2J2wvOzwz3WdpFwxSLxDiw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rK/QVA8sACq1EeYUNE1uaKdZB14vQBcpYyY5zJmtoZBryR8spiZWCr9ttJAxEDfmfpAKywXyWP9s
+ZntjFbycX4/u+R8paEu5XpwlEOhhK/9lxObshXVSJAzuPgldYdjWVEtUkMKoFt8AmPOKO4qbj8Dk
+bLpbAsB/7JvC4g8ofIjZGHNdV0wJje59nD7sztlctUw1v9+CGnNRb8QzEOnZPe7tKPOrbUtTCBAv
+ToF559XltAI/ksvJm0T3baiM0ApNNAvNI+qlkIxVcWGVPnFv9iSt6PvmZe+ZZbig1MJD76+9gch6
+WFU8JGBhH44QpVOGwUmUs4p3EqJ3Lvtc8jGA3w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature871134-Object105377"><etsi:QualifyingProperties Target="#Signature871134"><etsi:SignedProperties Id="Signature871134-SignedProperties883658"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-03T16:09:43-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>cbXTY9041Q/7yuBPa87JTIeXvb8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1103916442</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-105925"><etsi:Description>RoloDev, Rolando Penia Tel. +593 (2) 2646193; GuayasWest, Gabriel Tarapues. +593 (2) 3131703</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601179199534100120020310000003311234567816</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T08:24:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>BOOKS AND BITS ECUADOR SA</razonSocial><nombreComercial>BOOKS AND BITS ECUADOR SA</nombreComercial><ruc>1791995341001</ruc><claveAcceso>1704202601179199534100120020310000003311234567816</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>031</ptoEmi><secuencial>000000331</secuencial><dirMatriz>AV 6 DE DICIEMBRE N22-01 JERONIMO CARRION</dirMatriz></infoTributaria><infoFactura><fechaEmision>17/04/2026</fechaEmision><contribuyenteEspecial>00011</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>PATRICIO MARCELO VILLEGAS VITERI</razonSocialComprador><identificacionComprador>0908962087</identificacionComprador><direccionComprador>KM.13.5 VIA A LA COSTA URB. TERRA NOSTRA, ETAPA menorca MZ. 861 villa 8</direccionComprador><totalSinImpuestos>114.430000</totalSinImpuestos><totalDescuento>0.000000</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>114.430000</baseImponible><valor>0.000000</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>114.430000</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>114.430000</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>9782017112723</codigoPrincipal><descripcion>EXPLORE L1 CAHIER D'ACTIVITÉS</descripcion><cantidad>1.000000</cantidad><precioUnitario>27.650000</precioUnitario><descuento>0.000000</descuento><precioTotalSinImpuesto>27.650000</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="valor" valor=","></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.000000</tarifa><baseImponible>27.650000</baseImponible><valor>0.000000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>9782017112693</codigoPrincipal><descripcion>EXPLORE 1- LIVRE DE L'ÉLÈVE + DVD</descripcion><cantidad>1.000000</cantidad><precioUnitario>37.280000</precioUnitario><descuento>0.000000</descuento><precioTotalSinImpuesto>37.280000</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="valor" valor=","></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.000000</tarifa><baseImponible>37.280000</baseImponible><valor>0.000000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>9781382063821</codigoPrincipal><descripcion>OXFORD INTERNATIONAL SCIENCE L7 SB</descripcion><cantidad>1.000000</cantidad><precioUnitario>49.500000</precioUnitario><descuento>0.000000</descuento><precioTotalSinImpuesto>49.500000</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="valor" valor=","></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.000000</tarifa><baseImponible>49.500000</baseImponible><valor>0.000000</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="email">patricio.villegas.viteri@hotmail.com</campoAdicional><campoAdicional nombre="Direccion">KM.13.5 VIA A LA COSTA URB. TERRA NOSTRA, ETAPA menorca MZ. 861 villa 8</campoAdicional><campoAdicional nombre="Telefono">0984219469</campoAdicional><campoAdicional nombre="Vendedor">00000</campoAdicional><campoAdicional nombre="Clave">0908962087</campoAdicional><campoAdicional nombre="UGE">20100</campoAdicional><campoAdicional nombre="Vencimiento">17/04/2026</campoAdicional><campoAdicional nombre="Plazo_Dias">0</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature232126">
+<ds:SignedInfo Id="Signature-SignedInfo172746">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID836996" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature232126-SignedProperties118359">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>uP0aDzxmtaGol3emYsYtDCjcJos=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate171806">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>P+8f4nahF9+KyOIqUafjyPjz46A=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-605934" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>29YKdB/hfXbY0vTv/IqS45hTOtA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue313389">
+d+8QsMfSxFA5+VKv62Y7knf+TCdAMiYekrbcXM9sk2PdHIQAG7371gIZmjFO9uFObCQRL2OMhJIG
+PW66Wfqk9qwhCWH6fPlHtYz6vpCOEejAaGJdqCqZ3IIYsB4tKJn65GCqYMtmGPeZ+PHiTEMJfNR2
+ptq2bIVbXc6DIdA2H2MPa4yjQFRs9/+0yOBvdWXA/9HNJ+wMdo73xUSYO3HunTxcxvk6VWPTorDo
+5jxsnzltGZCuMbC/1ieKKPOu5AK4jQPD4/Yin0xtz4giDcgmT9U4NH8J14Hue5/bo2X53j3u5x9c
+f/yt/6MLhSVBxQMAH+hLyYj8p+WJs+lQfysAvw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate171806">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK3jCCCMagAwIBAgIIF2UGuPJKYowwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwNDEzMTc0NTE1WhcNMjgwNDEyMTc0NTE1WjCB
+qTEnMCUGA1UEAwweTEFVUkEgQ1JJU1RJTkEgQVJNSUpPUyBCVUNIRUxJMSAwHgYDVQQFExcxNzE5
+Njk2OTIyLTEzMDQyNjEyNTUwODEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC5oqWI4sGaVaiKVvforwMnzve5UnfSO2Hm
+WzEpM0UDqAVkXr9ZDPZ4nZNVHX7jB4ec2JBrcJcQwc48OdloehS0ShpqEzMVnVKRa/ZOH4YtLY1o
+DV5TU7i9g93IMbGq3VqgQxndYv5OpBVSToswkUVZT+/dE2Uv46ElhnJt+ZFDMAHMz1JFrLVCmL6N
+cywsNNgScy3uVjqnoIyEDTognApE6P5SZyJtrjDyJrjY/BYCdHA7U0AN3uGSfmhVjZ66uSXE8hGi
+dJ9QWXjzJt7skz6yRhzyCEHtjMHCx4hzWRpkHDA/o1snn+2FhYOiDIldYqE4QoyRq9jDGJK2Fe33
+zRAXAgMBAAGjggYWMIIGEjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/
+ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAiBgNVHREEGzAZgRdsYXVy
+YS5rb3ZhY2ljQGdtYWlsLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggr
+BgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBu
+AHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJo
+dHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1h
+dGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2Vu
+dGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSC
+AgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwx
+L2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYT
+AkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3Js
+ZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQzAdBgNVHQ4EFgQUqe0IjZRouyX7VaIi1NEZMUzifXkwKwYDVR0QBCQwIoAPMjAyNjA0
+MTMxNzQ1MTVagQ8yMDI4MDQxMjE3NDUxNVowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwP
+R0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTcxOTY5NjkyMjAYBgorBgEEAYKmcgMJ
+BAoMCFNBTiBKVUFOMBEGCisGAQQBgqZyAyIEAwwBLjA7BgorBgEEAYKmcgMHBC0MK0FWIDYgREUg
+RElDSUVNQlJFIE4yMiAwMiBZIEpFUk9OSU1PIENBUlJJT04wHgYKKwYBBAGCpnIDAgQQDA5MQVVS
+QSBDUklTVElOQTAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMTE5MjQ2NTATBgorBgEEAYKmcgMh
+BAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdBUk1JSk9T
+MCgGCisGAQQBgqZyAwoEGgwYQk9PS1MgWSBCSVRTIEVDVUFET1IgUyBBMB0GCisGAQQBgqZyAwsE
+DwwNMTc5MTk5NTM0MTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdCVUNI
+RUxJMBoGCisGAQQBgqZyAwgEDAwKMDk5OTEwMjAxMjANBgkqhkiG9w0BAQsFAAOCAgEAl6av0kq4
+PJ8bSTBgD97F/7kpJ4QCG5Pcj9SxYekgFahVxdZGyLuvQOb6Jh88qhFN49vIRDsijr19KlwbFT0F
+iHU7slUnIWjQ/Ft0FDesJFC9HmqCHGOZ6+WOX6RZUulEHGgmoGNicXjSdSGhn4MmUOcUfAuFw5UM
+O8wllM44MfG+o3XxP+VdgTbDDOM2EsarZQCZ0KVb3r90JUWFOD059NTcqnaEI1WbTX1vTyTqeqQo
+jzfyxo2Mm4EvO9NgsRN+sQZjeWf8BRa6zNKrgZFp/qD9UjvoD6G46+oE672hHdccaAgl7/iOohOW
+nMraQ+ZYfO45q6edPEyzAQvy9i5kroOvh5HFn8VbGa/bLe/4k0qY5lW4Wgh+RbQi9GL9TJG8f0Bp
+25CXAdl6jYR5CQLZX4uMo3kQTIl0pjU6mKM20Ucavhll26/zHuC/7itEl4a2mfDXgHwF09/c7oiI
+9DPuN0YH8Y5sPmVf9qtB0qYHRggiMvbivUdZO1xq4BTw79zaBHZ7fff2liNU2CxvoOFLM+0o0pXw
+gG4jCG9T2DqFWUMnb0njKMHALqg5+Ofq+y/Nkk4Ohpk26zZx66WDHe+SZ1d9ADEz58Qi1c1AtXWX
+mjEkXrxvd+nDkCHKyrqXb7A/Mqc2RfVvUsJ1ZbSI1fm5R4XAXZfovrndc7MsczLIZcs=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uaKliOLBmlWoilb36K8DJ873uVJ30jth5lsxKTNFA6gFZF6/WQz2eJ2TVR1+4weHnNiQa3CXEMHO
+PDnZaHoUtEoaahMzFZ1SkWv2Th+GLS2NaA1eU1O4vYPdyDGxqt1aoEMZ3WL+TqQVUk6LMJFFWU/v
+3RNlL+OhJYZybfmRQzABzM9SRay1Qpi+jXMsLDTYEnMt7lY6p6CMhA06IJwKROj+Umciba4w8ia4
+2PwWAnRwO1NADd7hkn5oVY2eurklxPIRonSfUFl48ybe7JM+skYc8ghB7YzBwseIc1kaZBwwP6Nb
+J5/thYWDogyJXWKhOEKMkavYwxiSthXt980QFw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature232126-Object594943"><etsi:QualifyingProperties Target="#Signature232126"><etsi:SignedProperties Id="Signature232126-SignedProperties118359"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T08:24:32-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>xSU9d5h+dql6KlCS1quPNkCt7rU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1685761026928829068</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-605934"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

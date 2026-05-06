@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202601179004122000120119020006613231790041212</numeroAutorizacion>
+<fechaAutorizacion>2026-04-07T11:13:13-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>COMERCIAL KYWI S.A.</razonSocial><nombreComercial>COMERCIAL KYWI S.A.</nombreComercial><ruc>1790041220001</ruc><claveAcceso>0704202601179004122000120119020006613231790041212</claveAcceso><codDoc>01</codDoc><estab>011</estab><ptoEmi>902</ptoEmi><secuencial>000661323</secuencial><dirMatriz>AV. 10 DE AGOSTO N24-59 Y LUIS CORDERO</dirMatriz></infoTributaria><infoFactura><fechaEmision>07/04/2026</fechaEmision><dirEstablecimiento>AV.  ATAHUALPA  S/N  Y  RIO   PAPALLACTA</dirEstablecimiento><contribuyenteEspecial>5368</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ARTOOR HOUSE COMPANY SAS</razonSocialComprador><identificacionComprador>1391937293001</identificacionComprador><direccionComprador>MANTA</direccionComprador><totalSinImpuestos>28.81</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>28.81</baseImponible><valor>4.32</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>33.13</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>33.13</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>267597</codigoPrincipal><codigoAuxiliar>7612894823844</codigoAuxiliar><descripcion>SIKAFLEX 256 NEGRO CARTUCHO 300ML P/PARA</descripcion><cantidad>1.00</cantidad><precioUnitario>9.721739</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>9.72</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>9.72</baseImponible><valor>1.46</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>267860</codigoPrincipal><codigoAuxiliar>7612895729251</codigoAuxiliar><descripcion>SIKAFLEX 116 HIGH GRAB BLANCO C5043 290M</descripcion><cantidad>1.00</cantidad><precioUnitario>10.530435</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>10.53</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>10.53</baseImponible><valor>1.58</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>355987</codigoPrincipal><codigoAuxiliar>4897103883854</codigoAuxiliar><descripcion>LLAVE ANGULAR SALIDA DUAL 1/2X1/2X1/2 YE</descripcion><cantidad>1.00</cantidad><precioUnitario>8.556522</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>8.56</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>8.56</baseImponible><valor>1.28</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Telefono:">0984514917</campoAdicional><campoAdicional nombre="Tr:">104</campoAdicional><campoAdicional nombre="Observacion:">GRAN CONTRIBUYENTE NAC-GCFOIOC21-00000899-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature744444">
+<ds:SignedInfo Id="Signature-SignedInfo680076">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID589458" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature744444-SignedProperties456681">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dQY1S5vmVqC7u8b9sr+ew1NU9kk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate193353">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CUGtWGSgIU84+S5034Whpcsxua4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-716054" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Zw93CZn4IPzGpupMrOA7JspwLgQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue33679">
+a2fmGb+B+zEkTOsD4rgUMJLG4QBn+ldYpweaVy/rTov7DuwxPNXkicfzJjXEjl5eiBX1jGflszPC
+M2QjW28NWObxOuVXjm7Cff3YSaSekl/HzlhkMr7sxwgPJWiwwnORMfRH6PuzBUXMgD5z5UOM9mtD
+Qd/vHK6cTPs5bb2Qy4wj+9wX5hYdi9Z07q0cPt4jJG0l/+V7Zt2hvZdjuUpdVCrbW53DT/+Thunk
+uqY5i9xf9PmKHUS+x4LB/ATkgNFgt+hCn69ES0gVRAB6A6uVJnNpYSo4+FJRRL3TY3McbiKZH+oK
+MFH3dlhG7QvBXO2HkHie+6XBPMdgiGnJD08ejw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate193353">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMFjCCCf6gAwIBAgIEGjaVZjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA1MDIyMTM5MjdaFw0yNjA1MDIyMTM5MjdaMIGrMSkw
+JwYDVQQDDCBJTkVTIE1BUkdBUklUQSBWSUxMQVJSVUVMIEdVRVJSQTEgMB4GA1UEBRMXMTcwNDU4
+MTAyMi0wMjA1MjQxNjQ5MTcxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6tfjGuXfST9T8TBZpR7XCbsEMtsZPYTxZjPO
+7ANcGfIk8Us9oTC7TMfgsT40cRLpB+k2sFB4Fd0LTGqYXLXBkdb3fjp/krKsHFCq19B2qdOefHag
+mZBErEBSjJU2y1J9QDswwEL0f1TBTrbVjFqMdD/LSEXDyIpZNmx3YAfBcx33sqV4t5a6wVz0oLYI
+zhwPaQMrmWBTNKJVw7j2pxVrDeAzz4a+ykOlH1BP2NWM1BQjgApFN+GAmv2EpGpbz5XfQp3AZGd8
+pR4kVKJ+V1kULgsI8TbUtLlaj3NJrEQ6XabC4nrHtfMSWjtaC/tZ5EM0aJR0BGHbGrViSe3ZIhJH
+nQIDAQABo4IHUDCCB0wwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42u
+Yt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCB
+vqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0
+YVJldm9jYXRpb25MaXN0P2Jhc2UwHwYDVR0RBBgwFoEUbWFydmlndWVAa3l3aS5jb20uZWMwggES
+BgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBm
+AGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGg
+BgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Q
+b2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSC
+ApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQsw
+CQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRw
+czovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+d2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUH7sgW7dE
+CMfaCsPJAwO8vwMPnS8wKwYDVR0QBCQwIoAPMjAyNDA1MDIyMTM5MjdagQ8yMDI2MDUwMjIxMzky
+N1owCwYDVR0PBAQDAgXgMCQGCisGAQQBgqZyAwUEFgwUSkVGRSBERSBDT05UQUJJTElEQUQwGgYK
+KwYBBAGCpnIDAQQMDAoxNzA0NTgxMDIyMCEGCisGAQQBgqZyAwkEEwwRQkVMSVNBUklPIFFVRVZF
+RE8wEQYKKwYBBAGCpnIDIgQDDAEuMDUGCisGAQQBgqZyAwcEJwwlQVYgMTAgREUgQUdPU1RPIE4y
+NCA1OSBZIExVSVMgQ09SREVSTzAeBgorBgEEAYKmcgMCBBAMDklORVMgTUFSR0FSSVRBMB8GCisG
+AQQBgqZyAyAEEQwPMDExMDAxMDAwMDA0NTkzMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQB
+gqZyAwwECQwHRUNVQURPUjAaBgorBgEEAYKmcgMDBAwMClZJTExBUlJVRUwwIgYKKwYBBAGCpnID
+CgQUDBJDT01FUkNJQUwgS1lXSSBTIEEwHQYKKwYBBAGCpnIDCwQPDA0xNzkwMDQxMjIwMDAxMBEG
+CisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBkdVRVJSQTAQBgorBgEEAYKmcgMIBAIM
+ADANBgkqhkiG9w0BAQsFAAOCAgEAFXB/W9wATn3Ip/wkr9S3T4K1GwdYUXEUf/ycqH8wnjBMptAV
+yNlCbQu1yfXXPOyklQrbQPlQTWg6qqTgFZzGUPmVROHhVBnBjMYDYE4wJZOQEuL/LZVCUQUvu2wY
+EMT/Y+p8IUU+6YJY5F4+l/5TpsmJI2gr9TKknsuKZkIPgJ+Aq8n7WyTIsDVBUbULGn/tUSVsdEL8
+uEPqw5WbkCpbkLVNfCwkdQUDInJEo/4wy/k9z6D8VWoc53Yj2AXX9qHrNdoDbeBxhBYWLj9CkJcb
+fFa57Qdu762OWXhmVXzWhXOeRFM8+SlN7VWucvKh1+x0zBTeNU4KRdNzw4H90J+I2OIR2HQdUUow
+rDwfPGMf+4UGlmz4TfXcfbqiPGl0YhqGz9MKoo8wBQG5D+56meNBFgX+YrGjVvsXNuha9nkUEzHL
+8/vAvTPhqNw/wB9NPuTjodeMUIQlTtUvI3Yab8LGU5I2WpgTaanVZKzupdbLP6pfU/z52OYNKaq8
+PmIXd3mi7t+YMgCBQFTQJjIIEBVSQxEmQPgzF1oMb72OlcHhQtuwIeL6gd/itjjMOfUwHGh4oPLm
+sP9mznacbQ28WN1SDuoekrN+YwlllNFLv9ir8Tn7s7vrwm6A7nvR2kOO56TF5bhPWQbrsTwHZSeG
+DM6ddH2B9a03E4IxkAdlvvgTn0E=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+6tfjGuXfST9T8TBZpR7XCbsEMtsZPYTxZjPO7ANcGfIk8Us9oTC7TMfgsT40cRLpB+k2sFB4Fd0L
+TGqYXLXBkdb3fjp/krKsHFCq19B2qdOefHagmZBErEBSjJU2y1J9QDswwEL0f1TBTrbVjFqMdD/L
+SEXDyIpZNmx3YAfBcx33sqV4t5a6wVz0oLYIzhwPaQMrmWBTNKJVw7j2pxVrDeAzz4a+ykOlH1BP
+2NWM1BQjgApFN+GAmv2EpGpbz5XfQp3AZGd8pR4kVKJ+V1kULgsI8TbUtLlaj3NJrEQ6XabC4nrH
+tfMSWjtaC/tZ5EM0aJR0BGHbGrViSe3ZIhJHnQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature744444-Object818062"><etsi:QualifyingProperties Target="#Signature744444"><etsi:SignedProperties Id="Signature744444-SignedProperties456681"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-07T11:12:50-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Ikmm/FPLCcn+WDbcMQtbfyMeExQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>439784806</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-716054"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

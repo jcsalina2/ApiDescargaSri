@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202601099151571200120140020000151500311000017</numeroAutorizacion>
+<fechaAutorizacion>2026-04-07T22:09:12-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SAFIED S.A.</razonSocial>
+    <nombreComercial>MASMUSIKA</nombreComercial>
+    <ruc>0991515712001</ruc>
+    <claveAcceso>0704202601099151571200120140020000151500311000017</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>014</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000015150</secuencial>
+    <dirMatriz>Rumichaca 822 entre 9 de Octubre y V.M. Rendón</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>07/04/2026</fechaEmision>
+    <dirEstablecimiento>Av. Del Bombero KM 7.5 Via a la Costa, C.C. Riocentro Los Ceibos Local 140</dirEstablecimiento>
+    <contribuyenteEspecial>176</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>MIGUEL JARA</razonSocialComprador>
+    <identificacionComprador>0923295786</identificacionComprador>
+    <totalSinImpuestos>37.91</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>37.91</baseImponible>
+        <valor>5.69</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>43.60</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>16</formaPago>
+        <total>43.60</total>
+        <plazo>0</plazo>
+        <unidadTiempo>meses</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>I12331030</codigoPrincipal>
+      <descripcion>Accesorios de Guitarra - P09602 / P09602 AXIS DUAL RADIUS CAPO BRONE</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>25.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>25.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>25.00</baseImponible>
+          <valor>3.75</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>I12525027H</codigoPrincipal>
+      <descripcion>Cuerdas - EJ27H SET CLS GTR CLASSIC HARD</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>12.91</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.91</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>12.91</baseImponible>
+          <valor>1.94</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Bodega">G4</campoAdicional>
+    <campoAdicional nombre="No. Interno">15810</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature448871">
+<ds:SignedInfo Id="Signature-SignedInfo17085">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID248404" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature448871-SignedProperties480100">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Gz4jRkgJG1++f0E81OuzJwBGI/4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1838026">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>inva7yZgalJtNMWHp7QU6GUM8pw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-884322" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>aVbaPR/eFg0hSNrdTPSCKw3t/IA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue671711">
+T1xeZTzK3qEs66h82oqN7s+MO/iQLmWNFHTvYgaTfK9NjZ2svBbRB8AFvIzhD9e2rkS8DVS4wWbN
+/wy5mMMe+o+F5ZujqXNdTlSlMMZ64jwRY5TAHGXypSTIaoijryxsuASr4x5sziXwcTcAxWx5EejK
+vVjjnhRvjj9ROQyQUsGiRzeW02siP4Ztiftsiqhm+bhCTJIjSFDeJJZ5TUhRTaeeGLBR7GMT0sA1
+mFgRAfU5m+Say03035hrh450qhHUQjxDJYQew0dptULooY06knvSCquLiWSdcErFjIrGRm+SQcrV
+NxjeG2rC7ynuroE3nJNYCIsH2YBQSfOI2w5nkQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1838026">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK0DCCCLigAwIBAgIIIK41bg5WdOwwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMDE3MTY1OTE5WhcNMjcxMDE3MTY1OTE5WjCB
+pjEkMCIGA1UEAwwbTkFOQ1kgUEFPTEEgQkVOSVRFUyBNT05DQURBMSAwHgYDVQQFExcwOTI0Nzky
+NTQyLTE3MTAyNTEyMDkwOTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDCWexvsAdhPqmbWxIQWM2wrIrh1mGsXmj6TAqK
+YB0pCVg9x/rMHf/4cs8CPOv5TIwS+T4slAw1aJFVbl+DdqKVoNGteHoicZ8ZRDC5lWboHGWJGoM5
+wguuEFWyUvcUvAB+HbtmfnaUjcm60Uui9MTgaJqRF0g6goN5CvYb4fwtp7cVQvg73w/f63dnfhKN
+k0870SgXf/sxNUAkrPDOhCeq3f2YwKcZyz7rdUGsXHg6AVGaoFNiEci54K4fz7SeYi7Vu4pMB+hT
+8bUnV6gaXl5p5jBkiNhna6RfNgjlKJjy8xNh29Y5pVXRaIOXzJ4jpqmyETuWqjdbatRMC09jXwBT
+AgMBAAGjggYLMIIGBzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAqBgNVHREEIzAhgR9hc2lzdGVu
+dGUuZmluYW5jaWVyb0BzYWZpZWQuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBU
+MFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUA
+cwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcC
+ARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMv
+Tm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVw
+cmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYD
+VR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNh
+MmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkG
+A1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3Js
+Mi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNz
+dWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDMB0GA1UdDgQWBBTz8a9jaKzdZjZZGOZ/mu34pIt0fjArBgNVHRAEJDAigA8y
+MDI1MTAxNzE2NTkxOVqBDzIwMjcxMDE3MTY1OTE5WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnID
+BQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTI0NzkyNTQyMBoGCisGAQQB
+gqZyAwkEDAwKUk9DQUZVRVJURTARBgorBgEEAYKmcgMiBAMMAS4wNwYKKwYBBAGCpnIDBwQpDCdS
+VU1JQ0hBQ0EgODIyIFkgOSBERSBPQ1RVQlJFIFYgTSBSRU5ET04wGwYKKwYBBAGCpnIDAgQNDAtO
+QU5DWSBQQU9MQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTA2MDI3MjATBgorBgEEAYKmcgMh
+BAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdCRU5JVEVT
+MBoGCisGAQQBgqZyAwoEDAwKU0FGSUVEIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTE1MTU3MTIw
+MDEwEQYKKwYBBAGCpnIDHQQDDAEuMBcGCisGAQQBgqZyAwQECQwHTU9OQ0FEQTAaBgorBgEEAYKm
+cgMIBAwMCjA5ODUyMTI1NTUwDQYJKoZIhvcNAQELBQADggIBAMBApKyDv202GQy4haoPan6tC03/
+v/YcjwoW9JzcvbfUcjEol2dWFesuXmogEbVrWx187gflUgE3btwlWGP3t2z1YtwkGok/hJsciurb
+BfVpl7//2aa2wDlPbFHJZHT9W9VLihKNNqFNRyhwauf72DLvLykqq9EDUhjFlZewMyjgxacM6iof
+JN2uBj2NXMSQTlaNrgfJWpEd89dkHq6JMVHXIujIJAcyNoBV4MYE9qQOPQDHMlmu7ebgN+Qk/pxs
+hlciexnTYuJeW8lPSRUGk5BC4IJSljFh0iFvOmFiYUQG8Gbcd2O4ICerEL+bRj5ov0HPk5b9HRU5
+t+v40KX3CsH95XAG8xwOVZn+W8vu/iRaguK4rLc0+PDUl2tqishpZhHSQjUs1sS5aZch4GSoMfrM
+zBu309tFsbcTyypSZqVwQmcByaLZfPxezG99aNShQAn72u6PCEYqBPYPvWPcf8tUMk+Hpp0GdnWe
+olr6RL+MwbH/DheW5Qe9RziM7IjIQBo9Xh52HgNX1oeof8LOndOeL7O/KqAIKSrDrRxCbWYMoH57
+UOU/fg0SYkqq5Qk+VRWOrJ+i5mDvo8JFLozwHq3q5Y5dMXjRZQzZPlVJUWgocqQ7c7USE9FjnMwx
+Hn7RURv80ZTAGX1ayWHrgx7uqZSb1XsYltXAnIVNBl7y8NOf
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wlnsb7AHYT6pm1sSEFjNsKyK4dZhrF5o+kwKimAdKQlYPcf6zB3/+HLPAjzr+UyMEvk+LJQMNWiR
+VW5fg3ailaDRrXh6InGfGUQwuZVm6BxliRqDOcILrhBVslL3FLwAfh27Zn52lI3JutFLovTE4Gia
+kRdIOoKDeQr2G+H8Lae3FUL4O98P3+t3Z34SjZNPO9EoF3/7MTVAJKzwzoQnqt39mMCnGcs+63VB
+rFx4OgFRmqBTYhHIueCuH8+0nmIu1buKTAfoU/G1J1eoGl5eaeYwZIjYZ2ukXzYI5SiY8vMTYdvW
+OaVV0WiDl8yeI6apshE7lqo3W2rUTAtPY18AUw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature448871-Object126259"><etsi:QualifyingProperties Target="#Signature448871"><etsi:SignedProperties Id="Signature448871-SignedProperties480100"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-07T22:10:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>APfW6Ot91RQ3arcUf1VUNHQsolY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2354878401964569836</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyId><etsi:SigPolicyId><etsi:Identifier>http://www.facturae.es/politica_de_firma_formato_facturae/politica_de_firma_formato_facturae_v3_1.pdf</etsi:Identifier><etsi:Description>Política de Firma FacturaE v3.1</etsi:Description></etsi:SigPolicyId><etsi:SigPolicyHash><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue></etsi:SigPolicyHash></etsi:SignaturePolicyId></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-884322"><etsi:Description>comprobante electronico</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

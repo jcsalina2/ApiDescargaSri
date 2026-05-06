@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601080322391600120030020000085161234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T18:13:42-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>VELASCO SAMANIEGO HELEN ZULEIKA</razonSocial>
+    <nombreComercial>K CENTRO ATACAMES</nombreComercial>
+    <ruc>0803223916001</ruc>
+    <claveAcceso>1304202601080322391600120030020000085161234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000008516</secuencial>
+    <dirMatriz>ESMERALDAS / ATACAMES / ATACAMES / OLMEDO 7 Y RAFAEL PALACIOS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/04/2026</fechaEmision>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>CEDEÑO LOOR MAYTER VALESCA</razonSocialComprador>
+    <identificacionComprador>0850472986001</identificacionComprador>
+    <direccionComprador>SANTO DOMINGO</direccionComprador>
+    <totalSinImpuestos>13.48</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>13.48</baseImponible>
+        <valor>2.02</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>15.50</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>15.50</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>793462133163</codigoPrincipal>
+      <descripcion>FUNDA STAR 10 UD</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.565217</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.57</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.57</baseImponible>
+          <valor>0.08</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861010911204</codigoPrincipal>
+      <descripcion>TARRINAS 650CC BL</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.086957</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.09</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.09</baseImponible>
+          <valor>0.16</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861010911860</codigoPrincipal>
+      <descripcion>REPOSTERO 12 OZ X 25 UNDS</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.565217</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.57</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.57</baseImponible>
+          <valor>0.08</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861010902837</codigoPrincipal>
+      <descripcion>REPOSTEROS 5 OZ AMAR</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.347826</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.35</baseImponible>
+          <valor>0.05</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861010900673</codigoPrincipal>
+      <descripcion>REPOSTERO 7 ONZAS BLANCO 25 UNDS</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.391304</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.39</baseImponible>
+          <valor>0.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7862122731490</codigoPrincipal>
+      <descripcion>FUNDA DE PAPEL N3</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.043478</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.04</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.04</baseImponible>
+          <valor>0.16</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861158700302</codigoPrincipal>
+      <descripcion>VASO COLERO</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>0.391304</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.78</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.78</baseImponible>
+          <valor>0.12</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7862122731476</codigoPrincipal>
+      <descripcion>FUNDA DE PAPEL N1</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.608696</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.61</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.61</baseImponible>
+          <valor>0.09</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>9279</codigoPrincipal>
+      <descripcion>BANCO NEGRO BANS</descripcion>
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>1.130435</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.52</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>4.52</baseImponible>
+          <valor>0.68</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861191201217</codigoPrincipal>
+      <descripcion>FUNDA FLORAL DECORADAS</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.521739</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.52</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.52</baseImponible>
+          <valor>0.08</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2013518818744</codigoPrincipal>
+      <descripcion>ESPUMADERA 14CM 1874</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.043478</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.04</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.04</baseImponible>
+          <valor>0.46</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">  </campoAdicional>
+    <campoAdicional nombre="Email">VALESCACEDEÑOLOOR@GMAIL.COM</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature821331">
+<ds:SignedInfo Id="Signature-SignedInfo612946">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID57868" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature821331-SignedProperties405273">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2TgRkI38K7+Zo16p06VJk2i+Nmk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1781530">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hrvFxQ8iFf5ZufGTxuaIH7aHp78=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-722854" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>XtacZRivd/X5lTuX9Rxnrgvp6ZA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue674194">
+US2fVyH0Jo9g30muiBiADiX5Z+uDPDBy4xe54m3Yp+yziDyX59aVVNEFQnWLDLZe9PW7k3s3ofOW
+fySvubXWB43Z7p26JFePGVYPcsd1KeLheBD3v2UdaNWRcW+GH1n821JGE3RYHy1Dp+FOu+6hX8HA
+tDT9Cfxjo4zc1h2fiZqqr6S3gqFqpEDR1P/gZ9Isrk/85eI8/mtEO/lTIyMdvLaA0GrzZBaMeRKL
+aka4f5jnpX/lPmDQf/TRPqF8r6Ee4vpI+/1cFS4Ov2HXJt/l+Fu1iItdr/4ax0VfuZ/jfCUW+Ann
+tAy3Ws4d98DhtjArxg4ANrUQ83L0sIizALYXlA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1781530">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJCTCCBvGgAwIBAgIKfzK00fchG/WpEDANBgkqhkiG9w0BAQsFADCBmzELMAkGA1UEBhMCRUMx
+HzAdBgNVBAoMFkNPUlBORVdCRVNUIENJQS4gTFREQS4xMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMUVGIENPUlBORVdCRVNUMB4XDTI1MTEwNzE1NDEzMVoXDTI3MTEwNzE1NDEz
+MFowgYkxKDAmBgNVBAMMH1ZFTEFTQ08gU0FNQU5JRUdPIEhFTEVOIFpVTEVJS0ExMDAuBgNVBAsM
+J0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEeMBwGA1UECgwVQ09SUE5F
+V0JFU1QgQ0lBLiBMVERBMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAKtUTSWcXHTRElkHw7xaK9o5iVZLkHi9/9ke9xR2Vi5sukShz5ky6ZWy7oMU6Fy+7sNguixr
+el2bzUDGFw1cd5P+XFrI7uvy91CRR1AZo7OhtCsFqWT4eWRLxewehWxglDNHbtP7IQ9uZJJuj3dl
+ZYklBuY7vQADKql3ZhP9fKfLd+l+Bum9d2FG2w3BxLGIBF4pqQEdUu2/LDQ8E6jfU1I9kHnmHQKe
+DklsUSvAjHXxdfjR4kLvLxpaWQzicm3vL+AT3/XCOTjExe8y3dhbT330EHUThikzC2QDYhffstX8
+Ay+iIlaUhXluQipiNy1HGdl9oCivBSp8j2Yw1+QI6HECAwEAAaOCBF0wggRZMAwGA1UdEwEB/wQC
+MAAwHwYDVR0jBBgwFoAUaZUPhTiZVIha5cn2GnVziP9K9J4wUwYIKwYBBQUHAQEERzBFMEMGCCsG
+AQUFBzABhjdodHRwOi8vZWpiY2FlZS5uZXdiZXN0LnRlY2gvZWpiY2EvcHVibGljd2ViL3N0YXR1
+cy9vY3NwMIHtBgNVHS4EgeUwgeIwgd+ggdyggdmGgdZodHRwOi8vZWpiY2FlZS5uZXdiZXN0LnRl
+Y2gvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q04lM0RB
+VVRPUklEQUQrREUrQ0VSVElGSUNBQ0lPTitTVUJDQS0xRUYrQ09SUE5FV0JFU1QlMkNPVSUzREVO
+VElEQUQrREUrQ0VSVElGSUNBQ0lPTitERStJTkZPUk1BQ0lPTiUyQ08lM0RDT1JQTkVXQkVTVCtD
+SUEuK0xUREEuJTJDQyUzREVDMIGLBgNVHSAEgYMwgYAwcAYKKwYBBAGCjEwBCTBiMGAGCCsGAQUF
+BwIBFlRodHRwczovL3d3dy5uZXdiZXN0Lm5ldC9uZXdzaWduYXBpL2Rvd25sb2Fkcy9ub3JtYXRp
+dmEvcG9saXRpY2FzX3BlcnNvbmFfbmF0dXJhbC5wZGYwDAYKKwYBBAGCjEwCBzCB7QYDVR0fBIHl
+MIHiMIHfoIHcoIHZhoHWaHR0cDovL2VqYmNhZWUubmV3YmVzdC50ZWNoL2VqYmNhL3B1YmxpY3dl
+Yi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOJTNEQVVUT1JJREFEK0RFK0NFUlRJ
+RklDQUNJT04rU1VCQ0EtMUVGK0NPUlBORVdCRVNUJTJDT1UlM0RFTlRJREFEK0RFK0NFUlRJRklD
+QUNJT04rREUrSU5GT1JNQUNJT04lMkNPJTNEQ09SUE5FV0JFU1QrQ0lBLitMVERBLiUyQ0MlM0RF
+QzAdBgNVHQ4EFgQU2GsMxuVBYi2xtifcv9MW54gZXSowKwYDVR0QBCQwIoAPMjAyNTExMDcxNTQx
+MzFagQ8yMDI3MTEwNzE1NDEzMFowDgYDVR0PAQH/BAQDAgXgMBoGCisGAQQBgoxMAwEEDAwKMDgw
+MzIyMzkxNjAaBgorBgEEAYKMTAMJBAwMCkVTTUVSQUxEQVMwLwYKKwYBBAGCjEwDBwQhDB9DQUxM
+RSBKVUFOIE1PTlRBTFZPIHNuIENBTExFIEIxMB0GCisGAQQBgoxMAwIEDwwNSEVMRU4gWlVMRUlL
+QTASBgorBgEEAYKMTAMMBAQMAkVDMBcGCisGAQQBgoxMAwMECQwHVkVMQVNDTzAdBgorBgEEAYKM
+TAMLBA8MDTA4MDMyMjM5MTYwMDEwGQYKKwYBBAGCjEwDBAQLDAlTQU1BTklFR08wGgYKKwYBBAGC
+jEwDCAQMDAowOTk4NDc4MDYwMA0GCSqGSIb3DQEBCwUAA4ICAQAZyND7mevTkq6s6jdj6ucGjqBz
+vB8ZUAL9TAvMKIeEKkFImPwD1uVgyS7j8oPNt9WvmHiCJz9MHINbJ8eYTnAmDS9TdxL2dJ8nxYOZ
+FtCP2kexHX+NQcJfM0eZTHlI0OgrSs3l4opLkb2gpWWlkZkWtWvdZlTKgUBq8oSOh5CMRXc4NOoT
+be9cTA/cYmb68ASBHPtoslzgkTBUnJZyxQrZq5FsBdKjuMA15rE5kLyiDqTU5kwd4YbtKSrnMjbh
+WdkTUy1YHTuY4BWZvXhikYiGjRrPlWglNkixOzznitEpx1ubWpEUeaI1GumkNWRgpZrffd54w0qL
+qpChIn/ppwtBSRK4P0Fy9aNDJA5BFNKkfR3WPofjdS8BdJX35M5q2SUTPPn/5L+mJc+TqmgcMF4Z
+QG0DXCeVpog1SoKejlCTg64MwDjM9N+UoU4BRbSXI39mzbKEkl3U0A8A/bLGvtkdo9Iq1AM1jqlh
+j47zCCiIlQezBiowbnODlzp66e8NaIaBU5Q5zG8E33iU35evZkqwdl2ACweByfV+ygwuUat33yFS
+/4kD48+reXM4pvjyATuthgFcUrJtWM7TQX3lRRAheEKjLy4znIjgIPOYdhKp3UD05y/dC6xVZr9a
+diBF9yeKBQzWyVGUNLlziqBAz7ZwO7oG3beigBpoWhnjmbry8A==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+q1RNJZxcdNESWQfDvFor2jmJVkuQeL3/2R73FHZWLmy6RKHPmTLplbLugxToXL7uw2C6LGt6XZvN
+QMYXDVx3k/5cWsju6/L3UJFHUBmjs6G0KwWpZPh5ZEvF7B6FbGCUM0du0/shD25kkm6Pd2VliSUG
+5ju9AAMqqXdmE/18p8t36X4G6b13YUbbDcHEsYgEXimpAR1S7b8sNDwTqN9TUj2QeeYdAp4OSWxR
+K8CMdfF1+NHiQu8vGlpZDOJybe8v4BPf9cI5OMTF7zLd2FtPffQQdROGKTMLZANiF9+y1fwDL6Ii
+VpSFeW5CKmI3LUcZ2X2gKK8FKnyPZjDX5AjocQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature821331-Object1022227"><etsi:QualifyingProperties Target="#Signature821331"><etsi:SignedProperties Id="Signature821331-SignedProperties405273"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T18:13:41-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>iDssEaAVgpYvcsrQXl9VsnchXYs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1EF CORPNEWBEST,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=CORPNEWBEST CIA. LTDA.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>600675909995048954341648</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-722854"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

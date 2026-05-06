@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202601091980870900120010020000000871234567015</numeroAutorizacion>
+<fechaAutorizacion>2026-04-20T21:43:54-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CABRERA MONTENEGRO ITALO GERONIMO</razonSocial>
+    <nombreComercial>CABRERA MONTENEGRO ITALO GERONIMO</nombreComercial>
+    <ruc>0919808709001</ruc>
+    <claveAcceso>2004202601091980870900120010020000000871234567015</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000000087</secuencial>
+    <dirMatriz>COOP 13 DE FEBRERO MZ 264 SL 12</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>20/04/2026</fechaEmision>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ASTECNAVIND SAS</razonSocialComprador>
+    <identificacionComprador>0993387909001</identificacionComprador>
+    <direccionComprador>GUASMO NORTE COOP 1 DE MAYO</direccionComprador>
+    <totalSinImpuestos>5000.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>5000.00</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>750.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>5750.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>5750.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>048</codigoPrincipal>
+      <descripcion>Dsm y Mnt de rodamientos y alineacion de propulsion del Ram Angol</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>5000.000</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>5000.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>5000.00</baseImponible>
+          <valor>750.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">GUASMO NORTE COOP 1 DE MAYO</campoAdicional>
+    <campoAdicional nombre="Telefono">0987730665</campoAdicional>
+    <campoAdicional nombre="Email">ASTECNAVIND.ECUADOR@GMAIL.COM</campoAdicional>
+    <campoAdicional nombre="Fechavencimiento">05/05/2026</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature580523">
+<ds:SignedInfo Id="Signature-SignedInfo285050">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID41439" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature580523-SignedProperties570505">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kyUdAywvnR8v5xALU8MIs0Vusek=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1601035">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>03OxQSD4I2/YYg9eZryPXD6iGcI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1006233" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>O2zw154yVKOVeLeduoTnLIa/a1s=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue774897">
+WrHNS4/dcaK42HwFhFdw+kszmWcywih427p5MCe+OrvXowjQlwNrSltEfkMa6jKqZWhdaNyZHNrV
+KG4lreftW9rsYnCk0UbHxnrhNVtoTV6I9XqDKEzneStGpx5hv9EYYbkNeOFVW99XJ27mJ6U9Ye9N
+ccaFiVvm2HftJPHlKeRwV33ePJB98PpBgTLfA+B9RzFZbHBwYWhbmNUTgd+LzaQQdePgegi4/hOm
+XLXAxIkkiA3Xsj72rjhCwBzcegTiN2u8ehPzEV2YD2hZNCytFuBbV5roAnireZxGWzlPTj7ohcIz
+CD+xx10/OGRK0aPb31aeDcZEyUxeZMRGegpQ2w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1601035">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKczCCCFugAwIBAgIINbqpyxCBw68wDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMjAyMjAyMDQwWhcNMzAwMjAyMjAyMDQwWjCB
+rDEqMCgGA1UEAwwhSVRBTE8gR0VST05JTU8gQ0FCUkVSQSBNT05URU5FR1JPMSAwHgYDVQQFExcw
+OTE5ODA4NzA5LTAyMDIyNjE1MzAzMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEIMn/mQoRHCcT0YevXG1R1ShMgIdr
+tWlxZ2KKYcWuoaO3OR12+qlE03Lq2e8VVYV5WWZUcPxQujgZYA1ml/GUgDIgWGx3aT/ZZJEbRf6o
+85kTIGfajUlgaq+UGDXFWQmcFsI6hn0E2wiAC0BQsr027kTzXocwa9jtNY9K534yufPTpsjfE6eu
+cul2mX3nGtwVtqVW/F64hOc1B3eIBuGsI/NZm7GEmUhCgCc5Yp/kGQ48kjRdt81ehDj/Q4ywJWpB
+5jN19YbpAOVckQWnzj8WiPBonV+jHyUILDH8ORkCUKN6n+uTzAe+lXmNFzxvrKMpdid1aZOt7nEK
+tdeT8hR1AgMBAAGjggWoMIIFpDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsK
+S1W/ja5i3b2PMIHYBggrBgEFBQcBAQSByzCByDCBxQYIKwYBBQUHMAGGgbhsZGFwOi8vbGRhcHNk
+Y2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNl
+MCUGA1UdEQQeMByBGml0YWxvZ2NhYnJlcmFtQGhvdG1haWwuY29tMGUGA1UdIAReMFwwWgYKKwYB
+BAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQ
+AGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUH
+AwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERF
+IENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5B
+LiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9z
+dWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3Iy
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21k
+PWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklU
+WSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VS
+SVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFPGF5iRGdXlbD+DhEsYkZZ2zAmKwMCsGA1Ud
+EAQkMCKADzIwMjYwMjAyMjAyMDQwWoEPMjAzMDAyMDIyMDIwNDBaMAsGA1UdDwQEAwIF4DAaBgor
+BgEEAYKmcgMBBAwMCjA5MTk4MDg3MDkwFgYKKwYBBAGCpnIDCQQIDAZYSU1FTkEwEQYKKwYBBAGC
+pnIDIgQDDAEuMBgGCisGAQQBgqZyAwcECgwIU09MQVIgMTIwHgYKKwYBBAGCpnIDAgQQDA5JVEFM
+TyBHRVJPTklNTzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTA5NjE0NjARBgorBgEEAYKmcgMj
+BAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisG
+AQQBgqZyAwMECQwHQ0FCUkVSQTAZBgorBgEEAYKmcgMeBAsMCUJBQ0hJTExFUjAdBgorBgEEAYKm
+cgMLBA8MDTA5MTk4MDg3MDkwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBoGCisGAQQBgqZyAwQEDAwK
+TU9OVEVORUdSTzAaBgorBgEEAYKmcgMIBAwMCjA5Njc2ODA3NTIwDQYJKoZIhvcNAQELBQADggIB
+ALVDqL0CufwyM65I1Lq6pr3PbjJUPX+LblF0CVM2BM2o2m3RNpxZVILQE3xEsVEn08aeu3lUKsp5
+lbB9w4sNFvIMW0Z1b0fOutUwicUbOtz9me+eUEUZErXPepUvv2nUPAgixAFIsAZFmeH7nDywos3Y
+cdWNNuRCBNfJVhJpi1CrJ08DJ1WHmmq+9hzMJNefqtkbsoXN6T/PGx4u6IQoxXgFVIzjNnd3I7Ma
+xGnIkwOLFu2V3KwBaHzLqQWSeSo+TwWi+EQv8hZbcLcnr/yB0HK57jgx/Vmz+NsS7HxLvCNZLpMz
+i1jvRoYjY+KLjxRVjD98zLeGBk7hwbvnGPvS+5bXf5ZJqh9n92YY9h7WM7VSCNb/kYee8UAbGiyJ
+I96vhWwcBtuPFSJcOcAmXqjp8YXsseH2aoTTvW0GydLkaqymkdRKg3eA2v5wBWARqmkLjmLOomX4
+kUashTwIgP24u7iWI7pJOstUcE+Apj/4GMXTmGEgPUIfxJb0XsAKYvL56ejvi+Tm61nN2Uv62E0X
+1eYDSf9CuqMwWwwdgbLskUZ9NrPx9ht55RRj4tE8pwa44JyannB4cyE0O162cOtBYzNmg6VBWiw0
+79Zu4xWp4Yw+7/qfFLYAEJ7NtX/5WqCA3xDJy7ZynuRHmcTdNEqI0X0WPxrgKu1gW+es2lKsvWCu
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xCDJ/5kKERwnE9GHr1xtUdUoTICHa7VpcWdiimHFrqGjtzkddvqpRNNy6tnvFVWFeVlmVHD8ULo4
+GWANZpfxlIAyIFhsd2k/2WSRG0X+qPOZEyBn2o1JYGqvlBg1xVkJnBbCOoZ9BNsIgAtAULK9Nu5E
+816HMGvY7TWPSud+Mrnz06bI3xOnrnLpdpl95xrcFbalVvxeuITnNQd3iAbhrCPzWZuxhJlIQoAn
+OWKf5BkOPJI0XbfNXoQ4/0OMsCVqQeYzdfWG6QDlXJEFp84/FojwaJ1fox8lCCwx/DkZAlCjep/r
+k8wHvpV5jRc8b6yjKXYndWmTre5xCrXXk/IUdQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature580523-Object616137"><etsi:QualifyingProperties Target="#Signature580523"><etsi:SignedProperties Id="Signature580523-SignedProperties570505"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T21:43:50-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ZXSdIQ40ry3CYEpLOOD0d8xzk8o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3871593519298757551</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1006233"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601129173086400120021180001700770346784115</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T17:47:12-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>MUNDOFFICE C. LTDA.</razonSocial>
+		<nombreComercial>LIBRERIA Y PAPELERIA OFFICE MUNDO 21</nombreComercial>
+		<ruc>1291730864001</ruc>
+		<claveAcceso>0804202601129173086400120021180001700770346784115</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>002</estab>
+		<ptoEmi>118</ptoEmi>
+		<secuencial>000170077</secuencial>
+		<dirMatriz>BOLIVAR N. 705 Y SEPTIMA</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>08/04/2026</fechaEmision>
+		<dirEstablecimiento>OCTAVA #222 Y 7 DE OCTUBRE</dirEstablecimiento>
+		<contribuyenteEspecial>286</contribuyenteEspecial>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		<razonSocialComprador>DAVILA PAZMINO WASHINGTON FIDEL</razonSocialComprador>
+		<identificacionComprador>1708589559</identificacionComprador>
+		<direccionComprador>AV WALTER ANDRADE Y LA QUINTA                                   0</direccionComprador>
+		<totalSinImpuestos>0.91</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<baseImponible>0.91</baseImponible>
+				<valor>0.14</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>1.05</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>01</formaPago>
+				<total>1.05</total>
+				<plazo>0</plazo>
+				<unidadTiempo>DIAS</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>00000181</codigoPrincipal>
+			<codigoAuxiliar>4897012974728</codigoAuxiliar>
+			<descripcion>SCOTH GRANDE ANCHA 18*72</descripcion>
+			<cantidad>3.00</cantidad>
+			<precioUnitario>0.303000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.91</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="SCOTH"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.91</baseImponible>
+					<valor>0.14</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Direccion">AV WALTER ANDRADE Y LA QUINTA                                   0</campoAdicional>
+		<campoAdicional nombre="Vencimiento1">2026/04/08 Valor:1.05</campoAdicional>
+		<campoAdicional nombre="Control">01-FP-003467841</campoAdicional>
+		<campoAdicional nombre="Email Institucional">mundoffice@mundoffice.com</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature472190">
+<ds:SignedInfo Id="Signature-SignedInfo534813">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID95410" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature472190-SignedProperties649506">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>T6NSPKtiijRK7YGN3+BB4N/WwGY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1489642">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RvRKeLlrhat38XN7K+mk5495/g4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1035432" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>oNs6a0uFVy3Eti3tTtdVXYbgJA8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue468805">
+ApPi2x/ihUm3MCRK7R+MXllOE/ordW8vgcogEDTuL/oTaL2BGztw/dwbIo+s+2JuVShOjRoZFwkB
+Np8CTplRHOvYPmkYC7aROC1TuGK52SjMcw402RSZMwbW17bY+Pg7vub/QDW2KtFJI0kBfW0FQ/a2
+DRAlaiDa0LmGzAPPx8eC5UriCOrtONO7prHpYshYyC8cbJ4x3kbP8xtpN/w49ednIJBa1uzrtr43
+nxFrV7gjBSvvn6pMx2QlXcmTqBRh5HftDRWdSK/0VLy+Q84Uwd/t+Loy3vn9mKfOfvHRK+32yXpQ
+fhp6YHV7OdGu3Vw8qbUpNzyAQi/pWwyCEZe1fA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1489642">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL8TCCCdmgAwIBAgIEQpPZVTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA4MDkxODU3MjlaFw0yNjA4MDkxODU3MjlaMIGcMSUw
+IwYDVQQDDBxKT1NFIEFVR1VTVE8gVElQQU5UVU5BIFVHU0hBMRUwEwYDVQQFEwwwOTA4MjIxNDA3
+MTIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA4YKaqQ5kK7Gpdd9SqiFCHphIOMnCHEwK+/3ey3V/eUx+9/RBSo8/rWlB
+Fh4qhutCCVEuYM9iukCre6Tgn+/Ogg/veiWunp66CHXVWUNwSqrQlQNLq/XuGEgBlD0kdOwKzkWn
+NvZ9mehiF/JVOsNWPUMyLtabd2LBy4R8DXFv+U9Ng7N85voUuK8pQRCUpAN4Mfw+zcNc2dxx0cva
+6dxWgrtytedm6XLtS2oY66OQEzKDQfb0L4P0oyk3e0E7y0zWaee5E763LFuah+c791SVzdAkp3vc
+s4zDyFZkooTcks3N/m0zpPVbt+h1g30K55ZJh3ecl3JPXLpgeviNIzh+2wIDAQABo4IHOjCCBzYw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwIgYDVR0RBBswGYEXZ2VyZW5jaWFAbXVuZG9mZmljZS5jb20wggEVBgNVHSAEggEMMIIB
+CDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAg
+AGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZy
+AgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1j
+b250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBk
+ZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHl
+oEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1F
+Qz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRh
+bC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9j
+ZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU6HcXFhe8nMddO1cIOK5d
+gWMtmVAwKwYDVR0QBCQwIoAPMjAyMjA4MDkxODU3MjlagQ8yMDI2MDgwOTE4NTcyOVowCwYDVR0P
+BAQDAgXgMBoGCisGAQQBgqZyAwUEDAwKUFJFU0lERU5URTAaBgorBgEEAYKmcgMBBAwMCjEyMDE2
+MjUwODIwFwYKKwYBBAGCpnIDCQQJDAdRVUVWRURPMBEGCisGAQQBgqZyAyIEAwwBLjAlBgorBgEE
+AYKmcgMHBBcMFUJPTElWQVIgNzA1IFkgU0VQVElNQTAcBgorBgEEAYKmcgMCBA4MDEpPU0UgQVVH
+VVNUTzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDIzOTU5ODATBgorBgEEAYKmcgMhBAUMA1BG
+WDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGCpnIDAwQLDAlUSVBBTlRVTkEwIwYK
+KwYBBAGCpnIDCgQVDBNNVU5ET0ZGSUNFIEMuIExUREEuMB0GCisGAQQBgqZyAwsEDwwNMTI5MTcz
+MDg2NDAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBUGCisGAQQBgqZyAwQEBwwFVUdTSEEwGgYKKwYB
+BAGCpnIDCAQMDAowOTg5NDI2MzI5MA0GCSqGSIb3DQEBCwUAA4ICAQCsNc37FKJEDdRUC0mqJH9n
+QQliQRH9w7OODGzTDa8eQqDTfq35/viMvn3TeRvnOoPnUy7HxA3OUfzyVmKvnPm77cw8hQ6ypUpD
+gXFWIOQa9ClcYCk9tjFtg3bXky4GP5kB197mEnXuGg+ScYGbqhBYI0hDfBl/ryXt+ti82H+iBcOn
+UaVFNSMIYA42oq5rtQroJzEt0Ddv6r02fbnL7NIkmZmqzpDqhw6VK4G5c9zL68fcuZ7NrnuJeUHG
+FNYJ5ZjHYT7rQvVLi6UgHm4yxcY7UD5rQcBSwS+O+kUfyng63t1MvZPhh5+Yg9ug/smQn65Pfqha
+F0di7r3swictMOwuPtDgNP4o68JWX8DBbnUr04VrfeXoaJBVhQ1R1bC8X/B3sOCvCHa32Vst2Rvl
+qkg9xornBBYjXVoYhg+S+OO417xVxmg8u8woWyefGCqqDSQPXy/efUrlzByipksTYwZrqCmw0RMm
+ty+xPJX3KVfAORekBqhBNSj8SsEh/R/MwbaOibmlG462kyL8wLiyNp9zB9u2PrCgPtbxjeLIKKog
+tSVXAeixJdPIMFsGW+o/sbFjJB8L8hA7mhVgca+ibd/9hsEG+p/pWKsdlTOQ7iiHH6FuHd9wsnVY
+a60EKUN2g9vbVGar175V9O7VuZfDJmHBqZjxbh71xz52bPXLnHk/yg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4YKaqQ5kK7Gpdd9SqiFCHphIOMnCHEwK+/3ey3V/eUx+9/RBSo8/rWlBFh4qhutCCVEuYM9iukCr
+e6Tgn+/Ogg/veiWunp66CHXVWUNwSqrQlQNLq/XuGEgBlD0kdOwKzkWnNvZ9mehiF/JVOsNWPUMy
+Ltabd2LBy4R8DXFv+U9Ng7N85voUuK8pQRCUpAN4Mfw+zcNc2dxx0cva6dxWgrtytedm6XLtS2oY
+66OQEzKDQfb0L4P0oyk3e0E7y0zWaee5E763LFuah+c791SVzdAkp3vcs4zDyFZkooTcks3N/m0z
+pPVbt+h1g30K55ZJh3ecl3JPXLpgeviNIzh+2w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature472190-Object113431"><etsi:QualifyingProperties Target="#Signature472190"><etsi:SignedProperties Id="Signature472190-SignedProperties649506"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-08T17:47:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>bh+3mHwJ2uidVg0LCS7CpC3PaFQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1116985685</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1035432"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

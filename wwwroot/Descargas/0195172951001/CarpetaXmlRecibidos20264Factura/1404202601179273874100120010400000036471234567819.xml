@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601179273874100120010400000036471234567819</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T16:00:46-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>IMPORTACIONES MEDICALSOLUTIONS CIA. LTDA.</razonSocial><nombreComercial>MEDICAL SOLUTIONS</nombreComercial><ruc>1792738741001</ruc><claveAcceso>1404202601179273874100120010400000036471234567819</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>040</ptoEmi><secuencial>000003647</secuencial><dirMatriz>FRANCISCO DE ORELLANA LT208 Y FERNANDO DE MAGALLAN</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>14/04/2026</fechaEmision><contribuyenteEspecial>378E</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>LUVET S.A.S.</razonSocialComprador><identificacionComprador>0195172951001</identificacionComprador><direccionComprador>CUENCA/EL CONSTITUCIONAL S/N Y EL UNIVERSO URBANIZACION LA PRENSA</direccionComprador><totalSinImpuestos>282.03</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>282.03</baseImponible><valor>42.31</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>324.33</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>324.33</total><plazo>0</plazo><unidadTiempo>D</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>RGS-001</codigoPrincipal><codigoAuxiliar>RGS-001</codigoAuxiliar><descripcion> ROLLO DE GASA NO ESTÉRIL 90 CM X 100 M (HILOS: 26X18) C/6 UDS</descripcion><unidadMedida>UDS</unidadMedida><cantidad>4.0000</cantidad><precioUnitario>19.14000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>76.56</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="LOTE_EXPIRA" valor="Registro Sanitario:17115-DME-0824 LOTE:20230523 F.Elab:05/2023 F.EXP:05/2028 CANTIDAD:4"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>76.56</baseImponible><valor>11.48</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>JRG-002</codigoPrincipal><codigoAuxiliar>JRG-002</codigoAuxiliar><descripcion>JERINGA DE 3 ML LUER LOCK, AGUJA 23G X 1", ESTÉRIL PAQ/100 C/3000 UDS</descripcion><unidadMedida>UDS</unidadMedida><cantidad>1500.0000</cantidad><precioUnitario>0.03520</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>52.80</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="LOTE_EXPIRA" valor="Registro Sanitario:17645-DME-1124 LOTE:20251210 F.Elab:12/2025 F.EXP:12/2030 CANTIDAD:1,500"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>52.80</baseImponible><valor>7.92</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>JRG-003</codigoPrincipal><codigoAuxiliar>JRG-003</codigoAuxiliar><descripcion>JERINGA DE 5 ML LUER LOCK, AGUJA 22G X 1 1/4", ESTÉRIL PAQ/100 C/2400 UDS</descripcion><unidadMedida>UDS</unidadMedida><cantidad>1500.0000</cantidad><precioUnitario>0.03620</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>54.30</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="LOTE_EXPIRA" valor="Registro Sanitario:17645-DME-1124 LOTE:20251210 F.Elab:12/2025 F.EXP:12/2030 CANTIDAD:1,500"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>54.30</baseImponible><valor>8.15</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>GTN-007</codigoPrincipal><codigoAuxiliar>GTN-007</codigoAuxiliar><descripcion>GUANTES DE NITRILO, TEXTURA SIN POLVO L AZUL</descripcion><unidadMedida>UDS</unidadMedida><cantidad>900.0000</cantidad><precioUnitario>0.03200</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>28.80</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="LOTE_EXPIRA" valor="Registro Sanitario:8443-DME-0420 LOTE:5794 F.Elab:11/2025 F.EXP:11/2030 CANTIDAD:900"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>28.80</baseImponible><valor>4.32</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>SERV-010</codigoPrincipal><codigoAuxiliar>SERV-010</codigoAuxiliar><descripcion>SERVICIO DE LOGISTICA - SIN SEGURO</descripcion><unidadMedida>UDS</unidadMedida><cantidad>5.0000</cantidad><precioUnitario>3.25000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>16.25</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>16.25</baseImponible><valor>2.44</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>DCE-001</codigoPrincipal><codigoAuxiliar>DCE-001</codigoAuxiliar><descripcion>BATA DE CIRUJANO TALLA ESTÁNDAR ESTÉRIL C/40 UDS</descripcion><unidadMedida>UDS</unidadMedida><cantidad>40.0000</cantidad><precioUnitario>1.25300</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>50.12</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="LOTE_EXPIRA" valor="Registro Sanitario:DM-1706-01-10 LOTE:BCE2601 F.Elab:01/2026 F.EXP:01/2029 CANTIDAD:40"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>50.12</baseImponible><valor>7.52</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>GTNNT-007</codigoPrincipal><codigoAuxiliar>GTNNT-007</codigoAuxiliar><descripcion>GUANTES DE EXAMEN NITRILO NEGRO TALLA S C/1000 UDS</descripcion><unidadMedida>UDS</unidadMedida><cantidad>100.0000</cantidad><precioUnitario>0.03200</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.20</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="LOTE_EXPIRA" valor="Registro Sanitario:18325-DME-0325 LOTE:25080103 F.Elab:08/2025 F.EXP:07/2030 CANTIDAD:100"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>3.20</baseImponible><valor>0.48</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION">CUENCA/EL CONSTITUCIONAL S/N Y EL UNIVERSO URBANIZACION LA PRENSA</campoAdicional><campoAdicional nombre="E-MAIL">luvet2026@gmail.com</campoAdicional><campoAdicional nombre="FECHA/VENCIMIENTO">14/04/2026</campoAdicional><campoAdicional nombre="N. DOC INTERNO">FVR0035500</campoAdicional><campoAdicional nombre="PLAZO/PAGO MAX">Contado (CON)</campoAdicional><campoAdicional nombre="TELEFONO">099 514 4084</campoAdicional><campoAdicional nombre="Vendedor">DOMENICA JIMENEZ</campoAdicional><campoAdicional nombre="DIRECCION ENVIO">CUENCA/EL CONSTITUCIONAL S/N Y EL UNIVERSO URBANIZACION LA PRENSA</campoAdicional></infoAdicional><ds:Signature Id="Signature366235" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo990668">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID930758" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature366235-SignedProperties830922">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>nP9FhMM+Fl8cjq/A2tEZpmw1M84=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate198337">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>T1QQO029IES6zpN8W94QHCsrzGs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-479640" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>V3m8FRARdsM0qFgvH87728oK7pQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue444659">
+ilg4YbkREdckaBH0hogCUSz53MUtx3zMHtI/qAG4JUBMBU/0AzAWdSR00RNKOzbXU7FYT5158FMt
+DFBf+ie2FIUaV9SGAoLLAyjl8LxmFNbwkTY6rxGbRUAlVdrapVLY9VNOWELpArvm1zRuNos+Y3P9
+iIok1O4pGnCZs9raChqrfccMu/X3dTXq0Ac0H9whR9nYaObCXuSAwP6nJ52ENtaAaMjhTuP++5fe
+8UidvVoOD453Fr+LvIftZrwPMlhRSdc32m/VyqqibXL6w4w0QaltURCJZGSbZ6OKh5/Aul/ewFII
+pBU8fz4+fQJ/JI8kJ1e20X40lmthcWQTP1zt2Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate198337">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK6jCCCNKgAwIBAgIIKc51qnS/dYUwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMjI5MTM1MjIyWhcNMjkxMjI5MTM1MjIyWjCB
+pTEjMCEGA1UEAwwaR0FCUklFTCBBTEVKQU5EUk8gQVVaIEFCQUQxIDAeBgNVBAUTFzE3MTMxNDM2
+NzMtMjkxMjI1MDkwMjE0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJhYrlQYJWtlKU1obB+GArdXxVomUOdvIiMUNwU0
+9ygAz+Cp5DB24IvuHW/M/+KlZ5fWEX1vnrNWH8x178Bm3asMZrJfU/hZC49B/QvQgmZO7W+wXDnA
+GvnCuhY42pRoCAtPjfNbstD/FpB3Qo30Fi1V8NO21d4NSM7ALjLMNCGcmNNwSb1pfFdQtff6dYGI
+MxWXibF09fSPJiGA45gDLuaqm9hd8mfiHbGeMhjbxQzyQlMNXoarirbOFFMa6OvWtdHv5Rz+cSkw
+2ALTN/v612QyCeqS/xTnPn4PU2e4XGtpYwqQNpcHNLD/pcfsqrzxcsE+pdRB7LyJ80i/rc44XiMC
+AwEAAaOCBiYwggYiMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMB4GA1UdEQQXMBWBE2ZpbmFuemFz
+QGRoaXN2ZS5jb20wggESBgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIw
+RB5CAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABF
+AG0AcAByAGUAcwBhMIGgBgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2Rl
+X0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNh
+LnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6
+oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNy
+bKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBT
+RUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2
+aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHg
+oIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFE
+IERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYD
+VR0OBBYEFM6yUIGdCudm8Bipc3xa3wnkztqGMCsGA1UdEAQkMCKADzIwMjUxMjI5MTM1MjIyWoEP
+MjAyOTEyMjkxMzUyMjJaMAsGA1UdDwQEAwIF4DAgBgorBgEEAYKmcgMFBBIMEENPTlRBRE9SIEdF
+TkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxNzEzMTQzNjczMBgGCisGAQQBgqZyAwkECgwIQ09OT0NP
+VE8wEQYKKwYBBAGCpnIDIgQDDAEuMEYGCisGAQQBgqZyAwcEOAw2U0VCQVNUSUFOIERFIEJFTkFM
+Q0FaQVIgT0U3IDI2NCBZIEFWIEdFTkVSQUwgUlVNSU5BSFVJMCEGCisGAQQBgqZyAwIEEwwRR0FC
+UklFTCBBTEVKQU5EUk8wHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDExMjg2NzQwEwYKKwYBBAGC
+pnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBMGCisGAQQBgqZyAwMEBQwDQVVa
+MDcGCisGAQQBgqZyAwoEKQwnSU1QT1JUQUNJT05FUyBNRURJQ0FMU09MVVRJT05TIENJQSBMVERB
+MB0GCisGAQQBgqZyAwsEDwwNMTc5MjczODc0MTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFAYKKwYB
+BAGCpnIDBAQGDARBQkFEMBoGCisGAQQBgqZyAwgEDAwKMDk2MjMxMzQ5NjANBgkqhkiG9w0BAQsF
+AAOCAgEAhEwRyLghKFd26xqjCUSzxcmgwJTy/4XwGyjl0QrUxjX8d7reQIvvgFZC8sl8dl1A6rQK
+nRfB91TEMxvXCiFFkbY4EIWUMAdu1kA5kfUUMZtPzbZYDZA5zxPvory1JPmqBUl6KIlTd/AoTTlh
+5WQrze9K6/lWjsUAYTuxksxX373i2sVgXsEECgyqOO5fvZ0sh8QkvPHuGWjD1y4MAanQUE4vtC8u
+0uAkf6AVHKnvXJHBIZpUOOMZZPfJtgFMZAVEQYxeduuYsZK+8Pk3J0rqTIZSbv77hlg+lVky3ged
+TOi0RJhvt8ZL2vzCcfdFBE8GSEySMflC4aq94wW36ddVpa+kerSnkVhUrFhidoUuhXneOkAlosLg
+nyKTXOlu2lZ5Bkx0lS75gFyODPCo9XkjtgH7BZ76dmSdBSLsaW5vBV93ginAxV340qUmHFQrqPDp
+Xw9WxQFaxnfndIZUn5GuM/3n//6H9lEEk5VZyPV00YYIBgxpQP0i3QgNHPNZfKeXaQG1DpJl7TLS
+lqLTCnjrbYXm9KVRLYWKgOC8TX1e/02JMtyuYGBw75xt1xhKpwcmF1iq/ze4ylVinCbljD3ytGJx
+357DFst+KYjrAXgDxkrIAl6KQEadYgd5psS3vGGwj9/xOtg6twYwIlQ1Meq3EMHc4WS5y1JhiXWn
+4VZpMx4=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mFiuVBgla2UpTWhsH4YCt1fFWiZQ528iIxQ3BTT3KADP4KnkMHbgi+4db8z/4qVnl9YRfW+es1Yf
+zHXvwGbdqwxmsl9T+FkLj0H9C9CCZk7tb7BcOcAa+cK6FjjalGgIC0+N81uy0P8WkHdCjfQWLVXw
+07bV3g1IzsAuMsw0IZyY03BJvWl8V1C19/p1gYgzFZeJsXT19I8mIYDjmAMu5qqb2F3yZ+IdsZ4y
+GNvFDPJCUw1ehquKts4UUxro69a10e/lHP5xKTDYAtM3+/rXZDIJ6pL/FOc+fg9TZ7hca2ljCpA2
+lwc0sP+lx+yqvPFywT6l1EHsvInzSL+tzjheIw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature366235-Object598364"><etsi:QualifyingProperties Target="#Signature366235"><etsi:SignedProperties Id="Signature366235-SignedProperties830922"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T21:00:45+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>kkAHdx5KxJZgMwnWiGC0WDdNmbE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3012474575721035141</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-479640"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

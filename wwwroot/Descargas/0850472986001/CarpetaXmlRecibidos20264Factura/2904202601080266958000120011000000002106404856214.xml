@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601080266958000120011000000002106404856214</numeroAutorizacion>
+<fechaAutorizacion>2026-04-29T12:32:10-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MENDEZ MOLINA JULIANA ESPERANZA</razonSocial>
+        <nombreComercial>FRIO MAS</nombreComercial>
+        <ruc>0802669580001</ruc>
+        <claveAcceso>2904202601080266958000120011000000002106404856214</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000210</secuencial>
+        <dirMatriz>Calle: VIA PRINCIPAL A ATACAMES Numero: 12 Interseccion: OLMEDO Manzana: 60 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>29/04/2026</fechaEmision>
+        <dirEstablecimiento>Calle: VIA PRINCIPAL A ATACAMES Numero: 12 Interseccion: OLMEDO Manzana: 60 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>CEDEÑO LOOR MAYTER VALESKA</razonSocialComprador>
+        <identificacionComprador>0850472986001</identificacionComprador>
+        <direccionComprador>TONSUPA</direccionComprador>
+        <totalSinImpuestos>10.43</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>10.43</baseImponible>
+                <valor>1.56</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>11.99</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>11.99</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>041</codigoPrincipal>
+            <descripcion>RELAY TECUNSEN GENERICO</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.48</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>3.48</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>3.48</baseImponible>
+                    <valor>0.52</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>198</codigoPrincipal>
+            <descripcion>CLIXON 1-4 GENE.</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.04</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>3.04</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>3.04</baseImponible>
+                    <valor>0.46</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>199</codigoPrincipal>
+            <descripcion>CAPACITOR 189-227-1</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.91</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>3.91</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>3.91</baseImponible>
+                    <valor>0.59</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">facturacion@myo-global.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-f0cec623-dc5e-481a-ac94-b7883d0c979b"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-f0cec623-dc5e-481a-ac94-b7883d0c979b-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>hNvxYXkYmmbWNYTG9waPlS58ZZEH0CbM2QuYUUa1UlU=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-f0cec623-dc5e-481a-ac94-b7883d0c979b-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>AdwNU83Xq6JQiyMizFh5F3yNTezTxJ7NZhveOph2tqI=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-f0cec623-dc5e-481a-ac94-b7883d0c979b-sigvalue">bb8IU6yxPLK0zPQEOag1np8YrghRAY6VROIrixBXVh5KN7N9c0hrQtLahU6hRLXrW4w76tRoERCKnCQDrDwg8v981637G9dEq+Wm50E5Q8niuEbtDmhye4EC58sEGLn0/vUJf8ygZ6ejSHo8Yc8ass4H+sF96SLJaFDtnHhFxiA4c7kTIzRjXWRD7Cy5AiT5NlVDyCMrrbg12Und2h3X4oiNh17LMfyOesnBwRHn3kXEYF2gAts8G8Ml/Dms3vLTVxxm7ZE0W6ElkP9IugAY6Mew11CYKIqNlpfC0xAWJ2OHVxz47R3aN6OjcTk9ZOCVXNxGJ2GeYIaMd+t3rKviwQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIKzTCCCLWgAwIBAgIEB6VkSTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA1MDcxNjA5MTVaFw0yNzA1MDcxNjA5MTVaMIGqMSgwJgYDVQQDDB9KVUxJQU5BIEVTUEVSQU5aQSBNRU5ERVogTU9MSU5BMSAwHgYDVQQFExcwODAyNjY5NTgwLTA3MDUyNTExMTkwODEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCo07YT7xfjcVWnbl8cgK0o04I1ibPFXnlvUBn2CkhUY4qnzt3c15qdDBrKVvW5pvPA5yjIjOA4jlxTZKAryWuDUM7/50akRhtzAIQ3aeldnhR4XMoGld1buf0W7VXt7gpoZZQIUQSLApU7syELMFzqDut5j0/GZwaVKxkSPuKBvTyl4BSW0H9PK7MBSQ0ZGtFi8AFnCAyte98Cd6/vTl/0DKSdZ53qLPyZJx+HkwAHr4tAFq+/IF3J0yOwCsf2JOb4t9qtcZYY9DNs2SX2oeaYLLS8Jpe9RnfLWTjGHWB17CFzpib2Z8w2XXwRGu5M5Tt1b9mAduJbYN2Bx82/g0G/AgMBAAGjggYIMIIGBDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAqBgNVHREEIzAhgR9tZW5kZXptb2xpbmFqdWxpYW5hMTJAZ21haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBT+x4PhTLUtCRNXdFgwY3u4PqsmfjArBgNVHRAEJDAigA8yMDI1MDUwNzE2MDkxNVqBDzIwMjcwNTA3MTYwOTE1WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowODAyNjY5NTgwMCoGCisGAQQBgqZyAwkEHAwaQVRBQ0FNRVMgQ0FCRUNFUkEgQ0FOVE9OQUwwEQYKKwYBBAGCpnIDIgQDDAEuMDQGCisGAQQBgqZyAwcEJgwkVklBIFBSSU5DSVBBTCBBIEFUQUNBTUVTIDEyIFkgT0xNRURPMCEGCisGAQQBgqZyAwIEEwwRSlVMSUFOQSBFU1BFUkFOWkEwHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDEwMDEzMzkwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBk1FTkRFWjAjBgorBgEEAYKmcgMeBBUME0xJQyBBRE0gRU1QIFRVUklTTU8wHQYKKwYBBAGCpnIDCwQPDA0wODAyNjY5NTgwMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBk1PTElOQTAaBgorBgEEAYKmcgMIBAwMCjA5MzkyMDI3NzIwDQYJKoZIhvcNAQELBQADggIBALxBmz5STETU2mD9rqUR7DEWFcrhV6jbfKMJhQSnatesnnTsGKvMp0Ru/hBn+AZRuK0fJDo+t2pZJNYc1aOfQQp/x1sQqr0GX72Sltv31tvPJurcG6xt7pEP4nrtWhW2NZqOibPL6cBRPTfLbPzYJI4LHKUGcdeun0+8vWaYzvB3MLHr1DWsC6lPkWqgCTDzcn1HLyDsxwlKu0TfH8BnANC34IOxuhpnZcHo3cqlC0lqJC1p28lgtSO+evyobrKP8Mv+eMU0ZSVom+eEPqOq1JNMDCDEcJlKeEP1wp3+odixe2Y9SI053QzBJhv/9w/m+vgsFhig50GCf6JeFwNQ+riXnHh7ZG9BMS4WQymubkaXh+I/PvnX2Xz2X6PQuAwLWgkHtSDY1G2q05t6vS9Slm0MpzMNvi31FRbuVGawD1flGXrBp0pxy66Z4cH1ynxWdgIeCgtFcz9llZw9/YBd/bThqdaBNi3cqRcS8pH2t0BmnRmmGlDQmGpjyCw2uPJue+l0TtC41Ma17wmWsDrWisc6tQJDP4aKummkHd1unNbLKljrNypyJkDqcZxScGGINfZA9GDSviFNBLsTcSvZrGm3s8n4XwaFo1uVbaxQeviu3slqRfmBAyWSDXsyfTi3Sas+AAzR8a6JlwKfCQVyxRcctz5Hu/nlom6/8sD8Edkf</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-f0cec623-dc5e-481a-ac94-b7883d0c979b"><xades:SignedProperties Id="xmldsig-f0cec623-dc5e-481a-ac94-b7883d0c979b-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-29T12:32:09.765-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>UaJqrffGCRDKP9+ldiE8uAAflkEtOWj8IGpGzMw4KV4=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>128279625</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-f0cec623-dc5e-481a-ac94-b7883d0c979b-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

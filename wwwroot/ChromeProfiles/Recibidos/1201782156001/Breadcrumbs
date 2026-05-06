@@ -1,0 +1,55 @@
+0:00:35 Tab1 FinishNav28 #download ERR_ABORTED
+0:00:36 Widget Closed: 
+0:00:36 Tab1 StartNav29 #renderer-user #form_submit
+0:00:36 Tab1 FinishNav29 #download ERR_ABORTED
+0:00:37 Widget Closed: 
+0:00:37 Tab1 StartNav30 #renderer-user #form_submit
+0:00:38 Tab1 FinishNav30 #download ERR_ABORTED
+0:00:38 Widget Closed: 
+0:00:38 Tab1 StartNav31 #renderer-user #form_submit
+0:00:39 Tab1 FinishNav31 #download ERR_ABORTED
+0:00:39 Widget Closed: 
+0:00:39 Tab1 StartNav32 #renderer-user #form_submit
+0:00:40 Tab1 FinishNav32 #download ERR_ABORTED
+0:00:40 Widget Closed: DownloadBubbleDialog
+0:00:40 Widget Closed: 
+0:00:41 Tab1 StartNav33 #renderer-user #form_submit
+0:00:41 Tab1 FinishNav33 #download ERR_ABORTED
+0:00:42 Widget Closed: 
+0:00:42 Tab1 StartNav34 #renderer-user #form_submit
+0:00:42 Tab1 FinishNav34 #download ERR_ABORTED
+0:00:43 Widget Closed: 
+0:00:43 Tab1 StartNav35 #renderer-user #form_submit
+0:00:43 Tab1 FinishNav35 #download ERR_ABORTED
+0:00:44 Widget Closed: 
+0:00:44 Memory Pressure: Moderate
+0:00:45 Tab1 StartNav36 #renderer-user #form_submit
+0:00:45 Tab1 FinishNav36 #download ERR_ABORTED
+0:00:46 Widget Closed: 
+0:00:47 Tab1 StartNav37 #renderer-user #form_submit
+0:00:47 Tab1 FinishNav37 #download ERR_ABORTED
+0:00:48 Widget Closed: 
+0:00:48 Tab1 StartNav38 #renderer-user #form_submit
+0:00:49 Tab1 FinishNav38 #download ERR_ABORTED
+0:00:49 Widget Closed: 
+0:00:49 Tab1 StartNav39 #renderer-user #form_submit
+0:00:50 Memory Pressure: None
+0:00:50 Tab1 FinishNav39 #download ERR_ABORTED
+0:00:51 Widget Closed: 
+0:00:51 Tab1 StartNav40 #renderer-user #form_submit
+0:00:51 Tab1 FinishNav40 #download ERR_ABORTED
+0:00:52 Widget Closed: 
+0:00:52 Tab1 StartNav41 #renderer-user #form_submit
+0:00:53 Tab1 FinishNav41 #download ERR_ABORTED
+0:00:53 Widget Closed: 
+0:00:54 Tab1 StartNav42 #renderer-user #form_submit
+0:00:54 Tab1 FinishNav42 #download ERR_ABORTED
+0:00:54 Widget Closed: 
+0:00:55 Tab1 StartNav43 #renderer-user #form_submit
+0:00:55 Tab1 FinishNav43 #download ERR_ABORTED
+0:00:56 Widget Closed: DownloadBubbleDialog
+0:00:56 TextSelectionChanged
+0:00:57 Widget Closed: 
+0:01:00 Memory Pressure: Moderate
+0:01:10 Memory Pressure: Moderate
+0:01:10 Widget Closed: StatusBubble

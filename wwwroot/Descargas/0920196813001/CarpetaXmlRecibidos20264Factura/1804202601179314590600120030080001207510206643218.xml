@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601179314590600120030080001207510206643218</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T16:19:19-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>H&amp;M HENNES &amp; MAURITZ EC S.A.S.</razonSocial><nombreComercial>H&amp;M HENNES &amp; MAURITZ EC S.A.S.</nombreComercial><ruc>1793145906001</ruc><claveAcceso>1804202601179314590600120030080001207510206643218</claveAcceso><codDoc>01</codDoc><estab>003</estab><ptoEmi>008</ptoEmi><secuencial>000120751</secuencial><dirMatriz>Av. 12 de Octubre N26-48 y Lincoln</dirMatriz></infoTributaria><infoFactura><fechaEmision>18/04/2026</fechaEmision><dirEstablecimiento>Av. Francisco de Orellana, Guayaquil</dirEstablecimiento><contribuyenteEspecial>011</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><comercioExterior>EXPORTADOR</comercioExterior><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>ERIKA FERNANDEZ</razonSocialComprador><identificacionComprador>0920196813</identificacionComprador><totalSinImpuestos>57.36</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>57.36</baseImponible><valor>8.60</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>65.96</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>65.96</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>1270848</codigoPrincipal><descripcion>Tejido de Punto</descripcion><cantidad>1.000000</cantidad><precioUnitario>6.950000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>6.95</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>6.95</baseImponible><valor>1.04</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1270848</codigoPrincipal><descripcion>Tejido de Punto</descripcion><cantidad>1.000000</cantidad><precioUnitario>6.950000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>6.95</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>6.95</baseImponible><valor>1.04</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1324985</codigoPrincipal><descripcion>Partes Altas</descripcion><cantidad>1.000000</cantidad><precioUnitario>21.730000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>21.73</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>21.73</baseImponible><valor>3.26</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1292058</codigoPrincipal><descripcion>Partes Altas</descripcion><cantidad>1.000000</cantidad><precioUnitario>21.730000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>21.73</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>21.73</baseImponible><valor>3.26</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Gran Contribuyente">Oficio No. NAC-ADROGEC24-00000573-M</campoAdicional><campoAdicional nombre="Contribuyente Especial">Resolución Nro. NAC-DGERCGC25-00000011</campoAdicional></infoAdicional><ds:Signature Id="Signature562466" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo593240">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID480095" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature562466-SignedProperties772205">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>MaB5iuL7ScxrA565KugNxUTa7HQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1468503">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kqyiydlpEvRImKU/uv0CwpJiJlM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-180056" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>BGPW/CXQpL5ldlDQDkGXwv1oqHY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue442659">
+oJbUrpiOILAfEYFWSlI4BrmGMKXqbVH4tXbGt50oFY8NQ+rAwonlO3UNO5Qwbrw3DmFjw07qp82i
++1Cb4oqliP8yxkZ6XMq4VUGdppxrZm1ee207DCwwQJpVPZDwbr/nMwHG9X7GoZwBffqrfwvBEth0
+faISEhz66J/AWDcfev3g6SXjKm8Q2bwiUeUvoOK2dBXtAFh7QuTpQ5dmbjqKFAKapnnPoIsHS7+9
+LKWpjp86likieIZO1xlXt2NK9k6ASIhddZlxBsgk4Bn7ztcZRUpGwNGaPTywvXvljKw5Xx4BOGrH
+Cn7RJeeOYG02kVe24dfepoiBIP8yJzlIVoKNrw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1468503">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIJzCCBg+gAwIBAgIRALGXJE8EzXWYx6BLkn/aU+EwDQYJKoZIhvcNAQELBQAwgbUxCzAJBgNV
+BAYTAkVDMRgwFgYDVQQKDA9EYXRpbG1lZGlhIFMuQS4xMDAuBgNVBAsMJ0VudGlkYWQgZGUgY2Vy
+dGlmaWNhY2lvbiBkZSBpbmZvcm1hY2lvbjEPMA0GA1UECAwGR3VheWFzMTUwMwYDVQQDDCxEYXRp
+bCBBdXRvcmlkYWQgZGUgQ2VydGlmaWNhY2lvbiBTdWJvcmRpbmFkYTESMBAGA1UEBwwJR3VheWFx
+dWlsMB4XDTI1MTAwNjA5MzQzNFoXDTI4MTAwNTEwMzQzNFowga4xKzApBgNVBAMMIkZlcm5hbmRv
+IEFsZXhhbmRlciBCYXNhbnRlcyBGcmVpcmUxKDAmBgkqhkiG9w0BCQEWGWN1c3RvbWVyc2Vydmlj
+ZS5lY0BobS5jb20xJzAlBgNVBAoMHkgmbSBIZW5uZXMgJiBNYXVyaXR6IEVjIFMuQS5TLjEfMB0G
+A1UECwwWQ2VydGlmaWNhZG9zIERpZ2l0YWxlczELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDBAv2BmZmKTdmhBrBQPkIfRut3J2aslFkp53/4vt5/aBw7hw5L/2I8
+fSF5/ZS8zO5EscqXQDOsm2Q8ESkbsuE3jTadtrtMTNYxNhqBbOVbgmbWtNBegTZVqA3dcAb2tb85
+hLIt6q7GXPnDWYi8fQizre+rG/qHHrX027pi1gpNV6WjAx0cTvm0AvcyOfE9er1kjeVQx/ojVu+G
+oVM+10+K4L0REolw2zr2gI3kVHFC6H+Any4bZhcO/8Pck2kjM3GCan1WSHATSMdcCnjo2AolZhEa
+f7diUX4g6cqrPE8Qv1CSk+xSTdtxsOKs2gcGWjOxilSzyTH27GFpHW6C+3dtAgMBAAGjggM1MIID
+MTAkBgNVHREEHTAbgRljdXN0b21lcnNlcnZpY2UuZWNAaG0uY29tMAkGA1UdEwQCMAAwHwYDVR0j
+BBgwFoAU5Wb5snh2G2r0z8t4UMUFHzqd4HcwHQYDVR0OBBYEFLKekri7SXEGaa51cqhyTJkqb/6N
+MIGjBgNVHSAEgZswgZgwgZUGCysGAQQBg5sjAgUCMIGFMIGCBggrBgEFBQcCARZ2aHR0cHM6Ly9k
+YXRpbC1vcy1wdWJsaWMuczMudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vOThlMjFkYmQtYjZlYy00
+ZTgzLWI5ZTktZDRhZTEyYjRkOTY3L0RhdGlsX0NQU19QZXJzb25hX0p1cmlkaWNhLnBkZjBvBgNV
+HR8EaDBmMGSgYqBghl5odHRwOi8vZGF0aWwtc3ViY2EtY3JsLnMzLnVzLXdlc3QtMi5hbWF6b25h
+d3MuY29tL2NybC9hMDc4OGVlMC03OGJiLTQwNmItYjM4YS0zMmUzNmFhNGRiZGIuY3JsMDEGCCsG
+AQUFBwEBBCUwIzAhBggrBgEFBQcwAYYVaHR0cDovL29jc3AuZGF0aWwuY29tMA4GA1UdDwEB/wQE
+AwIGwDAaBgorBgEEAYObIwMBBAwMCjE3MTg2NzkwNTEwIgYKKwYBBAGDmyMDAgQUDBJGZXJuYW5k
+byBBbGV4YW5kZXIwGAYKKwYBBAGDmyMDAwQKDAhCYXNhbnRlczAWBgorBgEEAYObIwMEBAgMBkZy
+ZWlyZTAjBgorBgEEAYObIwMFBBUME1JlcHJlc2VudGFudGUgTGVnYWwwFQYKKwYBBAGDmyMDBwQH
+DAVRdWl0bzAZBgorBgEEAYObIwMIBAsMCTAyMzgxMDk1MDAVBgorBgEEAYObIwMJBAcMBVF1aXRv
+MC4GCisGAQQBg5sjAwoEIAweSCZtIEhlbm5lcyAmIE1hdXJpdHogRWMgUy5BLlMuMB0GCisGAQQB
+g5sjAwsEDwwNMTc5MzE0NTkwNjAwMTASBgorBgEEAYObIwMMBAQMAkVDMCEGCisGAQQBg5sjAyAE
+EwwRMDAxLTAwMi0wMDAwMzUzMzMwDQYJKoZIhvcNAQELBQADggIBAFt1jD2PWpHmGLOhotHS9pbb
+D2uRrrEhx9yhNOH/Bipbi653evFlArB2apXADl6qfDgFAoXzBl5Cy8dciWMBzB8GuOAPFEXmVv3i
+HMDugEq8Tbry4lDndW7XSRUV9FU/mees2EGUVZy9CluI5VWZdkWfVZzJoTep0XkLyS1aCgLA/xYT
+0e75qpfeg1XWtNsALta8DotyVsMfzwUIT7O0/z8tavzLum3m2O8t5TkqEeX8QgDfa2yjC9eofOSw
++oafu74h+n77M3MCsV3tGjMC7nBT5mwhoRdum2vVcjaSXpS1JegmaaCzt6+BAoHJdcq83ji8g6Y+
+OLfddqrJHxId83bgfe1DZDclUCta5hw2NJiUQLQYD1DHdzM91jlIDt2t6bpzzIa5zlxlpH2b3Pq8
+W5AAqM0OTQSxtyNZARb7a8G1doHtvYv9hjf+tDc3QPUjqnp5AGmzEjjPXxesnRwB3yf5GA9/in8r
+1RM8pbXVMhPruzyL27SCujj+YbZeAgaXRT39a0qjNrmsrOiEAZ/A6Dy8INPwZRj9qowI0hgqPmTG
+3Oa7v9Zq8NvaVuMt2goH9tPjmQaikksbVwkAL3M/tK4+t/ab0eLv/+EbWPs2TT5LRYublcVFeQW0
+wXYi3MnVXEnOB38RZCIY+Ov3FsqvGsXibMo6ea9xisHUFMwVlQRT
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wQL9gZmZik3ZoQawUD5CH0brdydmrJRZKed/+L7ef2gcO4cOS/9iPH0hef2UvMzuRLHKl0AzrJtk
+PBEpG7LhN402nba7TEzWMTYagWzlW4Jm1rTQXoE2VagN3XAG9rW/OYSyLequxlz5w1mIvH0Is63v
+qxv6hx619Nu6YtYKTVelowMdHE75tAL3MjnxPXq9ZI3lUMf6I1bvhqFTPtdPiuC9ERKJcNs69oCN
+5FRxQuh/gJ8uG2YXDv/D3JNpIzNxgmp9VkhwE0jHXAp46NgKJWYRGn+3YlF+IOnKqzxPEL9QkpPs
+Uk3bcbDirNoHBlozsYpUs8kx9uxhaR1ugvt3bQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature562466-Object313228"><etsi:QualifyingProperties Target="#Signature562466"><etsi:SignedProperties Id="Signature562466-SignedProperties772205"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T21:18:59+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>mKJ3ul+Jx9HM1P47mCAA87uOSgs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=Guayaquil,CN=Datil Autoridad de Certificacion Subordinada,ST=Guayas,OU=Entidad de certificacion de informacion,O=Datilmedia S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>236058128506825763730374441116811023329</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-180056"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

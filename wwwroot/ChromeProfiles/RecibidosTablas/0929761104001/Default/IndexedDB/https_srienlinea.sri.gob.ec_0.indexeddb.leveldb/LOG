@@ -1,6 +1,0 @@
-2026/04/21-15:46:37.685 5eec Creating DB C:\Users\lapto\Videos\ApiDescargav9\wwwroot\ChromeProfiles\RecibidosTablas\0929761104001\Default\IndexedDB\https_srienlinea.sri.gob.ec_0.indexeddb.leveldb since it was missing.
-2026/04/21-15:46:37.691 5eec Reusing MANIFEST C:\Users\lapto\Videos\ApiDescargav9\wwwroot\ChromeProfiles\RecibidosTablas\0929761104001\Default\IndexedDB\https_srienlinea.sri.gob.ec_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/21-15:56:42.775 5eec Level-0 table #5: started
-2026/04/21-15:56:42.780 5eec Level-0 table #5: 1432 bytes OK
-2026/04/21-15:56:42.783 5eec Delete type=0 #3
-2026/04/21-15:56:42.786 5eec Manual compaction at level-0 from (begin) .. (end); will stop at (end)

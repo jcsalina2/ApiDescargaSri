@@ -244,3 +244,4 @@ C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\refint\ApiDescar
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ApiDescargaSriV9.pdb
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ApiDescargaSriV9.genruntimeconfig.cache
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ref\ApiDescargaSriV9.dll
+C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ApiDescargaSriV9.sourcelink.json

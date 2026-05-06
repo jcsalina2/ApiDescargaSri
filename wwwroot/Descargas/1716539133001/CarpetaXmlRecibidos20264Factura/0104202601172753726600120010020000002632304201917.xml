@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601172753726600120010020000002632304201917</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T09:41:09-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PILA FERNANDEZ JHON JAIRO</razonSocial>
+    <ruc>1727537266001</ruc>
+    <claveAcceso>0104202601172753726600120010020000002632304201917</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000000263</secuencial>
+    <dirMatriz>Barrio: COMUNIDAD SAN JOSE GRANDE Calle: VIA A SAN JUAN LOMA Número: 21 -030 Referencia: JUNTO A LA ESCUELA FRANCISCO ROBLES</dirMatriz>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/04/2026</fechaEmision>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>GUALAVISI GUAJAN SEGUNDO DAVID</razonSocialComprador>
+    <identificacionComprador>1716539133001</identificacionComprador>
+    <direccionComprador>CAYAMBE</direccionComprador>
+    <totalSinImpuestos>45</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>45</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>45</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>45</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>717375</codigoAuxiliar>
+      <descripcion>Polisulfuro de calcio </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>25</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>25</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>25</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>001</codigoPrincipal>
+      <codigoAuxiliar>669898</codigoAuxiliar>
+      <descripcion>Violeta de Genciana 4 L</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>20</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>20</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">0997602308</campoAdicional>
+    <campoAdicional nombre="Correo Electronico">rosescousinsg.dtf@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Informacion adicional 1">undefined</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature611019">
+<ds:SignedInfo Id="Signature-SignedInfo913768">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID402853" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature611019-SignedProperties266575">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>iPcjsnEbdeNSdrkOVCg09h1vGqY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate762599">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>OfHA4CRzDtJRVlIXMJbx+zccqgY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-604886" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>QR8vhjMf4gfl8f6sD/PEuUKQxsM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue696499">
+NspPky7kLZSRK9Sd0RFIImA0i4pwB9R8ztau/HRORbsKgGHMNN9G9hJ7qpDw0hjo
+bP9Y5yHNxNMEn8tuBVOvNIM+m6ZnZDGeZjNeSoUMLnazs6xe7Yucc/OTLtlpjkmR
+D3LVrY//oRcNMZkjyKM0GEA62tOm9+cAYxyC+zyBeT/cp8nKRqFn8xheeZ5PTz66
+ke0AWmOqIuAcVuwpHF8Of97pw7dpUWdCMUzIXrgoRjJNgFxjWLbknlJ0uVyqm2an
+B6P6dbZxHqX8i16+3O8e2ZyAFn6qGBzET8g4f55syVUN/G3c5o2mz6BBEEgpeGOV
+z9a9MEqO4YAjAtH/ZZpWwA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate762599">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHyDCCBrCgAwIBAgIFAMICZkcwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMC
+RUMxGzAZBgNVBAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0
+ZSBFbWlzb3IgQ0EyMB4XDTI1MTAxNjIwNTcxM1oXDTI2MTAxNjIwNTcxM1owgZgx
+CzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6YXRlIENpYS4gTHRkYS4xHjAcBgNV
+BAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEjMCEGA1UEAwwaSkhPTiBKQUlSTyAg
+UElMQSBGRVJOQU5ERVoxJzAlBgkqhkiG9w0BCQEWGHZtcmVkZXNkaWdpdGFsQGdt
+YWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMo8LYbyTM44
+N+H06hVubm6M/A9X+sMqAhjOM6TwWjJ3KhkZuGm80+TNGHCfIzbkg0cm3CMC+XHh
+xrq/9UrOtN3xmJq3dm/wn2pKRkj7l8pnH9Fa+tDgJyUjTNJRSABatsSPi9ju0D/V
+OBLKjzjPSArXBX/jeefN1hQIZx9yPZ7eUTVVPpjDoI+0JPmu7Ju4eoWj94cFuhtq
+ybFmbnRT6qMKxN+nlQ1+/YRTVoL2WUtfFexa9ZBSfG77lENdI7CGjB9WUpqFCXZy
+53dxmIX1KdE6CV1bhoO4ZVNp1RppEz2SY+NzwQk3d8TCbTGJKn73NRuoDNhfEL7o
+F0gStUiwh80CAwEAAaOCBGcwggRjMBoGCisGAQQBg892AwEEDAwKMTcyNzUzNzI2
+NjAaBgorBgEEAYPPdgMCBAwMCkpIT04gSkFJUk8wFAYKKwYBBAGDz3YDAwQGDARQ
+SUxBMBkGCisGAQQBg892AwQECwwJRkVSTkFOREVaMBwGCisGAQQBg892AwcEDgwM
+UFJJTkNJUEFMIFNOMBoGCisGAQQBg892AwgEDAwKMDk5MjU0Mzg1NjAdBgorBgEE
+AYPPdgMJBA8MDVBlZHJvIE1vbmNheW8wFwYKKwYBBAGDz3YDDAQJDAdFQ1VBRE9S
+MB0GCisGAQQBg892AwsEDwwNMTcyNzUzNzI2NjAwMTAMBgNVHRMBAf8EAjAAMB0G
+A1UdDgQWBBQtSLzvgOfLG7yJiVz5KCh9j6IxATAfBgNVHSMEGDAWgBTtdkiwCvHJ
+hoYMTEZk0gb4zNW9PjAOBgNVHQ8BAf8EBAMCBeAwOgYDVR0fBDMwMTAvoC2gK4Yp
+aHR0cDovZW5leHQyLnh5ei9MYXp6YXRlQ0EyL2VtaXNvckNBMi5jcmwwggGEBgNV
+HSAEggF7MIIBdzB8BgorBgEEAYPPdgIBMG4wbAYIKwYBBQUHAgIwYBpeRWwgcHJl
+c2VudGUgY2VydGlmaWNhZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOt
+dGljYXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lhLiBMdGRhLjCB9gYJKwYB
+BAGDz3YCMIHoMGwGCCsGAQUFBwICMGAaXkVsIHByZXNlbnRlIGNlcnRpZmljYWRv
+IGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRh
+ZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4weAYIKwYBBQUHAgIwbBpqRWwgcHJlc2Vu
+dGUgY2VydGlmaWNhZG8gc3Vib3JkaW5hZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEg
+bGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lhLiBMdGRh
+LjCCAQUGA1UdEQSB/TCB+qAaBgorBgEEAYPPdgMBoAwMCjE3Mjc1MzcyNjagGgYK
+KwYBBAGDz3YDAqAMDApKSE9OIEpBSVJPoBQGCisGAQQBg892AwOgBgwEUElMQaAZ
+BgorBgEEAYPPdgMEoAsMCUZFUk5BTkRFWqAcBgorBgEEAYPPdgMHoA4MDFBSSU5D
+SVBBTCBTTqAaBgorBgEEAYPPdgMIoAwMCjA5OTI1NDM4NTagHQYKKwYBBAGDz3YD
+CaAPDA1QZWRybyBNb25jYXlvoBcGCisGAQQBg892AwygCQwHRUNVQURPUqAdBgor
+BgEEAYPPdgMLoA8MDTE3Mjc1MzcyNjYwMDEwPAYIKwYBBQUHAQEEMDAuMCwGCCsG
+AQUFBzABhiBodHRwOi8vZW5leHQyLnh5ejo4Nzc3L2Fkc3Mvb2NzcDANBgkqhkiG
+9w0BAQsFAAOCAQEAgTE4Y3rEPg9HvRI+XkemtmIF2PtIW2qJqZoxJ8tUbD0mXQhG
+CitThbiDCUewEbV2FABbIUGg/6rQXKcn7cMNoKk3Z+qXYkhjjz/6ANnmZghHAriC
+flL0iY+xhqfR/cU1alvVU9NIb5irVGIfq5hLHiRob+hexv5NFlhu2Yt1GTUr+FdO
+zmbnGutRcfnXmuo0vsh1yD7c78kRg73FnezpuLPd0SXkTtQjtqOXHOXAoH2kgQgN
+ioXDEuXi4r8cncoMHySZyP6F9bEpGjf9ES2VIJcR2/nb8eQszqS8eBzQoiA61BvX
+P72Uo7ff0gXk3x93zpwjB5hz8VX5+wR1aekZyg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yjwthvJMzjg34fTqFW5uboz8D1f6wyoCGM4zpPBaMncqGRm4abzT5M0YcJ8jNuSD
+RybcIwL5ceHGur/1Ss603fGYmrd2b/CfakpGSPuXymcf0Vr60OAnJSNM0lFIAFq2
+xI+L2O7QP9U4EsqPOM9ICtcFf+N5583WFAhnH3I9nt5RNVU+mMOgj7Qk+a7sm7h6
+haP3hwW6G2rJsWZudFPqowrE36eVDX79hFNWgvZZS18V7Fr1kFJ8bvuUQ10jsIaM
+H1ZSmoUJdnLnd3GYhfUp0ToJXVuGg7hlU2nVGmkTPZJj43PBCTd3xMJtMYkqfvc1
+G6gM2F8QvugXSBK1SLCHzQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature611019-Object762580"><etsi:QualifyingProperties Target="#Signature611019"><etsi:SignedProperties Id="Signature611019-SignedProperties266575"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T09:39:00-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>jDxVvSQLejYOjIoU2Bbs8XMBLR0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254937159</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-604886"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

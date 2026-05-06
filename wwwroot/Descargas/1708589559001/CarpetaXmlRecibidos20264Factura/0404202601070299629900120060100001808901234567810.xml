@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0404202601070299629900120060100001808901234567810</numeroAutorizacion>
+<fechaAutorizacion>2026-04-04T15:08:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>ROMERO ROMERO FULVIO FERNANDO</razonSocial>
+<ruc>0702996299001</ruc>
+<claveAcceso>0404202601070299629900120060100001808901234567810</claveAcceso>
+<codDoc>01</codDoc>
+<estab>006</estab>
+<ptoEmi>010</ptoEmi>
+<secuencial>000180890</secuencial>
+<dirMatriz>AV WALTER ANDRADE MZ 41 LA CUADRA LOCAL 19</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>04/04/2026</fechaEmision>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>DAVILA PAZMIÑO WASHINGTON FIDEL</razonSocialComprador>
+<identificacionComprador>1708589559</identificacionComprador>
+<direccionComprador>LOS RIOS/QUEVEDO/GUAYACAN</direccionComprador>
+<totalSinImpuestos>9.13</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>8</codigoPorcentaje>
+<baseImponible>9.13</baseImponible>
+<valor>0.73</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>9.86</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>19</formaPago>
+<total>9.86</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>1323</codigoPrincipal>
+<descripcion>CAPUCHINO / SERVIR </descripcion>
+<cantidad>1.000000</cantidad>
+<precioUnitario>1.77778</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.78</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>8</codigoPorcentaje>
+<tarifa>8</tarifa>
+<baseImponible>1.78</baseImponible>
+<valor>0.14</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>1721</codigoPrincipal>
+<descripcion>PIE DE HIGO SERVIR </descripcion>
+<cantidad>1.000000</cantidad>
+<precioUnitario>2.25000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>2.25</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>8</codigoPorcentaje>
+<tarifa>8</tarifa>
+<baseImponible>2.25</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>1261</codigoPrincipal>
+<descripcion>PORCION ZANAHORIA Y NUEZ </descripcion>
+<cantidad>1.000000</cantidad>
+<precioUnitario>2.89815</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>2.90</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>8</codigoPorcentaje>
+<tarifa>8</tarifa>
+<baseImponible>2.90</baseImponible>
+<valor>0.23</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>1390</codigoPrincipal>
+<descripcion>FRAPUCHINO / SERVIR </descripcion>
+<cantidad>1.000000</cantidad>
+<precioUnitario>2.20370</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>2.20</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>8</codigoPorcentaje>
+<tarifa>8</tarifa>
+<baseImponible>2.20</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion"> LOS RIOS/QUEVEDO/GUAYACAN</campoAdicional>
+<campoAdicional nombre="Email"> facturacionclientesweetland@gmail.com</campoAdicional>
+<campoAdicional nombre="Lugar de Emisión"> AV WALTER ANDRADE MZ 41 LA CUADRA LOCAL 19</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature444870">
+<ds:SignedInfo Id="Signature-SignedInfo586283">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID753764" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature444870-SignedProperties789209">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Qn9UNfJ8+Muih2XDDynX3fwWFmc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1447626">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>OS6ymv3aIXZWyBML9OqZ97fVoKI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-92666" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>MtTxzlq8DCJgIY9uM/n8x+v70VA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue712671">
+SkvVA7xK/mJ934G4YDGtInRLcJ5VNmEJ+piEH67PEfNWWBv7ECXFT8z0OdqMTs3K47eRVpNb7p1I
+CPfYh+JY3QJda+ZEpFYRMVDoqdD4FZlMu6zS9ZpBMXpQmbHo0PxMZIc2UGrjIzXAIqbbxOiKa5hN
+9JO70vqwNPfo5OhSjrMSAHELSG6sKOSJtkYMo16bYIb4vXckVrK7NKp4KvOzKgKce5Wb6n6UImO9
+/U1KW5Qed4vZAvAvwBtCjCSq0u/Uzk8JQnhbwz+1rTMhtpcGoCLq9M+FZUS+Segrs6YmWBNFs4pZ
+gAkIfI9uJh5BIzPu2YiNcIuXsRkLptlIZudSsQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1447626">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJOTCCByGgAwIBAgIIGBLrbKhQIt0wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDQwMzAwMTQwMFoXDTI3MDQwMzAwMTQwMFowgaAxCzAJBgNVBAYTAkVDMRYwFAYDVQQEDA1S
+T01FUk8gUk9NRVJPMRgwFgYDVQQqDA9GVUxWSU8gRkVSTkFORE8xGTAXBgNVBAUTEElEQ0VDLTA3
+MDI5OTYyOTkxJjAkBgNVBAMMHUZVTFZJTyBGRVJOQU5ETyBST01FUk8gUk9NRVJPMRwwGgYDVQRh
+DBNUSU5FQy0wNzAyOTk2Mjk5MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuGpn
+Ho8b2v8F1X6MajJ3iZ58P3jcNu2Kk6ZlzaZx4lniL8wtEbx1SVdXumNgcaT5Y57lPmnqeUbyZcz6
+H444f0/lrt5/zsYTNP59zY+th/TqB7Zb5Rbs1wshiDXDXM0PBx/UEG/fsvWC2vKHZdrZD5Ip3xn7
+H5sjoAiR1NdYBZ2wVNo2ag/rZUuxkgdwfyJwsk+WKNlb/QsN4vhSGMacvdSIq97dbERI0xBGuTKb
+p15PsZE7lPEbYBiN0p5Brg+3mViBUPhkjKy4poL+sgv6U+PFFnLSJC1S9ev0gDRpb1BIrGO3EiYo
+1pK3sNuUrCuyx2H3m/cJkSPjz8sjvPgzBwIDAQABo4IEWzCCBFcwGwYLKwYBBAGC8TZmAwEEDAwK
+MDcwMjk5NjI5OTAeBgsrBgEEAYLxNmYDCwQPDA0wNzAyOTk2Mjk5MDAxMIHXBggrBgEFBQcBAQSB
+yjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2Fk
+L3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29j
+c3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2Nz
+cDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFLsHD5PMW4oTPwq6eNd6
+Sabq4pzHMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkG
+A1UdIASBkTCBjjCBiwYMKwYBBAGC8TZmAgEBMHswNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wQAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8g
+REUgUEVSU09OQSBOQVRVUkFMIE8gRklTSUNBIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6g
+PIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRh
+LmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1
+Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMIIBkQYDVR0RBIIBiDCCAYSBHGpjLmFzZXNvcmlhY29udGJsZUBnbWFpbC5jb22gGwYLKwYB
+BAGC8TZmAwGgDAwKMDcwMjk5NjI5OaAgBgsrBgEEAYLxNmYDAqARDA9GVUxWSU8gRkVSTkFORE+g
+FwYLKwYBBAGC8TZmAwOgCAwGUk9NRVJPoBcGCysGAQQBgvE2ZgMEoAgMBlJPTUVST6A+BgsrBgEE
+AYLxNmYDB6AvDC1BVi4gUVVJVE8gMTY2IFkgU04gRElBR09OQUwgRUwgUEFSUVVFIFJPVEFSSU+g
+HwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5OTQ1ODEyODagGAYLKwYBBAGC8TZmAwmgCQwHUVVFVkVE
+T6AeBgsrBgEEAYLxNmYDC6APDA0wNzAyOTk2Mjk5MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkG
+CysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJ
+DAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQDL9TrxNdJ6539qyWWPT4u6hcct7eZft2Kr74oi
+uTs3r26Rv4tKyVSOauJK3a3nKscf7wBqOZLD0PZBJ8n/VavIgOfyRmdwYIStTWoPM4FYURm3bg/U
+vAHM6RS6lb4sTGLguuF3LdK5KHNVx5PzTP7VAZbPZ8EcWHEI+ePEhof6YbXbeY/8rJR33PZy5qS1
+ahAsV4q5Wm5rTtdyy8T+pUg7zfdZqQteUPc4Obu1rgIbG1cDGWEqP5OLRolVZ4xWLRfdVSlCU8iB
+QMRb45kvDnlR5OjC5neAe3Wz0ERPDHd9iHC+EVgtICHloYW3kpkQf72RWYoN1uyxs6AZsyq9gyvN
+dQmFa9pPMamOxPlZJT7TjHwIsoETxB1ayDCMVGE/6m61k4bB2im13tL2gm49wrL7SdbNF5SKKWbk
+GA2iV+NUkWC9OWizfUwuyy7RlNJVSnCVFuxR2n23Xww/EnUkYLQuISMebXcwdOEBfO674F32oiNQ
+JvtMyfImPutpB+NsO6nisyfGhSkm3qFSTrMAgXJc2GYdCYc0QNZFRutGOIsqdVHYaKNR5OcINJ9c
+G5XMQvw4lfUi3/bTK3nhehdj4kHp1dCc2LDNANP3ZOXwa3IiggBlhaxxea36T5ZxoQJ93isa10kl
+nv6gy7YNM1iJOdYLn5XlgjCqwkDnjBI1H+BscQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uGpnHo8b2v8F1X6MajJ3iZ58P3jcNu2Kk6ZlzaZx4lniL8wtEbx1SVdXumNgcaT5Y57lPmnqeUby
+Zcz6H444f0/lrt5/zsYTNP59zY+th/TqB7Zb5Rbs1wshiDXDXM0PBx/UEG/fsvWC2vKHZdrZD5Ip
+3xn7H5sjoAiR1NdYBZ2wVNo2ag/rZUuxkgdwfyJwsk+WKNlb/QsN4vhSGMacvdSIq97dbERI0xBG
+uTKbp15PsZE7lPEbYBiN0p5Brg+3mViBUPhkjKy4poL+sgv6U+PFFnLSJC1S9ev0gDRpb1BIrGO3
+EiYo1pK3sNuUrCuyx2H3m/cJkSPjz8sjvPgzBw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature444870-Object959724"><etsi:QualifyingProperties Target="#Signature444870"><etsi:SignedProperties Id="Signature444870-SignedProperties789209"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-04T15:08:52-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>u86R/OjoXw60FhsaZRzkuwepf1o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>1734707658403881693</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-92666"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

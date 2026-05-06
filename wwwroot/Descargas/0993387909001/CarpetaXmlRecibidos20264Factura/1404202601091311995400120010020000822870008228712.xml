@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601091311995400120010020000822870008228712</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T16:07:00-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>CHUNGA LOPEZ JANETH AMERICA</razonSocial>
+<nombreComercial>CHUNGA LOPEZ JANETH AMERICA</nombreComercial>
+<ruc>0913119954001</ruc>
+<claveAcceso>1404202601091311995400120010020000822870008228712</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>002</ptoEmi>
+<secuencial>000082287</secuencial>
+<dirMatriz>KM 5 1/2 JUAN TANCA MARENGO LOT SANTA ADRIANA</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>14/04/2026</fechaEmision>
+<dirEstablecimiento>KM 5 1/2 JUAN TANCA MARENGO LOT SANTA ADRIANA</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>06</tipoIdentificacionComprador>
+<razonSocialComprador>ASTECNAVIND SAS</razonSocialComprador>
+<identificacionComprador>0993387909001</identificacionComprador>
+<direccionComprador>GUASMO NORTE COOP.1 DE MAYO</direccionComprador>
+<totalSinImpuestos>5.16</totalSinImpuestos>
+<totalDescuento>0.64</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>5.16</baseImponible>
+<valor>0.77</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>5.94</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>5.94</total>
+ <plazo>0</plazo>
+ <unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>127247</codigoPrincipal>
+<codigoAuxiliar>127247</codigoAuxiliar>
+<descripcion>PERNOS 16 X 30MM HG 2.0 ACERO NEGRO</descripcion>
+<cantidad>10.0000</cantidad>
+<precioUnitario>0.580000</precioUnitario>
+<descuento>0.64</descuento>
+<precioTotalSinImpuesto>5.16</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>5.16</baseImponible>
+<valor>0.77</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="mailcliente">astecnavind.ecuador@gmail.com</campoAdicional>
+<campoAdicional nombre="Vendedor">BENJAMIN</campoAdicional>
+<campoAdicional nombre="Bodega">001</campoAdicional>
+</infoAdicional>
+<ds:Signature Id="Signature373184" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo157777">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID496039" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature373184-SignedProperties505929">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>akXe/DPGlUPOz1ve+OjoKOIr7YY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1654961">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>TERVxEBHNcpLi/XcCXWWhuPmDqU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-59501" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jMqtzxJ1KcCqwvpdAUmmXPfQnOs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue969720">
+QCCo0q+hnb9BZ6mG2mjKeR7mouAldIvFCrNDLZYX6KCMKROBt0WbDp86SedvOKZ6Y2FWfvgg8hEk
+7t9vFZiJ9H4jZUCMzo7itKJufD/tWaZkkgkyLnOm2MxFLs7iFZHs9zwOU06LiqIzHJTXEVsiztN/
+nFwnQ+PjMyOcfggFn5UTbKWjgt2d4KQUeF+4tcT0tq/45u0bFcFvDQ8ahNU5gy8/+ax5XT5Ba06j
+F1ZOdO0gRdsixsIXKsG//N3qUrNZj9BzboJVIPz1J1DOafExu19GKYcmcS71yuMZ/BCuWjOVTcX+
+WTLNNJ4Fidt4uE7k9uBTkmoa9EBi/1wZoX0glg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1654961">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJEzCCBvugAwIBAgIIZc24cQ1CL+QwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDYyMDE0MDcwMFoXDTI2MDYyMDE0MDcwMFowgZwxCzAJBgNVBAYTAkVDMRUwEwYDVQQEDAxD
+SFVOR0EgTE9QRVoxFzAVBgNVBCoMDkpBTkVUSCBBTUVSSUNBMRkwFwYDVQQFExBJRENFQy0wOTEz
+MTE5OTU0MSQwIgYDVQQDDBtKQU5FVEggQU1FUklDQSBDSFVOR0EgTE9QRVoxHDAaBgNVBGEME1RJ
+TkVDLTA5MTMxMTk5NTQwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCwTgMYeC2h
+BmJwtMDVjCjYECXurTh58Et+vv45nHj/V7BeEWVPlO9zMWQ6Ic69MpMG8bMx2k3Q/E2a4NtR9QYV
++xL3nTM5dJRluwCm0gzAk4HU3KknRqvTQbnN3NifkzdR441u78w5ytEyrHn7jdRNh+D9hUHp6K+g
+bNxzRGBbfR5OGuMLLX7ikqqV/VBJ9T2IF07YAjfWCICOV1hlGT7bia/+a9zLux7zo9W69UXO2sE5
+2qV6KjfFCYaIAWASdg3ykc6iIyFd+qPmYDX4VwieVbcsrs6P/BxBylszjXrxAPfhxcjeiHeYRmzp
+fylHd6E2RBvVO/lqvytznLs+QF2xAgMBAAGjggQ5MIIENTAbBgsrBgEEAYLxNmYDAQQMDAowOTEz
+MTE5OTU0MB4GCysGAQQBgvE2ZgMLBA8MDTA5MTMxMTk5NTQwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUFEwfQ6BY8Ahys+R9Rq4XO83m
+QjAwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0g
+BIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggFvBgNVHREEggFmMIIBYoETamFjaGwzODYyQGdtYWlsLmNvbaAbBgsrBgEEAYLxNmYDAaAMDAow
+OTEzMTE5OTU0oB8GCysGAQQBgvE2ZgMCoBAMDkpBTkVUSCBBTUVSSUNBoBcGCysGAQQBgvE2ZgMD
+oAgMBkNIVU5HQaAWBgsrBgEEAYLxNmYDBKAHDAVMT1BFWqApBgsrBgEEAYLxNmYDB6AaDBhDRUlC
+T1MgTk9SVEVcLCBQSU5PUyAyMDWgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5OTA3MTc2MDOgFgYL
+KwYBBAGC8TZmAwmgBwwFQkFMQU+gHgYLKwYBBAGC8TZmAwugDwwNMDkxMzExOTk1NDAwMaATBgsr
+BgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5BVFVSQUwgTyBGSVNJ
+Q0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAylppw8v+f0B6
+dYVOq9fasKZ8JxExgnPTJ0ey/7iPFS1pWft+7PJZjBMFLiuRuC8FuXe8rGXG0di4Dv0aKq0i+Q4N
+7jHDSVrrWlD/FB84a5mcdqDD1i6ic59pRn/zNbnvAfmfqqoLgYray2G5dygksnrBMADqp8uF9xE1
+8EtDUyhq/n9VFygJJ6QSur2/egC5o90UgmWaJs1lFX3jxC3aNk8+ftzdgxJt0ujRqaLoKC8hsKOq
+olj1JjTTB3jICWhTipu1FjP/XwfntT0seBHo3cKP1UF/R31WJf6kqCnQ5u2uGGRZsiXg1AkHwo7X
+8IXjk9Awkqhn5rEj6aSK8ziz4kVPZomSA5+0aymHb0qJMMFfbEXHGnvo+J33UupVT2NHMRdAz+OG
+GYHcaJJv2AUKPf+fXXlpa7Lg1fBRvEV4i/MwLUSndFRKX0GEbjxQYJ2rpd30VFThVtnr2/mJgh4K
+gQw2UYTemNdq5JGdQsDq2AnRwoPbrSXghWY/gMZMmNdAiNaagBPAYlJyCZYWWhz3t9IHwBFGiBn2
+7m76Zu8vSN3RR63Ku/SWxUUNQ8E6TVG+lceupa0+cmnJzP9iwQymxn4yR2I7RoApsZrVP6X0Hd8w
+RwlaKPjC8Di4E7zLgy4BeE5+KGT6pLWLxcVSQJLf+IojFodMNzCjIgvaziH7kGM=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sE4DGHgtoQZicLTA1Ywo2BAl7q04efBLfr7+OZx4/1ewXhFlT5TvczFkOiHOvTKTBvGzMdpN0PxN
+muDbUfUGFfsS950zOXSUZbsAptIMwJOB1NypJ0ar00G5zdzYn5M3UeONbu/MOcrRMqx5+43UTYfg
+/YVB6eivoGzcc0RgW30eThrjCy1+4pKqlf1QSfU9iBdO2AI31giAjldYZRk+24mv/mvcy7se86PV
+uvVFztrBOdqleio3xQmGiAFgEnYN8pHOoiMhXfqj5mA1+FcInlW3LK7Oj/wcQcpbM4168QD34cXI
+3oh3mEZs6X8pR3ehNkQb1Tv5ar8rc5y7PkBdsQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature373184-Object354636"><etsi:QualifyingProperties Target="#Signature373184"><etsi:SignedProperties Id="Signature373184-SignedProperties505929"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T16:06:53-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>qDor+K6kAtCvMFvzmLy1QtxdWWM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7335722163749662692</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-59501"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

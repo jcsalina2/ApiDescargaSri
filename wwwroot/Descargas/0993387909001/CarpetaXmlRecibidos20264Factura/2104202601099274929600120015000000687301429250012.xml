@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202601099274929600120015000000687301429250012</numeroAutorizacion>
+<fechaAutorizacion>2026-04-21T14:29:25-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SUMIPERNOS CIA LTDA</razonSocial>
+    <nombreComercial>SUMIPERNOS CIA LTDA</nombreComercial>
+    <ruc>0992749296001</ruc>
+    <claveAcceso>2104202601099274929600120015000000687301429250012</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>500</ptoEmi>
+    <secuencial>000068730</secuencial>
+    <dirMatriz>Mapasingue Este Calle 4ta. Mz. 82 Slr. 15.</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>21/04/2026</fechaEmision>
+    <dirEstablecimiento>Vacas Galindo 334 - 338 y Eloy Alfaro</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ASTECNAVIND S.A.S.</razonSocialComprador>
+    <identificacionComprador>0993387909001</identificacionComprador>
+    <direccionComprador>4TO PASEO 52B SE Y 4TO PASEO 52B SE</direccionComprador>
+    <totalSinImpuestos>3.05</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>3.06</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>0.46</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>3.51</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>3.51</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PE0126120040</codigoPrincipal>
+      <codigoAuxiliar>PE0126120040</codigoAuxiliar>
+      <descripcion>PERNO G.8.8 M12- 1.75 X 40 DIN 933 HC</descripcion>
+      <cantidad>10.000000</cantidad>
+      <precioUnitario>0.168300</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.68</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.68</baseImponible>
+          <valor>0.25</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TU0126120G</codigoPrincipal>
+      <codigoAuxiliar>TU0126120G</codigoAuxiliar>
+      <descripcion>TUERCA G.8.8 HG M12- 1.75 DIN 934</descripcion>
+      <cantidad>10.000000</cantidad>
+      <precioUnitario>0.070000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.70</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.70</baseImponible>
+          <valor>0.11</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>AN01030122F</codigoPrincipal>
+      <codigoAuxiliar>AN01030122F</codigoAuxiliar>
+      <descripcion>ANILLO PLANO GALV. SAE 1/2 ALA CORTA</descripcion>
+      <cantidad>10.000000</cantidad>
+      <precioUnitario>0.030400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.30</baseImponible>
+          <valor>0.05</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>AN02060121</codigoPrincipal>
+      <codigoAuxiliar>AN02060121</codigoAuxiliar>
+      <descripcion>ANILLO PRESION 1/2</descripcion>
+      <cantidad>10.000000</cantidad>
+      <precioUnitario>0.037000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.37</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.37</baseImponible>
+          <valor>0.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="agenteRetencion">Agente de Retención Resolución No. NAC-DNCRASC20-00000001</campoAdicional>
+    <campoAdicional nombre="Observacion">
+    </campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-22276667-0713-4ba6-91e3-c1688ed46516"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-5df780f6-fd8d-4716-8aac-4892e9926ca8" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>8cr8nxm62f/UdvIdUK6/AyBiapHHkrkvErK40P3b11I=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-22276667-0713-4ba6-91e3-c1688ed46516"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>9TQzwu150ivl8uBhbdzvp1G36bvoitulerZ/gXsh+LI=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-22276667-0713-4ba6-91e3-c1688ed46516"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>/pNrbGe/0bwRT9ROzTSr7XlSiDw36NjiSZgx59h0W60=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-22276667-0713-4ba6-91e3-c1688ed46516">cjiwW6oFTDseRwXIWBmCgXgjnJJPYpNac2CSD8JoJWSqYCjYTAeHW3iUvBdGlArSIFRTW3w8KYUDZhnMKfBwzf3dA0YgYTR0GZ71Jyd+bk+0pz18NH86BMjkAR8pMzp6cQHAy8hHQ+iXvLmw28YegNGD8iv87ghyALYdLCyApdrtMtvEtqcDSRrsI9LI3DGYD3rROfAAcLFmxPAjITAm7Swk4xM35CxzOc5xdCHt/ItLPr0nEbQxj/CJA+u45TqcjLzWokelNweHmmdNxsjVHFSj7jCsXvKCfYpENgQDDhrkxU4EZvQkDdWm8x3dKow9757s1VZ/7LS/0JdjVwMSnw==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-22276667-0713-4ba6-91e3-c1688ed46516"><ds:X509Data><ds:X509Certificate>MIIKqTCCCJGgAwIBAgIEQcxOkDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA1MjIxNjUyNTlaFw0yODA1MjExNjUyNTlaMIGmMSQwIgYDVQQDDBtNSUxUT04gQUdVU1RJTiBWRUxFWiBDRURFTk8xIDAeBgNVBAUTFzA5MDQ5MDcxMzYtMjIwNTI1MTIwMjUxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK+isEf14mnZgUJrEB63UMKfv73N3c+WiD8fX+8Y7l8SSgKkkJbrndFc0G8SWTk9XV5jnNAZE5gxAjVuTuB0DfjLbfdm63MKMMOHJZqmxW9esOXBcVfz8Ibxy92ibRzRuveoVqzSn3okNHm87lh6bQt1hImHZv9u32EDhvKE5uQeBjdhGUhLNjkeBxXY4XMiGziTVYt7WZjQaZItgNixPPwlogtiLXo5EpBlhoDJITu9kDcsRReC1ekrbYWn1ws3SzAxfSFdmFZCFwDdBqEnhVk41M8jVIY6k0OP2IKtL7KCvLV2o/1JJq4sfJv0wHlWlW1vNRUJDLm3jfLSHQ4TNTUCAwEAAaOCBegwggXkMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCIGA1UdEQQbMBmBF2dlcmVuY2lhQHN1bWlwZXJub3MuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTXPhToPZyz0cih8dAwxZCZ/gEBvDArBgNVHRAEJDAigA8yMDI1MDUyMjE2NTI1OVqBDzIwMjgwNTIxMTY1MjU5WjALBgNVHQ8EBAMCBeAwFwYKKwYBBAGCpnIDBQQJDAdHRVJFTlRFMBoGCisGAQQBgqZyAwEEDAwKMDkwNDkwNzEzNjAWBgorBgEEAYKmcgMJBAgMBlRBUlFVSTARBgorBgEEAYKmcgMiBAMMAS4wHwYKKwYBBAGCpnIDBwQRDA9DVUFSVEEgU09MQVIgMTUwHgYKKwYBBAGCpnIDAgQQDA5NSUxUT04gQUdVU1RJTjAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDk5NzI5NzATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFQYKKwYBBAGCpnIDAwQHDAVWRUxFWjAjBgorBgEEAYKmcgMKBBUME1NVTUlQRVJOT1MgQ0lBIExUREEwHQYKKwYBBAGCpnIDCwQPDA0wOTkyNzQ5Mjk2MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBkNFREVOTzAaBgorBgEEAYKmcgMIBAwMCjA0MDQ2MDE5NDYwDQYJKoZIhvcNAQELBQADggIBAFS30vxz6cC0LImgsqJILxv4qbl3tuuGPkzrTaW2OlvuSo3UrZmZPogyYXo5swn4rJ/iZdkVwj/F83OBo3Ys9AFQa6aY5aZnL0Aj+/gGDxy710pu9wmw7r/gzOXGpAqlfK6bHj4VjeuIBdVFlAoc5zOfPykeM3g/guMiK+OZrjaznmzhk4CjR/bc/lgsCLGvQyGleHic7QsmyqiLhqvNX27tyKiioVOKliI+i2tck1TAZlBmilbJKZDc8TbMVR7p7iSCpsN/a1BYZK6FDJikThpaDvS5lg9bWXWsAA2Ij1OHvyHvjNXlDMgfpRGQ0FrLHlVQ7Pw7597G+/jz5Nl/oZRoFvj3lPoiFmgPrdygRp3taQ6wY/WjzKN4PV3px9EYxIZbzZUvRqM2P8EY7P8jIa++Jhoofs9oLrX6nfKSsVHuO1742aGLNmfUrj9YVFWfTqPUZgPsl7Rrmd3OiyHXQfxMSY10xdOI5l8N4KMokeZYIqcVe0pcIkATWoFn8AgTIuoNbHM2zNjtCGHUzZMhnLi3m40/cbYP3SGWiSR4M8fczZREbimJd4m5u8PwWm1EDjr+g6bkOMLxghKlK4xYWRdV2qfcyQIgKKnphP81LPuN9LjJbEFtB1u3TsrR8s8xxJXHUmu1V29ZGHLKtxfZOvw7YVjznm2e/dcs1Y4TJZEp</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>r6KwR/XiadmBQmsQHrdQwp+/vc3dz5aIPx9f7xjuXxJKAqSQluud0VzQbxJZOT1dXmOc0BkTmDECNW5O4HQN+Mtt92brcwoww4clmqbFb16w5cFxV/PwhvHL3aJtHNG696hWrNKfeiQ0ebzuWHptC3WEiYdm/27fYQOG8oTm5B4GN2EZSEs2OR4HFdjhcyIbOJNVi3tZmNBpki2A2LE8/CWiC2ItejkSkGWGgMkhO72QNyxFF4LV6StthafXCzdLMDF9IV2YVkIXAN0GoSeFWTjUzyNUhjqTQ4/Ygq0vsoK8tXaj/Ukmrix8m/TAeVaVbW81FQkMubeN8tIdDhM1NQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-98ef62f9-770d-4912-a3da-29a02dbac6ea"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-b5386f7e-404f-46e4-8b71-4b4bed6eac7e" Target="#Signature-22276667-0713-4ba6-91e3-c1688ed46516"><xades:SignedProperties Id="SignedProperties-Signature-22276667-0713-4ba6-91e3-c1688ed46516"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-21T14:29:25-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>nhQhwcvmRxankiVUKASqOxNjCLRQHSrln54nWOVwb78=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1103908496</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-5df780f6-fd8d-4716-8aac-4892e9926ca8"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

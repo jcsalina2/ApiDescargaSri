@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202601179141513200122460420000543704126153314</numeroAutorizacion>
+<fechaAutorizacion>2026-04-20T12:47:05-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>INT FOOD SERVICES CORP SA</razonSocial><nombreComercial>KENTUCKY FRIED CHICKEN</nombreComercial><ruc>1791415132001</ruc><claveAcceso>2004202601179141513200122460420000543704126153314</claveAcceso><codDoc>01</codDoc><estab>246</estab><ptoEmi>042</ptoEmi><secuencial>000054370</secuencial><dirMatriz>PICHINCHA / QUITO / INAQUITO / COREA 126 Y AV. AMAZONAS</dirMatriz></infoTributaria><infoFactura><fechaEmision>20/04/2026</fechaEmision><dirEstablecimiento>GUAYAS/GUAYAQUIL/CHONGON/VIA LA COSTA KM 10.5 MANZANA 158</dirEstablecimiento><contribuyenteEspecial>155</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>JENIFFER ZAMBRANO  </razonSocialComprador><identificacionComprador>1316471463</identificacionComprador><totalSinImpuestos>10.43</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>10.43</baseImponible><tarifa>15</tarifa><valor>1.57</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>12.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>12.00</total><plazo>0</plazo><unidadTiempo>DÍAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>27</codigoPrincipal><descripcion>COMBO COMPLETO KFC (2 PRESAS)</descripcion><cantidad>1.0</cantidad><precioUnitario>5.000000</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>5.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>5.00</baseImponible><valor>0.75</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>3467</codigoPrincipal><descripcion>AGRANDA PAPA</descripcion><cantidad>1.0</cantidad><precioUnitario>1.304300</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>1.30</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>1.30</baseImponible><valor>0.20</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>56776</codigoPrincipal><descripcion>COMBO TWISTER</descripcion><cantidad>1.0</cantidad><precioUnitario>4.130400</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>4.13</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>4.13</baseImponible><valor>0.62</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="CORREO 1">177670702930351@INVOICES.PEDIDOSYA.COM</campoAdicional><campoAdicional nombre="VENDEDOR">PEYA-1976399097</campoAdicional><campoAdicional nombre="Gran Contribuyente">GRAN CONTRIBUYENTE MEDIANTE RESOLUCIÓN NAC-GCFOIOC21-00000900-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature716298">
+<ds:SignedInfo Id="Signature-SignedInfo1037319">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID374192" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature716298-SignedProperties66344">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rPcU+1ppiLxLLhluFR6uBPqHP1M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1635699">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>793Gx8yL48oR7EIlqrhOWiSLHTU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-434043" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WT9tOIg3v2vNwGUQX4zJ1wdA+J8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue665609">
+gy2sxqpO1h5Df++8XQxYE1hUhYHgtGbLQA4y7/uYiSmlE7aR5Ag9+leFu8ekCiwRldrnjyjc+E1y
+XjsWGlBBSfq0MruL2sXLvPLnf/8lMG3tO8i/I250l9BCpWK44Mo1a4aNcDx1AkJ9dApUhrQELUrz
+xvd5bbLBeyb3NUsUziRFRKUTX+ChpQaJCCnFsz/CZMnlyYpSzuP2yhc7cYkFRabSKrzxOkAskXjw
+zDSJRtGonr+j3qIRIA6845iMEl/3Efip77I3cN4Jv9mj8R7DYYvTdZSCakGsR1sa8PtuBnguXiZE
+C+kUj74Qa8HvkR5HUsEDnk7v5dz8SgDVgbs3jQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1635699">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ1DCCB7ygAwIBAgIIcIVw+9rIDuYwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDUxOTIyNTYwMFoXDTI4MDUxNzIyNTYwMFowgdkxCzAJBgNVBAYTAkVDMSQwIgYDVQQKDBtJ
+TlQgRk9PRCBTRVJWSUNFUyBDT1JQIFMuQS4xGTAXBgNVBAwMEENPTlRBRE9SIEdFTkVSQUwxEzAR
+BgNVBAQMCkRJQVogREFMR08xFzAVBgNVBCoMDkRJRUdPIE1BVVJJQ0lPMRkwFwYDVQQFExBJRENF
+Qy0xNzEzMzQxNDI2MSIwIAYDVQQDDBlESUVHTyBNQVVSSUNJTyBESUFaIERBTEdPMRwwGgYDVQRh
+DBNWQVRFQy0xNzkxNDE1MTMyMDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoHEM
+/TrIxcp+hUgDfDCeft9ByhaRb78BLnrxVR5pM+KmXbBrMrC57Mgl/5m9yR4Q0ZgONxDEVZSoALSQ
+bDvzOEKR9aiOHmsBafrAcDIyB77F39U664pbWbxxG+AzoXfYnd3GY41An5+wikoLVSUR0DR08p4L
+Wb0vmk8WCCXnYnQHUujleIM/QKpbqzOrJ7z8r7GkmVLDn4Y09ndDTufSoPVbU7tPBo2upMTdQWtH
+Qdom82HW91sol8rkTkC0XonnhWqpjKrV/0INJHnF0piE4jfhHMNWdO9snRsg+kmPGDkW/N/j1ZC2
+Fl8xABHGsGKSgUalbi6ZMDmLkBq1J3XnTQIDAQABo4IEvTCCBLkwGwYLKwYBBAGC8TZmAwEEDAwK
+MTcxMzM0MTQyNjAeBgsrBgEEAYLxNmYDCwQPDA0xNzkxNDE1MTMyMDAxMIHXBggrBgEFBQcBAQSB
+yjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2Fk
+L3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29j
+c3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2Nz
+cDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFE7ovpq2BIkTqII7ZB5t
+PsqkAlrBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgbEG
+A1UdIASBqTCBpjCBowYMKwYBBAGC8TZmAgIBMIGSMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMFcGCCsGAQUFBwICMEsMSUNFUlRJRklDQURP
+IERFIE1JRU1CUk8gREUgRU1QUkVTQSBPIEVOIFJFTEFDSU9OIERFIERFUEVOREVOQ0lBIEVOIEFS
+Q0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1Ymxp
+Yy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2Eu
+Y29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIB2wYDVR0RBIIB0jCCAc6BGXNhbnRpYWdvLmVy
+YXpvQGtmYy5jb20uZWOgGwYLKwYBBAGC8TZmAwGgDAwKMTcxMzM0MTQyNqAfBgsrBgEEAYLxNmYD
+AqAQDA5ESUVHTyBNQVVSSUNJT6AVBgsrBgEEAYLxNmYDA6AGDARESUFaoBYGCysGAQQBgvE2ZgME
+oAcMBURBTEdPoCEGCysGAQQBgvE2ZgMFoBIMEENPTlRBRE9SIEdFTkVSQUygKQYLKwYBBAGC8TZm
+AwegGgwYQ09SRUEgMTI2IFkgQVYuIEFNQVpPTkFToB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTk4
+NzMyMjQ0oBYGCysGAQQBgvE2ZgMJoAcMBVFVSVRPoCwGCysGAQQBgvE2ZgMKoB0MG0lOVCBGT09E
+IFNFUlZJQ0VTIENPUlAgUy5BLqAeBgsrBgEEAYLxNmYDC6APDA0xNzkxNDE1MTMyMDAxoBMGCysG
+AQQBgvE2ZgMMoAQMAkVDoEAGCysGAQQBgvE2ZgMyoDEML01JRU1CUk8gREUgRU1QUkVTQSBPIEVO
+IFJFTEFDSU9OIERFIERFUEVOREVOQ0lBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZI
+hvcNAQELBQADggIBACdVS033Tz+tJcjWihXMWJmZPtPU9+FkL+z7imuEXyA2t1qrHgj6WjAh90Fu
+4iZbh2rpUqFw5x1fLMB07+nH1Y1yZMqoyGIWytJ4IQK2K+39G+voW675E6pn5FtCzaBX9fZPklfw
+90ENrUXhLK7yrzwEhacrPCBlmWMC4LJJzlGla3AicNaT4V3LS/t2E5tldONpIymKJOHpO7yZZAxm
+Veseg5EAGtz4QyMNBpW5fILnn+J7M2ClW/y9O4OsBidLXd3h+aYbXIThk46MfX9vny60y2IrNdwz
+kgMQDHEF8iO5aYu/d/lWAo+QA5XpibSl8GjPFP5D14K/1fCr+snXoO+UDveHW124TB0ccdtFWXwm
+G51f5RMalNExh/JeURjGeu5kN7KIptUXfTMvvNohwW6NkscVXJVj7nkwDJDqp+fbpZC2BhiMULsW
+B0k52BSi/rQmweTw/W4jdzdydCXbRlxxN6c6aMZMacbfEv4DrH0W8+CRxvfrPwyo1/ga+Wu6EV/x
+mlyky08FouVA372uUKEOgYIYhBbXbo8aBO9b8FzexXiRSN64tO9YqDhPDUUZ7qPKP1aJGmnCYiKb
+G/rUM+EKO7AxTitYU92xOmK9SJj/W5RSF33MKs1vrnF1Cr4TzusSGe1hZaLNray2HO/hLqA5K3Qr
+9hWsxfHgnjx5v1f0
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oHEM/TrIxcp+hUgDfDCeft9ByhaRb78BLnrxVR5pM+KmXbBrMrC57Mgl/5m9yR4Q0ZgONxDEVZSo
+ALSQbDvzOEKR9aiOHmsBafrAcDIyB77F39U664pbWbxxG+AzoXfYnd3GY41An5+wikoLVSUR0DR0
+8p4LWb0vmk8WCCXnYnQHUujleIM/QKpbqzOrJ7z8r7GkmVLDn4Y09ndDTufSoPVbU7tPBo2upMTd
+QWtHQdom82HW91sol8rkTkC0XonnhWqpjKrV/0INJHnF0piE4jfhHMNWdO9snRsg+kmPGDkW/N/j
+1ZC2Fl8xABHGsGKSgUalbi6ZMDmLkBq1J3XnTQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature716298-Object888586"><etsi:QualifyingProperties Target="#Signature716298"><etsi:SignedProperties Id="Signature716298-SignedProperties66344"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T12:46:03-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>YNaQ+0FOY//pIMml148jhQVJYcw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>8108010931160092390</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-434043"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

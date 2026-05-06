@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601179251243300120080010000941849793526511</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T13:06:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>DELIVERY HERO DH E-COMMERCE ECUADOR S.A.S.</razonSocial><nombreComercial>PedidosYa Market Aeropuerto</nombreComercial><ruc>1792512433001</ruc><claveAcceso>1404202601179251243300120080010000941849793526511</claveAcceso><codDoc>01</codDoc><estab>008</estab><ptoEmi>001</ptoEmi><secuencial>000094184</secuencial><dirMatriz>Catalina aldas y Portugal, Edificio Recoleta piso 6. Oficina 65</dirMatriz></infoTributaria><infoFactura><fechaEmision>14/04/2026</fechaEmision><dirEstablecimiento>AV. LAS AMERICAS / S-N / ENTRADA A BAHIA NORT PB</dirEstablecimiento><contribuyenteEspecial>051</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>Belgica Andrea Loaiza Suárez</razonSocialComprador><identificacionComprador>0950045922</identificacionComprador><totalSinImpuestos>9.03</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>9.03</baseImponible><valor>1.35</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>10.38</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>10.39</total></pago></pagos></infoFactura><detalles><detalle><descripcion>Helado Topsy Sweet &amp; Coffee 1 L</descripcion><cantidad>1.000000</cantidad><precioUnitario>4.580000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.58</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>4.58</baseImponible><valor>0.69</valor></impuesto></impuestos></detalle><detalle><descripcion>Bombones Nestle De Chocolate Surtidos Con Leche 161 g</descripcion><cantidad>1.000000</cantidad><precioUnitario>3.480000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>3.48</baseImponible><valor>0.52</valor></impuesto></impuestos></detalle><detalle><descripcion>Galletas Rellenas Oreo Vainilla 135 g</descripcion><cantidad>1.000000</cantidad><precioUnitario>0.970000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.97</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.97</baseImponible><valor>0.15</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Orden">1969119681</campoAdicional></infoAdicional><ds:Signature Id="Signature219077" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo303798">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID775678" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature219077-SignedProperties749032">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>/NIDeOeXm1w7xqQFFtprF3FejH8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1124472">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>n3llBbsVD1jJLA9FMQJsPVGoOEI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-320428" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>U/Nk025oduhQ5b1Bn0eZxUfmNDA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue414305">
+aoMdFP7Qp0V3KLNUYk9HELdfwmUO8+XiXPxsYS7/GcYu5t5/ruF719PfXsJBl0i4Lgqd7KF8bhMW
+ibGay+/FrlIO/8fP7JvRwkJDFE3oopIQ8lO5Z8Wt8OEEMoNQeV+zFLB5LmAHDdNOuKrpSMtQQxHi
+yxzgcpsK/iK2MFejbIc97BGDuOi2MhwRo4TzMfNP5hK+fsdAMWRbDwFe+LmnTssCl3RIx02iyIwb
++dhIWjg+UmrWYBmcMfE8EmtrG1bVV6eo0BtRBG6YtDyzwDRGjBwUJVXDU/d9L6usOt6OtC+TMWBB
+EKYOK17xA60JGQtPQbXxhjLzdhNCnFIN1KJoEg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1124472">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMczCCClugAwIBAgIEDj0e8DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA3MzEwMzU0MzVaFw0yNzA3MzEwMzU0MzVaMIGlMSMw
+IQYDVQQDDBpNQU5VRUwgS0FLQUJBRFNFIEVTVFVQSU5BTjEgMB4GA1UEBRMXMTcxNTA2MDQ2MS0z
+MDA3MjQyMzA0MjIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3C4kAv96byNMQeJxhd/Uv/8xwRSCx56kKNenvuM9WLeI
++IOCt/einp8QR5IUy0FkxP+Qpf3Adxf824JkbMB1wMM5jWv0sPSrLAjDwHV+eQc86UzJNKzSLsdS
+vbMcChUerSZsfDXVY2tXgrm2MvVqqsyUiofsTqmvHKyZSHyVVVp+bu3B7Utm9mb6tpj5/ezUY/59
+ZHTKoCidOx1aJ1qmQVultx8wT93bi0zCtNSzXTnCzknSlXk+98CUEKnwkbsv59XbgwbrX9J4mBGp
+aIW3vEHW4w80vPGEdROHvo9AAHU4N4c2UC1WKWRVROIEUnGRGYQKmi2hPlcW++B16pQY1wIDAQAB
+o4IHszCCB68wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZ
+BggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aB
+uGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9j
+YXRpb25MaXN0P2Jhc2UwHwYDVR0RBBgwFoEUbWtha2FiYWRzZUBnbWFpbC5jb20wggEVBgNVHSAE
+ggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBh
+AGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisG
+AQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0
+aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkw
+ggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczov
+L3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2Vi
+ZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUHBMQ0oGH6FkY
+OFYd498QS/l3n10wKwYDVR0QBCQwIoAPMjAyNDA3MzEwMzU0MzVagQ8yMDI3MDczMTAzNTQzNVow
+CwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZy
+AwEEDAwKMTcxNTA2MDQ2MTBvBgorBgEEAYKmcgMJBGEMX1FVSVRPIERJU1RSSVRPIE1FVFJPUE9M
+SVRBTk8gQ0FCRUNFUkEgQ0FOVE9OQUwgQ0FQSVRBTCBQUk9WSU5DSUFMIFkgREUgTEEgUkVQVUJM
+SUNBIERFTCBFQ1VBRE9SMBEGCisGAQQBgqZyAyIEAwwBLjAxBgorBgEEAYKmcgMHBCMMIUFWIENP
+UlVOQSBOMjggMTQgWSBNQU5VRUwgSVRVUlJFWTAWBgorBgEEAYKmcgMCBAgMBk1BTlVFTDAfBgor
+BgEEAYKmcgMgBBEMDzAwMjAwMTAwMDg0ODg4MDATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEE
+AYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGCpnIDAwQLDAlLQUtBQkFEU0UwOQYKKwYBBAGCpnID
+CgQrDClERUxJVkVSWSBIRVJPIERIIEUgQ09NTUVSQ0UgRUNVQURPUiBTIEEgUzAdBgorBgEEAYKm
+cgMLBA8MDTE3OTI1MTI0MzMwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBkGCisGAQQBgqZyAwQECwwJ
+RVNUVVBJTkFOMBoGCisGAQQBgqZyAwgEDAwKMDk5NTU1ODM4NTANBgkqhkiG9w0BAQsFAAOCAgEA
+j9/kMBcI1ASN6VnX3vOp1HA7sujU1ZyLSxsmDqc1u6SbZxqj4k3/CzvHP2/y9pZY4IfkI1B7YErq
+bBgwtT9lpOlhbpHtF8mj2UqYVBOlGd4/Ba0+aruOHNXPFNIqTk2R9k2aiOhv1NH5l1d0xd8Q4/dT
+UohWvXHr7e938CuRXC66EYHEB/HiK5JaZFQykuHAfDWtdqgj3vrjgnwsniCHUUJAwGIx3drbKrEW
+zGOV1nATXFuvWw/3dCkiIrMEMbxzr5MRs1/UrzWb+uxgRpVO/5YOE8yccuLbS+nq8IA+7xQnz464
+o9pS4DE3AoPWamYYfyV17nVkWHtnRBN7AoGgVUwXQPMMjy6oR0+Ycp2QCD64kSdAYDvC6bWXx9Zu
+6xaN32C3pTC7YiQY+jPHKrlBbCDMx5ppQ6qj3bxZB34BK1iU//OmQBczRFE7J1H1UFTL/t9QFMI0
+tB+f0RKOFjON+fJsFyx2r/IEMwRce0mzwPdsc4yP8Z5tWE9cUgK4CDAW8cKa4Qe9nPeYdJKikAO7
+l3+Cm59ZqC5OPOE0RibahODKw04N+dNnUnNb9fhfFZCGbJWRrTZcn30yRBx5LdxJAGv/ZNNPJKw/
+NTY4eWBHCuaESoR9GUbRBS70U2UO8m6s0nHBci4vF9gHtOAWAMwL6CLAV2WUESzjMegbvoaRmQQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3C4kAv96byNMQeJxhd/Uv/8xwRSCx56kKNenvuM9WLeI+IOCt/einp8QR5IUy0FkxP+Qpf3Adxf8
+24JkbMB1wMM5jWv0sPSrLAjDwHV+eQc86UzJNKzSLsdSvbMcChUerSZsfDXVY2tXgrm2MvVqqsyU
+iofsTqmvHKyZSHyVVVp+bu3B7Utm9mb6tpj5/ezUY/59ZHTKoCidOx1aJ1qmQVultx8wT93bi0zC
+tNSzXTnCzknSlXk+98CUEKnwkbsv59XbgwbrX9J4mBGpaIW3vEHW4w80vPGEdROHvo9AAHU4N4c2
+UC1WKWRVROIEUnGRGYQKmi2hPlcW++B16pQY1w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature219077-Object339694"><etsi:QualifyingProperties Target="#Signature219077"><etsi:SignedProperties Id="Signature219077-SignedProperties749032"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T18:06:28+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>eGO//OyySge9HZ027CZUoHvG/jI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>238886640</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-320428"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

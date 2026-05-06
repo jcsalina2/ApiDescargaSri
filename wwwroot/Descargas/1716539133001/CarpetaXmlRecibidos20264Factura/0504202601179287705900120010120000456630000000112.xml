@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0504202601179287705900120010120000456630000000112</numeroAutorizacion>
+<fechaAutorizacion>2026-04-05T11:14:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="2.1.0">
+    <infoTributaria>
+            <ambiente>2</ambiente>
+            <tipoEmision>1</tipoEmision>
+            <razonSocial>DISTRIBUIDORA E IMPORTADORA METROPOLITANA DEL ECUADOR DIMEDE CIA.LTDA</razonSocial>
+            <nombreComercial>DIMEDEC CIA. LTDA.</nombreComercial>
+            <ruc>1792877059001</ruc>
+            <claveAcceso>0504202601179287705900120010120000456630000000112</claveAcceso>
+            <codDoc>01</codDoc>
+            <estab>001</estab>
+            <ptoEmi>012</ptoEmi>
+            <secuencial>000045663</secuencial>
+            <dirMatriz>RESTAURACION S1-39 Y JUNIN</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>05/04/2026</fechaEmision>
+        <dirEstablecimiento>RESTAURACION S1-39 Y JUNIN</dirEstablecimiento>
+        
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>GUALAVISI GUAJAN SEGUNDO DAVID</razonSocialComprador>
+        <identificacionComprador>1716539133001</identificacionComprador>
+        <direccionComprador> </direccionComprador>
+        <totalSinImpuestos>10.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <descuentoAdicional>0.00</descuentoAdicional>
+                <baseImponible>10.00</baseImponible>
+                <valor>1.50</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>11.50</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>11.50</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>CH101140061</codigoPrincipal>
+            <descripcion>PAÑUELO FACIAL CAT </descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>0.608696</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.61</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0.61</baseImponible>
+                    <valor>0.09</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>CH101030036</codigoPrincipal>
+            <descripcion>PLATO MELAMINE 6 NARANJA VERDE </descripcion>
+            <cantidad>4.000000</cantidad>
+            <precioUnitario>0.695652</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.78</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>2.78</baseImponible>
+                    <valor>0.42</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>8699038124158</codigoPrincipal>
+            <codigoAuxiliar>57PTU2F</codigoAuxiliar>
+            <descripcion>CANGUILERA 1.3L 161966-000 </descripcion>
+            <cantidad>2.000000</cantidad>
+            <precioUnitario>1.130435</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.26</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>2.26</baseImponible>
+                    <valor>0.34</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>V102059</codigoPrincipal>
+            <descripcion>MINI BOUQUET </descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>4.347826</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>4.35</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>4.35</baseImponible>
+                    <valor>0.65</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="vendedor">102</campoAdicional>
+        <campoAdicional nombre="fecha_vencimiento">2026-04-05</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature999455">
+<ds:SignedInfo Id="Signature-SignedInfo418411">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID858652" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature999455-SignedProperties112886">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jyHqV5LMqGrS9yxFOsaXxao5VSA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1443828">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0TcdhktJ0ZX/l1k1DsCtBrHePpk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-359894" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>iNsh3p7rm2S0cdxWDRvi+fX62oo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue314434">
+S5Pily+0+6nuIyc4po3UZa2NotvB/sQyxloyNSjC1WL3eNlaR8lprMlVpvm3TtVlKmJuzJZBzllr
+aMTwVD6/lrogW8V3QQSDc7ieomXWyUonK3GWX5oI9E78zggRYKsz2TtyK0BSA2XieyquiVieaAZk
+Nbw9hiSd8PwgdZDSsGM3NvH2NNt6M+51w8MMF0gmFirb0jWFHjeNQ3ROYtKJf2NvGQkgew/K9ebs
+tJh7HE8cpsvUIzN3KSW+lDfArPoBgkVvxvzf+ORegIUg6lfVUTKge0Krd99IRKfIDE8UEpArbnZT
+zTTJvcTQ8XKlu7jOkuzu8cz9ptcp2wtY6kAGSw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1443828">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK9jCCCN6gAwIBAgIEQ74cNjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA0MzAyMTUxMjBaFw0yNzA0MzAyMTUxMjBaMIGjMSEw
+HwYDVQQDDBhHQUxPIE9TV0FMRE8gR1JBTkRBIFZBQ0ExIDAeBgNVBAUTFzE3MDA2OTA3MDItMzAw
+NDI1MTcwMTEwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALLFaknZm3LvyIxvEPMqMHRmuUUFsHs4lDpWz4a3wPsvl/OP
+8F1q6Y3og/RtQKchVeCaCpf/3thPmQsR706XTRGaFbJPjmHSRY3Ygxr+2QdhFQMqq9+0JOcvJ+3+
+2DahWDxj974mbp/YHfouRSBguhKs9u3/iMqWyo/dHaC+GWF5L4xpjSAzQjbssBlfce8e+0Ka8DGm
++AGbuXslHO3tjA2fvQQG+hPmm2JFiVTp2EwkUUi24F3eMpNFzYBJDY31tRV1UCg3H6QFHAptUbBR
+E1tJGk1h2TJWPBc2PbDl1Ol9jnaxtHOzyuI720CA4qZeOfcrmwX2UlhoYdPkjEX96Z0CAwEAAaOC
+BjgwggY0MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYI
+KwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMC8GA1UdEQQoMCaBJGFuZHJlcy5jZ0BkaXN0
+cmlidWlkb3Jhc2FuY2FybG9zLm5ldDCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBS
+BggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMA
+ZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEW
+gYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05v
+cm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJl
+c2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1Ud
+HwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJj
+cmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNV
+BAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIv
+Y3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vl
+cj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQzAdBgNVHQ4EFgQUOPEVKyGBZEK2CF9WovUAHjA1P3IwKwYDVR0QBCQwIoAPMjAy
+NTA0MzAyMTUxMjBagQ8yMDI3MDQzMDIxNTEyMFowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUE
+EQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTcwMDY5MDcwMjAXBgorBgEEAYKm
+cgMJBAkMB0NBWUFNQkUwEQYKKwYBBAGCpnIDIgQDDAEuMCoGCisGAQQBgqZyAwcEHAwaUkVTVEFV
+UkFDSU9OIFMxIDM5IFkgSlVOSU4wHAYKKwYBBAGCpnIDAgQODAxHQUxPIE9TV0FMRE8wHwYKKwYB
+BAGCpnIDIAQRDA8wMDIwMDEwMDA5OTc2NDIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGC
+pnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGR1JBTkRBMFUGCisGAQQBgqZyAwoERwxF
+RElTVFJJQlVJRE9SQSBFIElNUE9SVEFET1JBIE1FVFJPUE9MSVRBTkEgREVMIEVDVUFET1IgRElN
+RURFIENJQSBMVERBMB0GCisGAQQBgqZyAwsEDwwNMTc5Mjg3NzA1OTAwMTARBgorBgEEAYKmcgMd
+BAMMAS4wFAYKKwYBBAGCpnIDBAQGDARWQUNBMBoGCisGAQQBgqZyAwgEDAwKMDk4NzgzMDc3ODAN
+BgkqhkiG9w0BAQsFAAOCAgEAs/EDLHxI07KWt35PhA1GnmL1pLmChROYowivuENRZUYSQtxKP4Zw
+cJehsh7FhMPeLFOlbqerZuoaOZup2+3wGCgfpI2JUv3Hf2Gd7TP+hWm7UIjxGPGMdNv/x/RH41jw
+K2W4nq/dBaTxo8vzLx+gIvh/3sAeATPtsZNEWY0gIOmW0YgRDV1gtS61+Xt3q7J3ubj9sAeCBQxP
+lDD5WAoNgL7E7JzpDn4u7zX+aYCVM+PX5hNuWD2yyb/2K7I723P4WXKdvYCK0uhyLdEAqmFxy137
+2h9/yw0R7WFcMzzmFqt+JMz4V7wCX+52BN/oA4+k6bDG7TiXbfX1MErvtZlMl3APOphvVkgxT3ns
+KmoYmLWykj7wgUaZA93nNiA6ekIL96DXJfykaPgM+CcX0AZbYneQ19IzXarGbny5ZI4QVZUOECCF
+SyjpbkhQOn0ubfTgUx0D0E/N00/L3wW7KfwmqzAP2gkmWUbWUrKqKpND88cZGRirefyNyjHgPeyo
+EGFk2efrD1ZiX/b/WdXYitcTGRLL49xRH6pPBM0SDpqXtmJOhi46Dqu7UWX22yb/nXqlc66Rlc+P
+au1t/AoBA4Wc6Z0yPv01oTldwfcSW5JDFpXU6wRCwe3WdUObI4S0hnVV0rMSs8bW9zRbbkrvcwaS
+24oGF4EzTHGVA2xsrPo82Aw=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ssVqSdmbcu/IjG8Q8yowdGa5RQWweziUOlbPhrfA+y+X84/wXWrpjeiD9G1ApyFV4JoKl//e2E+Z
+CxHvTpdNEZoVsk+OYdJFjdiDGv7ZB2EVAyqr37Qk5y8n7f7YNqFYPGP3viZun9gd+i5FIGC6Eqz2
+7f+IypbKj90doL4ZYXkvjGmNIDNCNuywGV9x7x77QprwMab4AZu5eyUc7e2MDZ+9BAb6E+abYkWJ
+VOnYTCRRSLbgXd4yk0XNgEkNjfW1FXVQKDcfpAUcCm1RsFETW0kaTWHZMlY8FzY9sOXU6X2OdrG0
+c7PK4jvbQIDipl459yubBfZSWGhh0+SMRf3pnQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature999455-Object28826"><etsi:QualifyingProperties Target="#Signature999455"><etsi:SignedProperties Id="Signature999455-SignedProperties112886"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-05T11:14:03-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>BwL6q+HdnsnLKE9MtOWN/dfmuVo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1136532534</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-359894"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

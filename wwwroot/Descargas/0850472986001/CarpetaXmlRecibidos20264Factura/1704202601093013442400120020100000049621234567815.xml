@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601093013442400120020100000049621234567815</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T13:28:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>LARA BUENO LACEY MICHEL</razonSocial>
+    <nombreComercial>PAPELERIA EL SABER 2</nombreComercial>
+    <ruc>0930134424001</ruc>
+    <claveAcceso>1704202601093013442400120020100000049621234567815</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>010</ptoEmi>
+    <secuencial>000004962</secuencial>
+    <dirMatriz>Atacames Juan Montalvo y Abdon Calderon S.21 M87 Frente al parque</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>17/04/2026</fechaEmision>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>CEDEÑO LOOR MAYTER VALESCA</razonSocialComprador>
+    <identificacionComprador>0850472986001</identificacionComprador>
+    <direccionComprador>SANTO DOMINGO</direccionComprador>
+    <totalSinImpuestos>4.17</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>4.17</baseImponible>
+        <valor>0.63</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>4.80</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>4.80</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>504</codigoPrincipal>
+      <descripcion>ESPUMA FLEX 100*100*2 GRUESA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.260870</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.26</baseImponible>
+          <valor>0.34</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>59451</codigoPrincipal>
+      <descripcion>PINTURA ACRILICA ESTILO 60ML V/COLORES</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.695652</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.70</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.70</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7862139723600</codigoPrincipal>
+      <descripcion>CINTA DOBLE FAZ UTILESA 1.8CM *10.9M</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.956522</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.96</baseImponible>
+          <valor>0.14</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7862108198224</codigoPrincipal>
+      <descripcion>CINTA SCOTCH 12MM*25YDS DESK</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.260870</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.26</baseImponible>
+          <valor>0.04</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">  </campoAdicional>
+    <campoAdicional nombre="Email">VALESCACEDEÑOLOOR@GMAIL.COM</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature4815">
+<ds:SignedInfo Id="Signature-SignedInfo93681">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID123725" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature4815-SignedProperties135137">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>bYkGYQdmqoVnc7YKjudpdvLzV6g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11019275">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Y5JuGS7050a6oGA34EpG+wWHd7A=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-346077" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>f/qqpcG5h9U8YA6jeDvtYb0BKFI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue759904">
+aEaDc90ik2q3l2kLAHY4Wuq5V+dHDgmqzfo36R3jsqQX3ezzQ7BU+7ddAsyus/DBaRBNDpdSCX3X
+oJwayeLJiIn2xu0aM8fYRXECnVBRxk4CnFO3YRW1MjJWtXz91npGzbksbdaVbU/oLQpIuPuZ6Bqp
+2zVlfIJsyF5/AHA8kTwt4vuxccnKmPO+KtjScVe/BULEw7J36nbZgoAEP8z0rhu4g5ENby/2dYVd
+s7WTefCHUO3QnyfBjkKm0Z6ekXNPMqCkFekgU5s4d594Yy4U29ZGU8YmUcYitNQjkl/V3B2sJebQ
+nWIbUfZHEpui2bcqI3GsKMJN6JAEd8LEVsJ8YQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11019275">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJODCCByCgAwIBAgIIQ0BfjBs1yhUwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTIxMDIyMjUwMFoXDTI2MTIxMDIyMjUwMFowgZQxCzAJBgNVBAYTAkVDMRMwEQYDVQQEDApM
+QVJBIEJVRU5PMRUwEwYDVQQqDAxMQUNFWSBNSUNIRUwxGTAXBgNVBAUTEElEQ0VDLTA5MzAxMzQ0
+MjQxIDAeBgNVBAMMF0xBQ0VZIE1JQ0hFTCBMQVJBIEJVRU5PMRwwGgYDVQRhDBNUSU5FQy0wOTMw
+MTM0NDI0MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlp4X4vuY97dmoUMMTAaQ
+RIO9zPSoE53ytZkablEsUsebT9n0WuK2wkm/i1F6O9wdqVLGqClPZTqVOr3YBmLp7Ufe7k0Pid4T
+xxtFRLYRQmvSMgJ93ZnDiIJW+X3p1cZX04Szyjc+2zDIdxZZR+5rO+EoAjHIDEuQ+JugchsXvq66
+UB68QODTwbOIpapOhgTTg0fY4AIwAp4acLeomMu3fuXOJPKSsZ/h8kJzPrdGSzj0tJiPK6Ug+qdD
+9d5lpQ+2VHcUFvnfFuuc8VKXLsDi0Lt1CZwg58gxcyDTSl7wZuM62bQIuVwTMGpMTdKzApGg/fqk
+LrnNyhl76NII9AkkVwIDAQABo4IEZjCCBGIwGwYLKwYBBAGC8TZmAwEEDAwKMDkzMDEzNDQyNDAe
+BgsrBgEEAYLxNmYDCwQPDA0wOTMwMTM0NDI0MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEF
+BQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZp
+Y2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2Eu
+Y29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFLQC7fd958QIAwT9vG6+9ft2GMLnMAwGA1Ud
+EwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkGA1UdIASBkTCBjjCB
+iwYMKwYBBAGC8TZmAgEBMHswNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL2RwYy1lYy8wQAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8gREUgUEVSU09OQSBO
+QVRVUkFMIE8gRklTSUNBIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2Ny
+bDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6
+aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNy
+bDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBnAYDVR0R
+BIIBkzCCAY+BF2xld2lzeWxhY2V5QGhvdG1haWwuY29toBsGCysGAQQBgvE2ZgMBoAwMCjA5MzAx
+MzQ0MjSgHQYLKwYBBAGC8TZmAwKgDgwMTEFDRVkgTUlDSEVMoBUGCysGAQQBgvE2ZgMDoAYMBExB
+UkGgFgYLKwYBBAGC8TZmAwSgBwwFQlVFTk+gUwYLKwYBBAGC8TZmAwegRAxCQ0FMTEU6IExVSVMg
+VEVMTE8gTk1FUk86IFNPTEFSIDIxIENESUdPIFBPU1RBTDogMDgwMzA1IE1BTlpBTkE6IDg3oB8G
+CysGAQQBgvE2ZgMIoBAMDjAwNTkzOTU4NzA3Njc0oBkGCysGAQQBgvE2ZgMJoAoMCEFUQUNBTUVT
+oB4GCysGAQQBgvE2ZgMLoA8MDTA5MzAxMzQ0MjQwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgKQYL
+KwYBBAGC8TZmAzKgGgwYUEVSU09OQSBOQVRVUkFMIE8gRklTSUNBoBgGCysGAQQBgvE2ZgMzoAkM
+B0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBADTtFf8nnr1eiRkMKxwLx3DKXf0aeEngaBX4sjb9
+Tawu54H3MbaZiWHmptb9ptmQ8t1+03yMZNo3J2ZYFwt/j0n9mvuW+l0EoJe7p/+/FejVeICppfzP
+KIXo6kfSb6hZMLK5I3Foh4q6wjEk7hB2whm21fTiVva8nxJYWk1/Jb+bVkUVu6ZPL/M8kNsm8Y0k
+hrGNH9rfpPe5kqrllEjFyTH2LR1CwKaU4oEXqSom8gGeLQd02Mwu3iqaV6q0aGbUpXA5gbV2La/r
+13NMHTmNLyGQ9wEPjcgDCmAh+s2eDc4dR7cZlJZ8KjtwP4XR/2O4jX8tv7JM4IUiEW5BCQgXJ8k4
+YAFzQMN8Yy1v/LZgVnmbUKQ6q8bMzYPAzQD67Li5FkS65ToQRgD4sfYGz9T+Te3Y1YWKShJJj/aH
+jozjMw6MPjs2cl/brQnBknULokvN1Vfkr33uNfNdan2oU+9MTiiwzMtyiCm5f5L6umBWGQnab75J
+Uu3Kw+PBQd79aycpr5CfiKUFAP9+lOo/3uSQ1uxkwi+VGP/TEzRpGxcG16dI5QzXV1+ybNYUzXQG
+HPq8lrQhQqtDl7Ua+5CeBADMI8K4yOjWYz+5nl1iQ/9KTIpmuiTRK7Dsg1kf+0PbiFDE8IUjuZj3
+ewFIYvTXCaO0mIyP1jLLUP3qcwKDg1nXrnYq
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+lp4X4vuY97dmoUMMTAaQRIO9zPSoE53ytZkablEsUsebT9n0WuK2wkm/i1F6O9wdqVLGqClPZTqV
+Or3YBmLp7Ufe7k0Pid4TxxtFRLYRQmvSMgJ93ZnDiIJW+X3p1cZX04Szyjc+2zDIdxZZR+5rO+Eo
+AjHIDEuQ+JugchsXvq66UB68QODTwbOIpapOhgTTg0fY4AIwAp4acLeomMu3fuXOJPKSsZ/h8kJz
+PrdGSzj0tJiPK6Ug+qdD9d5lpQ+2VHcUFvnfFuuc8VKXLsDi0Lt1CZwg58gxcyDTSl7wZuM62bQI
+uVwTMGpMTdKzApGg/fqkLrnNyhl76NII9AkkVw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature4815-Object511117"><etsi:QualifyingProperties Target="#Signature4815"><etsi:SignedProperties Id="Signature4815-SignedProperties135137"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T13:28:40-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>mWzWSw5mV/1hnFQ+cJwCRbvmFXg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>4845978254407223829</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-346077"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

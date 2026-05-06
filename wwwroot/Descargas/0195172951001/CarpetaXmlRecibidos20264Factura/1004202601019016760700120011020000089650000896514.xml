@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1004202601019016760700120011020000089650000896514</numeroAutorizacion>
+<fechaAutorizacion>2026-04-10T16:07:09-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>SUMINISTROS Y DISTRIBUCIONES IVAN QUINTANILLA CIA. LTDA.</razonSocial><nombreComercial>SUMINISTROS Y DISTRIBUCIONES IVAN QUINTANILLA CIA. LTDA.</nombreComercial><ruc>0190167607001</ruc><claveAcceso>1004202601019016760700120011020000089650000896514</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>102</ptoEmi><secuencial>000008965</secuencial><dirMatriz>Arzobispo Machado 1-81y Arzobispo Serrano</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>10/04/2026</fechaEmision><dirEstablecimiento>ARZ. MACHADO 1-81 Y ARZ. SERRANO</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><guiaRemision>001-102-000009516</guiaRemision><razonSocialComprador>LUVET S.A.S.</razonSocialComprador><identificacionComprador>0195172951001</identificacionComprador><totalSinImpuestos>        157.65</totalSinImpuestos><totalDescuento>          0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><descuentoAdicional>          0.00</descuentoAdicional><baseImponible>6.75</baseImponible><valor>0</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>          0.00</descuentoAdicional><baseImponible>150.9</baseImponible><valor>22.64</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>180.29</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>180.29</total><plazo>1</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>BISFOR0007</codigoPrincipal><descripcion>HOJA DE BISTURI #24 FORTUNE MEDICAL</descripcion><cantidad>2</cantidad><precioUnitario>6.85</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>13.7</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>13.7</baseImponible><valor>2.06</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>BISFOR0001</codigoPrincipal><descripcion>HOJA DE BISTURI #11 FORTUNE MEDICAL</descripcion><cantidad>2</cantidad><precioUnitario>6.85</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>13.7</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>13.7</baseImponible><valor>2.06</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>JERFOR0035</codigoPrincipal><descripcion>JERINGUILLA LUER LOCK 20CC 21G X 1 1/2 FORTUNE MEDICAL</descripcion><cantidad>500</cantidad><precioUnitario>.108</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>54</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>54</baseImponible><valor>8.1</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>JERFOR0002</codigoPrincipal><descripcion>JERINGUILLA LUER LOCK 50CC 21G X 1 1/2 FORTUNE MEDICAL</descripcion><cantidad>250</cantidad><precioUnitario>.278</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>69.5</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>69.5</baseImponible><valor>10.43</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ROSFOR0001</codigoPrincipal><descripcion>MASCARILLA DESCARTABLE ELASTICA FORTUNE MEDICAL</descripcion><cantidad>250</cantidad><precioUnitario>.027</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>6.75</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>6.75</baseImponible><valor>0</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Direccion">El Constitucional Y El Universo</campoAdicional><campoAdicional nombre="Telefono">0995144084</campoAdicional></infoAdicional><ds:Signature Id="Signature381793" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo320162">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID519983" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature381793-SignedProperties1035038">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CPXUr8BPAgULfoktYCAjd83lrzY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1615955">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>wsO5iT+tZrTPYTlOeG6DuwRRpR4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-53389" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>YhmRxebFscZqo8EwdN3ROHTM8D0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue163203">
+Ck4Ra44k+akmLSpAbzOTpgDEUzGRZNzCR9OgD8kkJld2URXAtL4EvHzKk1NQb2krHTVIg1dimgLD
+cUOR5wkOu+XiQcPLrd1k1FIuRqi6BfpyHbfr2sw9r5yP6K4M73QMaU8zxBLqmThR04VBsjyicQfD
+5H0tn0r2FPbixe1KSX/UXPG50nJ/BvVP/9YAjQYxoI3/sHXC/ERxbs5u9TMcdHVgR6EinYmd/gV6
+d+c8XqPu8SnNOhjASeSp/c+SvCl3mlndR1BFL4rRSDWbdkYEh0MCGV325IkK+LrQme94zCzgkZ04
+mPWQYfmiDnWMPMsRrv0Fn18ujdpSxdyoLkQlvg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1615955">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJQjCCCCqgAwIBAgIFAMICgrowDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI1
+MTAyNDE3NDkxMloXDTI2MTAyNDE3NDkxMlowgZ4xCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEmMCQGA1UEAwwd
+TFVJUyBJVkFOIFFVSU5UQU5JTExBIENIRVJSRVoxKjAoBgkqhkiG9w0BCQEWG2dlcmVuY2lhQHN5
+ZHF1aW50YW5pbGxhLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKO/os+pCiDO
+mg2Hy6GAGQ9h5RW7HxIJF3ymSIUJIAys/prZWlzSQxJz+qnJJUcfJ2vz3UKOygVxHK15Hks/n6Bz
+taVlI22G6HXi4ksHGZctOZac2Qzz/8eT7Oi6hs/n3BjyanNUuZ3JpoDfMsHLjK6Q48pH9S5NUheZ
+p8KJZxkRVcAQ9XMoT+++NZg/LQaJ2PXoruLRF8j87MeQjZHyvzd0Jhyuvan2QKNLL+aYskzhm9iW
+iqq2/FY8PEtFJ9w1jzcdZd0B4turPlD1O+uk/ShbrYzPbqVXB8amLELid16oXOwptE8bteBT9oZa
+1lpw+gTqs/dHrWkGCaZBwFvgjy0CAwEAAaOCBdswggXXMBoGCisGAQQBg892AwEEDAwKMDEwMjAz
+MjM4MDAZBgorBgEEAYPPdgMCBAsMCUxVSVMgSVZBTjAbBgorBgEEAYPPdgMDBA0MC1FVSU5UQU5J
+TExBMBcGCisGAQQBg892AwQECQwHQ0hFUlJFWjAXBgorBgEEAYPPdgMFBAkMB0dFUkVOVEUwdwYK
+KwYBBAGDz3YDBwRpDGdDYWxsZTogQVJaT0JJU1BPIE1BQ0hBRE8gTsODwrptZXJvOiAxLTgxIElu
+dGVyc2VjY2nDg8KzbjogQVJaT0JJU1BPIFNFUlJBTk8gUmVmZXJlbmNpYTogSlVOVE8gQSBQUk9K
+QVNBMBoGCisGAQQBg892AwgEDAwKMDk4NjQxMzM3MTAWBgorBgEEAYPPdgMJBAgMBkN1ZW5jYTAX
+BgorBgEEAYPPdgMMBAkMB0VDVUFET1IwHQYKKwYBBAGDz3YDCwQPDA0wMTkwMTY3NjA3MDAxMEgG
+CisGAQQBg892AwoEOgw4U1VNSU5JU1RST1MgWSBESVNUUklCVUNJT05FUyBJVkFOIFFVSU5UQU5J
+TExBIENJQS4gTFREQS4wDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUz4+/jQgcS7VypJ45T8dz2q/Y
+oJcwHwYDVR0jBBgwFoAU7XZIsArxyYaGDExGZNIG+MzVvT4wDgYDVR0PAQH/BAQDAgXgMDoGA1Ud
+HwQzMDEwL6AtoCuGKWh0dHA6L2VuZXh0Mi54eXovTGF6emF0ZUNBMi9lbWlzb3JDQTIuY3JsMIIB
+hAYDVR0gBIIBezCCAXcwfAYKKwYBBAGDz3YCAjBuMGwGCCsGAQUFBwICMGAaXkVsIHByZXNlbnRl
+IGNlcnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3Vy
+aWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wgfYGCSsGAQQBg892AjCB6DBsBggrBgEFBQcCAjBg
+Gl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610
+aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMHgGCCsGAQUFBwICMGwaakVs
+IHByZXNlbnRlIGNlcnRpZmljYWRvIHN1Ym9yZGluYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxh
+cyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wggG+BgNVHREE
+ggG1MIIBsaAaBgorBgEEAYPPdgMBoAwMCjAxMDIwMzIzODCgGQYKKwYBBAGDz3YDAqALDAlMVUlT
+IElWQU6gGwYKKwYBBAGDz3YDA6ANDAtRVUlOVEFOSUxMQaAXBgorBgEEAYPPdgMEoAkMB0NIRVJS
+RVqgFwYKKwYBBAGDz3YDBaAJDAdHRVJFTlRFoHMGCisGAQQBg892AwegZQxjQ2FsbGU6IEFSWk9C
+SVNQTyBNQUNIQURPIE7Dum1lcm86IDEtODEgSW50ZXJzZWNjacOzbjogQVJaT0JJU1BPIFNFUlJB
+Tk8gUmVmZXJlbmNpYTogSlVOVE8gQSBQUk9KQVNBoBoGCisGAQQBg892AwigDAwKMDk4NjQxMzM3
+MaAWBgorBgEEAYPPdgMJoAgMBkN1ZW5jYaAXBgorBgEEAYPPdgMMoAkMB0VDVUFET1KgHQYKKwYB
+BAGDz3YDC6APDA0wMTkwMTY3NjA3MDAxoEgGCisGAQQBg892AwqgOgw4U1VNSU5JU1RST1MgWSBE
+SVNUUklCVUNJT05FUyBJVkFOIFFVSU5UQU5JTExBIENJQS4gTFREQS4wPAYIKwYBBQUHAQEEMDAu
+MCwGCCsGAQUFBzABhiBodHRwOi8vZW5leHQyLnh5ejo4Nzc3L2Fkc3Mvb2NzcDANBgkqhkiG9w0B
+AQsFAAOCAQEAyFmYvsFl7e8F/+zNz9bPa6cT2E8/e30tH0daqlpOVJbct2oOflKkeyXK7YnGzZEe
+ETp24D0AZK0GSMjohFEa2PU43f/5PMECNX4t1qNlEKBHN63CgL6Db9nN/KAU0Zr5cxIuYkzwJaSU
+3W6+IJ/lRZaRnwWopRM7C525O9jUc6dxID2q29nD1to4XFmNjt3JaF9RPC85vF0WXvl4X+oA9Fn8
+vUhsSmIitFNZuE7vw7XMbFpx+L06ln66syNLhQ7fYtjipDi/oxTG8ROoa5GJzOmH7YSp3FpvTJZ1
+lDv+PfanmuRZi5wu57pUEDmmZwW3sIajEqv7kx/ptC+7LLjvLg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+o7+iz6kKIM6aDYfLoYAZD2HlFbsfEgkXfKZIhQkgDKz+mtlaXNJDEnP6qcklRx8na/PdQo7KBXEc
+rXkeSz+foHO1pWUjbYbodeLiSwcZly05lpzZDPP/x5Ps6LqGz+fcGPJqc1S5ncmmgN8ywcuMrpDj
+ykf1Lk1SF5mnwolnGRFVwBD1cyhP7741mD8tBonY9eiu4tEXyPzsx5CNkfK/N3QmHK69qfZAo0sv
+5piyTOGb2JaKqrb8Vjw8S0Un3DWPNx1l3QHi26s+UPU766T9KFutjM9upVcHxqYsQuJ3Xqhc7Cm0
+Txu14FP2hlrWWnD6BOqz90etaQYJpkHAW+CPLQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature381793-Object673164"><etsi:QualifyingProperties Target="#Signature381793"><etsi:SignedProperties Id="Signature381793-SignedProperties1035038"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-10T16:05:58-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Y2k9tDaWRMiS1ruRrHraeTKh89E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254944442</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-53389"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

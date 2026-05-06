@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1604202601092549880000120010030000001861236987419</numeroAutorizacion>
+<fechaAutorizacion>2026-04-16T10:00:17-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial> SANCHEZ FABRE RICARDO VALERIANO </razonSocial>
+<ruc>0925498800001</ruc>
+<claveAcceso>1604202601092549880000120010030000001861236987419</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>003</ptoEmi>
+<secuencial>000000186</secuencial>
+<dirMatriz>GUAYAS / DAULE / LA AURORA (SATÉLITE) / PRIMERA SOLAR 04 Y ENTRADA URB VILLAS DEL REY</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>16/04/2026</fechaEmision>
+<dirEstablecimiento>GUAYAS / DAULE / LA AURORA (SATÉLITE) / PRIMERA SOLAR 04 Y ENTRADA URB VILLAS DEL REY</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>SALINAS ELIZALDE JUAN CARLOS</razonSocialComprador>
+<identificacionComprador>0929761104</identificacionComprador>
+<totalSinImpuestos>13.05</totalSinImpuestos>
+<totalDescuento>0.0000</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<descuentoAdicional>0</descuentoAdicional>
+<baseImponible>13.05</baseImponible>
+<valor>1.96</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>15.01</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>15.01</total>
+<plazo>0</plazo>
+<unidadTiempo>DIAS</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>2509280432</codigoPrincipal>
+<codigoAuxiliar>2509280432</codigoAuxiliar>
+<descripcion>SERVICIO LAVADA Y GRAFITO COMPLETO </descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>13.050000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>13.05</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>13.05</baseImponible>
+<valor>1.96</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Email">juancarlos@gmail.com</campoAdicional>
+<campoAdicional nombre="Direccion">villa del rey </campoAdicional>
+<campoAdicional nombre="Telefono">0963107183</campoAdicional>
+<campoAdicional nombre="Vendedor">Wladimir Vera</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature340096">
+<ds:SignedInfo Id="Signature-SignedInfo588556">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID323526" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature340096-SignedProperties24632">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></ds:DigestMethod>
+<ds:DigestValue>Ohqw4aP0aKLLpYQmcnfnU0cfE2eDXms8Jrly7tLLNBw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate189317">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></ds:DigestMethod>
+<ds:DigestValue>+SHulJ5mHhibMrs5AmAMWTwYp44QJ6Zmg15/bNTtcyQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-910708" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></ds:DigestMethod>
+<ds:DigestValue>jl6K0OEhWYEWeW9pTpd+yILy8qE2vTqqMtUCY9IhHoI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue654191">
+j9KKGL5Lu2bAhkiX7TZgYOS/swi7DEqd1573nEpBvsaiU06KpIcmYGaxQJ1wh9eaOre9aCcCtCFv
+r52wDZ4RkH+myBeQK+ZsKrgwr0pH04tS0qNkeXEtN+I0NQcgfUnCQSJS56/TDt9o1QPfE8JIZ6cc
+7QMQ7od295jDutXHXq425Z6foLQUI1W+v4qfZJbrcEfNfkKd98FPyJMRLQnvV2bmrQG+y8YtIOPo
+b7u1Ef+tRwehlremiQW7QC/kUdx3gxhfPCt7Ku5BYn3q6kvWolv3VXJRS40HaeyTOOXJFUhRp4a9
+hhrNpH6DbCTeL4WYqLsxLbjCxk/8KlO9yW4Pcg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate189317">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH9jCCBd6gAwIBAgIRAJK5YPbnxxOM67I41+bd0ccwDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNjA0MTQwMjUyMzdaFw0yNzA0MTQwMzUyMzdaMIHkMS0wKwYD
+VQQFEyRhNjg3NzQxMi0zOTA2LTRkMDktYjg3ZC03OTY1NjliODI3ZWMxLTArBgkqhkiG9w0BCQEW
+HmNvbnRhYmlsaWRhZEBtdW5kb21vdHJpeGVjLmNvbTEoMCYGA1UEAxMfUklDQVJETyBWQUxFUklB
+Tk8gU0FOQ0hFWiBGQUJSRTEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMRswGQYDVQQKExJGSVJNQVNFR1VSQSBTLkEuUy4xCzAJBgNVBAYTAkVDMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnvNicWpTkAEVy3OPHUzPtuAbiLpT+GKmarMFh/H8
+JM1cshJpnYPtAWaVSVx2xVdU2Y4uzOsYBaX5v1ajlHr6MaEuMsbBkxwioS1qVrzmaCEm9UCXipGh
+BK2p34dkHmUHlqwIKQwfDS1NptaZFF9oZPWA7joxwMK18kXOAZz9aujtLJzXgXIosAP12KBu33Q+
+Y/vFGqeMQw2FpzGH1Gdi9/ZfqNDaPWmPZtkud0XPAHK21LNyk+vcY3QtUIhWX937mLfSb6CaNBz1
+R0OWeL2Wci6LYLw2J6EKGU32k9i3HggV4kV4U6PotYCKz4fpHtdl6Mwio36VoOCZsWwU0Wo/gwID
+AQABo4ICwTCCAr0wCQYDVR0TBAIwADAfBgNVHSMEGDAWgBQTRpNoCa7XJIczRWMmd9+sXl6KUTAd
+BgNVHQ4EFgQUTxvuTJFMUC95bSvNq/U06x4Ia2IwWgYDVR0fBFMwUTBPoE2gS4ZJaHR0cDovL2Ny
+bC5maXJtYXNlZ3VyYWVjLmNvbS9jcmwvY2NjZTVhNGYtNmI2OC00NmZjLWE2MjAtNGFiY2M0YzRh
+NjkwLmNybDA5BggrBgEFBQcBAQQtMCswKQYIKwYBBQUHMAGGHWh0dHA6Ly9vY3NwLmZpcm1hc2Vn
+dXJhZWMuY29tMBoGCisGAQQBg955AwEEDBYKMDkyNTQ5ODgwMDAhBgorBgEEAYPeeQMCBBMWEVJJ
+Q0FSRE8gVkFMRVJJQU5PMBcGCisGAQQBg955AwMECRYHU0FOQ0hFWjAVBgorBgEEAYPeeQMEBAcW
+BUZBQlJFMFIGCisGAQQBg955AwcERBZCTEEgQVVST1JBIFNBVMlMSVRFIC8gUFJJTUVSQSBTT0xB
+UiAwNCBZIEVOVFJBREEgVVJCIFZJTExBUyBERUwgUkVZMBwGCisGAQQBg955AwgEDhYMNTkzOTgw
+NDY2MTEwMBUGCisGAQQBg955AwkEBxYFREFVTEUwEwYKKwYBBAGD3nkDDAQFFgNFQ1UwHQYKKwYB
+BAGD3nkDCwQPFg0wOTI1NDk4ODAwMDAxMIGcBgNVHSAEgZQwgZEwUAYLKwYBBAGD3nkCAQEwQTA/
+BggrBgEFBQcCARYzaHR0cHM6Ly9maXJtYXNlZ3VyYWVjLmNvbS9wb2xpdGljYXNfcGVyc29uYV9u
+YXR1cmFsMD0GCysGAQQBg955AgIBMC4wLAYIKwYBBQUHAgIwIAweQ2VydGlmaWNhZG8gZGUgUGVy
+c29uYSBOYXR1cmFsMA4GA1UdDwEB/wQEAwIF4DANBgkqhkiG9w0BAQsFAAOCAgEACLqRrEtWtzGP
+HJ69WNEYhKxj7n/PFB/MIJm3soWxMlUmExUJQayAKgaY/Jd35uvwx/FQuN21X6q4DtFZ4u9MnTfo
+WmI6HbGJzW2N9F14iUZTi7YYuPbNCRoQPu6x0vwPC2EohGsFRkWHdPLiq2Mkm9G/T6fNBTz2moHa
+nYZa9PF6OZmbA0rCRmzhVaTC2aq3NBoQ/MBgO7Q+He9fsFK9bKDjFqSDfGcqWFVit1GnDuYk325U
+Dk/iUzv7ajdgoXIVaEBlgecvRshQjTNVZL7FggdCBBtJzEXJwe6FUHIA7NuHXQ45u7Et0M7zIgPn
+Xjdv1tlG2FXPbVpSE2xYaqddpIxsHQnzozjDGuynyoyzfmJ0U/8lC3ckRSklGeNohRQ1b/HSv1kt
+a8P+yVUxpPI8NC9ZRV0ubiyjEsL59x4D6SzpKiah1UgNH2dSl9wCi8sCnfWrDH5N2BzXPVRlo704
+JbFtb36GWgf+bdlGI4FM6NFH+3LqjngN76TJjs7gmSOoKGR2LAFAnPkXk6T6liy8r9TTmgWo6wEW
+Fv6H4WzzuxGX+ivrB5Q5bQsupKkP3TubLmLh5FLr/FoBEpyIM22B8RtSNFuavJZSd8o8EaIjzeyy
++aWPSzjL/efzuf+yunlItmJcpRFvXjBz2AQ31whPpGZmCyOijUAeL2t5h+5uWxI=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nvNicWpTkAEVy3OPHUzPtuAbiLpT+GKmarMFh/H8JM1cshJpnYPtAWaVSVx2xVdU2Y4uzOsYBaX5
+v1ajlHr6MaEuMsbBkxwioS1qVrzmaCEm9UCXipGhBK2p34dkHmUHlqwIKQwfDS1NptaZFF9oZPWA
+7joxwMK18kXOAZz9aujtLJzXgXIosAP12KBu33Q+Y/vFGqeMQw2FpzGH1Gdi9/ZfqNDaPWmPZtku
+d0XPAHK21LNyk+vcY3QtUIhWX937mLfSb6CaNBz1R0OWeL2Wci6LYLw2J6EKGU32k9i3HggV4kV4
+U6PotYCKz4fpHtdl6Mwio36VoOCZsWwU0Wo/gw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature340096-Object42108"><etsi:QualifyingProperties Target="#Signature340096"><etsi:SignedProperties Id="Signature340096-SignedProperties24632"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-16T10:00:15-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></ds:DigestMethod><ds:DigestValue>67Ks4H9cW+l2PmEQNaHDHZBT4YdnrrYYFv+0Gkz3Qmk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>195029828976608295455946786138268488135</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-910708"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601099086547700120550020002772931234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T18:09:13-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>LIRIS S.A.</razonSocial><nombreComercial>LIRIS S.A.</nombreComercial><ruc>0990865477001</ruc><claveAcceso>1404202601099086547700120550020002772931234567811</claveAcceso><codDoc>01</codDoc><estab>055</estab><ptoEmi>002</ptoEmi><secuencial>000277293</secuencial><dirMatriz>GUAYAS / SAMBORONDON / LA PUNTILLA (SATELITE) / SOLAR 120</dirMatriz></infoTributaria><infoFactura><fechaEmision>14/04/2026</fechaEmision><dirEstablecimiento>AV. PUNTILLA INTERSECCION   AV. LA MODERNA KM2.5 CC MODERNA TOWN CENTER LOCAL 7</dirEstablecimiento><contribuyenteEspecial>2239</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MIGUEL ANGEL JARA ITURRALDE</razonSocialComprador><identificacionComprador>0923295786001</identificacionComprador><direccionComprador>NO REGISTRADA</direccionComprador><totalSinImpuestos>48.41</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>29.71</baseImponible><tarifa>0.00</tarifa><valor>0.00</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>18.70</baseImponible><tarifa>15.00</tarifa><valor>2.81</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>51.22</importeTotal><moneda>Dolar</moneda><pagos><pago><formaPago>01</formaPago><total>51.22</total><plazo>0</plazo><unidadTiempo>DÍA</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>PG-AB-013337</codigoPrincipal><codigoAuxiliar>7861000269865</codigoAuxiliar><descripcion>HUEVOS CRIOLLO YERBA BUENA 12 UND</descripcion><cantidad>1.000000</cantidad><precioUnitario>4.400000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.40</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>4.40</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-025865</codigoPrincipal><codigoAuxiliar>7862126491277</codigoAuxiliar><descripcion>YOGURT GRIEGO FRUTOS ROJOS KAARU KIDS 110 GR</descripcion><cantidad>4.000000</cantidad><precioUnitario>1.260000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>5.04</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>5.04</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-021154</codigoPrincipal><codigoAuxiliar>2103748000000</codigoAuxiliar><descripcion>FRUTILLA  250GR</descripcion><cantidad>1.000000</cantidad><precioUnitario>1.100000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.10</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>1.10</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-023572</codigoPrincipal><codigoAuxiliar>7861213600424</codigoAuxiliar><descripcion>UVA ROSADA SIN SEMILLA BANDEJA 250GR CAJA 20 UNIDADES</descripcion><cantidad>1.000000</cantidad><precioUnitario>2.500000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.50</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>2.50</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-017286</codigoPrincipal><codigoAuxiliar>658480001101</codigoAuxiliar><descripcion>GALLETA LIGHT MAIZ HORNEADAS SALMAS 144 GR</descripcion><cantidad>1.000000</cantidad><precioUnitario>2.660000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.66</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2.66</baseImponible><valor>0.40</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-022466</codigoPrincipal><codigoAuxiliar>7862119180195</codigoAuxiliar><descripcion>YOGURT GRIEGO MORA NATURISSIMO MORA 150 GR</descripcion><cantidad>2.000000</cantidad><precioUnitario>1.920000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.84</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>3.84</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-012742</codigoPrincipal><codigoAuxiliar>7861030800274</codigoAuxiliar><descripcion>MANTEQUILLA FRIA CON SAL GONZALEZ 100 GR</descripcion><cantidad>1.000000</cantidad><precioUnitario>1.100000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.10</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.10</baseImponible><valor>0.17</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-015588</codigoPrincipal><codigoAuxiliar>7861042119425</codigoAuxiliar><descripcion>DESINFECTANTE DE FRUTA Y VERDURAS KILOL</descripcion><cantidad>1.000000</cantidad><precioUnitario>2.040000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.04</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>2.04</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-003112</codigoPrincipal><codigoAuxiliar>7861035520061</codigoAuxiliar><descripcion>AVENA HOJUELAS QUAKER 250 GR</descripcion><cantidad>1.000000</cantidad><precioUnitario>0.730000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.73</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>0.73</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-014205</codigoPrincipal><codigoAuxiliar>7861000113885</codigoAuxiliar><descripcion>QUESO FRESCO LA CHONTA 500 GR</descripcion><cantidad>1.000000</cantidad><precioUnitario>4.840000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.84</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>4.84</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-012631</codigoPrincipal><codigoAuxiliar>2102132000000</codigoAuxiliar><descripcion>MANZANA VERDE LB</descripcion><cantidad>0.930000</cantidad><precioUnitario>1.350000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.26</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>1.26</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-006554</codigoPrincipal><codigoAuxiliar>2104945000000</codigoAuxiliar><descripcion>BANANA LB</descripcion><cantidad>2.850000</cantidad><precioUnitario>0.550000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.57</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>1.57</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-019398</codigoPrincipal><codigoAuxiliar>2103521000000</codigoAuxiliar><descripcion>PLATANO MADURO LB</descripcion><cantidad>3.920000</cantidad><precioUnitario>0.610000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.39</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>2.39</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-026703</codigoPrincipal><codigoAuxiliar>7702425549722</codigoAuxiliar><descripcion>PAÑAL HUGGIES ACTSEC XXG X40 LIMITED</descripcion><cantidad>1.000000</cantidad><precioUnitario>13.210000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>13.21</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>13.21</baseImponible><valor>1.98</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>PG-AB-018299</codigoPrincipal><codigoAuxiliar>7862100720041</codigoAuxiliar><descripcion>AGUA SIN GAS NATURAL SPLENDOR 5 LT</descripcion><cantidad>1.000000</cantidad><precioUnitario>1.730000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.73</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.73</baseImponible><valor>0.26</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Condición de Pago">_</campoAdicional><campoAdicional nombre="Dirección">CDLA. SAN GERONIMO MZ.138 SOL.14</campoAdicional><campoAdicional nombre="Teléfono">09-900925962</campoAdicional><campoAdicional nombre="Email">ARTEYARMONIA.ESCUELA@GMAIL.COM</campoAdicional><campoAdicional nombre="Referencia">-</campoAdicional><campoAdicional nombre="Tipo Contribuyente">GRANDE CONTRIBUYENTE según oficio N° NAC-GCFOIOC21-00001236-E del 30 de Abril del 2021</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature22172">
+<ds:SignedInfo Id="Signature-SignedInfo310304">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID636788" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature22172-SignedProperties765571">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>2HGOoDO3WmGwrQnipCj043OgNGQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1956196">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>UyMrcsm2U+p5in62/If/vaF0l+M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-637163" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rTbmUd31EzM2pVEsV6JmM9Cq3EM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue74842">
+Vk1v9EIpDgGSvyMvICu6RhkoCy7c8nBIj3xfxv4qGqQrdY0sBlRzPOlBFxs0ajPefltdgvtFhB+k
++xqq+zATK8bPLpt06iEhCY+7OIaYwGYTKUz6rigr+wJw90mHYpfvhGaeVNwUCx2zPqng1weX5xgm
+Ki0Ry0xXMVAHg87QLVDdlI5XnwUKyC2/qgHCJ81w4smOb21X7umw9wlc4LAGAdEjhkaX7vJdj7O8
+7hGZehbGacw/cwgoNdDXCDDWhw+ORk0eE5eFHVR1jUo78YmTYPGndNOvBG9v3xoKYovp/5x9vyEA
+6zQXlimlNNobyTLA9FwW46ro4lAlqarovj2UkA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1956196">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL0DCCCbigAwIBAgIEALbd7DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjExMDgxOTI5MzBaFw0yNzExMDgxOTI5MzBaMIGXMSAw
+HgYDVQQDDBdTQU5USUFHTyBKT1NFIFNBQUIgQURVTTEVMBMGA1UEBRMMMDgxMTIyMTQzOTEyMTAw
+LgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoM
+FFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAIeqY+g7C7Ytteskd0G+gtYw5/as45XqB7A4dYCd0/rKX7lbz5PpJRkxlUwOyyDX
+M2yFBADQNkMfmhre21x6qxyNP4csL6ISVv40CMBbeEmqXnSv9Hlm5RFSp2v5ExrSsO6yVVgD+1Z9
+y17j7svGa7rBO5pmxCISdhfgct4q+bJbe4dyuTsECnaR0S/hIf7l4guIM0bY/fnSzLpPEnHmSpdM
+dXodMPx2FUJwm2wsK0LgDdglxEghkq+EpDsPDdIZPBcjw1WzjRmEOidm5kXvJxh03tdC3YeoHtKx
+P4U9Bv64y54nxse0G9p5ex8aQS/PWfCfseLFxHfEn37LjSKn4PkCAwEAAaOCBx4wggcaMAwGA1Ud
+EwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBL
+MEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVi
+bGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNk
+Y2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNl
+MB0GA1UdEQQWMBSBEnNzYWFiQGxpcmlzLmNvbS5lYzCCARUGA1UdIASCAQwwggEIMGIGCisGAQQB
+gqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBl
+AHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYI
+KwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93
+bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmlj
+YWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRw
+Oi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3Nw
+ooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNF
+Q1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHB
+hoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmlj
+YXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9y
+Mi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2Nt
+ZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJ
+VFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNV
+UklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQoPXi0Z/gEZtqm24eA7kbRPOoxgzArBgNV
+HRAEJDAigA8yMDIyMTEwODE5MjkzMFqBDzIwMjcxMTA4MTkyOTMwWjALBgNVHQ8EBAMCBeAwHwYK
+KwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTA5Njk1OTE4
+MBsGCisGAQQBgqZyAwkEDQwLU0FNQk9ST05ET04wEQYKKwYBBAGCpnIDIgQDDAEuMBMGCisGAQQB
+gqZyAwcEBQwDMTIwMB0GCisGAQQBgqZyAwIEDwwNU0FOVElBR08gSk9TRTAfBgorBgEEAYKmcgMg
+BBEMDzAwMTAwMjAwMDI4NDE3MTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkM
+B0VDVUFET1IwFAYKKwYBBAGCpnIDAwQGDARTQUFCMBoGCisGAQQBgqZyAwoEDAwKTElSSVMgUy5B
+LjAdBgorBgEEAYKmcgMLBA8MDTA5OTA4NjU0NzcwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAUBgor
+BgEEAYKmcgMEBAYMBEFEVU0wGgYKKwYBBAGCpnIDCAQMDAowOTk5MTExMzk4MA0GCSqGSIb3DQEB
+CwUAA4ICAQBBEZYR2KRuyBzrJou8zBozjzWowp6J2JenzXQzxRxNQB2MVLlAXjUYI3PgXtV01iLJ
+8yuACcjrGf4cHAIHYFRnpz4a/Fxt2w0+XnZvp2i0q+gg8J5PJHopkcUwy37OlXT9NWxht25+GD0v
+kTHWuztxuVSXyk6nEKJUf4fROfQGTBKDlyF5tYLqa62pgFKeYEe2LKp+96FSdRM2eyqYk0sB/YGs
+tQy5ZtJTVCmgLZDHbF3p8+OP2NY4q2++ysulUdps/694VHmyRK6e7ml8DTPeBeTV2x3SWV2eHfxa
+h0tKNWa+6Y/amN3oND5ATxJi0Q8WVt3/0UXnkhDEGjbvnToDP07P6IKsYfOQGHEaruiJ0v0JhkC/
+tQnCHGGdxGqRR/GdTrq3dL6CHOH/P6qKsXF2JDlWqDo6Vuxm+wQ80A9J5h/c5Rnxq7CaID9sAWHB
+Kf8sFYgN/XEhuqeXdEhrwCBHOq1tw4Tg1GBNlBWcPu5wBe9ZIiFh+6fsqE7i5/n2FS2aQv4/rm12
+3li45k6Wg7K3GZ9d5qhQxEKcC3TmlAhvOXpwWzGsJIpei05kAw6SxGwJSQBec0289i7RmFtU7VL7
+vkeXqRRQFBw1REY8L3bBO8EcbO0vbRTikUny9+P9hisu6E6AIt/WtHW+MoDF92sRt9gX6JXeqObH
+06ZSSb7Dpg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+h6pj6DsLti216yR3Qb6C1jDn9qzjleoHsDh1gJ3T+spfuVvPk+klGTGVTA7LINczbIUEANA2Qx+a
+Gt7bXHqrHI0/hywvohJW/jQIwFt4SapedK/0eWblEVKna/kTGtKw7rJVWAP7Vn3LXuPuy8ZrusE7
+mmbEIhJ2F+By3ir5slt7h3K5OwQKdpHRL+Eh/uXiC4gzRtj9+dLMuk8SceZKl0x1eh0w/HYVQnCb
+bCwrQuAN2CXESCGSr4SkOw8N0hk8FyPDVbONGYQ6J2bmRe8nGHTe10Ldh6ge0rE/hT0G/rjLnifG
+x7Qb2nl7HxpBL89Z8J+x4sXEd8SffsuNIqfg+Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature22172-Object501770"><etsi:QualifyingProperties Target="#Signature22172"><etsi:SignedProperties Id="Signature22172-SignedProperties765571"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T18:08:52-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>37Ma+DgWlo5l5EZuY4ZIPkBQQYo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>11984364</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-637163"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601099291620600120010020001422190014414716</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T10:21:36-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>SAILORCOFFEE S.A.</razonSocial>
+	    <nombreComercial>SAILORCOFFEE S.A.</nombreComercial>
+	    <ruc>0992916206001</ruc>
+	    <claveAcceso>0604202601099291620600120010020001422190014414716</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000142219</secuencial>
+	    <dirMatriz>C C LAS TERRAZAS LOCAL 8, KM 1,5 VÍA SAMBORONDON</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>06/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>C C LAS TERRAZAS LOCAL 8, KM 1,5 VÍA SAMBORONDON</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>BELGICA LOAIZA SUAREZ</razonSocialComprador>
+	    <identificacionComprador>0950045922001</identificacionComprador>
+		<direccionComprador>SAMANES 4</direccionComprador>
+	    
+	    <totalSinImpuestos>6.72000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>6.72</baseImponible>
+				<valor>1.01000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0.67000</propina>
+	    <importeTotal>8.40000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>8.40</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>CAPPU</codigoPrincipal>
+		<codigoAuxiliar>CAPPU</codigoAuxiliar>
+      	<descripcion>Cappuccino</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.880000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.88</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.88000</baseImponible>
+          <valor>0.43</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>Caramel iced latte</codigoPrincipal>
+		<codigoAuxiliar>Caramel iced latte</codigoAuxiliar>
+      	<descripcion>Caramel iced latte</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.840000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.84</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.84000</baseImponible>
+          <valor>0.58</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA.</campoAdicional>
+    		
+    			<campoAdicional nombre="Mesa">10</campoAdicional>
+    		
+    			<campoAdicional nombre="Mesero">Fernanda Villegas</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature609484">
+<ds:SignedInfo Id="Signature-SignedInfo435213">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID432087" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature609484-SignedProperties56295">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0Xmv9m1IG+0s/OWMh2tvGCsgAoA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate158879">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5niHZ4o97UQgLFOHat2aPIEZIyw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-478912" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>SM4kEZ69e0eAC5jAjzV3LBJg9Lw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue24861">
+bA3e738zoBrDUwS8GPwgurxntUDOck6EM/WNorJTjgvCKOiN/bm9ciCDFYk7g8N1k5Jfrz6boReI
+sh2/bBkOUCYYo7YXcMELzoO9l9fyiXtpLHg1RBsINnBEKz0sPAySfjG02l9iBkUd8jRSkDcd2VJt
+HoHprEs3pHFGP8hjQZS2uT6eCu/1kXt7dont93LoJs6kCqLQZW0Ni2dMfr6LdWj+3+tZAMbaDJps
+Mms5mP5fjXDMVU1VgdOZIopsVx2/J/usQSQs83JEzqfMTl0dfrb8Izc4nKVQyG5lFZpIEuf+UzFG
+gMEBzBa/9janXLpwTxrArmD249tfqaBHOreJrw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate158879">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMJzCCCg+gAwIBAgIEStQhXDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTExMDUxMzUzMjZaFw0yNjExMDUxMzUzMjZaMIGkMS0w
+KwYDVQQDDCRDQVJNRU4gTUFSSUEgVkVST05JQ0EgT1JUSVogSEVSQkVORVIxFTATBgNVBAUTDDA1
+MTEyMTA5MDMxOTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCjz05JofgxCRhl1fj4Kln9PXPZy9UZb8sKEiuoZ6dlOgRV
+9uWXrEPF2EQTPpI+b790XWMXTL/CjTPMzrBa1PXaTZPzcGumsMOws+7X6pYTILV8adicyTcUETed
+pGOniuCj2bpsQ0Sfk9xGxJzHmvWJLDgVtQiLDrhYQeSHp4CvkRuPHRwaJEkiP/IFmEQZZDvVea2k
+y8vmHCQgo+l6Dsf5Xt9kjkwU/zFHrE7XspxJK/9+nfbvauvb8tzrX/7VIuUHYNxCQTbnM3bMSrAB
+d1gNFByz5TDXWgzBdTnA4nxyusvzUuf3A2s89589ZWhjSq/vRFN8fL/j3rntycQ6ldNlAgMBAAGj
+ggdoMIIHZDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkG
+CCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4
+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTAkBgNVHREEHTAbgRlzYWlsb3Jjb2ZmZWVneWVAZ21haWwuY29tMIIBFQYD
+VR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBp
+AGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGh
+BgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Q
+b2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8E
+ggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9w
+dWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEL
+MAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9V
+PUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEg
+Uy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0
+cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2Vi
+L3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFKscLF1Z
+3mOuRKIVOnHmqWSztF0nMCsGA1UdEAQkMCKADzIwMjExMTA1MTM1MzI2WoEPMjAyNjExMDUxMzUz
+MjZaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMFBAwMClBSRVNJREVOVEUwGgYKKwYBBAGCpnID
+AQQMDAowOTA5NTY4OTY2MBsGCisGAQQBgqZyAwkEDQwLU0FNQk9ST05ET04wEQYKKwYBBAGCpnID
+IgQDDAEuMEcGCisGAQQBgqZyAwcEOQw3QyBDIExBUyBURVJSQVpBUyBMT0NBTCA4IFkgS00gMSBZ
+IE1FRElPIFZJQSBTQU1CT1JPTkRPTjAlBgorBgEEAYKmcgMCBBcMFUNBUk1FTiBNQVJJQSBWRVJP
+TklDQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDE2MDEyMzATBgorBgEEAYKmcgMhBAUMA1BG
+WDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFQYKKwYBBAGCpnIDAwQHDAVPUlRJWjAhBgorBgEE
+AYKmcgMKBBMMEVNBSUxPUkNPRkZFRSBTLkEuMB0GCisGAQQBgqZyAwsEDwwNMDk5MjkxNjIwNjAw
+MTASBgorBgEEAYKmcgMdBAQMAk5vMBgGCisGAQQBgqZyAwQECgwISEVSQkVORVIwGgYKKwYBBAGC
+pnIDCAQMDAowOTg0MTUwNTQyMA0GCSqGSIb3DQEBCwUAA4ICAQByeZ68SMw90FcjwW/8Sqcp8it/
+olTCPBIoAHuaeQnYLHEOp+kYmnE+w/9X2DNTSbVXR4DKGruR+fNgEBv/86BLCJDwoWBbej+C7DVK
+2L21WqUTQcGHllxzvHjenEe79ysNtreSqNuRww2OH39D13whwemg15uE0NJzcDUe6fSobeVKJo4b
+WFGhChTLSd4Z1hmH2kJZzOM/l0Dp2Y1H7+nweCIHJQfB4Vge19qJSgHWAteE1p5aleKKsrdF4eEC
+iX5etT2yG2s582fvUKxpKWiFKxkfOsqYML4FPTzUjLrukuTQNGi9Q+AGhmesxbjfTFhxgwa5ZTom
+B6+El7N6snv175gSmw/XQZB/Y5ihCUnMxjd30YBI1pcN57O5ijArhIo8MWwqybEGLLr4IesS/ERj
+LCvsDHqwn22uCDwvGpbMRkQxZetG11wVXt5PkXSj9wfouEmTMDE3aakJfxPo3Btw1hx/RZ+1RTgv
+QU4V9OJsVuFsOMtbZQqUH8Huqm/lGglZAvFc9UvMoKYgL2JDXWQemnCNwk4KtLOreYpdkbHtlcjc
+ppYiGtGFDCqRSMWarpwiUdOT5hd8K2AwOl8PiVOggb3CBPL6By+2l1mR0kDyOWLP6kyXetQaYTB3
+GDfB3ahKMFTwgLQwK3kcbD/8M7nwUiqeSGvOTueIbWIXWd0LoQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+o89OSaH4MQkYZdX4+CpZ/T1z2cvVGW/LChIrqGenZToEVfbll6xDxdhEEz6SPm+/dF1jF0y/wo0z
+zM6wWtT12k2T83BrprDDsLPu1+qWEyC1fGnYnMk3FBE3naRjp4rgo9m6bENEn5PcRsScx5r1iSw4
+FbUIiw64WEHkh6eAr5Ebjx0cGiRJIj/yBZhEGWQ71XmtpMvL5hwkIKPpeg7H+V7fZI5MFP8xR6xO
+17KcSSv/fp3272rr2/Lc61/+1SLlB2DcQkE25zN2zEqwAXdYDRQcs+Uw11oMwXU5wOJ8crrL81Ln
+9wNrPPefPWVoY0qv70RTfHy/49657cnEOpXTZQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature609484-Object575387"><etsi:QualifyingProperties Target="#Signature609484"><etsi:SignedProperties Id="Signature609484-SignedProperties56295"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T10:21:34-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>++C0s+w219LwLyPPWgbmbesmqhU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>1255416156</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

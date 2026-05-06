@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0904202601091426728100120020010000019389846951119</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T16:10:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>Ernestina Josefina Pico Granda</razonSocial>
+    <nombreComercial>Ernestina Josefina Pico Granda</nombreComercial>
+    <ruc>0914267281001</ruc>
+    <claveAcceso>0904202601091426728100120020010000019389846951119</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000001938</secuencial>
+    <dirMatriz>Chimborazo 611 y 10 de agosto   /  /  /</dirMatriz>
+    <contribuyenteRimpe>CONTRIBUYENTE NEGOCIO POPULAR - RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>09/04/2026</fechaEmision>
+    <dirEstablecimiento>Chimborazo 611 y 10 de agosto</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>FERNANDEZ ESCALANTE ERIKA FABIOLA</razonSocialComprador>
+    <identificacionComprador>0920196813</identificacionComprador>
+    <direccionComprador>CALLE D ESTE #513 Y NOVENA - ONCEAVA, TARQUI</direccionComprador>
+    <totalSinImpuestos>8.70</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>8.70</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>8.70</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>8.70</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>55666</codigoPrincipal>
+      <descripcion>ROSARIO PLASTICO</descripcion>
+      <cantidad>12.000000</cantidad>
+      <precioUnitario>0.350000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>4.20</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>IO74</codigoPrincipal>
+      <descripcion>LLAVERO IMAGEN</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>1.500000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>4.50</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">CALLE D ESTE #513 Y NOVENA - ONCEAVA, TARQUI</campoAdicional>
+    <campoAdicional nombre="TELEFONO">-</campoAdicional>
+    <campoAdicional nombre="EMAIL">erikaf89@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1037224">
+<ds:SignedInfo Id="Signature-SignedInfo899597">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID465869" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1037224-SignedProperties439437">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>rstdJNOeVHbbqVb7/aQttf2Onig=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1167809">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>SnupaNoO5wp949h1/se5/TXLO4Q=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-200434" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>drKAMxdhta5rNYfm5bIzMwmc+HQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue50301">
+nzWG6H3wybdeAXmj9zQ+Os6zHj8ywBpktvscKCRxmLH7lO3d2j2crcFEUTsUl8WyLENyjcPaTnUX
+FBkIyh5FJYr1znCoyLHWFVqnOGxnkig/uClPlDeKDnkESqdLUO9BM0G+mrDE46q3IBygk/ZM0/oh
+1fdumtSfWEzDY40rf0X16/Wx2+r31w4hwQY7APMzaDog6OsOlxHqy41RMwtgGKawUaKEmJA9ZTKi
+sbTagk7nUfatYdeBpk9fN7xX7DP/6lwFTr9501YWTqtQOB3JSI7FZjMpHHjV1Mfnzvs8h633/hNX
+JCgGdWnBlch8xAAOldPCiONhcB1gcHuylV8FRQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1167809">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJKjCCBxKgAwIBAgIIQpcDmRoYdPQwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI2MDIyNTE5NDQwMFoXDTI3MDIyNTE5NDQwMFowgaIxCzAJBgNVBAYTAkVDMRQwEgYDVQQEDAtQ
+SUNPIEdSQU5EQTEbMBkGA1UEKgwSRVJORVNUSU5BIEpPU0VGSU5BMRkwFwYDVQQFExBJRENFQy0w
+OTE0MjY3MjgxMScwJQYDVQQDDB5FUk5FU1RJTkEgSk9TRUZJTkEgUElDTyBHUkFOREExHDAaBgNV
+BGEME1RJTkVDLTA5MTQyNjcyODEwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDG
+ZKQlJzMELr5RLAUDGSShGRNIXltDpUCrwzqCeME+cY80WWt9XcROryPCLaOw/vGjVA0hkJ5xR48I
+PONxPo4RdMCINqEMzcg8xDoTSYdkM8qqseRxlUaH3FmpisX2liP39ME3tv9BW6V8RKxYsuM03jYi
+beODF2if6fr5ltkUNJBfizzkFNn/7DqFEiUNOVIOr8/T4c1nCf73sRcL/7N/E4/sN3MbkpUuwsXb
+aDsgAhfEvbVMBRjVbv630L2665W8OJIlI4oJG0JjBV5r2iQjIYOzaNrB2DyOfUwte5+jrKJtUcjj
+mQEARSwjPl0a4SEP9JNdmUO18VaIA4RtCssTAgMBAAGjggRKMIIERjAbBgsrBgEEAYLxNmYDAQQM
+DAowOTE0MjY3MjgxMB4GCysGAQQBgvE2ZgMLBA8MDTA5MTQyNjcyODEwMDEwgdcGCCsGAQUFBwEB
+BIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxv
+YWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTIuY3J0MDYGCCsGAQUFBzABhipodHRwOi8v
+b2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9v
+Y3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUHEHUBG1DwaZd14l/
+/MytaMUtagIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCB
+kAYDVR0gBIGIMIGFMIGCBgwrBgEEAYLxNmYCAQEwcjA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA3BggrBgEFBQcCAjArDClDRVJUSUZJQ0FE
+TyBERSBQRVJTT05BIE5BVFVSQUwgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRw
+Oi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECg
+PqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5h
+ZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggGJ
+BgNVHREEggGAMIIBfIEXaXZhbm9ydGl6MTBAaG90bWFpbC5jb22gGwYLKwYBBAGC8TZmAwGgDAwK
+MDkxNDI2NzI4MaAjBgsrBgEEAYLxNmYDAqAUDBJFUk5FU1RJTkEgSk9TRUZJTkGgFQYLKwYBBAGC
+8TZmAwOgBgwEUElDT6AXBgsrBgEEAYLxNmYDBKAIDAZHUkFOREGgOAYLKwYBBAGC8TZmAwegKQwn
+Q0hJTUJPUkFaTyA2MTEgWSAxMCBERSBBR09TVE8gICAvICAvICAvoB8GCysGAQQBgvE2ZgMIoBAM
+DjAwNTkzOTk3MzkxNzc5oBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAeBgsrBgEEAYLxNmYD
+C6APDA0wOTE0MjY3MjgxMDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoM
+GFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqG
+SIb3DQEBCwUAA4ICAQAF0PTofyAp31merT8gre+4kCZqTEPqzo0BdfRwfUinRndYSPjET1rgDm2O
+I6/tziM6piqiQFJuEoy7CJB2QhHcHWvkP5khDXPdT2PzmO5nWUfrhengXHqNSzYVKeZUnTlpjFXU
+G8NpdhLmqpvQLAeFeWvn3ymlLFulYl7OSYawP+yhgJA7ygLxpDbRbAqujH7FNICFhFq2CnsKm/ei
+8mi9qFykOAP/SXubWXlTFMJqqKHytjyI+BKAjlwo5Y2Z88GjKCu/tOO2Bya/ZGMb2sPI7o+LazSp
+YHeBwwQNf3Z/GMORgWDxKdCbgHFsNZXJVRkAxwkfnZqByE+rF5AttWlyrpZz0TO1lCyHsUX3A7Uj
+ru6EIF8r+GZdoad03ajPWgLu4lGW8RVtEkg7yJv+KuhvhViHKDa4ILY3oMAB+Yh7yynxAbXnP4sF
+hw7FGGaKE8Sp5B8ZvkN3QBOzhaBYzgWeWwTPYP6JS0RyA9LXZnM9jyRt3zXb6b9V3/dqljz3TZLR
+ZzY7KbNCT69orfzXtUudECZHzfeMhskyXsB17VI9lKZiKUIOJ8dECJCA9BVBghVRgiUf3TjGK3TR
+1wmSvcuZRqXFtMCsXmSaT740bKW+i3Tx2Y5oKgHE80Bu7yLQUl/YgfY0MNGaMcHtkMlPaMCaXr5R
+oFAjDZedRSIBmX3Jpw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xmSkJSczBC6+USwFAxkkoRkTSF5bQ6VAq8M6gnjBPnGPNFlrfV3ETq8jwi2jsP7xo1QNIZCecUeP
+CDzjcT6OEXTAiDahDM3IPMQ6E0mHZDPKqrHkcZVGh9xZqYrF9pYj9/TBN7b/QVulfESsWLLjNN42
+Im3jgxdon+n6+ZbZFDSQX4s85BTZ/+w6hRIlDTlSDq/P0+HNZwn+97EXC/+zfxOP7DdzG5KVLsLF
+22g7IAIXxL21TAUY1W7+t9C9uuuVvDiSJSOKCRtCYwVea9okIyGDs2jawdg8jn1MLXufo6yibVHI
+45kBAEUsIz5dGuEhD/STXZlDtfFWiAOEbQrLEw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1037224-Object146254"><etsi:QualifyingProperties Target="#Signature1037224"><etsi:SignedProperties Id="Signature1037224-SignedProperties439437"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-09T16:10:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>IQpzQJVM1fYTXW+osdUmAhF2r+c=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>4798307884089242868</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-200434"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

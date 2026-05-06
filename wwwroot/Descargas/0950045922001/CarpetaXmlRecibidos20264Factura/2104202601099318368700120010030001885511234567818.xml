@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202601099318368700120010030001885511234567818</numeroAutorizacion>
+<fechaAutorizacion>2026-04-21T17:24:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PARTYLOVERS</razonSocial>
+    <nombreComercial>PARTYLOVERS</nombreComercial>
+    <ruc>0993183687001</ruc>
+    <claveAcceso>2104202601099318368700120010030001885511234567818</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>003</ptoEmi>
+    <secuencial>000188551</secuencial>
+    <dirMatriz>LOT. SENORA DE PAREJA, AV. FELIPE PEZO Y AV. 33 NE</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>21/04/2026</fechaEmision>
+    <dirEstablecimiento>Ave. Felipe Pezo</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>BELGICA ANDREA LOAIZA SUAREZ</razonSocialComprador>
+    <identificacionComprador>0950045922001</identificacionComprador>
+    <totalSinImpuestos>37.01</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>37.01</baseImponible>
+        <valor>5.55</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>42.56</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>42.56</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>2626109960212</codigoPrincipal>
+      <descripcion>PLATO BASE NEGRO FILO DOR NAV</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.173900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109960182</codigoPrincipal>
+      <descripcion>PLAT BASE VERD OSC FILO DOR OND</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.173900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109960199</codigoPrincipal>
+      <descripcion>PLATO BASE VINO ONDAS FILO DOR X50B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.956500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.96</baseImponible>
+          <valor>0.29</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109998000</codigoPrincipal>
+      <descripcion>BOTELLA VIDRIO  6.5x2 X12PCS /  X1200B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.260900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.26</baseImponible>
+          <valor>0.49</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>6692242716746</codigoPrincipal>
+      <descripcion>VASO 12OZ AMARILLO X10U X48B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.730400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.73</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.73</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>6692242716814</codigoPrincipal>
+      <descripcion>VASO 12OZ AZUL X10U X48B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.730400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.73</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.73</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>6692242717668</codigoPrincipal>
+      <descripcion>VASO 12OZ VERDE X10U X48B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.730400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.73</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.73</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109982849</codigoPrincipal>
+      <descripcion>SET COLLAR VERDE X6PCS    X200B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.165200</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109982825</codigoPrincipal>
+      <descripcion>SET COLLAR AZUL X6PCS / X200B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.165200</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109982955</codigoPrincipal>
+      <descripcion>VELA ENTORCHADAS DORADA  11CM    BX576</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.295700</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.30</baseImponible>
+          <valor>0.20</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109948852</codigoPrincipal>
+      <descripcion>SERVILLETA NEGRA MARMOL. X20PZS</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.776800</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.55</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.55</baseImponible>
+          <valor>0.53</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109983464</codigoPrincipal>
+      <descripcion>TOPPER H/BDAY DORADO XU/ B600</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.521700</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.52</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.52</baseImponible>
+          <valor>0.23</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7736443037299</codigoPrincipal>
+      <descripcion>GLOBO NUM MED 3 DORADO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.730400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.73</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.73</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7736443036810</codigoPrincipal>
+      <descripcion>GLOBO NUM MED 6 ROJO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.730400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.73</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.73</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109965286</codigoPrincipal>
+      <descripcion>CORTINA TINSEL DORADA GLITTER XU X600B</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.087000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109965163</codigoPrincipal>
+      <descripcion>CORTINA TINSEL NEGRA X600B</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.730400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.46</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.46</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>8679875901891</codigoPrincipal>
+      <descripcion>FRASCO VIDRIO CALAVERA 400ML</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.455400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.46</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.46</baseImponible>
+          <valor>0.37</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección:">SAMANES 4</campoAdicional>
+    <campoAdicional nombre="Telefono:">0959257691</campoAdicional>
+    <campoAdicional nombre="Vencimiento:">21-Abr-2026</campoAdicional>
+    <campoAdicional nombre="Vendedor:">ORTIZ CABELLO GENESIS JULIETH                                                                                                                                                                           </campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature52795" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo Id="Signature-SignedInfo72085"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID77640" URI="#Signature52795-SignedProperties68334" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>7M2IA0TPUUVCpwClRuTaeIdukiI=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate75671"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>vGgh5cHX2Q3FO354ALsvoHMKtHE=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-54556" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>l5QTfq/eGOFODNWG3dob8rUvwVM=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue77235">JE2zF8YXHzYI0CukbOyvP5kRYEYejpaWl8bdACM/HdFOCJmdy7zWUOTAkraRQKXLkuvHBh+zYA7/
+yKS0SMWjbjr/ZPXQiKJUFDqf17PXoX2wex5chkzaSxUbbUvyg9DD4QogV1jSfoZmsi6g5zw+30tr
+ndUMmIVcTzIFpp/42YRdWrpKziJ1Typ6xuTRdRJc7cHd+LmRE2zsN1UF0lfZlD5GdQ8zFfkoiJpj
+4w8+0Cjr924ElZ6gQ6J7ZO4jVMV4RwJocqLTBDxAZZ5G1vldtdAEzGBCs4MECkDLrdz28u4SoN3v
+RJBRLQQjTczgOIllJdF+IQl19BGgFODsvdZllQ==</ds:SignatureValue><ds:KeyInfo Id="Certificate75671"><ds:X509Data><ds:X509Certificate>MIILBTCCCO2gAwIBAgIIGqDAeK4fzvcwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMzAyMTU1MzA1WhcNMzEwMzAyMTU1MzA1WjCB
+qTEnMCUGA1UEAwweWEFWSUVSIExFT05BUkRPIEdSQU5EQSBRVUVaQURBMSAwHgYDVQQFExcwOTIz
+ODMzNTUyLTAyMDMyNjExMDI1NjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCTYZlmzVPNr2BfU5hdZNRhFKKQIpi7Gra3
+0JSBYJxYdaW0u639XRUZsUvCkFQkkAuDCKlCq3x19duy48vzRo7e3xAHneymMk1UPMB1w4LwvwHb
+g8EooO680m4gYG1p1J5dpISOotDW+zdtUf4XFAEb5JuB1Z9miBuHOB3bnJTbFsIomYKlhhp+9c+c
+fnVQSQae9euuOsWQIxeKWsU8UjyG2IqEfTO4VQ7UJaO6kpSXJKHHnnBBX5naPoyQH2BeAZtLajkz
+Rjmk7AqST2tJ1EO+T3N7tFgu8fvO4H5PP5DKmJB6UWftGaFry6iZgXiZsM8rprHpfMdqYPjIIfz3
+EtaFAgMBAAGjggY9MIIGOTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/
+ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAqBgNVHREEIzAhgR9jb250
+YWJpbGlkYWRAcGFydHlsb3ZlcnMuY29tLmVjMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnIC
+CTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcABy
+AGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEF
+BQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9h
+ZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8g
+UmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIC
+DwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1
+YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEL
+MAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2Ey
+Y3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwm
+aXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBE
+QVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBS4vaaqMPsiFquURm8p4MYBLtuhJDArBgNVHRAEJDAi
+gA8yMDI2MDMwMjE1NTMwNVqBDzIwMzEwMzAyMTU1MzA1WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGC
+pnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTIzODMzNTUyMEAGCisG
+AQQBgqZyAwkEMgwwR1VBWUFRVUlMIENBQkVDRVJBIENBTlRPTkFMIFkgQ0FQSVRBTCBQUk9WSU5D
+SUFMMBEGCisGAQQBgqZyAyIEAwwBLjA7BgorBgEEAYKmcgMHBC0MK0FWRSBGRUxJUEUgUEVaTyBT
+TCAxIFkgQVYgR1VJTExFUk1PIENVQklMTE8wHwYKKwYBBAGCpnIDAgQRDA9YQVZJRVIgTEVPTkFS
+RE8wHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDExMTU2NjcwEwYKKwYBBAGCpnIDIQQFDANQRlgw
+FwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGR1JBTkRBMB8GCisGAQQB
+gqZyAwoEEQwPUEFSVFlMT1ZFUlMgUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MzE4MzY4NzAwMTAR
+BgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdRVUVaQURBMBoGCisGAQQBgqZyAwgE
+DAwKMDk5NDM2ODUxOTANBgkqhkiG9w0BAQsFAAOCAgEAMSZPs3xijIGev8XeL7bEcZt3hYLe48Ph
+8ANyd6n+GvsKmoXKQesvoBQgJjS4Yrmzd9+jtMsQp0JVhp0Nbve70OQ0wwuDoNfdSz/GyCAkQAqq
+mHu3wWJ/qrOGVM3n77SVpXWoWr1xrQfKkvJaVo9mX6xxGujcVWZ1nG8tcmMibGFozSviPTRgSpA3
+VjFj9cFaYhKMKsr26l9ZjYW2WREg8CMCrftvflTTsY6UnD9f9Cic3dcuypTeadTVvHf+4pZacSUG
+5AYEwnUomUMytORZRGICYvAYCte/bErCedLvLnDTUbOIG95dBxiRT2rpLZoNzuzmk/RSGyqopAqf
+F3DH00vyzCS3kAvQpJYRX1cRI+UAq92Td+Fki7N8FpvTWd+v5zp33WlYu+RYtag86XSHDffaa/Qh
+hzMOOZCM+lhVZcsR6I2s7rAQaNvpMGr0g5lzV/0Jpf2rl6T0B17r7EurIiZNiJq3ooFTzotBemTC
+eRj3Pi6M4SUVxPCCPSW/v75F/4xIlqw8cAdzZ5XXBQ6rTq7HIP544MSoi7UE1g87V7sAYYrbdDqq
+QA3CQQoxZqQUu0bRFxr03gE72biqDQL1RrRi1hoMbMQiljr3BqHImHwLqqtHeGLaEGAwy3Weoi86
+bWeg8WhYIMZFLfPpz8SBjHjQL/5JJ3HpA051yLmBn5I=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>k2GZZs1Tza9gX1OYXWTUYRSikCKYuxq2t9CUgWCcWHWltLut/V0VGbFLwpBUJJALgwipQqt8dfXb
+suPL80aO3t8QB53spjJNVDzAdcOC8L8B24PBKKDuvNJuIGBtadSeXaSEjqLQ1vs3bVH+FxQBG+Sb
+gdWfZogbhzgd25yU2xbCKJmCpYYafvXPnH51UEkGnvXrrjrFkCMXilrFPFI8htiKhH0zuFUO1CWj
+upKUlyShx55wQV+Z2j6MkB9gXgGbS2o5M0Y5pOwKkk9rSdRDvk9ze7RYLvH7zuB+Tz+QypiQelFn
+7Rmha8uomYF4mbDPK6ax6XzHamD4yCH89xLWhQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature52795-Object67000"><etsi:QualifyingProperties Target="#Signature52795"><etsi:SignedProperties Id="Signature52795-SignedProperties68334"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-21T17:24:43</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>X40dWinuxnvrhEYtXOWts6xhU5w=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1918745065809759991</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-54556"><etsi:Description>Servicios IT, Luis Orellana Escalante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

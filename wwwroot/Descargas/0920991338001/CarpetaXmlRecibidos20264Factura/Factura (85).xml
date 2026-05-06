@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1904202601179819487500120010010000411930004119312</numeroAutorizacion>
+<fechaAutorizacion>2026-04-19T21:44:24-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>AGENCIA DE REGULACION Y CONTROL DE HIDROCARBUROS, ARCH</razonSocial>
+    <ruc>1798194875001</ruc>
+    <claveAcceso>1904202601179819487500120010010000411930004119312</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000041193</secuencial>
+    <dirMatriz>LA ARMENIA ESTADIO 10-285 MANUELA CAÑIZARES</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>19/04/2026</fechaEmision>
+    <dirEstablecimiento>SECTOR LA ARMENIA, CALLE ESTADIO 183 Y MANUELA CAÑIZARES  TEL. 023996500</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ABRIL TRIANA EDWIN RAUL</razonSocialComprador>
+    <identificacionComprador>0920991338001</identificacionComprador>
+    <totalSinImpuestos>1500.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>1500.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>1500.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>1500.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>13011222280221</codigoPrincipal>
+      <descripcion>Control Anual de Centros de Acopio de GLP en cilindros  (pago se establece por volumen total de despacho de la (s) comercializadora (s) GLP del año in</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1500.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1500.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1500.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">ND</campoAdicional>
+    <campoAdicional nombre="Teléfono">ND</campoAdicional>
+    <campoAdicional nombre="Email">raul-one85@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Nº de Depósito">48383045</campoAdicional>
+    <campoAdicional nombre="Fecha del depósito">27/03/2026 0:00:00</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature686504">
+<ds:SignedInfo Id="Signature-SignedInfo72906">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID433473" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature686504-SignedProperties102279">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>I6Jc4lGWBeFGfrqxrX9plrqc+Pg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1376308">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>rTWI7c6XnSCSSZdSEgIKGEgH9wc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-537441" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>J54/VHbizOAiMxxENf3KvnGgtgo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue173610">
+KA0bPInHKd8WMfG0v7h1h9lihxvnmKHyB5KA8dKlWHSdqJsEv0iLrVb+jO6B5zCSsswHAfj9Hts/
+w0w/HtFc5T9igNiwVyhqnv+uhBE/BoVB2E21eMXHQcFsairaaP0+2BWNrReRZIQiM78UIfDx+gkH
+RzZ6Vytf4gRKo3I2bNaZjmfr1DfJqVzIRWn1kVwvCqAp+/+0vDrKtksHIhis0wLbm2iro7lD1kM2
+KaXm2d+XX5BrXUqAe+hRc/AKxdnS7nbDbHrvVrw473zbdJwTon9VQubwlhjaradNyDu5ERHW1Ccu
+SVyjaV1j7sIstEXa2leZlyxtaOju4tqpnrbDmw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1376308">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKEDCCB/igAwIBAgIEZeZzozANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI1MDYwNDE4MDM1OVoXDTI3MDYwNDE4MzM1
+OFowgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE2MBEGA1UEBRMKMDIwMDA0ODcyMjAhBgNVBAMTGkVMU0EgVEFUSUFOQSBQ
+QVJFREVTIFBBUkRPMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuxcxGa4tzqzjWGDS
+9he79mQ1Sm4jADI1wxsA8mlxeROXSNgr6cdJNb2OC8ljMv5Oz7RQvF++5ub33+vpdLujAIx5alNO
+MuGMnBDCEbB9J+myrKwAlMjnuXsNH03NtJ38NDxK+t+kuvDf1t931vEaWT7mbjrdCGw5Zjyple6K
+CZRwvJGWawIZZQOe2hKs+wTcdmywsoMm43vh6LNzc2uk7KztR/yDjfMrpOS3tzMFwoblct1lxQa5
+1hJkA0JOnqmzgHa3mr3vX7HGiyBvABPcQSsBoLoEkrnnh5/IvVHvaFHLmrwiSF0VB/OZUWYGZmgH
+ztSclJ7t6n98LlKq95OXNwIDAQABo4IFOzCCBTcwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYL
+KwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNh
+LWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+Bggr
+BgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29j
+c3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcDBGBgorBgEEAYKoOwMKBDgTNkFHRU5DSUEgREUgUkVHVUxBQ0lPTiBZIENPTlRS
+T0wgREUgSElEUk9DQVJCVVJPUywgQVJDSDAdBgorBgEEAYKoOwMLBA8TDTE3OTgxOTQ4NzUwMDEw
+GgYKKwYBBAGCqDsDAQQMEwoxNzEyOTgxMTY0MBwGCisGAQQBgqg7AwIEDhMMRUxTQSBUQVRJQU5B
+MBcGCisGAQQBgqg7AwMECRMHUEFSRURFUzAVBgorBgEEAYKoOwMEBAcTBVBBUkRPMCMGCisGAQQB
+gqg7AwUEFRMTQXNpc3RlbnRlIEVqZWN1dGl2YTAoBgorBgEEAYKoOwMHBBoTGEJvbGl2YXIgR3Vl
+cnJlcm8gT2U1LTI4OTAZBgorBgEEAYKoOwMIBAsTCTAyMjU5MjYyNzAVBgorBgEEAYKoOwMJBAcT
+BVFVSVRPMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJF
+LUFSQ0hJVk8wJQYDVR0RBB4wHIEadGF0aWFuYTE1cGFyZWRlc0BnbWFpbC5jb20wggHhBgNVHR8E
+ggHYMIIB1DCCAdCgggHMoIIByIaB1mxkYXA6Ly9iY2VxbGRhcHN1YnAxLmJjZS5lYy9jbj1DUkwy
+MjI2LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVO
+VElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJB
+TkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25M
+aXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29t
+Yi5jcmykgbYwgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VB
+RE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJ
+QkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURP
+UjEQMA4GA1UEAxMHQ1JMMjIyNjArBgNVHRAEJDAigA8yMDI1MDYwNDE4MDM1OVqBDzIwMjcwNjA0
+MTgzMzU4WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4EFgQUOiFBEvit
+4ANA7RjiD0JxF8AS9nIwCQYDVR0TBAIwADAaBgkqhkiG9n0HQQAEDTALGwVWMTAuMAMCBDAwDQYJ
+KoZIhvcNAQELBQADggIBACftfsARN6MzHaLO4Kn6f+PVEhn/0NJQpmibJLkKIjX2Wujj3/4KaH0d
+L31RnT9E8w5qry65PxEy6FXXmbv78aaH/plBr3bZ8+iP1X2xuXV62COzB8/xys38mLANsp1l+nkf
+Xr1JfkIRkSJYOsVipqdwmmVvqCbygpqaR5K4FM+pkN879QD4F31q0UgiKSxeseNuBjyBxJivTIpD
+IuQxrZZXx2k0CoVJjL4PWbDvMJjV0zI4vTCTJcZmuWK4vHO5AIcEUXbY4H416OSy0r68wciP76K5
+stVRP5SKGDMDsKUWA/7lc3u3YLxeLHAh5Ve9b1+SrKUe3uUgSWfvBpVcLFIoJo0bigGQDAErvlGO
+oHA2pGTnbzBWc7j1ob4Wsvofv9UZHyV0dzx+t6V8Lxs1Ugzxa9MddaSw3jVoYyICpTtufJjeVU8j
+Ll2ggCkfmuBNupvWY8geYXUZx3z7zceADN1yHWx6igqTTHqVRPmIJ5+WqpUmKsIxfIJ/xtUlpTcB
+2V0q17W9xsrkN0i85jyh7w4bW047HDogFzmv9epcCoXpH6UckNjF93qGv/0JMvxwCc5sGE1v7oV4
+QjjTo5Wo4AixKoGwGZKhv4vtjjF0WVCsC507GyH5W5DOMp/hWy7MLwH5S9EcYYmdsbcb20iaQ/KI
+8R8n/5gTCqw2U7d3RXoe
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uxcxGa4tzqzjWGDS9he79mQ1Sm4jADI1wxsA8mlxeROXSNgr6cdJNb2OC8ljMv5Oz7RQvF++5ub3
+3+vpdLujAIx5alNOMuGMnBDCEbB9J+myrKwAlMjnuXsNH03NtJ38NDxK+t+kuvDf1t931vEaWT7m
+bjrdCGw5Zjyple6KCZRwvJGWawIZZQOe2hKs+wTcdmywsoMm43vh6LNzc2uk7KztR/yDjfMrpOS3
+tzMFwoblct1lxQa51hJkA0JOnqmzgHa3mr3vX7HGiyBvABPcQSsBoLoEkrnnh5/IvVHvaFHLmrwi
+SF0VB/OZUWYGZmgHztSclJ7t6n98LlKq95OXNw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature686504-Object17232"><etsi:QualifyingProperties Target="#Signature686504"><etsi:SignedProperties Id="Signature686504-SignedProperties102279"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-19T21:44:24-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>zxgnB1KRT75+sNAF66Ohw7nQrAE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709601699</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-537441"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

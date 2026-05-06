@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601092976110400120010010000001520053594311</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T07:11:26-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>SALINAS ELIZALDE JUAN CARLOS</razonSocial><ruc>0929761104001</ruc><claveAcceso>0104202601092976110400120010010000001520053594311</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000000152</secuencial><dirMatriz>GUAYAS / EL EMPALME / GUAYAS (PUEBLO NUEVO) / VIA QUEVEDO 030 Y RCTO SAN VICIENTE</dirMatriz></infoTributaria><infoFactura><fechaEmision>01/04/2026</fechaEmision><dirEstablecimiento>Villa del Rey Princeso Kate Mz22 villa20</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>APLIKATIQ S.A.S.</razonSocialComprador><identificacionComprador>0993381843001</identificacionComprador><direccionComprador>CEIBOS</direccionComprador><totalSinImpuestos>240.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>240.00</baseImponible><valor>36.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>276.00</importeTotal><moneda>DÓLAR</moneda><pagos><pago><formaPago>20</formaPago><total>276.00</total><plazo>1</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>002</codigoPrincipal><descripcion>Horas de desarrollo de software</descripcion><cantidad>24.00</cantidad><precioUnitario>10.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>240.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>240.00</baseImponible><valor>36.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Notas">Desarrollo registro simplicado App y Web </campoAdicional><campoAdicional nombre="Email">aplikatiq.sas@gmail.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature602885">
+<ds:SignedInfo Id="Signature-SignedInfo524063">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID19922" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature602885-SignedProperties5944">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>T38J/yOb8i0Uof5f4W6dk27f2Nk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1371059">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>DeQrXVI3SKdDDYMe5GjA/ZpnPhc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-801954" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>psGNx+TsHIGdoEW3r4G/x6jYxiI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue194112">
+UB2kfmPURPDguUatkuT4crJKrtzwMLl8HHimgsgz+b5xXt3TIOBXVywwlPaGWIjT1YpFSv+Nq5IK
+ivvRQTMPDW4w6fKw0emaAlQ0Da4tF4vqx3lKv6VRoslGni8LBJZFZ+lEWDiB2J/JDMw9iH2nOFs6
+J6x2vq/vdyx9NBdglCBKmT8BKPMDSOK7ATxJGM3n4AtUYG1GmP4ZgC2jWyzv6u+QZCPLNTA5kttH
+9Ol7o5U8oHr5Jn1ArOI+Z+ciVJr8HgZXk/xJGqAZCN29F2v1Eu8UUuReZxYOK26OFmuuMmC77Uf+
+pmsvnHwLp4H+/H4lJHNDNKTQTb6i01bZmF5NJg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1371059">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHvTCCBqWgAwIBAgIFAMICZPgwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI1
+MTAxNjE2MDkyNloXDTI3MTAxNjE2MDkyNlowgZwxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEmMCQGA1UEAwwd
+SlVBTiBDQVJMT1MgIFNBTElOQVMgRUxJWkFMREUxKDAmBgkqhkiG9w0BCQEWGWp1YW5zYWxpbmFz
+X2VAaG90bWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCXZejjsjCWxm+g
+cMCjYgPc1I0b+ebP9ELNa51YpqknH3fztlcEbquml/CYQmrEen3JSgWoOaennEupGMQ48bpvSb3v
+0EVhVf2391mv5RgaD9VWt7NIewjO2W/QMAxS5LE7o886QUHRFw6qgDkiCGnIs1O4DOYAbV+uGu6s
+xudbMcC4zVE+ujUjgJES0XNPTsFhBqPS1s04CZpYF4EdcxdImiH60Q8lqQ9TY+Jmp7e6vOrZHcWY
+GOjtHPX2bdLYxX7Vkt0MusdHghfMWpQhSyrCurlhbF0PVIgMj+8tckj7VCO3GLCIelEOPa4dMEuU
+c0wiNYWDi6Rp8cdtoBa7IcZNAgMBAAGjggRYMIIEVDAaBgorBgEEAYPPdgMBBAwMCjA5Mjk3NjEx
+MDQwGwYKKwYBBAGDz3YDAgQNDAtKVUFOIENBUkxPUzAXBgorBgEEAYPPdgMDBAkMB1NBTElOQVMw
+GAYKKwYBBAGDz3YDBAQKDAhFTElaQUxERTAWBgorBgEEAYPPdgMHBAgMBlhJTUVOQTAaBgorBgEE
+AYPPdgMIBAwMCjA5NjMxMDcxODMwGQYKKwYBBAGDz3YDCQQLDAlHVUFZQVFVSUwwFwYKKwYBBAGD
+z3YDDAQJDAdFQ1VBRE9SMB0GCisGAQQBg892AwsEDwwNMDkyOTc2MTEwNDAwMTAMBgNVHRMBAf8E
+AjAAMB0GA1UdDgQWBBT5DAd+u7oWJ0/C8pt2/n9/onLMpzAfBgNVHSMEGDAWgBTtdkiwCvHJhoYM
+TEZk0gb4zNW9PjAOBgNVHQ8BAf8EBAMCBeAwOgYDVR0fBDMwMTAvoC2gK4YpaHR0cDovZW5leHQy
+Lnh5ei9MYXp6YXRlQ0EyL2VtaXNvckNBMi5jcmwwggGEBgNVHSAEggF7MIIBdzB8BgorBgEEAYPP
+dgIBMG4wbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUgY2VydGlmaWNhZG8gZXMgZW1pdGlkbyBl
+biBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lhLiBMdGRh
+LjCB9gYJKwYBBAGDz3YCMIHoMGwGCCsGAQUFBwICMGAaXkVsIHByZXNlbnRlIGNlcnRpZmljYWRv
+IGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6
+YXRlIENpYS4gTHRkYS4weAYIKwYBBQUHAgIwbBpqRWwgcHJlc2VudGUgY2VydGlmaWNhZG8gc3Vi
+b3JkaW5hZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFk
+IGRlIExhenphdGUgQ2lhLiBMdGRhLjCB/gYDVR0RBIH2MIHzoBoGCisGAQQBg892AwGgDAwKMDky
+OTc2MTEwNKAbBgorBgEEAYPPdgMCoA0MC0pVQU4gQ0FSTE9ToBcGCisGAQQBg892AwOgCQwHU0FM
+SU5BU6AYBgorBgEEAYPPdgMEoAoMCEVMSVpBTERFoBYGCisGAQQBg892AwegCAwGWElNRU5BoBoG
+CisGAQQBg892AwigDAwKMDk2MzEwNzE4M6AZBgorBgEEAYPPdgMJoAsMCUdVQVlBUVVJTKAXBgor
+BgEEAYPPdgMMoAkMB0VDVUFET1KgHQYKKwYBBAGDz3YDC6APDA0wOTI5NzYxMTA0MDAxMDwGCCsG
+AQUFBwEBBDAwLjAsBggrBgEFBQcwAYYgaHR0cDovL2VuZXh0Mi54eXo6ODc3Ny9hZHNzL29jc3Aw
+DQYJKoZIhvcNAQELBQADggEBAEY7/Bkws6azPoFfU/5O0zenfMynx9ARqktRrUddruTQJ1EGG0A2
+H39+hdFD0ij2LJpKUxBVv47clw7tlc7+FD+5eM7UgWARZv9he7twefbmhTY6jdkvdzgQ7pLtoHpi
+G+UVRSFTLNWSk9GEuNO2hOtcLPmaYR/v1LjMZmNlMh8szMvuQurRqJRIly9lgKaBtkSoA7XobjM1
+H8D3TkSyMBx9pUxNdz8dBxhlpzm5Try+Y36Hwu9ac9EgtuFLH4Ftt4JQOsEvZrOfNl1cX+Eva5df
+DTEg2csAQxy7osBRDHM+ISh7e/+rf0u2jCCzmMxaqtAXexuRYPY9EomRciCPT9E=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+l2Xo47IwlsZvoHDAo2ID3NSNG/nmz/RCzWudWKapJx9387ZXBG6rppfwmEJqxHp9yUoFqDmnp5xL
+qRjEOPG6b0m979BFYVX9t/dZr+UYGg/VVrezSHsIztlv0DAMUuSxO6PPOkFB0RcOqoA5IghpyLNT
+uAzmAG1frhrurMbnWzHAuM1RPro1I4CREtFzT07BYQaj0tbNOAmaWBeBHXMXSJoh+tEPJakPU2Pi
+Zqe3urzq2R3FmBjo7Rz19m3S2MV+1ZLdDLrHR4IXzFqUIUsqwrq5YWxdD1SIDI/vLXJI+1Qjtxiw
+iHpRDj2uHTBLlHNMIjWFg4ukafHHbaAWuyHGTQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature602885-Object1019149"><etsi:QualifyingProperties Target="#Signature602885"><etsi:SignedProperties Id="Signature602885-SignedProperties5944"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T07:11:25-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>lThIvxGoEOfymZtEB4ijjFrFnQw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254936824</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-801954"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

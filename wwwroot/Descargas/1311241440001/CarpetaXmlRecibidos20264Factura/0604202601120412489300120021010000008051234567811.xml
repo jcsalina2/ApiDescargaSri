@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601120412489300120021010000008051234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T08:59:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>COELLO ESPINOZA CAROLINA ELIZABETH</razonSocial>
+    <nombreComercial>FARMACIA LUISITO</nombreComercial>
+    <ruc>1204124893001</ruc>
+    <claveAcceso>0604202601120412489300120021010000008051234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>101</ptoEmi>
+    <secuencial>000000805</secuencial>
+    <dirMatriz>Parroquia 7 de Octubre Calle Sexta Solar 20 y "G"</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>06/04/2026</fechaEmision>
+    <dirEstablecimiento>Parroquia 7 de Octubre Calle Sexta Solar 20 y "G"</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>EDISON SUAREZ</razonSocialComprador>
+    <identificacionComprador>1311241440001</identificacionComprador>
+    <totalSinImpuestos>17.45</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>17.45</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>17.45</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>17.45</total>
+        <plazo>1</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>7861006113889</codigoPrincipal>
+      <codigoAuxiliar>7861006113889</codigoAuxiliar>
+      <descripcion>CURAM SUSX457MGX70ML</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>6.9000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.90</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="CANTIDAD" valor="1 u 0 f"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>6.90</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7703889154347</codigoPrincipal>
+      <codigoAuxiliar>7703889154347</codigoAuxiliar>
+      <descripcion>FLUZETRIN F JBEX60ML</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>6.3500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.35</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="CANTIDAD" valor="1 u 0 f"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>6.35</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861132425467</codigoPrincipal>
+      <codigoAuxiliar>7861132425467</codigoAuxiliar>
+      <descripcion>PANALGESIC GELX180GR</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>4.2000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.20</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="CANTIDAD" valor="1 u 0 f"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>4.20</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="ID Interno">13827</campoAdicional>
+    <campoAdicional nombre="Direccion Cliente">QUEVEDO</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature766854">
+<ds:SignedInfo Id="Signature-SignedInfo337634">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID581793" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature766854-SignedProperties958941">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>oiYfUf19+IbG0qnVp01Oz7hS4C8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1879280">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>emAmc2HLEGm7Huu+SdC1a90wIg0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-421445" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>J4QdLviNHM698u7ieGVUQdD7TVY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue132954">
+nbdM9FOdaQXynpuaEMgUjT1ZIPHZ+p3mcl1jau/KTQtXH90VvnN1d6Hk8NFz4qHLloI5uo3Hefei
+A3OMnIfNaP4nHjx2K9POqccUu8oCTF6oTr8Fhe2utyqt5PCfSbcUY/dBn0q4iBRTwD1NQaOw0dBH
+Ldrm7JAPfq/X4xM5bz3s7/31pJ3COghZDM4XfamyNulS5M1xI1+X0AjaqllyhbIuvJ0mGULLCu9E
+dMRX82lNPT24Z0Gx0mtsmRWzCZ15AdQHyI+UFaiM4Y8Ppo8j+1gptwtrW0R3UGnLADoZLguayrKn
+0FbSPvwMwfEI9U3rMLTVjDGaknBrP+6UBDOx3A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1879280">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJLTCCBxWgAwIBAgIIaiBXD8/l2+AwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMTIyODAzMzcwMFoXDTI2MTIyNzAzMzcwMFowgaoxCzAJBgNVBAYTAkVDMRgwFgYDVQQEDA9D
+T0VMTE8gRVNQSU5PWkExGzAZBgNVBCoMEkNBUk9MSU5BIEVMSVpBQkVUSDEZMBcGA1UEBRMQSURD
+RUMtMTIwNDEyNDg5MzErMCkGA1UEAwwiQ0FST0xJTkEgRUxJWkFCRVRIIENPRUxMTyBFU1BJTk9a
+QTEcMBoGA1UEYQwTVElORUMtMTIwNDEyNDg5MzAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAMSAXwi/hlv6ktzMk1k1n+y6uToG7FL4pr9qTPamBRKs0wVo1pcFwdcw5eNLwsuvLtcu
+ZUgVXHvNHDdw6ZEAdzdtpHPSxwfHgBGjHUqTo8aHBZlCIaX1ip8EmA7XoVtl9rhgmxIitLHBlOI/
+6dfgc6OCkoMEEvofnQo6wlLviYYJIPcEYHSWTVX//GhSMvuOc65RhoAzZIjdjBqK8xkIW1NxG8oR
+S2ZBAznxmKgrd/WcNdx2QChVMszXu7BZLt/GqLzTX2rzl6dE0NSGtjUsFIfMSjSY1BTE36bpA6oX
+CqyZNjyLC6QslXBvG5gs1AVBGdqsE5Vaw8IwOqxwPw4uAQUCAwEAAaOCBEUwggRBMBsGCysGAQQB
+gvE2ZgMBBAwMCjEyMDQxMjQ4OTMwHgYLKwYBBAGC8TZmAwsEDwwNMTIwNDEyNDg5MzAwMTCB1wYI
+KwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1Ymxp
+Yy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGG
+Kmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYq
+aHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBS5r+Cb
+5BS6gS2wBE/7p+RK5qFeYzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDh
+EbJ0knP9MIGZBgNVHSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRw
+czovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNF
+UlRJRklDQURPIERFIFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8E
+gYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJz
+dWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtp
+L2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMCBggrBgEFBQcDBDCCAXsGA1UdEQSCAXIwggFugRpjYXJvbGluYWNvZWxsbzMzQGdtYWlsLmNv
+baAbBgsrBgEEAYLxNmYDAaAMDAoxMjA0MTI0ODkzoCMGCysGAQQBgvE2ZgMCoBQMEkNBUk9MSU5B
+IEVMSVpBQkVUSKAXBgsrBgEEAYLxNmYDA6AIDAZDT0VMTE+gGQYLKwYBBAGC8TZmAwSgCgwIRVNQ
+SU5PWkGgJQYLKwYBBAGC8TZmAwegFgwUUVVFVkVETyA3IERFIE9DVFVCUkWgHwYLKwYBBAGC8TZm
+AwigEAwOMDA1OTM5Njc4MjMyODmgGAYLKwYBBAGC8TZmAwmgCQwHUVVFVkVET6AeBgsrBgEEAYLx
+NmYDC6APDA0xMjA0MTI0ODkzMDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMy
+oBoMGFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0G
+CSqGSIb3DQEBCwUAA4ICAQAgXfdqm5UlcImtnX1xQ8O8ZMpF02tRi2DhbF+IwhfulrM3A7vPgMlY
+G5IirbT+uTbERUlsrIs+MXtr0NaWjKu108wZyyiQtcjrv0dGY9F34Dwl3REpZvsCpLhw3WQoS71w
+TPa7OdLCsBiv4OhXujERSd3+Qbj7SfYGNOW3uaW8lZG3RS78r1oXkS/GbCLHGoSE9p2PmM11rDHK
+S7lV3i6u6OCSRIOxqMKjcvs+uldrifnAtlBAxKuzyLZewwp2jYBCJjP2dVpGuSXujftZkUNmeTND
+v6kzmFUes0Xxjs2Guc2YU3hZPJ2WRNiIwiq/OGYlRzTSVvxDleT/oACupX0KREBE1io/5v0PmgwR
+XmpIWSQUWA0tpFMWzSKaLCyi2rDAaV06532SfzWc2UdDJKlMy58/zYYtqsYoi4PHuX0SSbWz/Lb8
+5mYYcCeOBxuiTd/KkyLSR0TRNnXuRR9PKgcFoEs4hUVA31jmwcMo0i3XD3hh/zMA36nMTZU4M/XK
+qY84IHkjPI+khUZcnGnXaY1t9j/siSqqXOqkUQIkaEjaZHQhK8RDdYiAM+FD/2Ug2jY2PSt84/5B
+9GoQC6PdrteB/YgVk7UYoupnaoJv1cTDzTdEKoAfe5Gfoy0i+CcsL4IzZkoPW5NRwnOwS8YVIZhc
+nTJ6NgbAp/z05EgLhc3T7w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xIBfCL+GW/qS3MyTWTWf7Lq5OgbsUvimv2pM9qYFEqzTBWjWlwXB1zDl40vCy68u1y5lSBVce80c
+N3DpkQB3N22kc9LHB8eAEaMdSpOjxocFmUIhpfWKnwSYDtehW2X2uGCbEiK0scGU4j/p1+Bzo4KS
+gwQS+h+dCjrCUu+Jhgkg9wRgdJZNVf/8aFIy+45zrlGGgDNkiN2MGorzGQhbU3EbyhFLZkEDOfGY
+qCt39Zw13HZAKFUyzNe7sFku38aovNNfavOXp0TQ1Ia2NSwUh8xKNJjUFMTfpukDqhcKrJk2PIsL
+pCyVcG8bmCzUBUEZ2qwTlVrDwjA6rHA/Di4BBQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature766854-Object313925"><etsi:QualifyingProperties Target="#Signature766854"><etsi:SignedProperties Id="Signature766854-SignedProperties958941"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T08:59:19-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>dDvSMRDjfUhd2rc1Jli0ti7yPHQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7647207892699175904</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-421445"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

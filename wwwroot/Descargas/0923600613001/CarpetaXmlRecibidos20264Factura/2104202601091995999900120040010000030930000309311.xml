@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202601091995999900120040010000030930000309311</numeroAutorizacion>
+<fechaAutorizacion>2026-04-21T17:40:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>VALENCIA PINCAY DAMARIZ EUNICE</razonSocial><nombreComercial>SPA UNIQUE</nombreComercial><ruc>0919959999001</ruc><claveAcceso>2104202601091995999900120040010000030930000309311</claveAcceso><codDoc>01</codDoc><estab>004</estab><ptoEmi>001</ptoEmi><secuencial>000003093</secuencial><dirMatriz>Pedro Carbo 826 y Guayaquil</dirMatriz></infoTributaria><infoFactura><fechaEmision>21/04/2026</fechaEmision><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>VINTIMILLA SALTOS MARIELA JACQUELINE</razonSocialComprador><identificacionComprador>0923600613</identificacionComprador><direccionComprador>Vargas Torres y 24 de Mayo</direccionComprador><totalSinImpuestos>80.00</totalSinImpuestos><totalDescuento>20.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>80.00</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>80.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>80.00</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>c2c001</codigoPrincipal><descripcion>DEPILACIÓN CON CERA MEDIA PIERNAS</descripcion><cantidad>1.00</cantidad><precioUnitario>25.00</precioUnitario><descuento>10.00</descuento><precioTotalSinImpuesto>15.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>15.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>c3f2de</codigoPrincipal><descripcion>DEPILACIÓN CON LASER BIKINI </descripcion><cantidad>1.00</cantidad><precioUnitario>30.00</precioUnitario><descuento>10.00</descuento><precioTotalSinImpuesto>20.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>20.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>c3f57b</codigoPrincipal><descripcion>MASAJE RELAJANTE COMPLETO </descripcion><cantidad>1.00</cantidad><precioUnitario>35.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>35.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>35.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>c3fa9c</codigoPrincipal><descripcion>DEPILACIÓN CON CERA AXILAS </descripcion><cantidad>1.00</cantidad><precioUnitario>10.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>10.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>10.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Direccion">Vargas Torres y 24 de Mayo</campoAdicional><campoAdicional nombre="Telefono">0969223275</campoAdicional><campoAdicional nombre="Correo">facturacion.uniquespa@gmail.com; jacqui_1308@hotmail.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature314152">
+<ds:SignedInfo Id="Signature-SignedInfo880320">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID328940" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature314152-SignedProperties11224">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>zGIHzzNyQmlli2F0Yn2GqZItPTk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11013691">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ujFDIpemS72IgwNtpSvqR+xDZDg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-253055" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>QUWKGRoiTWzwzVMKerxqv8Ef7/c=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue160270">
+jBLya5KixMkkiGzAPXFDaMNEBbk8iQPUp16z0Vkt0rNVtbLypa4Pp4c8PrJRZc32SCax7uHcvGjJ
+F1oPxmf86vmXp8M8nze6TxbXGdd1+AY85PMmybTl9ZVOlqAGY1RrHxRk9vYp/IEnNTjblv0veHjA
+vI8A7yGwW4BB/97FZ+Kp7SbC6f5kRLCi8Qsl734EPWbbeJvsH8RRbv8sQjGKDcdepIac406/1khF
+rfCaKbmXIxBTr+9LZnZabEV0aa1xT8j/2AVlergP2H+YsR42RxO3WGyhhwAgzj3hu4MJ5Z3gwHrA
+aCpOKwItoqF+vpyPx+Dm09xB55D8WY9KNYwGxQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11013691">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIHDCCBwSgAwIBAgIFAMIEk7MwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI2
+MDIyMDE0MzcxN1oXDTI3MDIyMDE0MzcxN1owgaAxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEoMCYGA1UEAwwf
+REFNQVJJWiBFVU5JQ0UgIFZBTEVOQ0lBIFBJTkNBWTEqMCgGCSqGSIb3DQEJARYbaW5nLmthcmVu
+LnJ1aWxvdmFAZ21haWwuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz3fkmYWD
+iFcr729MOR5IJpgEBwN8tQ8NAFMGwp2Z5NG9BsQNEBclCK3P87u4qC/H57JuI5ywSTfPPMIx+ZIp
+jCbYfNTsXMr1CAv5U6165XFLO0UXuEjFzMJ4K08y2z5MB3em/9buU8xCB87YyQOu4g9ksUUgt6HI
+LnM1RUYU73Ih8MWXN5fc7dizV79eaM7oCjsJE46c2A5m5tBGRGZwx1fKoqGlArGUhqyE9ccUpix/
+GUU204cXB+tCcHWW3XeINBCGysEY/ZN4xyg7X+EAWXObvT7P5o1QxeKZn5m+LANGhWvjPWB+j1QY
+RdbPMhZ70B6eHOhGWY1s2H3Cr9OVLwIDAQABo4IEszCCBK8wGgYKKwYBBAGDz3YDAQQMDAowOTE5
+OTU5OTk5MB4GCisGAQQBg892AwIEEAwOREFNQVJJWiBFVU5JQ0UwGAYKKwYBBAGDz3YDAwQKDAhW
+QUxFTkNJQTAWBgorBgEEAYPPdgMEBAgMBlBJTkNBWTAtBgorBgEEAYPPdgMHBB8MHUNSTkVMLiBN
+QVJDRUxJTk8gTUFSSURVRcODwpFBMBoGCisGAQQBg892AwgEDAwKMDk4Njk2NjQ3MDAuBgorBgEE
+AYPPdgMJBCAMHkNPUk9ORUwgTUFSQ0VMSU5PIE1BUklEVUXDg8KRQTAXBgorBgEEAYPPdgMMBAkM
+B0VDVUFET1IwHQYKKwYBBAGDz3YDCwQPDA0wOTE5OTU5OTk5MDAxMAwGA1UdEwEB/wQCMAAwHQYD
+VR0OBBYEFLmFOYw8rfm2dtNJiqBXKvuHZIr4MB8GA1UdIwQYMBaAFO12SLAK8cmGhgxMRmTSBvjM
+1b0+MA4GA1UdDwEB/wQEAwIF4DA6BgNVHR8EMzAxMC+gLaArhilodHRwOi9lbmV4dDIueHl6L0xh
+enphdGVDQTIvZW1pc29yQ0EyLmNybDCCAYQGA1UdIASCAXswggF3MHwGCisGAQQBg892AgEwbjBs
+BggrBgEFBQcCAjBgGl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2Ug
+YSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMIH2Bgkr
+BgEEAYPPdgIwgegwbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUgY2VydGlmaWNhZG8gZXMgZW1p
+dGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lh
+LiBMdGRhLjB4BggrBgEFBQcCAjBsGmpFbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBzdWJvcmRpbmFk
+byBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6
+emF0ZSBDaWEuIEx0ZGEuMIIBKgYDVR0RBIIBITCCAR2gGgYKKwYBBAGDz3YDAaAMDAowOTE5OTU5
+OTk5oB4GCisGAQQBg892AwKgEAwOREFNQVJJWiBFVU5JQ0WgGAYKKwYBBAGDz3YDA6AKDAhWQUxF
+TkNJQaAWBgorBgEEAYPPdgMEoAgMBlBJTkNBWaArBgorBgEEAYPPdgMHoB0MG0NSTkVMLiBNQVJD
+RUxJTk8gTUFSSURVRcORQaAaBgorBgEEAYPPdgMIoAwMCjA5ODY5NjY0NzCgLAYKKwYBBAGDz3YD
+CaAeDBxDT1JPTkVMIE1BUkNFTElOTyBNQVJJRFVFw5FBoBcGCisGAQQBg892AwygCQwHRUNVQURP
+UqAdBgorBgEEAYPPdgMLoA8MDTA5MTk5NTk5OTkwMDEwPAYIKwYBBQUHAQEEMDAuMCwGCCsGAQUF
+BzABhiBodHRwOi8vZW5leHQyLnh5ejo4Nzc3L2Fkc3Mvb2NzcDANBgkqhkiG9w0BAQsFAAOCAQEA
+oWnhpnWwej94iOqexkXvcuvXYur037ywvSoO37xsdX+3EnQoeZW3XIt6Vp8zJpl3Zv31INcdTGj/
+JvLu+eRSfydL88CHxw0c1OnxsH63VLBlMgEERdMkVltvVKIXEJ25xAEyJSq4IzqXmVYEZA9sl9QP
+YUsQP09xz5im224FcPtAjhqe46kisZPP6il2WOW2VQPmkfF1e8oTXiebqVRt8nJJAbniONemdCpt
+w0kaJvWO/kcyrpBqJfixU4EyUl0Becf3OzXC4lX7LIs0y8hbE8jsX6di5FLz0pFRcQPprQ1vm8pD
+qVxy4y6LVPbYpf7eHGMwo1oWtCjWcL6VaYWM9w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+z3fkmYWDiFcr729MOR5IJpgEBwN8tQ8NAFMGwp2Z5NG9BsQNEBclCK3P87u4qC/H57JuI5ywSTfP
+PMIx+ZIpjCbYfNTsXMr1CAv5U6165XFLO0UXuEjFzMJ4K08y2z5MB3em/9buU8xCB87YyQOu4g9k
+sUUgt6HILnM1RUYU73Ih8MWXN5fc7dizV79eaM7oCjsJE46c2A5m5tBGRGZwx1fKoqGlArGUhqyE
+9ccUpix/GUU204cXB+tCcHWW3XeINBCGysEY/ZN4xyg7X+EAWXObvT7P5o1QxeKZn5m+LANGhWvj
+PWB+j1QYRdbPMhZ70B6eHOhGWY1s2H3Cr9OVLw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature314152-Object950044"><etsi:QualifyingProperties Target="#Signature314152"><etsi:SignedProperties Id="Signature314152-SignedProperties11224"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-21T17:40:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>7CALYd2emMjWF8E2Yc9jDpgqLj4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3255079859</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-253055"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601179125611500120013271246110731225032217</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T06:54:34-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>OTECEL S.A.</razonSocial><nombreComercial>MOVISTAR</nombreComercial><ruc>1791256115001</ruc><claveAcceso>0204202601179125611500120013271246110731225032217</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>327</ptoEmi><secuencial>124611073</secuencial><dirMatriz>CENTRO CORPORATIVO EKOPARK, TORRE 3 AV. SIMÓN BOLÍVAR Y VÍA A NAYÓN QUITO-ECUADOR</dirMatriz></infoTributaria><infoFactura><fechaEmision>02/04/2026</fechaEmision><dirEstablecimiento>CENTRO CORPORATIVO EKOPARK, TORRE 3 AV. SIMÓN BOLÍVAR Y VÍA A NAYÓN QUITO-ECUADOR</dirEstablecimiento><contribuyenteEspecial>0011</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>PATRICIO MARCELO VILLEGAS VITERI .</razonSocialComprador><identificacionComprador>0908962087</identificacionComprador><direccionComprador>URBANIZACION TERRANOSTRA MZ 13.5 VIA ALA COSTA SECTOR   MENORCA MZ 861 VILLA 8  GUAYAQUIL-ECUADOR</direccionComprador><totalSinImpuestos>44.56</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>44.56</baseImponible><tarifa>15.00</tarifa><valor>6.68</valor></totalImpuesto></totalConImpuestos><importeTotal>51.25</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>51.25</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>20060</codigoPrincipal><codigoAuxiliar>0</codigoAuxiliar><descripcion>PLAN MOVISTAR GOLD</descripcion><cantidad>1</cantidad><precioUnitario>24.990000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>24.99</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>24.99</baseImponible><valor>3.75</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>20340</codigoPrincipal><codigoAuxiliar>0</codigoAuxiliar><descripcion>PLAN MOVISTAR BRONZE PLUS</descripcion><cantidad>1</cantidad><precioUnitario>17.040000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>17.04</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>17.04</baseImponible><valor>2.56</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>11510</codigoPrincipal><codigoAuxiliar>0</codigoAuxiliar><descripcion>CONSUMO MEGAS ADICIONALES</descripcion><cantidad>3257.43</cantidad><precioUnitario>0.000777</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.53</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2.53</baseImponible><valor>0.38</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Teléfono">022227700</campoAdicional><campoAdicional nombre="Página web">www.movistar.com.ec</campoAdicional><campoAdicional nombre="rucFirmante">1791256115001</campoAdicional><campoAdicional nombre="Factura">001-327-124611073</campoAdicional><campoAdicional nombre="email">patricio.villegas.viteri@hotmail.com</campoAdicional><campoAdicional nombre="account">12250322</campoAdicional><campoAdicional nombre="MSISDN">984219469</campoAdicional><campoAdicional nombre="DireccionComprador">URBANIZACION TERRANOSTRA MZ 13.5 VIA ALA COSTA SECTOR   MENORCA MZ 861 VILLA 8  GUAYAQUIL-ECUADOR</campoAdicional><campoAdicional nombre="NoOrdenFactura">219284972</campoAdicional><campoAdicional nombre="FormaPago">19</campoAdicional><campoAdicional nombre="Valor">51.25</campoAdicional><campoAdicional nombre="Gran Contribuyente Nro">NAC-GCFOIOC21-00000869-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature602979">
+<ds:SignedInfo Id="Signature-SignedInfo1002543">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID247493" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature602979-SignedProperties165477">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>oWABE9l32w6MG3U+GMo7eCxd6Ks=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1200989">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7gUFhc3gUGrBkuVWvDTVt1E6mIE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1013238" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ryYrZFw2N0nNVvHJO+hAtcN0ymE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue645758">
+YX/dxs4p3InD1FhzVi6sSbQX4tVJUP/kBdqVpltFnaHmVQHmhq6betgoFUHFWq962h/CN7/OWmo+
+LJPkV1CqYSHlsPmnvc2t3EaPEY6xxdJfKb2zAM9tNx282UxTni3KqByI0TSGA6dSy26/Xe/q2mpA
+JdSCTu3yzZSqRzwe33eRxMJ6DF0iwJcPv0VS54RGLYbmFrLKN5zJkCSEUOx03Km9Nn4+b7e4oywN
+EbSHHlJJEr8sEVfHLKQPPt5d57lnUTn0MLAngPdsaZnHApfiVZrO9GLRg8wHg4AV0R55GBsYH53D
+PDrgP0dG7kpZTjeIM+xloigv+b578RNt33aAaw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1200989">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILKjCCCRKgAwIBAgIIUGDRby8IlJYwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMjA2MDI0MDM3WhcNMjkwMjA1MDI0MDM3WjCB
+ojEiMCAGA1UEAwwZSlVBTiBDQVJMT1MgUkVTVFJFUE8gRElBWjEeMBwGA1UEBRMVQkY5NDY2MzYt
+MDUwMjI2MjE1MDI5MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAMDN4z1vV9fuDhhsprYuEievjys20eMCESBMbcutdltX
+pvD+PSXAbNNHgpWIxSRB9ai+kfmfxvNcFCBgl23CUp/i7xP/i4+CuQnsJ3u8gLC3sJm1JsLAhqF2
+uAzjRISazpM0/vdEnIgATKBqmLC1vTTLPi/OokZ6hiIUG6GpmLBowy8BZsWV1c7LVRybTHM2VwBb
+l9SNOQPIc4ojq+5dDS4BKYh7yp6tBkFMDa/FdTkvCVWu973YrPO4H1cUq63m2vpfwZZzzddjNJ3Z
+iNHf38Oea50GkLQnc0MciHpB+kTU64QFGOCUIBW6wYXJ+dlhf39LWt00YGoGFTBpunMcCdkCAwEA
+AaOCBmkwggZlMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8w
+WQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCoGA1UdEQQjMCGBH2p1YW4uYy5yZXN0
+cmVwby5kMjAyNkBnbWFpbC5jb20wggESBgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYI
+KwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8A
+IABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0
+dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0
+aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBk
+ZSBFbXByZXNhLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIG
+MIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9j
+cmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZp
+bGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUMwHQYDVR0OBBYEFAMdqB0Dff3tbA0bulZjDfIIsXjFMCsGA1UdEAQkMCKADzIwMjYwMjA2
+MDI0MDM3WoEPMjAyOTAyMDUwMjQwMzdaMAsGA1UdDwQEAwIF4DAnBgorBgEEAYKmcgMFBBkMF0dF
+UkVOVEUgREUgQ09OVEFCSUxJREFEMBgGCisGAQQBgqZyAwEECgwIQkY5NDY2MzYwbwYKKwYBBAGC
+pnIDCQRhDF9RVUlUTyBESVNUUklUTyBNRVRST1BPTElUQU5PIENBQkVDRVJBIENBTlRPTkFMIENB
+UElUQUwgUFJPVklOQ0lBTCBZIERFIExBIFJFUFVCTElDQSBERUwgRUNVQURPUjARBgorBgEEAYKm
+cgMiBAMMAS4wLAYKKwYBBAGCpnIDBwQeDBxBViBTSU1PTiBCT0xJVkFSIFMgTiBZIE5BWU9OMBsG
+CisGAQQBgqZyAwIEDQwLSlVBTiBDQVJMT1MwHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDExNTQ5
+NTkwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQB
+gqZyAwMECgwIUkVTVFJFUE8wEQYKKwYBBAGCpnIDHgQDDAEuMBoGCisGAQQBgqZyAwoEDAwKT1RF
+Q0VMIFMgQTAdBgorBgEEAYKmcgMLBA8MDTE3OTEyNTYxMTUwMDEwEQYKKwYBBAGCpnIDHQQDDAEu
+MBQGCisGAQQBgqZyAwQEBgwERElBWjAaBgorBgEEAYKmcgMIBAwMCjA5OTg0MzMxMTUwDQYJKoZI
+hvcNAQELBQADggIBAEHwvUvDISDL2+XKzDonv++sNomXO1SrLoJ9dvDm1rKBSa4dG5APEfIgt8Sr
+l/T8RSiAT07PcvPX//HVOB9f3otUH12sDvMmA08nKr7/chqU8BuExzv2rao75dO76+f3nIwsQ23X
+8l4mQbJZMgZ1jsGi2ufQnPow6es+pDHAOmUATUirftNHonXN/VRsvoyHeJ6J5Oq47t++O2Wqmcow
+H8PgxH6JIRManwy3lhzjFU3iGbsnKRoYOvXz8z7N/upfEmHeftsKnsTpPIxvqqDUDfW30XdBNq/X
+NK7QKTCpWX3e8E1qigKkQ4S0lZp/mCJ0GdqTaj1Ws94rztZ156T+kxtV6banVgU0KAyHvAgdhscQ
+ZER/xjTRbF+Q7MY3b/Lgfghz+kNo5tkGI4jXaE7IKkbB+URDkZs7OK9Wltdd49rp28usWZtWhtPr
+1jdBwtmhqM+VZZtT9alhj71fFKVrwpVrUkz00ll7xVrByoCklhof9Nojay+NvK/OgBNOQ9qA2ALk
+1kz+i904TtDbmx0wbbYuNr3RPkOuavjXPJlfNuLo2LEppQL6SfvEF5fWkNGEdo+kYu6Aa/sNSJWN
+BHWr+KTnLeVepKxvlQwxS7ujfDpEI0VKG1zRK+v4KMRll4yxz9COVb4HfFsSrrPi5Jpi4TT9DN6y
+8DGCJgXVB3gIQfGx
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wM3jPW9X1+4OGGymti4SJ6+PKzbR4wIRIExty612W1em8P49JcBs00eClYjFJEH1qL6R+Z/G81wU
+IGCXbcJSn+LvE/+Lj4K5Cewne7yAsLewmbUmwsCGoXa4DONEhJrOkzT+90SciABMoGqYsLW9NMs+
+L86iRnqGIhQboamYsGjDLwFmxZXVzstVHJtMczZXAFuX1I05A8hziiOr7l0NLgEpiHvKnq0GQUwN
+r8V1OS8JVa73vdis87gfVxSrreba+l/BlnPN12M0ndmI0d/fw55rnQaQtCdzQxyIekH6RNTrhAUY
+4JQgFbrBhcn52WF/f0ta3TRgagYVMGm6cxwJ2Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature602979-Object135670"><etsi:QualifyingProperties Target="#Signature602979"><etsi:SignedProperties Id="Signature602979-SignedProperties165477"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T06:53:56-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ll0wWIDWJzRpf4wNOwgc+inKwTE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>5791859396259124374</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1013238"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

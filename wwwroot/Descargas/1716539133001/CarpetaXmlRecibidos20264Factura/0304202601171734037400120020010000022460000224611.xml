@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0304202601171734037400120020010000022460000224611</numeroAutorizacion>
+<fechaAutorizacion>2026-04-03T13:59:26-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>TOAPANTA CABASCANGO JORGE PATRICIO</razonSocial>
+<nombreComercial>AGROVETERINARIO MONTE VERDE</nombreComercial>
+<ruc>1717340374001</ruc>
+<claveAcceso>0304202601171734037400120020010000022460000224611</claveAcceso>
+<codDoc>01</codDoc>
+<estab>002</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000002246</secuencial>
+<dirMatriz>RESTAURACION N 1-82 Y VARGAS</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>03/04/2026</fechaEmision>
+<dirEstablecimiento>CAYAMBE</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>GUALAVISI GUAJAN SEGUNDO DAVID</razonSocialComprador>
+<identificacionComprador>1716539133001</identificacionComprador>
+<direccionComprador>PAQUIESTANCIA</direccionComprador>
+<totalSinImpuestos>5.9</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>5.9</baseImponible>
+<valor>0</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>5.9</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>5.90</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>21010034</codigoPrincipal>
+<descripcion>MOROCHILLO ZARANDEADO X 23 LB</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   5.90000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>5.9</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>5.9</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">PAQUIESTANCIA</campoAdicional>
+<campoAdicional nombre="EmaiL">rosescousinsg.dtf@hotmail.com</campoAdicional>
+<campoAdicional nombre="NumDocumento">FR0002277A-0101-M</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature649124">
+<ds:SignedInfo Id="Signature-SignedInfo210815">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID1046559" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature649124-SignedProperties1037282">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8dh2NJb7URamY+Yd73FwT+nnp1k=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1786773">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>SfChCaD3F+8v5T2jMX0kLmiRefk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-514194" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>I6lNGwdt6HdtwhAG6A4jmkY39nM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue11233">
+oXw+7qNNXGJLf9zj2CxQS62j1xQo7scqg+fRtmpSfRntXCdaHcOkuEBm4ucVV0Zq+P8xFJCYh3kn
+UUmlJuzVOHcOXL3P3X3akUHBx/u3dMFnqQNY6DkqcJ8grdLQZ5bwzZLJYOVk4kZ5ZK/RVRnyituY
+c9XPVoaniF+zw2wLbc276x3goiJX80HsR4G3BrL68IOGi+SsYjOXbivRN8idMqd6xssZ1E/KRi7G
+A7w5kwCrxZcU4hUbbNWwomXqTfhrX/sr6J6wq70EJ2dBfEbEFYpDwqP1wN6j0QcU9iv1DCcDlHOW
+EqFMcvML7nLDY1UP8lxsT4QsS1LKSGEb1Gcvvw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1786773">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH0DCCBrigAwIBAgIFAMIDZ38wDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI1
+MTIxNjE1MjA1NloXDTI3MTIxNjE1MjA1NlowgaQxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEsMCoGA1UEAwwj
+Sk9SR0UgUEFUUklDSU8gIFRPQVBBTlRBIENBQkFTQ0FOR08xKjAoBgkqhkiG9w0BCQEWG21vbnRl
+dmVyZGUuMjAyNTE1QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKSZ
+TwnbycXnHCkdjV45b5c95Go4SyxFTUGO2a0/EcPVfmXfdv9LqzJUZUMk2yW9fdKdsw+7AeNScLJv
+QeZM52RHKAME1qi6kyz0A5hTiflVphAaWmPzDP44ioxosWwKqeD8M8v6sZEaYR47XwzUx87rgBhb
+D2nLgozt4oAwVKmFpw7UYGc1SMzfMXE4vdoHsipt1SoxN7SljR1TuJ4Bj7EyKVngNgXBMJYbnv5m
+4C/lJej6qGLPrfIAutj10G9ZJDP6ZaWT6Tyr6FQCRlf/7PtgXcP6hyPLaS4bUcRhPj5t/x4Mq78R
+RxrNHnidC4ctQJOvWysW3BYUKLq+wLUzr5sCAwEAAaOCBGMwggRfMBoGCisGAQQBg892AwEEDAwK
+MTcxNzM0MDM3NDAeBgorBgEEAYPPdgMCBBAMDkpPUkdFIFBBVFJJQ0lPMBgGCisGAQQBg892AwME
+CgwIVE9BUEFOVEEwGgYKKwYBBAGDz3YDBAQMDApDQUJBU0NBTkdPMBcGCisGAQQBg892AwcECQwH
+Q0FZQU1CRTAaBgorBgEEAYPPdgMIBAwMCjA5OTExODk0NDIwFwYKKwYBBAGDz3YDCQQJDAdDQVlB
+TUJFMBcGCisGAQQBg892AwwECQwHRUNVQURPUjAdBgorBgEEAYPPdgMLBA8MDTE3MTczNDAzNzQw
+MDEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUnljAwDO3wF383TJTniTmZ9EyLNwwHwYDVR0jBBgw
+FoAU7XZIsArxyYaGDExGZNIG+MzVvT4wDgYDVR0PAQH/BAQDAgXgMDoGA1UdHwQzMDEwL6AtoCuG
+KWh0dHA6L2VuZXh0Mi54eXovTGF6emF0ZUNBMi9lbWlzb3JDQTIuY3JsMIIBhAYDVR0gBIIBezCC
+AXcwfAYKKwYBBAGDz3YCATBuMGwGCCsGAQUFBwICMGAaXkVsIHByZXNlbnRlIGNlcnRpZmljYWRv
+IGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6
+YXRlIENpYS4gTHRkYS4wgfYGCSsGAQQBg892AjCB6DBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50
+ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1
+cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMHgGCCsGAQUFBwICMGwaakVsIHByZXNlbnRlIGNl
+cnRpZmljYWRvIHN1Ym9yZGluYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2Fz
+IGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wggEDBgNVHREEgfswgfigGgYKKwYB
+BAGDz3YDAaAMDAoxNzE3MzQwMzc0oB4GCisGAQQBg892AwKgEAwOSk9SR0UgUEFUUklDSU+gGAYK
+KwYBBAGDz3YDA6AKDAhUT0FQQU5UQaAaBgorBgEEAYPPdgMEoAwMCkNBQkFTQ0FOR0+gFwYKKwYB
+BAGDz3YDB6AJDAdDQVlBTUJFoBoGCisGAQQBg892AwigDAwKMDk5MTE4OTQ0MqAXBgorBgEEAYPP
+dgMJoAkMB0NBWUFNQkWgFwYKKwYBBAGDz3YDDKAJDAdFQ1VBRE9SoB0GCisGAQQBg892AwugDwwN
+MTcxNzM0MDM3NDAwMTA8BggrBgEFBQcBAQQwMC4wLAYIKwYBBQUHMAGGIGh0dHA6Ly9lbmV4dDIu
+eHl6Ojg3NzcvYWRzcy9vY3NwMA0GCSqGSIb3DQEBCwUAA4IBAQBcNBjw0BM+EqacuFLbBceV2OFm
+Oh8x151qMlSs+F1YQqX00YOMYnTL/UWPiOfrVmZi3mn5AkES76SvpDG1LtQGw332pMLRiMNdAdY1
+hforkxgPV3R1IyDBxbl15NfQNPd5dbLTBNd2uoYq/wh//njdmvs912T0E/hOSOC8yB0oUiAIaVLS
+g28w7V6iu6hTChzV7YceVh1sM8ujV8pj8Nn8DMAjFDnJ2bEoP5zZua9egybBSNQ0Kub8WJqbXYRc
+nMp/ZBE9d4r4yHu0K1Wqw0kiQIJnoJShUb1HZEy6bBg2l/QcaPGW7ZhfLYsaxpDzdRFmYYjiKSf9
+18gCDn4GTHe9
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pJlPCdvJxeccKR2NXjlvlz3kajhLLEVNQY7ZrT8Rw9V+Zd92/0urMlRlQyTbJb190p2zD7sB41Jw
+sm9B5kznZEcoAwTWqLqTLPQDmFOJ+VWmEBpaY/MM/jiKjGixbAqp4Pwzy/qxkRphHjtfDNTHzuuA
+GFsPacuCjO3igDBUqYWnDtRgZzVIzN8xcTi92geyKm3VKjE3tKWNHVO4ngGPsTIpWeA2BcEwlhue
+/mbgL+Ul6PqoYs+t8gC62PXQb1kkM/plpZPpPKvoVAJGV//s+2Bdw/qHI8tpLhtRxGE+Pm3/Hgyr
+vxFHGs0eeJ0Lhy1Ak69bKxbcFhQour7AtTOvmw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature649124-Object1021461"><etsi:QualifyingProperties Target="#Signature649124"><etsi:SignedProperties Id="Signature649124-SignedProperties1037282"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-03T13:59:23-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>RWrrbqDiu30FevqJ/XWY8WWa6qw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3255003007</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-514194"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

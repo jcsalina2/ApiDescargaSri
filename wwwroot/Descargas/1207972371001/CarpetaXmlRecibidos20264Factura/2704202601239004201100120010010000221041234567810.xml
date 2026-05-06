@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2704202601239004201100120010010000221041234567810</numeroAutorizacion>
+<fechaAutorizacion>2026-04-27T09:08:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>INGENIERÍA Y APLICACIONES SYSTEMWORKS S.A</razonSocial>
+    <nombreComercial>SYSTEMWORK SA</nombreComercial>
+    <ruc>2390042011001</ruc>
+    <claveAcceso>2704202601239004201100120010010000221041234567810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000022104</secuencial>
+    <dirMatriz>COOP 13 DE ABRIL Calle: Los Geranios Interseccion: LAS ORQUIDEAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>27/04/2026</fechaEmision>
+    <dirEstablecimiento>COOP 13 DE ABRIL Calle: Los Geranios Interseccion: LAS ORQUIDEAS</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>Francisco Alexis Valero Ochoa</razonSocialComprador>
+    <identificacionComprador>1207972371001</identificacionComprador>
+    <direccionComprador>Babahoyo</direccionComprador>
+    <totalSinImpuestos>9.57</totalSinImpuestos>
+    <totalSubsidio>0.00</totalSubsidio>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>9.57</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>1.44</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>11.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>11.00</total>
+        <plazo>0</plazo>
+        <unidadTiempo>-</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>00100FEC</codigoPrincipal>
+      <codigoAuxiliar>00100FEC</codigoAuxiliar>
+      <descripcion>FIRMA ELECTRONICA EC</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>9.570000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.57</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>9.57</baseImponible>
+          <valor>1.43</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="REGIMEN">CONTRIBUYENTE RÉGIMEN GENERAL</campoAdicional>
+    <campoAdicional nombre="SISTEMA">CONTAMATIC</campoAdicional>
+    <campoAdicional nombre="EMAIL EMPRESA">systemworksa@gmail.com</campoAdicional>
+    <campoAdicional nombre="TELEFONO EMPRESA">999999999</campoAdicional>
+    <campoAdicional nombre="EMAIL CLIENTE">0968380050</campoAdicional>
+    <campoAdicional nombre="TELEFONO CLIENTE">0968380050</campoAdicional>
+    <campoAdicional nombre="OBSERVACION">Solicitud N°: 3771-10263 - FIRMA DE 1 año(s) - Persona Natural CON RUC</campoAdicional>
+    <campoAdicional nombre="CODIGO ARTESANAL">0</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature452265253"><ds:SignedInfo Id="Signature-SignedInfo1916035434"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID1588856409" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature452265253-SignedProperties1629562370"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>C5iRwOcqpOEavWM0ac6oUtj8H2o=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate854411224"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>76Sf5oK1R6mBspHxryyTorIv43o=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-1990823656" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>vm0ytzZlT9uz7+TByQzsQY/8C7g=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue288618565">IJ035fJa7fxh7VmR9QNeOrgQTSZw5gj8dFDsxhFcJhMbwJuLksmKMmxlmjeP2zQMe5vSjNtE20XX
+LZg6olEeqiE5Fd6y78s0bMVbDbZyLymKzDIGLrGkLpAFOG85ba3G/bbzBU5Vu4xMjn8TdIieiS3p
+kvRHESalew+ceqbzKOGv0v1VBouAHpA2NQdiqrzNQf5eQpI1QU9TVwyZTHtoJ2nXpHS0T/Liipyi
+adpjkcvqC19q+KO9RK/8T36M8SZEwdfUI6ev7ZYvqKSctHcOM5NEi4S69PX86dCWJ5v8gtfcicWd
+WjBu+UEPysai/5o18ZXye8x3GpUq7+LMZT79qQ==
+</ds:SignatureValue><ds:KeyInfo Id="Certificate854411224"><ds:X509Data><ds:X509Certificate>MIIMIDCCCgigAwIBAgIETLWLEDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEyMDMxNTI3NTVaFw0yNzEyMDMxNTI3NTVaMIGcMSUw
+IwYDVQQDDBxQQUJMTyBGRVJOQU5ETyBDQVNURUxPIFJJVkFTMRUwEwYDVQQFEwwwMzEyMjIxMDM3
+MzUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAxSY2VtNzXXZmdejbfpa0m9ykjs6wtsEptK0tta50X+QdPK1VMNQfBAdO
+VZQSWvWMPaSYISS5YGL4WZvJ1tna/V0oWVzbs3cZF0hQdyft95OzAGZNTNalvU7KEGvJphnnGH1r
+yBor7pjVga1WoyQlRtQXqvnMzHgcejNgTeeE1dPRoXYd0sdsjoqaOcxwAxoGSV0VhdkPrM+grquU
+DRSD9qVLJFsy+Qhu0xxfaKSwAlK/RJYMeeR9vTrvBqBDvyF6WykQNX8YGRA1EQAa93MBYGAcGmf8
+7P+9wJIKe+keiSwUdsVvsddfbl4mlLORKsmMmIQhEc6G32IzF8ZBNOR0MwIDAQABo4IHaTCCB2Uw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwJgYDVR0RBB8wHYEbY2FzdGVsb3lhc29jaWFkb3NAZ21haWwuY29tMIIBFQYDVR0gBIIB
+DDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEE
+AYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+d3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGlj
+YXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIC
+lTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3
+ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UE
+BhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9w
+b3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRp
+c3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFLCTSvhDlMxm9533
+7lEyVgl0NmoHMCsGA1UdEAQkMCKADzIwMjIxMjAzMTUyNzU1WoEPMjAyNzEyMDMxNTI3NTVaMAsG
+A1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMB
+BAwMCjE3MjE0NTY3MzcwHQYKKwYBBAGCpnIDCQQPDA1TQU5UTyBET01JTkdPMBEGCisGAQQBgqZy
+AyIEAwwBLjAvBgorBgEEAYKmcgMHBCEMH0xPUyBHRVJBTklPUyBTTiBZIExBUyBPUlFVSURFQVMw
+HgYKKwYBBAGCpnIDAgQQDA5QQUJMTyBGRVJOQU5ETzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAw
+MDMwNzI5NzATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYK
+KwYBBAGCpnIDAwQJDAdDQVNURUxPMDkGCisGAQQBgqZyAwoEKwwpSU5HRU5JRVJJQSBZIEFQTElD
+QUNJT05FUyBTWVNURU1XT1JLUyBTIEEwHQYKKwYBBAGCpnIDCwQPDA0yMzkwMDQyMDExMDAxMBIG
+CisGAQQBgqZyAx0EBAwCTm8wFQYKKwYBBAGCpnIDBAQHDAVSSVZBUzAaBgorBgEEAYKmcgMIBAwM
+CjA5OTk2OTMzOTgwDQYJKoZIhvcNAQELBQADggIBAGtBBcpxZv+bkLMBg6LaVEB6bimwTOWCUh5K
+5WRgyEJYlHXTkCRG9dki1wO6g8TKMGKvxI61vYBnyWyLvZI3buVe8PzMHgl90sOhY6p5W8f0vlLW
+/mys7/cVnePYgy9xuT4BOjERjeMjkslHpvnPKz1vWizTKZy7mkiMw0bgafCMnqwhvaT3PdYW8pFI
+zSdrq7XyqRO3MNUD7ugZ9zUWxZN9OS71+fFjt0ogShkG+kaXhoXBX60GQJatJPLh3At27rjPu+KX
+XC4O6rFCf/g70pOIhN8ptOW1LNh/1MTGJXMQtGwl8JdMmTSBNXpUWGlHbQQhui/axd6qHf6fFUmW
+o0gxcbbhW0AjbBiGp4HXnvQWG2GQQ9HbDsVILprn3i911dvNm9DUWEZorLr7Iohc3sknPd/S4Q4Z
+PjfibA78UR0KgHkMpbE75DPvrObUSH42o5ZhQlhLb9R1v3tY+Ah5JGA9JAP2AgF9ra4xJkE2FJaF
+EIy2zocYW36kKnVIiGV3gSMNTyrc4cJcHnhZtL6C6tERG8jxO7MOwChyrBtX+ia2e5i2B1vs6ll2
+78O96pyx9ldfouAzqMGJa8WNeSo7MkCMfHY5ts0l0FGd3bGsszVFlDXZrmEp1ymFVZYuCP8ffNqv
+TtMNmDXQEZBTTzgWwY7SdQoTELOJdpyOeA6I8QLD
+</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>xSY2VtNzXXZmdejbfpa0m9ykjs6wtsEptK0tta50X+QdPK1VMNQfBAdOVZQSWvWMPaSYISS5YGL4
+WZvJ1tna/V0oWVzbs3cZF0hQdyft95OzAGZNTNalvU7KEGvJphnnGH1ryBor7pjVga1WoyQlRtQX
+qvnMzHgcejNgTeeE1dPRoXYd0sdsjoqaOcxwAxoGSV0VhdkPrM+grquUDRSD9qVLJFsy+Qhu0xxf
+aKSwAlK/RJYMeeR9vTrvBqBDvyF6WykQNX8YGRA1EQAa93MBYGAcGmf87P+9wJIKe+keiSwUdsVv
+sddfbl4mlLORKsmMmIQhEc6G32IzF8ZBNOR0Mw==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature452265253-Object1310233849"><etsi:QualifyingProperties Target="#Signature452265253"><etsi:SignedProperties Id="Signature452265253-SignedProperties1629562370"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-27T14:08:29+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>LlKskIuqwKBpqOJJTJZ9cijxjKk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1286966032</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1990823656"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

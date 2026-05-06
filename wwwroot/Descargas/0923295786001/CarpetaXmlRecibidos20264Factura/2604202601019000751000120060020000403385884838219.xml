@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2604202601019000751000120060020000403385884838219</numeroAutorizacion>
+<fechaAutorizacion>2026-04-26T12:07:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>ALMACENES JUAN ELJURI CIA. LTDA</razonSocial><nombreComercial>ALMACENES JUAN ELJURI CIA</nombreComercial><ruc>0190007510001</ruc><claveAcceso>2604202601019000751000120060020000403385884838219</claveAcceso><codDoc>01</codDoc><estab>006</estab><ptoEmi>002</ptoEmi><secuencial>000040338</secuencial><dirMatriz>AV.GIL RAMIREZ DÁVALOS 532 Y ARMENILLAS</dirMatriz></infoTributaria><infoFactura><fechaEmision>26/04/2026</fechaEmision><dirEstablecimiento>AV.DE LAS AMERICAS S/N ENTRE CALLE DEL TEJAR</dirEstablecimiento><contribuyenteEspecial>5368</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>JARA ITURRALDE MIGUEL ANGEL</razonSocialComprador><identificacionComprador>0923295786</identificacionComprador><direccionComprador>GUAYAQUIL     </direccionComprador><totalSinImpuestos>11.32</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>11.32</baseImponible><valor>1.70</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>13.02</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>13.02</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>000000000010114675</codigoPrincipal><codigoAuxiliar>10114675</codigoAuxiliar><descripcion>HOME LIVING_TOMATODO DE VIDRIO 300ML H&amp;L 20102_COOLER/HIELERAS/TERMICOS/LONCHERAS_20102</descripcion><cantidad>2.00</cantidad><precioUnitario>5.66</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>11.32</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>11.32</baseImponible><valor>1.70</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DATA">ALMACENES JUAN ELJURI CIA. LTDA</campoAdicional><campoAdicional nombre="A3D">sistemasaje@eljuric.com</campoAdicional><campoAdicional nombre="Gran Contribuyente">Gran Contribuyente NAC-GCFOIOC21-00000927-E</campoAdicional><campoAdicional nombre="Observaciones">PEDIDO: 0013445217  - </campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1025137">
+<ds:SignedInfo Id="Signature-SignedInfo705747">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID679983" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1025137-SignedProperties641175">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>THJL4qAJm88qKUfQm5fzlRRPMM8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1727641">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>yRf54836tcfhW16CGIL6Ij4llmE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-977491" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>VnpZw5gzx1gJ7C6XKe7yirb/Nkk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue73586">
+bhQVc5tXKaymviGAIERYTxNorevEInMZGOnblV+HWEzVY6Dz50EMf1ts9XsA/1s1gsMI6AmmP+37
+Fl7wpbfh9oDpBmf+4wdwXFD0aulIZbis6Ksq9lzf69HBCboccjrQ5TdopKXTIbbQSRT2Rx4gGVfk
+gnkZ7LnIwrvEPygS/Tt/zDpJ+oh91MuKOWtODFtt1RztXkjJvSoy62TZjl3wutsEtEfZpXEjSseL
+PyNMQLj7cu/g1QXQ489XHlTFfp5pcOJBnG3llxh/bLQ7qFJDBEphKH3iR+CC+NS3u9A0reJCUvsW
+6iq+eY1EVp8nk2qaknANIqgb79d+2uVM+pbCNw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1727641">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK5zCCCM+gAwIBAgIIVupxZGyvte4wDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMzA1MDAyNzM5WhcNMjcwMzA1MDAyNzM5WjCB
+qDEmMCQGA1UEAwwdQ0FSTE9TIEpPQVFVSU4gQUxWQVJFWiBFTEpVUkkxIDAeBgNVBAUTFzAxMDE5
+OTk1OTctMDQwMzI2MTkzNzMxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN6hUsXMWoiUGfaGObpU8QWUn9a+8egI494P
+/mQ9xqkzrRvuFnOHk5rtLJSgzowzMeLyR9ajuLt2lUmJGuFpCoa3zJ1vPQzQSAJNqrt6qJIlsCL6
+ZlAslz0znKtKx1+KCnT4vgvAIISaGsgno13UFNNdaiu7sWhcdwuIvBnB0LDhF8nnIZXAMTkhoOf+
+a8XSYuISfIuHCaMUJ/JwrESJ1vuZRATMm3HhBCJAC4Ry1PsxFfbZMjUw3kymy0eRPtb5JHlFyDkj
+JSwjbiKjZ6iUH4eqxZkv77qDS7ePqlaWnAtuqT4foEcWIfOnc2qZSyQ33qKZ2p0fXrUbfwNc/Juj
+EesCAwEAAaOCBiAwggYcMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+N
+rmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCkGA1UdEQQiMCCBHmFzaXN0
+ZW50ZWNvbnRhYmxlMUBlbGp1cmljLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkw
+VDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBl
+AHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUH
+AgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRz
+L05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJl
+cHJlc2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8G
+A1UdHwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJj
+YTJjcmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJ
+BgNVBAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNy
+bDIvY3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlz
+c3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEs
+T1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFU
+QSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUknVCd8GUcGuNwrF/BpI4b1Oy2kwwKwYDVR0QBCQwIoAP
+MjAyNjAzMDUwMDI3MzlagQ8yMDI3MDMwNTAwMjczOVowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZy
+AwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMDEwMTk5OTU5NzAZBgorBgEE
+AYKmcgMJBAsMCUVMIFZFQ0lOTzARBgorBgEEAYKmcgMiBAMMAS4wOAYKKwYBBAGCpnIDBwQqDChB
+ViBHSUwgUkFNSVJFWiBEQVZBTE9TIDUgMzIgWSBBUk1FTklMTEFTMB4GCisGAQQBgqZyAwIEEAwO
+Q0FSTE9TIEpPQVFVSU4wHwYKKwYBBAGCpnIDIAQRDA8wMDUwMDEwMDAxOTUyMTAwEwYKKwYBBAGC
+pnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHQUxW
+QVJFWjAuBgorBgEEAYKmcgMKBCAMHkFMTUFDRU5FUyBKVUFOIEVMSlVSSSBDSUEgTFREQTAdBgor
+BgEEAYKmcgMLBA8MDTAxOTAwMDc1MTAwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZy
+AwQECAwGRUxKVVJJMBoGCisGAQQBgqZyAwgEDAwKMDk4NDE3NjQzNzANBgkqhkiG9w0BAQsFAAOC
+AgEAsjaT7oIU5/s+cWUdqqcKX15QCTX2HZiq8HXMV5VNlcWit0lx7V4+tJw31ffYtR3dfAxft/+B
+KBs4zFNrnAwYBWqbGT5B073lC4yw6Eai2UdBULFmlYNjJPBbzgwPBgX2BKNPSALdm9miCN7SljCt
+ewYfcfVWDbIHv7mNROTiT/7BLPdU+Oj7SYDZvbeTXednTUMd0UXpVQYfFONT4K3nUuJaQiALZEHl
+IpKKxxjmtexxKmQUXa0H7BJf3PWX4R1OT4Q89fZAMgYl4tHLpRhQ0VYGSHnq0UV6Rl5kQmkVjHxS
+2OIhnEu9RfJIAGvUZG7XQCOp4LM41MMoSIOj5pPF6AmqSlhi3wW3ibBtTcBjycIrvpR5dfJfMSGy
+5B5xvH0xPIj/DFgqY+ZUKXGBK4XxtrqhtbiUmXqlGQr/RZrsi2fsR1xkKSapTY1S2EU3gmMgyA8o
+ptmkFze+ZUHo4wvlkf7sB/wxu+4LsgUaF6uM1VMAHSOdoQZzgOpL7aAXnLCBIA6pRRmzZ+KlpV7D
+k34hqEDIE8mZRcuW83T3QmPU7rJ1yx59xqdSOZy9I3EtQM5TH4SoL7CwAN8azilxnw0pmC8fm3Oy
+7t+oigNz9hH+Oa7Blo+LClA3J4Dlk7OCFoa06BS7DAEpONYII714gyFpL5OYRFo5BmghqF9qL47Q
+4sA=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3qFSxcxaiJQZ9oY5ulTxBZSf1r7x6Ajj3g/+ZD3GqTOtG+4Wc4eTmu0slKDOjDMx4vJH1qO4u3aV
+SYka4WkKhrfMnW89DNBIAk2qu3qokiWwIvpmUCyXPTOcq0rHX4oKdPi+C8AghJoayCejXdQU011q
+K7uxaFx3C4i8GcHQsOEXyechlcAxOSGg5/5rxdJi4hJ8i4cJoxQn8nCsRInW+5lEBMybceEEIkAL
+hHLU+zEV9tkyNTDeTKbLR5E+1vkkeUXIOSMlLCNuIqNnqJQfh6rFmS/vuoNLt4+qVpacC26pPh+g
+RxYh86dzaplLJDfeopnanR9etRt/A1z8m6MR6w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1025137-Object916296"><etsi:QualifyingProperties Target="#Signature1025137"><etsi:SignedProperties Id="Signature1025137-SignedProperties641175"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-26T12:07:19-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>nzb4Hyd0TAo4VRwLPSdvHVZlwnI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>6262942907946218990</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-977491"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601099069469900120020020008791220134426811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T13:24:17-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?><factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>New York Discount DisNew S.A.</razonSocial>
+    <nombreComercial>New York Discount</nombreComercial>
+    <ruc>0990694699001</ruc>
+    <claveAcceso>1404202601099069469900120020020008791220134426811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000879122</secuencial>
+    <dirMatriz>C.C. Albán Borja</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>14/04/2026</fechaEmision>
+    <dirEstablecimiento>Parque Industrial California 2 Km 12 vía Daule Blq L Local # 1</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>TRANSPWILQ S.A</razonSocialComprador>
+    <identificacionComprador>0993048135001</identificacionComprador>
+    <direccionComprador>GUAYAQUIL</direccionComprador>
+    <totalSinImpuestos>3.91</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>3.91</baseImponible>
+        <valor>0.59</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>4.50</importeTotal>
+    <moneda>USD</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>4.50</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>EN035</codigoPrincipal>
+      <codigoAuxiliar>EN035</codigoAuxiliar>
+      <descripcion>ENCHUFE PERUANO BLANCO Y NEGRO 0.35</descripcion>
+      <cantidad>3.00</cantidad>
+      <precioUnitario>0.30</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.91</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.91</baseImponible>
+          <valor>0.14</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CHA039</codigoPrincipal>
+      <codigoAuxiliar>CHA039</codigoAuxiliar>
+      <descripcion>CHAKIRA VARIAS 0.39</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>0.34</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.68</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.68</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BADX6</codigoPrincipal>
+      <codigoAuxiliar>BADX6</codigoAuxiliar>
+      <descripcion>BOTON ANCLA DORADO # 32  X 6 / BADX6 / 0.69</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>0.60</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.20</baseImponible>
+          <valor>0.18</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>6987980000043</codigoPrincipal>
+      <codigoAuxiliar>6987980000043</codigoAuxiliar>
+      <descripcion>PINCELES REDONDOS X6/1.29</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1.12</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.12</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.12</baseImponible>
+          <valor>0.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email">transpwilq@gmail.com</campoAdicional>
+    <campoAdicional nombre="Dirección">GUAYAQUIL</campoAdicional>
+    <campoAdicional nombre="Forma de Pago">OTROS CON UTILIZACIÓN DEL SISTEMA FINANCIERO</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature278336">
+<ds:SignedInfo Id="Signature-SignedInfo301843">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+<ds:Reference Id="SignedPropertiesID992574" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature278336-SignedProperties384876">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<ds:DigestValue>f880hZ7GelNfRWhhY6lVJ6ic87s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1442192">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<ds:DigestValue>AdNM3rYZDG4ILxC3HoFGkatA1Sg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-90931" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<ds:DigestValue>lqZkm8OcwzJpoDslt4IYqozlC0I=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue695025">
+BuQecrBDxCzsTGt6h01qjx7GWZYSGuAO/+X59AaruBtrwCYlsOO07k3iCVcrUu8EfVGrjlwoKQxm
+Q4tOPlBPN6FR6DbdSVAEFu1T/+k31kud/BVBHQxmxSYkBrqCBXUQzcNxGdfcv+LzxuR7fH7EPAJK
+yk6yK09GABADxiMXEJeGiIvxeOFRC0R8JM8+Tp9FE6Qvl1U7eRI2b9IWZ67NDO4rpOYvavw9/+pn
+DqMePqKJykd6lj0LGsg9vBcbGuL078i1/bzDBPQuqEukRQxjXlFoO1EjNVicoQINACE/WaNGlMUd
+m21AXrVHmp7RxeSErhCeHp2Wo7cEU3skQUnqSQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1442192">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMDjCCCfagAwIBAgIEG4QKBTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMTgxNDQzNDZaFw0yOTExMTgxNDQzNDZaMIGpMScw
+JQYDVQQDDB5DQVJNRU4gRUxJU0EgTUFMRE9OQURPIENPUkRPVkExIDAeBgNVBAUTFzA5MDA1NzU5
+NTItMTgxMTI0MDk1MzMwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKCFbYu0fWVgUHSRxJTkS4bVd3Eq7gBArTpdqnjV
+AqVHfb6or1I3Mk2TXrcjwYU5PYcmv0RibiX6DKsQdKVWONNlpCGytASUu1Vra56aPA9qVELErcCg
+a7mUNt40m+VYQmPX7T/PbsKtkB569AtcewNKF7epydbevKpZP3DueWoywv06khTSxk4dYoAmEI1T
+06hRwEwqSCxD7yXlCadnJlMfahz5fXD4XzYHUSkwK70X6BpX8TkhTa8+LvAGMBk7ICeNzI1F9H7Q
+xgQPAh73Z97YcS0YwtmHcEC7FcmJU4YJcwqke6FWhelECoJ3vQoK+uhJYEpvq7+sRNJ8M7/ywXUC
+AwEAAaOCB0owggdGMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMCEGA1UdEQQaMBiBFmNhcm1lbjE5NDc1MEBnbWFpbC5jb20wggEV
+BgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBm
+AGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGww
+gaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9z
+L1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1Ud
+HwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAy
+MQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEs
+T1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFU
+QSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddo
+dHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3
+ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU+I/7
+9GAdFnwU1dag0dGaH42XB8cwKwYDVR0QBCQwIoAPMjAyNDExMTgxNDQzNDZagQ8yMDI5MTExODE0
+NDM0NlowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisG
+AQQBgqZyAwEEDAwKMDkwMDU3NTk1MjAWBgorBgEEAYKmcgMJBAgMBlRBUlFVSTARBgorBgEEAYKm
+cgMiBAMMAS4wMgYKKwYBBAGCpnIDBwQkDCJBVkVOSURBIENBUkxPUyBKVUxJTyBBUk9TRU1FTkEg
+UyBOMBwGCisGAQQBgqZyAwIEDgwMQ0FSTUVOIEVMSVNBMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAy
+MDAwNjcxNDM4MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAZ
+BgorBgEEAYKmcgMDBAsMCU1BTERPTkFETzAsBgorBgEEAYKmcgMKBB4MHE5FVyBZT1JLIERJU0NP
+VU5UIERJU05FVyBTIEEwHQYKKwYBBAGCpnIDCwQPDA0wOTkwNjk0Njk5MDAxMBEGCisGAQQBgqZy
+Ax0EAwwBLjAXBgorBgEEAYKmcgMEBAkMB0NPUkRPVkEwEAYKKwYBBAGCpnIDCAQCDAAwDQYJKoZI
+hvcNAQELBQADggIBAAb2ermmxE0jqUPjLqrHJAFnwHWNuQnvkK7v63+etzUzen+zGnycgZVRv6fQ
+fkkxRhdEzatg1PiFlzw1s9mUTlYXiF0yWKEgSmjLCw5C45Pwu+o/bcfIaVDMgQdBrtjBPtm2yCsn
+i+JAp+jROfwAI4HylNX9bOxl4DMt65/POmwp+RSGtdCutnr5PxKlIfxCAAFxgyW74AmNfgiY8KLr
+Mx4u6B1V2KXv5K19rCgsA7g4gw7IuSe9APgVKfoqOay+2ll00UN1W7uYZRYoIvBYI4CVlSJN24sB
+4e3zOE3FVm6/TuLyHROeyswbpoA5XdALnqsg9XcQB3zlUeZM1WaVlWCHYn8t7I7EU2pQRlGS8GKz
+YxBWs8uAZK2UmrP+FGav4dLGtsHLA/Y8tS627fUOJb/jal9CBYisMGSOci68gP8Rs1fjFB1/rq3d
+ABLbLTdy66jTPu31vxn6AKyPHCxhjX6pZKs2P8/QUjlLk/UImGZ5NneeKIdstbtVyaGsn1AhGq/w
+ok1M9rFdbCB17G+8Fz8tI5ORmkO7pMogFybdkN0s5pt0MT+CaNI+zidGLCCTgvIBBno18nm7A2yK
+JA8z4dUjjKvt/BVODV29S8o1Cr5g1aiqgOn7txvrqDt9MovB0/3BUFHHmtKyiW7qhutMn8P3ef+1
+2IZx0bwPkQt+tZRN
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oIVti7R9ZWBQdJHElORLhtV3cSruAECtOl2qeNUCpUd9vqivUjcyTZNetyPBhTk9hya/RGJuJfoM
+qxB0pVY402WkIbK0BJS7VWtrnpo8D2pUQsStwKBruZQ23jSb5VhCY9ftP89uwq2QHnr0C1x7A0oX
+t6nJ1t68qlk/cO55ajLC/TqSFNLGTh1igCYQjVPTqFHATCpILEPvJeUJp2cmUx9qHPl9cPhfNgdR
+KTArvRfoGlfxOSFNrz4u8AYwGTsgJ43MjUX0ftDGBA8CHvdn3thxLRjC2YdwQLsVyYlThglzCqR7
+oVaF6UQKgne9Cgr66ElgSm+rv6xE0nwzv/LBdQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature278336-Object408888"><etsi:QualifyingProperties Target="#Signature278336"><etsi:SignedProperties Id="Signature278336-SignedProperties384876"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T13:23:57-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>SADr+WlxVcqAqyLpm1iR6mgz0xg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>461638149</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-90931"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

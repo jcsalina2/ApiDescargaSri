@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601106004110000120011200015552808765432116</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T11:47:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>EMPRESA PUBLICA DE MOVILIDAD DEL NORTE</razonSocial>
+<nombreComercial>EMPRESA PUBLICA DE MOVILIDAD DEL NORTE</nombreComercial>
+<ruc>1060041100001</ruc>
+<claveAcceso>0104202601106004110000120011200015552808765432116</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>120</ptoEmi>
+<secuencial>001555280</secuencial>
+<dirMatriz>AV. ELOY ALFARO 2-80 Y JULIO ZALDUMBIDE</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>01/04/2026</fechaEmision>
+<dirEstablecimiento>EDIFICIO MATRIZ IBARRA</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>JACOME CONTERON ROSA ELVIRA</razonSocialComprador>
+<identificacionComprador>1706522081</identificacionComprador>
+<direccionComprador>JUAAN HIDALGO y BERNARDO DE LEGARDA, N57</direccionComprador>
+<totalSinImpuestos>97.40</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<descuentoAdicional>0.00</descuentoAdicional>
+<baseImponible>97.40</baseImponible>
+<valor>14.61</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>112.01</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>112.01</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>63</codigoPrincipal>
+<codigoAuxiliar>ADH</codigoAuxiliar>
+<descripcion>ADHESIVO  DE REVISION VEHICULAR</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>5.73</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>5.73</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Aplica:" valor="CAPITAL"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>5.73</baseImponible>
+<valor>0.86</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>44</codigoPrincipal>
+<codigoAuxiliar>MAT</codigoAuxiliar>
+<descripcion>EMISION DE MATRICULA NUEVA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>25.26</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>25.26</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Aplica:" valor="CAPITAL"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>25.26</baseImponible>
+<valor>3.79</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>447</codigoPrincipal>
+<codigoAuxiliar>IRT</codigoAuxiliar>
+<descripcion>IMPRONTA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>16.38</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>16.38</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Aplica:" valor="CAPITAL"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>16.38</baseImponible>
+<valor>2.46</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>54</codigoPrincipal>
+<codigoAuxiliar>TRA</codigoAuxiliar>
+<descripcion>TRANSFERENCIA DE DOMINIO</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>8.03</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>8.03</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Aplica:" valor="CAPITAL"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>8.03</baseImponible>
+<valor>1.20</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>12</codigoPrincipal>
+<codigoAuxiliar>RC1</codigoAuxiliar>
+<descripcion>VEHICULOS PESADOS REVISION TRANSITORIA PRIMERA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>42.00</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>42.00</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Aplica:" valor="CAPITAL"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>42.00</baseImponible>
+<valor>6.30</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Trámite:">14544633</campoAdicional>
+<campoAdicional nombre="Correo Electrónico:">anicriss77@gmail.com</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature542526">
+<ds:SignedInfo Id="Signature-SignedInfo103119">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID784747" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature542526-SignedProperties193727">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>hdG06UgUbVYNChRu4HB5UUSSvRg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1347940">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qAp8sQjl1nuFp79d4NXctsS07iE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-411827" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>YUp9P1HoIFvkOLZNNprpVITONjc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue562427">
+dn4tPvUBcesIMQ3hzvASgFvYwZhEBP3R4A2szhRqXM04AmwK6aOHOlmQ2hSGTBypd/RAOvbID0AE
+YR6k0uB7mlDuYOFyeem17VbOCPBWdAka8c+2yxzg/yZ5FvpwUJfeSeDL7vph97bkq2QV5glvorLq
+QWHM33hFQRrgdx8HxGJKKdS+u+bEtDRD7pfTvnhOQzciMTVhk9IcjYzgGNvyS5cTNg640L8lcSKN
+Ubbgev6pOOAABusq8vKRvVqjKL8w2MRICmdhPXNlLxzKFlU3/mo1JB/wSXi4cWJFcAU2eilZekrz
+H2w5eonUUEDUJ98jQAVxhoJ/nl2tiKsUFq9+lQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1347940">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK5DCCCMygAwIBAgIIJH8lRDRw0qIwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwODEyMjIwOTAzWhcNMjYwODEyMjIwOTAzWjCB
+qDEmMCQGA1UEAwwdTFVJUyBTQU5USUFHTyBDSElSSUJPR0EgTE9QRVoxIDAeBgNVBAUTFzA0MDEx
+ODk1OTItMTIwODI1MTcxODU0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANwGFo+dpI6ft0GEn1DBrWegBcnCrDFyV3u0
+K/lKP2j+7gHKlsi5rba3ehegUUF3DG7/W1DX3dKfa/y2Wr3644qcYxObLX4gVKUpjicKoE5DnY9g
+fzTZq0iGXBe+PrhDWnevSydaJUOIZW1FcLWKuYZvNnCT7zK8YKwx7N+poc3xIo6mc9NLt3j8ko0S
+pjVFCG4iRsqnDgJG/qwKdkzAKprZSfi+QqYRkWA3YSwyqQhGRXBi5bAT/7Ok+wc3J6a7GXhVg4U0
+JX4KJLhre7iRHsrGQsSClx7KYnaWd5tPCz22zXE4CZdPjZS8ydoRWYiY0aOUuOFEkMGMU1tWNEws
+b+0CAwEAAaOCBh0wggYZMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+N
+rmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCEGA1UdEQQaMBiBFnNhbmNo
+aXJpYm9nYUBnbWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYB
+BQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0
+AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0
+cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRp
+dmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRh
+bnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIG
+MIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9j
+cmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZp
+bGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUMwHQYDVR0OBBYEFNx45i+C0VGYtJqBYU/jWBFf57TrMCsGA1UdEAQkMCKADzIwMjUwODEy
+MjIwOTAzWoEPMjAyNjA4MTIyMjA5MDNaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dF
+UkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjA0MDExODk1OTIwGAYKKwYBBAGCpnIDCQQK
+DAhTQUdSQVJJTzARBgorBgEEAYKmcgMiBAMMAS4wNgYKKwYBBAGCpnIDBwQoDCZBViBFTE9ZIEFM
+RkFSTyAyIDgwIFkgSlVMSU8gWkFMRFVNQklERTAdBgorBgEEAYKmcgMCBA8MDUxVSVMgU0FOVElB
+R08wHwYKKwYBBAGCpnIDIAQRDA8wMTMwMDEwMDAwMTMyMzMwEwYKKwYBBAGCpnIDIQQFDANQRlgw
+FwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBkGCisGAQQBgqZyAwMECwwJQ0hJUklCT0dBMDYGCisG
+AQQBgqZyAwoEKAwmRU1QUkVTQSBQVUJMSUNBIERFIE1PVklMSURBRCBERUwgTk9SVEUwHQYKKwYB
+BAGCpnIDCwQPDA0xMDYwMDQxMTAwMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAVBgorBgEEAYKmcgME
+BAcMBUxPUEVaMBoGCisGAQQBgqZyAwgEDAwKMDk4NDY2NTg5NjANBgkqhkiG9w0BAQsFAAOCAgEA
+Ao0RtvlzMgZ7j1OjyKC1yS2MjovwB9Q7/1t+bpr632kLVXdmHQRGcogiVorevLy8ryj4rrFQAyEj
+IGN1KEsngw1SFU9tDfy5iVp/7w2ic8GoVGZGpWud1XNeZNlqHbpI3IkvxbIcO5pHpiy9SIa/nM9u
+NmCkDcsVnccZG8IAKNOecxenmKmdM5tTxJD0AZADTfOidvtK5PtuOrZwmSlCojnxqXxgFJnr4mAF
+KEut4P9UjGz5vKyLHNojRh4TpgTmdQhr8stmBZOy1pRw5sdjjSRdXCEYHcyfMcrQkazAiR1Fc/1y
+iu5KXbe5/H84yVhS64kdVL3pdXKC6v3hstg5fWcKIyuhZElaGo1vn3aiPD/Z46rGzcGFVYRQOqVb
+qizeZIWy5I9DiDIwLElu6IZ2XQYYeu9sBos85aykNvbR88USAWIxVrkITdz/jmvEqoTLANxsmLRR
+nC5J7JAlDZqbILy3AomM1O3DCKod9aUwu/ETdfot2Wt7eae93frtPSi9j/3RqXlSHWN6r7zsgjjL
+9i/KgG9Hb9kFP5aXw+n/ynKDu5Z7jXf93t5g0LzqQ1kWhEEoGzO8E1QYWbuUT4kHtHzCTKCnrmzK
+/t7boPiIEEzeiy9QbBW+wqMHvhj4WLym91EKbBnea+t8epGdz9Xg4O4YtGmj6B2Ryy3PvDBHI7g=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3AYWj52kjp+3QYSfUMGtZ6AFycKsMXJXe7Qr+Uo/aP7uAcqWyLmttrd6F6BRQXcMbv9bUNfd0p9r
+/LZavfrjipxjE5stfiBUpSmOJwqgTkOdj2B/NNmrSIZcF74+uENad69LJ1olQ4hlbUVwtYq5hm82
+cJPvMrxgrDHs36mhzfEijqZz00u3ePySjRKmNUUIbiJGyqcOAkb+rAp2TMAqmtlJ+L5CphGRYDdh
+LDKpCEZFcGLlsBP/s6T7BzcnprsZeFWDhTQlfgokuGt7uJEeysZCxIKXHspidpZ3m08LPbbNcTgJ
+l0+NlLzJ2hFZiJjRo5S44USQwYxTW1Y0TCxv7Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature542526-Object864405"><etsi:QualifyingProperties Target="#Signature542526"><etsi:SignedProperties Id="Signature542526-SignedProperties193727"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T11:20:19-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>YKEJv68bGcTI2ySkncLVcyO6zc8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2629861682275472034</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-411827"><etsi:Description>Comprobante Electrónico firmado desde el sistema AXIS Cloud.</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

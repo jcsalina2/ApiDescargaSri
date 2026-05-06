@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2304202601099224554900120110010000805782201057811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-23T18:19:38-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>CELLNEL S.A.</razonSocial>
+		<nombreComercial>CELLNEL</nombreComercial>
+		<ruc>0992245549001</ruc>
+		<claveAcceso>2304202601099224554900120110010000805782201057811</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>011</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000080578</secuencial>
+		<dirMatriz>AV. GUILERMO CUBILLO SOLAR 1 Y FELIPE PEZO CAMPUZANO</dirMatriz>
+		<agenteRetencion>1</agenteRetencion>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>23/04/2026</fechaEmision>
+		<dirEstablecimiento>AV 25 DE JULIO MALL DEL SUR PISO 1 LOCAL 105</dirEstablecimiento>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>06</tipoIdentificacionComprador>
+		<razonSocialComprador>ASTECNAVIND S.A.S.</razonSocialComprador>
+		<identificacionComprador>0993387909001</identificacionComprador>
+		<direccionComprador>gye</direccionComprador>
+		<totalSinImpuestos>14.80</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>14.80</baseImponible>
+				<valor>2.22</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0</propina>
+		<importeTotal>17.02</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>01</formaPago>
+				<total>17.02</total>
+				<plazo>2</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+		<valorRetIva>0.00</valorRetIva>
+		<valorRetRenta>0.00</valorRetRenta>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>IM25-0591</codigoPrincipal>
+			<codigoAuxiliar>0000149294</codigoAuxiliar>
+			<descripcion>FUNDA DE REGALO 26*32*10.5 CM-SURT</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>2.500000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>2.50</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>2.50</baseImponible>
+					<valor>0.38</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>IM25-1535-3</codigoPrincipal>
+			<codigoAuxiliar>0000150350</codigoAuxiliar>
+			<descripcion>FUNDA DE REGALO 30*41.5*12 CM-SURT</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>3.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>3.00</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>3.00</baseImponible>
+					<valor>0.45</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>G01-00051-0</codigoPrincipal>
+			<codigoAuxiliar>7862110184420</codigoAuxiliar>
+			<descripcion>GLOBO MET NUMEROS 40" VAINILLA #0</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>1.785714</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1.79</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>1.79</baseImponible>
+					<valor>0.27</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>G01-00052-3</codigoPrincipal>
+			<codigoAuxiliar>7862110188633</codigoAuxiliar>
+			<descripcion>GLOBO MET NUMEROS 40" CORAL #3</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>1.785714</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1.79</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>1.79</baseImponible>
+					<valor>0.27</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>NY0080</codigoPrincipal>
+			<codigoAuxiliar>7862110179013</codigoAuxiliar>
+			<descripcion>CORTINA TINSEL 600XB</descripcion>
+			<cantidad>2.000000</cantidad>
+			<precioUnitario>1.776785</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>3.55</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>3.55</baseImponible>
+					<valor>0.53</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>DA-1826</codigoPrincipal>
+			<codigoAuxiliar>8165112218261</codigoAuxiliar>
+			<descripcion>CINTA HAPPY BIRTHDAY ESCARCHADA</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>2.173900</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>2.17</baseImponible>
+					<valor>0.33</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Descripción">FACTURA DE POS #011-001-000080578</campoAdicional>
+		<campoAdicional nombre="Vendedor">0958022105 - PINTO LOZANO GABRIELA AMADA</campoAdicional>
+		<campoAdicional nombre="Condición de crédito:">Contado</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature643723">
+<ds:SignedInfo Id="Signature-SignedInfo82252">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID292435" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature643723-SignedProperties450891">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>O70nS/59J+EQqhbUmvkWWHFi9kE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11032931">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>tRbdzcywAhk79OTKVlcP50Sj3rQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-955158" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>35erubhufaf43oHDueONzRRxu6s=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue309829">
+Zq0TFq8GosmDYnb/c8Y21oPQzfy9iBXiY7WSjsrF0rGXXCEkQra++8KiTxo5sAatiRVDLc3wOkcJ
+cVJa2LKBwjQqA/zdKwPR5r6e48ToJZAkSLHpyl/GgYBcH29OzN44q8NKWjGEzQQXKRquBuurpdtf
+D89i4GdHmFpBE4u+99l9mL6/Et6rYa7qTmK1Jg6wY7ZYwaOOV+xNXejUxPF40wKsO/9EZl3HWb49
+fj4bbQ+X801JHtCaSapk/OJhrzryqBHwkPFipYklKsQ2magvzJFhCelwgakAiO+TGv9Ym1eZYoVa
+1Xx6yAa887BvVyvRgQ+A0EvcZkJ2IJGIwSdR4Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11032931">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIWzCCB0OgAwIBAgIFAMICldowDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI1
+MTAyOTE5NTkyMloXDTI4MTAyODE5NTkyMlowgY0xCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEeMBwGA1UEAwwV
+SklNTVkgUEFVTCBUT1JBTCBBQkFEMSEwHwYJKoZIhvcNAQkBFhJqdG9yYWxAY2VsbG5lbC5jb20w
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCTPM+n9bJGPDLEiKofI9w+kzgkg/2fL7vw
+pqiQT/5hFEH2DAbaRhgy6V9jdP8TvA/ZmhEmEWd0c/A59WZXaMFRJ//nztb2Wct15e3xzbqe6ZGW
+i4nc8n8YxDMcHg+tfFcirRsRGr0NbxUxT2Tdy2XsE0cEim6KKnsMLOCPMGPlGD/1gB/YvyOgW5KM
+TKH3kPYTvXu1Ym5X8mYLb/isMOThdqwalH2gRejbnnNUrDiyr2ILKMhGl0M5Y7SnaSgM6d2ncdL2
+gXhfOkDy8M9lzs+K41cjs3W83mdafdpjk6U2l2DHjrV4h3+W9fdr2mkxbd52tj5SRyCgCervkcS7
+SkiBAgMBAAGjggUFMIIFATAaBgorBgEEAYPPdgMBBAwMCjA5MTA2NTg5MzkwGgYKKwYBBAGDz3YD
+AgQMDApKSU1NWSBQQVVMMBUGCisGAQQBg892AwMEBwwFVE9SQUwwFAYKKwYBBAGDz3YDBAQGDARB
+QkFEMB8GCisGAQQBg892AwUEEQwPR0VSRU5URSBHRU5FUkFMMDIGCisGAQQBg892AwcEJAwiQVYg
+R1VJTExFUk1PIENVQklMTE8gWSBGRUxJUEUgUEVaTzAaBgorBgEEAYPPdgMIBAwMCjA5OTE4OTg4
+MDAwGQYKKwYBBAGDz3YDCQQLDAlHdWF5YXF1aWwwFwYKKwYBBAGDz3YDDAQJDAdFQ1VBRE9SMB0G
+CisGAQQBg892AwsEDwwNMDk5MjI0NTU0OTAwMTAdBgorBgEEAYPPdgMKBA8MDUNFTExORUwgUy4u
+QS4wDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUoeKOLQhE0buP3kJqmUoS70QDgykwHwYDVR0jBBgw
+FoAU7XZIsArxyYaGDExGZNIG+MzVvT4wDgYDVR0PAQH/BAQDAgXgMDoGA1UdHwQzMDEwL6AtoCuG
+KWh0dHA6L2VuZXh0Mi54eXovTGF6emF0ZUNBMi9lbWlzb3JDQTIuY3JsMIIBhAYDVR0gBIIBezCC
+AXcwfAYKKwYBBAGDz3YCAjBuMGwGCCsGAQUFBwICMGAaXkVsIHByZXNlbnRlIGNlcnRpZmljYWRv
+IGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6
+YXRlIENpYS4gTHRkYS4wgfYGCSsGAQQBg892AjCB6DBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50
+ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1
+cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMHgGCCsGAQUFBwICMGwaakVsIHByZXNlbnRlIGNl
+cnRpZmljYWRvIHN1Ym9yZGluYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2Fz
+IGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wggFVBgNVHREEggFMMIIBSKAaBgor
+BgEEAYPPdgMBoAwMCjA5MTA2NTg5MzmgGgYKKwYBBAGDz3YDAqAMDApKSU1NWSBQQVVMoBUGCisG
+AQQBg892AwOgBwwFVE9SQUygFAYKKwYBBAGDz3YDBKAGDARBQkFEoB8GCisGAQQBg892AwWgEQwP
+R0VSRU5URSBHRU5FUkFMoDIGCisGAQQBg892AwegJAwiQVYgR1VJTExFUk1PIENVQklMTE8gWSBG
+RUxJUEUgUEVaT6AaBgorBgEEAYPPdgMIoAwMCjA5OTE4OTg4MDCgGQYKKwYBBAGDz3YDCaALDAlH
+dWF5YXF1aWygFwYKKwYBBAGDz3YDDKAJDAdFQ1VBRE9SoB0GCisGAQQBg892AwugDwwNMDk5MjI0
+NTU0OTAwMaAdBgorBgEEAYPPdgMKoA8MDUNFTExORUwgUy4uQS4wPAYIKwYBBQUHAQEEMDAuMCwG
+CCsGAQUFBzABhiBodHRwOi8vZW5leHQyLnh5ejo4Nzc3L2Fkc3Mvb2NzcDANBgkqhkiG9w0BAQsF
+AAOCAQEAtn8osZPOlZSKBhlUD3LBDcgEu/GgcKA3X90RGSUeDlexxr5KxClQYmns+Z3iYRmutpTY
+XFR6ZgX8mpE8X2G7eCcGaQFts3MV5EAT0/8tykw8qLBXaZqUnIL5Ml9ybG0zAstzTE+jqaZ/pXlp
+p30DklHhsqLRiqATjXvwjpH86qhKGJD2YIk3VnKsXWrTFM9toAOY9cd0MgLy3ODEh7kiCl6DASpr
+cukwmPWa3lGoc054Mxbfc3cO1VMd5uRa9KkAPU7NtQKG0xJjPiDf3hBybngLarWlKct6cS/wb0Fr
+VuxTYLh1YPLOM8qgwrO2sLraf7pX5JCcj83GdhunxjTbKg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+kzzPp/WyRjwyxIiqHyPcPpM4JIP9ny+78KaokE/+YRRB9gwG2kYYMulfY3T/E7wP2ZoRJhFndHPw
+OfVmV2jBUSf/587W9lnLdeXt8c26numRlouJ3PJ/GMQzHB4PrXxXIq0bERq9DW8VMU9k3ctl7BNH
+BIpuiip7DCzgjzBj5Rg/9YAf2L8joFuSjEyh95D2E717tWJuV/JmC2/4rDDk4XasGpR9oEXo255z
+VKw4sq9iCyjIRpdDOWO0p2koDOndp3HS9oF4XzpA8vDPZc7PiuNXI7N1vN5nWn3aY5OlNpdgx461
+eId/lvX3a9ppMW3edrY+UkcgoAnq75HEu0pIgQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature643723-Object745734"><etsi:QualifyingProperties Target="#Signature643723"><etsi:SignedProperties Id="Signature643723-SignedProperties450891"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-23T18:19:36-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>p0zHSqiCyU8h8ENqmPqQEfIrOJM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254949338</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-955158"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601099336743900121940040000297150000308515</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T11:24:58-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>GDFSE S.A.S</razonSocial>
+    <nombreComercial>FARMACIAS SUPER ECONOMICA</nombreComercial>
+    <ruc>0993367439001</ruc>
+    <claveAcceso>1504202601099336743900121940040000297150000308515</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>194</estab>
+    <ptoEmi>004</ptoEmi>
+    <secuencial>000029715</secuencial>
+    <dirMatriz>COOP PANCHO JACOME UNO MZ268 S14</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>15/04/2026</fechaEmision>
+    <dirEstablecimiento>BASTION POPULAR MZ 832 SL16</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <paisOrigen>593</paisOrigen>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>TRANSP WILQ SA</razonSocialComprador>
+    <identificacionComprador>0993048135001</identificacionComprador>
+    <totalSinImpuestos>5.61</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>5.61</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0</valor>
+        <valorDevolucionIva>0</valorDevolucionIva>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>0</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>0</valor>
+        <valorDevolucionIva>0</valorDevolucionIva>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>5.61</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>5.61</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dia</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>15364</codigoPrincipal>
+      <codigoAuxiliar>15364</codigoAuxiliar>
+      <descripcion>NIMPAS TABx20</descripcion>
+      <cantidad>4</cantidad>
+      <precioUnitario>0.31</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.26</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>32531</codigoPrincipal>
+      <codigoAuxiliar>32531</codigoAuxiliar>
+      <descripcion>MOXILAN CAPx1GRx10</descripcion>
+      <cantidad>4</cantidad>
+      <precioUnitario>0.84</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>3.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>3.35</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>00877</codigoPrincipal>
+      <codigoAuxiliar>00877</codigoAuxiliar>
+      <descripcion>AMPIBEX CAPx500MGx240</descripcion>
+      <cantidad>5</cantidad>
+      <precioUnitario>0.2</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>63513</codigoPrincipal>
+      <codigoAuxiliar>63513</codigoAuxiliar>
+      <descripcion>FUNDAS 0 ROLLO DURAPRO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">BASTION PÒPULAR BOLQ2</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0967463353</campoAdicional>
+    <campoAdicional nombre="EMAIL">transpwilq@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature785350">
+<ds:SignedInfo Id="Signature-SignedInfo122553">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID637737" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature785350-SignedProperties677757">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>YKWjRuUeb5EO4JG64X8CGFhafPM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1539501">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>5e+o2VXpjWEYeV+e7Jv8wIHftfY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-31932" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>CYpay75WukjALsHqCKS7LbBRSIM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue938216">
+b86gGiIudAtaNZmigxaqr7FMtA4/r7lgKeaytr0Grl8Ztc8ZykdFNwij55P0TdleU5TMi8KSpMO+
+1y9e7aB3PlI6OMk9lKdHgXEYmktQ4O6IFq7/yf/Z7GfhnYFyxTTz98xdl7KssUVsbBLYHUVvO5SY
+AENRgoemPG3FaK6ABI7laXxWq5YhnuLf86wV+gUzrJtqTanESTiBTfPVSs7J9Qevcw0MUJE5Phx1
+Qf+55OywGhW0BzaHir4Gz18G3sAoMd14STpNc+siy21F5Ko/kSEPtWMxD9fUjugJN+qcoW3f8ugN
+6SmHdc/sQwy92CbOUnMwFiub57fRt5GceRExbA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1539501">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ3zCCB8egAwIBAgIIdOG6ycfVx9UwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDMwNDE2MDIwMFoXDTI3MDMwNDE2MDIwMFowgdcxCzAJBgNVBAYTAkVDMRUwEwYDVQQKDAxH
+REZTRSBTLkEuUy4xGDAWBgNVBAwMD0dFUkVOVEUgR0VORVJBTDEaMBgGA1UEBAwRUEFMQUNJT1Mg
+QlVFTkHDkU8xFzAVBgNVBCoMDkNBUkxPUyBBQlNBTE9OMRkwFwYDVQQFExBJRENFQy0wOTEyMjc3
+NzA0MSkwJwYDVQQDDCBDQVJMT1MgQUJTQUxPTiBQQUxBQ0lPUyBCVUVOQcORTzEcMBoGA1UEYQwT
+VkFURUMtMDk5MzM2NzQzOTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAI9cTkKH
+V1dGNb4rpba4VJOR2V8FdytnDQuDBxJD6lkCpl05mz00XcxPd2uWaclvID89mhfb4A5EB1Vx7t4j
+DqCXN2DNL76yWOOW355no4Ihv7tkgrsAkeLQUGbdl1wV81BmNFDGZNY0Hq8ImA4yU95UL2t1X3PR
+yG4tYRxVHzxrPc8Iv4K2Xf6tNJgLBBXu1WLaT5psxy/wmmtaOrENdkfWmkFgoe7R0HuX4XNiFtIo
+k3ORPQvIRGQ+NXEPHxZrm+QGCdz5Yug5vyUip1ZB1PTSH7NHhGRV6tVHayZ0WrT9SQiPVm9UIyLO
+blx23fryonOVaGRT+CLqry1UTMjGEHkCAwEAAaOCBMowggTGMBsGCysGAQQBgvE2ZgMBBAwMCjA5
+MTIyNzc3MDQwHgYLKwYBBAGC8TZmAwsEDwwNMDk5MzM2NzQzOTAwMTCB1wYIKwYBBQUHAQEEgcow
+gccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90
+c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3Nw
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3Ay
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBR+Zqdt3R/cIzPJ0FVae5tC
+dbfduDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGOBgNV
+HSAEgYYwgYMwgYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5h
+dGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJRklDQURPIERF
+IFJFUFJFU0VOVEFOVEUgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3Js
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpo
+dHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggILBgNVHREE
+ggICMIIB/oEgYWRtaW5pc3RyYWNpb25Ac3VwZXJlY29ub21pY2EuZWOgGwYLKwYBBAGC8TZmAwGg
+DAwKMDkxMjI3NzcwNKAfBgsrBgEEAYLxNmYDAqAQDA5DQVJMT1MgQUJTQUxPTqAZBgsrBgEEAYLx
+NmYDA6AKDAhQQUxBQ0lPU6AZBgsrBgEEAYLxNmYDBKAKDAhCVUVOQcORT6AgBgsrBgEEAYLxNmYD
+BaARDA9HRVJFTlRFIEdFTkVSQUygcwYLKwYBBAGC8TZmAwegZAxiQkFSUklPOiBDT09QIEZSQU5D
+SVNDTyBKQUNPTUUgQ0FMTEU6IEEgTk1FUk86IFNMIDE0IElOVEVSU0VDQ0lOOiBBVi4gRURVQVJE
+TyBGUkFOQ08gU09MQSBFTlRSTyA2VE+gHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5Njg2MDUyNzeg
+GgYLKwYBBAGC8TZmAwmgCwwJR1VBWUFRVUlMoB0GCysGAQQBgvE2ZgMKoA4MDEdERlNFIFMuQS5T
+LqAeBgsrBgEEAYLxNmYDC6APDA0wOTkzMzY3NDM5MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCQG
+CysGAQQBgvE2ZgMyoBUME1JFUFJFU0VOVEFOVEUgTEVHQUygGAYLKwYBBAGC8TZmAzOgCQwHQVJD
+SElWTzANBgkqhkiG9w0BAQsFAAOCAgEADe0ic/JLfWLL20+1R4gh/8J6fhYNjKrL8x1GEEv7B5iO
+jpWhFlfkg1njV248Ijthu/mV83WVR8f7zNZfQk9s8Y7iYPuYOU+VSUanrAfMEL57/r2nYH+jRlof
+sjibvcgy9AwNCx+P+iUWLVzLYOhmztaknJ0LTka4gKcwGRki7yf9B/mcqZRsq2Il8z6Ffmmx97nO
+35qd6iqdBLBFxLp6PtOcVfkO3LRAdq0THJbVZjWtsZhvjO8cQV3fIrzCdYODD/kpkHM5ITNzPtvo
+oBVoq5D+AQgXBoCclSYycR7vWpZuE4z0IAZGzfwpKm9ZatD2z/6ThPcH+dbrzDqQT1wkK3fiSEE5
+exdsk1utUueAuTUfk5mTIfLAae6uBRYnXbZA7UqoLQpBFVCr1YfsMOD7T+G/iGxoO96Mqe8wyP/S
+8nUyYJPtOlvJZkHy3KbjvLx2rRKtf+81u2LMvnrTNr/aMn9daPqJDOGMCrZ6Sanvz7t/roYGGhGp
+O+LPbvmCJW4msdrV5KlbKALxyaAv8+iSVFGBgBCS7fePMs0Y4GZ/hLJpxuduK83Iw8k+lyv6RBOV
+4i8FUojrIabYK1pK5r0v2+NFB3JVjDgCBKgkyKuFV62do7Y8Ibod2Rml9GLcFCHZ4WT1WEUc4g5+
+Wif/49lZuw1xTkE6eLTlyxxrJdUZEok=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+j1xOQodXV0Y1viultrhUk5HZXwV3K2cNC4MHEkPqWQKmXTmbPTRdzE93a5ZpyW8gPz2aF9vgDkQH
+VXHu3iMOoJc3YM0vvrJY45bfnmejgiG/u2SCuwCR4tBQZt2XXBXzUGY0UMZk1jQerwiYDjJT3lQv
+a3Vfc9HIbi1hHFUfPGs9zwi/grZd/q00mAsEFe7VYtpPmmzHL/Caa1o6sQ12R9aaQWCh7tHQe5fh
+c2IW0iiTc5E9C8hEZD41cQ8fFmub5AYJ3Pli6Dm/JSKnVkHU9NIfs0eEZFXq1UdrJnRatP1JCI9W
+b1QjIs5uXHbd+vKic5VoZFP4IuqvLVRMyMYQeQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature785350-Object855021"><etsi:QualifyingProperties Target="#Signature785350"><etsi:SignedProperties Id="Signature785350-SignedProperties677757"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T11:24:57-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>7LiTh2OTtG/LO6A/SJL3vwVGaIg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>8422218153963407317</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-31932"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

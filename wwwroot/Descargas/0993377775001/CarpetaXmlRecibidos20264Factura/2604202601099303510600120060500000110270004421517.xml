@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2604202601099303510600120060500000110270004421517</numeroAutorizacion>
+<fechaAutorizacion>2026-04-26T20:03:34-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura version="1.1.0" id="comprobante">
+<infoTributaria>
+<ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>FIXITEC COMPANIA ELECTRONICA FIXITMEX S A</razonSocial><nombreComercial>FIXITEC COMPANIA ELECTRONICA FIXITMEX S A</nombreComercial><ruc>0993035106001</ruc><claveAcceso>2604202601099303510600120060500000110270004421517</claveAcceso><codDoc>01</codDoc><estab>006</estab><ptoEmi>050</ptoEmi><secuencial>000011027</secuencial><dirMatriz>GUAYAS   GUAYAQUIL   TARQUI   VIA A LA COSTA LOCAL 17 Y SN</dirMatriz></infoTributaria><infoFactura>
+<fechaEmision>26/04/2026</fechaEmision><dirEstablecimiento>AV DEL BOMBERO</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>Kapicchi</razonSocialComprador><identificacionComprador>0993377775001</identificacionComprador><direccionComprador>Gye</direccionComprador><totalSinImpuestos>12.97</totalSinImpuestos><totalDescuento>0.56</totalDescuento><totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>12.97</baseImponible><valor>2.03</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>15.00</importeTotal><moneda>DOLAR</moneda><pagos>
+<pago>
+<formaPago>01</formaPago><total>15.00</total></pago></pagos></infoFactura><detalles>
+<detalle>
+<codigoPrincipal>2038</codigoPrincipal><descripcion>Estuche iphone 14 pro max</descripcion><cantidad>1.000000</cantidad><precioUnitario>13.530435</precioUnitario><descuento>0.56</descuento><precioTotalSinImpuesto>12.97</precioTotalSinImpuesto><impuestos>
+<impuesto>
+<codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>12.97</baseImponible><valor>1.95</valor></impuesto></impuestos></detalle></detalles><infoAdicional>
+<campoAdicional nombre="E-MAIL">new@kapicchi.com</campoAdicional><campoAdicional nombre="VENDEDOR">Kevin Veloz</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="SignatureN0"><ds:SignedInfo Id="Signature-SignedInfo379688"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID429911" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignatureN0-SignedPropertiesN0"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>0yIzRc2Tt6JUf0dEgAuRkJRwtTs=</ds:DigestValue></ds:Reference><ds:Reference URI="#CertificateN0"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>ragN6lvUASYlVweQOMtGxBTo2Lk=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-N0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>jQmMTkGTomiNORfyLdZHv/cmLVA=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValueN0">bi1DhiOsEQ52cR3nRODgmEq1rt4nG3mP74Yq3gaTaHYAaynXHrCY7skBrpAqbiOqJ4dHMEcD50fwnG7lnS+T6mrHziXO6M9rpLxIYx//xwmtHVBbJ87DqdDNJbDu4D3wk/nWSGbyzqMn1QgjYtPXAj8PrpgrcjuHKz2uWXX0Trc0MCFEhiglar5Il6uYJxzBm1Sih7GKz+D/OJcbHqBHYqN76beVW4Q6njSv8PcGTAVr+p0cAT0KlYY3b4eSigjW9SMdmEDhpvFRrsEzMdV243fAm7qawDHMMF78qflMYMUrKfeXTpg0uoz/9uTCMx3glBGfq/fThjaddF0W3Sck7Q==</ds:SignatureValue><ds:KeyInfo Id="CertificateN0"><ds:X509Data><ds:X509Certificate>MIIKEDCCB/igAwIBAgIIOB5mLd3oypQwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNV
+BAYTAkVTMUQwQgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3Mg
+YXQgd3d3LnVhbmF0YWNhLmNvbS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0Eg
+Uy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNBMRowGAYDVQQDDBFVQU5BVEFDQSBD
+QTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4XDTI1MDUzMTE0NTMw
+MFoXDTI2MDUzMTE0NTMwMFowgfQxCzAJBgNVBAYTAkVDMTQwMgYDVQQKDCtGSVhJ
+VEVDIENPTVBBw5FJQSBFTEVDVFJPTklDQSBGSVhJVE1FWCBTLkEuMRgwFgYDVQQM
+DA9HRVJFTlRFIEdFTkVSQUwxGzAZBgNVBAQMEkJFSkFSQU5PIExPUkVOWkFOQTEV
+MBMGA1UEKgwMTFVJUyBBTEJFUlRPMRkwFwYDVQQFExBJRENFQy0wOTU2MjU3Njc5
+MSgwJgYDVQQDDB9MVUlTIEFMQkVSVE8gQkVKQVJBTk8gTE9SRU5aQU5BMRwwGgYD
+VQRhDBNWQVRFQy0wOTkzMDM1MTA2MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAhdXNrfanDXBtEuNj+TiZdg5ajuGK5124czUTyPJLLk155UXYpPcC
+VXCIYbVWlMWxwGSaZVCmN7vP7Ux/AFlq15BFZY6e62ZBkibTMEErU3NcHHtLg5Ho
+8gnmH70RNWfOsBuY9OVrGquqfMeC5bbemDbCvbHcHovpDj8KV0HPlqWqxyzpOgLo
+zskBvzXBNTduZRdKeXbQ9/eNdqfirWTqVZMiwDZyLHh3A1LumxcKTBCrEfP3/b79
+yZloCt3WZRrCNyZso31l9MYjnCnO6S1muvGpLE5D6aR8TC5AI6o9h6Ow2MEWsgq7
+xHQ5TfP3yThXpvz4yoeG8K4wyx6p6opZJQIDAQABo4IE3jCCBNowGwYLKwYBBAGC
+8TZmAwEEDAwKMDk1NjI1NzY3OTAeBgsrBgEEAYLxNmYDCwQPDA0wOTkzMDM1MTA2
+MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51
+YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vi
+b3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFLno1dFlftm0
+KsJXetutrrBL4tz/MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap
+4qNo8OERsnSSc/0wgY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYI
+KwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2Rw
+Yy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVTRU5UQU5U
+RSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+
+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJz
+dWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMCBggrBgEFBQcDBDCCAh8GA1UdEQSCAhYwggISgRdhbG9yZW56YW5hLm14QGdt
+YWlsLmNvbaAbBgsrBgEEAYLxNmYDAaAMDAowOTU2MjU3Njc5oB0GCysGAQQBgvE2
+ZgMCoA4MDExVSVMgQUxCRVJUT6AZBgsrBgEEAYLxNmYDA6AKDAhCRUpBUkFOT6Aa
+BgsrBgEEAYLxNmYDBKALDAlMT1JFTlpBTkGgIAYLKwYBBAGC8TZmAwWgEQwPR0VS
+RU5URSBHRU5FUkFMoHIGCysGAQQBgvE2ZgMHoGMMYUNBTExFOiBWSUEgQSBMQSBD
+T1NUQSBOTUVSTzogTE9DQUwgMTcgSU5URVJTRUNDSU46IFNOIEtJTE1FVFJPOiAx
+MSBFRElGSUNJTzogQyBDIEJMVUUgQ09BU1QgQ0VOVEWgHwYLKwYBBAGC8TZmAwig
+EAwOMDA1OTM5Njg2MzYwNzagGgYLKwYBBAGC8TZmAwmgCwwJR1VBWUFRVUlMoDwG
+CysGAQQBgvE2ZgMKoC0MK0ZJWElURUMgQ09NUEHDkUlBIEVMRUNUUk9OSUNBIEZJ
+WElUTUVYIFMuQS6gHgYLKwYBBAGC8TZmAwugDwwNMDk5MzAzNTEwNjAwMaATBgsr
+BgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRF
+IExFR0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQAD
+ggIBAJsSwllAh0ZKurjlv79+zq+6xMuQpWfyeukPhvMy8i3FJfqUDxMgT0mvsLrU
+VvxiuzljF6wSokbm04XhrJ2QVcFuitZ8imU8s9ooLk11Cd1OA8zwsgPumB3Mjc3T
+xcp552SZTuuCtZuJ/qdzAaRe8FEe2G5PndN3PTfuDbarD3/BKxNWtU0m3zYG45bE
+DitdwVPeomtpY2eHO1e/UsEqGQWxs4UbsK07vV7hbt5Aoq7ltFW1ZFXVbBXz7W4q
+dOX1WoD2sL3/+LpNmPCohR+15Wueo2j7TS0ew6GLt/IUTwxn/zrJrGcYD4EvyxYh
+qYfCLRrWnmtRRDXN7jMwChA2IgdKXLfRUKv4Dlau1ieX2Rsj4P41LTMyGcIlkgWv
+Z/DjY92KY9rxatc1eNvDt8C8hTTt9OCGv8Bo6Nc2oJTU2UJsiL1CtYMyP5wDJaUp
+6O/+YtbnPSfJps+D8Ic6ZRIUR52GAfdC1D9MRAugVjf5r2ijQZbI72OCuvHRgZE7
+qvvXlAb+yyL8SSxKN6NWorNTArmdPdrFTPvMwburfjeEvvmRt04zkKZeNtDxBqiP
+zHvaFSqLYpGD2RIo0GgCaobw4EsTLh5pFiRlLk0e4N3LfEL0AhGLQxKTKAdrR6p1
+XTXBSllx5TV+tUv89nddVm3mSw85hJquP1FXTBVaSF4BX8qH</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>hdXNrfanDXBtEuNj+TiZdg5ajuGK5124czUTyPJLLk155UXYpPcCVXCIYbVWlMWxwGSaZVCmN7vP7Ux/AFlq15BFZY6e62ZBkibTMEErU3NcHHtLg5Ho8gnmH70RNWfOsBuY9OVrGquqfMeC5bbemDbCvbHcHovpDj8KV0HPlqWqxyzpOgLozskBvzXBNTduZRdKeXbQ9/eNdqfirWTqVZMiwDZyLHh3A1LumxcKTBCrEfP3/b79yZloCt3WZRrCNyZso31l9MYjnCnO6S1muvGpLE5D6aR8TC5AI6o9h6Ow2MEWsgq7xHQ5TfP3yThXpvz4yoeG8K4wyx6p6opZJQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="SignatureN0-ObjectN0"><xades:QualifyingProperties Target="#SignatureN0"><xades:SignedProperties Id="SignatureN0-SignedPropertiesN0"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-26T19:53:32</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>8csxsBaaFQz//iPzPwXl11stI7Q=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=VATES-A66721499,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>4043781862607866516</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-ID-N0"><xades:Description>contenido comprobante</xades:Description><xades:MimeType>text/xml</xades:MimeType></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

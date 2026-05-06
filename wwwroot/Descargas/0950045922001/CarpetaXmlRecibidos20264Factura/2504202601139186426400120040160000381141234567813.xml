@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2504202601139186426400120040160000381141234567813</numeroAutorizacion>
+<fechaAutorizacion>2026-04-25T10:54:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+   <ambiente>2</ambiente>
+   <tipoEmision>1</tipoEmision>
+   <razonSocial>IZMARJO S.A.</razonSocial>
+   <nombreComercial>TODO FIESTA</nombreComercial>
+   <ruc>1391864264001</ruc>
+   <claveAcceso>2504202601139186426400120040160000381141234567813</claveAcceso>
+   <codDoc>01</codDoc>
+   <estab>004</estab>
+   <ptoEmi>016</ptoEmi>
+   <secuencial>000038114</secuencial>
+   <dirMatriz>MANABI &#x002F; MANTA &#x002F; MANTA &#x002F; 14 S&#x002F;N Y AV. 24 ESQUINA</dirMatriz>
+   <agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+   <fechaEmision>25/04/2026</fechaEmision>
+   <dirEstablecimiento>GUAYAS &#x002F; GUAYAQUIL &#x002F; TARQUI &#x002F; AV. AGUSTIN FREIRE 303&#x002D;310 Y AV. 32AD &#x002D; AV 33RA</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+   <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+   <razonSocialComprador>LOAIZA SUAREZ BELGIA</razonSocialComprador>
+   <identificacionComprador>0950045922</identificacionComprador>
+   <totalSinImpuestos>5.48</totalSinImpuestos>
+   <totalDescuento>0.00</totalDescuento>
+   <totalConImpuestos>
+   <totalImpuesto>
+      <codigo>2</codigo>
+      <codigoPorcentaje>4</codigoPorcentaje>
+      <baseImponible>5.48</baseImponible>
+      <valor>0.82</valor>
+   </totalImpuesto>
+   </totalConImpuestos>
+   <propina>0.00</propina>
+   <importeTotal>6.30</importeTotal>
+   <moneda>DOLARES</moneda>
+<pagos>
+<pago>
+<formaPago>19</formaPago>
+<total>6.30</total>
+<plazo>0</plazo>
+<unidadTiempo>DIAS</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+   <detalle>
+     <codigoPrincipal>2602230</codigoPrincipal>
+     <descripcion>FUNKO SNOOPY </descripcion>
+     <cantidad>1.000000</cantidad>
+     <precioUnitario>2.826087</precioUnitario>
+     <descuento>0.00</descuento>
+     <precioTotalSinImpuesto>2.83</precioTotalSinImpuesto>
+     <impuestos>
+         <impuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <tarifa>15.00</tarifa>
+            <baseImponible>2.83</baseImponible>
+            <valor>0.42</valor>
+         </impuesto>
+     </impuestos>
+   </detalle>
+   <detalle>
+     <codigoPrincipal>1017035</codigoPrincipal>
+     <descripcion>MANTEL PLASTICO COLOR NEGRO X 1 U.</descripcion>
+     <cantidad>1.000000</cantidad>
+     <precioUnitario>1.695652</precioUnitario>
+     <descuento>0.00</descuento>
+     <precioTotalSinImpuesto>1.70</precioTotalSinImpuesto>
+     <impuestos>
+         <impuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <tarifa>15.00</tarifa>
+            <baseImponible>1.70</baseImponible>
+            <valor>0.26</valor>
+         </impuesto>
+     </impuestos>
+   </detalle>
+   <detalle>
+     <codigoPrincipal>1009696</codigoPrincipal>
+     <descripcion>PALILLOS BAMBOO 20 CM SET 100 X .</descripcion>
+     <cantidad>1.000000</cantidad>
+     <precioUnitario>0.956522</precioUnitario>
+     <descuento>0.00</descuento>
+     <precioTotalSinImpuesto>0.96</precioTotalSinImpuesto>
+     <impuestos>
+         <impuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <tarifa>15.00</tarifa>
+            <baseImponible>0.96</baseImponible>
+            <valor>0.14</valor>
+         </impuesto>
+     </impuestos>
+   </detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="DIRECCION">SAMANES</campoAdicional>
+<campoAdicional nombre="TELEFONO">0959257611</campoAdicional>
+<campoAdicional nombre="EMAIL">bandreasuarezl@gmail.com</campoAdicional>
+</infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-1760936035"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="ReferenciaComprobante" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>KLMHPMelxeehUsv6Tfu6yyoRz8I=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenciaCertificado" URI="#Certificado"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>3fxYEHeDTUaWwlNLEhToTtLYrig=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-1218839717"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>A/V5BTWBOXO4d6OUlhnDAq00940=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>ib0KygIgLL1IcXK0iy2Z+6AZBzVDflpoVLo43HTX2+lPE6rnBdofxgn+hyBrf9GSk66wuXNuGG1y8o5r0R1877cJUOYZGd1Y3bPFft8UfnrPB7d5xWb2sSNz7Jz3tKi5KfKUB/kfMM12ATat8RSUjrnrzo84fVK1y8EMZ9QcAhhOxOwS+JA9WDfgWWD9/C/sg2Jft+M31fDBe5by1fYZ0BdMJ4l43k27E1BbWKEgh4AY9z/4X0YdsVi/Yzd6vFVkqiNDPwIfHO2yStB7TnkbRX8HpfWdbOIrHiKQajIiELfTwbeA6D+GJQIToXUp0FNnvceQ3uHH8jPRwL/oriZUsQ==</ds:SignatureValue><ds:KeyInfo Id="Certificado"><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>oQqj9GIrB7//KORP5lrywLMb5XzcPkDWFtLEU50yV4uwL6P7P5yJBuueg9LAYs7pSZdgHQrULJkSWGJuQQYVe0ystfX+91gm60E2nmScR6z/Z5RV5x++FUI168WviOX/UKv3hULazwYFsGz3VEkX05R5HsPMSEC2Jg0/+J7zHe9vYlbEMseSmBLAZ3/RuA7wolzv+VvFBERi1UdZtiS1P42C2YyG3HfL6ZA7bwg7LB+/mjJq84i/IwzH3yE39SlZM+GGLSy7SUWr0FiTKpQbfPA+qx5z8rRtQ0C91N8SBQUZD/1/YM5euvEirAjPYvak2aMFybknCcwGdSKCmtXbew==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>2020213081</ds:X509SerialNumber></ds:X509IssuerSerial><ds:X509SubjectName>C=EC, O=SECURITY DATA S.A. 2, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, 2.5.4.5=270323175037, CN=MARIA LORENA MARCHAN JONIAUX</ds:X509SubjectName><ds:X509Certificate>MIIL8TCCCdmgAwIBAgIEeGoBWTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAzMjcyMjQxMDBaFw0yODAzMjYyMjQxMDBaMIGcMSUwIwYDVQQDDBxNQVJJQSBMT1JFTkEgTUFSQ0hBTiBKT05JQVVYMRUwEwYDVQQFEwwyNzAzMjMxNzUwMzcxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoQqj9GIrB7//KORP5lrywLMb5XzcPkDWFtLEU50yV4uwL6P7P5yJBuueg9LAYs7pSZdgHQrULJkSWGJuQQYVe0ystfX+91gm60E2nmScR6z/Z5RV5x++FUI168WviOX/UKv3hULazwYFsGz3VEkX05R5HsPMSEC2Jg0/+J7zHe9vYlbEMseSmBLAZ3/RuA7wolzv+VvFBERi1UdZtiS1P42C2YyG3HfL6ZA7bwg7LB+/mjJq84i/IwzH3yE39SlZM+GGLSy7SUWr0FiTKpQbfPA+qx5z8rRtQ0C91N8SBQUZD/1/YM5euvEirAjPYvak2aMFybknCcwGdSKCmtXbewIDAQABo4IHOjCCBzYwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwJgYDVR0RBB8wHYEbdG9kb2ZpZXN0YWVjdWFkb3JAZ21haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFJLQgjI5Z5ZPnTLnwqOOoV+qslX/MCsGA1UdEAQkMCKADzIwMjMwMzI3MjI0MTAwWoEPMjAyODAzMjYyMjQxMDBaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjEzMDU5ODc3MzUwFQYKKwYBBAGCpnIDCQQHDAVNQU5UQTARBgorBgEEAYKmcgMiBAMMAS4wJgYKKwYBBAGCpnIDBwQYDBYxNCBTIE4gWSBBViAyNCBFU1FVSU5BMBwGCisGAQQBgqZyAwIEDgwMTUFSSUEgTE9SRU5BMB8GCisGAQQBgqZyAyAEEQwPMDA0MDAxMDAwMDUzMzg0MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB01BUkNIQU4wGwYKKwYBBAGCpnIDCgQNDAtJWk1BUkpPIFMgQTAdBgorBgEEAYKmcgMLBA8MDTEzOTE4NjQyNjQwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAXBgorBgEEAYKmcgMEBAkMB0pPTklBVVgwGgYKKwYBBAGCpnIDCAQMDAowOTk5Njk5MDQxMA0GCSqGSIb3DQEBCwUAA4ICAQCn54klGShq/D2oWlriRSaGZzjdZDWxXzN0PvpvOnxq6Prp2+W9rP5j2QJg8mVbIRlRj4+kXBTEw1nWmXokOk3Gwg4eF41Op08GjNrDLdGkA9GR2KKgWWMiWRAJgyh9d3XFafrbzYtsfEB3L9dY9L17nh5UiNL5HKF619jK/NboUMSkHXtwtZ7ut1b5+0SYLxHEosGkzASuNW5RIpraZijUM33lel+VYg+UegRTuBZ5Vhkr1Ax7o0Q+EbEjEtec/ERpT/uUp5xaddNqTBBuXMocNsnlgbqlDvATUG/OOR8/u5Q73k/vLJQQoKPoS0zi5yfY+1LTUaOJV0/6U4SpMfpQKpl/1AkwzmTSyAcsSkRIpRBjv/syAl5JosDLcGLkLSySWZNMtwGPh9XibbHlFhhf9I9dK5OhnvDE/v9PV/od4Bkr8Vl2UggqD7gOT8H1Q+AuE9IZQxRSKszNzN0Fx0ZE7gITj8KmqPCcPwR8irmss0rLPLpJGGWMWkYChigDypm4ow6c2XRlneGS03f1R8aj+HESLSbMTADAgGuUv7oIG0ErYYVYETSpvbLx+dsdas35/n7riTgiXqEhVEM38zZS77+sP6vIsdkwJ4gh34SIE89dt6SgFeqUvZv7n+1ripUHUWMjbeA/cz2BcEQ533y7IkTH5jyGUReRYJZzRP0r3A==</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><QualifyingProperties xmlns="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-1760936035"><SignedProperties Id="SignedProperties-1218839717"><SignedSignatureProperties><SigningTime>2026-04-25T14:54:40.559Z</SigningTime><SigningCertificate><Cert><CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Z734dC4v8zW9rTJ46hpmpmv28jY=</ds:DigestValue></CertDigest><IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>2020213081</ds:X509SerialNumber></IssuerSerial></Cert></SigningCertificate></SignedSignatureProperties></SignedProperties></QualifyingProperties></ds:Object></ds:Signature>
+</factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601010204527500120011020000022126221396510</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T13:19:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>LARRIVA CORONEL ROSA CATALINA</razonSocial>
+        <nombreComercial>TOTAL COUNTS</nombreComercial>
+        <ruc>0102045275001</ruc>
+        <claveAcceso>0804202601010204527500120011020000022126221396510</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>102</ptoEmi>
+        <secuencial>000002212</secuencial>
+        <dirMatriz>Calle: ISABEL LA CATOLICA Numero: S/N Interseccion: JOSE ZORRILLA </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>08/04/2026</fechaEmision>
+        <dirEstablecimiento>Calle: ISABEL LA CATOLICA Numero: S/N Interseccion: JOSE ZORRILLA </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>LUVET S.A.S.</razonSocialComprador>
+        <identificacionComprador>0195172951001</identificacionComprador>
+        <totalSinImpuestos>250.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>250.00</baseImponible>
+                <valor>37.50</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>287.50</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>287.50</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>001</codigoPrincipal>
+            <descripcion>SERVICIOS CONTABLES MES DE ENERO</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>50.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>50.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="-"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>50.00</baseImponible>
+                    <valor>7.50</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>002</codigoPrincipal>
+            <descripcion>SERVICIOS CONTABLES MES DE FEBRERO</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>50.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>50.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="-"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>50.00</baseImponible>
+                    <valor>7.50</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>003</codigoPrincipal>
+            <descripcion>SERVICIOS CONTABLES MES DE MARZO</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>50.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>50.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="-"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>50.00</baseImponible>
+                    <valor>7.50</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>020</codigoPrincipal>
+            <descripcion>DECLARACION DEL IMPUESTO A LA RENTA</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>100.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>100.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="-"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>100.00</baseImponible>
+                    <valor>15.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">072885961</campoAdicional>
+        <campoAdicional nombre="Email">luvet2026@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-e85aa873-3108-43c2-a0b8-1680b915e7fa"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-e85aa873-3108-43c2-a0b8-1680b915e7fa-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>/V+yWkug7JeFyP7Y4q4Us9kDyMQUXXQcfMMK9fXAFdg=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-e85aa873-3108-43c2-a0b8-1680b915e7fa-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>WjAwvsKt4F1TLNIiA+iJ3Q3oUnT9qfkj9y9/g+wW/qg=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-e85aa873-3108-43c2-a0b8-1680b915e7fa-sigvalue">Op49O/WwbKTODGp8gIRvJhdXpmr6ar2iktSWFBXhw5/OBMrYbYfk3J0ugA1VEw4qkpSDIoua1erQBzyrVgR0/XO8RcixCJyMmIRYXPyhCvzMqlcBqeUT5l+OkVL+lY10X12NCJVbAFYg6aOUJ64jYojFacwH0ggI/KhocpND049mKG30Zke5M+djGwWxInlp84ru17ipY5xCKsDxDGZNvQNIFN7rq9iH1Ar4iWQ6V5xpX08Mayb6oE+xV6dR1vHbaiqRGOUia+02qNI/kj2uZuwDuxlVjhsN4TgPd0VthBpHGrOOKxVDII9O3o9umljK06x74Txyi7UuzzvGX7vStQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIL4DCCCcigAwIBAgIEWDllNjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA1MjUyMTQ0MzNaFw0yNzA1MjUyMTQ0MzNaMIGdMSYwJAYDVQQDDB1ST1NBIENBVEFMSU5BIExBUlJJVkEgQ09ST05FTDEVMBMGA1UEBRMMMjUwNTIyMTY1NDI2MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALFSEhyoFx98rd3aJqyTsZdXwutejRyIEgtEyYT1Zm1hq0wofmk53aQIC+OTjhkpTPOofuM+baxVJdZ3n+XqSW0c2TuHLc+DCrEwapqOEEtIl+3C+AogxuYtFfFAFdOC9OksLlATXTZ4qWlpPoxS+dbTyQNobhLj+TSWnFA4hXTZ7Shiezql6gomYtp/DVuh55HdDpi+oFSmkDjDg/HI21e5GA0NUWva7KrO5pJolHOPOOYm3WCeFnCipkA/7b0kn4ZPNbcXz1UhLBoZ6Ilq6WtybOanq9QNI6Ng5EOuNzgOj7ZEJ5Plpbmf48wV4SyEajN2b7mK4S1ADP2iX9EZvjUCAwEAAaOCBygwggckMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCIGA1UdEQQbMBmBF3RvdGFsY291bnRzQGhvdG1haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFP2QZAXEO9vmOixi7LTF56ce5GF6MCsGA1UdEAQkMCKADzIwMjIwNTI1MjE0NDMzWoEPMjAyNzA1MjUyMTQ0MzNaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjAxMDIwNDUyNzUwFgYKKwYBBAGCpnIDCQQIDAZDVUVOQ0EwEQYKKwYBBAGCpnIDIgQDDAEuMD4GCisGAQQBgqZyAwcEMAwuSVNBQkVMIExBIENBVE9MSUNBIFMgTiBZIEZSQU5DSVNDTyBERSBPUkVMTEFOQTAdBgorBgEEAYKmcgMCBA8MDVJPU0EgQ0FUQUxJTkEwHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDAzNjIzMTcwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0xBUlJJVkEwEQYKKwYBBAGCpnIDHgQDDAEuMB0GCisGAQQBgqZyAwsEDwwNMDEwMjA0NTI3NTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdDT1JPTkVMMBoGCisGAQQBgqZyAwgEDAwKMDk4NjUxNDEyMTANBgkqhkiG9w0BAQsFAAOCAgEAtQjIhBuMNlyquGBwr3o9+aKVV1QgPrgh5vg2ljIs4NqbBwbAiZv57/oSfYuDWWLVbZXGS4X/2wBzKQaRLNZ7A31e0plpMukFkVF4kyS5FGyDxAsk0xtZg18Qy+BL7uXaeFQFgXolv+PCJa3aPbppO3tl1ELB0/rx9JyLEFLJmlMlchtb4WmgbRHPSyrNpa28fI99/9okvwkLrbn+gCQdsFhTA1NFqV6asGPiJ6tVGWmQxMUHOG/hWibGYDADy8TbXLqtSNwn+WNyGaBsOlWmMW6r6q4iE8bTUCNuPA6qt8Ehe1KCewKS55lKNCOtnm73vXyrVv3GD8Ul2n1+jY9KPFdo/TeK/Hj2MSkhGSkG3RnAhgw08q1hHiCue+KXX0YIle0U01YQNZ2v3AU1ZndflXxaPNQkOrPfZTfphlwHzPirPHMy9qv0sCX9Q+cbc3vyR+qBcibHhIngl04b6y6cyYhpv+KDTjAEMFEM3e+MSYMSWPwYzy7ondLhJTpli/eNZEIfzjL+TOGCKei6U82ZcJ9oUVtQyrW9iR0nylC3bZFM8+4yqvxszNe0pZ6YZ19ziuKhi28+nHLm9sZr++jSwlqG5OQh/atC9o1w6iF0zFDSM8e73GuYUbWvVmuTwGOPvVLL6l4o8zIoMKlrVST5WSPou31aS5+yi8vIQDjCdVc=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-e85aa873-3108-43c2-a0b8-1680b915e7fa"><xades:SignedProperties Id="xmldsig-e85aa873-3108-43c2-a0b8-1680b915e7fa-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-08T13:19:26.727-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ZRnU1ecOj1zDJo3rtqTm9B6aHJtUzQH2u0Umdbgje5s=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1480156470</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-e85aa873-3108-43c2-a0b8-1680b915e7fa-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601060314434600120020060000112190000093014</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T15:25:59-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>BLANCA GABRIELA ALULEMA SALGUERO</razonSocial>
+    <nombreComercial>NOTARIA SEGUNDA - CHIMBORAZO - COLTA</nombreComercial>
+    <ruc>0603144346001</ruc>
+    <claveAcceso>1304202601060314434600120020060000112190000093014</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>006</ptoEmi>
+    <secuencial>000011219</secuencial>
+    <dirMatriz>CALLE JUAN BERNARDO DE LEÓN ENTRE AV. UNIDAD NACIONAL Y CALLE MIGUEL DE ZAMBRANO, A MEDIA CUADRA DE LA COOP. MINGA LTDA.</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/04/2026</fechaEmision>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>MARIELA JACQUELINE VINTIMILLA SALTOS</razonSocialComprador>
+    <identificacionComprador>0923600613</identificacionComprador>
+    <direccionComprador>MILAGRO</direccionComprador>
+    <totalSinImpuestos>47.86</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>46.96</baseImponible>
+        <valor>7.04</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>0.90</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>54.90</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>54.90</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>520</codigoPrincipal>
+      <codigoAuxiliar>429</codigoAuxiliar>
+      <descripcion>(3) CONSULTA DATOS BIOMETRICOS  SISTEMA NACIONAL DE IDENTIFICACIÓN CIUDADANA -  REGISTRO CIVIL (D)</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.90</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.90</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.90</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>520</codigoPrincipal>
+      <codigoAuxiliar>626</codigoAuxiliar>
+      <descripcion>(3) RECONOCIMIENTO DE FIRMAS</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>43.38</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>43.38</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>43.38</baseImponible>
+          <valor>6.51</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>520</codigoPrincipal>
+      <codigoAuxiliar>502</codigoAuxiliar>
+      <descripcion>(2) CERTIFICACIÓN DE DOCUMENTOS EXHIBIDOS EN ORIGINALES O COPIAS CERTIFICADAS (D)</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>3.58</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>3.58</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.58</baseImponible>
+          <valor>0.54</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Matrizador">JORGE DANILO ALULEMA SALGUERO</campoAdicional>
+    <campoAdicional nombre="NÚMERO DE LIBRO">20260603002D00082</campoAdicional>
+    <campoAdicional nombre="Email Cliente">katy89_0@hotmail.com</campoAdicional>
+    <campoAdicional nombre="TELÉFONO">0969223275</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature915234">
+<ds:SignedInfo Id="Signature-SignedInfo792962">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID345139" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature915234-SignedProperties493740">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>O++ishg2vutaQabsz3clhHCK/H0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate151400">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qqlPUJh5tyYNUxiJIkenD5sIs7E=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-336255" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CYdUbptpODQIdWiGWx3t/CmDhDk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue985849">
+HZsaj9J8xYSzHGWsFfVJVzbzWkaGzKlc0Yu8rNGuYXzbUv1aXgs78oME91XGS60YpSqZPAu+hoev
+o8MU74/O6wHkITva3Zxw2WvkadY31MkNs6SYluwCsbXK00/XyggAzxVDPDh/5/toSQqLplc0w7xv
+r7ZCj2MRJPZ2dk0xZ3chvo8bRO0w2TAQMb7aYPi0IXX1be/Gtx8OBMbrWZHjyjchPXzYwB/CU5TN
+EaBZ4mePyVrRvD0fK6xjklLwbzvtgF/4nN9tD7JF5mTVmxl9KfRsMTMZrHhYwjcVBVxAfQDkoadV
+kCjw4NpK66tPADJ4kKExNd5PL1sNawXrA2J/mw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate151400">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIDzCCBvegAwIBAgIFAMIGvnQwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI2
+MDQwNjE4MzMwM1oXDTI4MDQwNTE4MzMwM1owgZ0xCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEpMCcGA1UEAwwg
+QkxBTkNBIEdBQlJJRUxBIEFMVUxFTUEgU0FMR1VFUk8xJjAkBgkqhkiG9w0BCQEWF2Zpcm1hc2Zh
+Y3RlY3VAZ21haWwuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy7Z7aFLH3EJs
+lUPLKq2qnYwGp36AtE1D5aXQ6M71LFBJwxf18IDMnouv/TQFlQqCKZLUn0nDmOFT92BEKS7nM2Ki
+FV7EbDgZe+r99s0g5/WpF7FPD71NxrC2/yHCgcdGn77yqlOsWN5tqTpy7i6/tpIhtlkjQaiEE1gg
+KaoJM754XvnJazLGvzbXA5S7dkTX7WIm61lvi1+pK+IZ9J8F/Wgmyq4bG3M37BuoQ8VB4nQuM6Sy
+vCfu4IKE63rrQOKGKF6pPAu3IK5c/bMXDpgNmYk7OywKum1mlfu5CQZlVsCbI7/rTuC/rrJu49R4
+X9wj3l/vWgy2I5r44kmob6wXVQIDAQABo4IEqTCCBKUwGgYKKwYBBAGDz3YDAQQMDAowNjAzMTQ0
+MzQ2MB8GCisGAQQBg892AwIEEQwPQkxBTkNBIEdBQlJJRUxBMBcGCisGAQQBg892AwMECQwHQUxV
+TEVNQTAYBgorBgEEAYPPdgMEBAoMCFNBTEdVRVJPMDoGCisGAQQBg892AwcELAwqSlVBTiBCRVJO
+QVJETyBERSBMRU9OIFNOIFkgTUlHVUVMIFpBTUJSQU5PMBoGCisGAQQBg892AwgEDAwKMDk4NzYz
+NTE0NjAYBgorBgEEAYPPdgMJBAoMCFJpb2JhbWJhMBcGCisGAQQBg892AwwECQwHRUNVQURPUjAd
+BgorBgEEAYPPdgMLBA8MDTA2MDMxNDQzNDYwMDEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUg4RU
+qZP8ujFduFN2oq1r5Me8z8UwHwYDVR0jBBgwFoAU7XZIsArxyYaGDExGZNIG+MzVvT4wDgYDVR0P
+AQH/BAQDAgXgMDoGA1UdHwQzMDEwL6AtoCuGKWh0dHA6L2VuZXh0Mi54eXovTGF6emF0ZUNBMi9l
+bWlzb3JDQTIuY3JsMIIBhAYDVR0gBIIBezCCAXcwfAYKKwYBBAGDz3YCATBuMGwGCCsGAQUFBwIC
+MGAaXkVsIHByZXNlbnRlIGNlcnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zD
+rXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wgfYGCSsGAQQBg892AjCB
+6DBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJh
+c2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMHgG
+CCsGAQUFBwICMGwaakVsIHByZXNlbnRlIGNlcnRpZmljYWRvIHN1Ym9yZGluYWRvIGVzIGVtaXRp
+ZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4g
+THRkYS4wggEnBgNVHREEggEeMIIBGqAaBgorBgEEAYPPdgMBoAwMCjA2MDMxNDQzNDagHwYKKwYB
+BAGDz3YDAqARDA9CTEFOQ0EgR0FCUklFTEGgFwYKKwYBBAGDz3YDA6AJDAdBTFVMRU1BoBgGCisG
+AQQBg892AwSgCgwIU0FMR1VFUk+gOgYKKwYBBAGDz3YDB6AsDCpKVUFOIEJFUk5BUkRPIERFIExF
+T04gU04gWSBNSUdVRUwgWkFNQlJBTk+gGgYKKwYBBAGDz3YDCKAMDAowOTg3NjM1MTQ2oBgGCisG
+AQQBg892AwmgCgwIUmlvYmFtYmGgFwYKKwYBBAGDz3YDDKAJDAdFQ1VBRE9SoB0GCisGAQQBg892
+AwugDwwNMDYwMzE0NDM0NjAwMTA8BggrBgEFBQcBAQQwMC4wLAYIKwYBBQUHMAGGIGh0dHA6Ly9l
+bmV4dDIueHl6Ojg3NzcvYWRzcy9vY3NwMA0GCSqGSIb3DQEBCwUAA4IBAQBHRfVhsw+U31LRcSoe
+DSf25y+KZvRZvjS6ZMOttzg1nFDoun98GemMI6pSFZVPzAiYtC1FAdSEFJu9xCcFcbdEfihNWCYN
+JV1KWSE9AGpjM/dNNUQuG7QTRlR02tEAjki4LSNO3vkOGExSQvlkQx1KQx8IHE+ovcQPk+p1jEZe
+U0pGAf72Sy1v8qVwnTvK7Xs6pqfbGqkYzU3avm1zLZ/TllE+mix7iHBBPp+9DGzLpJHHQVLUDetn
+ruKdnZ+VInBfKy7EMMj8RinyoLeernlPyMG3HhLbuV1pu5O4vbjkHTkx0bMPDOJ0sv9QOrakt1n1
+RAEPYSVFfjbFs6fvUQH8
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+y7Z7aFLH3EJslUPLKq2qnYwGp36AtE1D5aXQ6M71LFBJwxf18IDMnouv/TQFlQqCKZLUn0nDmOFT
+92BEKS7nM2KiFV7EbDgZe+r99s0g5/WpF7FPD71NxrC2/yHCgcdGn77yqlOsWN5tqTpy7i6/tpIh
+tlkjQaiEE1ggKaoJM754XvnJazLGvzbXA5S7dkTX7WIm61lvi1+pK+IZ9J8F/Wgmyq4bG3M37Buo
+Q8VB4nQuM6SyvCfu4IKE63rrQOKGKF6pPAu3IK5c/bMXDpgNmYk7OywKum1mlfu5CQZlVsCbI7/r
+TuC/rrJu49R4X9wj3l/vWgy2I5r44kmob6wXVQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature915234-Object305491"><etsi:QualifyingProperties Target="#Signature915234"><etsi:SignedProperties Id="Signature915234-SignedProperties493740"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T15:25:58-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Ykx1V7CCVdhXzxUJTHx2BdzF/fE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3255221876</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-336255"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

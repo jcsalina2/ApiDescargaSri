@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601120300315500120051000000000061775075511</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T15:33:19-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>ALVAREZ BENITEZ DINA ROCIO</razonSocial><nombreComercial>ALVAREZ BENITEZ DINA ROCIO</nombreComercial><ruc>1203003155001</ruc><claveAcceso>0104202601120300315500120051000000000061775075511</claveAcceso><codDoc>01</codDoc><estab>005</estab><ptoEmi>100</ptoEmi><secuencial>000000006</secuencial><dirMatriz>LOS RIOS / VALENCIA / VALENCIA / JOSE MARIA SALGUERO Y 13 DE DICIEMBRE SOLAR 11 Y 13 DE DIECIEMBRE</dirMatriz></infoTributaria><infoFactura><fechaEmision>01/04/2026</fechaEmision><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>DAVILA PAZMIÑO WASHINGTON FIDEL</razonSocialComprador><identificacionComprador>1708589559001</identificacionComprador><direccionComprador>av walter andrade fajardo, calle 5ta</direccionComprador><totalSinImpuestos>7.05</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>5</codigoPorcentaje><baseImponible>7.05</baseImponible><valor>0.35</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>7.40</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>7.40</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>002</codigoPrincipal><descripcion>COPIAS</descripcion><cantidad>141</cantidad><precioUnitario>0.05</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>7.05</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>5</codigoPorcentaje><tarifa>5.00</tarifa><baseImponible>7.05</baseImponible><valor>0.35</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Correo">estudiodavila@outlook.es</campoAdicional><campoAdicional nombre="Celular">0999543082</campoAdicional><campoAdicional nombre="Ciudad">QUITO</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature824127">
+<ds:SignedInfo Id="Signature-SignedInfo768633">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID797530" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature824127-SignedProperties228612">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>pHko8aISB5Nwg8pTnhlD7DL1/sI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate441082">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>UFP7rih4jBtouQ12MVDitUV8LH4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-775142" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>CuGLanHfhUyH8L3FJKqFUIne8i0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue945445">
+VxN6rCeErPlNc8GA9EOe+vv9DEE7AWwAkzaIPCR5pmzduUCpGugqpYAzjZra5O8S
+fEIJNXum3KA/hSerk9YfUMN1gj6xSYQ/uUwqxY1XNQAseLdDZfhpTk09kKi+bTBc
+XjENJSSv/ifZuY46KXBecgUZyAo7HqfejoC8y/mTsUTs/FNrkD2AQHdIppeY/OUA
+eZx134IYN5X0k6o8AGKYz5xxfjgDFS/2uEKIXHsj7/etU9OTSTrck61Xcru8ONFE
+cN6nzqcmdOsy/E1MiQre3Tq+3uk2HuFZZwCwq+lgRRToic4NmQlUdjx6lxPHhWAI
+adeGOlJNqo8aBy6kr3ObEw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate441082">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHuDCCBqCgAwIBAgIFAMIAixEwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMC
+RUMxGzAZBgNVBAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0
+ZSBFbWlzb3IgQ0EyMB4XDTI0MTIwOTIwMzEzNFoXDTI2MTIwOTIwMzEzNFowgZ0x
+CzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6YXRlIENpYS4gTHRkYS4xHjAcBgNV
+BAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEkMCIGA1UEAwwbRElOQSBST0NJTyAg
+QUxWQVJFWiBCRU5JVEVaMSswKQYJKoZIhvcNAQkBFhxkaW5hYWx2YXJlemJlbml0
+ZXpAZ21haWwuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzIul
+0lk/2l5gUYFcDUBebkdIP/wLwwlmhqbbtd3qESzQ61NKVcExz0Eh/7UoeHVsR5NA
+2ZCmbQfnF5jxB9FAQldrcxL4Siw7XufJIboViuAdInRVHy1qtZkYooCzhkczsMJ4
+D+R2E7rGY4XzPBsmC3hcXxmQRrR+FZo4Z8V/pRijHj3znxv398tSQmCDK9rIeTlY
+vlH2Z1fKqUAJL+/spMPjLdN+mP7BW7HVMHy9qrV4fRiPJYJ/Zr3GnjCrmfGUoRyg
+0nJB6PnncEKgg7p1ZuoZgsf99GIvVM3//iDqCdPB3pIZGQx9TXybJpplOO9AI1FW
+pBmgpIqNTlsEOg2NwwIDAQABo4IEUjCCBE4wGgYKKwYBBAGDz3YDAQQMDAoxMjAz
+MDAzMTU1MBoGCisGAQQBg892AwIEDAwKRElOQSBST0NJTzAXBgorBgEEAYPPdgMD
+BAkMB0FMVkFSRVowFwYKKwYBBAGDz3YDBAQJDAdCRU5JVEVaMBcGCisGAQQBg892
+AwcECQwHTEEgTUFOQTAaBgorBgEEAYPPdgMIBAwMCjA5NjgyMDg2NjUwFwYKKwYB
+BAGDz3YDCQQJDAdMYSBNYW5hMBcGCisGAQQBg892AwwECQwHRUNVQURPUjAdBgor
+BgEEAYPPdgMLBA8MDTEyMDMwMDMxNTUwMDEwDAYDVR0TAQH/BAIwADAdBgNVHQ4E
+FgQUNWTUnrefDhUOsThHocrIt4RUQnMwHwYDVR0jBBgwFoAU7XZIsArxyYaGDExG
+ZNIG+MzVvT4wDgYDVR0PAQH/BAQDAgXgMDoGA1UdHwQzMDEwL6AtoCuGKWh0dHA6
+L2VuZXh0Mi54eXovTGF6emF0ZUNBMi9lbWlzb3JDQTIuY3JsMIIBhAYDVR0gBIIB
+ezCCAXcwfAYKKwYBBAGDz3YCATBuMGwGCCsGAQUFBwICMGAaXkVsIHByZXNlbnRl
+IGNlcnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2Fz
+IGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wgfYGCSsGAQQBg892
+AjCB6DBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBl
+bWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUg
+TGF6emF0ZSBDaWEuIEx0ZGEuMHgGCCsGAQUFBwICMGwaakVsIHByZXNlbnRlIGNl
+cnRpZmljYWRvIHN1Ym9yZGluYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBw
+b2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wgfsG
+A1UdEQSB8zCB8KAaBgorBgEEAYPPdgMBoAwMCjEyMDMwMDMxNTWgGgYKKwYBBAGD
+z3YDAqAMDApESU5BIFJPQ0lPoBcGCisGAQQBg892AwOgCQwHQUxWQVJFWqAXBgor
+BgEEAYPPdgMEoAkMB0JFTklURVqgFwYKKwYBBAGDz3YDB6AJDAdMQSBNQU5BoBoG
+CisGAQQBg892AwigDAwKMDk2ODIwODY2NaAXBgorBgEEAYPPdgMJoAkMB0xhIE1h
+bmGgFwYKKwYBBAGDz3YDDKAJDAdFQ1VBRE9SoB0GCisGAQQBg892AwugDwwNMTIw
+MzAwMzE1NTAwMTA8BggrBgEFBQcBAQQwMC4wLAYIKwYBBQUHMAGGIGh0dHA6Ly9l
+bmV4dDIueHl6Ojg3NzcvYWRzcy9vY3NwMA0GCSqGSIb3DQEBCwUAA4IBAQAY1bGA
+NEWlgQkWMElBBg/CuK11LFg/dgXt1qxNPx/BGttAIQKV+BvqxMAmaWFsqOVieB/L
+bIYL7y2pqGwUGE/yUbU7Ba3NL6S0U78cN7Zz0oDtRzHr8ATEqnujjdxvC4kWyHAZ
+lP+scqtixZkj8chKarRDwEkkNl/p1cFQMYKOShhur+FZQepNcomqnDAK0gvhBPCM
+RN2Gq57aBifEGZacR6VnHCSbT4eRuZ0gHdp7ZgblZrTBqlXCF+a5F3OI7VSFqFhq
+uQ0X8FAdiki3l1QNlga24C2RvteoWwIRpgVMXKVzZbiwkDrKKUhKR3rb64sCkq4v
+QJs2zfyY1rLhWRoK
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zIul0lk/2l5gUYFcDUBebkdIP/wLwwlmhqbbtd3qESzQ61NKVcExz0Eh/7UoeHVs
+R5NA2ZCmbQfnF5jxB9FAQldrcxL4Siw7XufJIboViuAdInRVHy1qtZkYooCzhkcz
+sMJ4D+R2E7rGY4XzPBsmC3hcXxmQRrR+FZo4Z8V/pRijHj3znxv398tSQmCDK9rI
+eTlYvlH2Z1fKqUAJL+/spMPjLdN+mP7BW7HVMHy9qrV4fRiPJYJ/Zr3GnjCrmfGU
+oRyg0nJB6PnncEKgg7p1ZuoZgsf99GIvVM3//iDqCdPB3pIZGQx9TXybJpplOO9A
+I1FWpBmgpIqNTlsEOg2Nww==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature824127-Object398648"><etsi:QualifyingProperties Target="#Signature824127"><etsi:SignedProperties Id="Signature824127-SignedProperties228612"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T15:33:17-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>uMp3/r+x7r3srL005J7TofpDKiw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254815505</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-775142"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>FIRMA DIGITAL SRI</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

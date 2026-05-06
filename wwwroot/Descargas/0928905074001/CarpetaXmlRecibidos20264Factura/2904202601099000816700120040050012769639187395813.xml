@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601099000816700120040050012769639187395813</numeroAutorizacion>
+<fechaAutorizacion>2026-04-29T08:36:03-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PRODUCTOS METALURGICOS S.A.</razonSocial><nombreComercial>PROMESA</nombreComercial><ruc>0990008167001</ruc><claveAcceso>2904202601099000816700120040050012769639187395813</claveAcceso><codDoc>01</codDoc><estab>004</estab><ptoEmi>005</ptoEmi><secuencial>001276963</secuencial><dirMatriz>CDLA. MAPASINGUE CALLE SEPTIMA, KM. 5.5 VIA A DAULE  </dirMatriz></infoTributaria><infoFactura><fechaEmision>29/04/2026</fechaEmision><dirEstablecimiento>AV. TERMINAL PASCUALES S/N JUNTO A CDLA. METROPOLIS</dirEstablecimiento><contribuyenteEspecial>6925</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>PERALTA MALAVE CARLOS ALBERTO</razonSocialComprador><identificacionComprador>0928905074001</identificacionComprador><totalSinImpuestos>655.54</totalSinImpuestos><totalDescuento>51.72</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>655.54</baseImponible><tarifa>15.00</tarifa><valor>98.33</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>753.87</importeTotal><moneda>Dolar</moneda><pagos><pago><formaPago>20</formaPago><total>753.87</total><plazo>90</plazo><unidadTiempo>días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>32676</codigoPrincipal><descripcion>REFRI PRESTONE DEX COOL NAR AF850 GL</descripcion><cantidad>6.00</cantidad><precioUnitario>61.200000</precioUnitario><descuento>40.02</descuento><precioTotalSinImpuesto>327.18</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="CJ"/><detAdicional nombre="marcaMaterial" valor="PRESTONE"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>327.18</baseImponible><valor>49.08</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>52747</codigoPrincipal><descripcion>LUB GP GEAR OIL 80W90 GL5 12X1LT</descripcion><cantidad>1.00</cantidad><precioUnitario>38.090000</precioUnitario><descuento>0.38</descuento><precioTotalSinImpuesto>37.71</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="CJ"/><detAdicional nombre="marcaMaterial" valor="GP"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>37.71</baseImponible><valor>5.66</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>52762</codigoPrincipal><descripcion>LUB GP GEAR OIL 140 GL4 12X1LT</descripcion><cantidad>1.00</cantidad><precioUnitario>37.400000</precioUnitario><descuento>0.37</descuento><precioTotalSinImpuesto>37.03</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="CJ"/><detAdicional nombre="marcaMaterial" valor="GP"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>37.03</baseImponible><valor>5.55</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>52768</codigoPrincipal><descripcion>LUB GP ATF DEXRON III 12X1LT</descripcion><cantidad>1.00</cantidad><precioUnitario>39.050000</precioUnitario><descuento>0.39</descuento><precioTotalSinImpuesto>38.66</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="CJ"/><detAdicional nombre="marcaMaterial" valor="GP"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>38.66</baseImponible><valor>5.80</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>52746</codigoPrincipal><descripcion>LUB GP GEAR OIL 75W85 GL5 12X1LT</descripcion><cantidad>1.00</cantidad><precioUnitario>40.600000</precioUnitario><descuento>0.41</descuento><precioTotalSinImpuesto>40.19</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="CJ"/><detAdicional nombre="marcaMaterial" valor="GP"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>40.19</baseImponible><valor>6.03</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>54904</codigoPrincipal><descripcion>FILTRO ACEITE SELLADO MAX MAS PH7317</descripcion><cantidad>12.00</cantidad><precioUnitario>1.320000</precioUnitario><descuento>0.16</descuento><precioTotalSinImpuesto>15.68</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="UN"/><detAdicional nombre="marcaMaterial" valor="MAX"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>15.68</baseImponible><valor>2.35</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>54892</codigoPrincipal><descripcion>FILTRO ACEITE SELLADO MAX MAS A02841</descripcion><cantidad>12.00</cantidad><precioUnitario>1.320000</precioUnitario><descuento>0.16</descuento><precioTotalSinImpuesto>15.68</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="UN"/><detAdicional nombre="marcaMaterial" valor="MAX"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>15.68</baseImponible><valor>2.35</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>54865</codigoPrincipal><descripcion>FILTRO ACEITE SELLADO MAX MAS PH48</descripcion><cantidad>12.00</cantidad><precioUnitario>1.550000</precioUnitario><descuento>0.19</descuento><precioTotalSinImpuesto>18.41</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="UN"/><detAdicional nombre="marcaMaterial" valor="MAX"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>18.41</baseImponible><valor>2.76</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>48690</codigoPrincipal><descripcion>LIQUIDO D/FRENO ABRO 12OZ AZUL</descripcion><cantidad>1.00</cantidad><precioUnitario>36.720000</precioUnitario><descuento>0.37</descuento><precioTotalSinImpuesto>36.35</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="CJ"/><detAdicional nombre="marcaMaterial" valor="ABRO"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>36.35</baseImponible><valor>5.45</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>52814</codigoPrincipal><descripcion>LUB GP SYN BLEND S/ST 10W30 SP 4X1GL</descripcion><cantidad>2.00</cantidad><precioUnitario>44.370000</precioUnitario><descuento>0.89</descuento><precioTotalSinImpuesto>87.85</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="CJ"/><detAdicional nombre="marcaMaterial" valor="GP"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>87.85</baseImponible><valor>13.18</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>54865</codigoPrincipal><descripcion>FILTRO ACEITE SELLADO MAX MAS PH48</descripcion><cantidad>2.00</cantidad><precioUnitario>1.550000</precioUnitario><descuento>3.10</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="UN"/><detAdicional nombre="marcaMaterial" valor="MAX"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>54904</codigoPrincipal><descripcion>FILTRO ACEITE SELLADO MAX MAS PH7317</descripcion><cantidad>2.00</cantidad><precioUnitario>1.320000</precioUnitario><descuento>2.64</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="UN"/><detAdicional nombre="marcaMaterial" valor="MAX"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>54892</codigoPrincipal><descripcion>FILTRO ACEITE SELLADO MAX MAS A02841</descripcion><cantidad>2.00</cantidad><precioUnitario>1.320000</precioUnitario><descuento>2.64</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="UN"/><detAdicional nombre="marcaMaterial" valor="MAX"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>800130</codigoPrincipal><descripcion>ECOVALOR</descripcion><cantidad>20.00</cantidad><precioUnitario>0.040000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.80</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="unidadMedida" valor="UN"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.80</baseImponible><valor>0.12</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="codigoClienteSAP">0001021106 AUTOSERVICE 21</campoAdicional><campoAdicional nombre="correoElectronico">carlosperaltam1989@gmail.com;</campoAdicional><campoAdicional nombre="numeroPedidoYentregas">0003501164 PRO0082040572</campoAdicional><campoAdicional nombre="documentoSAP">0092306405</campoAdicional><campoAdicional nombre="fechaVencimiento">29/05/2026-28/06/2026-28/07/2026---</campoAdicional><campoAdicional nombre="valorVencimiento">251.26-251.26-251.34---</campoAdicional><campoAdicional nombre="ciudadCliente">GUAYAQUIL</campoAdicional><campoAdicional nombre="direccionEntrega">FEBRES CORDERO E/ 12VA Y 13VA 3501A</campoAdicional><campoAdicional nombre="puntosMundialista">Gp 5,57; Mobil 2,82</campoAdicional><campoAdicional nombre="codigoVendedor">0000081814 CONSUEGRA MUENTES VICENTE JAVI</campoAdicional><campoAdicional nombre="codigoSupervisor">0000081094 MUÑOZ MENENDEZ ANDRES GABRIEL</campoAdicional><campoAdicional nombre="Gran Contribuyente">GRAN CONTRIBUYENTE MEDIANTE RESOLUCIÓN NAC-GCFOIOC21-00001066-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature429130">
+<ds:SignedInfo Id="Signature-SignedInfo956315">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID766336" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature429130-SignedProperties240893">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>wL5JjOo4VLW9LX6t5cpoJ2376Bo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1828631">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5QOrkOoeT0EVfq0gsc2DNCUyUJc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-890313" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ix/KTH0NJu2uF8ev7QIpsiHTasA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue501248">
+JyeDVzTNvyw4NITcG2NuJy3JC/cDKG7zzgx8o2nwwSka6cHjTCi5NOuigf2XABeZhHcTPs4K4nsT
+5e0ZdARlS81FIUxJYupgAV+sOaMINnzINsANyPvCB63+x/Fm3t3QiqktWqQ4xZ778CEe/pWlkfK/
+50Ifdreqgz+xrTfmPzmTtkE7RlcRAiPoTkIqM2p6ZsdEHGzhEUG1+Ec8rkqkjJEvmre+ZvEqev5S
+At7Xf98597N9G5NXvQjW4B+dkM4W8bkCxMg5gG1ZxbG+u6RdpTBQ3gQcE0QYoUsxxHTz5W8waSss
+7s74kfqV4MT1j8bFT8LW/wukAou34UoS2kHAhQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1828631">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK0DCCCLigAwIBAgIEc1bE+TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTAzMTkxNDI3NDRaFw0yNzAzMTkxNDI3NDRaMIGsMSow
+KAYDVQQDDCFLRVJMWSBNQVJHQVJJVEEgQ0FTVFJPIE1PTlNFUlJBVEUxIDAeBgNVBAUTFzA5MjE3
+Mzk5OTEtMTkwMzI1MDkzNzM3MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALTE4veN6VTHEKIdS2kCNV02Uo+ZqKy8dyCX
+r8g0/dT4+N3KF6NRFVW39pxfglgAFmiJ6riWVhoklACpv+Qut1aOlAPI+yPmp8Mm5QnZ4+J7YvuG
+nObJ/63wXovadjGeo2SvX9ln+9jPZz9Lxu4b5/FYlGC1mXjw/2JHZDU1siUMmwZqs0RK2swZj/zw
+h3huEVojcr71lht6qswNL/6/YIGQB1cj96B9KnYK8StpHTlfr6hlMlvB7Fo2moSpBJsx202zm3zb
+cHfygNAyEEkuH9yxhDrPmZsppBeWj2R9h6+wj/YOsNYTEIJf/4dV9WSV5BPl3/VDFtBKPi4ODs0F
+bjkCAwEAAaOCBgkwggYFMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+N
+rmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCEGA1UdEQQaMBiBFmtjYXN0
+cm9AcHJvbWVzYS5jb20uZWMwggESBgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYB
+BQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABk
+AGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBz
+Oi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZh
+cy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBF
+bXByZXNhLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIIC
+AjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxm
+aWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8
+oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUu
+Y3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUMwHQYDVR0OBBYEFKNrnHthztK5M0pxy2UWHHZLHaI4MCsGA1UdEAQkMCKADzIwMjUwMzE5MTQy
+NzQ0WoEPMjAyNzAzMTkxNDI3NDRaMAsGA1UdDwQEAwIF4DAYBgorBgEEAYKmcgMFBAoMCENPTlRB
+RE9SMBoGCisGAQQBgqZyAwEEDAwKMDkyMTczOTk5MTAWBgorBgEEAYKmcgMJBAgMBlRBUlFVSTAR
+BgorBgEEAYKmcgMiBAMMAS4wGwYKKwYBBAGCpnIDBwQNDAtTRVBUSU1BIFMgTjAfBgorBgEEAYKm
+cgMCBBEMD0tFUkxZIE1BUkdBUklUQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDcyOTE4MDAT
+BgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnID
+AwQIDAZDQVNUUk8wEQYKKwYBBAGCpnIDHgQDDAEuMDIGCisGAQQBgqZyAwoEJAwiUFJPRFVDVE9T
+IE1FVEFMVVJHSUNPUyBTIEEgUFJPTUVTQTAdBgorBgEEAYKmcgMLBA8MDTA5OTAwMDgxNjcwMDEw
+EQYKKwYBBAGCpnIDHQQDDAEuMBoGCisGAQQBgqZyAwQEDAwKTU9OU0VSUkFURTAaBgorBgEEAYKm
+cgMIBAwMCjA5OTcyMjMxODgwDQYJKoZIhvcNAQELBQADggIBACnLO5ZnwGWmKRFimCJ6OlrXa/m0
+Ujk5jHJCVMdZPngVRI5BymcOdI7G/NBVnD60B2AKSHFDkoTGSy53qCCBkUA9/wFE1My6JGquEjNJ
+IuR9SSTRwenuHXPRbmgQJbtSGyIjsz25yb+wxrOSSUA6gmlIoimuL2mWRRusVzFSxrzotRruz8fE
+VRxHNE0GxS/CZFeSU8W+GgJP+1fo1bHvQ1OSKtQG0bl2DV2skvri506Bm2w+NujhtzaczMz4Vn8j
+yj1hALkn+HYh3BD8B9Qvo0pvla8s0izpOhxlAjVMut58QeqY6J/VPIA4hUUdvzzGK4Y/lii1/9JZ
+RaHqPsKbtMOHzja9kTCIeh1kRST5swIb/JJfb58gYWKgE3iq6z6j/gq0nZJzYiRpQrq2QimoXEo2
+uQSKbTdLjrL5B6Y359lYlIPEMzouvGAYOKHTni+sziyF/xeHg8wXtdnJU844C91b8j6V0Rq3FRS5
+iNSv6Yh1M4JhkboxUkVrUQ7ggR53CDbcskyjFNA48LvJNXFsCqPKtuaAZTnfERtuUQdOz1yJosfI
+vfeutNJONAc/XcsBTCBSVTJhZHi199lhf1MsSXd2ToMR1PktJdvr+5zv+VQz2Q59fvZUGjeN6Fpk
+pJDeoMVnnDGN4YhMr8rYpjtKUnJmRCN9CBdHvdPqbnWh+bs/
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tMTi943pVMcQoh1LaQI1XTZSj5morLx3IJevyDT91Pj43coXo1EVVbf2nF+CWAAWaInquJZWGiSU
+AKm/5C63Vo6UA8j7I+anwyblCdnj4nti+4ac5sn/rfBei9p2MZ6jZK9f2Wf72M9nP0vG7hvn8ViU
+YLWZePD/YkdkNTWyJQybBmqzRErazBmP/PCHeG4RWiNyvvWWG3qqzA0v/r9ggZAHVyP3oH0qdgrx
+K2kdOV+vqGUyW8HsWjaahKkEmzHbTbObfNtwd/KA0DIQSS4f3LGEOs+ZmymkF5aPZH2Hr7CP9g6w
+1hMQgl//h1X1ZJXkE+Xf9UMW0Eo+Lg4OzQVuOQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature429130-Object73080"><etsi:QualifyingProperties Target="#Signature429130"><etsi:SignedProperties Id="Signature429130-SignedProperties240893"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-29T08:35:52-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>MA868EJr7SNETohZxfbATMmbpHQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1935066361</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-890313"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

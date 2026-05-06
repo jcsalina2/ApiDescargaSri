@@ -46,6 +46,25 @@ namespace ApiDescargaSriV9.CDescarga
 
         }
 
+        private static void StartBrowserAutoCloseTimer(IWebDriver webDriver, int minutes = 4)
+        {
+            var autoCloseThread = new Thread(() =>
+            {
+                Thread.Sleep(TimeSpan.FromMinutes(minutes));
+                try
+                {
+                    webDriver.Quit();
+                }
+                catch
+                {
+                    // Si el navegador ya se cerro en otro flujo, ignorar.
+                }
+            });
+
+            autoCloseThread.IsBackground = true;
+            autoCloseThread.Start();
+        }
+
         private string BuildChromeProfileDirectory(string flow, string? userKey)
         {
             var rawUser = (userKey ?? string.Empty).Trim();
@@ -143,6 +162,7 @@ namespace ApiDescargaSriV9.CDescarga
       //      options.AddExtension(@"wwwroot\\2cap\\RECA.crx");
 
             IWebDriver webDriver = new ChromeDriver(options);
+            StartBrowserAutoCloseTimer(webDriver);
 
 
 
@@ -421,6 +441,7 @@ namespace ApiDescargaSriV9.CDescarga
           //  options.AddExtension(@"wwwroot\\2cap\\RECA.crx");
 
             IWebDriver webDriver = new ChromeDriver(options); ;
+            StartBrowserAutoCloseTimer(webDriver);
 
 
 
@@ -932,6 +953,7 @@ namespace ApiDescargaSriV9.CDescarga
             options.AddExtension(@"wwwroot\\2cap\\RECA.crx");
 
             IWebDriver webDriver = new ChromeDriver(options); ;
+            StartBrowserAutoCloseTimer(webDriver);
 
 
 
@@ -1713,6 +1735,7 @@ namespace ApiDescargaSriV9.CDescarga
             //if (!File.Exists(driverExe))
             //    throw new FileNotFoundException("No existe chromedriver.exe en: " + driverExe);
             IWebDriver webDriver = new ChromeDriver(options); 
+            StartBrowserAutoCloseTimer(webDriver);
 
 
             //options.AddExtension(@"wwwroot\\2cap\\RECA.crx");
@@ -2430,6 +2453,7 @@ namespace ApiDescargaSriV9.CDescarga
 
 
             IWebDriver webDriver = new ChromeDriver(options);
+            StartBrowserAutoCloseTimer(webDriver);
             webDriver.Manage().Window.Maximize();
             IJavaScriptExecutor jsExecutor = (IJavaScriptExecutor)webDriver;
 

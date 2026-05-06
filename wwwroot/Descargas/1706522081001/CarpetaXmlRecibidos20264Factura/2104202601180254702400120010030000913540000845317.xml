@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202601180254702400120010030000913540000845317</numeroAutorizacion>
+<fechaAutorizacion>2026-04-21T15:45:08-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ALVARO ABRAHAN FLORES VARELA</razonSocial>
+    <nombreComercial>NOTARIA TERCERA - TUNGURAHUA - AMBATO</nombreComercial>
+    <ruc>1802547024001</ruc>
+    <claveAcceso>2104202601180254702400120010030000913540000845317</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>003</ptoEmi>
+    <secuencial>000091354</secuencial>
+    <dirMatriz>CALLE SUCRE,11-19 Y GUAYAQUIL</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>21/04/2026</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>ROSA ELVIRA JACOME CONTERON</razonSocialComprador>
+    <identificacionComprador>1706522081</identificacionComprador>
+    <direccionComprador>JUAN LEGARDA Y JUAN HIDALGO</direccionComprador>
+    <totalSinImpuestos>4.02</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>4.02</baseImponible>
+        <valor>0.60</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>0.00</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>4.62</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>4.62</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>965</codigoPrincipal>
+      <codigoAuxiliar>503</codigoAuxiliar>
+      <descripcion>(3) CERTIFICACIÓN DE DOCUMENTOS MATERIALIZADOS DESDE PÁGINA WEB O DE CUALQUIER SOPORTE ELECTRÓNICO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>4.02</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>4.02</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>4.02</baseImponible>
+          <valor>0.60</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Matrizador">JESSENIA ELIZABETH CORDOVA FREIRE</campoAdicional>
+    <campoAdicional nombre="NÚMERO DE LIBRO">20261801003C02650</campoAdicional>
+    <campoAdicional nombre="Email Cliente">rositajacome.60@gmail.com</campoAdicional>
+    <campoAdicional nombre="TELÉFONO">2533240</campoAdicional>
+  <campoAdicional nombre="Agente de retención">1</campoAdicional></infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature770080">
+<ds:SignedInfo Id="Signature-SignedInfo196008">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID622870" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature770080-SignedProperties857438">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>MIkpxkW2MW3jVY197eGEaFNTtXE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1925414">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>UfrgwiRMhWgW4KXfv8F8SS+EAYw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-428650" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>KmJp/GDdt5VY8PsisC4qq5yhVWQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue81889">
+fnnnZ5leIWjBO9coVd2CGaAL7moq3dzOS0dQ5Ql7RJU2pw2aaeiP8Y+A/4tUd47TKuEIA3GZcCDA
+3OHY7Y3ZvOPlCmwVL8aq1tFMWMhfnVedVj6Xa1CpIr7qrG0Ad54uUuH2wDJnDNbQIAJCPWl+03Mg
+UCruntghkTYhQ490p+FKdIyUCHptNHoeL1HkJwgREhM+aEZ69GNClFkb1/6ISFS4ave9ttguumR0
+bTbSrkjVVkIc1XZJ/NWcJL5xSwntLSurVCvoBSYKcpvgOl9eOLn/TIsF5eTBxjc5Y2xVWeLHJvVE
+19ZOZgxaiYV2mjKtKLCCCMyMmpmDFV2GyKuuXA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1925414">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH3TCCBcWgAwIBAgIRAOWwiJF4VtQNRVOt/vzxab0wDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNTEyMjQxMzUxMzdaFw0yNzEyMjQxNDUxMzdaMIHbMS0wKwYD
+VQQFEyQ5NTNiMDIyZS1mZGQ0LTRiMjQtYWE5MS1iMTZlYjY1MDViNjYxJzAlBgkqhkiG9w0BCQEW
+GG5vdGFyaWEzYW1iYXRvQGdtYWlsLmNvbTElMCMGA1UEAxMcQUxWQVJPIEFCUkFIQU4gRkxPUkVT
+IFZBUkVMQTEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MRswGQYDVQQKExJGSVJNQVNFR1VSQSBTLkEuUy4xCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAnPRFFVVLmjNIbGk6g7NMF/zEjbSUbXagiSDO6chwJJgyUxq8xTMZ
+cBxWNBhyZqGdPJ84wtuxKKJdWTK+5livMh7smKdowftbmeIEPMI56M6FoGCVhi4XhmyjlAO9Q3GL
+QTxPluslJKMh/cQ+Avw/qGm3eliAyQCJlxGAFrQP1/EbtB+yuNUr8tLbAczb8zsH+UQOyBLpyx+V
+Gu0NeWitG/M7rRxEk6tJJaH3UvnHx/nW3/8YqwHU0e8nHKaAHYkX1cjeQYkt8/8JHQBLiCKxY/Va
+/0CSiTSUVGqlfZcuVJKOkjQ7zo7RQXTdE8UE7xyqMkdnY2YtCj2WrCPlb49GiwIDAQABo4ICsTCC
+Aq0wCQYDVR0TBAIwADAfBgNVHSMEGDAWgBQTRpNoCa7XJIczRWMmd9+sXl6KUTAdBgNVHQ4EFgQU
+S747/0QffV8WQO15gIS9a4yknPQwWgYDVR0fBFMwUTBPoE2gS4ZJaHR0cDovL2NybC5maXJtYXNl
+Z3VyYWVjLmNvbS9jcmwvY2NjZTVhNGYtNmI2OC00NmZjLWE2MjAtNGFiY2M0YzRhNjkwLmNybDA5
+BggrBgEFBQcBAQQtMCswKQYIKwYBBQUHMAGGHWh0dHA6Ly9vY3NwLmZpcm1hc2VndXJhZWMuY29t
+MBoGCisGAQQBg955AwEEDBYKMTgwMjU0NzAyNDAeBgorBgEEAYPeeQMCBBAWDkFMVkFSTyBBQlJB
+SEFOMBYGCisGAQQBg955AwMECBYGRkxPUkVTMBYGCisGAQQBg955AwQECBYGVkFSRUxBMEAGCisG
+AQQBg955AwcEMhYwQ0FMTEUgU1VDUkUgUy9OIFFVSVRPIEVESUZJQ0lPIE1VTFRJQ0VOVFJPIFNV
+Q1JFMBwGCisGAQQBg955AwgEDhYMNTkzOTk4OTAzMTc5MBYGCisGAQQBg955AwkECBYGQU1CQVRP
+MBcGCisGAQQBg955AwwECRYHRWN1YWRvcjAdBgorBgEEAYPeeQMLBA8WDTE4MDI1NDcwMjQwMDEw
+gZwGA1UdIASBlDCBkTBQBgsrBgEEAYPeeQIBATBBMD8GCCsGAQUFBwIBFjNodHRwczovL2Zpcm1h
+c2VndXJhZWMuY29tL3BvbGl0aWNhc19wZXJzb25hX25hdHVyYWwwPQYLKwYBBAGD3nkCAgEwLjAs
+BggrBgEFBQcCAjAgDB5DZXJ0aWZpY2FkbyBkZSBQZXJzb25hIE5hdHVyYWwwDgYDVR0PAQH/BAQD
+AgXgMA0GCSqGSIb3DQEBCwUAA4ICAQBBkqElH3t5rR8if+HP31QiVL70oXcTyb+PuCeyIT/wQkbZ
+ssedrGcJLFlnEfndB+GsAg4stJuJRhlRmWQ77+tL7OXYeikL/twlVx7lUMhMAJU867gGUrUZ7+gG
+aztb5MvGVw9iT0vZhlME525PxX//6SmFw7YUsMDuD+dBjlwyQgw8p/dV4ijN6Cjm5c1EMG3pGep8
+BBj5E71rzjaQimSfZk2Ek6gikskmmP9oRyQRHUUr8if1xZ4ZG0xFPpDkF0k0PdQR/v8gLLLtjAoc
+7rekliRSvd1GYccXH+lvl1jE1WAzp9+vN3E8Hn/kA5ebHxOwy5d76LnIohkdUZOWycSqLKdMyfHo
+p84txgYk30SJ4p4kVP8AvWxrEwNDiIdbU8tJgiym+Qa3qHLdg6dSpa/HwJqYS/m5haU4g1x+3LC6
+dm+KGmbprnwh7B+q/TqzGKSzLe13uRtHLqx/rM4Nnko8u2e7AMtVdDg7OzE8UcMIjekonSylYzx/
+veAI9Xqlol7AcOp/QPtqoQBzOUgykMSJ4yOGxRqrtnNhPajMm/yKUxrV8zqI0jt88SoujTWuHNID
+WziPIx9nHJ5DtBcedm9wfa5PC2qn6pSvZECgY81mKS72EZqdhDiJWqomPbWNxeYqtDJi0+b8GDgK
+t9p37AEq0gfbfTfthuWQJZ3mQHEkrQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nPRFFVVLmjNIbGk6g7NMF/zEjbSUbXagiSDO6chwJJgyUxq8xTMZcBxWNBhyZqGdPJ84wtuxKKJd
+WTK+5livMh7smKdowftbmeIEPMI56M6FoGCVhi4XhmyjlAO9Q3GLQTxPluslJKMh/cQ+Avw/qGm3
+eliAyQCJlxGAFrQP1/EbtB+yuNUr8tLbAczb8zsH+UQOyBLpyx+VGu0NeWitG/M7rRxEk6tJJaH3
+UvnHx/nW3/8YqwHU0e8nHKaAHYkX1cjeQYkt8/8JHQBLiCKxY/Va/0CSiTSUVGqlfZcuVJKOkjQ7
+zo7RQXTdE8UE7xyqMkdnY2YtCj2WrCPlb49Giw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature770080-Object1020783"><etsi:QualifyingProperties Target="#Signature770080"><etsi:SignedProperties Id="Signature770080-SignedProperties857438"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-21T15:45:07-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>MUxl3N2S3P2Ds7RGrJKMYk5TOpM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>305309825214880695938645627449558264253</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-428650"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2504202601179235816700120010020001293691234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-25T15:15:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CEDEDI OCCIDENTAL CIA LTDA</razonSocial><nombreComercial>CEDEDI OCCIDENTAL CIA LTDA</nombreComercial><ruc>1792358167001</ruc><claveAcceso>2504202601179235816700120010020001293691234567811</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000129369</secuencial><dirMatriz>URB. MENA DEL HIERRO CALLE PURUANTA LOTE No. 210  Y JUAN PRO</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria>
+  <infoFactura>
+    <fechaEmision>25/04/2026</fechaEmision>
+    <dirEstablecimiento>URB. MENA DEL HIERRO CALLE PURUANTA LOTE No. 210  Y JUAN PRO</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <guiaRemision>001-002-000134248</guiaRemision>
+    <razonSocialComprador>JACOME CONTERON ROSA ELVIRA</razonSocialComprador>
+    <identificacionComprador>1706522081001</identificacionComprador>
+    <direccionComprador>CALLE JUAN HIDALGO LOTE 10 N64G,Y BERNARDO LEGARDA BARRIO NUEVA ESPERANZA</direccionComprador>
+    <totalSinImpuestos>56.97</totalSinImpuestos>
+    <totalSubsidio>501.87</totalSubsidio>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>56.97</baseImponible>
+        <tarifa>15.00</tarifa>
+        <valor>8.55</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>65.52</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>65.52</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>GLP02</codigoPrincipal>
+      <codigoAuxiliar>1010115</codigoAuxiliar>
+      <descripcion>Kg GLP DOMESTICO AGIP CILINDRO DE 15 KG</descripcion>
+      <cantidad>840.00</cantidad>
+      <precioUnitario>0.067826</precioUnitario>
+      <precioSinSubsidio>0.665288</precioSinSubsidio>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>56.97</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>56.97</baseImponible>
+          <valor>8.55</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional><campoAdicional nombre="AGENTE DE RETENCIÓN">Resolución No. 1</campoAdicional></infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature773163">
+<ds:SignedInfo Id="Signature-SignedInfo535322">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID384332" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature773163-SignedProperties731805">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>XxiJM0TJtksEjZZZB1Xn53yCUEE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11017750">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>IiM9ypAkWxQBRYzNZyWw0EvLPq8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1046411" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>UMIrdSM8ZqI7Gj+5qp/o8+34dTE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue808052">
+dX5C8hf2AWrSyAsp6DFzL5lhqLcddAnDsc/rxX1ecKB/Q+NB33kgjcgFeRxE+Xyi8WScAL5hbJJo
+8/WnIIc8OvqXmrwOYOsMI7Wj+F9FGQy5RZJTnorCQjy9eyMrwFJq0sabtm+RGKTEgKPo5oZGuG+7
+YQofvUxNX8BG7ktKfBNaotdMk48LWxVTj7w3FMOAsnTQD4FE+1eMBgNhEr4nRFb+/vF+NwqMuHSH
+iUzB/BA/xYwBlPLEmJSBBwWK/64kpd4yoBQ3kq07kFJnM+b5GK5mqWsbzejgSNfATCh4iJPbarDz
+z8DH51F0j/AdYV5I6y3AwABCMEjpqaJZ1bYKZQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11017750">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKOTCCCCGgAwIBAgIIbLHJBYHmyNwwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MTIwMjEzNDQwMFoXDTI2MTIwMjEzNDQwMFowggEWMQswCQYDVQQGEwJFQzFcMFoGA1UECgxT
+Q0VERURJT0NDSUQgQ0VOVFJPIERFIERJU1RSSUJVQ0lPTiBERSBHQVMgTElDVUFETyBERSBQRVRS
+T0xFTyBPQ0NJREVOVEFMIENJQS4gTFREQS4xEDAOBgNVBAwMB0dFUkVOVEUxGDAWBgNVBAQMD0RF
+TEdBRE8gVkVSR0FSQTEZMBcGA1UEKgwQVEVSRVNBIERFIFlBTklSQTEZMBcGA1UEBRMQSURDRUMt
+MTcxMDQ4NzE0OTEpMCcGA1UEAwwgVEVSRVNBIERFIFlBTklSQSBERUxHQURPIFZFUkdBUkExHDAa
+BgNVBGEME1ZBVEVDLTE3OTIzNTgxNjcwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCDygJCkWepMb2NCLEx92UMV+M99iJPyts0nQURx7Cf2H1jgSLW7s6vr6dsfRO+bqqj5h81fWnB
+AFsBX6LuXUKb5SAOMI7o9KMLBqKIpTP5N2Fi8CWebD4RsrYq80+DauX0RVwK2q/Kd5g/8GZ0UcxR
+ZwV7XG5btR5SavSdllnlcQVp244oN/dPQYRvw5Pmz5j1y6KyoH1XKdj/9Ta4Gs8UkGgJ0pyGhb0L
+1x5Tm0yL9sB9UU/rruoZHR1xekTibqx11Qo9Oh2ARmc6wGXVmCoYJ7464zJcOKK/9mXQqnDMYSJT
+7kg/pGBQaMrAvnLKDMR64Rg5aSWaAj/ruquatlsnAgMBAAGjggTkMIIE4DAbBgsrBgEEAYLxNmYD
+AQQMDAoxNzEwNDg3MTQ5MB4GCysGAQQBgvE2ZgMLBA8MDTE3OTIzNTgxNjcwMDEwgdcGCCsGAQUF
+BwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93
+bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTIuY3J0MDYGCCsGAQUFBzABhipodHRw
+Oi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6
+Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUlN82wX7N0u+q
+TzNePXlL9duVxn0wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz
+/TCBjgYDVR0gBIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3BggrBgEFBQcCARYraHR0cHM6Ly93
+d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1BggrBgEFBQcCAjApDCdDRVJUSUZJ
+Q0FETyBERSBSRVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0
+cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBA
+oD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGlu
+YWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIC
+JQYDVR0RBIICHDCCAhiBJHRhbGVudG9odW1hbm9AdHJhbnNoaXNwYW5hZ2FzLmNvbS5lY6AbBgsr
+BgEEAYLxNmYDAaAMDAoxNzEwNDg3MTQ5oCEGCysGAQQBgvE2ZgMCoBIMEFRFUkVTQSBERSBZQU5J
+UkGgGAYLKwYBBAGC8TZmAwOgCQwHREVMR0FET6AYBgsrBgEEAYLxNmYDBKAJDAdWRVJHQVJBoBgG
+CysGAQQBgvE2ZgMFoAkMB0dFUkVOVEWgTgYLKwYBBAGC8TZmAwegPww9UFVSVUhBTlRBICMyMTAg
+WSBKVUFOIFBST0NFTCAvIENPVE9DT0xMQU8gLyBRVUlUTyAvIFBJQ0hJTkNIQaAfBgsrBgEEAYLx
+NmYDCKAQDA4wMDU5Mzk3ODYwNTg3MqAWBgsrBgEEAYLxNmYDCaAHDAVRVUlUT6BkBgsrBgEEAYLx
+NmYDCqBVDFNDRURFRElPQ0NJRCBDRU5UUk8gREUgRElTVFJJQlVDSU9OIERFIEdBUyBMSUNVQURP
+IERFIFBFVFJPTEVPIE9DQ0lERU5UQUwgQ0lBLiBMVERBLqAeBgsrBgEEAYLxNmYDC6APDA0xNzky
+MzU4MTY3MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VO
+VEFOVEUgTEVHQUygGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEA
+dOC08ignR8rGrr1WOV8CpqCWry6aSsiP3RV6eCBdn8ffj5AHgot3e9NaSywHhkIb4MYCgI+5EUIx
+g5diYD6oTJMQpgsnlNJtYIRwVPmRE7Vdk2dCphOl44eChlQqCtRdxkO/jFU06TP6Jx5ch453rU1g
+W4MSdMXutPTm5Z3Th9fi3KsSOkdWzx9zKwDNR2k6vrJp1y9gosfnWbKPFfml3JGmd8E3n9SGy12A
+lAkHuPsZwclucXODUoOqm43J3Nus0/qI7x1YOlGTiUk7z+Z+KPuiSSJ79lw6C7OlDicny2Lm4JR6
+VTkRPRv5HTBvu4xYjjjW6O7wTNpgYV6aHbZuE5E4pq7N1YUA15YvVhEKzMZz2h0eur3t0fiYzc9m
+HhEz6CqJytw1zRuCFGAKooXeaTe8MAAyFV3wc7fhMLsDH4tOdC6sk/4jWMwj0tQZyLBDcrcDD6vN
+nI8X9Tuqb2I+J9IvnOd7mLQwgI33LIDTWppXQ4JBGlwFJqTyP4klD92dK7IkjLtOjwYEBJBQ0o4Z
+/2hXQSYDPI7tPYawBr8/i6mhpheFqDydlNQkm93J3l+3vclShMN4ZtWLdsi2a0qYyxVUeRSCw8QP
+eL5WRzCHubEphVXOmk/TyMw6iJXAjBrfhAc8kfiRlkNCdMXTCUgJ10V+C9seSRizua0HLCHUJVc=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+g8oCQpFnqTG9jQixMfdlDFfjPfYiT8rbNJ0FEcewn9h9Y4Ei1u7Or6+nbH0Tvm6qo+YfNX1pwQBb
+AV+i7l1Cm+UgDjCO6PSjCwaiiKUz+TdhYvAlnmw+EbK2KvNPg2rl9EVcCtqvyneYP/BmdFHMUWcF
+e1xuW7UeUmr0nZZZ5XEFaduOKDf3T0GEb8OT5s+Y9cuisqB9VynY//U2uBrPFJBoCdKchoW9C9ce
+U5tMi/bAfVFP667qGR0dcXpE4m6sddUKPTodgEZnOsBl1ZgqGCe+OuMyXDiiv/Zl0KpwzGEiU+5I
+P6RgUGjKwL5yygzEeuEYOWklmgI/67qrmrZbJw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature773163-Object998439"><etsi:QualifyingProperties Target="#Signature773163"><etsi:SignedProperties Id="Signature773163-SignedProperties731805"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-25T15:15:39-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Ky/26JiP/5pIzPkt+wnZB6sMPpM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7832262252465408220</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1046411"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

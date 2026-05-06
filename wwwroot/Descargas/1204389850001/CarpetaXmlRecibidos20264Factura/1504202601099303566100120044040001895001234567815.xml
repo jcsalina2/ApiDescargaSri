@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601099303566100120044040001895001234567815</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T12:35:21-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>SOCIEDAD CIVIL MARCSOL Y CIA </razonSocial>
+        <nombreComercial>DISTRIBUIDORA MARCSOL</nombreComercial>
+        <ruc>0993035661001</ruc>
+        <claveAcceso>1504202601099303566100120044040001895001234567815</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>004</estab>
+        <ptoEmi>404</ptoEmi>
+        <secuencial>000189500</secuencial>
+        <dirMatriz>SAMBORONDON. GUAYAS. GUAYAQUIL</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>15/04/2026</fechaEmision>
+        <dirEstablecimiento>Ciudadela SAN JOSE, Calle ATAHUALPA, S/N, Interseccion DECIMA OCTAVA Y DECIMA  NOVENA</dirEstablecimiento>
+        <contribuyenteEspecial>255</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>CEDEÑO AGUIRRE MAURICIO</razonSocialComprador>
+        <identificacionComprador>1204389850</identificacionComprador>
+        <direccionComprador>SAN JOSE</direccionComprador>
+        <totalSinImpuestos>23.58</totalSinImpuestos>
+        <totalDescuento>2.86</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>23.58</baseImponible>
+                <tarifa>15</tarifa>
+                <valor>3.54</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>27.12</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>27.12</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>026057</codigoPrincipal>
+            <codigoAuxiliar>026057</codigoAuxiliar>
+            <descripcion>COMBO 18 6VIVE 100 BOROJO 300ML + 1</descripcion>
+            <cantidad>3.000000</cantidad>
+            <precioUnitario>2.363600</precioUnitario>
+            <descuento>0.13</descuento>
+            <precioTotalSinImpuesto>6.96</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>6.96</baseImponible>
+                    <valor>1.04</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>006559</codigoPrincipal>
+            <codigoAuxiliar>006559</codigoAuxiliar>
+            <descripcion>V220 ENERGIZ ORIGINAL 330ML CJ*12UN</descripcion>
+            <cantidad>48.000000</cantidad>
+            <precioUnitario>0.403165</precioUnitario>
+            <descuento>2.73</descuento>
+            <precioTotalSinImpuesto>16.62</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>16.62</baseImponible>
+                    <valor>2.49</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature363349">
+<ds:SignedInfo Id="Signature-SignedInfo228909">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID899251" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature363349-SignedProperties102590">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Qg3d6TYukV3CWTcUopRdyF8aThA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1396201">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4jYEvYwjLLj+aFVQ6U73gBN+V3A=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-636687" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>TrbBrp/6ulVG3PuWu8DrE96K+UE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue792963">
+bhjPFS2keqlseYomrAptXON97eOWVRKMXEiBadvivYXOD/Gq0z74BVtruEPcr4OrnVmU3MM3wpa1
+AHdRiceruneNkddgvrD396uwcAX7mZ8mrBosbZctdM+JqVzGTOI/fznItes8Tc9VBLThhN1jRfq0
+BIHJ8S1gYDKSaVYZ++5IkgsSdizNytFIUnENYGU0885hqx3R1Nmx+3J3H9f1pW+gYnVNKQVpE2No
+hlzEzGx7H+l6VQroQqF6AztiGKFRn5P7l8pAV44tSBqWdCArD5pGy8o02VAoJHB3PnP1Msubhwkq
+/HvGSrNHXqDuRxLW9wDzrAbvCtnIPKidnFSMcw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1396201">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJQzCCByugAwIBAgIKc3SeVBIzHjZaMzANBgkqhkiG9w0BAQsFADCBmzELMAkGA1UEBhMCRUMx
+HzAdBgNVBAoMFkNPUlBORVdCRVNUIENJQS4gTFREQS4xMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMUVGIENPUlBORVdCRVNUMB4XDTI1MDgyMDE2MjMwMVoXDTI4MDgxOTE2MjMw
+MFowgYgxCzAJBgNVBAYTAkVDMR4wHAYDVQQKDBVDT1JQTkVXQkVTVCBDSUEuIExUREExMDAuBgNV
+BAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEnMCUGA1UEAwweQk9O
+SUxMQSBKSU1FTkVaIE1BUkNJQSBFU1RIRUxBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEAkUxX86GmSGbNmabG/ckKtW5VSv/KEoHeyF1irOKUlgsRDK1N+Cn6E2WmqUewxk0ZLlACKYwv
+9EQYqW4okrrPLxgS3GUwschBaP2XjRjbcdgFP5rGOSN1Y3ephI/c/6F3p2LyeTw6JcV43K026ZO0
+VJIYkXBAjVm2yDzsZz0PU4iJPkREG2qn3hJRiZkVY2c95j0lVjjv9Ykk7hHJvH8ZvOewpGgND9p0
+7Rk6zXUg3zbOopj/eRQIJZciFIuz92WbQjLhAGkVPA5o8ebUAUit8jQeyuZh9ACM68st0geAjSDY
+gChjaxUpYClC01WQrjrhZ333bewHxdSAq7nHHoSBrwIDAQABo4IEmDCCBJQwDAYDVR0TAQH/BAIw
+ADAfBgNVHSMEGDAWgBRplQ+FOJlUiFrlyfYadXOI/0r0njBTBggrBgEFBQcBAQRHMEUwQwYIKwYB
+BQUHMAGGN2h0dHA6Ly9lamJjYWVlLm5ld2Jlc3QudGVjaC9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3Awge0GA1UdLgSB5TCB4jCB36CB3KCB2YaB1mh0dHA6Ly9lamJjYWVlLm5ld2Jlc3QudGVj
+aC9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTiUzREFV
+VE9SSURBRCtERStDRVJUSUZJQ0FDSU9OK1NVQkNBLTFFRitDT1JQTkVXQkVTVCUyQ09VJTNERU5U
+SURBRCtERStDRVJUSUZJQ0FDSU9OK0RFK0lORk9STUFDSU9OJTJDTyUzRENPUlBORVdCRVNUK0NJ
+QS4rTFREQS4lMkNDJTNERUMwgYwGA1UdIASBhDCBgTBxBgorBgEEAYKMTAEJMGMwYQYIKwYBBQUH
+AgEWVWh0dHBzOi8vd3d3Lm5ld2Jlc3QubmV0L25ld3NpZ25hcGkvZG93bmxvYWRzL25vcm1hdGl2
+YS9wb2xpdGljYXNfcGVyc29uYV9qdXJpZGljYS5wZGYwDAYKKwYBBAGCjEwCCDCB7QYDVR0fBIHl
+MIHiMIHfoIHcoIHZhoHWaHR0cDovL2VqYmNhZWUubmV3YmVzdC50ZWNoL2VqYmNhL3B1YmxpY3dl
+Yi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOJTNEQVVUT1JJREFEK0RFK0NFUlRJ
+RklDQUNJT04rU1VCQ0EtMUVGK0NPUlBORVdCRVNUJTJDT1UlM0RFTlRJREFEK0RFK0NFUlRJRklD
+QUNJT04rREUrSU5GT1JNQUNJT04lMkNPJTNEQ09SUE5FV0JFU1QrQ0lBLitMVERBLiUyQ0MlM0RF
+QzAdBgNVHQ4EFgQU0S7dLAKNI7nKolKvuO7Q2U57lFQwKwYDVR0QBCQwIoAPMjAyNTA4MjAxNjIz
+MDFagQ8yMDI4MDgxOTE2MjMwMFowDgYDVR0PAQH/BAQDAgXgMBcGCisGAQQBgoxMAwUECQwHR0VS
+RU5URTAaBgorBgEEAYKMTAMBBAwMCjEyMDMwNzg1MTIwHAYKKwYBBAGCjEwDCQQODAxTQU1CT1JP
+TkTDk04wIQYKKwYBBAGCjEwDBwQTDBFURVJDRVJBIFNPTEFSIDYgRDAeBgorBgEEAYKMTAMCBBAM
+Dk1BUkNJQSBFU1RIRUxBMBIGCisGAQQBgoxMAwwEBAwCRUMwFwYKKwYBBAGCjEwDAwQJDAdCT05J
+TExBMCwGCisGAQQBgoxMAwoEHgwcU09DSUVEQUQgQ0lWSUwgTUFSQ1NPTCBZIENJQTAdBgorBgEE
+AYKMTAMLBA8MDTA5OTMwMzU2NjEwMDEwFwYKKwYBBAGCjEwDBAQJDAdKSU1FTkVaMBoGCisGAQQB
+goxMAwgEDAwKMDk4MDEyNjY5MzANBgkqhkiG9w0BAQsFAAOCAgEAewSmS58PHggrIJPH91zS6ZE7
+dcETZd1lqxWmcmYQoj2PzVCfZEdcfw9L1OblQWl4+atIj/x7l+yPzZe/c9OPznkxMaj6S+B8paUX
+OjTA01yxbGF0n0m93r+i8yOdtgz34bPPMJeo1t9gS1rCbRIlE5yryPmGieiUs5R5VqSVcF2fc6Ci
+8dIlwVS92bO2ptFkXVxaMqmMlzeFPrRCXkNdjbbFa4Yedd8fnbYMz58VCgj57bAyisa/yDArkTGb
+7GQdT1ejYmeGVx7Zx2mGVN/RoAOiuyQ8GkPsIITTgDzGhR0t0PFfi1EulxpguFFM81X/x9iqWBCw
+Z/iBtRO5xXl2e9KcLcXGtahayAROTmnWuFqt/Ck0ZluG+SGUoXeeGuYzmR/lp7G9EmnJer13rJca
+i6iSX7h9fiLF1ZEveGFXQ4Sbpy1hbAOqdJPEhtYRxqcwV4IZp948vi+eWe42VCYNk1AU96cQZjkD
+3yvfcwNd950M8i54hkJmwU1SBuT3oyquQ/TjFMQLJIgA9uZmqBCd2jt1TPzNJgs6dNeQbiP9qvo5
+APduiAVqQsXqeb0PM4mFNX7IQ+JMkc5IQ0XQZP/KvTyf6j5V1/i2R88FA0ZU+NO2F/Cqw4MF8qff
+PbUi8XHuLd14XErdptmzCUS02jZWLSQ9iLasFVGAB8li9iKm99k=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+kUxX86GmSGbNmabG/ckKtW5VSv/KEoHeyF1irOKUlgsRDK1N+Cn6E2WmqUewxk0ZLlACKYwv9EQY
+qW4okrrPLxgS3GUwschBaP2XjRjbcdgFP5rGOSN1Y3ephI/c/6F3p2LyeTw6JcV43K026ZO0VJIY
+kXBAjVm2yDzsZz0PU4iJPkREG2qn3hJRiZkVY2c95j0lVjjv9Ykk7hHJvH8ZvOewpGgND9p07Rk6
+zXUg3zbOopj/eRQIJZciFIuz92WbQjLhAGkVPA5o8ebUAUit8jQeyuZh9ACM68st0geAjSDYgChj
+axUpYClC01WQrjrhZ333bewHxdSAq7nHHoSBrw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature363349-Object1014067"><etsi:QualifyingProperties Target="#Signature363349"><etsi:SignedProperties Id="Signature363349-SignedProperties102590"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T12:30:37-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>hJLm9jg0WIs9/AcEiT8f0dSgjKQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1EF CORPNEWBEST,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=CORPNEWBEST CIA. LTDA.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>545223376606326303382067</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-636687"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601239062661700120030020002792620027926218</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T18:19:14-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PROVESA SCC</razonSocial>
+    <ruc>2390626617001</ruc>
+    <claveAcceso>1304202601239062661700120030020002792620027926218</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000279262</secuencial>
+    <dirMatriz>VIA MONTEREY, MARGEN DERECHO, KM 1, JUNTO AL BALNEARIO EL CAÑERO</dirMatriz>
+    <agenteRetencion>00000010</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/04/2026</fechaEmision>
+    <dirEstablecimiento>OLMEDO ENTRE LUIS TELLO Y RAFAEL PALACIOS, ATACAMES</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>CEDEO LOOR MAYTER VALESKA</razonSocialComprador>
+    <identificacionComprador>0850472986001</identificacionComprador>
+    <direccionComprador>ATACAMES</direccionComprador>
+    <totalSinImpuestos>18.73</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>3</codigo>
+        <codigoPorcentaje>3111</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>9.36</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>9.37</baseImponible>
+        <tarifa>15.00</tarifa>
+        <valor>1.40</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>20.13</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>20.13</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>739907000010</codigoPrincipal>
+      <codigoAuxiliar>739907000010</codigoAuxiliar>
+      <descripcion>HARINA PAN DE MAIZ BLC/AMA 1KG </descripcion>
+      <unidadMedida>UNIDAD</unidadMedida>
+      <cantidad>6</cantidad>
+      <precioUnitario>1.15</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.90</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>6.90</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861021202001</codigoPrincipal>
+      <codigoAuxiliar>7861021202001</codigoAuxiliar>
+      <descripcion>SALSA DE AJI ILE BOT 100GR</descripcion>
+      <unidadMedida>UNIDAD</unidadMedida>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.51</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.03</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.03</baseImponible>
+          <valor>0.15</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>8888</codigoPrincipal>
+      <codigoAuxiliar>8888</codigoAuxiliar>
+      <descripcion>FREJOL SECO NEGRO XLB</descripcion>
+      <unidadMedida>UNIDAD</unidadMedida>
+      <cantidad>3</cantidad>
+      <precioUnitario>0.82</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.46</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>2.46</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7702010111501</codigoPrincipal>
+      <codigoAuxiliar>7702010111501</codigoAuxiliar>
+      <descripcion>COLGATE TRIPLE ACCION 60ML</descripcion>
+      <unidadMedida>UNIDAD</unidadMedida>
+      <cantidad>3</cantidad>
+      <precioUnitario>0.83</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.48</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.48</baseImponible>
+          <valor>0.37</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861021202001</codigoPrincipal>
+      <codigoAuxiliar>7861021202001</codigoAuxiliar>
+      <descripcion>SALSA DE AJI ILE BOT 100GR</descripcion>
+      <unidadMedida>UNIDAD</unidadMedida>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.51</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.51</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.51</baseImponible>
+          <valor>0.08</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861048600408</codigoPrincipal>
+      <codigoAuxiliar>7861048600408</codigoAuxiliar>
+      <descripcion>SUAVIZANTE PERLA 370 /400ML DOY PACK</descripcion>
+      <unidadMedida>UNIDAD</unidadMedida>
+      <cantidad>3</cantidad>
+      <precioUnitario>0.65</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.96</baseImponible>
+          <valor>0.29</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861038060618</codigoPrincipal>
+      <codigoAuxiliar>7861038060618</codigoAuxiliar>
+      <descripcion>DES. TIPS 240ML SURTIDOS</descripcion>
+      <unidadMedida>UNIDAD</unidadMedida>
+      <cantidad>3</cantidad>
+      <precioUnitario>0.28</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.83</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.83</baseImponible>
+          <valor>0.13</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7861001800159</codigoPrincipal>
+      <codigoAuxiliar>7861001800159</codigoAuxiliar>
+      <descripcion>SHAMPOO PARA MI BEBE 100ML</descripcion>
+      <unidadMedida>UNIDAD</unidadMedida>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.17</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.17</baseImponible>
+          <valor>0.18</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7862130380017</codigoPrincipal>
+      <codigoAuxiliar>7862130380017</codigoAuxiliar>
+      <descripcion>SALSA DE TOMATE GALON LAPETITE</descripcion>
+      <unidadMedida>UNIDAD</unidadMedida>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.38</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.38</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.38</baseImponible>
+          <valor>0.21</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature617184">
+<ds:SignedInfo Id="Signature-SignedInfo265190">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID1007464" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature617184-SignedProperties153804">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>9hVGVdwpq5aHvrxlI2KQtmSQuBw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate167095">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Vj78O9h3hjBUOajUTLgkiy3S3ao=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-296014" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DIVI1+tnw+iE632iKyexVQQB1A8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue165758">
+asSDKKVMv+a1cHu5SkNrneECosCO4VLEynD2QN7vgMOSYORW9PQyC2HJLKkFE5Mauaqye75Qdik2
+uvQWSxkqeIQ4Zf/TurUZPbFtMf4Dg4VOELo5miNJmSt0XE4pXMS04FtN0Q0uzLACxzRaPkt0+v1R
+z1Fe2vz01ZK38UX2lOvV5R4+SYRxwUsSqoc3IkCkgR/v2M4zyAEEKssxwwJpS0oOSgcnS1RbJsZZ
+zexnDxYhokHWauz4GZQxrwqVMnmXhjK2F54MSKetdNxCWu/hLzqSVyX6lRsTvBZYAJYOpZ+IhmJ4
+5N0lOk9LKu1/maHaUfKzBk/QXFMbCPTxzhukRw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate167095">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJZTCCB02gAwIBAgIII/t/n8301KQwDQYJKoZIhvcNAQELBQAwgYYxCzAJBgNVBAYTAkVTMRIw
+EAYDVQQHDAlCYXJjZWxvbmExFjAUBgNVBAoMDVVBTkFUQUNBIFMuQS4xFTATBgNVBAsMDFRTUC1V
+QU5BVEFDQTEaMBgGA1UEAwwRVUFOQVRBQ0EgQ0EyIDIwMjExGDAWBgNVBGEMD1ZBVEVTLUE2Njcy
+MTQ5OTAeFw0yNTA3MTUyMjIxMDBaFw0yOTA3MTQyMjIxMDBaMIHMMQswCQYDVQQGEwJFQzEUMBIG
+A1UECgwLUFJPVkVTQSBTQ0MxGDAWBgNVBAwMD0dFUkVOVEUgR0VORVJBTDEWMBQGA1UEBAwNREVN
+RVJBIFBJTkNBWTEWMBQGA1UEKgwNSkVOTlkgTkFSQ0lTQTEZMBcGA1UEBRMQSURDRUMtMDgwMjIw
+MTkwNTEkMCIGA1UEAwwbSkVOTlkgTkFSQ0lTQSBERU1FUkEgUElOQ0FZMRwwGgYDVQRhDBNWQVRF
+Qy0yMzkwNjI2NjE3MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1BKdzsiixT0s
+cRY66doyiydh3p3fc3XiCDQUOIZMGnSeTtqmlvZbUhA7y1T/yuS1sN6hr4mkznSPfi2SdA9M+vcR
+XeULu2dL49CKlG0R/Wfv3eY67ckSw9Lpfs+9udWjzMgS7vd2BNKuiRgvUS5fBQzaHOpctrrf8CxQ
+WkwtyyeSPTfQcX6qcPmo5ENvAybxuNItZpohANhZSuBzG/9bYyAxwklasUNcXBP6h5s8s0DCYeDT
+0Zm8C5lLiJGAHyNzvGYFPyVEFSuLUgyfbu3t/z/iYnqSpqZuUV/Ttzw7fD7yAxW7ZGSvaVbT9txj
+CYfs+PtWCyqB/eXG0OWGihy5nQIDAQABo4IEjTCCBIkwGwYLKwYBBAGC8TZmAwEEDAwKMDgwMjIw
+MTkwNTAeBgsrBgEEAYLxNmYDCwQPDA0yMzkwNjI2NjE3MDAxMIHXBggrBgEFBQcBAQSByjCBxzBV
+BggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9j
+ZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFu
+YXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFGJTvdZ4/5JDcEnv9DUgoszpubzW
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUxeczJdjv1I3nU4fKolt1OouW3UowHAYDVR0SBBUw
+E4ERaW5mb0B1YW5hdGFjYS5jb20wgY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYI
+KwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYI
+KwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGFBgNV
+HR8EfjB8MDygOqA4hjZodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvMjAy
+MUNBMXN1Yi5jcmwwPKA6oDiGNmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2Ny
+bC8yMDIxQ0Exc3ViLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsG
+AQUFBwMEMIIBugYDVR0RBIIBsTCCAa2BE3Byb3Zlc2FzY0BnbWFpbC5jb22gGwYLKwYBBAGC8TZm
+AwGgDAwKMDgwMjIwMTkwNaAeBgsrBgEEAYLxNmYDAqAPDA1KRU5OWSBOQVJDSVNBoBcGCysGAQQB
+gvE2ZgMDoAgMBkRFTUVSQaAXBgsrBgEEAYLxNmYDBKAIDAZQSU5DQVmgIAYLKwYBBAGC8TZmAwWg
+EQwPR0VSRU5URSBHRU5FUkFMoDIGCysGAQQBgvE2ZgMHoCMMIUFWIFBSSU1FUk8gREUgTUFZTyBN
+QVJHRU4gREVSRUNIT6AfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk3ODkzMTMxMKAdBgsrBgEEAYLx
+NmYDCaAODAxMQSBDT05DT1JESUGgHAYLKwYBBAGC8TZmAwqgDQwLUFJPVkVTQSBTQ0OgHgYLKwYB
+BAGC8TZmAwugDwwNMjM5MDYyNjYxNzAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLx
+NmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJ
+KoZIhvcNAQELBQADggIBABst/MY+Uo1ZSrrz+pOtxhRC8PLFpKmA1cYi6Fyz0uXFJ2BWYSSzIjZ+
+4lW+K9eZzFM57mh3vIKxAg8+EPXy8SLjtYUC7Acv3BYKICqxnE2Hdu3pe+Qky4o90jKzpgqdTouB
+TsRbXHGsD4P09RQHZ2rcpHCZxaF097IqI8geZ/Yq+1T2LSkxYaBivRXCSKmQ59OA0lyrKXASony/
+b6JiJivJUddfd1UA8kwdZJcCuYFZh6958iOgAiUkdWUh/xO8zvOjjSvTBv8s9L7xo6ZnK+IzDD7y
+nSGUPm2rWTDDXGg/MHsMp9S2NdKnoHTkNHz2rCvKGV+NJ0TsiOEmpMp4sHmay0NslafBfN7KAD+L
+uBEOJJg3hELRXG87tDCTiQpWT6pTCyLeYxraJv6jsmxy/u9F6V/SHThfi2UYLYmTyAnVO8jol7i9
+4k0Ph6LSV9qZf0ApTRdL/bAmM6IAaIs86/2VaV++jDLfRPCK27iBdAzAOvQFRuQCZNeSrd3f06MD
+1oNbHwYjNIevR3oarDOzCuawNw/VAOxspezkq7HInXTt3dWnneAoQJIcRW+5hWiCsVDqFRLHW3VU
+CT81hd/vOdSS36TPeAYDitaNnhbzmR+BXWLnFzm9p6IVAPcGpTodYpmuQc3bAonOCbXcrAB/tMJZ
+FzTLwS0DbNvxyL6sUrqv
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+1BKdzsiixT0scRY66doyiydh3p3fc3XiCDQUOIZMGnSeTtqmlvZbUhA7y1T/yuS1sN6hr4mkznSP
+fi2SdA9M+vcRXeULu2dL49CKlG0R/Wfv3eY67ckSw9Lpfs+9udWjzMgS7vd2BNKuiRgvUS5fBQza
+HOpctrrf8CxQWkwtyyeSPTfQcX6qcPmo5ENvAybxuNItZpohANhZSuBzG/9bYyAxwklasUNcXBP6
+h5s8s0DCYeDT0Zm8C5lLiJGAHyNzvGYFPyVEFSuLUgyfbu3t/z/iYnqSpqZuUV/Ttzw7fD7yAxW7
+ZGSvaVbT9txjCYfs+PtWCyqB/eXG0OWGihy5nQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature617184-Object219094"><etsi:QualifyingProperties Target="#Signature617184"><etsi:SignedProperties Id="Signature617184-SignedProperties153804"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T18:13:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>XDThFFRO0sTgM2k+zoDJADloNQc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2021,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona,C=ES</ds:X509IssuerName><ds:X509SerialNumber>2592806334813754532</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-296014"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

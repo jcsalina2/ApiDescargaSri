@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202601019043103700120011010000198870000000011</numeroAutorizacion>
+<fechaAutorizacion>2026-04-21T11:36:08-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>A&amp;N COMERCIALIZADORA DISADN CIA. LTDA.</razonSocial>
+    <ruc>0190431037001</ruc>
+    <claveAcceso>2104202601019043103700120011010000198870000000011</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>101</ptoEmi>
+    <secuencial>000019887</secuencial>
+    <dirMatriz>MIGUEL DE SANTIAGO 1-166 Y BERNARDO DE LEGARDA</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>21/04/2026</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>LUVET S.A.S.</razonSocialComprador>
+    <identificacionComprador>0195172951001</identificacionComprador>
+    <direccionComprador>La constitucional y el universo, CUENCA</direccionComprador>
+    <totalSinImpuestos>113.41</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>89.05</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>24.36</baseImponible>
+        <valor>3.65</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>117.06</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>117.06</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>01159</codigoPrincipal>
+      <codigoAuxiliar>01159</codigoAuxiliar>
+      <descripcion>CATETER INTRAVENOSO 24G 3/4 NIPRO</descripcion>
+      <cantidad>50</cantidad>
+      <precioUnitario>0.4871</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>24.36</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="." valor="Lote: 26A23A | Fecha Caducidad: 2030/12/30 | Registro Sanitario: DM-0481-11-03"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>24.36</baseImponible>
+          <valor>3.65</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1009052</codigoPrincipal>
+      <descripcion>LACTATO 1000ML BAXTER</descripcion>
+      <cantidad>60</cantidad>
+      <precioUnitario>1.4841</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>89.05</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="." valor="Lote: SB25JK8 | Fecha Caducidad: 2027/10/30 | Registro Sanitario: 03444-MAN-02-05"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>89.05</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">593 98 413 9911</campoAdicional>
+    <campoAdicional nombre="E-Mail">Luvet2026@gmail.com</campoAdicional>
+    <campoAdicional nombre="Referencia">EB-1-24014</campoAdicional>
+    <campoAdicional nombre="Tipo de Cobro">CREDITO</campoAdicional>
+    <campoAdicional nombre="Observacion">VIENE A RETIRAR</campoAdicional>
+    <campoAdicional nombre="Días Crédito">30</campoAdicional>
+    <campoAdicional nombre="Vendedor">Nicolas Cortazar</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-e33306b3-3e45-458e-8b03-07fa2ad87011"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-268a3275-581d-496a-9c00-fa23d8e0013a" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>+uxkXA1Qw0a3HjU3B4YWMJ5mYL8qbHMGjpznRTqb5YY=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-e33306b3-3e45-458e-8b03-07fa2ad87011"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>OcrWNILOD4QNnXDj5Jwi4bUOtlKr8weddfx6qnsIzk8=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-e33306b3-3e45-458e-8b03-07fa2ad87011"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>sn1Bi/j+9Nm5mAXduJRfy05Z7/0yobbso7s2CdBbLSY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-e33306b3-3e45-458e-8b03-07fa2ad87011">Ivgwuu0oId8AgiPnQb4skpuSE/7X9Z4FkujGhvhEPsPeZ9zErfov3IXcggJTV+aVA42SnQ46sXG2ahUlyL1KeSYprky4opewvl3Dj1glE2TaPD0EUIVLbtgVRjHzHlWCpg4q4rePZqrLp4//NJynzAKipc3XGYnER8HLo3iXZAEhF8Psr2AQGPXNsV2xTc27StEQJqeaPr/y/13704VjVdV83HWOzAKjFgsumKftsdCX0BAQQsXldqmLxxxTxY4Cru6CdnNdtcElwVV8zeS3q+mHm56+Qs/WcRGn3sltU3gjOoxcAsq2WRWirOuStp+Pg6rqxaMWF2T1PEL9S1hJ+g==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-e33306b3-3e45-458e-8b03-07fa2ad87011"><ds:X509Data><ds:X509Certificate>MIIMRzCCCi+gAwIBAgIEfYPviDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMjYyMjA5NDdaFw0yODEyMjYyMjA5NDdaMIGpMScwJQYDVQQDDB5HRVJNQU4gTklDT0xBUyBDT1JUQVpBUiBNT0xJTkExIDAeBgNVBAUTFzAxMDI1MjQ1ODQtMjYxMjI0MTcxOTM4MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKO7wPcAg1u1KDRMiVqEyJIILWYYD0YXQ3+C5D9UzNlY56kt3VH3KwyRWV6kffJ7udo/FDymjQGr8TwdRpvY4WnEjpmkdRu60HBoNJwEEqEpcHlHdnAxqQIsNpZMp59UV2Djh6yxepjiuOEwclaVPqS+pwCTB7tvgH5pFCiAb1ZLxj002Q70a4O34+VaXzvzt4VyxvS8zQ+xJjO2IrtFQs263+575TJraA6Ne7Pok7JGbqXzdgp8TYTPMNkqaaCU9rdsaFaSGzQ4TACF80hvRsXFp1zayFL4BUsjyJTUyGbCTVrbP96Z7kG4lg27YDOSZ9UX1JVdOxwTy1C/d8PMXmcCAwEAAaOCB4Mwggd/MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMB4GA1UdEQQXMBWBE2dlcmVuY2lhQGRpc2Fkbi5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFE5HfeTL1qVsuNSg0Oz/Z4zJAuDfMCsGA1UdEAQkMCKADzIwMjQxMjI2MjIwOTQ3WoEPMjAyODEyMjYyMjA5NDdaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjAxMDI1MjQ1ODQwFQYKKwYBBAGCpnIDCQQHDAVTVUNSRTARBgorBgEEAYKmcgMiBAMMAS4wPgYKKwYBBAGCpnIDBwQwDC5NSUdVRUwgREUgU0FOVElBR08gMSAxNjYgWSBCRVJOQVJETyBERSBMRUdBUkRBMB4GCisGAQQBgqZyAwIEEAwOR0VSTUFOIE5JQ09MQVMwHwYKKwYBBAGCpnIDIAQRDA8wMDUwMDEwMDAxNDMwNzIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwIQ09SVEFaQVIwNAYKKwYBBAGCpnIDCgQmDCRBWU4gQ09NRVJDSUFMSVpBRE9SQSBESVNBRE4gQ0lBIExUREEwHQYKKwYBBAGCpnIDCwQPDA0wMTkwNDMxMDM3MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBk1PTElOQTAaBgorBgEEAYKmcgMIBAwMCjA5OTEwNDc3NjUwDQYJKoZIhvcNAQELBQADggIBAHNDPnQi/rocdd9Og0FCxJHHgPa+9fSZjNITxAS1MXz61VxGUY4kCsu97FE5mfPJ9hRYsEcB4WSMmIywISfz2wGnXKiJVHwscmAnJ8ijxy20IELOP+PiLwAEU+MkuFDR9B5kjMKzr4t49RdeRyWtesy/nEms2INu7tXZHDRGkjYhqsBvxehIUbjtG/wJYtX/0IzJYKspdeMjtlGO/SyYUWTRKUgPEbE23eJ5Z5AWEDScOigC+wynj8U3vbh/TtmAc5TpoHuwRu2mEMNdbHMT73jXvd57nwqYn/y+osM6CEv4jE4LKFoxpKEOAVshn2MjX/D7EMzsIPvztkz8nzMBvS4Fx9LVJV79IdzwY4hG8ZyaMhqxxSlNV31WZH6XC3wt9QeZuw5IsTAEOD2WgiqUc0uZfnSvFmSPC5SpX0g+Ix2OxWj+NhvnQKIjZMa5rggxPiENeoKAAgS+XnMmqirNoNdzr7BfF9G5xjkyvik1Qp5SuemuuAKda7qewCWRVyGLS/vwRxR0MnEd5RLZYaCSv5+H691/baENxwb4Fcs/XiLO9fGIpNaEBYr8qX6gFCPB3X3nvTLI8iJnnIQ67wHGNnDT91jRWk7yOYuvRYzLNiSjUTtL+WFbRFIorf4yttKqoqZdPWyqTwCAPXry7A16VW7rse5fwVHiF5uKp/G/PXjx</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>o7vA9wCDW7UoNEyJWoTIkggtZhgPRhdDf4LkP1TM2VjnqS3dUfcrDJFZXqR98nu52j8UPKaNAavxPB1Gm9jhacSOmaR1G7rQcGg0nAQSoSlweUd2cDGpAiw2lkynn1RXYOOHrLF6mOK44TByVpU+pL6nAJMHu2+AfmkUKIBvVkvGPTTZDvRrg7fj5VpfO/O3hXLG9LzND7EmM7Yiu0VCzbrf7nvlMmtoDo17s+iTskZupfN2CnxNhM8w2SppoJT2t2xoVpIbNDhMAIXzSG9GxcWnXNrIUvgFSyPIlNTIZsJNWts/3pnuQbiWDbtgM5Jn1RfUlV07HBPLUL93w8xeZw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-4e2128b4-8cd1-4d46-800f-cf322ec87239"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-0dd5dccf-9971-469c-81e0-15ab12744eb3" Target="#Signature-e33306b3-3e45-458e-8b03-07fa2ad87011"><xades:SignedProperties Id="SignedProperties-Signature-e33306b3-3e45-458e-8b03-07fa2ad87011"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-21T11:36:07-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>owCiLmCwV/S17KGm884ltOfq7qj4E0NMHSxxOqBOLbs=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>2105798536</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-268a3275-581d-496a-9c00-fa23d8e0013a"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2404202601095981496300120010030000036001234567814</numeroAutorizacion>
+<fechaAutorizacion>2026-04-24T12:42:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SU ZHIKUN</razonSocial>
+    <nombreComercial>SU ZHIKUN</nombreComercial>
+    <ruc>0959814963001</ruc>
+    <claveAcceso>2404202601095981496300120010030000036001234567814</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>003</ptoEmi>
+    <secuencial>000003600</secuencial>
+    <dirMatriz>38 AVA SL 11 Y BOLIVIA</dirMatriz>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/04/2026</fechaEmision>
+    <dirEstablecimiento>38 AVA SL 11 Y BOLIVIA</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ASTECNAVIND SAS</razonSocialComprador>
+    <identificacionComprador>0993387909001</identificacionComprador>
+    <totalSinImpuestos>28.96</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>28.96</baseImponible>
+        <valor>4.34</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>33.30</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>33.30</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>116</codigoPrincipal>
+      <codigoAuxiliar>116</codigoAuxiliar>
+      <descripcion>ARROZ CON POLLO</descripcion>
+      <cantidad>5.000000</cantidad>
+      <precioUnitario>4.434783</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>22.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>22.17</baseImponible>
+          <valor>3.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>37</codigoPrincipal>
+      <codigoAuxiliar>37</codigoAuxiliar>
+      <descripcion>POLLO APANADO  BLANCO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.739130</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.74</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>5.74</baseImponible>
+          <valor>0.86</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>124</codigoPrincipal>
+      <codigoAuxiliar>124</codigoAuxiliar>
+      <descripcion>TARRINAS</descripcion>
+      <cantidad>6.000000</cantidad>
+      <precioUnitario>0.173913</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.04</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.04</baseImponible>
+          <valor>0.16</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">GUAYAQUIL</campoAdicional>
+    <campoAdicional nombre="Email">contabilidadastcnavind@gmail.com</campoAdicional>
+    <campoAdicional nombre="Contribuyente">Regimen RIMPE</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-78c01084-2732-430e-a19c-7d4b6122e50d"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-e785a8c3-215c-4097-80a1-52465b3c043d" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>09esRNZCQHSb1Hgd0y/eV1N3iXgXSOGa9wtRS4boEJg=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-78c01084-2732-430e-a19c-7d4b6122e50d"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>UlfpSvm+kIeIXoCL/2aoHgZ4w31AIrf2GXTj8U4hUsQ=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-78c01084-2732-430e-a19c-7d4b6122e50d"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>K2YSfzpxkW04SPZcC9jOAf1KUDmeUxU8PtdiIChO75E=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-78c01084-2732-430e-a19c-7d4b6122e50d">DgCl/XTltEvZeoZszpSgr38cV8I0Tprbx7fDFdLrVta+49y1Qeg+EwmPTpEadBxSO5sXZacW+yYQ715WnkChBp8Q0WU6aJ/0I2xpxVXIvH6eNNuv6a8b0H4r3PQ5nYqlLyiKqOGmlkQ01BzfnU2TpjIUZ8odDbI/E/3/8VBni7pe92qzJTZKw80hKB6uPkqRc+yOxKFI+wpuaOJt8UHTYNr9u78H8RHtCvkAkFloScz1ta3h+7Uju5G2nTQwrrhqNJHrWAwU3flGuXRWyOL3pesGeJP7smUoPJ5cP1P9ohPnL9FBecjwaumFXdiTdmoI+UCN37VqqOgHm2atTnIdyA==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-78c01084-2732-430e-a19c-7d4b6122e50d"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>lgG7DVESOKIuPlJcU42moQ72AcfKmnh6/vJxhZrhzOfkMvKOoxKjxfjTzBsfbtuo8D0iu3ol+Yky5dfyLxctF7UX4LWEpYq76LuZGQP3x1m3Rkyayy7IjolAdVN3UQ7MFaHldFYhAFXXVs7V0dsWg7Ao66twlDZTMWcTkdfnbbD7V6Ecz8SuuDOXx1mP+z0vpP288G1LhgSVjGc334J23Fw6kfxUFH+pD/4JTUDTT3sc2Uuy6S2jaChA+hxvm9Gt/zFWulTY85ePUNKAjaGpdBkAwQ1RGnB575tzDwXGlEk41nTZD0au2F2Ly9sejq5d7X3yOgggTwLVquYb3ItFOw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-392bf67f-5f46-4e32-ad82-cd5ad664d7af"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-c4623329-4aa1-4ec0-9b09-a74320405087" Target="#Signature-78c01084-2732-430e-a19c-7d4b6122e50d"><xades:SignedProperties Id="SignedProperties-Signature-78c01084-2732-430e-a19c-7d4b6122e50d"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-24T12:42:32-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>6bEmn3scZCc2tVVTAtOwpkUg481qJjPoXxogLbWSVK4=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>3421515328604790318</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-e785a8c3-215c-4097-80a1-52465b3c043d"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

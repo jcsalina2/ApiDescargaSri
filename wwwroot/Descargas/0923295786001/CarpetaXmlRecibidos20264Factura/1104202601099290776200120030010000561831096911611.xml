@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1104202601099290776200120030010000561831096911611</numeroAutorizacion>
+<fechaAutorizacion>2026-04-11T12:04:06-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>DISTRIBUIDORA MARFLORALE SA</razonSocial><nombreComercial>DISTRIBUIDORA MARFLORALE SA</nombreComercial><ruc>0992907762001</ruc><claveAcceso>1104202601099290776200120030010000561831096911611</claveAcceso><codDoc>01</codDoc><estab>003</estab><ptoEmi>001</ptoEmi><secuencial>000056183</secuencial><dirMatriz>CC Riocentro Entre Rios Local 50 Samborondon</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>11/04/2026</fechaEmision><dirEstablecimiento>KM 6 AV DEL BOMBERO CC RIOCENTRO CEIBOS</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>MIGUEL JARA UTURRALDE</razonSocialComprador><identificacionComprador>0923295786</identificacionComprador><totalSinImpuestos>33.89</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>33.89</baseImponible><tarifa>15.00</tarifa><valor>5.09</valor></totalImpuesto><totalImpuesto><codigo>3</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>0.00</baseImponible><tarifa>0.00</tarifa><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>38.98</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>38.98</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>1313</codigoPrincipal><codigoAuxiliar>1313</codigoAuxiliar><descripcion>Day porcelain serum 60 ml. SP </descripcion><cantidad>1.000000</cantidad><precioUnitario>17.382609</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>17.38</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>17.38</baseImponible><valor>2.61</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1421</codigoPrincipal><codigoAuxiliar>1421</codigoAuxiliar><descripcion>Jabon Azuleno 200 ml. SP </descripcion><cantidad>1.000000</cantidad><precioUnitario>16.513043</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>16.51</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>16.51</baseImponible><valor>2.48</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1703</codigoPrincipal><codigoAuxiliar>1703</codigoAuxiliar><descripcion>Shopping bag mediana </descripcion><cantidad>1.000000</cantidad><precioUnitario>0.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1554</codigoPrincipal><codigoAuxiliar>1554</codigoAuxiliar><descripcion>La Ctlga. Glenda te asesoro hoy </descripcion><cantidad>1.000000</cantidad><precioUnitario>0.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="correo">CONTABILIDAD.ARTEYARMONIA@GMAIL.COM</campoAdicional><campoAdicional nombre="direccion">KM. 15 VIA A LA COSTA </campoAdicional><campoAdicional nombre="telefono">0990925962</campoAdicional><campoAdicional nombre="infoadicional">Agente de Retención. Resolución Nro. NAC-DNCRASC20-00000001</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature882934">
+<ds:SignedInfo Id="Signature-SignedInfo813964">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID1027056" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature882934-SignedProperties745433">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Myahckb+/YhMnVGw+IXYE+hdTNY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1842171">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>mH25D0ZMdWt5cPuZHtIHYD7K8D0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-469507" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>YyyzMhKdPHI+0Fhr90PRprRvo80=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue901306">
+oVoCvYOuLVR55VbIcFe92o64cLOghJ9bTipBxNgg/N+8JyZ04KpNJs4b2OF5VYBjV5/cadJ6kLJq
+oBm8Kl8Y15UopKyDNAkqQqFaP3duSzXLIcHeWr0h3xFHW3ruZbcO4zMW+CrXRIBwHjyl4v/R3rtk
+VXWXkYRSymvoF1aakBJ4WWSo29yqlpTSuxguFFUGFnRipiAzdcXA223CHUYSCxtTDjDabkW56a+F
+p/71XjjdBW0y/3dt/BRn/ZC0Iq5v6+6ls9tUPLQyZ6Bp+KOeVUoGNDuvbVSh4msK72JkWg7G9ujS
+ylTsB2zMKEkJNJSrNSgUMZOw5SI6tykX0KLH8Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1842171">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK8TCCCNmgAwIBAgIIDxYZTu7OXYEwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMzA0MTY0NDE2WhcNMzEwMzA0MTY0NDE2WjCB
+rDEqMCgGA1UEAwwhTUFSSUVMTEEgR0VPUkdJTkEgSkFSQU1JTExPIExVUVVFMSAwHgYDVQQFExcw
+OTExNDE5NzM3LTA0MDMyNjExNTQwODEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQClHNOZsFrPseJdJzfvDeLsa8yW89nf
+CaOHmWweJSxMQ5W027l0dR5qL1q25rLWg05raG2DaIxxFmjYt91NRMHKibL1skjcRIEpq+Zi41FF
+R188DksDtT7fOEZlh7Nj5soDmyAng/2Ehum8vJT8xFI63k2fN9ptrIy+hJhWa3NIWXW1ii51kfMx
+GJuutWp6V8xlx2bhBerUCyL3Yrvt0rcWjKnHc4D2HnwalTljQU9IptrvXTNBSYxbDjTfnd2mQHuw
+b8F6741/WeBB7MTL4OoSRB+NawlQxzpJ3HKmcuiFuP0P6vpOrP3PWypcFdwJcAJYs/hTMkV60tDM
+V1yKZjPVAgMBAAGjggYmMIIGIjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsK
+S1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAqBgNVHREEIzAhgR9t
+YXJpZWxsYWpAbGFib3JhdG9yaW9zbHVxdWUuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGC
+pnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUA
+cAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggr
+BgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3du
+bG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNh
+ZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwME
+MIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVj
+L3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBD
+RVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4g
+MjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3Vi
+Y2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5z
+ZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1j
+cmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkg
+REFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklU
+WSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBRGmgdHcklBFGzM56Jqv/1TIXdhgTArBgNVHRAE
+JDAigA8yMDI2MDMwNDE2NDQxNlqBDzIwMzEwMzA0MTY0NDE2WjALBgNVHQ8EBAMCBeAwHwYKKwYB
+BAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTExNDE5NzM3MC0G
+CisGAQQBgqZyAwkEHwwdU0FNQk9ST05ET04gQ0FCRUNFUkEgQ0FOVE9OQUwwEQYKKwYBBAGCpnID
+IgQDDAEuMCcGCisGAQQBgqZyAwcEGQwXMSBTIE4gWSBWSUEgU0FNQk9ST05ET04wIQYKKwYBBAGC
+pnIDAgQTDBFNQVJJRUxMQSBHRU9SR0lOQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTExODkx
+ODATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGC
+pnIDAwQLDAlKQVJBTUlMTE8wLAYKKwYBBAGCpnIDCgQeDBxESVNUUklCVUlET1JBIE1BUkZMT1JB
+TEUgUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MjkwNzc2MjAwMTARBgorBgEEAYKmcgMdBAMMAS4w
+FQYKKwYBBAGCpnIDBAQHDAVMVVFVRTAaBgorBgEEAYKmcgMIBAwMCjA5OTcwMDEwMDIwDQYJKoZI
+hvcNAQELBQADggIBAFC9O+7xERNF6ZOpGETshu3tsrCx3BnbtzJsS2me+DGRsY+VvBBLorsEy1Ce
+x91qkRoOUILTjcricMjs/+JeoJydDcyPjafu232BoBBjIJMfM+oVcRd+FX955iJj+7I6MJ+th4YY
+q0KAaH3TjyagR6vulHFnUTY04HLIx1fUcnZV9t3BNydL2Hl0xunhC0bM51+t3wfRbZKB/BqnOdDm
+Wq+7NjNh5/tf63H3Zs8nycBzrpNWJOKH/QjC+hXuCJkN6Zasj3HpBYPeiysBTy7PWLQx4l6CDdGz
+a4aMq8u70O9+ZI+LJQ+OFN7jL+IWkLrLqnKuw23FpPqR2CNy4KJJMpOzhryyTVPbixWf8ZExqJI8
+M4a+OPG++4uxy0tdovk67yj2X9ATsLHcfw2hQjpYhE//+cqnCsZFQxWI7aeio8/oDpF7Ext7fxEy
+pFYPtRwLZuVkV8OXl6QRPg0HWtPD9TjXxLvoHYGBVNSGOxNZcLVN6TJWxl3uRlSQoZpqtm+6nMQE
+sq8HiDYK/E+zHZqJLtSJts0QwX8ERh8f39K/zVYhvI7/j1juTYhZo3vj5XPfDeLa0aFqG3rXGIxF
+xqYweuuOILf9FOZCRPYIr85bB+pbzCSfFVGX7sS49XOq4WQDUru8a/mxSSe7IBM3ASeDSoVPP6pY
+1b4pPbZ1aCA+xiPp
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pRzTmbBaz7HiXSc37w3i7GvMlvPZ3wmjh5lsHiUsTEOVtNu5dHUeai9atuay1oNOa2htg2iMcRZo
+2LfdTUTByomy9bJI3ESBKavmYuNRRUdfPA5LA7U+3zhGZYezY+bKA5sgJ4P9hIbpvLyU/MRSOt5N
+nzfabayMvoSYVmtzSFl1tYoudZHzMRibrrVqelfMZcdm4QXq1Asi92K77dK3Foypx3OA9h58GpU5
+Y0FPSKba710zQUmMWw40353dpkB7sG/Beu+Nf1ngQezEy+DqEkQfjWsJUMc6SdxypnLohbj9D+r6
+Tqz9z1sqXBXcCXACWLP4UzJFetLQzFdcimYz1Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature882934-Object735897"><etsi:QualifyingProperties Target="#Signature882934"><etsi:SignedProperties Id="Signature882934-SignedProperties745433"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-11T17:04:01+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>gq/m0cmV8qsbvVM74hjZj3A1TFA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1087084186861198721</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-469507"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

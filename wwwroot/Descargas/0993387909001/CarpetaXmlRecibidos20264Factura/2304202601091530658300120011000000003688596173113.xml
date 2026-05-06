@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2304202601091530658300120011000000003688596173113</numeroAutorizacion>
+<fechaAutorizacion>2026-04-23T16:21:05-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>GARCIA PIGUAVE FANNY IVON</razonSocial>
+        <ruc>0915306583001</ruc>
+        <claveAcceso>2304202601091530658300120011000000003688596173113</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000368</secuencial>
+        <dirMatriz>Ciudadela: COOP. LEONIDAS PROAÑO Numero: SOLAR 1 Manzana: 8 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>23/04/2026</fechaEmision>
+        <dirEstablecimiento>Ciudadela: COOP. LEONIDAS PROAÑO Numero: SOLAR 1 Manzana: 8 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>ASTECNAVIND S.A.S.</razonSocialComprador>
+        <identificacionComprador>0993387909001</identificacionComprador>
+        <totalSinImpuestos>257.13</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>257.13</baseImponible>
+                <valor>38.57</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>295.70</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>295.70</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>196</codigoPrincipal>
+            <descripcion>ACEITE DE MOTOR Y FILTRO 5/30</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>39.13</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>39.13</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="S/N"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>39.13</baseImponible>
+                    <valor>5.87</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>314</codigoPrincipal>
+            <descripcion>FILTRO AIRE</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>10</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>10.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>10.00</baseImponible>
+                    <valor>1.50</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>198</codigoPrincipal>
+            <descripcion>FILTRO DE MOTOR</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>10.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>10.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="S/N"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>10.00</baseImponible>
+                    <valor>1.50</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>315</codigoPrincipal>
+            <descripcion>PASTILLAS FRENOS BOSCH</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>28.5</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>28.50</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>28.50</baseImponible>
+                    <valor>4.27</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>22</codigoPrincipal>
+            <descripcion>SPRAY DE FRENO</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>7.50</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>7.50</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>7.50</baseImponible>
+                    <valor>1.13</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>787</codigoPrincipal>
+            <descripcion>SPRAY DE CABURADOR</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>7.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>7.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>7.00</baseImponible>
+                    <valor>1.05</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>316</codigoPrincipal>
+            <descripcion>DIAGNOSTICO COMPUTARIZADOY RESET DE SERVICIO</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>20.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>20.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>20.00</baseImponible>
+                    <valor>3.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>317</codigoPrincipal>
+            <descripcion>LIMPIEZA CUERPO ACELERACION</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>25.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>25.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>25.00</baseImponible>
+                    <valor>3.75</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>318</codigoPrincipal>
+            <descripcion>LIMPIEZA DE ACTUADOR TURBO Y CALIBRACION</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>70</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>70.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>70.00</baseImponible>
+                    <valor>10.50</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>319</codigoPrincipal>
+            <descripcion>MANTENIMIENTO DE FRENO DELANTERO POSTERIOR Y CAMBIO PASTILLAS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>40</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>40.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>40.00</baseImponible>
+                    <valor>6.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">0987730665</campoAdicional>
+        <campoAdicional nombre="Email">astecnavind.ecuador@gmail.com</campoAdicional>
+        <campoAdicional nombre="OT:">TRACKER GTM5060</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-4bc2f096-bf51-4a63-ac5d-594c48332245"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-4bc2f096-bf51-4a63-ac5d-594c48332245-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>OSMP6gk4pOgpWk39Ka9a01F06igxyETCrOf161CbKHI=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-4bc2f096-bf51-4a63-ac5d-594c48332245-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>iCCL0G6QYu0iGazvVCVZscTNILPf5E10n4l4pSUDvF4=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-4bc2f096-bf51-4a63-ac5d-594c48332245-sigvalue">dr8myyiNR5P30CMCwPjVtHiB4QFyEUfYOUlHj0wznEXNRXskan4C0QYyHBbVFggj4Sa0akyqsBzEVEBfkflKNT3t6DKKA9WC+jxmxBqDG916mXu92bkyhkcusrgzFuN9R/HTuaLpX5jBlMbK+Yqc5Oztf6cnqOVuVx3Kiu0nq65jBVtc5DJ5Rhn56saO6Mnlcsv8M4EpU1nF7tdRz1wuvVZcYVIq/sy1RlaYERnT+jCCKqIYOYhb/HioHyI07LOwO0A03QGv/w3+447EPzjBQKVn/oBc6Z+zJ6xSnFaCR7QS0IrX5lz00XEvf6WaWSSgj4/5StsFXjwwPft7lwJRnQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-4bc2f096-bf51-4a63-ac5d-594c48332245"><xades:SignedProperties Id="xmldsig-4bc2f096-bf51-4a63-ac5d-594c48332245-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-23T16:21:04.905-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>9HuXfQcabI64ZuGKUsAeINXBRH9MxPSWv0vbVJ3hNpc=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7845992530431414822</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-4bc2f096-bf51-4a63-ac5d-594c48332245-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

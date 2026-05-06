@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601090964706700120020020000000020531152413</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T09:28:14-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CASTILLO CEDEÑO MONICA ROXANA</razonSocial><ruc>0909647067001</ruc><claveAcceso>0804202601090964706700120020020000000020531152413</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>002</ptoEmi><secuencial>000000002</secuencial><dirMatriz>GUAYAS / GUAYAQUIL / GUAYAQUIL /  SOLAR 8</dirMatriz></infoTributaria><infoFactura><fechaEmision>08/04/2026</fechaEmision><dirEstablecimiento>KM. 13.5 VIA A LA COSTA URB. TERRA NOSTRA ETAPA MENORCA</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>APLIKATIQ S.A.S.</razonSocialComprador><identificacionComprador>0993381843001</identificacionComprador><direccionComprador>GUAYAS / GUAYAQUIL / TARQUI / AV. DEL BOMBERO S/N Y 1RA. CALLE</direccionComprador><totalSinImpuestos>150.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>150.00</baseImponible><valor>22.50</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>172.50</importeTotal><moneda>DÓLAR</moneda><pagos><pago><formaPago>20</formaPago><total>172.50</total><plazo>1</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>SP</codigoPrincipal><codigoAuxiliar>SP1</codigoAuxiliar><descripcion>Servicios Profesionales</descripcion><cantidad>1.00</cantidad><precioUnitario>150.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>150.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>150.00</baseImponible><valor>22.50</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Notas">Honorarios profesionales </campoAdicional><campoAdicional nombre="Email">aplikatiq..sas@gmail.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature815019">
+<ds:SignedInfo Id="Signature-SignedInfo315475">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID29379" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature815019-SignedProperties1021953">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>xOA0n8Xg/ZK8YL/YVOS8d8PFDhc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1766504">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>xVMC5YipQJzcMDhM90wVKVJFDvU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-811575" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ra36JzDYS0yWks8oWB58ReOd2YU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue342138">
+eS5jb8IiuZlp8eUQ61zqt/BlW66op959kbLuykNKcWXtkffmjTyVVP3Lizqr6fomCmYu9xR/tS1a
+QiIA7JIBq2gD4qVT2UUkgIBUGxcS8PVvhU5r7yYHn+VRK74346fMra6BfBkmxO3zx+o0gfsMf1Lx
+W6K3BABgqHas0J7j8xi1RGX80M8Op7EuiHtalwJYbADHlOCh04AY1qqVepkotHBUZK9x5JS9XKxa
+37ID7mlV2zKz45NwQJ63HrX4kx/P/pnxqWcG3mdorWEk4e2riN+A3SqBVhahQtrO+v9p0JhlKuiW
+QI3M1VFfDIyGgoT0vf71v6pNwHYDF3pTODPUeQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1766504">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH5DCCBsygAwIBAgIFAMIGwxowDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI2
+MDQwNzAzMDkwNFoXDTI3MDQwNzAzMDkwNFowgaIxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEnMCUGA1UEAwwe
+TU9OSUNBIFJPWEFOQSBDQVNUSUxMTyBDRURFw5FPMS0wKwYJKoZIhvcNAQkBFh5tb25pY2FjYXN0
+aWxsb2NlZGVub0BnbWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCthiht
+hHLzJgWJZ8AxO3jjA9FCVAcH6fvlOtb0/t0DpavaGnZkWId09V3VySEAgrWvcoKrbsk+VNRyfU0T
+gz06tqV3a0wiklm01G9RGDSbYo3Re4XV7gOY5P5lDzM35+EqksgycOeLy2QU6afGXqofiNG4rWHC
+HMopNuWxvSRvm1ScpPBlY6bKZZW8UQKcbM+D+xb6RCBEwDN5p8rshj/7Ro9Tfed701uIhZ6YK7xX
+RyqYbBB2JkjgBGdsfBA/agb+yebXjcqFDroPzyRsJA/yo71Brn49d13K50Kxlvk64ILYAekxvEAo
+Td623e7XZUPKNFcFurx47dudsJdWKaoxAgMBAAGjggR5MIIEdTAaBgorBgEEAYPPdgMBBAwMCjA5
+MDk2NDcwNjcwHQYKKwYBBAGDz3YDAgQPDA1NT05JQ0EgUk9YQU5BMBgGCisGAQQBg892AwMECgwI
+Q0FTVElMTE8wGQYKKwYBBAGDz3YDBAQLDAlDRURFw4PCkU8wIgYKKwYBBAGDz3YDBwQUDBJCT0xJ
+VkFSIChTQUdSQVJJTykwGgYKKwYBBAGDz3YDCAQMDAowOTg0MjE5NDY3MBkGCisGAQQBg892AwkE
+CwwJR1VBWUFRVUlMMBcGCisGAQQBg892AwwECQwHRUNVQURPUjAdBgorBgEEAYPPdgMLBA8MDTA5
+MDk2NDcwNjcwMDEwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUXEvIGe/pP0ocOTSEBDx6/t22u8ww
+HwYDVR0jBBgwFoAU7XZIsArxyYaGDExGZNIG+MzVvT4wDgYDVR0PAQH/BAQDAgXgMDoGA1UdHwQz
+MDEwL6AtoCuGKWh0dHA6L2VuZXh0Mi54eXovTGF6emF0ZUNBMi9lbWlzb3JDQTIuY3JsMIIBhAYD
+VR0gBIIBezCCAXcwfAYKKwYBBAGDz3YCATBuMGwGCCsGAQUFBwICMGAaXkVsIHByZXNlbnRlIGNl
+cnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRh
+ZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wgfYGCSsGAQQBg892AjCB6DBsBggrBgEFBQcCAjBgGl5F
+bCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNh
+cyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMHgGCCsGAQUFBwICMGwaakVsIHBy
+ZXNlbnRlIGNlcnRpZmljYWRvIHN1Ym9yZGluYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBw
+b2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wggEOBgNVHREEggEF
+MIIBAaAaBgorBgEEAYPPdgMBoAwMCjA5MDk2NDcwNjegHQYKKwYBBAGDz3YDAqAPDA1NT05JQ0Eg
+Uk9YQU5BoBgGCisGAQQBg892AwOgCgwIQ0FTVElMTE+gFwYKKwYBBAGDz3YDBKAJDAdDRURFw5FP
+oCIGCisGAQQBg892AwegFAwSQk9MSVZBUiAoU0FHUkFSSU8poBoGCisGAQQBg892AwigDAwKMDk4
+NDIxOTQ2N6AZBgorBgEEAYPPdgMJoAsMCUdVQVlBUVVJTKAXBgorBgEEAYPPdgMMoAkMB0VDVUFE
+T1KgHQYKKwYBBAGDz3YDC6APDA0wOTA5NjQ3MDY3MDAxMDwGCCsGAQUFBwEBBDAwLjAsBggrBgEF
+BQcwAYYgaHR0cDovL2VuZXh0Mi54eXo6ODc3Ny9hZHNzL29jc3AwDQYJKoZIhvcNAQELBQADggEB
+AGwsK10qIy09WJX3BnCM2s8iTy8Po3/zWRoLxN2QPsdLX9QgSUP8+0XTrryqv8o0VruWYGFelvVQ
+JFcC++VsJUF2pZLM/2YyTnn5iZfcfUbyYoM8raV7nmrtYOrfV4S22GptJKrU1GN3JE6Ryp2n+GsJ
+/rMdemE4JU0uEYqMzHvlTkSHTb6ORfFiBc3QPPeTy0L0MQ+DtgrCUHj+fy8pRfbf4W8P0w5MDIWT
+4k1oddERpvdZdEBOxsi7KnjQoPqndqQYRmguVC+7RqXqYytlvbC11y11YimP/wjuxpXQ0/6Ue6j4
+nLQBM2phZhbgOHlSOMWte9qgsWv6YC31NOwfAzo=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rYYobYRy8yYFiWfAMTt44wPRQlQHB+n75TrW9P7dA6Wr2hp2ZFiHdPVd1ckhAIK1r3KCq27JPlTU
+cn1NE4M9Orald2tMIpJZtNRvURg0m2KN0XuF1e4DmOT+ZQ8zN+fhKpLIMnDni8tkFOmnxl6qH4jR
+uK1hwhzKKTblsb0kb5tUnKTwZWOmymWVvFECnGzPg/sW+kQgRMAzeafK7IY/+0aPU33ne9NbiIWe
+mCu8V0cqmGwQdiZI4ARnbHwQP2oG/snm143KhQ66D88kbCQP8qO9Qa5+PXddyudCsZb5OuCC2AHp
+MbxAKE3ett3u12VDyjRXBbq8eO3bnbCXVimqMQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature815019-Object588912"><etsi:QualifyingProperties Target="#Signature815019"><etsi:SignedProperties Id="Signature815019-SignedProperties1021953"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-08T09:28:14-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>JWY0pIK0ezqLhozgNgyFEQHUMUQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3255223066</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-811575"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

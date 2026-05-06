@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601170422949900120010010000017899846951111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T16:04:20-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CALDERON MACAS JUAN MARIA ELEAZAR</razonSocial>
+    <nombreComercial>CENTRO MEDICO POPULAR SAN CARLOS</nombreComercial>
+    <ruc>1704229499001</ruc>
+    <claveAcceso>1704202601170422949900120010010000017899846951111</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000001789</secuencial>
+    <dirMatriz>OE7D HERNANDO DE SOTO #N61-33 Y N61 FLAVIO ALFARO / COTOCOLLAO / QUITO / PICHINCHA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>17/04/2026</fechaEmision>
+    <dirEstablecimiento>OE7D HERNANDO DE SOTO Y FLAVIO ALFARO</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>JACOME CONTERON ROSA ELVIRA</razonSocialComprador>
+    <identificacionComprador>1706522081001</identificacionComprador>
+    <direccionComprador>JUAN HIDALGO #LOTE10 Y BERNARDO LEGARDA, COTOCOLLAO</direccionComprador>
+    <totalSinImpuestos>40.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>40.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>40.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>40.00</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>001</codigoPrincipal>
+      <descripcion>CONSULTA MEDICA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>40.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>40.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">JUAN HIDALGO #LOTE10 Y BERNARDO LEGARDA, COTOCOLLAO</campoAdicional>
+    <campoAdicional nombre="TELEFONO">2533240</campoAdicional>
+    <campoAdicional nombre="EMAIL">rositajacome.60@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature873402">
+<ds:SignedInfo Id="Signature-SignedInfo63326">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID660552" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature873402-SignedProperties672289">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>uypXI8ZkfMJVpw5PYaPFCpH2/Bw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1811605">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>rdLlMWOqjmewwLj8tORNJfQRm/I=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-381762" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>MCHWegPEMN8BqsoBDx/dcFY+Dmw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue260114">
+OllOdf4mRK+LIR3YfgVNpHHL2r/N25OO1hP70V6kUf93K28QJOxQO1ypIbFOy99VbwsgqW+35x8n
+uidkbWV5nyZLNbcAHarsUXoarWgaEEDIaqyeQwxwLrowQAh/KSB1Wl8YrP9/bB54ln3AglITdLXC
+ljRnUd1nlJwF0f8rJ6BDxu8DP4vrXVb4GHqqM+nRVyS8HO09Qaa3/JD1wNLYM5oHUmzPrDweg0Cr
+Z2WAghnV0cKIqgH7SXsg/bl2Uc1wVPAQzybQQ2A4MGdprBoEyJDDMzsSvlE7s88Gl4O0PCFkcxZR
+vA26oiA3yExaboP9xDP4+Rs4VZkYjhDGjvHHOw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1811605">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJXzCCB0egAwIBAgIINinPwv2bGBYwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MTIwMTE5MjgwMFoXDTI2MTIwMTE5MjgwMFowgagxCzAJBgNVBAYTAkVDMRcwFQYDVQQEDA5D
+QUxERVJPTiBNQUNBUzEbMBkGA1UEKgwSSlVBTiBNQVJJQSBFTEVBWkFSMRkwFwYDVQQFExBJRENF
+Qy0xNzA0MjI5NDk5MSowKAYDVQQDDCFKVUFOIE1BUklBIEVMRUFaQVIgQ0FMREVST04gTUFDQVMx
+HDAaBgNVBGEME1RJTkVDLTE3MDQyMjk0OTkwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC3HFtkUOa0jBXwaotbK3FRkWWjo9GgOmsW5XMbbLz84CtqKuXV7aehRqGKrh1m1o7LgXiG
+yTCW+WKcC8zzSHCNFXO2ZPp4Js4wLBkfd2zuWXyUxheWUMbd0neZGt8qf1fGYN/hxo3jHJ7JmT35
+UmTf6Q2OONMZpcZoGHerreyXAfEPmRCCtu14MHk9YcymhIBvZPLcmlJfB4DIXgtd2aVF2qPyh+km
+1tRMuYmrrCyV4qBcFhSeZaAZ/BS6ekXKhsOIFHbB0OT9ja3sGE8zqfJZWW5W6IbU8pJJj4h9/lz9
+oGrH7xI6edgbi9vC6h2j/gto/qlKus/jZTmGrlwqSyB7AgMBAAGjggR5MIIEdTAbBgsrBgEEAYLx
+NmYDAQQMDAoxNzA0MjI5NDk5MB4GCysGAQQBgvE2ZgMLBA8MDTE3MDQyMjk0OTkwMDEwgdcGCCsG
+AQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMv
+ZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTIuY3J0MDYGCCsGAQUFBzABhipo
+dHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0
+dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQU7ZdoUbi6
+F6I/cVY57DAB/WxXzrIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGy
+dJJz/TCBmQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6
+Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJU
+SUZJQ0FETyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGH
+MIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vi
+b3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9j
+cmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcD
+AgYIKwYBBQUHAwQwggGvBgNVHREEggGmMIIBooETY2Vwcm92aUBob3RtYWlsLmNvbaAbBgsrBgEE
+AYLxNmYDAaAMDAoxNzA0MjI5NDk5oCMGCysGAQQBgvE2ZgMCoBQMEkpVQU4gTUFSSUEgRUxFQVpB
+UqAZBgsrBgEEAYLxNmYDA6AKDAhDQUxERVJPTqAWBgsrBgEEAYLxNmYDBKAHDAVNQUNBU6BjBgsr
+BgEEAYLxNmYDB6BUDFJPRTdEIEhFUk5BTkRPIERFIFNPVE8gI042MS0zMyBZIE42MSBGTEFWSU8g
+QUxGQVJPIC8gQ09UT0NPTExBTyAvIFFVSVRPIC8gUElDSElOQ0hBoB8GCysGAQQBgvE2ZgMIoBAM
+DjAwNTkzOTkyMzk1NTU4oBYGCysGAQQBgvE2ZgMJoAcMBVFVSVRPoB4GCysGAQQBgvE2ZgMLoA8M
+DTE3MDQyMjk0OTkwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgKQYLKwYBBAGC8TZmAzKgGgwYUEVS
+U09OQSBOQVRVUkFMIE8gRklTSUNBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcN
+AQELBQADggIBAFSO9azd8yr3Z2ET8Oc1GiurvCypwJN2/Al3mtApF1NVomnNhAGJdCsRC/B3lK02
+5MbtdJ8MCciyKMSEJaGvcGrk3akDvxUzzRD+JxcCLkYvoyEvlFNdpV049UtBfC5TqagRdBUWuuQr
+ooM3loWveyDuaJcZCBeykaWhapKK/DXrIE/NAwZzj09nRvKdIQ3X3s+d/uL+ogHvnymnMgRgz13P
+HOAeEwkw9EGc+1Aa2BU82x5G3CHYEl//GL4HFXvxmxMWj9ZvqmcsRiCEJon7Ex6vR5pBn7NnLpps
+nQxjHoluxJjGKR3l9F5PEQNDilL+cQ8e9fNiKWgIwB3y6S+yIyEgnIam9p6t9ELpZlgeGDqTeKDk
+zXzIIN/5WYds2gR16iUZzrl2Q1+QLcBStjS/ghK9/HommESag47PoduIj+/6iNgWe5cIfM/sqi76
+MI1a7ScaE74i7LL//YOwdcelifyO1wWfW1Shu86wA/h/LBxEeDvY6AFbBVMIXI33v2yszZC8mvph
+QrH4LSgDsXuX0TkbjT2Dcs5KQMXvdGncgWjWMuYMvXkijEplvgN6M55L24P8i+kCHqPf0JWxPpmE
+cIsXTRe/sg0tU7M6hlR5vWD/GXT1aLEn5gBtoXH0PwSMQ5O5jV4jJFMYBrf+gh1X9EnUQXWJwduH
+vxmDW/WjSUlK
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+txxbZFDmtIwV8GqLWytxUZFlo6PRoDprFuVzG2y8/OArairl1e2noUahiq4dZtaOy4F4hskwlvli
+nAvM80hwjRVztmT6eCbOMCwZH3ds7ll8lMYXllDG3dJ3mRrfKn9XxmDf4caN4xyeyZk9+VJk3+kN
+jjjTGaXGaBh3q63slwHxD5kQgrbteDB5PWHMpoSAb2Ty3JpSXweAyF4LXdmlRdqj8ofpJtbUTLmJ
+q6wsleKgXBYUnmWgGfwUunpFyobDiBR2wdDk/Y2t7BhPM6nyWVluVuiG1PKSSY+Iff5c/aBqx+8S
+OnnYG4vbwuodo/4LaP6pSrrP42U5hq5cKksgew==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature873402-Object829623"><etsi:QualifyingProperties Target="#Signature873402"><etsi:SignedProperties Id="Signature873402-SignedProperties672289"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T16:04:08-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>g80WiGuP+qvZTZkoZtmvGeRIBLM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>3902878988478650390</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-381762"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

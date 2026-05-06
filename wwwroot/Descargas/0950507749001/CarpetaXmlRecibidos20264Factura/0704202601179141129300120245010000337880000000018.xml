@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202601179141129300120245010000337880000000018</numeroAutorizacion>
+<fechaAutorizacion>2026-04-07T14:49:51-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>TRAVELSTORES S.A.</razonSocial>
+    <nombreComercial>NOMAD - NACIONAL</nombreComercial>
+    <ruc>1791411293001</ruc>
+    <claveAcceso>0704202601179141129300120245010000337880000000018</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>024</estab>
+    <ptoEmi>501</ptoEmi>
+    <secuencial>000033788</secuencial>
+    <dirMatriz>VIA TABABELA SN Y VIA YARUQUI</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>07/04/2026</fechaEmision>
+    <contribuyenteEspecial>011</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ERICK GARCIA</razonSocialComprador>
+    <identificacionComprador>0950507749001</identificacionComprador>
+    <direccionComprador>6 DE MARZO Y FRANCISCO DE MARCO , GUAYAQUIL</direccionComprador>
+    <totalSinImpuestos>10.43</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>10.43</baseImponible>
+        <valor>1.57</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>12.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>12</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>30266706</codigoPrincipal>
+      <descripcion>CABLE USB A LIGHTNING CON LUZ DE CARGA 1M CA-2030 MCDODO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>10.4348</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.43</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>10.43</baseImponible>
+          <valor>1.57</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="E-Mail">erickgar2016@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Referencia">EB-17-35663</campoAdicional>
+    <campoAdicional nombre="Tipo de Cobro">CONTADO</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-e2fd815e-641e-41ef-baac-9d6b797e15b0"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-89fea6a4-5330-440f-9709-5811fba56f20" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>seLAozngtUUTVML4+nht/8fnpdBcPZcNzBQMisQSTYA=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-e2fd815e-641e-41ef-baac-9d6b797e15b0"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>Ytt/3FPC7DM3XnOz4YwsqizQMR0+YI8hlz6QYXwM5aA=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-e2fd815e-641e-41ef-baac-9d6b797e15b0"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>MZ6ZayrAkYbfnOfnJApdBwdo7n8k2jWVdd6vkNJ6YC0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-e2fd815e-641e-41ef-baac-9d6b797e15b0">mQ31WtlvILByO7Ko/xNiwJ68u5+xcllTttYbAhreQBGN7XwwCuS2xY4inBenqfMNYYVCY6Noos6iyGSeUeoo0cYMY6sryVcA9inSO7UJXbWne89OsDLlE4XSycK2fJvdVWuqWcue2IyieAVzEegCCXmYCNWqGDQ9ZHBdxgiV0TnandnnHdqTXlV4Uh5h5I8AB0NpUxcLCmJYrwtHd1qkO3qxFoYWMOF8vY8GwQfXUUUIq57Q2qkMC+vpbxu7pNBQa3juw7Kkm5JG1EqZuFAmG+iw5ZqSk8QEkOZGX8i/vTJb9CgrSKoJuCP//YC0VcoGOUv/0BfSJpBc4s5995p1Ug==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-e2fd815e-641e-41ef-baac-9d6b797e15b0"><ds:X509Data><ds:X509Certificate>MIIK0zCCCLugAwIBAgIIGhJRkbI4q3AwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMDMwMjMxNTI1WhcNMjcxMDMwMjMxNTI1WjCBrjEsMCoGA1UEAwwjRlJBTkNJU0NPIEJFTkpBTUlOIERBTE1BVSBDSElSSUJPR0ExIDAeBgNVBAUTFzE3MDY4NDk0MTktMzAxMDI1MTgyNTE0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJ8E0kKLzxtWKwPBSK4AM4O5NNdkSLxx6WrtjBJVx/HBKCCTgMV8gZShAKA2GfgzFJUjfeMbVRAeah8XTIa/+8PhtxgIs1OBwrTSZl18zmYALsKK2avjl6XML42SyMh1Bb9+MxX91n9MfNRhRXBU9V1s6VygUKdLzkzdWxSPMGdfOJliHBJ4CTnnZ9leEGYWg5VWEviem97L9qKUptUU0z5r4budIGFrXTLa9twEOHkyKVBgjWLKmwAlB601PKeuK5a2i5jbmugmtuBB3GCeAdN1w5+hQmQ4KosLWCNSs44X9wj+FAMd6VI6zG46aT4TT9wUkJGoUVsanlMqHILf31cCAwEAAaOCBgYwggYCMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCQGA1UdEQQdMBuBGWZkYWxtYXVAdHJhdmVsLXN0b3Jlcy5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFJHDBpnVf7eeAgMPPdMH4E/PJzVeMCsGA1UdEAQkMCKADzIwMjUxMDMwMjMxNTI1WoEPMjAyNzEwMzAyMzE1MjVaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjE3MDY4NDk0MTkwGAYKKwYBBAGCpnIDCQQKDAhUQUJBQkVMQTARBgorBgEEAYKmcgMiBAMMAS4wLQYKKwYBBAGCpnIDBwQfDB1WSUEgVEFCQUJFTEEgU04gWSBWSUEgWUFSVVFVSTAiBgorBgEEAYKmcgMCBBQMEkZSQU5DSVNDTyBCRU5KQU1JTjAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMTA5NjEyOTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZEQUxNQVUwHwYKKwYBBAGCpnIDCgQRDA9UUkFWRUxTVE9SRVMgU0EwHQYKKwYBBAGCpnIDCwQPDA0xNzkxNDExMjkzMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAZBgorBgEEAYKmcgMEBAsMCUNISVJJQk9HQTAaBgorBgEEAYKmcgMIBAwMCjA5ODcwNjE5MjkwDQYJKoZIhvcNAQELBQADggIBAB/oDlxUw8i6VK/FA9JRTd1Nf8fd8nkkfng8J0Nak6HLVV66M0g/CPDAVsWzfw5UDo3+SdrI8nUgvtERBT+OdPAMUH1Jwl8Xt7+rjstAlFquyB7v5S/zliR4osefstPKc9rZG+NTdTHd/z2ds/Y38IA9wmARrtsbc0ogcUeqZ5kKrJTKZz/wak4xSLC6qPi9zvJHTcQTTcXBddDnqBzbmHvxsRkMDXuaNTL/biZ/DGVTzBp7GUWIGb3wjWkM969JsuKfGwOzxbE+psDc4tA+zAvA377k8eLm7tpVPFhABQpO7gj+2p5o2Xhx1+6Ua0fzSfBoqp/Y6ItqpVukjqkBu1DWaOwCgF5GTugHELOJJAetRABlgQRkbVMJEeWrP9EGBkfiavc4LwBQexUKENiALnagx2SDHh51QtK02LR9mv520PqicrvhMKIWitfR76TxOdbXlnxEBDj/3VBZjvV4yDVzybr99ofjyRxAtz/slGjf1qr5ENFXA1GqRFiI8VGIFAuXvRl+JJACuwsudBN7ihnLZS3k8yH1eP57EFvm3IMZp9qYCJpOHBJFbxGM3SMJ7CohPa0wUilHPrXESb5oEtxktCh1ttIG7y1WiBMcAIIaSAiZLhSKi3q1TKQYuxw7431GLJ5MjErjTpUSBriOqL/VUa6tHMOvXgglsDw6V2/m</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>nwTSQovPG1YrA8FIrgAzg7k012RIvHHpau2MElXH8cEoIJOAxXyBlKEAoDYZ+DMUlSN94xtVEB5qHxdMhr/7w+G3GAizU4HCtNJmXXzOZgAuworZq+OXpcwvjZLIyHUFv34zFf3Wf0x81GFFcFT1XWzpXKBQp0vOTN1bFI8wZ184mWIcEngJOedn2V4QZhaDlVYS+J6b3sv2opSm1RTTPmvhu50gYWtdMtr23AQ4eTIpUGCNYsqbACUHrTU8p64rlraLmNua6Ca24EHcYJ4B03XDn6FCZDgqiwtYI1Kzjhf3CP4UAx3pUjrMbjppPhNP3BSQkahRWxqeUyocgt/fVw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-d0f46c54-ea8d-42ed-b5d4-50eb72e60f2c"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-6dca9651-d7ca-41ff-9a52-163bf2823c6f" Target="#Signature-e2fd815e-641e-41ef-baac-9d6b797e15b0"><xades:SignedProperties Id="SignedProperties-Signature-e2fd815e-641e-41ef-baac-9d6b797e15b0"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-07T14:36:36-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>PJ8n9FavU8I5VNVGnpv+htZbMaekF3UBIQm1vpcgODU=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1878653680769084272</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-89fea6a4-5330-440f-9709-5811fba56f20"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

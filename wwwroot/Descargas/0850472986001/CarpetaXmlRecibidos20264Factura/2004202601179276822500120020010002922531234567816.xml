@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202601179276822500120020010002922531234567816</numeroAutorizacion>
+<fechaAutorizacion>2026-04-20T09:27:10-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>THIARAM CONSTRUCTORA CIA LTDA</razonSocial>
+<nombreComercial>ESTACION DE SERVICIO THIARA</nombreComercial>
+<ruc>1792768225001</ruc>
+<claveAcceso>2004202601179276822500120020010002922531234567816</claveAcceso>
+<codDoc>01</codDoc>
+<estab>002</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000292253</secuencial>
+<dirMatriz>ESMERALDAS / ATACAMES / TONSUPA / VIA ATACAMES ESMERALDAS LOTE 307-308 Y AVENIDA DEL PACIFICO</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>20/04/2026</fechaEmision>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>CEDEÑO LOOR MAYTER VALESKA</razonSocialComprador>
+<identificacionComprador>0850472986</identificacionComprador>
+<totalSinImpuestos>4.35</totalSinImpuestos>
+<totalSubsidio>0.56</totalSubsidio>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<descuentoAdicional>0.00</descuentoAdicional>
+<baseImponible>4.35</baseImponible>
+<valor>0.65</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>5.00</importeTotal>
+<moneda>DOLAR</moneda>
+<placa>JL736X</placa>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>5.00</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>0174</codigoPrincipal>
+<descripcion>EXTRA CON ETANOL</descripcion>
+<cantidad>1.653000</cantidad>
+<precioUnitario>2.629565</precioUnitario>
+<precioSinSubsidio>2.967033</precioSinSubsidio>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>4.35</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>4.35</baseImponible>
+<valor>0.65</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature124607">
+<ds:SignedInfo Id="Signature-SignedInfo984853">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID481819" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature124607-SignedProperties66537">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>qaYwAZouPdobeRLjjz6KgjBzVyk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1753491">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>rnOEH4mKdycADmffbNrw8bpoUeI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-497929" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1+VGZguv0b/6l9DEAnDZyAm2Az0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue353054">
+FURkY/ypyVxMDAIjSMVBrOCGgW/U55+Sjn/6Kfk3CvmHZ7V1QhJs8vlvYGhfZinyNoAKpSFh127I
+FAU/zHygzvbdpzuTvmTCDMKnvmiTDMGLh9tcdp030dXRBZbdfCfpoT90YnPLPWWyV+FCHl+jR+s5
+Erc5XS1bwbulko2jzMTI6v1M36n/VudnUBmdEuMZzDKi1hyu4Coz1eQE7czCVrlSBHMp/EFFyVzP
+9eyR7/gvlBW7APvpZP9WjJJT1xK6fJFXbMif/OnsnYcjKuR0zvIFES+60KfCxa/3EJlqKYubmywr
+qIWm/wjH05Pr9MlIOQnceV/s6AxIrj2TCjV9Eg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1753491">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJXDCCB0SgAwIBAgIKfD0Tvtt+BNv+EjANBgkqhkiG9w0BAQsFADCBmzELMAkGA1UEBhMCRUMx
+HzAdBgNVBAoMFkNPUlBORVdCRVNUIENJQS4gTFREQS4xMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMUVGIENPUlBORVdCRVNUMB4XDTI2MDEwOTE3MDAzNloXDTI3MDEwOTE3MDAz
+NVowgYwxCzAJBgNVBAYTAkVDMR4wHAYDVQQKDBVDT1JQTkVXQkVTVCBDSUEuIExUREExMDAuBgNV
+BAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjErMCkGA1UEAwwiUEFa
+TUlOTyBCVUNIRUxJIExVSVMgRURHVUlOIFJBTUlSTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAMBpE7HEhRZsmeKKf/2r9Y2MwiphmKNOo5MiA3NQFq8lyAeuAVKfVZYYj0QzoxtSxSSh
+JvOD6F5zog4yj+WhFhyHo80SDTpmsI71xu6CY/OpWox3s4d1W6MG3r+MeKZgNAq49aWh541tcexP
+3tU89HXSPqgcyMZhjhzib09P97zUAVrnRPqqiBQw0YhkrJRYDiqgE2lN+IvzcANhTqxh3dUUui5B
+e6hc2QcQ+bjS3dKKGAwQPzpcBr3NOzIf3ItuldvudTdeTYltDIIAwQW9/IaBj97JOvXvPyCT7dZC
+ZPxxDqaWYxJ6FUOJt4mhHlLhPQ5AiQeCPYp6ggKsFu+bgXECAwEAAaOCBK0wggSpMAwGA1UdEwEB
+/wQCMAAwHwYDVR0jBBgwFoAUaZUPhTiZVIha5cn2GnVziP9K9J4wUwYIKwYBBQUHAQEERzBFMEMG
+CCsGAQUFBzABhjdodHRwOi8vZWpiY2FlZS5uZXdiZXN0LnRlY2gvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwMIHtBgNVHS4EgeUwgeIwgd+ggdyggdmGgdZodHRwOi8vZWpiY2FlZS5uZXdiZXN0
+LnRlY2gvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q04l
+M0RBVVRPUklEQUQrREUrQ0VSVElGSUNBQ0lPTitTVUJDQS0xRUYrQ09SUE5FV0JFU1QlMkNPVSUz
+REVOVElEQUQrREUrQ0VSVElGSUNBQ0lPTitERStJTkZPUk1BQ0lPTiUyQ08lM0RDT1JQTkVXQkVT
+VCtDSUEuK0xUREEuJTJDQyUzREVDMIGMBgNVHSAEgYQwgYEwcQYKKwYBBAGCjEwBCTBjMGEGCCsG
+AQUFBwIBFlVodHRwczovL3d3dy5uZXdiZXN0Lm5ldC9uZXdzaWduYXBpL2Rvd25sb2Fkcy9ub3Jt
+YXRpdmEvcG9saXRpY2FzX3BlcnNvbmFfanVyaWRpY2EucGRmMAwGCisGAQQBgoxMAggwge0GA1Ud
+HwSB5TCB4jCB36CB3KCB2YaB1mh0dHA6Ly9lamJjYWVlLm5ld2Jlc3QudGVjaC9lamJjYS9wdWJs
+aWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTiUzREFVVE9SSURBRCtERStD
+RVJUSUZJQ0FDSU9OK1NVQkNBLTFFRitDT1JQTkVXQkVTVCUyQ09VJTNERU5USURBRCtERStDRVJU
+SUZJQ0FDSU9OK0RFK0lORk9STUFDSU9OJTJDTyUzRENPUlBORVdCRVNUK0NJQS4rTFREQS4lMkND
+JTNERUMwHQYDVR0OBBYEFLrvFCbMXjljDraZ8K01y+/nhIbWMCsGA1UdEAQkMCKADzIwMjYwMTA5
+MTcwMDM2WoEPMjAyNzAxMDkxNzAwMzVaMA4GA1UdDwEB/wQEAwIF4DAfBgorBgEEAYKMTAMFBBEM
+D0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKMTAMBBAwMCjAyMDAzNTY5MDUwFQYKKwYBBAGCjEwD
+CQQHDAVRVUlUTzAwBgorBgEEAYKMTAMHBCIMIE1VUk9TIE4yNyAxOTIgQVYgR09OWkFMRVogU1VB
+UkVaMCIGCisGAQQBgoxMAwIEFAwSTFVJUyBFREdVSU4gUkFNSVJPMBIGCisGAQQBgoxMAwwEBAwC
+RUMwFwYKKwYBBAGCjEwDAwQJDAdQQVpNSU5PMC0GCisGAQQBgoxMAwoEHwwdVEhJQVJBTSBDT05T
+VFJVQ1RPUkEgQ0lBIExUREEwHQYKKwYBBAGCjEwDCwQPDA0xNzkyNzY4MjI1MDAxMBcGCisGAQQB
+goxMAwQECQwHQlVDSEVMSTAaBgorBgEEAYKMTAMIBAwMCjA5NjExNDExMDIwDQYJKoZIhvcNAQEL
+BQADggIBAHRZ6AkOQAc8uzGtP+AUdes/fmiTxnzdjfOUlRX0nT2c9fUM7SKPzh/te4jPu4fIA86f
+gII2kc8uyAgDfDX8fJpQDPEvbdZ76BE2b+fsTQNSDXXdnDoJDFX7DfCWgjyxBP8tYWmVY/pKBqpW
+eaorLDYO4j/npZHIGaEDDUWd0+YIWk3VZDFax+PgV82Y1zox9Kqb8orHqUF59y9le4kdmybTW0Rl
+QpQfTx3U0B9DeFS2geHSFRovR1Q3kpfNrK8EDD+5PFJZ31K5VFZWlZaxJYMHJ6bYNQrjktGFQszZ
+mjcHVMaRek53FuwTBUPidgqcfAL5CS2N368gwSPHfDmbgysR7D5RbAYnNQqiBfl/h951wmuPb1xW
+CJmgwHSwE3YmkTdktmMUuzwQiJahKnthvpxQWW+om6gqkoUFV5LOritlHOy6tdkYg3SqJKrAgMYY
+hMmHM37fLYy1+3QSFtqhgJzgIevhmjyCm0kYpTPRLg5Ur+67GHlZYFtxhUu3tn+po69UpDWTN1Qo
+kLgvwp7wZILvPybrQmmNVprNn0EfC80LBYJbLFKupR7PClpfgG2IxAGDlXivdNjfB/ylCM1QJ9ji
+TqZxidv5+9S8Y9YZcYglZy35i35oC1paOQ/KCthzRymvye0g7AzRPuJd4DegxWHMa8VyHDnKslDh
+4UCwpt1K
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wGkTscSFFmyZ4op//av1jYzCKmGYo06jkyIDc1AWryXIB64BUp9VlhiPRDOjG1LFJKEm84PoXnOi
+DjKP5aEWHIejzRINOmawjvXG7oJj86lajHezh3Vbowbev4x4pmA0Crj1paHnjW1x7E/e1Tz0ddI+
+qBzIxmGOHOJvT0/3vNQBWudE+qqIFDDRiGSslFgOKqATaU34i/NwA2FOrGHd1RS6LkF7qFzZBxD5
+uNLd0ooYDBA/OlwGvc07Mh/ci26V2+51N15NiW0MggDBBb38hoGP3sk69e8/IJPt1kJk/HEOppZj
+EnoVQ4m3iaEeUuE9DkCJB4I9inqCAqwW75uBcQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature124607-Object549293"><etsi:QualifyingProperties Target="#Signature124607"><etsi:SignedProperties Id="Signature124607-SignedProperties66537"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T09:27:07-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>TZi2Y6vaYipAPatPSJ5W9UxF1q8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1EF CORPNEWBEST,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=CORPNEWBEST CIA. LTDA.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>586700118080198878690834</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-497929"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

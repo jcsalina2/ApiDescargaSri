@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0904202601099339778900120010010000083240993397715</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T20:19:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SEÑOR CHICHARRON S.A.S.</razonSocial>
+    <nombreComercial>SEÑOR CHICHARRON S.A.S.</nombreComercial>
+    <ruc>0993397789001</ruc>
+    <claveAcceso>0904202601099339778900120010010000083240993397715</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000008324</secuencial>
+    <dirMatriz>GUAYAQUIL CDLA LA ALBORADA ETAPA XII MZ14 A DOS CUADRAS DE LA CLINICA ALBORADA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>09/04/2026</fechaEmision>
+    <dirEstablecimiento>GUAYAQUIL CDLA LA ALBORADA ETAPA XII MZ14 A DOS CUADRAS DE LA CLINICA ALBORADA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Belgica Loaiza</razonSocialComprador>
+    <identificacionComprador>0950045922</identificacionComprador>
+    <direccionComprador>SAMANES</direccionComprador>
+    <totalSinImpuestos>18.91</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>18.91</baseImponible>
+        <valor>2.84</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>3</codigo>
+        <codigoPorcentaje>3031</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>21.75</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>21.75</total>
+      </pago>
+    </pagos>
+    <valorRetIva>0.00</valorRetIva>
+    <valorRetRenta>0.00</valorRetRenta>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>2</codigoPrincipal>
+      <descripcion>BOX PAISA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>6.96</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.96</baseImponible>
+          <valor>1.04</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>5</codigoPrincipal>
+      <descripcion>CHORI PAISA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.17</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7</codigoPrincipal>
+      <descripcion>PICADA MIX POLLO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>6.09</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.09</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.09</baseImponible>
+          <valor>0.91</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>38</codigoPrincipal>
+      <descripcion>LLEVAR</descripcion>
+      <cantidad>3</cantidad>
+      <precioUnitario>0.22</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.65</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.65</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>23</codigoPrincipal>
+      <descripcion>FUZE TEA MEDIANO</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>1.09</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>14</codigoPrincipal>
+      <descripcion>ADICIONAL PATACON</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.87</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.87</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.87</baseImponible>
+          <valor>0.13</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="CORREO">0950045922 Belgica Loaiza  bandreasuarezl@gmail.com</campoAdicional>
+    <campoAdicional nombre="TELÉFONO">0000000000</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature786169678"><ds:SignedInfo Id="Signature-SignedInfo355731384"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID754962906" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature786169678-SignedProperties784939670"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>FoCm2yqxIOnt3OoZgL7YBt/rYUQ=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate532903783"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>dmOjtvi8x6/jsk/ZetUV+JIsAXk=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-1972184463" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>8sjR76THdipJl/edXzlOry6Ie+0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue1738656448">W+Fq/WPTkwv9tgSLXJqYXsNV0rWVkRitlUfPCdSZFZTGqod9Twj81v5GnCuvVu1w42qkYzm0FHVp
+GPgy7I2oHE5Tit4Snmnf3CTez9KqsWA3OM6PPWQ0+uRpIiLWGfV1+pNCqT5TPiAE9HE2sUxQiKeo
++9vgurKejH6YgA9ulnAjPrPXeyKO7yZQNtIyGVUSiJvujgQTJyxxXjF+BMaPfnS0Rsxh3blNgqTS
+tO0ldDxd7rqE4weQ3QpEBT19cCnQFmverZBKXNwgj9kZAs57Os6QbC/MDFGYNcJh7/y/p9rU3Rnh
+YcpHZwuuCaTwZEuaHTANtZPvZkHNeDUL3Hlhfg==
+</ds:SignatureValue><ds:KeyInfo Id="Certificate532903783"><ds:X509Data><ds:X509Certificate>MIIJtzCCB5+gAwIBAgIIX11mKvIQi7QwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDMzMTAwMTAwMFoXDTI4MDMzMDAwMTAwMFowgeAxCzAJBgNVBAYTAkVDMSIwIAYDVQQKDBlT
+RcORT1IgQ0hJQ0hBUlLDk04gUy5BLlMuMRgwFgYDVQQMDA9HRVJFTlRFIEdFTkVSQUwxGTAXBgNV
+BAQMEEVMQkVSVCBIVUFZQU1BVkUxFjAUBgNVBCoMDUFOVEhPTlkgSkFISVIxGTAXBgNVBAUTEElE
+Q0VDLTA5NTkxMzY0NjYxJzAlBgNVBAMMHkFOVEhPTlkgSkFISVIgRUxCRVJUIEhVQVlBTUFWRTEc
+MBoGA1UEYQwTVkFURUMtMDk5MzM5Nzc4OTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAJZLe0WQ6sRRKy7LdKxlVAfn8NLTUiooQClPHqJ5kPbDCH1OPA2JhRnlbDb++maWSkseFPq/
+wNQcFep71UoM24uyoRFTaBedpCZgV5TYO4WUDe77BOJR9DiPKFA5J07qPrZ9pmZwd3nK1HveycSn
+1bBcYJjTnDxHK4rAk74GicMn69ozeBv4VPepQXpZlsYJtT6vr6CwMsIdXxHsgdNzK6wZmNOEv1Hu
+assg1yTfraYV8LhYX8KJ24OYE96v5YaircwvATOFoqP3zgkfNgvMZWYtwtqka5a9e0p44p6y0skU
++uM4ZzHOaYfjdREln7dZLhtnmMy4FT9b62LppOKqNBECAwEAAaOCBJkwggSVMBsGCysGAQQBgvE2
+ZgMBBAwMCjA5NTkxMzY0NjYwHgYLKwYBBAGC8TZmAwsEDwwNMDk5MzM5Nzc4OTAwMTCB1wYIKwYB
+BQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9k
+b3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0
+dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0
+cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBRz7iR9pAA9
+JyjA9/X9YjAJKssa+DAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0
+knP9MIGOBgNVHSAEgYYwgYMwgYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczov
+L3d3dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJ
+RklDQURPIERFIFJFUFJFU0VOVEFOVEUgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggHaBgNVHREEggHRMIIBzYEadmFuZXNzYWNhdmFkaWFuYUBnbWFpbC5jb22gGwYLKwYBBAGC8TZm
+AwGgDAwKMDk1OTEzNjQ2NqAeBgsrBgEEAYLxNmYDAqAPDA1BTlRIT05ZIEpBSElSoBcGCysGAQQB
+gvE2ZgMDoAgMBkVMQkVSVKAaBgsrBgEEAYLxNmYDBKALDAlIVUFZQU1BVkWgIAYLKwYBBAGC8TZm
+AwWgEQwPR0VSRU5URSBHRU5FUkFMoD0GCysGAQQBgvE2ZgMHoC4MLENJVURBREVMQSBMQSBBTEJP
+UkFEQSBJTlRFUlNFQ0NJTjogRVRBUEEgWElJoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTk1MjQ0
+MzYwoBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAqBgsrBgEEAYLxNmYDCqAbDBlTRcORT1Ig
+Q0hJQ0hBUlLDk04gUy5BLlMuoB4GCysGAQQBgvE2ZgMLoA8MDTA5OTMzOTc3ODkwMDGgEwYLKwYB
+BAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAYBgsr
+BgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQBmsXlzFH5YfePcK0x8oTfn
+SMS7QfAeeWc+60PbZWF6+RvkUzKB9NZnAh3St4pHHxAlk7QznBYqVGCg4x58IWc08qs55Sel6ZH7
+ipwt56kNrd0a3GOR3qPzpMK8MoK/R/In2yxzfSOEHtpuRdyHFcnJuyCTP1nOpSNduQ2RYiJG7M6b
+vrT5uZcMIqW0nD6dXCmm5q9YFC4vh8gKWgRQLqsCzKUfht1zQr+9ST8UmeHDtzCnrm251f6+zP5M
+SKj7mxvVUuXG8pS3UFgGFpiIKhTOBwtye7VWbQGpgXhrv9eaQA/X1uLhhzSQ4v3K0w9mVpcHRe9J
+/W2LtOPoIHy64Hh9jcaTgC+ZpnkcAjJFp4VtT8NQJA2GQvXUWeMhGkxCngUyjgBq+chUuomqgs75
+HBdm++ej8fD6mAImQuc0hOk8PBPEPzcszOr8ZY/faFYdUF1RCnP5GrHvAcVRcQ0XDwTEolOGqYRv
+PgbSFn+/+q6KS5B8uNSYlT7QraqPKGRERm/dnhXtc6PI4bnBxKJtOLUl7y9BqyKFhZ4R/wlQ4ewP
+UIoONKp7KnVMLIGYXM5CCKfqqysSRQMyALsrpvQe3+pWsnW5zDQ529QZi8jfQx5NA9IddGQEruuM
+JikLKst7QsZUlt8OqPITxE8tzHdmw+nLElf1PEH8daMa6nHhxujj7g==
+</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>lkt7RZDqxFErLst0rGVUB+fw0tNSKihAKU8eonmQ9sMIfU48DYmFGeVsNv76ZpZKSx4U+r/A1BwV
+6nvVSgzbi7KhEVNoF52kJmBXlNg7hZQN7vsE4lH0OI8oUDknTuo+tn2mZnB3ecrUe97JxKfVsFxg
+mNOcPEcrisCTvgaJwyfr2jN4G/hU96lBelmWxgm1Pq+voLAywh1fEeyB03MrrBmY04S/Ue5qyyDX
+JN+tphXwuFhfwonbg5gT3q/lhqKtzC8BM4Wio/fOCR82C8xlZi3C2qRrlr17SnjinrLSyRT64zhn
+Mc5ph+N1ESWft1kuG2eYzLgVP1vrYumk4qo0EQ==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature786169678-Object1140374402"><etsi:QualifyingProperties Target="#Signature786169678"><etsi:SignedProperties Id="Signature786169678-SignedProperties784939670"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-09T20:19:32-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>KxoRdk/d8x9a1/n7Ud58WylpjxM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>6871760941073075124</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1972184463"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

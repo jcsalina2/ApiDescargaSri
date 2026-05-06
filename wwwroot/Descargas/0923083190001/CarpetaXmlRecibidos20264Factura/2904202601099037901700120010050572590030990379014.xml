@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601099037901700120010050572590030990379014</numeroAutorizacion>
+<fechaAutorizacion>2026-05-01T02:55:26-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>BANCO BOLIVARIANO C.A.</razonSocial>
+    <nombreComercial>BANCO BOLIVARIANO C.A.</nombreComercial>
+    <ruc>0990379017001</ruc>
+    <claveAcceso>2904202601099037901700120010050572590030990379014</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>005</ptoEmi>
+    <secuencial>057259003</secuencial>
+    <dirMatriz>JUNIN 200 Y PANAMA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>29/04/2026</fechaEmision>
+    <contribuyenteEspecial>6925</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>MARIA KARINA ARGENZIO GONCALVEZ</razonSocialComprador>
+    <identificacionComprador>0923083190</identificacionComprador>
+    <totalSinImpuestos>3.25</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>3.25</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>0.48</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>3.73</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>3.73</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>2</codigoPrincipal>
+      <descripcion>SERVICIOS FINANCIEROS DEL MES - AHO</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>3.25</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.25</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Tipo de cuenta" valor="CUENTA DE AHORROS"/>
+        <detAdicional nombre="Numero de cuenta" valor="0931239798"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.25</baseImponible>
+          <valor>0.48</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">mkarinaargenzio@gmail.com</campoAdicional>
+    <campoAdicional nombre="Gran Contribuyente">Resolución NAC-GCFOIOC21-00000906-E</campoAdicional>
+  </infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-83159041">
+	<ds:SignedInfo>
+		<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<ds:Reference URI="#comprobante">
+			<ds:Transforms>
+				<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+			</ds:Transforms>
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>VZnTUDh5JxIODs5//ZoiaCqBb6E=</ds:DigestValue>
+		</ds:Reference>
+		<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-7241465">
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>iIz9vZN1W1ySsdYTI6jidqUn2v4=</ds:DigestValue>
+		</ds:Reference>
+	</ds:SignedInfo>
+	<ds:SignatureValue>
+QzG+bxNpHloCLpJgmeACJVXj3Yli9i8r5A4a/6kNvTe4L6/1Y5c01AzIxamyJ7t/
+yfNcEmFTa2f/VD3THmsPcBEEA3AmSxv5Z1s0fqDfPsDkAAP0/cIVSIxD1oHoo/Qj
+CCB0CWCdMXbvAHqP1zFHESR8+JQKO4lJTZim9G8IGSqVVKvZcuLyG+C2Jzz08mRA
+Sbzp6Z800AfEnSyU/PmEBgUO1acN0xkBcMlgADCTuSJN/kQUJKYLxQtE00TfMCvH
++iMHd4Opbl07B6XetRFh88UcN6VaMRP/qwOczUx2lCaYSKoasv+JVzbTolUxhm7c
+cPcfR/m2yQFNG7pkf+za1w==
+	</ds:SignatureValue>
+	<ds:KeyInfo>
+		<ds:KeyValue>
+			<ds:RSAKeyValue>
+				<ds:Modulus>
+lKzuB7asHA2V0A2ufW+QDBlsmQ9S59dYKNz8mJT84fF/iN7ieEA+RJS04D86IWOt
+vhfhxkCSPPK/+rtCyoKRHqaJXfmWCRhcQtn1o4bvoPcazhWiTOSmh4hMykSvvTSX
+i76Az+9YpQSlz7E50y1xzVK0GVn2o0dw9ipdtaMaZYs7qnfslhzlSUf1zwk6JCQc
+Yh/HuGCCDKLc7pL/jOWqhUN3NR7kRzvE4U9j8je2PVIusVcp3Q1c+Kjaui/RSq2Q
+38q+O5cBVOnA+2LxCktYjZZf45QLMhxfdn+fcbN0qam0RP3W5TX/hI5G4T6AFw4/
+IvEMld72mL3eBZrXhGglFw==
+				</ds:Modulus>
+				<ds:Exponent>AQAB</ds:Exponent>
+			</ds:RSAKeyValue>
+		</ds:KeyValue>
+		<ds:X509Data>
+			<ds:X509IssuerSerial>
+				<ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName>
+				<ds:X509SerialNumber>1418387305</ds:X509SerialNumber>
+			</ds:X509IssuerSerial>
+			<ds:X509SubjectName>C=EC, O=SECURITY DATA S.A. 2, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, 2.5.4.5=0908697790-170125115347, CN=JOSE ALBERTO MEDINA SERRANO</ds:X509SubjectName>
+			<ds:X509Certificate>
+MIIMOzCCCiOgAwIBAgIEVIrfaTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMC
+RUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAe
+Fw0yNTAxMTcxNjQzNTNaFw0yOTAxMTcxNjQzNTNaMIGmMSQwIgYDVQQDDBtKT1NF
+IEFMQkVSVE8gTUVESU5BIFNFUlJBTk8xIDAeBgNVBAUTFzA5MDg2OTc3OTAtMTcw
+MTI1MTE1MzQ3MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJSs7ge2rBwN
+ldANrn1vkAwZbJkPUufXWCjc/JiU/OHxf4je4nhAPkSUtOA/OiFjrb4X4cZAkjzy
+v/q7QsqCkR6miV35lgkYXELZ9aOG76D3Gs4VokzkpoeITMpEr700l4u+gM/vWKUE
+pc+xOdMtcc1StBlZ9qNHcPYqXbWjGmWLO6p37JYc5UlH9c8JOiQkHGIfx7hgggyi
+3O6S/4zlqoVDdzUe5Ec7xOFPY/I3tj1SLrFXKd0NXPio2rov0UqtkN/KvjuXAVTp
+wPti8QpLWI2WX+OUCzIcX3Z/n3GzdKmptET91uU1/4SORuE+gBcOPyLxDJXe9pi9
+3gWa14RoJRcCAwEAAaOCB3owggd2MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAU
+jLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzAB
+hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGlj
+d2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5B
+LiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCIGA1UdEQQbMBmBF2pt
+ZWRpbmFAYm9saXZhcmlhbm8uY29tMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGC
+pnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABk
+AGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYB
+BAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRh
+dGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9D
+ZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUg
+RW1wcmVzYS5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICogYD
+VR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYD
+VQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZ
+IERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYT
+AkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0
+LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJ
+VFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9y
+Mi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2Nl
+cnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVD
+MB0GA1UdDgQWBBRtrW4du5imO9T/JDwA+TUNQe4hfzArBgNVHRAEJDAigA8yMDI1
+MDExNzE2NDM1M1qBDzIwMjkwMTE3MTY0MzUzWjALBgNVHQ8EBAMCBeAwIgYKKwYB
+BAGCpnIDBQQUDBJHRVJFTlRFIEZJTkFOQ0lFUk8wGgYKKwYBBAGCpnIDAQQMDAow
+OTA4Njk3NzkwMEAGCisGAQQBgqZyAwkEMgwwR1VBWUFRVUlMIENBQkVDRVJBIENB
+TlRPTkFMIFkgQ0FQSVRBTCBQUk9WSU5DSUFMMBEGCisGAQQBgqZyAyIEAwwBLjAi
+BgorBgEEAYKmcgMHBBQMEkpVTklOIDIwMCBZIFBBTkFNQTAcBgorBgEEAYKmcgMC
+BA4MDEpPU0UgQUxCRVJUTzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDcwMDQy
+MjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1Iw
+FgYKKwYBBAGCpnIDAwQIDAZNRURJTkEwJQYKKwYBBAGCpnIDCgQXDBVCQU5DTyBC
+T0xJVkFSSUFOTyBDIEEwHQYKKwYBBAGCpnIDCwQPDA0wOTkwMzc5MDE3MDAxMBEG
+CisGAQQBgqZyAx0EAwwBLjAXBgorBgEEAYKmcgMEBAkMB1NFUlJBTk8wEAYKKwYB
+BAGCpnIDCAQCDAAwDQYJKoZIhvcNAQELBQADggIBAMUxxkJ3piurVCRGXI3gnhNo
+8IPOpF0/k4Xp+gqJiuhFGNm/CrSGYMyB9Ies1Sbh9NF7W8HpBPSzVnj5od7ys1Mv
+9KhL7GP/AZjuZBgX3fcvNwSArJ2hmoi2mGXspsyvkJqo7OnxeFrAkP/23bFXa68f
+0wyk56Nbzhh72XZQsPC+b7GNOYVIRZnAxoDJyh5jXp7NFD/PmIPb+rH73E8IXzjS
+5GLqwN32KfpV5bkC1WFLDmPOB4KbfWuLi/aew+JndUDWwiRpM42+rspLDasFKExX
+L4YfxRTmVVQFqc/wHoCjeCx1xltj8k3S/GmMDGGnRkk+Vo5Jf5Kp99Rm9vCTjQOO
+suPTV+6io5Z719anT4Q7T92bf4z+tdP8cA1oxhyySW+agP9dFgEPJw4LsrGZlz8y
+mr+8Cx+hcm3yGbFrPoc7XdrXlaLprD8dovsHUd+PIwIqLYNAu18ZmCOSSp3Rsa+7
+NZKHRa6re8Abm80vV0oJfn6KxQ83ajrohBHpABv1evWXCSg6SotvSfO5EvHQrrT0
+qm8MiGZiIzXZZWGA/mLQHtIbbhtfL4AgBnNf7mjOw4hwE9BCWBAb3Pi6++/zeN2z
+bIx5xmqBUAVtEFLLLISQcxLsAlyUO2+ePkzCEEpSiFJkEGxgxtAer7DwHWPK/Tq/
+3SG3TcsDKI5XHQlaQQf8
+			</ds:X509Certificate>
+		</ds:X509Data>
+	</ds:KeyInfo>
+	<ds:Object>
+		<etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-83159041">
+			<etsi:SignedProperties Id="SignedProperties-7241465">
+				<etsi:SignedSignatureProperties>
+					<etsi:SigningTime>2026-05-01T02:55:24.772Z</etsi:SigningTime>
+					<etsi:SigningCertificate>
+						<etsi:Cert>
+							<etsi:CertDigest>
+								<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+								<ds:DigestValue>XymykHDb/cNlowYwSDji2uF9Se4=</ds:DigestValue>
+							</etsi:CertDigest>
+							<etsi:IssuerSerial>
+								<ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName>
+								<ds:X509SerialNumber>1418387305</ds:X509SerialNumber>
+							</etsi:IssuerSerial>
+						</etsi:Cert>
+					</etsi:SigningCertificate>
+				</etsi:SignedSignatureProperties>
+			</etsi:SignedProperties>
+		</etsi:QualifyingProperties>
+	</ds:Object>
+</ds:Signature>
+</factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

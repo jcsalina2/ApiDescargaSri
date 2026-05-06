@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601095185330800120020010000184360002265410</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T21:49:06-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>BERMELLO CARRENO MARIA AGUSTINA</razonSocial>
+	    <nombreComercial>ASADERO LA ESQUINA DE ALEX</nombreComercial>
+	    <ruc>0951853308001</ruc>
+	    <claveAcceso>1804202601095185330800120020010000184360002265410</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>002</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000018436</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / FEBRES CORDERO / CALLE 29AVA SOLAR 38 - LOCAL A Y E. CALLE  Y CALLE O</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>18/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / FEBRES CORDERO / CALLE 29AVA SOLAR 38 - LOCAL A Y E. CALLE  Y CALLE O</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>NO</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Patricio Villegas Viteri</razonSocialComprador>
+	    <identificacionComprador>0908962087001</identificacionComprador>
+		
+	    
+	    <totalSinImpuestos>13.69000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>13.69</baseImponible>
+				<valor>2.05000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>15.74000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>01</formaPago>
+	    		<total>15.74</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>C1</codigoPrincipal>
+		<codigoAuxiliar>C1</codigoAuxiliar>
+      	<descripcion>COMBO 1</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.080000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.08</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.08000</baseImponible>
+          <valor>0.91</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>C4</codigoPrincipal>
+		<codigoAuxiliar>C4</codigoAuxiliar>
+      	<descripcion>COMBO 4</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>7.610000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.61</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.61000</baseImponible>
+          <valor>1.14</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature314701">
+<ds:SignedInfo Id="Signature-SignedInfo786729">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID63834" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature314701-SignedProperties89397">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7yJwtC9vY7maxuhYP/SSzsuWMR8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate731557">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0yf1/Kh2tevl1wss/Sd3nZFRu3E=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-266912" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5dZ900SBTYk1VdVmu9mNvzaGTFg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue499485">
+1gyr+b6Lqlh6w7srMwYI4apRi4YUMVRlJmHdFUj6B2OyuSyt/wYZNmQ9NiYtbx3f9RReoCcI4RNM
+1VAQ1094mYPEIV4hv2fYHq/F5n7oxCRyhGiBDCOltMcIOfpvT1XytaEmr5ZybYZSvEp+iIZrtFjd
+q0K/dFBG4Kxa+tl9+YbCcuP1icYYz3V7mtA3s2/bL4vt0R/K8rS1Xza7laFRN356IS9sL/g5c5AJ
+yZA0uEwSpOkI7xqKivPuu4jKNDMJOOUnDh2kVPuUjb0UDM+RQhlGqdNDrKKV5MKa3qdII1GbzVV3
+n0T4ajDTjY3D46pq4lmLhCmoCTTTv25UVO++hw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate731557">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHxzCCBa+gAwIBAgIRAMTrSezXPMYj+FJs+N2QnMgwDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNTA2MjQxNzA3MzZaFw0yNzA2MjQxODA3MzZaMIHcMS0wKwYD
+VQQFEyQ3NGMyYmU0Yi1jNTQxLTQ3YWUtYWY5Ny1jZGM2YTFjMWYxYzUxIzAhBgkqhkiG9w0BCQEW
+FG1lbGljb3J0MjhAZ21haWwuY29tMSowKAYDVQQDDCFNQVJJQSBBR1VTVElOQSAgQkVSTUVMTE8g
+Q0FSUkXDkU8xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TjEbMBkGA1UEChMSRklSTUFTRUdVUkEgUy5BLlMuMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAPQ4MMiBfFzFZsufZ7jTe5Ky7ln52tHXNJzAzGTnC/UchEeBvayU
+A6ccrvOvqWFapzhONohzup2O+h6Rn3rJ1phFQU6JQvJdKozYV389NW5+TjlkQ3R4uIyLjed6eWzd
+Gro4IL7LLpRF2+H3JDoHLcBai1VWxrsXu2v+Uh4ZHjldBOcEHai0yXc93jicmFxP4xC7dsrGV9Ls
+dQPoy66MNPWKMhF3ond9fwvLpH4/FCQU7hi3iL0jVjrmbRp8JsmfLLZgiaPIzmfaN+QTNuisShce
+W3jDwZ1KVrTfp29CNp7TmFNN5/m/tyiCPBURq3PBcdm+hUk7LM4h9NU7FMCr+qMCAwEAAaOCApow
+ggKWMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUE0aTaAmu1ySHM0VjJnffrF5eilEwHQYDVR0OBBYE
+FPfzvXhUSxLvpkhuf7l8AIhN8q/qMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuZmlybWFz
+ZWd1cmFlYy5jb20vY3JsL2NjY2U1YTRmLTZiNjgtNDZmYy1hNjIwLTRhYmNjNGM0YTY5MC5jcmww
+OQYIKwYBBQUHAQEELTArMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5maXJtYXNlZ3VyYWVjLmNv
+bTAaBgorBgEEAYPeeQMBBAwWCjA5NTE4NTMzMDgwHgYKKwYBBAGD3nkDAgQQFg5NQVJJQSBBR1VT
+VElOQTAYBgorBgEEAYPeeQMDBAoWCEJFUk1FTExPMBcGCisGAQQBg955AwQECRYHQ0FSUkXRTzAn
+BgorBgEEAYPeeQMHBBkWF0dVQVlBUyBHVUFZQVFVSUwgVEFSUVVJMBwGCisGAQQBg955AwgEDhYM
+NTkzOTk4MDYyODMyMBkGCisGAQQBg955AwkECxYJR1VBWUFRVUlMMBMGCisGAQQBg955AwwEBRYD
+RUNVMB0GCisGAQQBg955AwsEDxYNMDk1MTg1MzMwODAwMTCBnAYDVR0gBIGUMIGRMFAGCysGAQQB
+g955AgEBMEEwPwYIKwYBBQUHAgEWM2h0dHBzOi8vZmlybWFzZWd1cmFlYy5jb20vcG9saXRpY2Fz
+X3BlcnNvbmFfbmF0dXJhbDA9BgsrBgEEAYPeeQICATAuMCwGCCsGAQUFBwICMCAMHkNlcnRpZmlj
+YWRvIGRlIFBlcnNvbmEgTmF0dXJhbDAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcNAQELBQADggIB
+ABKpwGRVE092McMc9Ix9Z34bJscykAEJq72PmGs4pfDnnWilBjdZLo7O/3MMIGxEjbmYbZo8JG+V
+rih7mpJI+5YsLlYxG5sweTBq0TrjqnFYloeuaO88dDDiji/vjREK31r5yAzfgidcZJ3Km1tDh4VA
+XgV3NZwAw/GOwJMdU8/TcNL0g6RCQRFPEaywa76ZWHDxBhkhZOV6/sCVCwFDVNi/5QPycKgwK/LM
+zp1M5Vie4DwtYLnWwNc0UN45ZCJ0MZX0W2SnP+889mBGjhViaPUEzoZZDt7pL+uEVK646HMrNwK6
+Yr6j94cbr7FFNsFEgt+VMO7+LQTqlqqnFFqtrPWzcrAf3vF+BdXvOM67XCkRQdmoLV7sVVNcfviI
+JOR9j7jOodfQ5dnSnxipL8vgxmQtInynO1r4fDHXaBLzXG6gaICv0Vcarf72Y0dj3komif6Gcp08
+XbVIWyTQGq2CqPM52/hgsrrmz6SVT/d2UDTqLcURfljsgVmcaF/yjtatAU15+1QDXri78tP3Xmqe
+GlEvZpuPxr5YHIihbWzUNzO1tHfAlIFUAz24rIIkshEVx/nKEoZcIdRVEG0mCxMHHFr2vOYMb/mg
+3c84KkYlrwALjgNarUI8OxAqIesC0maQtuBhYkvduYsQTnT8gW3hVUesUfk7g4Gb6ZQWpO+TfurZ
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+9DgwyIF8XMVmy59nuNN7krLuWfna0dc0nMDMZOcL9RyER4G9rJQDpxyu86+pYVqnOE42iHO6nY76
+HpGfesnWmEVBTolC8l0qjNhXfz01bn5OOWRDdHi4jIuN53p5bN0aujggvssulEXb4fckOgctwFqL
+VVbGuxe7a/5SHhkeOV0E5wQdqLTJdz3eOJyYXE/jELt2ysZX0ux1A+jLrow09YoyEXeid31/C8uk
+fj8UJBTuGLeIvSNWOuZtGnwmyZ8stmCJo8jOZ9o35BM26KxKFx5beMPBnUpWtN+nb0I2ntOYU03n
++b+3KII8FRGrc8Fx2b6FSTssziH01TsUwKv6ow==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature314701-Object509771"><etsi:QualifyingProperties Target="#Signature314701"><etsi:SignedProperties Id="Signature314701-SignedProperties89397"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T21:49:03-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>7UUngFqkUXE7NT6MZTWao1J5KBU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,C=EC,L=AMBATO,ST=TUNGURAHUA,O=FIRMASEGURA S.A.S.,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>261750376315959363873034673059548667080</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

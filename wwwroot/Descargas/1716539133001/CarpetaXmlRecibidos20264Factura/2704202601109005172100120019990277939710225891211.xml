@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2704202601109005172100120019990277939710225891211</numeroAutorizacion>
+<fechaAutorizacion>2026-04-27T12:13:48-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Empresa Eléctrica Regional Norte S.A.</razonSocial><nombreComercial>Empresa Eléctrica Regional Norte S.A.</nombreComercial><ruc>1090051721001</ruc><claveAcceso>2704202601109005172100120019990277939710225891211</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>999</ptoEmi><secuencial>027793971</secuencial><dirMatriz>Juan M. Grijalva 6-54 José J. de Olmedo</dirMatriz></infoTributaria><infoFactura><fechaEmision>27/04/2026</fechaEmision><dirEstablecimiento>Juan M. Grijalva 6-54 José J. de Olmedo</dirEstablecimiento><contribuyenteEspecial>155</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>GUALAVISI GUAJAN SEGUNDO DAVID</razonSocialComprador><identificacionComprador>1716539133</identificacionComprador><direccionComprador>PAQUIESTANCIA . / B.SAN MIGUEL / SAN JOSE DE AYORA - CAYAMBE</direccionComprador><totalSinImpuestos>100.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>100.00</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>100.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>100.00</total><plazo>15</plazo><unidadTiempo>días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>ZAPUGE</codigoPrincipal><descripcion>Serv. Alum. Públic. General</descripcion><cantidad>1.00</cantidad><precioUnitario>13.82</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>13.82</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>13.82</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ZCOMER</codigoPrincipal><descripcion>Comercialización</descripcion><cantidad>1.00</cantidad><precioUnitario>1.41</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.41</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>1.41</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ZENERG</codigoPrincipal><descripcion>Energía total</descripcion><cantidad>1.00</cantidad><precioUnitario>84.77</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>84.77</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>84.77</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="CUENTA CONTRATO">200031816990</campoAdicional><campoAdicional nombre="CODIGO UNICO ELECTRICO NACIONAL">1300382647</campoAdicional><campoAdicional nombre="CONTRIBUCION BOMBEROS">7.23</campoAdicional><campoAdicional nombre="TASA RECOLECCION BASURA">0.00</campoAdicional><campoAdicional nombre="FORMA DE PAGO TERCEROS BASURA Y BOMBEROS">SIN UTILIZACION DEL SISTEMA FINANCIERO</campoAdicional><campoAdicional nombre="TOTAL FORMA DE PAGO TERCEROS BASURA Y BOMBEROS">7.23</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature533434">
+<ds:SignedInfo Id="Signature-SignedInfo907000">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID117642" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature533434-SignedProperties93695">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>muNI3yTPglXAfuF3CAbvS1pexHM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1664450">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>8kXO9E5U9iiN2KR71jjbRrP2EG8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-180028" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>K2xfx96G7NLa35bJuWMW2jmQe7E=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue492576">
+WvYzTikKkrdCVTIK03FjFRevDxJfAJTuFa6rjYbvzT7epyrmQ/ON+1voJ4WpjhHpMYH4YvhKFAEb
+hGetZUm35WqM00FjBhDKt9lpDsioiG5FIulXLIhFzOecBLvlPKkT1T4/xel7uFRrFF+gvnG3U9A5
+vkXLRX1GREGHaNgBra8bvRqKLMG/mVb17VF3tzy8rE8LYTo1RDDLB00XVg69aaXT84vfQbu0XN7u
+U0XWg1glhJEeUUO3F+XVnIhj+8qMdY3wQPWiW1EFCJSbujPUd9rPko7a+HHHU5UnSiEfMZJtT7TV
+dS5L4svLCFcsgTzCGYgpcsn66PCVWFW+GM2DiQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1664450">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKJDCCCAygAwIBAgIEZeQ1SDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI0MDczMTE0MjI0MloXDTI2MDczMTE0NTMw
+N1owgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE3MBEGA1UEBRMKMDIwMDAzNDUyMTAiBgNVBAMTG0FSVFVSTyBNQVVSSUNJ
+TyBCVVNUT1MgT1JCRTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALGVO3JvAG3b4PGA
+83ibNMsjpTvo+pxqxrAMIM/9KsOOvUtRl0G2IFxrqL0hU2KMiKvm74GEnz/njHe7guhPzR6PuC9u
+eZik2e1jl0d6cFB5SkJ/EqNDIX1cbKuwKVwkrhlOXXIpaIYMYU9940bvj27YSj1h6Tn/AEouS7Hh
+eWwlIDgCkfKoX1ihfAKbkh0zVNZuCtzxcXiflWYH9Ye167PxLgHQKst9ZxOtiLFgPmM4xvNJcb0t
+trZ4g0aYvCejSS0vQ8GnJq7u/35DgdOOConnjhIESHksUtwexA88v/AWivaBKb8ec8XQZcT1ISYz
+lf8Mea9Yo+WvA01YaGxkcVMCAwEAAaOCBU4wggVKMAsGA1UdDwQEAwIHgDBnBgNVHSAEYDBeMFwG
+CysGAQQBgqg7AgIBME0wSwYIKwYBBQUHAgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5lYy9wb2xpdGlj
+YS1jZXJ0aWZpY2Fkby9wZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEEgYQwgYEwPgYI
+KwYBBQUHMAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9v
+Y3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3AwNAYKKwYBBAGCqDsDCgQmEyRFTVBSRVNBIEVMRUNUUklDQSBSRUdJT05BTCBO
+T1JURSBTIEEwHQYKKwYBBAGCqDsDCwQPEw0xMDkwMDUxNzIxMDAxMBoGCisGAQQBgqg7AwEEDBMK
+MTAwMjQzMjg5NDAfBgorBgEEAYKoOwMCBBETD0FSVFVSTyBNQVVSSUNJTzAWBgorBgEEAYKoOwMD
+BAgTBkJVU1RPUzAUBgorBgEEAYKoOwMEBAYTBE9SQkUwOQYKKwYBBAGCqDsDBQQrEylKRUZFIERF
+IFNFQ0NJw5NOIENPTlRSQVRPUyBZIEZBQ1RVUkFDScOTTjA7BgorBgEEAYKoOwMHBC0TK1ZJQ1RP
+UiBBTEVKQU5EUk8gSkFSQU1JTExPIDEzMyBZIExBVEFDVU5HQSAwGQYKKwYBBAGCqDsDCAQLEwkw
+NjI2NDEyODgwFgYKKwYBBAGCqDsDCQQIEwZJQkFSUkEwFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9S
+MCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAgBgNVHREEGTAXgRVtYnVzdG9zQGVt
+ZWxub3J0ZS5jb20wggHhBgNVHR8EggHYMIIB1DCCAdCgggHMoIIByIaB1mxkYXA6Ly9iY2VxbGRh
+cHN1YnAxLmJjZS5lYy9jbj1DUkwyMDUyLGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIw
+RUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElO
+Rk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9j
+ZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwv
+ZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbYwgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlC
+QU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFO
+Q08gQ0VOVFJBTCBERUwgRUNVQURPUjEQMA4GA1UEAxMHQ1JMMjA1MjArBgNVHRAEJDAigA8yMDI0
+MDczMTE0MjI0MlqBDzIwMjYwNzMxMTQ1MzA3WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKl
+CcGUqzAdBgNVHQ4EFgQUpYfSd1E0s7Q/cxygGJyBLYaTY4wwCQYDVR0TBAIwADAZBgkqhkiG9n0H
+QQAEDDAKGwRWOC4zAwIEMDANBgkqhkiG9w0BAQsFAAOCAgEAXJ8g6CLJyZzQhu0beyN88eLgYZkk
+bfVHJdFaDPIgP/oRb5k85ZmYf1+MGSSaqrx/dvp1yL+rCEerUtGhHjyY4U7SgObjYrjvJtF3GcrH
+AaSA+BOMANq6Qu4ZX5MbOH9iblV7DpPKR7nCzBXsNVZePbaU3bincr8EPuVXEEkf2msu1H0OjncR
+SVUUOqIltfzVZzGOqP/GfLnroL9/XWAADRB7qBnK8terzDXx7rr4cjl+6VeX4dpXAfSWThlL5Kvr
+MYVDbOfKau6xvwNDb09cRataRSMrAuyXxSvQBOyJL2cvzMGw7+nFyQaVXP+j8m4bSc7n0Hj4K8+W
+a4XuYdd0+m8fzftvnSysNd/MkRQRIb8aekNFi3dlmvcLJH4e8RhC2EwBP2tBMzmvzDm/q84F2Nw1
+8ePb1PaN164CbYDWhS2TrxR6NFRAQqHLiFBjfBI800MP8kubXK7g0VpdnvlkNBy8duD1jCI5L5WB
+zOVSlwkxFu/e1+Ou9cri6GLIWB7RBsu/3sGtvOOyJ9IEXRBKui8JwMIFVK7me+YgBiw3/5iIQEem
+eJUrk0rHGQXhde0HTLkTyw6epDeCXjJcAJnr7O+VeAy8N3rarQI5Xhu1x4mXYgf1+i19P2w0XPVH
+1e2W/oVJOMAqgGaaIy09M7EcMs6SlzYr2Kv5bpWbou4vrfY=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sZU7cm8Abdvg8YDzeJs0yyOlO+j6nGrGsAwgz/0qw469S1GXQbYgXGuovSFTYoyIq+bvgYSfP+eM
+d7uC6E/NHo+4L255mKTZ7WOXR3pwUHlKQn8So0MhfVxsq7ApXCSuGU5dcilohgxhT33jRu+PbthK
+PWHpOf8ASi5LseF5bCUgOAKR8qhfWKF8ApuSHTNU1m4K3PFxeJ+VZgf1h7Xrs/EuAdAqy31nE62I
+sWA+YzjG80lxvS22tniDRpi8J6NJLS9Dwacmru7/fkOB044KieeOEgRIeSxS3B7EDzy/8BaK9oEp
+vx5zxdBlxPUhJjOV/wx5r1ij5a8DTVhobGRxUw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature533434-Object53045"><etsi:QualifyingProperties Target="#Signature533434"><etsi:SignedProperties Id="Signature533434-SignedProperties93695"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-27T12:09:09-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>i1zwey69ZkeXstBDV34GCL++9nA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709454664</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-180028"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2704202601179009380800120010200052391710523917119</numeroAutorizacion>
+<fechaAutorizacion>2026-04-27T12:18:00-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SEGUROS ATLÁNTIDA  SEGURATLANTIDA S.A.</razonSocial>
+    <nombreComercial>SEGUROS ATLÁNTIDA  SEGURATLANTIDA S.A.</nombreComercial>
+    <ruc>1790093808001</ruc>
+    <claveAcceso>2704202601179009380800120010200052391710523917119</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>020</ptoEmi>
+    <secuencial>005239171</secuencial>
+    <dirMatriz>Av. Simón Bolívar SN y Av. Nayón. Edificio Ekopark Torre 5 Ofi.P701. Quito. Ecuador.</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>27/04/2026</fechaEmision>
+    <dirEstablecimiento>Av. Simón Bolívar SN y Av. Nayón. Edificio Ekopark Torre 5 Ofi.P701. Quito. Ecuador.</dirEstablecimiento>
+    <contribuyenteEspecial>5368</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>SUAREZ SOLIS EDISON JOSE</razonSocialComprador>
+    <identificacionComprador>1311241440</identificacionComprador>
+    <direccionComprador>PATRIA E4 41 Y 9 DE OCTUBRE</direccionComprador>
+    <totalSinImpuestos>12.50</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>12.50</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>12.50</importeTotal>
+    <moneda>DOLARES</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>12.50</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>6072610</codigoPrincipal>
+      <codigoAuxiliar>6072610</codigoAuxiliar>
+      <descripcion>Seguro de ACCIDENTES PERSONALES BANCASEGUROS  por una suma asegurada de: 11.300.00 USD</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>12.50</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>12.50</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="id_fe">6072610</campoAdicional>
+    <campoAdicional nombre="reporte">9800840|01/03/2026 0:00:00|01/04/2026 0:00:00|11.300.00|12.02|0.42|0.06|0.00|0.00|0.00|0.00|0.00|0.00|DIRECTA</campoAdicional>
+    <campoAdicional nombre="datos1">soporte@liberty.ec|ACCIDENTES PERSONALES BANCASEGUROS|9800840|2926|01/03/2026 0:00:00|01/04/2026 0:00:00|DIRECTO CONTADO|REGION CENTRO GENERALES</campoAdicional>
+    <campoAdicional nombre="datos2">0.42|0.06|0.00|0.00</campoAdicional>
+    <campoAdicional nombre="emailCliente">soporte@liberty.ec</campoAdicional>
+    <campoAdicional nombre="cod_segmento">020174P</campoAdicional>
+    <campoAdicional nombre="CodInternoSAP">6072610</campoAdicional>
+    <campoAdicional nombre="BotonPago">0</campoAdicional>
+    <campoAdicional nombre="Gran Contribuyente">Grandes Contribuyentes: No. NAC-GCFOIOC21-00001199-E</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature509585">
+<ds:SignedInfo Id="Signature-SignedInfo862553">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID196450" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature509585-SignedProperties742853">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ejvBgnobxSBRXquMKYauIO6wthw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate148743">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vFZ3goiS1NZLbbttbQHYtGZbpA4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-794085" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>NmbV6AmjMSJcoHOOosGrcn+cNYM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1022270">
+UF9MYr1PLTpCpnNV7P5U5UcjBLB8sFF2Q9sawMtH6pAFML7a9jI47+I45s2zeYHgIEMi4sQBxetL
+YRSv9WygJGvd/55SzLe7nZE4S3K9+Oz0E90dq61KXRDYGECiPjaPlyQEF4APSwfxEpz381oL0QHy
+RvvvRjUDjlUak8IXGKsfoTUS6ORXGYa92LSGxWLRhSAIKORJVmuqQRtUmjSlpAgjIsdNET1uDNha
+7oPYPkzN1aZ7v9f0vcJJ3SGnhtb/POdpoRaj0ZO7JHbpzCkGa8MQRuZndp5hCTNwLIbYMbEiujvU
++KatDwimpXt/OYcxhZ6t9AupLO71VRIkZtLytA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate148743">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILPDCCCSSgAwIBAgIIYVGP3aBnUkYwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwNzI1MTczNzU4WhcNMjcwNzI1MTczNzU4WjCB
+qjEoMCYGA1UEAwwfSk9TRSBGRVJOQU5ETyBSRVBFVFRPIERPQlJPTlNLSTEgMB4GA1UEBRMXMTcw
+NjQ2ODc4MC0yNTA3MjUxMjQ3NDgxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2ue7s0YnGNb0qr5eKKTyARKfi8AXkmg4
+FAI7EQL4qqsYr3nIfXdmaKmp39eFMPwWC8/C/8zOCxqGwh/oC6loG46pErrQq7U7piYBTgwi2ojN
+00UBMhERR63deo8m7tumjxdQJ1y1Gt/kRRZet52eFHp6xggGJoYhnXkUmKf9Zp9BKpNXu3QdEhDl
+Y0i3S09MMFboaQKfY7UIdPl8BhwQypqyjDBH3MtKZ7AQLGyc8Sf2r7V02hcIWWSoyZERj+wA+6eH
+Zkod+C/qvdQmV5LvpdT2frQED4X4D/iquJsGIhVRUUvUJjx5xIyhoZMOraZnN9slVPJF8aNj3Jly
+ISDdzQIDAQABo4IGczCCBm8wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktV
+v42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwJwYDVR0RBCAwHoEcanJl
+cGV0dG9Ac2VndXJvc2F0bGFudGlkYS5lYzCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkw
+VDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBl
+AHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUH
+AgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRz
+L05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJl
+cHJlc2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8G
+A1UdHwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJj
+YTJjcmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJ
+BgNVBAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNy
+bDIvY3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlz
+c3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEs
+T1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFU
+QSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQURcQL44UYKTWyMO4KMWvjjGQsyeUwKwYDVR0QBCQwIoAP
+MjAyNTA3MjUxNzM3NThagQ8yMDI3MDcyNTE3Mzc1OFowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZy
+AwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTcwNjQ2ODc4MDBvBgorBgEE
+AYKmcgMJBGEMX1FVSVRPIERJU1RSSVRPIE1FVFJPUE9MSVRBTk8gQ0FCRUNFUkEgQ0FOVE9OQUwg
+Q0FQSVRBTCBQUk9WSU5DSUFMIFkgREUgTEEgUkVQVUJMSUNBIERFTCBFQ1VBRE9SMBEGCisGAQQB
+gqZyAyIEAwwBLjAvBgorBgEEAYKmcgMHBCEMH0FWIFNJTU9OIEJPTElWQVIgUyBOIFkgQVYgTkFZ
+T04wHQYKKwYBBAGCpnIDAgQPDA1KT1NFIEZFUk5BTkRPMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAx
+MDAxMDM5MjIyMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAX
+BgorBgEEAYKmcgMDBAkMB1JFUEVUVE8wNAYKKwYBBAGCpnIDCgQmDCRTRUdVUk9TIEFUTEFOVElE
+QSBTRUdVUkFUTEFOVElEQSBTIEEwHQYKKwYBBAGCpnIDCwQPDA0xNzkwMDkzODA4MDAxMBEGCisG
+AQQBgqZyAx0EAwwBLjAZBgorBgEEAYKmcgMEBAsMCURPQlJPTlNLSTAaBgorBgEEAYKmcgMIBAwM
+CjA5OTk3MjQ2NjEwDQYJKoZIhvcNAQELBQADggIBAFgPdNdhd/xuz59LLvRZtzLA00G0dU86LRF3
+gpTVvW+hMzaMe7oR8cKSWiyiK2n82mC6WXfWKWqGS1/wTczoIr6B8H88Ub8aDiyJpXVdK+R6+pgB
+xNqlLQP49fcvigJz2szdDhi+cvyuMmMXrBkNXIQnbRHSUvSilijhR3Lq20fDp0nhGyPhgpdsfVR7
+vyEEy8MrkNi5vUmm7TM9R1qdhcTuEBLBEbmUNFJLH9kb5mqFUxukX5t4wAiwAT0Z4MZ0kdAmgtL0
+zRYauEABoSrxJj4fW6SVZi1uEfgDs9kVmpPwxot4hmBKvrNy9Wk/OAhEoEkIvwgdYxX1sNQrBnOf
+dZ4kUUCwjVgrkIT8faDmMknC8tNAdJYLmkRXZkeiJatgO0SX9RqH+IpeqxkjlLlhSAW0OU25jvTR
+VrMCGbbRw+EOoCw232hui+0TZtO68ce/aCAoYSB9jeX3Mk9Ux0EvxbDDNvuT6SDxYwNpLUc2UcJl
++wuJ4n/vWKZfoQd3jxYX0WKXMvOZt89Xgov/LwqJV2vybw0Bk5MM43IbWN9mjltJ/IJD82k84+0J
+YA6/3ApbP0c+71gQP9IfKlrmbJtJzQEYaet2fOhzuGhf9qK6GhP9q/SeWjYWHkH1cUmsWKFzFk1W
+pVUxxj/kpukmoIJCeU3fYqm//Hbi+FgdRtxazpTF
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+2ue7s0YnGNb0qr5eKKTyARKfi8AXkmg4FAI7EQL4qqsYr3nIfXdmaKmp39eFMPwWC8/C/8zOCxqG
+wh/oC6loG46pErrQq7U7piYBTgwi2ojN00UBMhERR63deo8m7tumjxdQJ1y1Gt/kRRZet52eFHp6
+xggGJoYhnXkUmKf9Zp9BKpNXu3QdEhDlY0i3S09MMFboaQKfY7UIdPl8BhwQypqyjDBH3MtKZ7AQ
+LGyc8Sf2r7V02hcIWWSoyZERj+wA+6eHZkod+C/qvdQmV5LvpdT2frQED4X4D/iquJsGIhVRUUvU
+Jjx5xIyhoZMOraZnN9slVPJF8aNj3JlyISDdzQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature509585-Object770988"><etsi:QualifyingProperties Target="#Signature509585"><etsi:SignedProperties Id="Signature509585-SignedProperties742853"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-27T12:17:53-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>X0OikErXI2mC8buiCSrs+dbSSqg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>7012544276834243142</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-794085"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

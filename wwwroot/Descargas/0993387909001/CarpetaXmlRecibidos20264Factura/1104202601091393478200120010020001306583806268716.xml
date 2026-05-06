@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1104202601091393478200120010020001306583806268716</numeroAutorizacion>
+<fechaAutorizacion>2026-04-11T10:01:48-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>GARCIA CASTRO NESTOR EDUARDO</razonSocial>
+<nombreComercial>COMERCIAL DYANA 2</nombreComercial>
+<ruc>0913934782001</ruc>
+<claveAcceso>1104202601091393478200120010020001306583806268716</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>002</ptoEmi>
+<secuencial>000130658</secuencial>
+<dirMatriz>PANCHO JACOME DOS SOLAR 16 MZ 255</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>11/04/2026</fechaEmision>
+<dirEstablecimiento>PANCHO JACOME DOS SOLAR 16 MZ 255</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad>	
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>ASTECNAVIND SAS</razonSocialComprador>
+<identificacionComprador>0993387909001</identificacionComprador>
+<direccionComprador>GUAYAQUIL</direccionComprador>
+<totalSinImpuestos>9.82</totalSinImpuestos>
+<totalDescuento>1.09</totalDescuento>
+<totalConImpuestos><totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>9.82</baseImponible>
+<valor>1.47</valor>
+</totalImpuesto></totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>11.29</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>11.29</total>
+<plazo>0</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+<valorRetIva>0.00</valorRetIva>
+<valorRetRenta>0.00</valorRetRenta>
+</infoFactura>
+<detalles><detalle>
+<codigoPrincipal>34888          </codigoPrincipal>
+<codigoAuxiliar>34888          </codigoAuxiliar>
+<descripcion>BRAZO PLUMA CHEV LUV 16-18 3316</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>6.1161</precioUnitario>
+<descuento>0.61</descuento>
+<precioTotalSinImpuesto>5.51</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>5.51</baseImponible>
+<valor>0.83</valor>
+</impuesto>
+</impuestos>
+</detalle><detalle>
+<codigoPrincipal>13364          </codigoPrincipal>
+<codigoAuxiliar>13364          </codigoAuxiliar>
+<descripcion>PLUMA 24 XTREAM RECTA NEGRA JGO 315347-315358</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>5.0893</precioUnitario>
+<descuento>0.51</descuento>
+<precioTotalSinImpuesto>4.58</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>4.58</baseImponible>
+<valor>0.69</valor>
+</impuesto>
+</impuestos>
+</detalle></detalles><infoAdicional>
+<campoAdicional nombre="Direccion">GUAYAQUIL</campoAdicional>
+<campoAdicional nombre="Telefono">0987730665</campoAdicional>
+<campoAdicional nombre="Email">contabilidadastecnavind@gmailcom</campoAdicional>
+</infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature423259">
+<ds:SignedInfo Id="Signature-SignedInfo690170">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID423551" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature423259-SignedProperties352160">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>DNte0j3sNxgL9mIdzyTCr+9FHKo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1653">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>k6LwfVb6J9AogaiDslW8yLZhEDo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-954772" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>GM2SrSuY99EIHDTvwBRKjQPdQYY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue587553">
+bF6kNeKLbe3Zu7pbkWIfKjw3EeyfQNY4EbxxUt8VTrfco7ac7DdsN3dd7kA1R6rAHWtj35XcGABQ
+X4AlHC6vXhSjC71pH3VleK7No5l7gEPWgm+jjqE/faNRWCkcWfqTXixjNHYtXT3i3DWXzoQMs6uY
++HNnWJERX719uwtZfro5Z5ipFFmR4ocmmJHbeeG7Uv+3QV9Qra2vPJxMhwtNXwTMV5NS/2p+eUOj
+sh0/Xw9TCfq6BJKF5WYeMEP92I+cTD3s8pzoSL8vcYQlYgsU5fqNICMb/p3iKd76VASO3IL64XqO
+EcH4+nfM41PaazI0GE1DJGwwt4tuQ6R0S60EKA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1653">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL8zCCCdugAwIBAgIEICcbgjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMTMxNzU3MDZaFw0yOTEyMTMxNzU3MDZaMIGnMSUw
+IwYDVQQDDBxORVNUT1IgRURVQVJETyBHQVJDSUEgQ0FTVFJPMSAwHgYDVQQFExcwOTEzOTM0Nzgy
+LTEzMTIyNDEzMDY1NjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDQlxNi+7gaITW+aSDdfD8TVWsU6TlEzzxolHlm2KFO
+SLc0JhJery/IEhG4WADW1bIcUY/HTyszkIfNWJCQISEppUf/Ot9+NR1R6AKxKDyga0DjnSKW+o9L
+mBw4BYysqTiUazaZiBeiP8cpXORBq7sT9XI31Z6BR1Wmc4CoS5TeaUr828O0PIf6sC/yFovy3U1Q
+JA2gKHLsHuy89JPJ1EteYfAos6eBTSYNgYv1sGEU6hUMXBwBEoXTCHS6TNti/Pw5shjbCjMhoVmQ
+nUincA2y69CHdZe24n1M66iDmibF1+AumqIfUryDbfn35WEjEc+E1dbzRFknXAHtG3SYQaetAgMB
+AAGjggcxMIIHLTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7
+hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2
+b2NhdGlvbkxpc3Q/YmFzZTAqBgNVHREEIzAhgR9uZXN0b3JfZ2FyY2lhY2FzdHJvQGhvdG1haWwu
+Y29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIA
+dABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwG
+CisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0
+LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9s
+aXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0lBBYwFAYIKwYB
+BQUHAwIGCCsGAQUFBwMEMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkw
+NwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEx
+MDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UE
+CgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xk
+YXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlv
+bkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVy
+PUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1F
+TlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMu
+QS4gMixDPUVDMB0GA1UdDgQWBBTZnk8sqJbI+tV5BEFxLpZ6NbvDAjArBgNVHRAEJDAigA8yMDI0
+MTIxMzE3NTcwNlqBDzIwMjkxMjEzMTc1NzA2WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQM
+DAowOTEzOTM0NzgyMBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjAY
+BgorBgEEAYKmcgMHBAoMCFNPTEFSIDE2MB4GCisGAQQBgqZyAwIEEAwOTkVTVE9SIEVEVUFSRE8w
+HwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDA2ODYyNTkwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisG
+AQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgM
+BkdBUkNJQTAaBgorBgEEAYKmcgMeBAwMCkVTVFVESUFOVEUwHQYKKwYBBAGCpnIDCwQPDA0wOTEz
+OTM0NzgyMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBkNBU1RSTzAaBgor
+BgEEAYKmcgMIBAwMCjA5NjEzNzYwNzQwDQYJKoZIhvcNAQELBQADggIBAIzbndAgFz7LhKK0Rov3
+OinHEZ+NfauzNQDp6RAFrpPuw20lUsP1t9BW9jja1XUc7GfBhNml7jckpG4A/ug5qF9XumdD50MM
+bcbgYJRseAKQGVLKdRnewaUt1CfpEAthvbA+2hzYEW8HsDkYLPCRFY/bX30gSxWbB+5+PEuj98dr
+3f68wVmYcY2sSkCa6P3YGbIRknNxr+F0jHxvz/zhav6Q7Q1DoLZDRWSa3qunNzudTflbIdWHJI7R
+Gx7Dd8EVGJkX7khT7BjmywHBg7S5FKVovmBJqalg0laayMJBUWygHFhDmEjmy6tjvWIqGdX+44ie
+3aYKSHKp/+CIfOLx3tuAzBpUpL5T2iydh3Y4rPVlGegNJFMbOAiHxUUS//KKkt82jAcUDE2BgjIw
+YnDDxkd2zb/SrVCo8WZtawhN7n0xeaeaCW5aQ9Jmqfg2oG3NPPVTGEOegsrCtWWcuFMr7IdcMl8D
+x8U6KknhwK2yZ5OFzBKKj1ex3kzeQNuq/eAjmsCwVMxKgtTE71wjbVGe25PG0EknhY5gIhlYrodq
+5Pcjt2uOUmE26C8OIin9PPBoU3xlF4ceoHQtu1o4y8jcxGBDzG8YYf3dQ6WJlA3UQ+HeXsgFwXg8
+/GQbAb1ulhUNK5BOhRdScifzorKfvRjHiQ/n0jp4PrxUWmneM/1YKBYv
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0JcTYvu4GiE1vmkg3Xw/E1VrFOk5RM88aJR5ZtihTki3NCYSXq8vyBIRuFgA1tWyHFGPx08rM5CH
+zViQkCEhKaVH/zrffjUdUegCsSg8oGtA450ilvqPS5gcOAWMrKk4lGs2mYgXoj/HKVzkQau7E/Vy
+N9WegUdVpnOAqEuU3mlK/NvDtDyH+rAv8haL8t1NUCQNoChy7B7svPSTydRLXmHwKLOngU0mDYGL
+9bBhFOoVDFwcARKF0wh0ukzbYvz8ObIY2wozIaFZkJ1Ip3ANsuvQh3WXtuJ9TOuog5omxdfgLpqi
+H1K8g2359+VhIxHPhNXW80RZJ1wB7Rt0mEGnrQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature423259-Object297394"><etsi:QualifyingProperties Target="#Signature423259"><etsi:SignedProperties Id="Signature423259-SignedProperties352160"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-11T10:01:46-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>3IMvFA4eFcpTeQ1lOiKK5AHbjkQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>539433858</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-954772"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

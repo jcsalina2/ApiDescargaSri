@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202601059003198400120430010000303150003031513</numeroAutorizacion>
+<fechaAutorizacion>2026-04-07T17:40:54-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>Calzacuero C.A.</razonSocial>
+    <ruc>0590031984001</ruc>
+    <claveAcceso>0704202601059003198400120430010000303150003031513</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>043</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000030315</secuencial>
+    <dirMatriz>AV. 6 DE DICIEMBRE E10-20 Y PORTUGAL, EDIFICIO ZYRA OFICINA 601, QUITO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>07/04/2026</fechaEmision>
+    <dirEstablecimiento>AV. LOS BOMBEROS S/N PISO 1 LOCAL 138 200501, PICHINCHA - PUERTO QUITO - PUERTO QUITO</dirEstablecimiento>
+    <contribuyenteEspecial>4519</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Miguel Jara</razonSocialComprador>
+    <identificacionComprador>0923295786</identificacionComprador>
+    <direccionComprador>GUAYAQUIL TLF 0990925962 , - -</direccionComprador>
+    <totalSinImpuestos>161.34</totalSinImpuestos>
+    <totalDescuento>43.83</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>161.34</baseImponible>
+        <tarifa>15.00</tarifa>
+        <valor>24.20</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>185.54</importeTotal>
+    <moneda>USD</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>185.54</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>3811890106</codigoPrincipal>
+      <descripcion>KIDS - COLLIE - BRIGHT WHITE/BLANCO BRILLANTE - BUBBLEGUMMERS - Talla 31</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>37.38</precioUnitario>
+      <descuento>14.96</descuento>
+      <precioTotalSinImpuesto>22.43</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>22.43</baseImponible>
+          <valor>3.36</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>3891543106</codigoPrincipal>
+      <descripcion>SPORT GIRLS - FOUNTAIN - WHITE/BLANCO - BUBBLEGUMMERS - Talla 31</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>43.47</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>43.47</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>43.47</baseImponible>
+          <valor>6.52</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1811781110</codigoPrincipal>
+      <descripcion>STREET - WHITE/BLANCO - BUBBLEGUMMERS - Talla 25</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>28.69</precioUnitario>
+      <descuento>11.48</descuento>
+      <precioTotalSinImpuesto>17.21</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>17.21</baseImponible>
+          <valor>2.58</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1813305110</codigoPrincipal>
+      <descripcion>SPORT BOYS - ECHO - KAKHI - BUBBLEGUMMERS - Talla 25</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>34.77</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>34.77</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>34.77</baseImponible>
+          <valor>5.22</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1013103110</codigoPrincipal>
+      <descripcion>BOOTS AND BOOTIES  BOYS - SAM - CAMEL/CAMEL - BUBBLEGUMMERS - Talla 25</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>34.77</precioUnitario>
+      <descuento>6.96</descuento>
+      <precioTotalSinImpuesto>27.82</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>27.82</baseImponible>
+          <valor>4.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>3538345108</codigoPrincipal>
+      <descripcion>CASUAL GIRLS - SLAYER - BEIGE/BEIGE - BUBBLEGUMMERS - Talla 33</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>26.08</precioUnitario>
+      <descuento>10.43</descuento>
+      <precioTotalSinImpuesto>15.64</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>15.64</baseImponible>
+          <valor>2.35</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email Cliente">arteyarmonia.escuela@gmail.com</campoAdicional>
+    <campoAdicional nombre="Forma de pago">Tarjeta Visa</campoAdicional>
+    <campoAdicional nombre="Voucher">8551</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature836767">
+<ds:SignedInfo Id="Signature-SignedInfo244090">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID372953" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature836767-SignedProperties224794">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>FYZT3OOGtuTmSW4oSQQuIgK+6wk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1702997">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PCv0vGl4jA6I3QN1EmZdIoFgOZI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-505747" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>b/OBmgortOQa3UalLYYswCPi9o0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1000790">
+UWyUFD+UU1sTNqp9RFFQcvQ7VSFKt2TugrGLP1R0qrxqZPdJTT5/iYLQ5ZJvZAJ0Sq1dlZoO3A1Z
+QfOQF4we1sSItY4UiUKNsUTPTseConFU3lrlOpSxCBPK4g7ksqJgXlsd+gN9CNy5lvZK0JCq8YUO
+hjMtOJci59okAX+bidzYMBEgRe9NO2OhZX3UXVPHj/+2v16JDxqTnFAQhm1muarkFevwcFhVR831
+UhrEJW6rykoW6KFdNuZsLmFNS6iey+Dm+PzsDL3IZT+qm+K1KMgkPwba/idtwoCQSLt2kqzQZybv
+rxaFaZdzFn3pGWO/CZRjRB0DVyV6NgLjEjK14w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1702997">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMCzCCCfOgAwIBAgIEBWbXvjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzEwMjYyMTU2NDFaFw0yODEwMjUyMTU2NDFaMIGgMSkw
+JwYDVQQDDCBST05BTEQgVEVPRE9STyBDT05UUkVSQVMgWUFNRVRUSTEVMBMGA1UEBRMMMjYxMDIz
+MTcwNjIzMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBALjOOUmEpGRa5hKDclL435DiJdH+po8YqbnX1pvct53iJ/vGovPD
+RyQbs8bsfj6l/M0t4r9K8l9aQtjZCPDNKnG1Mw9XV4feL46IwvAU6Xhr65HKYSdTdwXyFXO/dwKa
+CraGhfAtSqlkTVGQDuhZlcCcmmlaKvHhebtPTdrKKokxMV2mKxCpmLgSBSGE6UQ/HRM4aEDhxS90
++JYKdy0s0ITcU0kSg91o5tZg0sJmoGEWDR4XuOV4QKWG+bDgOlFVTka+SIlJHnL9Ku8NK+jZAz2+
+KxnZMqqb/TKAIF6RPssLD71vPW0OHkf00i2PnkNTivyuySRtWnYBEE376YkQAasCAwEAAaOCB1Aw
+ggdMMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYB
+BQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9u
+TGlzdD9iYXNlMCgGA1UdEQQhMB+BHXRfcm9uYWxkY29udHJlcmFzQGhvdG1haWwuY29tMIIBFQYD
+VR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBp
+AGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGh
+BgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Q
+b2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8E
+ggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9w
+dWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEL
+MAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9V
+PUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEg
+Uy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0
+cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2Vi
+L3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFEK6OdhF
+J3b30wBpHqT9rGy8I+2sMCsGA1UdEAQkMCKADzIwMjMxMDI2MjE1NjQxWoEPMjAyODEwMjUyMTU2
+NDFaMAsGA1UdDwQEAwIF4DAhBgorBgEEAYKmcgMFBBMMEUFQT0RFUkFETyBHRU5FUkFMMBoGCisG
+AQQBgqZyAwEEDAwKMTcyMTM1NzY5NTAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBEGCisGAQQBgqZy
+AyIEAwwBLjAyBgorBgEEAYKmcgMHBCQMIkFWIDYgREUgRElDSUVNQlJFIEUxMDIwIFkgUE9SVFVH
+QUwwHgYKKwYBBAGCpnIDAgQQDA5ST05BTEQgVEVPRE9STzAfBgorBgEEAYKmcgMgBBEMDzAwMzAw
+MTAwMDAyMzU4MzATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1Iw
+GQYKKwYBBAGCpnIDAwQLDAlDT05UUkVSQVMwHQYKKwYBBAGCpnIDCgQPDA1DQUxaQUNVRVJPIENB
+MB0GCisGAQQBgqZyAwsEDwwNMDU5MDAzMTk4NDAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBcGCisG
+AQQBgqZyAwQECQwHWUFNRVRUSTAaBgorBgEEAYKmcgMIBAwMCjA5OTU4MDQ3NjYwDQYJKoZIhvcN
+AQELBQADggIBALd0hOQQBZQQYWTUL5mrJzxvM+xLQbJ9bo5MF3nLgYF/LiIpbxjYzjT0+xv4/BKC
+79fw0Q/79ANw90U/xNXmL8Cs6zIOHpd7iGeD82MvmFFQxoxLUysXPSTXU1XTUVzVOvwMVMIR5S8o
+OTlDk5vsZhSdnMkcOB6u9c9Gb4B0rr0m8PTITbeGiYvfATHaeTY5F0F4+1Nc/xFYM2tiYWYG+U4d
+Cx8kWd650CcTtYYVxCUVHsZ+JW6LEtEyHYVAHhKU+k3X1xhItKw1iBghv3OOOma/1s2UJevHdKuV
+HutJ3iAPeVeU+xPuUgTc1mHrLO/QuSaKtYNvgl6/yO17Zn5oy0eAYSpQGcVHiUJQ5T/cvRHooYIh
+BUbCJu0EFY+gOMhU4MUY2QntP3JEvmMemSzJkqQ26pQicTqAZkQemHNAAt/hTR2ZyPA7F/wFmdvl
+NlHMA3D7qNzYTX945Da1h136cx2k3J7poYMCqoB8XEwAbGCobldQp4rQXolPPo5a1o2tmiubBAWT
+tXU4GiYhGAkXYB4Pa2R5dZCxikdR1XZqdL7ktiWLO2uaLXdzIFbDv/mPz8bTh2KiCjyVujL5ogCH
+gotBtXA8pQz7xL1upY+CzmcET5FcfbvEymrdTK1VB763SkFNdrfnzut74YlW/Mjz1QQ0ypZEkc5o
+VvCRri4EA9gd
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uM45SYSkZFrmEoNyUvjfkOIl0f6mjxipudfWm9y3neIn+8ai88NHJBuzxux+PqX8zS3iv0ryX1pC
+2NkI8M0qcbUzD1dXh94vjojC8BTpeGvrkcphJ1N3BfIVc793ApoKtoaF8C1KqWRNUZAO6FmVwJya
+aVoq8eF5u09N2soqiTExXaYrEKmYuBIFIYTpRD8dEzhoQOHFL3T4lgp3LSzQhNxTSRKD3Wjm1mDS
+wmagYRYNHhe45XhApYb5sOA6UVVORr5IiUkecv0q7w0r6NkDPb4rGdkyqpv9MoAgXpE+ywsPvW89
+bQ4eR/TSLY+eQ1OK/K7JJG1adgEQTfvpiRABqw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature836767-Object976001"><etsi:QualifyingProperties Target="#Signature836767"><etsi:SignedProperties Id="Signature836767-SignedProperties224794"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-07T17:40:47-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>kwLMe+MZrunzMGmkICo4cHs8ph0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>90625982</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-505747"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601249040001200120010010000609141234567819</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T14:05:36-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CONSTRUCCION, INGENIERIA Y TECNOLOGIA CONSTRUINTEC SAS</razonSocial>
+    <nombreComercial>CONSTRUINTEC SAS</nombreComercial>
+    <ruc>2490400012001</ruc>
+    <claveAcceso>0804202601249040001200120010010000609141234567819</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000060914</secuencial>
+    <dirMatriz>SALINAS PUEBLO NUEVO DIAGONAL A LA IGLESIA SAN JUDAS TADEO</dirMatriz>
+    <agenteRetencion>10</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>08/04/2026</fechaEmision>
+    <dirEstablecimiento>SALINAS PUEBLO NUEVO DIAGONAL A LA IGLESIA SAN JUDAS TADEO</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>PATRICIO VILLEGAS</razonSocialComprador>
+    <identificacionComprador>0908962087001</identificacionComprador>
+    <direccionComprador>SALINAS</direccionComprador>
+    <totalSinImpuestos>15.12</totalSinImpuestos>
+    <totalDescuento>6.51</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>15.12</baseImponible>
+        <valor>2.27</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>17.39</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>17.39</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>17178</codigoPrincipal>
+      <codigoAuxiliar>U</codigoAuxiliar>
+      <descripcion>VALVULA COMPUERTA RED WHITE 1/2</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>21.626100</precioUnitario>
+      <descuento>6.51</descuento>
+      <precioTotalSinImpuesto>15.12</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>15.12</baseImponible>
+          <valor>2.27</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección:">SALINAS</campoAdicional>
+    <campoAdicional nombre="Ciudad:">SALINAS</campoAdicional>
+    <campoAdicional nombre="Telefono:">0999999999999999</campoAdicional>
+    <campoAdicional nombre="Vencimiento:">08-Abr-2026</campoAdicional>
+    <campoAdicional nombre="eMail:">Patricio.villegas.viteri@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Vendedor:">MARTINEZ CABRERA LADY XIOMARA                                                                                                                                                                           </campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature72903" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo Id="Signature-SignedInfo54173"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID57475" URI="#Signature72903-SignedProperties99240" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>O14P++OtJ/LbTvZCrYMJYAY0C9o=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate57658"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>hHPBIyIf5fuCeF6GAsyc+gzZdxE=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-59576" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>P0lXVzDBgexBc59W17T/zbDJmD0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue50575">jhp7QGhJ6PNaGS0DR5PMLzY3aGS26AGDXwnYcT0z5qCFgdzko4/xbZzR/wYMFsXjc4Zvu2JYKIJG
+af1hRaQqQdGjTJEkvvnu7kcxKfIdiN/jpyDAKvq6hXgAL3iz02/CA8EZYHQIjyoo0SWpCIX9T3lC
+ZBGBSOOa0CRRFlSkr9EJsKUkSkIfWNMTDebRKeSH3KG6/rScjXAsnKnKsGvnlE7Rk3b6G9U3Jzag
+vRiAySbtTHimkkR8ddTny1GSTyXWc7mcVkU/glF0qWnvXwwxDm6QrSQ23PTue1fC31MzPGJ5wmt+
+nLECPNrnPG0TO7JQmGnMsCjY2CiMIuo1NEQhNQ==</ds:SignatureValue><ds:KeyInfo Id="Certificate57658"><ds:X509Data><ds:X509Certificate>MIIMUTCCCjmgAwIBAgIEedfrEDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMDYxOTU5NTNaFw0yNjEyMDYxOTU5NTNaMIGoMSYw
+JAYDVQQDDB1FRFdJTiBOQVBPTEVPTiBDQUJSRVJBIEFDVVJJTzEgMB4GA1UEBRMXMTcwNzIwNzc2
+NS0wNjEyMjQxNTA5NDkxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9PcCzQiQS1B5WqDAK91ffHNUkZYOCsIRmduy777E
+514tZRb0DWv0xPr5D4WGOPKdoKueaKsjMouJZM99C8O5t3sZBjr9JuNi3YXGRjT6FBAZT7tnzHk2
+Bs/nz6BeZo8UGFUCuAB8dbgVq/k/xibPz7dGqSorT9FWJXBdIwBkUmUcNtohxmQAS3qET9SbRCpW
+pMKhn0TOuc1l8BD+epbXTiXPvyM6ivBFTYXGQFBwQm6C5bxLr0hcuaGKVtAV16JlsfPj45xjS5oQ
+U4BYWhKbkn3pJ4Mf3Kmjs7fpWCL7KE/rRKZtA6uxviPVl9dZpH8nXnm9tRf7cfqeOYcnk9mQ3wID
+AQABo4IHjjCCB4owDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29
+jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCB
+u4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJl
+dm9jYXRpb25MaXN0P2Jhc2UwHQYDVR0RBBYwFIESZ3JhZG9saTU3QHlhaG9vLmVzMIIBFQYDVR0g
+BIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMA
+YQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgor
+BgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xp
+dGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYI
+KwYBBQUHAwIGCCsGAQUFBwMEMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZ
+MTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNz
+dWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDMB0GA1UdDgQWBBRiUga7CTOkQeyjSPPoTVwdIWIlnTArBgNVHRAEJDAigA8y
+MDI0MTIwNjE5NTk1M1qBDzIwMjYxMjA2MTk1OTUzWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnID
+BQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxNzA3MjA3NzY1MCkGCisGAQQB
+gqZyAwkEGwwZU0FMSU5BUyBDQUJFQ0VSQSBDQU5UT05BTDARBgorBgEEAYKmcgMiBAMMAS4wJAYK
+KwYBBAGCpnIDBwQWDBRBViBESUFHT05BTCBZIENIQVZFWjAeBgorBgEEAYKmcgMCBBAMDkVEV0lO
+IE5BUE9MRU9OMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwNjgxODk2MBMGCisGAQQBgqZyAyEE
+BQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0NBQlJFUkEw
+RwYKKwYBBAGCpnIDCgQ5DDdDT05TVFJVQ0NJT04gSU5HRU5JRVJJQSBZIFRFQ05PTE9HSUEgQ09O
+U1RSVUlOVEVDIFMgQSBTMB0GCisGAQQBgqZyAwsEDwwNMjQ5MDQwMDAxMjAwMTARBgorBgEEAYKm
+cgMdBAMMAS4wFgYKKwYBBAGCpnIDBAQIDAZBQ1VSSU8wGgYKKwYBBAGCpnIDCAQMDAowOTc5ODA1
+NjI2MA0GCSqGSIb3DQEBCwUAA4ICAQCMmE8+ygRcxfZz2yZ9G6YSpK81lhSbK/2zJjUWnSfLPn/O
+OfQrDdtSzu8gejfTUDjU7PW/WQLbHUYpME0z+RQe4vUQBWQVbKsv8tU6StMYIqAZ1OL/et5J+a8g
+iaScvcSByIUAlscC6S6LOpZ/tFLMr0Wpx45OhD4eGhrH+/TrgCjue89aMdzDn5MsUp06wR6bCmD4
+FiHXwH/ai4fP//jh/84CBmbZ6R8lv4ihFV0UNYJrZu6lXSi+Fw9ucM5o8itLcqswBw8v8wde/adQ
+SE7vQqj4YX9yQxqFM3LjkvgRZdsBFlOGdbeQ7VdUCWWBfr/I0/E1J9yD3U5yIqZoZK68Hdj+Ve2q
+Dg3Bi37e5kyWvQ20tqxaZmid3OjRc4OHqX/IV/fbLmZje+5iJtfdqoBvR+bekvDep/nERfx2ri9n
+U2/LMwXoGt78o1K27+Pw5iqMAQZP9Au11xB78rXWe2VpKLl3Y6gNjNIVGgnG8xIdPQ+40tfBE+ld
+DjIYDwaOx187PMTtztQkGq0PNKYqpPPHvzyeWaYahDeogPc3zGjMZbM1HQfm5UAqQfFg4Bdf1O1h
+44v6WMYj9JKmvFa4bXPuvuULBNrHQ0/MprEOllkBZoAYZByzGj0B7qTkURKbj4TUI6vuyRGdIgX6
+naxII63J+ae2S3g+FzLT5dYj0UcWGw==</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>9PcCzQiQS1B5WqDAK91ffHNUkZYOCsIRmduy777E514tZRb0DWv0xPr5D4WGOPKdoKueaKsjMouJ
+ZM99C8O5t3sZBjr9JuNi3YXGRjT6FBAZT7tnzHk2Bs/nz6BeZo8UGFUCuAB8dbgVq/k/xibPz7dG
+qSorT9FWJXBdIwBkUmUcNtohxmQAS3qET9SbRCpWpMKhn0TOuc1l8BD+epbXTiXPvyM6ivBFTYXG
+QFBwQm6C5bxLr0hcuaGKVtAV16JlsfPj45xjS5oQU4BYWhKbkn3pJ4Mf3Kmjs7fpWCL7KE/rRKZt
+A6uxviPVl9dZpH8nXnm9tRf7cfqeOYcnk9mQ3w==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature72903-Object91271"><etsi:QualifyingProperties Target="#Signature72903"><etsi:SignedProperties Id="Signature72903-SignedProperties99240"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-08T14:05:36</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>cH/Q1KdZIfhuhsnUUe1X86HNzhE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>2044193552</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-59576"><etsi:Description>Servicios IT, Luis Orellana Escalante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

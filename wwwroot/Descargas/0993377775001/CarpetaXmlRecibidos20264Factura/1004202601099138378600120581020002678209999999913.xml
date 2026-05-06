@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1004202601099138378600120581020002678209999999913</numeroAutorizacion>
+<fechaAutorizacion>2026-04-10T22:30:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PANADERIA CALIFORNIA PANCALI S.A.</razonSocial>
+    <nombreComercial>PANADERIA CALIFORNIA PANCALI S.A.</nombreComercial>
+    <ruc>0991383786001</ruc>
+    <claveAcceso>1004202601099138378600120581020002678209999999913</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>058</estab>
+    <ptoEmi>102</ptoEmi>
+    <secuencial>000267820</secuencial>
+    <dirMatriz>CALLEJON 18J S/N Y AV. FELIPE PEZO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>10/04/2026</fechaEmision>
+    <dirEstablecimiento>C.C CITY MALL PB # 28 ALBORADA 10MA FELIPE PEZO FRENTE C.C L</dirEstablecimiento>
+    <contribuyenteEspecial>393</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>KAPICCHI</razonSocialComprador>
+    <identificacionComprador>0993377775001</identificacionComprador>
+    <totalSinImpuestos>7.20</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalComprobantesReembolso>0</totalComprobantesReembolso>
+    <totalBaseImponibleReembolso>0</totalBaseImponibleReembolso>
+    <totalImpuestoReembolso>0</totalImpuestoReembolso>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>6.00</baseImponible>
+        <valor>0.90</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>1.20</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>8.10</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>8.10</total>
+        <plazo>15</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>000997</codigoPrincipal>
+      <descripcion>CAFE AMERICANO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.870000</precioUnitario>
+      <descuento>0.000000</descuento>
+      <precioTotalSinImpuesto>0.87</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.87</baseImponible>
+          <valor>0.13</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000967</codigoPrincipal>
+      <descripcion>SANDUCHE CROISANT DE JAMON Y QUESO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.870000</precioUnitario>
+      <descuento>0.000000</descuento>
+      <precioTotalSinImpuesto>1.87</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.87</baseImponible>
+          <valor>0.28</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>001007</codigoPrincipal>
+      <descripcion>AVENA BIRCHER VASO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.610000</precioUnitario>
+      <descuento>0.000000</descuento>
+      <precioTotalSinImpuesto>2.61</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.61</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>001056</codigoPrincipal>
+      <descripcion>MINI FIBRA  6U/F</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.200000</precioUnitario>
+      <descuento>0.000000</descuento>
+      <precioTotalSinImpuesto>1.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>1.20</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>001380</codigoPrincipal>
+      <descripcion>DASANI S/G  600 ML. DESCART.</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.650000</precioUnitario>
+      <descuento>0.000000</descuento>
+      <precioTotalSinImpuesto>0.65</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.65</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email">INFO@KAPICCHI.COM</campoAdicional>
+    <campoAdicional nombre="ordenCompra">LC0065-42304</campoAdicional>
+    <campoAdicional nombre="Forma Pago">SIN UTILIZACION DEL SISTEMA FINANCIERO</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature362495">
+<ds:SignedInfo Id="Signature-SignedInfo664980">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID941885" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature362495-SignedProperties257166">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>YJUhb4BkKdRvtckR7S6VDTLP2Pk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1509253">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>HnsEePM9Kw8LY6/nAqyu9TRVUZQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-670994" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>NLBaUt3vNXSlGRYlAKe12IsWqHY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue709072">
+JwUhG8ftWpFEahUMh7wyqdiGLZUDNvkgsbjqNVZ2eURF8GY3FCdrA/iKUjhHzQJxX+ILXEFMyC/E
+TL5J7Jk90R5L8YX/QVOykDoVX0Pgd43HlfdHj92m7yr07o4YfSCTMK2fGUe08zxhY6nalGuqDznD
+GealGy7Bv+nkEUvRBUlpQDxVIsGokhZZkBXXmb7JzNlAMIrfJgKrBVaNB74fOKKkggknDSRc36fz
+t82/W6ri44I/XruTr/AFGtbqiir6a2MMVy1rL8qGNfrvAaobu4edh3FwKaaplGmPU5M48EJM5UM2
+KJNcf9aLFJUzfIYzQ/3x1QMqM0sVa4sTzCbnnw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1509253">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK2zCCCMOgAwIBAgIId3poF9KxMawwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMTE3MjAyODU4WhcNMjcxMTE3MjAyODU4WjCB
+qDEmMCQGA1UEAwwdQ0FSTE9TIEFMRlJFRE8gUkFNSVJFWiBUQU1BWU8xIDAeBgNVBAUTFzE4MDA4
+MjYxNjQtMTcxMTI1MTUzODUxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL1PqnqO79zQ18O/3ufNHwXBexXRu13oRQqq
+yOUbuLB72UQu8dpwvYq9b/qCtfVZx6KXahVFPTJRhinFR2iRHlnTuqouufjg9HU4S5BDno/KSNxa
+TOS8CgoPDs2POmhKP7EmJAhktfWod4eiJGTh9N0lZm9SXqRZUJ2vPFihUYmUkPE5YEf8OZcubHi7
+4FRhkzydTmOYcPTASYr2jXxEQmiV4UomBdfFd+LLTEDS+IJBtK5DBx7vF99ApKpLYLgGOX4kbn74
+4ao9XmWKn5bVIQp172rfCMVoPxzisTZDJDrujs3Sv+XL/scR9bA7/2O+41E+yyI5S4Ja8awZ6xf9
+m3UCAwEAAaOCBhQwggYQMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+N
+rmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCQGA1UdEQQdMBuBGWNhbGlm
+b3JuaWFAcGFuY2FsaS5jb20uZWMwggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYI
+KwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUA
+bgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGC
+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3Jt
+YXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNl
+bnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8E
+ggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3Js
+MS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQG
+EwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2Ny
+bGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9
+Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVO
+VElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5B
+LiAyLEM9RUMwHQYDVR0OBBYEFPLy+Odn2oRNZeCOnLv09bUeXoZ2MCsGA1UdEAQkMCKADzIwMjUx
+MTE3MjAyODU4WoEPMjAyNzExMTcyMDI4NThaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEM
+D0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjE4MDA4MjYxNjQwFgYKKwYBBAGCpnID
+CQQIDAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMDIGCisGAQQBgqZyAwcEJAwiQ0FMTEVKT04g
+MTggSiBTIE4gWSBBViBGRUxJUEUgUEVaTzAeBgorBgEEAYKmcgMCBBAMDkNBUkxPUyBBTEZSRURP
+MB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAxMDcxMjkwMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcG
+CisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB1JBTUlSRVowMAYKKwYBBAGC
+pnIDCgQiDCBQQU5BREVSSUEgQ0FMSUZPUk5JQSBQQU5DQUxJIFMgQTAdBgorBgEEAYKmcgMLBA8M
+DTA5OTEzODM3ODYwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGVEFNQVlP
+MBoGCisGAQQBgqZyAwgEDAwKMDk5OTc1NDE3MDANBgkqhkiG9w0BAQsFAAOCAgEAQyQl44iCVaU1
+CaFMeJiVv7j06mkgBdI84RWZnm0D+13IPuNtbqMzXLmdYt9sgr3mZnPtHkAWuALPCpm0JrLaC6md
+8UgDMPM6t9fMZn9lVngAr/0cY5SRw83hWZ0/xOEjhMsGjLm2aGxE6MoPXpsA5C5QoeLu/e3AhJVS
+G0lb5XmIwW40MvkoELVlqPvJJeCQDKRCYcQOwCimGO/4/0JQ5AhFzEita5iyqzRymuE+ilpYMgQs
+ANpZHUrUtNM+0+E/ffnijPpqj4EAUs5Fut4KdCV6FJi5vOYgy6V3MDzIbvt9QdHY0kZW25G+Jscl
+mKDY+F7kIPYC/DJwUusJVDP6KDPDu6q2gRIdG1uX1D3Yz0nUgvr60jW9pVjBI9JpdDMp+nztuQCz
+s2LuLzbxnPw/7EP6icm9FQv0/6Uho7KzzS4SJsCCSqDLCt3vp9ZA+yq+OCuYFQ4v+f7+n+Yqs8LI
++El+i1bi4ZAroj2haTGujsKrhG9lkvb1kWLd3O5EDA8FcgLssdo/1qltmoW8jkOfAKMz/bi09tJ5
+FYsocIdFbieqyBvaxeQFcxwAVP/3psamTCDfsJHXUBLDWSixrX2phEpVa6GEYtArte/WTSStTXfM
+NYvciXbqfPPcu63UeQH1vO3F0LEwkvh+NgWZvKsEI35rrKSpq2nl/4oJ2G9hhx8=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+vU+qeo7v3NDXw7/e580fBcF7FdG7XehFCqrI5Ru4sHvZRC7x2nC9ir1v+oK19VnHopdqFUU9MlGG
+KcVHaJEeWdO6qi65+OD0dThLkEOej8pI3FpM5LwKCg8OzY86aEo/sSYkCGS19ah3h6IkZOH03SVm
+b1JepFlQna88WKFRiZSQ8TlgR/w5ly5seLvgVGGTPJ1OY5hw9MBJivaNfERCaJXhSiYF18V34stM
+QNL4gkG0rkMHHu8X30CkqktguAY5fiRufvjhqj1eZYqfltUhCnXvat8IxWg/HOKxNkMkOu6OzdK/
+5cv+xxH1sDv/Y77jUT7LIjlLglrxrBnrF/2bdQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature362495-Object265094"><etsi:QualifyingProperties Target="#Signature362495"><etsi:SignedProperties Id="Signature362495-SignedProperties257166"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-10T22:30:40-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>QWB6c1Qiu2veV5BEjdf4Ls+6xrA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>8609308089200488876</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-670994"><etsi:Description>Facturación Electrónica</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

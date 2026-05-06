@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0504202601019509255900120030030000103420100101115</numeroAutorizacion>
+<fechaAutorizacion>2026-04-05T17:07:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>BOCATTI CC</razonSocial><nombreComercial>BOCATTI</nombreComercial><ruc>0195092559001</ruc><claveAcceso>0504202601019509255900120030030000103420100101115</claveAcceso><codDoc>01</codDoc><estab>003</estab><ptoEmi>003</ptoEmi><secuencial>000010342</secuencial><dirMatriz>AV. SOLANO S/N Y AV. DON BOSCO</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>05/04/2026</fechaEmision><dirEstablecimiento>-</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>JARA MIGUEL ANGEL</razonSocialComprador><identificacionComprador>0923295786</identificacionComprador><direccionComprador>LAS GOLONDRINAS</direccionComprador><totalSinImpuestos>19.47</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>0.00</baseImponible><tarifa>0.00</tarifa><valor>0</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>19.47</baseImponible><tarifa>15.00</tarifa><valor>2.92</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>22.39</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>22.39</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>7865217254874</codigoPrincipal><codigoAuxiliar>7865217254874</codigoAuxiliar><descripcion>FUNDA DE REGALO...</descripcion><cantidad>2</cantidad><precioUnitario>0.86957</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.74</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.74</baseImponible><valor>0.26</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>7865217217015</codigoPrincipal><codigoAuxiliar>7865217217015</codigoAuxiliar><descripcion>CAKE CITRICO...</descripcion><cantidad>1</cantidad><precioUnitario>4.33043</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.33</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>4.33</baseImponible><valor>0.65</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>GRA001</codigoPrincipal><codigoAuxiliar>GRA001</codigoAuxiliar><descripcion>GRANOLA...</descripcion><cantidad>1</cantidad><precioUnitario>3.04348</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.04</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>3.04</baseImponible><valor>0.46</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>260012</codigoPrincipal><codigoAuxiliar>260012</codigoAuxiliar><descripcion>GALLETAS VAINILLA (10)...</descripcion><cantidad>1</cantidad><precioUnitario>2.86957</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.87</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2.87</baseImponible><valor>0.43</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>260015</codigoPrincipal><codigoAuxiliar>260015</codigoAuxiliar><descripcion>GALLETAS COCO (10)...</descripcion><cantidad>1</cantidad><precioUnitario>2.86957</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.87</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2.87</baseImponible><valor>0.43</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>260013</codigoPrincipal><codigoAuxiliar>260013</codigoAuxiliar><descripcion>GALLETAS CHOCOLATE (9)...</descripcion><cantidad>1</cantidad><precioUnitario>4.61739</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.62</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>4.62</baseImponible><valor>0.69</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Direccion">las-golondrinas</campoAdicional><campoAdicional nombre="Telefono">0999999999</campoAdicional><campoAdicional nombre="Email">sincoreo@sincorreo.com</campoAdicional><campoAdicional nombre="Vendedor">vendedor</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature106105">
+<ds:SignedInfo Id="Signature-SignedInfo598939">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID74373" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature106105-SignedProperties886709">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>hZayAXooPFjc2M3Mo62xsTGJ9v8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1720499">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>C7ydweLU6hUxnOn6sg94pssARXk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-919582" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ENqBFC67fTj0A0ui/n4v3Yu/aKQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue893874">
+EkqF5uECvbdzGxBzpTBGLKiO66LTO3ohvJDw6nJi/GxQB2tr546I56h84MUNPhR1N4yXudkvbExx
+9S17f2zmeA1Y1wLjuxjveiULuZZjz0qPnpSart5NffLhBy5V33AxRPrLDqZEeTgGWiXEjVrvy4Af
+TJCP2HMrEQES4Ngun7woLSFdEgRdPc/CCgHDTGs6GkMTX+Ffln53iOLRGWfRNIJ3ZYSHRXmq9Gyi
+m3HKw7OsYBsXQd/Gehev/gaOE1eWuCFfkmrR8Z7J1hEA94BqR+EpZGQX1aihntpTPzCTK+rFYKjn
+kgc8z+gzy+c1hkt/ZGlj7FhoRnAtyI59rLn/Qg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1720499">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJNzCCBx+gAwIBAgIKMETQgVxsczWKLzANBgkqhkiG9w0BAQsFADCBmzELMAkGA1UEBhMCRUMx
+HzAdBgNVBAoMFkNPUlBORVdCRVNUIENJQS4gTFREQS4xMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMUVGIENPUlBORVdCRVNUMB4XDTI1MTIxNTEzNDExOFoXDTI2MTIxNTEzNDEx
+N1owgYYxCzAJBgNVBAYTAkVDMR4wHAYDVQQKDBVDT1JQTkVXQkVTVCBDSUEuIExUREExMDAuBgNV
+BAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjElMCMGA1UEAwwcU0FO
+Q0hFWiBGT05UQU5BIFdBTFRFUiBNQVRFTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AKoxxwgkYB8tkojjHNUENviHboZn1FY0Iqs2oD/12L56ZssOPFow0iyG5RWubppsD4g1efpOn5Pw
+QJWiYGny+0voUVNY6zQ77WSGZ2cwo+uvW5t39BQLHakucXcg4epvNqYXo3hGzJhX8/j2bu2u24eK
+VSutNwd7Ikgkvmr/FafhLnF6indM6p4t4Wza1s1YQTPn720q+/W5O3xZuKX1l6hjHO1Pct9Nb3X6
+c3hVMVNhdZc7humoaADbSzGZ6ORwIKR9toPkUCRnaA507XEciOGnRlwZpT5JrJ1Ud06vlJye0Fbv
+Vp+Qa4lHdexGNI+Wv8J8MPRGHxB46T5sDUEDDaUCAwEAAaOCBI4wggSKMAwGA1UdEwEB/wQCMAAw
+HwYDVR0jBBgwFoAUaZUPhTiZVIha5cn2GnVziP9K9J4wUwYIKwYBBQUHAQEERzBFMEMGCCsGAQUF
+BzABhjdodHRwOi8vZWpiY2FlZS5uZXdiZXN0LnRlY2gvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9v
+Y3NwMIHtBgNVHS4EgeUwgeIwgd+ggdyggdmGgdZodHRwOi8vZWpiY2FlZS5uZXdiZXN0LnRlY2gv
+ZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q04lM0RBVVRP
+UklEQUQrREUrQ0VSVElGSUNBQ0lPTitTVUJDQS0xRUYrQ09SUE5FV0JFU1QlMkNPVSUzREVOVElE
+QUQrREUrQ0VSVElGSUNBQ0lPTitERStJTkZPUk1BQ0lPTiUyQ08lM0RDT1JQTkVXQkVTVCtDSUEu
+K0xUREEuJTJDQyUzREVDMIGMBgNVHSAEgYQwgYEwcQYKKwYBBAGCjEwBCTBjMGEGCCsGAQUFBwIB
+FlVodHRwczovL3d3dy5uZXdiZXN0Lm5ldC9uZXdzaWduYXBpL2Rvd25sb2Fkcy9ub3JtYXRpdmEv
+cG9saXRpY2FzX3BlcnNvbmFfanVyaWRpY2EucGRmMAwGCisGAQQBgoxMAggwge0GA1UdHwSB5TCB
+4jCB36CB3KCB2YaB1mh0dHA6Ly9lamJjYWVlLm5ld2Jlc3QudGVjaC9lamJjYS9wdWJsaWN3ZWIv
+d2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTiUzREFVVE9SSURBRCtERStDRVJUSUZJ
+Q0FDSU9OK1NVQkNBLTFFRitDT1JQTkVXQkVTVCUyQ09VJTNERU5USURBRCtERStDRVJUSUZJQ0FD
+SU9OK0RFK0lORk9STUFDSU9OJTJDTyUzRENPUlBORVdCRVNUK0NJQS4rTFREQS4lMkNDJTNERUMw
+HQYDVR0OBBYEFGlCqEhTexjd6LkaTAQb1Go05L3NMCsGA1UdEAQkMCKADzIwMjUxMjE1MTM0MTE4
+WoEPMjAyNjEyMTUxMzQxMTdaMA4GA1UdDwEB/wQEAwIF4DAXBgorBgEEAYKMTAMFBAkMB0dFUkVO
+VEUwGgYKKwYBBAGCjEwDAQQMDAowMTA0NDE5ODkwMBYGCisGAQQBgoxMAwkECAwGQ1VFTkNBMDEG
+CisGAQQBgoxMAwcEIwwhQVYgU09MQU5PIFNOIFkgQVYgRE9OIEJPU0NPIHNuIHNuMBwGCisGAQQB
+goxMAwIEDgwMV0FMVEVSIE1BVEVPMBIGCisGAQQBgoxMAwwEBAwCRUMwFwYKKwYBBAGCjEwDAwQJ
+DAdTQU5DSEVaMBoGCisGAQQBgoxMAwoEDAwKQk9DQVRUSSBDQzAdBgorBgEEAYKMTAMLBA8MDTAx
+OTUwOTI1NTkwMDEwFwYKKwYBBAGCjEwDBAQJDAdGT05UQU5BMBoGCisGAQQBgoxMAwgEDAwKMDk4
+NDE3MDU2NTANBgkqhkiG9w0BAQsFAAOCAgEAYnrnRt6F4g97aC8lWWwe+hYgS2Ngyi1a/hDcfFlW
+UYPFyoJWlcRnUgR5q2eVgbZ6b5dbsihTxYz2G4VpjAZotawjj1v4nl8GF1fNMa2b78zxl6GgVPia
+BF0Zi5D6qHisl4U1o/ENBz/myB/P5Slct258X3T38ZvkfKaaRl5RApNUvX1UTi4RVEh8vje8p/VU
+I4VwU7k1CbpSu1n3kGqyIDC54eAFiYDvMhsaDWco7NRm0gs5LPm1al4/GdtzwV/aa8yMk43LYObW
+t2fZKdtP1VC5QlTbxc1gMdj4uTcWjDfKrBD3qSqZHAbjhZpkwZzUB/3G0pgMnc/qzo3owqGbAPMD
+IRI/RBZPPsKJIJ5aTLQWU7/4gYHjkFGleSdOMqypeOB2AbqlCCilGPl813m4FxhfzZ0SYG7zAOma
+Ytfm+ifPkfBdBcIl+VIriG9Bwf00RIG8TqnBSPX8MNFi5TMeX3BytN0K84kUFZHHxXZJN1fVJadR
+HvtDyB483zPIeb49Lz04pZgmY7GcRx0QQrgb1yK2R8QxHr1DGwYHt4PyBSFQTbZScDovAdEBezB/
+y/Vr1IheBm/njSMk9vsBp1cfSjTH6wukAMDvtZb3RuS3NegQobZfXG788wPS7kG16k7t/VaJQZTp
+flvLI2X/kqP+C+1jSFCTcdwJctgzkhhXySs=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qjHHCCRgHy2SiOMc1QQ2+IduhmfUVjQiqzagP/XYvnpmyw48WjDSLIblFa5ummwPiDV5+k6fk/BA
+laJgafL7S+hRU1jrNDvtZIZnZzCj669bm3f0FAsdqS5xdyDh6m82phejeEbMmFfz+PZu7a7bh4pV
+K603B3siSCS+av8Vp+EucXqKd0zqni3hbNrWzVhBM+fvbSr79bk7fFm4pfWXqGMc7U9y301vdfpz
+eFUxU2F1lzuG6ahoANtLMZno5HAgpH22g+RQJGdoDnTtcRyI4adGXBmlPkmsnVR3Tq+UnJ7QVu9W
+n5BriUd17EY0j5a/wnww9EYfEHjpPmwNQQMNpQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature106105-Object707772"><etsi:QualifyingProperties Target="#Signature106105"><etsi:SignedProperties Id="Signature106105-SignedProperties886709"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-05T17:07:04-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>AQVbKY4MCKOAiQA6SGYqnbEzdbI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1EF CORPNEWBEST,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=CORPNEWBEST CIA. LTDA.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>227942994166207963564591</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-919582"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

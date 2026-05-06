@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3004202601019040245200120015000006594690157400011</numeroAutorizacion>
+<fechaAutorizacion>2026-04-30T15:12:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ECUAPAYPHONE CA</razonSocial>
+    <nombreComercial>ECUAPAYPHONE CA</nombreComercial>
+    <ruc>0190402452001</ruc>
+    <claveAcceso>3004202601019040245200120015000006594690157400011</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>500</ptoEmi>
+    <secuencial>000659469</secuencial>
+    <dirMatriz>PEDRO CALDERON DE LA BARCA 4-42 Y GUSTAVO ADOLFO BECKER</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>30/04/2026</fechaEmision>
+    <dirEstablecimiento>PEDRO CALDERON DE LA BARCA 4-42 Y GUSTAVO ADOLFO BECKER</dirEstablecimiento>
+    <contribuyenteEspecial>011</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>Persona Juridica</razonSocialComprador>
+    <identificacionComprador>0923295786001</identificacionComprador>
+    <direccionComprador>Federico Malo y Florencia Astudillo</direccionComprador>
+    <totalSinImpuestos>131.26</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>131.26</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>19.69</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>150.95</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>150.95</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PP4 CASHIN</codigoPrincipal>
+      <codigoAuxiliar>PP4 CASHIN</codigoAuxiliar>
+      <descripcion>COMISION CASHIN</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>131.260000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>131.26</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Det. Adicional" valor="Costo operativo 30-04-2026" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>131.26</baseImponible>
+          <valor>19.69</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="agenteRetencion">Agente de Retención Resolución No. NAC-DNCRASC20-00000001</campoAdicional>
+    <campoAdicional nombre="Observacion">Factura Automatica majara@prestoprogram.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-88f44b2a-d222-4901-b0fa-a99372f2e7d0"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-cfffe916-e4ba-4e4c-83d6-fd1fa461847f" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>izQpc3hxS+mUV7LiBHIUOKTTWXqXXkWKCfWwpX95mcE=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-88f44b2a-d222-4901-b0fa-a99372f2e7d0"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>s73ecjSuor3ahScQZaCuG9Atq1HJZ7oLY+XiZg9991M=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-88f44b2a-d222-4901-b0fa-a99372f2e7d0"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>Hj/r5MjQeyEp8DejnfL3iZl676/MtIuJxx/iDAJmU3w=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-88f44b2a-d222-4901-b0fa-a99372f2e7d0">AFXj0Op4trsOOBb7YYpBpSytUxjH/98ie46GWJiulF7HMzH2XEWR1Kl2Bj6A1VzlyRQhuPipRbhzzGcdDrjfbM8GAnhTIipRDHyqFwJlILOwLklHGjKjUM08wWX0rDgNk/XUTTR9e+KwR/tRvBx7/tqVZqctUkqD/p0jRSAv0l5Jx5zKI5G8g/K5N7AA5M2ke37kT3EmYGevgR7TrwKYLV/B6u6CJ8zlmsupnzpI4irPWfXwPKJlZyu7wPM7zLYUqaecbPybIAvB4gxXbE/6TP+Yf0zdFN8UcfabCRRByrj63sQTeGXALZbDIJCO+66iwvAbV5wwybnb1ypX5kY9qg==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-88f44b2a-d222-4901-b0fa-a99372f2e7d0"><ds:X509Data><ds:X509Certificate>MIIJXTCCB0WgAwIBAgIIZMEQUwyQhA4wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQwQgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNvbS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNBMRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4XDTI2MDQyMTIxMzUwMFoXDTI4MDQyMDIxMzUwMFowgcIxCzAJBgNVBAYTAkVDMRowGAYDVQQKDBFFQ1VBUEFZUEhPTkUgQy5BLjEQMA4GA1UEDAwHR0VSRU5URTEWMBQGA1UEBAwNRVNQSU5PWkEgTU9SQTESMBAGA1UEKgwJSlVBTiBKT1NFMRkwFwYDVQQFExBJRENFQy0wMTAyODM2NjI0MSAwHgYDVQQDDBdKVUFOIEpPU0UgRVNQSU5PWkEgTU9SQTEcMBoGA1UEYQwTVkFURUMtMDE5MDQwMjQ1MjAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIVtf+zzTEOpH3hxozmrHYGybl1Pgyn0Ku+Rfdw6GJSQ2w+NtXl2Licc6QKpx+dUpUm182OCEYrzQj2/+HTVPXHVoFhlGjP2Gu07H/iUa3cCr4zFu2oT+lxHgc9AsVUSr59+3Jckb8rQBWd9POyUvpdlgVXiiqQJRSmap//hYd8a2hZ4yqaK20PbmFpqiv+Ui5owUMM/+XD/yj24rVzT5IUqX1QWM7ukrjUDaYAgkNb+XTN2PsBDZ+gqzAdWcaQjuTUWrRponrWX6IYDpJ8wkcKN+FX2qi7rJOg014MaPLu0oeII5OwLnNekUOyMdys3jTTA0onAf79gu5gorvglwGMCAwEAAaOCBF0wggRZMBsGCysGAQQBgvE2ZgMBBAwMCjAxMDI4MzY2MjQwHgYLKwYBBAGC8TZmAwsEDwwNMDE5MDQwMjQ1MjAwMTCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMi5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBQWemZ0Xd7pob3rJBTNMl5L9s/xdDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MFQGA1UdIARNMEswSQYMKwYBBAGC8TZmAgMBMDkwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIB2QYDVR0RBIIB0DCCAcyBFmplc3Bpbm96YUBwYXlwaG9uZS5hcHCgGwYLKwYBBAGC8TZmAwGgDAwKMDEwMjgzNjYyNKAaBgsrBgEEAYLxNmYDAqALDAlKVUFOIEpPU0WgGQYLKwYBBAGC8TZmAwOgCgwIRVNQSU5PWkGgFQYLKwYBBAGC8TZmAwSgBgwETU9SQaAYBgsrBgEEAYLxNmYDBaAJDAdHRVJFTlRFoFoGCysGAQQBgvE2ZgMHoEsMSVBFRFJPIENBTERFUk9OIERFIExBIEJBUkNBIE5NRVJPOiBTIE4gSU5URVJTRUNDSU46IEdVQVNUQVZPIEFMRE9GTyBCRUNLRVKgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5NzkzMDMwMzCgFwYLKwYBBAGC8TZmAwmgCAwGQ1VFTkNBoCIGCysGAQQBgvE2ZgMKoBMMEUVDVUFQQVlQSE9ORSBDLkEuoB4GCysGAQQBgvE2ZgMLoA8MDTAxOTA0MDI0NTIwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQC+w5ROz/mAtbuzignfdt/LWb+luxuTc1YVCEdfBoSo+tiD5kkbAsFPAxvZ3rd3y0oIDCZSYYBkKE7Bq7uLQsVdF9Qwy86Q92cKcIc7G8Akzrlg1DFkaiww2sunj6oovhqDfHaFbkpq9U8j7hqAVGc/Scfbiq1EoUhWwfDfQRFjGa/1kn2+62PftIR1f3e6ol2SEv7IbD1+jQQvq4pJAMLKlOd8ZwCyUg9XAU3KvOAKEjDquRzH6K/wfXKVAHAYrzKUbG0IQ867pq1S9BYMYrBPjnmKvRuo3meY5n4UdatBjAFV/TYQJFA3/neSA4vk4iINDEGqR19+Ga8fdeagGYhOfT2Vw8WCCsr4pBuC5hEOaojrJoyPV4s9Kj2UdC0UYmKUBoY7FAUu0TL6tOd4QA745KlWC8kZNdsOjImbvZMSFIBIxFJF48W4qQTfMYlTRpQ5EkAlEE//8J3+EldL0qtZxdJNthUBNvK7rEGCyli8NdItRGmu8SEWDhq3LdA20aBfxro5EftqzYXsHz2kB5vJch1pvZO8tEeOKnFGge7nBIlwd4WMhxiK/IsDVEn4UeD+K6lx9mOWEhvgV5rJp2BWY79ATIYoiI+7b/Weg22GP8aZCnFMV4KmmrwBkRawznZ9NI22qKKRIA4LF8YViW6vORumuxP6VeKJWvgl4G8JkQ==</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>hW1/7PNMQ6kfeHGjOasdgbJuXU+DKfQq75F93DoYlJDbD421eXYuJxzpAqnH51SlSbXzY4IRivNCPb/4dNU9cdWgWGUaM/Ya7Tsf+JRrdwKvjMW7ahP6XEeBz0CxVRKvn37clyRvytAFZ3087JS+l2WBVeKKpAlFKZqn/+Fh3xraFnjKporbQ9uYWmqK/5SLmjBQwz/5cP/KPbitXNPkhSpfVBYzu6SuNQNpgCCQ1v5dM3Y+wENn6CrMB1ZxpCO5NRatGmietZfohgOknzCRwo34VfaqLusk6DTXgxo8u7Sh4gjk7Auc16RQ7Ix3KzeNNMDSicB/v2C7mCiu+CXAYw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-d188452c-5d46-41b8-bd1a-9be4aeb1e3c4"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-52d07fb7-61c7-4d66-ab5c-f5e049b2f198" Target="#Signature-88f44b2a-d222-4901-b0fa-a99372f2e7d0"><xades:SignedProperties Id="SignedProperties-Signature-88f44b2a-d222-4901-b0fa-a99372f2e7d0"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-30T15:12:52-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>fOMKDYoCrFXvUHJJFAsiuiHuNFRaBOOcmpQLH+aX7eA=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>7260102023177077774</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-cfffe916-e4ba-4e4c-83d6-fd1fa461847f"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

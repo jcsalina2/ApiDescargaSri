@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2304202601120865712000120010010000000469846951111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-23T12:38:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DAZA GUANIN DOMENICA LORENA</razonSocial>
+    <nombreComercial>DAZA GUANIN DOMENICA LORENA</nombreComercial>
+    <ruc>1208657120001</ruc>
+    <claveAcceso>2304202601120865712000120010010000000469846951111</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000046</secuencial>
+    <dirMatriz>Calle 7 de Octubre #1528 y June Guzmán.</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>23/04/2026</fechaEmision>
+    <dirEstablecimiento>Calle 7 de Octubre #1528 y June Guzman</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>Mauricio Cedeño Aguirre</razonSocialComprador>
+    <identificacionComprador>1204389850001</identificacionComprador>
+    <direccionComprador>Ciudadela San Jose</direccionComprador>
+    <totalSinImpuestos>770.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>770.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>770.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>770.00</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>86</codigoPrincipal>
+      <descripcion>SERVICIOS EXEQUIALES</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>770.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>770.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>770.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">Ciudadela San Jose</campoAdicional>
+    <campoAdicional nombre="Email">nataliadazaguanin92@gmail.com</campoAdicional>
+    <campoAdicional nombre="Teléfono">097 882 8178</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature417963">
+<ds:SignedInfo Id="Signature-SignedInfo1017622">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID324715" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature417963-SignedProperties578976">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>pvUn7S/O47/iBpQx0TukD+mYUpE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1162825">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>UMtsQ0Gxw53tzH93MHxAjiELyYY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-756944" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>aEtqyuJypSWLmCrd176H1F6YQlw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue179918">
+Ar3B5Sec6MTs4px6TlzS07HbtI1co+mBSQwnDlWlpdyTDnsdjHF59dzeJt8M/dGbnharXU9PCDjW
+axme3AXszN7o/tNM445LNGO1PwzLpuTwOvN+mQd14WATy87JgMtK7hoQ9fqtXIaHTXYCKOWc256n
+kdGeVq58FBfEa+JafEwe6rLoBRhHbpZpxdzcIG1G1gzooaQp4Acry636r30cWH7EId9ac/NVEbyg
+X/Z5lLrSJywBB9E0i8YsuaOzt2NKOAfl+bTe2FcE57BpxdRIfcDIcp/x60DNLSn8TTuInff8qdQG
+CSY3jpRQ7M0zHUFFXxF7Nb5vPiN+eqn7yk6wAg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1162825">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJITCCBwmgAwIBAgIIC3ze7kV35igwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI2MDQyMzE2MjUwMFoXDTI3MDQyMzE2MjUwMFowgZwxCzAJBgNVBAYTAkVDMRQwEgYDVQQEDAtE
+QVpBIEdVQU5JTjEYMBYGA1UEKgwPRE9NRU5JQ0EgTE9SRU5BMRkwFwYDVQQFExBJRENFQy0xMjA4
+NjU3MTIwMSQwIgYDVQQDDBtET01FTklDQSBMT1JFTkEgREFaQSBHVUFOSU4xHDAaBgNVBGEME1RJ
+TkVDLTEyMDg2NTcxMjAwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC824S1taID
+ZI5tBUaLwfwMdyYraptEZXSAAQXT3DgCR9Mx1FY88/9YuF0iM9jhmUhJksKT2xb7clJcYcMtKQW2
+iSWxkWcoBYYOUaXKVe4RGPK+9ymHT30uy8TZtV/uyW/IO470vqht1dbpUq7vhfLV5FCpGysdlXsZ
+8h0eDX45ojIQQ4bWsg7LQH055KVHJGdlk3Da2/uS5oykf+YYksQNE8rkMHK+MJKqGIrgtPJ3MZ6/
+NH+kjN7mzKDQTaKG4D0e48xVU7Q1VaTU58Z1D+vFByaS1pXJNkAcCLC5c9PXm7VQmiXOjpRijyEj
+0W79VYjjEWI2cv90+mURxFSXVQLdAgMBAAGjggRHMIIEQzAbBgsrBgEEAYLxNmYDAQQMDAoxMjA4
+NjU3MTIwMB4GCysGAQQBgvE2ZgMLBA8MDTEyMDg2NTcxMjAwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTIuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQU5Zmof8gczcPz7KPWoaUl5wK9
+HcIwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBkAYDVR0g
+BIGIMIGFMIGCBgwrBgEEAYLxNmYCAQEwcjA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA3BggrBgEFBQcCAjArDClDRVJUSUZJQ0FETyBERSBQ
+RVJTT05BIE5BVFVSQUwgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3Js
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpo
+dHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggGGBgNVHREE
+ggF9MIIBeYEaZG9tZW5pY2Fsb3JlbmE5OEBnbWFpbC5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMTIw
+ODY1NzEyMKAgBgsrBgEEAYLxNmYDAqARDA9ET01FTklDQSBMT1JFTkGgFQYLKwYBBAGC8TZmAwOg
+BgwEREFaQaAXBgsrBgEEAYLxNmYDBKAIDAZHVUFOSU6gNwYLKwYBBAGC8TZmAwegKAwmQ0FMTEUg
+NyBERSBPQ1RVQlJFICMxNTI4IFkgSlVORSBHVVpNTi6gHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5
+OTc4NTAyNDGgGAYLKwYBBAGC8TZmAwmgCQwHUVVFVkVET6AeBgsrBgEEAYLxNmYDC6APDA0xMjA4
+NjU3MTIwMDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEg
+TkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUA
+A4ICAQChHBUXLPqX8s+fx2Pia5hH8Usbc23kaTq5Zd8FxmZIeq/ZCTk994/mK6oocu0I1q7QvT9K
+iPWVOQdiwiOjTSfVSadZCoXsvH7hJuGKxWVx6x916VJdNBmc90mB17oc7auQbO9NrnBEPkuhMzlv
+ers3vpe8cNHBezTfyDjAACrYDaTvEhwhPARkqwgOPVfprtPb0t8vp1aXbQOTnakXW0m/S0ROaDn+
+QqCtuEMgDdqkmy1UoaXyHqgmxsSUAxxmAfCFZk5eh/JzjREoURavVOFTf1CAMNfmXBPA01G2QRBH
+5xdLqnbuMpJ21M0Ea6vbTYHUwYaX2JAsarmrhAdjfuGTmv2dZnQDDIX9KNF8A2e3XEXY9rYhPk+W
+L/gWMz2lKkBJ6fLEWPE+vwuE8Ik9NQsfAmifx1XjXYLcCBuUtyFv4+Grz2myZydevLDCiKm/VhwE
+BVQ4wC7IYeUwZwJfZ/s1M4tA6NsPqkmetpxwH6dbe2T6IjHZ6QdhtpHGZBBO1l191V3zRDMvX+26
+9erGdP0h+h2L72MkQ4+gbgfEbJzzAAy3UlKq7KQyhb19l7ckDObJg/P6DmE52cL44W8Pn42B64K6
+sTvNllPXdisniurYKHBx+buCe12omoXPxeXHU/I0cJz8OhH1lGvaFrQ2wXBPtCnUXJSwgMNkfSSw
++jbfuA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+vNuEtbWiA2SObQVGi8H8DHcmK2qbRGV0gAEF09w4AkfTMdRWPPP/WLhdIjPY4ZlISZLCk9sW+3JS
+XGHDLSkFtoklsZFnKAWGDlGlylXuERjyvvcph099LsvE2bVf7slvyDuO9L6obdXW6VKu74Xy1eRQ
+qRsrHZV7GfIdHg1+OaIyEEOG1rIOy0B9OeSlRyRnZZNw2tv7kuaMpH/mGJLEDRPK5DByvjCSqhiK
+4LTydzGevzR/pIze5syg0E2ihuA9HuPMVVO0NVWk1OfGdQ/rxQcmktaVyTZAHAiwuXPT15u1UJol
+zo6UYo8hI9Fu/VWI4xFiNnL/dPplEcRUl1UC3Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature417963-Object707632"><etsi:QualifyingProperties Target="#Signature417963"><etsi:SignedProperties Id="Signature417963-SignedProperties578976"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-23T12:37:48-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>nSdbFOU7OAxyy3vJTRuiF0D5w+s=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>827781546478396968</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-756944"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

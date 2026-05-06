@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202601091383462800120020020000028802915854612</numeroAutorizacion>
+<fechaAutorizacion>2026-04-20T11:58:54-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Martinez Gonzalez Elisa</razonSocial><nombreComercial>Martinez Gonzalez Elisa</nombreComercial><ruc>0913834628001</ruc><claveAcceso>2004202601091383462800120020020000028802915854612</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>002</ptoEmi><secuencial>000002880</secuencial><dirMatriz>CC Village Plaza Local 119 1er Piso</dirMatriz><contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe></infoTributaria><infoFactura><fechaEmision>20/04/2026</fechaEmision><dirEstablecimiento>CC Village Plaza Local 119 1er Piso</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ARGENZIO GONCALVEZ MARIA KARINA</razonSocialComprador><identificacionComprador>0923083190001</identificacionComprador><totalSinImpuestos>99.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>7</codigoPorcentaje><baseImponible>99.00</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>99.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>99.00</total></pago></pagos></infoFactura><detalles><detalle><descripcion>4003</descripcion><cantidad>1.000000</cantidad><precioUnitario>99.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>99.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>7</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>99.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><ds:Signature Id="Signature686235" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo316824">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID759434" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature686235-SignedProperties720887">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>NIfriyqrRs+uAKcakqVnp+r/gwE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1778168">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>VgnUO4M7DwzQj+lhn8qVYAsYGMw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-45960" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>oU8BTB+FzCSLftGoEvot0t0rDKE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue682473">
+jKsGn20NhMk1H/hAbkcIbOa99PUen+X8OlcFLX+R6rw7PWMnQ3BMIa9X0S7OdavhB8gEpWHJbGEN
+Bt5lMyO7e2WZ/EJWXZvuOOTp948HugRo4ybbUyyEjrHcyBoZGJDjchKlPXgC2wZNNrQwGnwNRMJ3
+N6TxIsEJoQelZVZFrV7bkTH4t4DKag5le5Lcs28tPfg/T4dIrHpnSm0eGGqIOUyVfruiHQiqiBdb
+10c1MLyzQHXnebLDeysYDt2HOZMPINNqrzHQfBfm2klQc+n9jc6qNMqkND0+HMCeXcNeQU3u49Tr
+TJ7CLzAL3zx1gQisCzMlmtfvYoPIUFZFg0TSMA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1778168">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILlzCCCX+gAwIBAgIEYLVGMTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMTQxNTQyMTNaFw0yNjExMTQxNTQyMTNaMIGiMSAw
+HgYDVQQDDBdFTElTQSBNQVJUSU5FWiBHT05aQUxFWjEgMB4GA1UEBRMXMDkxMzgzNDYyOC0xNDEx
+MjQxMDUyMDYxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwUEdseM8VfLIXRexHJXXSxxOsb/BEoGnGBMw71wWn685W++d
+eYtLJ6jJrM71B/deUhGS11c652Q0O1wrZGLtgMX8Ss09SQfUeqmIJETaStsoTfWiEyvDGSMouHXi
+SMtpBoOjtqo34maULChu/DFNMJ7t38fCXOCrgXpchxPezK9Tk+B7gsDenwMTgq0d5ddxtOYigLdZ
+iLhma8P5r9Ma50zGMqy8ZUsctq+m02sGrNouZ1Hp7E3ly9ZryV3G5MTquCnO/FoMCKKo/gJBBxQD
+IlNCcD0CAwGJ/60ykoXzma7m2DoFIHbgVvMuzDBZvsxUWUlvP8q5T/HasUCvtksO5wIDAQABo4IG
+2jCCBtYwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggr
+BgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxk
+YXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRp
+b25MaXN0P2Jhc2UwJQYDVR0RBB4wHIEaZWxpc2FtYXJ0aW5lemdAaG90bWFpbC5jb20wggEGBgNV
+HSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMA
+YQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnIC
+ATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29u
+dGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUg
+Q2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9
+aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CB
+xKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0
+aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVy
+YWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlz
+dD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNF
+Q1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89
+U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUulhcvWkluJ0Ba2bKnef+m/fF5RIw
+KwYDVR0QBCQwIoAPMjAyNDExMTQxNTQyMTNagQ8yMDI2MTExNDE1NDIxM1owCwYDVR0PBAQDAgXg
+MBoGCisGAQQBgqZyAwEEDAwKMDkxMzgzNDYyODAWBgorBgEEAYKmcgMJBAgMBlRBUklGQTARBgor
+BgEEAYKmcgMiBAMMAS4wEwYKKwYBBAGCpnIDBwQFDANTIE4wFQYKKwYBBAGCpnIDAgQHDAVFTElT
+QTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDY2NzA2MDARBgorBgEEAYKmcgMjBAMMAS4wEwYK
+KwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwME
+CgwITUFSVElORVowIwYKKwYBBAGCpnIDHgQVDBNJTkcgQURNSU5JU1QgVkVOVEFTMBgGCisGAQQB
+gqZyAwQECgwIR09OWkFMRVowGgYKKwYBBAGCpnIDCAQMDAowOTk3ODk5MTE4MA0GCSqGSIb3DQEB
+CwUAA4ICAQBgkAQUBwKW/0OyxdHADyDTM+R5g2KJQAlCmHgCgy+fMRQFsUgr7ZClxgkSculDzwuf
+zGNSwhf3W4IRXmMkJ1SFAuIUCv51foUOcjS9u62CLweF5PnuvRSIsDdXeRN6uGQEvnFWpCBB8mcW
+PZ1tGnjV39GV5pYlHEphhQ/99yUyVqNX+HWb49nPONCgNcm7D8iIIzsg/jh54VtoKev7pCdCK5Zh
+WoxZjVS4Ew9dUII8OsVnaSf12YVFk/b8Jto3ZeSBqgB0vwhfuLBsaifUQOl1zyIrqaTOQ48Tzwmo
+/PFUOjb2suZHBkpXcGJomzxlLy0Uyn0dos+TqL758J8udHuyEHoKRWPAz7dmpZ6o8WPkSFfwsSTs
+iFA0Y06NTY34Ao9KDHLd4LOrZnVsAeKnA1ieYgjGxCi3jc+LCDqNlJnNemxeWtuvmCg2vMmONyJS
+mJRLbGsBt5+ozMFwaA5vNoGPJSBx/aZBCq8JzKigI1vV+8AwzHyXZD+i0k5yC9z0vbMFpdR3Ilxd
+Ds2MRdIVg/4ANlUnLBZ52yQbECjXupiD9IG46zimpbGSIfWV704zg7sJEU6otoaYBCyMfafGdVt3
+f/17Vgx3bFCIh+hYn1tneJkO1ps/0afv6hrI3cgyKfhBvYl9D3pKtc6eYsjq1/zjC0Q3vZ0tYJuA
+09/QsE5WQw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wUEdseM8VfLIXRexHJXXSxxOsb/BEoGnGBMw71wWn685W++deYtLJ6jJrM71B/deUhGS11c652Q0
+O1wrZGLtgMX8Ss09SQfUeqmIJETaStsoTfWiEyvDGSMouHXiSMtpBoOjtqo34maULChu/DFNMJ7t
+38fCXOCrgXpchxPezK9Tk+B7gsDenwMTgq0d5ddxtOYigLdZiLhma8P5r9Ma50zGMqy8ZUsctq+m
+02sGrNouZ1Hp7E3ly9ZryV3G5MTquCnO/FoMCKKo/gJBBxQDIlNCcD0CAwGJ/60ykoXzma7m2DoF
+IHbgVvMuzDBZvsxUWUlvP8q5T/HasUCvtksO5w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature686235-Object82416"><etsi:QualifyingProperties Target="#Signature686235"><etsi:SignedProperties Id="Signature686235-SignedProperties720887"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T16:58:42+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>r4qUMkue5yIFEkqbBg5EvSK7jYg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1622492721</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-45960"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

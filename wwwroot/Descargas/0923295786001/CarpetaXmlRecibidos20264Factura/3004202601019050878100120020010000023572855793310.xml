@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3004202601019050878100120020010000023572855793310</numeroAutorizacion>
+<fechaAutorizacion>2026-04-30T11:31:58-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>DISTRIBUIDORA HMEATS S.A.S</razonSocial>
+	    <nombreComercial>DISTRIBUIDORA HMEATS S.A.S</nombreComercial>
+	    <ruc>0190508781001</ruc>
+	    <claveAcceso>3004202601019050878100120020010000023572855793310</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>002</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000002357</secuencial>
+	    <dirMatriz>PICHINCHA / QUITO / IÑAQUITO / ELOY ALFARO 33-109 Y SUIZA</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>30/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>PICHINCHA / QUITO / IÑAQUITO / ELOY ALFARO 33-109 Y SUIZA</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>MIGUEL JARA</razonSocialComprador>
+	    <identificacionComprador>0923295786001</identificacionComprador>
+		<direccionComprador>CUENCA</direccionComprador>
+	    
+	    <totalSinImpuestos>105.79000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>105.79000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>105.79000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>105.79</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>HPM00030</codigoPrincipal>
+		<codigoAuxiliar>HPM00030</codigoAuxiliar>
+      	<descripcion>MATAMBRE</descripcion>
+      
+      <cantidad>0.750000</cantidad>
+      <precioUnitario>17.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.75</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>12.75000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>HPM00031</codigoPrincipal>
+		<codigoAuxiliar>HPM00031</codigoAuxiliar>
+      	<descripcion>PORKUS-BABY BACK RIBS</descripcion>
+      
+      <cantidad>0.625000</cantidad>
+      <precioUnitario>14.950000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.34</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>9.34000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>HPM00069</codigoPrincipal>
+		<codigoAuxiliar>HPM00069</codigoAuxiliar>
+      	<descripcion>BIFE ANGOSTO TROZOS - STRIPLOIN ANGUS GRAIN DEVESA</descripcion>
+      
+      <cantidad>0.815000</cantidad>
+      <precioUnitario>38.900000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>31.70</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>31.70000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>HPM00106</codigoPrincipal>
+		<codigoAuxiliar>HPM00106</codigoAuxiliar>
+      	<descripcion>BIFE DE VACIO ENTERO DEVESA</descripcion>
+      
+      <cantidad>1.625000</cantidad>
+      <precioUnitario>32.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>52.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>52.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">tarjeta</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature931612">
+<ds:SignedInfo Id="Signature-SignedInfo988033">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID985115" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature931612-SignedProperties383428">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RW4stas2eYEQvcGVaINFe1RiMUI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate193563">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xGrpw2SDK2f+ui+sYCbplngMWRU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-835097" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>mxE6nk0asP5U2MN8VgINEYEwvCc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue306887">
+LJG8zlX+E5m1HmDX5/s3VlQQb6FY6gkT6CdbVAc78hCyq49YLoxg1iSmuojGLWgeUm1fky09nP3m
+h6KbglrpLEXojWbH5mNbr5u12TVPoZhFI3diBVAo/pwYm87GiIbNkQatjtzsjtkbYnvQTcTBp1ft
+FdHWYjE0FqrjyGftuwDlh0DoGYHgK9bY5lwZHQDZQxBNmudJIIoBomUBfa/NxPGttAshwbw19sJP
+MYZYaR5euzKghcFXeNk/kmdqZ9b42MakXkSDxnsP3XM/S6tQRaqujDGIU2aApO14rPnL37g6IKeB
+KvZ69/XqTmlZyRqtKHeuxnc1TQ1+TNhCtixbxw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate193563">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK5jCCCM6gAwIBAgIIcG0mbtj302AwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMjExMjMyNjE1WhcNMjYxMjExMjMyNjE1WjCB
+qTEnMCUGA1UEAwweSk9TRSBPUkxBTkRPIEFMVEFNSVJBTk8gQ0FTVFJPMSAwHgYDVQQFExcwMTUx
+NzI4MTUxLTExMTIyNTE4MzYwNTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCZ1QOimIXC4b14fSZK56O2YSqO1bXZ70Zm
+Y90/XnmY74ZEmJ0uPVOmmh7oXh6Q8gzVSa6f89c49FNC30boBCDkONNy9+eB1DDOKHY4B6Y4JfGM
+g/pYSX17P330cSLXUg2Svni0UoRiJy1ZD1JLW0LvyimJfe+L6BOba68hXu8guE4JA0K9H5Z7WWLD
+s+Nrfbf50OwIJR3zU3lQDCRFfHvTQ0nYWGrLu2JKWdI/DwCl+EeedkDBwEBc/9fW26mjM/dSWW3d
+jhCSPY17Dn7PDdXHzCj0TcpyBMSX+O5hQ0XdsbH4IPAXQPmk2uT04ffHCt7N8GKC998VwjV/42KM
+gjrlAgMBAAGjggYeMIIGGjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/
+ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAfBgNVHREEGDAWgRRoYW1i
+dXJnb3BtQGdtYWlsLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEF
+BQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQA
+YQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRw
+czovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2
+YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFu
+dGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYw
+ggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2Ny
+bGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmls
+ZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1B
+VVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURB
+RCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIs
+Qz1FQzAdBgNVHQ4EFgQUaqAX+6UTsix2VmnIGYnmQe80TEEwKwYDVR0QBCQwIoAPMjAyNTEyMTEy
+MzI2MTVagQ8yMDI2MTIxMTIzMjYxNVowCwYDVR0PBAQDAgXgMCYGCisGAQQBgqZyAwUEGAwWRElS
+RUNUT1IgRUpFQ1VUSVZPIENFTzAaBgorBgEEAYKmcgMBBAwMCjAxNTE3MjgxNTEwGwYKKwYBBAGC
+pnIDCQQNDAtIVUFZTkFDQVBBQzARBgorBgEEAYKmcgMiBAMMAS4wOgYKKwYBBAGCpnIDBwQsDCpT
+QU5USUFHTyBDQVJSQVNDTyAzIDU2IFkgQyBGUkFOQ0lTQ08gU09KT1MwHAYKKwYBBAGCpnIDAgQO
+DAxKT1NFIE9STEFORE8wHwYKKwYBBAGCpnIDIAQRDA8wMDUwMDEwMDAxODQ3MDUwEwYKKwYBBAGC
+pnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBoGCisGAQQBgqZyAwMEDAwKQUxU
+QU1JUkFOTzAqBgorBgEEAYKmcgMKBBwMGkRJU1RSSUJVSURPUkEgSE1FQVRTIFMgQSBTMB0GCisG
+AQQBgqZyAwsEDwwNMDE5MDUwODc4MTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFgYKKwYBBAGCpnID
+BAQIDAZDQVNUUk8wGgYKKwYBBAGCpnIDCAQMDAowOTk4NjY2NDM2MA0GCSqGSIb3DQEBCwUAA4IC
+AQBLVB7DC+6szlrtYbelj7cj+qv0Ais/weHOTHh1V3s4ez9XxJLkufY0fG/a2gfTycRSvKXkmxsy
+Sg0wrsvf6+vWOzkjKBQ0ahnYMIdnjxXU+sJY+0vO5MSMAdjUKcvFhfUHsgW9W6na7Nh6XRlgexS1
+VAD9hMAlOBib9WVlBjyyqvCt6nX2NvB+qIu9zYADNEBSHJi120Nalko5UXS8bTSGEbpD7NgDof5N
+FhO0wKgd3SWeKuXaFCY5B3cHALnlSmuT4t1kuUbRU8jJQH99/MdjG1SvjdDp/eFgjhddQK6G+LM7
+aus9gQeCEPBYm9Pnv7E9etF9Nr42cPXSQ+7se4aitnDgiuwlee2hXp1ToioVp0K/HHlwKlumQqCA
+8vuj1/kRJtm9p2DVal/5weMy6mWqt3nk8PuT5XAkKKOwb9GlfRegk7hBZUXKuBqTnNqfnzDI9cCn
+6NNJK9O+DN18avxKlaG8cuJvdIMU4n14XvdGdnPhhV2DWiPmT6KWXPhRKDxp5z6xulq8Azk0mzaM
+YU89n6oCC8CPK3Kf3vbv9Nrpxy2svuZh8k0QiHOawHzYr0qDhkndHo49FbX2EKAtTaHW8jZZhib/
+Aug6f0AuOJ/BcVckJ0w3bIuzOYrJSBqLJyEKu/uACpzDESBi95wZaCFG+ub0ElFOSYFyU/r1790V
+UQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mdUDopiFwuG9eH0mSuejtmEqjtW12e9GZmPdP155mO+GRJidLj1Tppoe6F4ekPIM1Umun/PXOPRT
+Qt9G6AQg5DjTcvfngdQwzih2OAemOCXxjIP6WEl9ez999HEi11INkr54tFKEYictWQ9SS1tC78op
+iX3vi+gTm2uvIV7vILhOCQNCvR+We1liw7Pja323+dDsCCUd81N5UAwkRXx700NJ2Fhqy7tiSlnS
+Pw8ApfhHnnZAwcBAXP/X1tupozP3Ullt3Y4Qkj2New5+zw3Vx8wo9E3KcgTEl/juYUNF3bGx+CDw
+F0D5pNrk9OH3xwrezfBigvffFcI1f+NijII65Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature931612-Object430903"><etsi:QualifyingProperties Target="#Signature931612"><etsi:SignedProperties Id="Signature931612-SignedProperties383428"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-30T11:31:55-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Bt1PZMQlHfF3iY9n/FxexmA4DnU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>8101173562237768544</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

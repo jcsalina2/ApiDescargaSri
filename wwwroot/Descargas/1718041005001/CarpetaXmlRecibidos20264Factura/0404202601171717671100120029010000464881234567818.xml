@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0404202601171717671100120029010000464881234567818</numeroAutorizacion>
+<fechaAutorizacion>2026-04-04T17:51:57-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PARDO FLORES SILVIA PATRICIA</razonSocial>
+    <nombreComercial>PLASTILEX</nombreComercial>
+    <ruc>1717176711001</ruc>
+    <claveAcceso>0404202601171717671100120029010000464881234567818</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>901</ptoEmi>
+    <secuencial>000046488</secuencial>
+    <dirMatriz>ALEJANDRO PONCE BORJA N78-101 Y HERNANDO PAREDES </dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>04/04/2026</fechaEmision>
+    <dirEstablecimiento>N78C HERNANDO PAREDES OE3-23 Y  ALEJANDRO PONCE BORJA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>DIAZ YANEZ GABRIELA FERNANDA</razonSocialComprador>
+    <identificacionComprador>1718041005001</identificacionComprador>
+    <direccionComprador>JULIAN ARBAIZA E753 y CARLOS BUSTAMANTE</direccionComprador>
+    <totalSinImpuestos>1.91</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>1.91</baseImponible>
+        <valor>0.29</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>2.2</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>2.2</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>COCA2</codigoPrincipal>
+      <codigoAuxiliar>COCA2</codigoAuxiliar>
+      <descripcion>COCA ORIGINAL 2LT DESECHABLE</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.913043</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.91</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.91</baseImponible>
+          <valor>0.29</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="vendedor ">Vendedor</campoAdicional>
+    <campoAdicional nombre="correo ">megacardsolutions@hotmail.com</campoAdicional>
+    <campoAdicional nombre="ciudad ">QUITO</campoAdicional>
+    <campoAdicional nombre="observación ">Venta</campoAdicional>
+  </infoAdicional>
+<Signature Id="Signature-33603b37-f231-46e8-8162-84726cefdfa2" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference Id="Reference-78deefe6-eaa8-47c1-ad23-d82ebd3b8019" URI="#comprobante"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3Jrkk14lhtidEQfNtHH5AJ4RWtM=</DigestValue></Reference><Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-33603b37-f231-46e8-8162-84726cefdfa2"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7/H7gIfPGFexXfsNXWbITqO9I4k=</DigestValue></Reference><Reference URI="#SignedProperties-Signature-33603b37-f231-46e8-8162-84726cefdfa2" Type="http://uri.etsi.org/01903#SignedProperties"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Eq572n/m8E8I4qqyOKZVZyDfpkw=</DigestValue></Reference></SignedInfo><SignatureValue>sZMO3uunUGiAr224nZHIyf0FrK/XRaqiCpncqF97XYbPqQDvCe6DoQvsEA1/Jm+xxLWZ+KY0QKiJYMLnA63p6PkRDSRG7NmvoMKevfGYxJesDdF5EOqsyf99YSrhmlSMj97undXJWQXYAYpazBzfaZdMvN+Jcn2/+jAJDnrvL+kJHKp94pcp83nsfD4Yxl+SlfoWTs/T46Vc9n53poPuHAYbb1P9gR0BMRPaIqDPh96GuqihQazrVg0tNwOremv8/xlCqmy1MovXtYUEQLoWV4ul+Hl+9U5OlZ6I7YlKc3IcE8aAcU5Fb50X+tfMSslvUyNGZDLVlgxx71sOxqHBWQ==</SignatureValue><KeyInfo Id="KeyInfoId-Signature-33603b37-f231-46e8-8162-84726cefdfa2"><X509Data><X509Certificate>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</X509Certificate></X509Data><KeyValue><RSAKeyValue><Modulus>uMmwan41rois8NTeaT+qWFawDsPD2S2vum6zxRZEdgHMZufAmyZ5yAo5bayD3vW8pyIG1eaHE81D7+i+LSyYYlOW3xebEgRFjY5LI81cvvuXYC7aC7++ZKhS718XL5OcHJlz5a6f1R/KRi+fnAuK82dMHhguSBowPa2MlZR+sjIqpg1LkQni7zfn5+Xk/ytdUpSzKAq3JFD1MMJf9lpifePap4dp7lELk5eTVMaKunkrPXJUnUsichrVETDRdFytlFN2vlCjowk50lnBfPSZQi7mAnqqEwmUXRTK2Czxz+/PELTJOijlbKkdmHXksj7TLZ+suVnu6helxRfaqDx/DQ==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo><Object Id="XadesObjectId-aba962a7-54f7-43ce-89e4-a810d3550654"><xades:QualifyingProperties xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="QualifyingProperties-c6fa4772-6c8c-42af-b683-c09b24909970" Target="#Signature-33603b37-f231-46e8-8162-84726cefdfa2" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#"><xades:SignedProperties xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="SignedProperties-Signature-33603b37-f231-46e8-8162-84726cefdfa2"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-04T17:51:56-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>bWKNSCzBX6s4Rjt9s9IXHnWBLCk=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=#130f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>8276592937529366688</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-78deefe6-eaa8-47c1-ad23-d82ebd3b8019"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></Object></Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

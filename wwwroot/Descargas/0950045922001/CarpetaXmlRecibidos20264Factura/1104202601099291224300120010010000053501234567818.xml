@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1104202601099291224300120010010000053501234567818</numeroAutorizacion>
+<fechaAutorizacion>2026-04-11T08:00:32-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>ASISTENCIA MEDICA INTEGRAL ZAMBRANO &amp; ASOCIADOS ASIZAMASO S.A</razonSocial>
+		<nombreComercial>ASISTENCIA MEDICA INTEGRAL ZAMBRANO &amp; ASOCIADOS ASIZAMASO S.A</nombreComercial>
+		<ruc>0992912243001</ruc>
+		<claveAcceso>1104202601099291224300120010010000053501234567818</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000005350</secuencial>
+		<dirMatriz>LA GARZOTA SOLAR 21 MZ 138 DIAGONAL AL MONUMENTO JAIME ROLDOS AGUILERA</dirMatriz>
+		<agenteRetencion>1</agenteRetencion>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>11/04/2026</fechaEmision>
+		<dirEstablecimiento>LA GARZOTA SOLAR 21 MZ 138 DIAGONAL AL MONUMENTO JAIME ROLDOS AGUILERA</dirEstablecimiento>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		<razonSocialComprador>LOAIZA SUAREZ BÉLGICA ANDREA</razonSocialComprador>
+		<identificacionComprador>0950045922</identificacionComprador>
+		<direccionComprador>SAMANES 1</direccionComprador>
+		<totalSinImpuestos>30.00</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<baseImponible>30.00</baseImponible>
+				<tarifa>0.00</tarifa>
+				<valor>0.00</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0</propina>
+		<importeTotal>30.00</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>19</formaPago>
+				<total>0.00</total>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>103399</codigoPrincipal>
+			<descripcion>CONSULTA PSICOLOGIA ESPECIALIDAD</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>30.00</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>30.00</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0</tarifa>
+					<baseImponible>30.00</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Direccion">SAMANES 1</campoAdicional>
+		<campoAdicional nombre="Email">bandreasuarezl@gmail.com</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-6b130653-5f97-45c8-84d4-f6899c655187"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-99557cca-fdc4-408e-93d9-680400d230a9" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>wev5kLEGdlVQdMXzUfPiVvq3oIZHEAIDJA/pZkIQYBI=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-6b130653-5f97-45c8-84d4-f6899c655187"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>RtNLPpUks9INSmIL4nKt+UgDhKVEaAkb8M4Hlb0snmE=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-6b130653-5f97-45c8-84d4-f6899c655187"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>IV2AOZnG1Grujuo7TY4uFXe5VCr+Zw28gEvlQ9WPKXQ=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-6b130653-5f97-45c8-84d4-f6899c655187">CDN3lJUzZEyq1/cC1Dvy4moBZLnSsZ+Q7FXqrhQ8pWv0b2DJ/sg9LELAdo/ycOAimVi1GfUQD1uJpxPoM8RKYNpaGP0sYMIwrXkN1k47YIJxJNdchSEdZHlAQV6C+1wFpSJCyNwc7Y1rCfyhsGcnJ5KK+wpSp608RIJej356cJhMd/msnQtv6Op/9fR4pPepVkR3Y9HMtNxENMoEiE4xO11LEPiZ9ee8eQJhER5jvsOatNSbBEoXLigtiK/r6BB/S60Fbmn7Gp/QCZJVbhK6IIqZhuL0yW0NvylNC08r+rQRa58Ctybw0I2x4TBPbWjuw18agRkyyvCv/80DT6nnhw==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-6b130653-5f97-45c8-84d4-f6899c655187"><ds:X509Data><ds:X509Certificate>MIILFzCCCP+gAwIBAgIIRcqIhBuHJ64wDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMzMwMTQzODExWhcNMjgwMzI5MTQzODExWjCBqzEpMCcGA1UEAwwgTFVJUyBFRFVBUkRPIFpBTUJSQU5PIENBTVBPVkVSREUxIDAeBgNVBAUTFzA5MjI0NzU2NDUtMzAwMzI2MDk0ODAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKzbqBaT/N0MlErnozgDKQnXWz+qYhGCUDwlrUGslRFiXoBvHznRYWhPwH/uUQAckcqWoz5uTcjr2ZEFRTS34cXbFeD8khqmrZYBXNYgV3DJ2KVJOsSRatG5gYWnhc+fzldyS/RO1aVt5iEjcQk5KsoFb7xbZYXj5EOQIRdYZzeZpB+3/HCMF8aGrGqK80YPo6eeyvadniRZyCtC5kSXGUFZLGk9Af8LkMg7Xv87KVCe580HM0PGTHTnB7/unMw87RrVcllvDNmFT6QFtq5Mhm/fcsd1/ahEPt8PgwxnYMy6AI5gtKa+/KTEn3HMoKJozq2g3CL5oj0TR9XRJQLxe90CAwEAAaOCBk0wggZJMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCsGA1UdEQQkMCKBIGx1aXNlZHVhcmRvX3phbWJyYW5vQGhvdG1haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTZhyV65qHStt/3hEZmkRHpW49TEjArBgNVHRAEJDAigA8yMDI2MDMzMDE0MzgxMVqBDzIwMjgwMzI5MTQzODExWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTIyNDc1NjQ1MEAGCisGAQQBgqZyAwkEMgwwR1VBWUFRVUlMIENBQkVDRVJBIENBTlRPTkFMIFkgQ0FQSVRBTCBQUk9WSU5DSUFMMBEGCisGAQQBgqZyAyIEAwwBLjAaBgorBgEEAYKmcgMHBAwMCkxBIEdBUlpPVEEwHAYKKwYBBAGCpnIDAgQODAxMVUlTIEVEVUFSRE8wHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDExMjk0NDYwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwIWkFNQlJBTk8wTQYKKwYBBAGCpnIDCgQ/DD1BU0lTVEVOQ0lBIE1FRElDQSBJTlRFR1JBTCBaQU1CUkFOTyBZIEFTT0NJQURPUyBBU0laQU1BU08gUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MjkxMjI0MzAwMTARBgorBgEEAYKmcgMdBAMMAS4wGgYKKwYBBAGCpnIDBAQMDApDQU1QT1ZFUkRFMBoGCisGAQQBgqZyAwgEDAwKMDk5NDQxMTQxMzANBgkqhkiG9w0BAQsFAAOCAgEAvANwkd4U/F5arz4yYrt9wIJ1KlsZKUjOGUufZzX9OqKWlnXBeQAimjqoCpsCLLs66NSkyu4hXOCPRCGb+9GBl4a6ZlyBoDm8qZv/efkuc7+yPGorie/zfrY6agk+Zot93JmE2gPETL6g6258ue6XJXugUBWwvAkGzDlKslWpU2hfNN4uKzbPQqQ3P8uHfE3VVPyOjd9U7p/RkKgJOzrYn9MzZLNB+T/2zDm+vPmp4I0vtspjlNVNoKzHw8vxKCM5DeBxIs80I4k3RC0iunWCVz9RajyhtPviDBZRTVdvSOd+4/XFCSYSEN5p6tdKF0wU4E8N4bLGHMS6BlcSHP2oLiaJmkKXF1ZRde2tnTmAPr5G8tmEHXmhx2uD8bUzfnbv2PRxR+ldHbNjXRN0eHvjjdzlgNXY0yev+lF7ik9ztyuh6aIZ/OME9fL7FGchV2Q/MUIi7fPJd7vBRl9E9aTFMTJQRAhFXREajuyleqsMAYi6zGv/0GeImviWcKRgtO72XYevBGGVlWNlrfotIN6HC3PfoPUMlhtzkqq71O5YPPdeAWHJ7AWmiJqTVg08dAXKgK0yeu17N6XeDEjlucJekYz/5bd74Px+1tQkgCM3fboMBAZSB7g+FkcrutXxKK9WoyG+0fEGOtz+YXZzCOFeP1pWTJOKEFAy2FzG5VelqmA=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>rNuoFpP83QyUSuejOAMpCddbP6piEYJQPCWtQayVEWJegG8fOdFhaE/Af+5RAByRypajPm5NyOvZkQVFNLfhxdsV4PySGqatlgFc1iBXcMnYpUk6xJFq0bmBhaeFz5/OV3JL9E7VpW3mISNxCTkqygVvvFtlhePkQ5AhF1hnN5mkH7f8cIwXxoasaorzRg+jp57K9p2eJFnIK0LmRJcZQVksaT0B/wuQyDte/zspUJ7nzQczQ8ZMdOcHv+6czDztGtVyWW8M2YVPpAW2rkyGb99yx3X9qEQ+3w+DDGdgzLoAjmC0pr78pMSfccygomjOraDcIvmiPRNH1dElAvF73Q==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-66a78832-9093-4d89-996a-f4264bf057bf"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-654213c6-f6ae-4dd1-bb44-815da535433d" Target="#Signature-6b130653-5f97-45c8-84d4-f6899c655187"><xades:SignedProperties Id="SignedProperties-Signature-6b130653-5f97-45c8-84d4-f6899c655187"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-11T08:00:29-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>XGuRV0W5cSK+uI3JH39PHWJqc5YpbenyPB3Z+v89LQw=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>5028982034891483054</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-99557cca-fdc4-408e-93d9-680400d230a9"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

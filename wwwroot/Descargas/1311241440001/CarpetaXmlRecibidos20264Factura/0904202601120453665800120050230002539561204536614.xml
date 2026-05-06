@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0904202601120453665800120050230002539561204536614</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T08:40:48-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?><factura version="1.1.0" id="comprobante"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>AYALA GAIBOR DANNY DANILO</razonSocial><nombreComercial>CRUZ AZUL QUE ROSITA PAREDES Y QUITO</nombreComercial><ruc>1204536658001</ruc><claveAcceso>0904202601120453665800120050230002539561204536614</claveAcceso><codDoc>01</codDoc><estab>005</estab><ptoEmi>023</ptoEmi><secuencial>000253956</secuencial><dirMatriz>AV. ROSITA PAREDES # S/N Y QUITO</dirMatriz></infoTributaria><infoFactura><fechaEmision>09/04/2026</fechaEmision><dirEstablecimiento>EL GUAYACAN 1ERA ETAPACALLE PRINCIPAL SL 6 MZ 21</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>EDISON SUAREZ</razonSocialComprador><identificacionComprador>1311241440</identificacionComprador><totalSinImpuestos>9.75</totalSinImpuestos><totalDescuento>1.51</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>9.75</baseImponible><valor>0.00</valor><valorDevolucionIva>0.00</valorDevolucionIva></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>0.00</baseImponible><valor>0.00</valor><valorDevolucionIva>0.00</valorDevolucionIva></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>9.75</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>9.75</total><plazo>0</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>41492</codigoPrincipal><descripcion>STOPTOS EXPECT JBEx15/100MGx120ML</descripcion><cantidad>1.0000</cantidad><precioUnitario>6</precioUnitario><descuento>1.50</descuento><precioTotalSinImpuesto>4.50</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="detAdicional1" valor="1u|0f|N|DARAF|"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>4.50</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>18059</codigoPrincipal><descripcion>FUNDA CA MEDx100 EXONERADO</descripcion><cantidad>0.0100</cantidad><precioUnitario>1.28</precioUnitario><descuento>0.01</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="detAdicional1" valor="0u|1f|N|SDESA|"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>109686</codigoPrincipal><descripcion>ARCODEX TAB-RECx120MGx7</descripcion><cantidad>0.4286</cantidad><precioUnitario>12.25</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>5.25</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="detAdicional1" valor="0u|3f|N|PORMA|"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>5.25</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="factura">4413468|09/04/2026 08:39:40|bcastroc|DAY05-B||DAY05||1311241440|9.75|0.00|9.75|0|0</campoAdicional><campoAdicional nombre="TipoVenta">I</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-177905393">
+	<ds:SignedInfo>
+		<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<ds:Reference URI="#comprobante">
+			<ds:Transforms>
+				<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+			</ds:Transforms>
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>MFcaOu+k+u7xgrx7maf48y9gz5g=</ds:DigestValue>
+		</ds:Reference>
+		<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-1904766292">
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>aSCIE8OzdnYFPOBFoNN7+LklaB0=</ds:DigestValue>
+		</ds:Reference>
+	</ds:SignedInfo>
+	<ds:SignatureValue>
+J23oVtCPe6hInFhhzwCQ7ALhHeBM4kLJsP1iG3GjEZriM+ukWoUgxKcvT2GiidbM
+QAtDW3sxItx3/fA1Y/GqKsnQHAxM/TArFUvUH0mALMROlcuYG1Hk4v5Wy37QgDIE
+DmQNoxxSLxjgo+KaS/8XMbypwHwZR0johuqp/pi6DZFfupQTLitpWFrzV8nvHBFC
+y0REMngsUsh4C7E4BWcKHioAsHQqRpcPqVAIaDV3qseTZFc3x2CDXNFqFwk0/Tee
+0PRfI+G6PU8eimAZDTHm3+MrlnOkELh0zUj7MSBBdAFgFOId7OoFlk52sndWmkcC
+pUCw4zbaY98kcSDL7Py+6Q==
+	</ds:SignatureValue>
+	<ds:KeyInfo>
+		<ds:KeyValue>
+			<ds:RSAKeyValue>
+				<ds:Modulus>
+0S0+68BomJfct3aBvS1VBRqPpXenNVbDIeX/i36GtPgON7JOO9Hy5ewjHxu2IyHE
+IzYqJ9Q46ad4IC/AMrrqfpUpSkWXnY5q75KylDdD2MYt5LGLi1KqOj8mnrDS3Elq
+6owJGxq/NLE3wrLNH/vlemmvl2OIWdFtKK1erdBpHe+ezuJKWwL3UR6nvXhXzzxQ
+V4r/3ZtW75aYUtFM9oz/VRRMg3PFKN18WVeweorDWGElcvijpt7mnjNTfK1NBMXS
+teHCMq6y59tubn5ckgnOYCHi1iIXZRetkCCGy63ty/+SMOOS4Nud9Hnrpr1BRM0w
+6RfYhuWwMXC95KIvcJfxSQ==
+				</ds:Modulus>
+				<ds:Exponent>AQAB</ds:Exponent>
+			</ds:RSAKeyValue>
+		</ds:KeyValue>
+		<ds:X509Data>
+			<ds:X509IssuerSerial>
+				<ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509IssuerName>
+				<ds:X509SerialNumber>1709633284</ds:X509SerialNumber>
+			</ds:X509IssuerSerial>
+			<ds:X509SubjectName>CN=DANNY DANILO AYALA GAIBOR, 2.5.4.5=0000404238, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509SubjectName>
+			<ds:X509Certificate>
+MIIJsjCCB5qgAwIBAgIEZebvBDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMC
+RUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsT
+LkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0Ux
+DjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBF
+Q1VBRE9SMB4XDTI1MDgyNjE2MTgwOVoXDTI3MDgyNjE2NDgwOFowgbExCzAJBgNV
+BAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYD
+VQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJ
+QkNFMQ4wDAYDVQQHEwVRVUlUTzE1MBEGA1UEBRMKMDAwMDQwNDIzODAgBgNVBAMT
+GURBTk5ZIERBTklMTyBBWUFMQSBHQUlCT1IwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQDRLT7rwGiYl9y3doG9LVUFGo+ld6c1VsMh5f+Lfoa0+A43sk47
+0fLl7CMfG7YjIcQjNion1Djpp3ggL8Ayuup+lSlKRZedjmrvkrKUN0PYxi3ksYuL
+Uqo6PyaesNLcSWrqjAkbGr80sTfCss0f++V6aa+XY4hZ0W0orV6t0Gkd757O4kpb
+AvdRHqe9eFfPPFBXiv/dm1bvlphS0Uz2jP9VFEyDc8Uo3XxZV7B6isNYYSVy+KOm
+3uaeM1N8rU0ExdK14cIyrrLn225uflySCc5gIeLWIhdlF62QIIbLre3L/5Iw45Lg
+2530eeumvUFEzTDpF9iG5bAxcL3koi9wl/FJAgMBAAGjggTeMIIE2jALBgNVHQ8E
+BAMCB4AwZgYDVR0gBF8wXTBbBgsrBgEEAYKoOwIBATBMMEoGCCsGAQUFBwIBFj5o
+dHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRpY2EtY2VydGlmaWNhZG8vcGVyc29u
+YS1uYXR1cmFsLnBkZjCBkQYIKwYBBQUHAQEEgYQwgYEwPgYIKwYBBQUHMAGGMmh0
+dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3Nw
+MD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJs
+aWN3ZWIvc3RhdHVzL29jc3AwGgYKKwYBBAGCqDsDAQQMEwoxMjA0NTM2NjU4MBwG
+CisGAQQBgqg7AwIEDhMMREFOTlkgREFOSUxPMBUGCisGAQQBgqg7AwMEBxMFQVlB
+TEEwFgYKKwYBBAGCqDsDBAQIEwZHQUlCT1IwPAYKKwYBBAGCqDsDBwQuEyxQQVJS
+Ty4gNyBERSBPQ1RVQlJFIENBTExFIEYsIEVOVFJFIDRUQSBZIDVUQTAZBgorBgEE
+AYKoOwMIBAsTCTA1Mjc5NjQ0NzAXBgorBgEEAYKoOwMJBAkTB1FVRVZFRE8wFwYK
+KwYBBAGCqDsDDAQJEwdFQ1VBRE9SMB0GCisGAQQBgqg7AwsEDxMNMTIwNDUzNjY1
+ODAwMTAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wIQYDVR0RBBow
+GIEWZGFubnkyNXg4NEBob3RtYWlsLmNvbTCCAeEGA1UdHwSCAdgwggHUMIIB0KCC
+AcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDIyNjQs
+Y249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8s
+b3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJ
+T04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVD
+P2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5lY2ku
+YmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszELMAkG
+A1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1
+BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1F
+Q0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFM
+IERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdDUkwyMjY0MCsGA1UdEAQkMCKADzIwMjUw
+ODI2MTYxODA5WoEPMjAyNzA4MjYxNjQ4MDhaMB8GA1UdIwQYMBaAFEii3yMfHfgs
+UXqMA81JMqUJwZSrMB0GA1UdDgQWBBTadDhclzZZoZzHm09bb1in6z8CljAJBgNV
+HRMEAjAAMBoGCSqGSIb2fQdBAAQNMAsbBVYxMC4wAwIEMDANBgkqhkiG9w0BAQsF
+AAOCAgEAHoBfUGF+Vzx+hAGw0Mi0Xs53X/jEuNfFhwcrt3kO7KJkpnA2fuMLSmc9
+fE2hOT88SZd/PWuLz279HbbaEqgilsdbCPKDtR6YMFo40HTYmPrgWx8BiHS38I2t
+OwGT4XcDxwI12KDfgnQu+fo1KDcSeOG7j9jVf2643ZCufDmq5Odv+br1kBtQjVV5
+Pyku2a9QX1vNVbEvPRPLofJX277UhyUPk3VAKonyQ4cKJA/Z0/512RMciJwymZW8
+kgrsMAd4LZotyASI0ygRMb8cY5x+h/9r9vir+pbG4frYo2algir9C0WqApd8U65v
+I+m1xNvGIJEe8iReqypzaM/m9UZYHmE1+4XC/kqCrxa6S/+dov6B6Tu5qtMON3Zc
+0HCZcD1vlHwfVt1aDUvNVPSqMB0Enha75pLsPgvcyNgQIiSnGYbRgtOOiRI5kTsb
+6zsDUiCz3If3g7Eh8BrEtB9bTB0Lj+9CQ4HHq4cSymx71dAxq95j8qzeY9gFFspb
+zPlCkFBhAkmxRWBB/Z7fgy7upilo7/DxWYfZk8arLVUzK/SwE9hTptSq91f6Wp14
+HQ/pm1GdVy3nCrDru7jIPk1sK5DZZeHyegY2O2zqfCkJ0KjjAVG4UF403Oj/+cln
+/cM7xqrCwngsTP53/o4VFDR/fRWUrYXL7nVAZzoQyJsct2jhHGo=
+			</ds:X509Certificate>
+		</ds:X509Data>
+	</ds:KeyInfo>
+	<ds:Object>
+		<etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-177905393">
+			<etsi:SignedProperties Id="SignedProperties-1904766292">
+				<etsi:SignedSignatureProperties>
+					<etsi:SigningTime>2026-04-09T08:39:44.374Z</etsi:SigningTime>
+					<etsi:SigningCertificate>
+						<etsi:Cert>
+							<etsi:CertDigest>
+								<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+								<ds:DigestValue>d7NkUt9raFdSBc1hf/7eS0jePmo=</ds:DigestValue>
+							</etsi:CertDigest>
+							<etsi:IssuerSerial>
+								<ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509IssuerName>
+								<ds:X509SerialNumber>1709633284</ds:X509SerialNumber>
+							</etsi:IssuerSerial>
+						</etsi:Cert>
+					</etsi:SigningCertificate>
+				</etsi:SignedSignatureProperties>
+			</etsi:SignedProperties>
+		</etsi:QualifyingProperties>
+	</ds:Object>
+</ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1604202601019040245200120015000006457410417130011</numeroAutorizacion>
+<fechaAutorizacion>2026-04-16T05:35:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ECUAPAYPHONE CA</razonSocial>
+    <nombreComercial>ECUAPAYPHONE CA</nombreComercial>
+    <ruc>0190402452001</ruc>
+    <claveAcceso>1604202601019040245200120015000006457410417130011</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>500</ptoEmi>
+    <secuencial>000645741</secuencial>
+    <dirMatriz>PEDRO CALDERON DE LA BARCA 4-42 Y GUSTAVO ADOLFO BECKER</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>16/04/2026</fechaEmision>
+    <dirEstablecimiento>PEDRO CALDERON DE LA BARCA 4-42 Y GUSTAVO ADOLFO BECKER</dirEstablecimiento>
+    <contribuyenteEspecial>011</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>Kapicchi</razonSocialComprador>
+    <identificacionComprador>0993377775001</identificacionComprador>
+    <direccionComprador>Hotel Bellini, Puerto Santa Ana</direccionComprador>
+    <totalSinImpuestos>36.44</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>36.44</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>5.47</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>41.91</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>41.91</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PP4 CASHIN</codigoPrincipal>
+      <codigoAuxiliar>PP4 CASHIN</codigoAuxiliar>
+      <descripcion>COMISION CASHIN</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>36.440000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>36.44</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Det. Adicional" valor="Costo operativo 16-04-2026" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>36.44</baseImponible>
+          <valor>5.47</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="agenteRetencion">Agente de Retención Resolución No. NAC-DNCRASC20-00000001</campoAdicional>
+    <campoAdicional nombre="Observacion">Factura Automatica info@kapicchi.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-065063c0-2bd6-4ccd-b295-3ab24dd27e91"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-a4de6fad-a8c4-4c83-b4e2-be6d98fd0a3b" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>/nNgSJCkBj/zjpai0/IzQPYm39I41FtuOaLrkCUIkg4=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-065063c0-2bd6-4ccd-b295-3ab24dd27e91"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>SG5b2UxhQByFPXrTe1smvG5whVgPZy2dRknsuZJveYo=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-065063c0-2bd6-4ccd-b295-3ab24dd27e91"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>MHU6tpljj1zEAvUcHXMJ3gcZ3JVZY4AwtZ3/58IdzZU=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-065063c0-2bd6-4ccd-b295-3ab24dd27e91">F0GjMgZ0POTFSgQNQHzxrDyihPDa/InNqxFpqEoL6uBH01sRCVGoCx8WatAOu6WH8Ag8yRMB5J+NRCDaDFN12Z58dtP5AX++fjEk/zZJUz0lKZbASjZ+CGZvHBf9yB2eyxnuo0CVkXtLn27gwHBs8utDYQa6T3co2yzPj6R/z7HraynEjlNrturBFx+JVw38cRiyLCadgx0qIMffYzpkceJHs0GrQ58xaLSI7DSqLvJXZ9QflDBuPSI8XTOHPZ0C+M4oNxPMhUuq5quYC8HaY5nTz2hUli9mX6D/GewMz+ubJFC99aS4Uz2cAlELNifd526qB1f8SyF+T8sT7+yElQ==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-065063c0-2bd6-4ccd-b295-3ab24dd27e91"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>hXu4PCooY3vXFFC+P756fbw9XjOSp/5PPOxijMSZc7rY+c7I2XorjBpRasXakHxPFjvqGT0t+cRnY/+pxs0eDBuFrfIhC8X7Wc+S7GSEhtcMscCeTFofwTP2CbFQVXED6cAcV6nr73/XHeDxGapA6B9e7wz7ln1Si7UhMib9hGDZXGvOZ2wZUMAVhfX4zUArfTj5r6YBJzjmzB/kUBMAK51EzsQQ67PV8suRZ/bG4/6Z9RH8KhR+hbqB3KbK/AEkApIPSwHN9FFORr15c4Mpu28cWrbya6DTO7JlccnYwOxleKq8v4Mh8ahC43EC/2REK2Oh1WnwwV/HQkeebqAWxQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-0cbba2f1-1110-4fcf-8d3e-a18cb267c0b0"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-3f29333f-d465-4006-9605-58d7b7aee33e" Target="#Signature-065063c0-2bd6-4ccd-b295-3ab24dd27e91"><xades:SignedProperties Id="SignedProperties-Signature-065063c0-2bd6-4ccd-b295-3ab24dd27e91"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-16T05:35:40-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>fBN0xBydsrHGO51dbir4AeRaptt4MfvPkXolo24i6KM=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>7690787564900475056</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-a4de6fad-a8c4-4c83-b4e2-be6d98fd0a3b"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

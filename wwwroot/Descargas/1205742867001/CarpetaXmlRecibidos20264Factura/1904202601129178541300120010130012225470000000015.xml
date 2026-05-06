@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1904202601129178541300120010130012225470000000015</numeroAutorizacion>
+<fechaAutorizacion>2026-04-19T11:02:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>CAIVEL S.A.</razonSocial>
+<nombreComercial>Super Tienda Quevedo 1</nombreComercial>
+<ruc>1291785413001</ruc>
+<claveAcceso>1904202601129178541300120010130012225470000000015</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>013</ptoEmi>
+<secuencial>001222547</secuencial>
+<dirMatriz>June Guzman de Cortes entre 6ta y 7ma</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>19/04/2026</fechaEmision>
+<dirEstablecimiento>Av.June Guzman de Cortes entre 6ta y 7</dirEstablecimiento>
+<contribuyenteEspecial>NAC-DGERCGC25-00000011</contribuyenteEspecial>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>OFELIA PERALTA CUSME</razonSocialComprador>
+<identificacionComprador>1205742867001</identificacionComprador>
+<totalSinImpuestos>20.69</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>16.48</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>4.21</baseImponible>
+<valor>0.63</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>21.32</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos><pago><formaPago>01</formaPago>
+<total>21.32</total>
+<plazo>0</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago></pagos></infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>18108</codigoPrincipal>
+<descripcion>Jabon Liquido Axion 360ml</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>0.780000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.78</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>0.78</baseImponible>
+<valor>0.12</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>28011</codigoPrincipal>
+<descripcion>Deja Polvo 800gr</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>1.390000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.39</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>1.39</baseImponible>
+<valor>0.21</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>24832</codigoPrincipal>
+<descripcion>La Sazon Maggi 150gr</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>0.740000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.74</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>0.74</baseImponible>
+<valor>0.11</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7536</codigoPrincipal>
+<descripcion>Azucar 1kl</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>0.880000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.88</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.88</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>18004</codigoPrincipal>
+<descripcion>Arroz Flor LB (POR LIBRA)</descripcion>
+<cantidad>10.00</cantidad>
+<precioUnitario>0.330000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>3.30</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>3.30</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>8775</codigoPrincipal>
+<descripcion>Mayonesa Maggi Doy 200gr</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>1.300000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.30</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>1.30</baseImponible>
+<valor>0.20</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>29827</codigoPrincipal>
+<descripcion>ReyQueso Crema Red Grasa 250gr</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>2.350000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>2.35</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.35</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7352</codigoPrincipal>
+<descripcion>Atun V/Camp's tripack 80gr</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>2.300000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>2.30</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.30</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>18334</codigoPrincipal>
+<descripcion>NutraPro Gatos Esterilizado 2kg</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>7.650000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>7.65</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>7.65</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion Receptor">QUEVEDO</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature361069">
+<ds:SignedInfo Id="Signature-SignedInfo75041">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID922331" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature361069-SignedProperties173302">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>6qi9pnIHFFcGl9/tnJv4WgoFqQs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1652232">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>QOA89viXCcuOny+USMTaNJQv3oA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-579996" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>9R+7+O49/Oac6PRgVVYcj7Q9pgs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue912808">
+CmemY+SmVEkiH6d4p2Iq80QvxFHBTnaAZtNIcJG/qH5Nw97QqZPJ2fzULoOnAYsMRojpIcyQ6eK8
+N8ChsSsveWEjxeRb0zGszLpncyKMNsQM+a5uJeMJPWqCAya2Er8VjOZ/hs7vpQ6gXQMqE2TKLSzZ
+HmeZClGn6cWfC3r96FRZ0RkutD1JCoDO2X7jatMEzYgJh+EBRTiL4yymw0SkON17BjJGxo5r568e
+nDBUPE649oHSb9XV9VCIaftNO/oeHnGAVSoIDrWKEE1Dtqr3wFeyNQWVsafoJXa3LQKJFoJZkwwa
+DNUsHiTK7R0Y00bpzjVc8KU9ZwJBGr7reGY6Pg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1652232">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJiTCCB3GgAwIBAgIINCJ5/D5l2kwwDQYJKoZIhvcNAQELBQAwgYYxCzAJBgNVBAYTAkVTMRIw
+EAYDVQQHDAlCYXJjZWxvbmExFjAUBgNVBAoMDVVBTkFUQUNBIFMuQS4xFTATBgNVBAsMDFRTUC1V
+QU5BVEFDQTEaMBgGA1UEAwwRVUFOQVRBQ0EgQ0EyIDIwMjExGDAWBgNVBGEMD1ZBVEVTLUE2Njcy
+MTQ5OTAeFw0yNTEyMDMyMjI1MDBaFw0yOTEyMDIyMjI1MDBaMIHLMQswCQYDVQQGEwJFQzETMBEG
+A1UECgwKQ0FJVkVMIFMuQTEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMRQwEgYDVQQEDAtWRUxJ
+WiBWRUxJWjEYMBYGA1UEKgwPTVlSSUFNIFBBVFJJQ0lBMRkwFwYDVQQFExBJRENFQy0xODAxMzA2
+MjczMSQwIgYDVQQDDBtNWVJJQU0gUEFUUklDSUEgVkVMSVogVkVMSVoxHDAaBgNVBGEME1ZBVEVD
+LTEyOTE3ODU0MTMwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCmQ1OQn00McK/x
+zcVB8yJRLqzXhBAB1SwBYeyA3P1SuNm3z0Yk9n+SyMUztOqrKTLTDfF9seLgBBFCHJ69fPLC4w3j
+/DFuXiq4zVBgFxekBBNE60wGb9TbNUvadkFBAxZqA49tNlRshHz4TgzdKcC69k1+PeCkm5kWlUWy
++s+0vJwkCOEzjOstpE2/QfEuJZby9hYQi6t7Uopb3SmUAGjhXwNmEDtuk+i1cz3u9yBMw8jrZBwu
+n77dboxRBBDZA5geSwbbUXRmfg2WX3TOCxZi4K0KV8a19K3xRFX67gisenN3HGOTqJqRKHtEOL7C
+9rVAP5vCgJ+UodlIt36d1B+zAgMBAAGjggSyMIIErjAbBgsrBgEEAYLxNmYDAQQMDAoxODAxMzA2
+MjczMB4GCysGAQQBgvE2ZgMLBA8MDTEyOTE3ODU0MTMwMDEwge0GCCsGAQUFBwEBBIHgMIHdMGsG
+CCsGAQUFBzAChl9odHRwczovL3dlYi51YW5hdGFjYS5jb20vY29tbW9uL3Byb2plY3QvcGRmL2F1
+dG9yaWRhZC1jZXJ0aWZpY2FjaW9uLzA4X3N1Ym9yZGluYWRhLWNhMi0yMDIxLmNlcjA2BggrBgEF
+BQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUF
+BzABhipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYE
+FB0kNjhk53U66+G4SIgLwgfI9ecqMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUxeczJdjv1I3n
+U4fKolt1OouW3UowHAYDVR0SBBUwE4ERaW5mb0B1YW5hdGFjYS5jb20wgY4GA1UdIASBhjCBgzCB
+gAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVTRU5U
+QU5URSBFTiBBUkNISVZPMIGFBgNVHR8EfjB8MDygOqA4hjZodHRwOi8vY3JsMS51YW5hdGFjYS5j
+b20vcHVibGljL3BraS9jcmwvMjAyMUNBMnN1Yi5jcmwwPKA6oDiGNmh0dHA6Ly9jcmwyLnVhbmF0
+YWNhLmNvbS9wdWJsaWMvcGtpL2NybC8yMDIxQ0Eyc3ViLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIByQYDVR0RBIIBwDCCAbyBI3N1cGVydGllbmRh
+cXVldmVkby5jYWl2ZWxAZ21haWwuY29toBsGCysGAQQBgvE2ZgMBoAwMCjE4MDEzMDYyNzOgIAYL
+KwYBBAGC8TZmAwKgEQwPTVlSSUFNIFBBVFJJQ0lBoBYGCysGAQQBgvE2ZgMDoAcMBVZFTElaoBYG
+CysGAQQBgvE2ZgMEoAcMBVZFTElaoCAGCysGAQQBgvE2ZgMFoBEMD0dFUkVOVEUgR0VORVJBTKA3
+BgsrBgEEAYLxNmYDB6AoDCZBVi4gSlVORSBHVVpBTUFOIEVOVFJFIFNFWFRBIFkgU0VQVElNQaAf
+BgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5MTY3OTE1MKAYBgsrBgEEAYLxNmYDCaAJDAdRVUVWRURP
+oBsGCysGAQQBgvE2ZgMKoAwMCkNBSVZFTCBTLkGgHgYLKwYBBAGC8TZmAwugDwwNMTI5MTc4NTQx
+MzAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRF
+IExFR0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBAAjAm0Kf
+9bwTT9Qwk0vJFr9ECswGvGmYRJVauMMjpHNRax8JjXcODJHLY/qcyVWg2ay4JkSlAlMs/8XrtkZ9
+LYHgTMqhxsH20lrObSXKI3J3MIerYhfCTpP+YJDOxJQrdludf4JuE6gruswedHYqfLHGvw9aOQ0T
+nOGmVSs8PcUP2mSE2j0BG26ZQ7tDnTCVAey5VgpojG03vuLM1jBaqYFCBnKKkYPqyXQyImu0qpej
+FuK1ry7oU/JBURqslLkCWXAAv3WuLAZu1V2mgBFckymoq7OOFa4RVOJfyiO/Rwz3+LAAWVGZtqYt
+t97nVZZn8GH2eIPU49M6IW0n+oaAUmAya12EuM9ekjUV5FNkrYFyYXOzOv4GH5U7+9zh5/1062Lb
+XlXh4/B/AlJXC3GuGCLr2StKsMHqhH82zh2+8onuucwQqC+dONpdKeX8FicsepqWAAOuZgrGb6I+
++z4YCOeCYeddZM3puculwUEfZYpguT7r1JiT/2VqpTdtHlnflT5kdHLObdGRGN3AcI/wX9LuAmGa
+Fbdc6GNXhaT9aEknwK5oZY4uLnBkMp7Zl6kSGlAPlQ7u/LyvuMQ8ZDUoG+hLsmeVGF4Un8KEo0Fg
+LQS18fP82Kt6ot6TzRsAjehu4qvGSicfleMFCSvR/wJX2ClBMmmxQ5wZ0wGxLm1rJSkb
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pkNTkJ9NDHCv8c3FQfMiUS6s14QQAdUsAWHsgNz9UrjZt89GJPZ/ksjFM7Tqqyky0w3xfbHi4AQR
+QhyevXzywuMN4/wxbl4quM1QYBcXpAQTROtMBm/U2zVL2nZBQQMWagOPbTZUbIR8+E4M3SnAuvZN
+fj3gpJuZFpVFsvrPtLycJAjhM4zrLaRNv0HxLiWW8vYWEIure1KKW90plABo4V8DZhA7bpPotXM9
+7vcgTMPI62QcLp++3W6MUQQQ2QOYHksG21F0Zn4Nll90zgsWYuCtClfGtfSt8URV+u4IrHpzdxxj
+k6iakSh7RDi+wva1QD+bwoCflKHZSLd+ndQfsw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature361069-Object927391"><etsi:QualifyingProperties Target="#Signature361069"><etsi:SignedProperties Id="Signature361069-SignedProperties173302"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-19T10:57:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>6/lF52BuamuuT/yFxgyG1gOEr+w=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2021,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona,C=ES</ds:X509IssuerName><ds:X509SerialNumber>3756699163465996876</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-579996"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1004202601019510472700120015000000034411234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-10T15:21:35-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.0.0">
+<infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>DISTRIBUIDORA DOGS FASHION</razonSocial><nombreComercial>DISTRIBUIDORA DOGS FASHION</nombreComercial><ruc>0195104727001</ruc><claveAcceso>1004202601019510472700120015000000034411234567811</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>500</ptoEmi><secuencial>000003441</secuencial><dirMatriz>(CHIQUINTAD) VIA A CHIQUINTAD S/N</dirMatriz></infoTributaria><infoFactura><fechaEmision>10/04/2026</fechaEmision><dirEstablecimiento>(CHIQUINTAD) VIA A CHIQUINTAD S/N</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>LUVET S.A.S</razonSocialComprador><identificacionComprador>0195172951001</identificacionComprador><totalSinImpuestos>38.46</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>0</descuentoAdicional><baseImponible>38.46</baseImponible><valor>5.77</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>0.00</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>44.23</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>44.23</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>81.10</codigoPrincipal><codigoAuxiliar>81.10</codigoAuxiliar><descripcion>ISABELINO #10 PTK04F8011</descripcion><cantidad>3.00</cantidad><precioUnitario>1.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>3.00</baseImponible><valor>0.45</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>81.125</codigoPrincipal><codigoAuxiliar>81.125</codigoAuxiliar><descripcion>ISABELINO #12.5 PTK04F8012</descripcion><cantidad>3.00</cantidad><precioUnitario>1.30</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.90</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>3.90</baseImponible><valor>0.59</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>81.15</codigoPrincipal><codigoAuxiliar>81.15</codigoAuxiliar><descripcion>ISABELINO # 15 PTK04F8013</descripcion><cantidad>3.00</cantidad><precioUnitario>2.04</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>6.12</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>6.12</baseImponible><valor>0.92</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>81.20</codigoPrincipal><codigoAuxiliar>81.20</codigoAuxiliar><descripcion>ISABELINO #20 PTK04F8014</descripcion><cantidad>3.00</cantidad><precioUnitario>3.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>9.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>9.00</baseImponible><valor>1.35</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>81.30</codigoPrincipal><codigoAuxiliar>81.30</codigoAuxiliar><descripcion>ISABELINO #30 PTK04F8016</descripcion><cantidad>3.00</cantidad><precioUnitario>5.48</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>16.44</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>16.44</baseImponible><valor>2.47</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Nombre">LUVET S.A.S</campoAdicional><campoAdicional nombre="Email">luvet2026@gmail.com</campoAdicional><campoAdicional nombre="Dirección">EL CONSTITUCIONAL Y EL UNIVERSO S/N</campoAdicional><campoAdicional nombre="Teléfono">0995144084</campoAdicional><campoAdicional nombre="Vencimiento">10/5/2026</campoAdicional><campoAdicional nombre="Ciudad">CUENCA</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature130309">
+<ds:SignedInfo Id="Signature-SignedInfo693238">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID682403" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature130309-SignedProperties52555">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3PAUE9zHh/+ZY6gQtyr4uDzaLvo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1326435">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>FPc19bmsMnxNL44R0x+jq5klO6U=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-621208" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>tpt6x9Jar1EL2Kfv5zgyMHpi9oc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue76818">
+tM7oqNVzJWwRrZD9T27egZIiucJsJSKbuy6gYbULve7vQxDehbgMfJXxSlfgMcPMnmv9o+SRQ5BW
+K1hZihGc0driwePtpL7DAATUedjZqSWiMFHlzTefD/PVyNZCQNRM/KatU5L+DjPB1Cuwd/TrgFQ/
+zQwF5bIgDSqG1/oRyz5RaeM4Xc/Lx+hh3LIpcdwx63bdlRWB9NmPLB37wYh8+/8R4L0d1kd9HxBM
+orz3OfMts7B60UiKR75BxUuEOAq4PhQBuxoTzrcIarqEQN4I/u2EWazM8xWCX5jO+2zGlZ3ykG2p
+WYYT30iaOPYDD+i/UvQmQyDIVY2JwqishdvlGA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1326435">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJnjCCB4agAwIBAgIIEQsMVSenOsAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTEwODIwMTIwMFoXDTI4MTEwNzIwMTIwMFowgdkxCzAJBgNVBAYTAkVDMSMwIQYDVQQKDBpE
+SVNUUklCVUlET1JBIERPR1MgRkFTSElPTjEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMRUwEwYD
+VQQEDAxNRU5ERVogQVZJTEExFjAUBgNVBCoMDU1BUlRIQSBMVUNJTEExGTAXBgNVBAUTEElEQ0VD
+LTAxMDM3Nzk5MjIxIzAhBgNVBAMMGk1BUlRIQSBMVUNJTEEgTUVOREVaIEFWSUxBMRwwGgYDVQRh
+DBNWQVRFQy0wMTk1MTA0NzI3MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw5fh
+6NPtL57112BhJDVLMSygh/D1rPImuvx18LQQq1XLdlZ0Cc8DQ2WnIExFOEHU9A6TJzEnAomo4r8h
+Ez0rs0Xre9oDa0rHyqIrRQ2G6D5wg1yH25ddSDjh5IiNuTYCHANKTMx4qv+vxviBW3coI9npf1le
+PTekiBfDDJWm63wRpE6BeXwBg3AQZo581J4Rt9x2P5ZBJxHCV9hsMZOHMANuYLSBfcUlsiYw+exJ
+Xz8bqIWw+AkrhJKcpV7RG3QSg8u6R2/x0n1PzxWFhdgw3dhl1QVwbbVTJtYgseEVVffDh59Li2Ji
+IfRSKtLkviSLVSz50kG48SkUDwsJfTEyEQIDAQABo4IEhzCCBIMwGwYLKwYBBAGC8TZmAwEEDAwK
+MDEwMzc3OTkyMjAeBgsrBgEEAYLxNmYDCwQPDA0wMTk1MTA0NzI3MDAxMIHXBggrBgEFBQcBAQSB
+yjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2Fk
+L3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29j
+c3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2Nz
+cDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFCEGBCBAVoQ0Hpm9xBS9
+WYxfAfPNMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgY4G
+A1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8g
+REUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9j
+cmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyG
+Omh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5j
+cmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAcgGA1Ud
+EQSCAb8wggG7gRl2ZW50YXNAYmx1ZXNreWVjdWFkb3IuY29toBsGCysGAQQBgvE2ZgMBoAwMCjAx
+MDM3Nzk5MjKgHgYLKwYBBAGC8TZmAwKgDwwNTUFSVEhBIExVQ0lMQaAXBgsrBgEEAYLxNmYDA6AI
+DAZNRU5ERVqgFgYLKwYBBAGC8TZmAwSgBwwFQVZJTEGgIAYLKwYBBAGC8TZmAwWgEQwPR0VSRU5U
+RSBHRU5FUkFMoDIGCysGAQQBgvE2ZgMHoCMMIUNBTExFOiBWSUEgQSBDSElRVUlUQUQgTk1FUk86
+IFMvTqAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk4NzcwMjk4MaAXBgsrBgEEAYLxNmYDCaAIDAZD
+VUVOQ0GgKwYLKwYBBAGC8TZmAwqgHAwaRElTVFJJQlVJRE9SQSBET0dTIEZBU0hJT06gHgYLKwYB
+BAGC8TZmAwugDwwNMDE5NTEwNDcyNzAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLx
+NmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJ
+KoZIhvcNAQELBQADggIBADGiqULjWmc3XnchVrMRyWSCSRoVNSrmGKK/RkqOVELXIP9Qxmvr/4GL
++2sy2hsDWia2hOctQw9IeK3T53f5fxx7Lv3G54v7EvpQUhN1eAkvpHQAByIXdJixBKMThg77FAH4
+metkyKSVG85tFBiXH8GqJYOPM7DvbTWuWgnj0AnVB8dXfRJihGXvPNt6uLnwvraUA2bglYnamzhU
+D++A7JbqFLLyu9dRCNmcHoPvdz5+Q5A/hdo5uwUc3McyfTVc5rah1OSC4eUV76QXi/Xf+HmB6kiX
+nxd4W0G5HxLLjVIQ22L4xQpFTZ4nkIbuQEp41c5XXnvBfBOfKJCFV7s/TqFiTFH7bqM0SxhjMLRR
+s6JvvtLeRur8IQVAqEMNXxD2k7xN+pf/AqKJPuE0Q4imke5CqD1xvsvMtqTiWbQeOr0orpp8unH8
+yRZWCDsOw2Whmld5Wtk/53MkDkUfUfE9oLf2VYRc+k2WWerTXTokZiop0L3V04zhAPP0HwijCyKE
+0XKNSIS4j78uXMM+xxPGp97dk8QJ0gNU//BiHd/xSFA7cvAuG7I8kUKbHKIcI3RwDcBln8J21rjb
+ea1Qee78lMfKKWKF1o1dt2sxTjiKdVMw0rlHOg9qL7K32E57ewiIR9XCdqX5lLPUmGCbmXtWt5VD
+egtPXPX2kOZM1n5ZWwrR
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+w5fh6NPtL57112BhJDVLMSygh/D1rPImuvx18LQQq1XLdlZ0Cc8DQ2WnIExFOEHU9A6TJzEnAomo
+4r8hEz0rs0Xre9oDa0rHyqIrRQ2G6D5wg1yH25ddSDjh5IiNuTYCHANKTMx4qv+vxviBW3coI9np
+f1lePTekiBfDDJWm63wRpE6BeXwBg3AQZo581J4Rt9x2P5ZBJxHCV9hsMZOHMANuYLSBfcUlsiYw
++exJXz8bqIWw+AkrhJKcpV7RG3QSg8u6R2/x0n1PzxWFhdgw3dhl1QVwbbVTJtYgseEVVffDh59L
+i2JiIfRSKtLkviSLVSz50kG48SkUDwsJfTEyEQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature130309-Object501866"><etsi:QualifyingProperties Target="#Signature130309"><etsi:SignedProperties Id="Signature130309-SignedProperties52555"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-10T15:19:41-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>XY0NAw8ng4b3PqBZJi/dvXvlbfU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>1228088883265616576</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-621208"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1204202601099337843700120010010000863364125251418</numeroAutorizacion>
+<fechaAutorizacion>2026-04-12T15:33:38-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>ADMIFOOD S.A.S.</razonSocial><nombreComercial>ADMIFOOD S.A.S.</nombreComercial><ruc>0993378437001</ruc><claveAcceso>1204202601099337843700120010010000863364125251418</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000086336</secuencial><dirMatriz>Av benjamín carrion y dr Felipe pezo, Cc city mall</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>12/04/2026</fechaEmision><dirEstablecimiento>GUAYAS / GUAYAQUIL / GUAYAQUIL / EDIFICIO TRADE BUIDING Y TORRE A PISO 7</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>Kapicchi</razonSocialComprador><identificacionComprador>0993377775001</identificacionComprador><direccionComprador>N/A</direccionComprador><totalSinImpuestos>8.95</totalSinImpuestos><totalDescuento>0.0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>8.95</baseImponible><valor>1.34</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>0.0</baseImponible><valor>0.0</valor></totalImpuesto></totalConImpuestos><propina>0.0</propina><importeTotal>10.3</importeTotal><moneda>DOLARES</moneda><pagos><pago><formaPago>19</formaPago><total>10.3</total><plazo>0</plazo><unidadTiempo>Dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>Promo jugo 4</codigoPrincipal><codigoAuxiliar>1003</codigoAuxiliar><descripcion>Bebida 7onz limón</descripcion><cantidad>1.000</cantidad><precioUnitario>0.000000</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.0</baseImponible><valor>0.0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>136</codigoPrincipal><codigoAuxiliar>1004</codigoAuxiliar><descripcion>1/2 COSTILLAR</descripcion><cantidad>1.000</cantidad><precioUnitario>7.391300</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>7.39</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>7.39</baseImponible><valor>1.11</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>164</codigoPrincipal><codigoAuxiliar>1005</codigoAuxiliar><descripcion>PORCION MADURO CON QUESO</descripcion><cantidad>1.000</cantidad><precioUnitario>1.562500</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>1.56</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>1.56</baseImponible><valor>0.23</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="email">admifood22@gmail.com</campoAdicional><campoAdicional nombre="direccionCliente">N/A</campoAdicional><campoAdicional nombre="formaPago">Tarjetas</campoAdicional><campoAdicional nombre="observacion1">N/A</campoAdicional><campoAdicional nombre="cajero">MARIA BELEN LEAL ARMIJOS</campoAdicional><campoAdicional nombre="telefono">N/A</campoAdicional><campoAdicional nombre="compensacion">0.0</campoAdicional><campoAdicional nombre="fechavencimiento">12/04/2026</campoAdicional><campoAdicional nombre="mensajecontribuyente">Agente de Retención Resolución #10</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature320601">
+<ds:SignedInfo Id="Signature-SignedInfo657795">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID188196" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature320601-SignedProperties279412">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>er2QpFBj8nDgpDiHl2t+McFNA7M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1288877">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ChPwL6sbFyUqR6vaQbJ9puGmNsQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-150337" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>nvds0FP4c4GKrzmtRkaZI+IhVFI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue484684">
+M4ULD1qaUS5tA1kvGlNujLYKTkH/WgewkpEDx1sBZmbTOeXoxrlP0ILXLT7xSlMTBtVDDKcciDSF
+YTDOUj+eyI2hrmDDzW5Cf8XE17LBF2aCE89vQantVWYGcx2dN4jrb9jImDg7crJVy15NQeckSdhd
+580Uzh63sWqTKFFweMSucnZMSa5aXInAZyeN/b4nPbRYnsFgs9stgt2/qJN6DPk2dNBJIyoeF1Nc
+JKckaW/wlrbt3oplNQJ5mo96Fis/md/EV/8pzqF8AmJAa1ZIcMOi6XyWCUESX/QLilA9ubxFkDJR
+4Q16+RJpDbZFgjYrxmPM0HY3w/fp/8z0apaatg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1288877">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKyTCCCLGgAwIBAgIIVsjQOYZYPjgwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMzA2MTc0ODE2WhcNMjgwMzA1MTc0ODE2WjCB
+pjEkMCIGA1UEAwwbQ0FSTE9TIEFORFJFUyBaVVJJVEEgUEFSS0VSMSAwHgYDVQQFExcwOTEyMDE2
+NzQ4LTA2MDMyNjEyNTgwNzEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDAWCJRh0bc2IBzI5tbXDSk/QVkqN+BbBxcaAok
+HirL/v0I7QkU9h6fGX76pokikaKBS5y1UB30tizIC9FBL0E+9rt042u3yyNyKUujACl9CJ0L7InQ
+Eau8mJgtNkJ7g25MI2yuBD0isvTdy/kyVLiJhQG5K9+XU568i2tg/J4IuZVrALJiGDeX3FN3hz0q
+Jae52m+kthTS77Od56pxJDW8yNV4/f0/76GeLJevTOGHlORYNiALekVqmt1wokUmHmpZAOLrXA7u
+0tH3Zaz7IMM//O4Og/YCE9a4nyd5ilLwDgThsMII6iMYgE/z+cj4uH2+PrA6KPU48SLW3SEWqtpR
+AgMBAAGjggYEMIIGADAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAjBgNVHREEHDAagRhhZXNwaW5v
+emFkbG1AaG90bWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYB
+BQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0
+AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0
+cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRp
+dmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRh
+bnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIG
+MIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9j
+cmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZp
+bGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUMwHQYDVR0OBBYEFBmyudrWy5B+ZWJJQSoJl+mJ8RZxMCsGA1UdEAQkMCKADzIwMjYwMzA2
+MTc0ODE2WoEPMjAyODAzMDUxNzQ4MTZaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dF
+UkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjA5MTIwMTY3NDgwFgYKKwYBBAGCpnIDCQQI
+DAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMDcGCisGAQQBgqZyAwcEKQwnQVYgQkVOSkFNSU4g
+Q0FSUklPTiBGQzAwNiBZIEZFTElQRSBQRVpPMB0GCisGAQQBgqZyAwIEDwwNQ0FSTE9TIEFORFJF
+UzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTExNzk3OTATBgorBgEEAYKmcgMhBAUMA1BGWDAX
+BgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZaVVJJVEEwHgYKKwYBBAGC
+pnIDCgQQDA5BRE1JRk9PRCBTIEEgUzAdBgorBgEEAYKmcgMLBA8MDTA5OTMzNzg0MzcwMDEwEQYK
+KwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGUEFSS0VSMBoGCisGAQQBgqZyAwgEDAwK
+MDk5MzYyMDcxNTANBgkqhkiG9w0BAQsFAAOCAgEAcYz6VHhEMW0tBt2rCey5oAHjN0szUFgkUPPQ
+GsAJKAhLAe21siK8JpczPkm4hXktRfailgp2HQQb8lmXgi365+HlVl8d/vHV591Dj/aMFgr68N+9
+T2qkbgqiBdsy5eHRghvEyxXUtqJPTuhGjHBELbd+d2rNDhR+aLoa++cK0iXKdpB9rzGrcZtxea7j
+xS+Lui8cEmuNXZnLIcT9PGIBhmQTuz6qcH6uT09XEr+EByJO9Fwu1cm1QANXKkUagh+q+1SHgwoK
+XP4z180aZ4HL3ydRVre7DB6GFyIt5V5ug1PQareyE/fphEuVOIa6z9L/i+8hnXpLAuI9ELQow22Y
+cCWJQ6Rs9Ncxa3iHEFP1UFJT88C7LvUzJXtnt0yUVIAddTOpVtbDOmpjLc6YsfESZHBt5jvun0bO
+zXXXDOHpXxcRnPQdl6Ia+OwlkUHMpaJlpALNXUN3fXGQ3TLUVWwZLqRFRCP5Cfu4tjubSQ/+zM+v
+sJfxlTPaO4ijUEiONSpP4Z/JMCDtq2vL+N7xS6oJ7zJvFh/G81/KsrIC3NFzO7Ub37uXZLaHREAp
+gJx7m4A8eu9O0IjP7gMroB+BbqosOZ9TY6IK44v3gu7d+tiHstDQW/APC/EXePDhD4a9J8l5R16r
+XP4EmaBu1UoL3fcvJvhIh4wUEY2r3DiY+qykt5c=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wFgiUYdG3NiAcyObW1w0pP0FZKjfgWwcXGgKJB4qy/79CO0JFPYenxl++qaJIpGigUuctVAd9LYs
+yAvRQS9BPva7dONrt8sjcilLowApfQidC+yJ0BGrvJiYLTZCe4NuTCNsrgQ9IrL03cv5MlS4iYUB
+uSvfl1OevItrYPyeCLmVawCyYhg3l9xTd4c9KiWnudpvpLYU0u+zneeqcSQ1vMjVeP39P++hniyX
+r0zhh5TkWDYgC3pFaprdcKJFJh5qWQDi61wO7tLR92Ws+yDDP/zuDoP2AhPWuJ8neYpS8A4E4bDC
+COojGIBP8/nI+Lh9vj6wOij1OPEi1t0hFqraUQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature320601-Object307708"><etsi:QualifyingProperties Target="#Signature320601"><etsi:SignedProperties Id="Signature320601-SignedProperties279412"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-12T15:33:37-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>EIwAz3AAcRllqosjX1rBcmRWlIY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>6253477028089577016</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-150337"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

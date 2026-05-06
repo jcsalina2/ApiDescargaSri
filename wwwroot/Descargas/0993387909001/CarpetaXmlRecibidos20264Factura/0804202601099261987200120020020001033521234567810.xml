@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601099261987200120020020001033521234567810</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T17:17:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>METALES HIDALGO METAHIDALGO SA</razonSocial>
+    <nombreComercial>METALES HIDALGO METAHIDALGO SA</nombreComercial>
+    <ruc>0992619872001</ruc>
+    <claveAcceso>0804202601099261987200120020020001033521234567810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000103352</secuencial>
+    <dirMatriz>GARCIA MORENO 3700 Y COLOMBIA</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>08/04/2026</fechaEmision>
+    <dirEstablecimiento>GARCIA MORENO 3700 Y COLOMBIA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ASTECNAVIND SAS</razonSocialComprador>
+    <identificacionComprador>0993387909001</identificacionComprador>
+    <totalSinImpuestos>28.75</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>28.75</baseImponible>
+        <tarifa>15.00</tarifa>
+        <valor>4.31</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>33.06</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>33.06</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>BA11.2</codigoPrincipal>
+      <descripcion>BRONCE AL ALUMINIO 1 1/2</descripcion>
+      <cantidad>1.1500</cantidad>
+      <precioUnitario>25</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>28.75</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>28.75</baseImponible>
+          <valor>4.31</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature89966">
+<ds:SignedInfo Id="Signature-SignedInfo328886">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID715053" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature89966-SignedProperties327066">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>06yvklma/rIvQ2+XU0rcXZ8LjvY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1642405">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>8I0IMHgGhkzM+UJ20a9Vn6419bc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-779541" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>zveLeNUk/Rv+B7rP4qP2BW2mIOQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue255127">
+Nc8y8vRtoP6W3vCYtY+K40oT2/1kxEgHXvKMuy2KRs1VeF+jblOiqU860l/oYis9Kn/qDBgEw1ch
+YaP8Ltdtve0O6tQSbRjChLZXsJ2T4afeDRFfVMlsRZOPggjJyObnSWUb8oqU/jvZadq3vcQcudil
+10/yE+j5Om/+UTGG106sp6NTUMeBr+F2aYXtETgJ74lzHQyEW2gULjqMd3FlSj9/WB05N0jixUBY
+NNgGDoqFaP7V4KJbuB2922rYVSvKosVnB9Db3aonpR38DYoD52CcHHv47B9f69DiGmXgICmX7PPD
+KZw9hLZG1sugXa5R6OW6G/BROO0IcLXhaMysKA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1642405">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK0DCCCLigAwIBAgIILLUV3kocusgwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMDA0MTcwNTU1WhcNMzAxMDA0MTcwNTU1WjCB
+pDEiMCAGA1UEAwwZSlVBTiBDQVJMT1MgSElEQUxHTyBMT1BFWjEgMB4GA1UEBRMXMDkxNzIxMDk2
+NS0wNDEwMjUxMjE1NDYxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuGs08KySdL/X7YaVkAf/eq773F+M36jbAxI+6uF7
+SEO0yoStv9FpzLUL26ma7hbLtvfHsO7eXOmf2V6qTcrSf9iDbkDI7uOqvt8V6GZHVN0qw9Iye8F2
+1E1Z9xRyGSQSwRF3P3KG+07J59fS1IL92VrfuPErBJ0jj28A/MSCf4SGnGrcfZcSCqZQOW5f5qFl
+YRWhs7jyEuThJOGZvNTpWFtbhk6+hkVXTHv23UNl6BSiLBjGPWsXCgy/WT/vtm6QXyCGEmc+pjwD
+1iCTpWnWip6aygxunzZIC0ppKhpn563AtnS+GZ4WRBcbyfZmMPGhg94qZWQjKQ9XVtKgzEOCkwID
+AQABo4IGDTCCBgkwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29
+jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIAYDVR0RBBkwF4EVbWV0YWhpZGFs
+Z29AZ21haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwIC
+MEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4A
+dABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8v
+d3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9Q
+X2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBM
+ZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIw
+gd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmls
+ZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNB
+LTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6
+oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNy
+bDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVj
+L2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9S
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERF
+IENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVD
+MB0GA1UdDgQWBBRrpKyKRTmcx+mHNy1yGVoMI7aTEjArBgNVHRAEJDAigA8yMDI1MTAwNDE3MDU1
+NVqBDzIwMzAxMDA0MTcwNTU1WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRF
+IEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTE3MjEwOTY1MB0GCisGAQQBgqZyAwkEDwwNR0FS
+Q0lBIE1PUkVOTzARBgorBgEEAYKmcgMiBAMMAS4wLQYKKwYBBAGCpnIDBwQfDB1HQVJDSUEgTU9S
+RU5PIDM3MDAgWSBDT0xPTUJJQTAbBgorBgEEAYKmcgMCBA0MC0pVQU4gQ0FSTE9TMB8GCisGAQQB
+gqZyAyAEEQwPMDAxMDAyMDAxMDU1MDU4MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZy
+AwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0hJREFMR08wLwYKKwYBBAGCpnIDCgQhDB9N
+RVRBTEVTIEhJREFMR08gTUVUQUhJREFMR08gUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MjYxOTg3
+MjAwMTARBgorBgEEAYKmcgMdBAMMAS4wFQYKKwYBBAGCpnIDBAQHDAVMT1BFWjAaBgorBgEEAYKm
+cgMIBAwMCjA5ODE2MjczNDAwDQYJKoZIhvcNAQELBQADggIBAFRtwA0boNJRNmbcZ9iIVcZsMxAx
+8DlSv8XEYd+qT+0XnBJZPNNb/oEyOVLapW5pFlEpgVaXlLZLzUIOGk5hueKzwUGF1YMRP6FDMgdF
++eQOS/DVPkPnl9tsXvx+yIxcXu7hsSdKP/DBRDDvMbqXTKG03f7BGCGJJcvUuvnjeaINpkUjUVtm
+a+vr9IKZnw1v6V4tkR6iJCqCwz6wx1yqRDi6nU5Eng1jMbctQKXCyxfOFC59kTOfaSQAYpZiU30n
+IDaul+Evs4ybUQUhZVonIIvnmINCnTJ/CwS4FhH0mxK8QVO5hYZ152cfsqC3nH9I2UdNE449nRMy
+aK/MguspWFw1Y+RnbNK6YDAvuGqRfbuV2xXpGA64I4c+wwtT+OX5DB2nXFgAKpx6S74RMOPOvDoJ
+TQHmsHlYP1wZnxNPCbAWmV+TkcxDw0PaxhVMd167Nb0P1g4nN2aJQdMuZmpNRhY0tHkVcb2xKRpM
+PRBjaKAXA6icFPJzdZr3TtioDpJgHKWulASxqWfQXlO4Z+TkhqVMK3yByoVz/U3N3VftCrfZF6+f
+bkfFBdgbgmJlDtzjey3qjQXgJFlhlo2PqSr8X4EYhYWyEMGwRO4SRStWHVADShobp6vNnx6hvLSD
+qfIuLxlk05F7Her1JJdn9hyOWMgzO1Q1SttkY6XjvqGHIaDC
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uGs08KySdL/X7YaVkAf/eq773F+M36jbAxI+6uF7SEO0yoStv9FpzLUL26ma7hbLtvfHsO7eXOmf
+2V6qTcrSf9iDbkDI7uOqvt8V6GZHVN0qw9Iye8F21E1Z9xRyGSQSwRF3P3KG+07J59fS1IL92Vrf
+uPErBJ0jj28A/MSCf4SGnGrcfZcSCqZQOW5f5qFlYRWhs7jyEuThJOGZvNTpWFtbhk6+hkVXTHv2
+3UNl6BSiLBjGPWsXCgy/WT/vtm6QXyCGEmc+pjwD1iCTpWnWip6aygxunzZIC0ppKhpn563AtnS+
+GZ4WRBcbyfZmMPGhg94qZWQjKQ9XVtKgzEOCkw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature89966-Object833680"><etsi:QualifyingProperties Target="#Signature89966"><etsi:SignedProperties Id="Signature89966-SignedProperties327066"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-08T17:07:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>gL7CwAKh/3Am2u+x55Z/ce4mbxA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3221505152923777736</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-779541"><etsi:Description>METALES HIDALGO S.A. </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

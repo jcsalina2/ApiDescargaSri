@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601099302050800120070010000006453121521410</numeroAutorizacion>
+<fechaAutorizacion>2026-04-29T16:37:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura version="2.1.0" id="comprobante">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ESCUELA DE MUSICAL ARTE&amp;ARMONIA SA</razonSocial>
+    <nombreComercial>ESCUELA DE MUSICAL ARTEYARMONIA SA</nombreComercial>
+    <ruc>0993020508001</ruc>
+    <claveAcceso>2904202601099302050800120070010000006453121521410</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>007</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000645</secuencial>
+    <dirMatriz>Na</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>29/04/2026</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>JARA ITURRALDE MIGUEL ANGEL</razonSocialComprador>
+    <identificacionComprador>0923295786001</identificacionComprador>
+    <direccionComprador>Vía a las Costa</direccionComprador>
+    <totalSinImpuestos>46.090000</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>46.090000</baseImponible>
+        <tarifa>15.000000</tarifa>
+        <valor>6.91</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <importeTotal>53.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>53.00</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>N/A</codigoPrincipal>
+      <descripcion>Sangria</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>5.000000</baseImponible>
+          <valor>0.75</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>N/A</codigoPrincipal>
+      <descripcion>Choclito</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>4.250000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>8.500000</baseImponible>
+          <valor>1.28</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>N/A</codigoPrincipal>
+      <descripcion>Tablita de quesos</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>11.990000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>11.99</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>11.990000</baseImponible>
+          <valor>1.80</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>N/A</codigoPrincipal>
+      <descripcion>TE HELADO DE LA CASA</descripcion>
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>2.500000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>7.500000</baseImponible>
+          <valor>1.13</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>N/A</codigoPrincipal>
+      <descripcion>Hojaldre higo</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.100000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.10</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>5.100000</baseImponible>
+          <valor>0.77</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>N/A</codigoPrincipal>
+      <descripcion>Focaccias</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>8.000000</baseImponible>
+          <valor>1.20</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Referencia">Fact 007-001-000000645</campoAdicional>
+    <campoAdicional nombre="Vendedor">Administrador</campoAdicional>
+    <campoAdicional nombre="E-mail">contabilidad1.armonia@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature5707e0e6-587b-4d5f-aedd-de63710e1986">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" Id="SignedPropertiesIDb844c5f7-7c5b-48f4-836e-1a70bcbb7384" URI="#Signature5707e0e6-587b-4d5f-aedd-de63710e1986-SignedPropertiesID0b5e6835-729c-48eb-89f9-f37fb38969b5">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>KIaShF9RSrU12oW66Tca5BGVm/o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificated0aac78f-ff95-4a6e-a1f4-8f9e2ee71a16">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>m2dPbQUwO2Nd0UmsjsqfDw9PSvQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#comprobante" Id="Reference-ID-b89665cb-cadd-4730-8bf3-09f4454f71d6">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uP9O7+ZHC9es5eetkryB+HH6r/4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>M1kOXrENuRyTB9/Brp9KcIVUK4K5FM5waCaWZqFYxBMDE51gDDnBvY8vTt0MOpycN9cgnKg+ssui
+vQcn5WmeOZh9Nsd/28imbOSEU70HwYpM0JebZz8LTL0bKN1fK4dmSXWf9ekKVrMctvZYEHYQ8aVO
+573/UWkhDzuifIbXUCvx4TsfeNgSlp//8uRPUABr8RvCPaRJiM929glBfV34lVf0jKKZM+GZUIer
+c25XuQPROTZYtdjxZwL7vGkHrVnYOT7VRhEoYuUuAkZgd9Erke670CuD8tzDaENtThcJZbRo3HQ0
+dXrZUCKAp3YgTyUwqSLPD2BGPvcOHRC6nL/d+A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificated0aac78f-ff95-4a6e-a1f4-8f9e2ee71a16">
+<ds:X509Data>
+<ds:X509Certificate>MIIIjDCCB3SgAwIBAgIFAMIG7GcwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI2
+MDQxMDE2MjAwNVoXDTI4MDQwOTE2MjAwNVowgaQxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEkMCIGA1UEAwwb
+TUlHVUVMIEFOR0VMIEpBUkEgSVRVUlJBTERFMTIwMAYJKoZIhvcNAQkBFiNjb250YWJpbGlkYWQu
+YXJ0ZXlhcm1vbmlhQGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKya
+JGNGEf4cgCblhoNMrhQDPinMkkvcqbJNOHXdCUiD9IYexANSws9IbcUcxLv+ne97DGt0PKlgGxox
+j/JMshkrZvQhqzXjg7bMhEDhlbUy2SqR8VmIHUWJtrsGECliG7DqCfNCpnHWDNOnH99ZnFeiUJVu
+esf/30QwMA/aE3g4SHK1i8Xhq5TosLtRByV6x627xs1e16+KSfXGrgjXOL6F9MMIH/HvKkuvSXx1
+WHakd6msYJhd93MuCRAh7WI41IzwjK+rDRbIAzqBlpvMB5mfh7mjLoT/MQtPgywAqBi+mGz6kZ2V
+MP4xuvaQsmH0si8g8aXwnyINoyE2KKrzN6ECAwEAAaOCBR8wggUbMBoGCisGAQQBg892AwEEDAwK
+MDkyMzI5NTc4NjAcBgorBgEEAYPPdgMCBA4MDE1JR1VFTCBBTkdFTDAUBgorBgEEAYPPdgMDBAYM
+BEpBUkEwGQYKKwYBBAGDz3YDBAQLDAlJVFVSUkFMREUwHwYKKwYBBAGDz3YDBQQRDA9HRVJFTlRF
+IEdFTkVSQUwwIgYKKwYBBAGDz3YDBwQUDBJHVUFZQVMgLyBHVUFZQVFVSUwwGgYKKwYBBAGDz3YD
+CAQMDAowOTY5MTQ5MjU2MBkGCisGAQQBg892AwkECwwJR3VheWFxdWlsMBcGCisGAQQBg892AwwE
+CQwHRUNVQURPUjAdBgorBgEEAYPPdgMLBA8MDTA5OTMwMjA1MDgwMDEwNAYKKwYBBAGDz3YDCgQm
+DCRFU0NVRUxBIERFIE1VU0lDQUwgQVJURSZBUk1PTklBIFMuQS4wDAYDVR0TAQH/BAIwADAdBgNV
+HQ4EFgQUAQD9lROK7KD7xcEOpyQq8RwtjSQwHwYDVR0jBBgwFoAU7XZIsArxyYaGDExGZNIG+MzV
+vT4wDgYDVR0PAQH/BAQDAgXgMDoGA1UdHwQzMDEwL6AtoCuGKWh0dHA6L2VuZXh0Mi54eXovTGF6
+emF0ZUNBMi9lbWlzb3JDQTIuY3JsMIIBhAYDVR0gBIIBezCCAXcwfAYKKwYBBAGDz3YCAjBuMGwG
+CCsGAQUFBwICMGAaXkVsIHByZXNlbnRlIGNlcnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBh
+IGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wgfYGCSsG
+AQQBg892AjCB6DBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0
+aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEu
+IEx0ZGEuMHgGCCsGAQUFBwICMGwaakVsIHByZXNlbnRlIGNlcnRpZmljYWRvIHN1Ym9yZGluYWRv
+IGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6
+YXRlIENpYS4gTHRkYS4wggFiBgNVHREEggFZMIIBVaAaBgorBgEEAYPPdgMBoAwMCjA5MjMyOTU3
+ODagHAYKKwYBBAGDz3YDAqAODAxNSUdVRUwgQU5HRUygFAYKKwYBBAGDz3YDA6AGDARKQVJBoBkG
+CisGAQQBg892AwSgCwwJSVRVUlJBTERFoB8GCisGAQQBg892AwWgEQwPR0VSRU5URSBHRU5FUkFM
+oCIGCisGAQQBg892AwegFAwSR1VBWUFTIC8gR1VBWUFRVUlMoBoGCisGAQQBg892AwigDAwKMDk2
+OTE0OTI1NqAZBgorBgEEAYPPdgMJoAsMCUd1YXlhcXVpbKAXBgorBgEEAYPPdgMMoAkMB0VDVUFE
+T1KgHQYKKwYBBAGDz3YDC6APDA0wOTkzMDIwNTA4MDAxoDQGCisGAQQBg892AwqgJgwkRVNDVUVM
+QSBERSBNVVNJQ0FMIEFSVEUmQVJNT05JQSBTLkEuMDwGCCsGAQUFBwEBBDAwLjAsBggrBgEFBQcw
+AYYgaHR0cDovL2VuZXh0Mi54eXo6ODc3Ny9hZHNzL29jc3AwDQYJKoZIhvcNAQELBQADggEBADHt
+ApfgrrjQq2+62KvyMy0mo7+jczru+znN7l5XYTMFJbEOOnIEcm1ZulCB7Jnn7+/dTMewVtSNPobg
+O1DouUK32OHMieFhcbDX8U7+vh2tXHojeD3w6NsGjpRGL4nwnRyPVLHrfVR1jycPdBtNA/Tw6i6y
+H67I25Ee8uwk4C8jKtCmkFHIzfEAEsjYB86LxAwW11GfNIjkFXgfmVnRmuHgnkZuhHoX3SFKv+38
+eGT2sduqhBipg/Bpkm8DvO2DHaf0WL3nV2CsEBcIFPJ4aHU/oCiKFd2Ca7H5bZvzmpx/QMyDvGrh
+Hs9+08in1aXDECOQaYAFSEYwoE5PVW//7s4=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>rJokY0YR/hyAJuWGg0yuFAM+KcySS9ypsk04dd0JSIP0hh7EA1LCz0htxRzEu/6d73sMa3Q8qWAb
+GjGP8kyyGStm9CGrNeODtsyEQOGVtTLZKpHxWYgdRYm2uwYQKWIbsOoJ80KmcdYM06cf31mcV6JQ
+lW56x//fRDAwD9oTeDhIcrWLxeGrlOiwu1EHJXrHrbvGzV7Xr4pJ9cauCNc4voX0wwgf8e8qS69J
+fHVYdqR3qaxgmF33cy4JECHtYjjUjPCMr6sNFsgDOoGWm8wHmZ+HuaMuhP8xC0+DLACoGL6YbPqR
+nZUw/jG69pCyYfSyLyDxpfCfIg2jITYoqvM3oQ==
+</ds:Modulus>
+<ds:Exponent>AQAB
+</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature5707e0e6-587b-4d5f-aedd-de63710e1986" Id="Signature5707e0e6-587b-4d5f-aedd-de63710e1986"><etsi:SignedProperties Id="Signature5707e0e6-587b-4d5f-aedd-de63710e1986-SignedPropertiesID0b5e6835-729c-48eb-89f9-f37fb38969b5"><etsi:SignedSignatureProperties><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>v0CTTXgL2v2I0afwuOsmIl5ypOI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3255233639</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-b89665cb-cadd-4730-8bf3-09f4454f71d6"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2604202601179074611900120440130000412241790746112</numeroAutorizacion>
+<fechaAutorizacion>2026-04-26T12:45:46-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>COMOHOGAR S.A</razonSocial>
+    <nombreComercial>COMOHOGAR S.A</nombreComercial>
+    <ruc>1790746119001</ruc>
+    <claveAcceso>2604202601179074611900120440130000412241790746112</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>044</estab>
+    <ptoEmi>013</ptoEmi>
+    <secuencial>000041224</secuencial>
+    <dirMatriz>CARVAJAL S/N Y AV. MARISCAL ANTONIO JOSE DE SUCRE</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>26/04/2026</fechaEmision>
+    <dirEstablecimiento>AV. DE LAS AMERICAS Y AV. ORDOÑEZ LASSO, PLAZA AMERICAS</dirEstablecimiento>
+    <contribuyenteEspecial>5368</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Miguel Jara</razonSocialComprador>
+    <identificacionComprador>0923295786</identificacionComprador>
+    <direccionComprador>Via Al Sol Mz579 V.16</direccionComprador>
+    <totalSinImpuestos>23.46</totalSinImpuestos>
+    <totalDescuento>2.61</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>23.46</baseImponible>
+        <valor>3.52</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.0</propina>
+    <importeTotal>26.98</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>26.98</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>4405.0042</codigoPrincipal>
+      <codigoAuxiliar>0197639217197</codigoAuxiliar>
+      <descripcion>TAZA DOBLE PARED P/ESPRESSO 70ML JGOX2 CLEAR VIDRIO Marca: SHANDONG PACETGREEN Modelo: 7093 GARANTIA: 1 meses </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>11.3</precioUnitario>
+      <descuento>1.13</descuento>
+      <precioTotalSinImpuesto>10.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>10.17</baseImponible>
+          <valor>1.53</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>4405.0039</codigoPrincipal>
+      <codigoAuxiliar>0197639217166</codigoAuxiliar>
+      <descripcion>VASO DOF DOBLE PARED 250ML JGOX2 CLEAR VIDRIO Marca: SHANDONG PACETGREEN Modelo: 7090 GARANTIA: 1 meses </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>14.77</precioUnitario>
+      <descuento>1.48</descuento>
+      <precioTotalSinImpuesto>13.29</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>13.29</baseImponible>
+          <valor>1.99</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ICE-FPE-03</codigoPrincipal>
+      <codigoAuxiliar>1153300060010</codigoAuxiliar>
+      <descripcion>FUNDA/BOLSA PLÁSTICA EXCENTA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.0</precioUnitario>
+      <descuento>0.0</descuento>
+      <precioTotalSinImpuesto>0.0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.0</baseImponible>
+          <valor>0.0</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0.0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">arteyarmonia.escuela@gmail.com</campoAdicional>
+    <campoAdicional nombre="Gran Contribuyente">GRAN CONTRIBUYENTE SEGUN RESOLUCION Nro. NAC-GCFOIOC21-00001154-E del 30 de abril del 2021</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature501217">
+<ds:SignedInfo Id="Signature-SignedInfo781462">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID29847" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature501217-SignedProperties443177">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>fD1TdTRc78VXB/uurBdaP1QVO1M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate140457">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>1bjWtHoKkIZDrZVUFQOBjPHzpoU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-83613" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>zoefmYfbGmbIlJin4fqG7DFS4R4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue82247">
+d7TpGnuoT8iDj4332irpExylZrrmeOGEOWw9awJ3eP85Nl+peYE+/04qq3dlQBSU1qyTeFjauONa
+UPjSy5kcPrxdP1sAqDsPI+ySqv0dKUJsTy0NlvbvBN5a4PsiV8UiNVPxBLKFBn+/eZCFMCK4yOJP
+IS0N9Z9o52w65sv5VtlhvUFgt450Rq2Gi8zlnBIzVMEtAm4HRgnq0Lo5WhP2FwANpLC/PCwPQ8Od
+iZx+ZWrCqwFPX7XBTe0P9Mmgv2wJnV/MkAvg9AaSNNVegY2uBgcbK9AWo3iR8UBrucaxhuE4+UGN
+VgaEUqdvL3ktSuli4CmfKIYgESFHpcGSkUwIjw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate140457">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK7jCCCNagAwIBAgIEVjcnBjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA2MDkyMTEwNDNaFw0yNzA2MDkyMTEwNDNaMIG0MTIw
+MAYDVQQDDClKVUxJQSBNQVJJQSBERSBMT1MgQU5HRUxFUyBXT09MRlNPTiBUT1VNQTEgMB4GA1UE
+BRMXMTcwNTQxNzU3Mi0wOTA2MjUxNjIwMzUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNV
+BAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0X0TZTVHvUszka1KJWFACz4g
+k2A5Z3CMXvSfLQNXoH5yTKoSAzwqzxvuSEEDO4smQpk0at9XZp5K5voxk5AMHG1yJhYiNlfqd4FP
+CGOA1hgiy/B6o90C+0pWw6oXfKyWOtRh5o/nlH5oHadCaRwuEG8Lt94cXQxUDzyBFNlL1PIPsbUu
+CRvTZngQDK9YZub8HRQCjaMIMS/HXKk37i1c/57fArwGFhwJqSJxP1VmYkxeTVyaczAQBjAIBBch
+ao6PfIjA9Me97ZvI1bhs/L9yi3Mvmj3JxSYjhdztyYe4sXCj9W/71npemIP2ztiYDX5oovnrLKqU
+mSrp/KROE4xTRQIDAQABo4IGHzCCBhswDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3gl
+gB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cu
+c2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwGwYDVR0RBBQw
+EoEQamxlb25Ac3VrYXNhLmNvbTCCARIGA1UdIASCAQkwggEFMGAGCisGAQQBgqZyAgowUjBQBggr
+BgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAATQBpAGUAbQBiAHIAbwAg
+AGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZyAgQwgZEwgY4GCCsGAQUFBwIBFoGBaHR0
+cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRp
+dmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBNaWVtYnJvIGRl
+IEVtcHJlc2EucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYw
+ggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2Ny
+bGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmls
+ZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1B
+VVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURB
+RCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIs
+Qz1FQzAdBgNVHQ4EFgQUbio+qd1UoHiJhj4vchhjNdqYb54wKwYDVR0QBCQwIoAPMjAyNTA2MDky
+MTEwNDNagQ8yMDI3MDYwOTIxMTA0M1owCwYDVR0PBAQDAgXgMB4GCisGAQQBgqZyAwUEEAwOVklD
+RVBSRVNJREVOVEUwGgYKKwYBBAGCpnIDAQQMDAoxNzA1NDE3NTcyMBkGCisGAQQBgqZyAwkECwwJ
+UlVNSVBBTUJBMBEGCisGAQQBgqZyAyIEAwwBLjA8BgorBgEEAYKmcgMHBC4MLENBUlZBSkFMIFMg
+TiBZIEFWIE1BUklTQ0FMIEFOVE9OSU8gSk9TRSBERSBTMCoGCisGAQQBgqZyAwIEHAwaSlVMSUEg
+TUFSSUEgREUgTE9TIEFOR0VMRVMwHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDEwMTQ2NjIwEwYK
+KwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwME
+CgwIV09PTEZTT04wEQYKKwYBBAGCpnIDHgQDDAEuMBwGCisGAQQBgqZyAwoEDgwMQ09NT0hPR0FS
+IFNBMB0GCisGAQQBgqZyAwsEDwwNMTc5MDc0NjExOTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFQYK
+KwYBBAGCpnIDBAQHDAVUT1VNQTAaBgorBgEEAYKmcgMIBAwMCjA5OTI3NDg3MjQwDQYJKoZIhvcN
+AQELBQADggIBAI9PY9cgjkSFhVkgP9ZnSpyzpmORpJ5PCd4uzjTdawXW00nd/y8O/FtL5JreEhw5
+yAOPpgIwz0IFuyzjRoGbN2UezbesF/+XIeEiR3kzxBbLXPzsYCU8hX6E1hbEFjXD3b+droMatMkC
+ODqZ6uBLPsSKWGVYpfX7RmzUvKszAUKJC8BhhioKISrOxvNwuH98G0saCUodwYZ/r8j8xb3N/UYu
+QPIJWErahBW75l8w3UDO0PaCggL2TTfqv8Ie0OJsSF1qKN+unfkItHLaK/y/j3p+k5Ho3JmUmtQE
+YaYiRukwpuZH9if4d0fxzuRZt3FUrUKfLXK88vQnLuu09xgubrY6eiCltc7+TUaSZePE/ZGTL+nb
+HmZDOkk/w8Cp07lqzHlE5z/43kGeK6nPirYObmSDFS4iqhwZoBVG6WQVbisXKO+qZGsfHmU1dYyQ
+sZuY/NT8++k1x0DbYH1xLd/vUaf4ImMdmWGkzwsR/zPA1aXG+ZMM4ZQUCP1E6h31fl5a8d2NwYHa
+3e3QHJ4uHTwQCLPlCQSt1GLuCFGEUaFwmiZSSQNQmsWWOWuxib4iun4FP9Ojpo/kZf492DWnFewL
+8fnAxj8CbCI45zTPEapW6BcRtf/pckF0yLrY5mQd0uShE27nhLiknHY7IZPXM6y5r4Anoj1LuFN6
+O1JDv9x3OHk8
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0X0TZTVHvUszka1KJWFACz4gk2A5Z3CMXvSfLQNXoH5yTKoSAzwqzxvuSEEDO4smQpk0at9XZp5K
+5voxk5AMHG1yJhYiNlfqd4FPCGOA1hgiy/B6o90C+0pWw6oXfKyWOtRh5o/nlH5oHadCaRwuEG8L
+t94cXQxUDzyBFNlL1PIPsbUuCRvTZngQDK9YZub8HRQCjaMIMS/HXKk37i1c/57fArwGFhwJqSJx
+P1VmYkxeTVyaczAQBjAIBBchao6PfIjA9Me97ZvI1bhs/L9yi3Mvmj3JxSYjhdztyYe4sXCj9W/7
+1npemIP2ztiYDX5oovnrLKqUmSrp/KROE4xTRQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature501217-Object68536"><etsi:QualifyingProperties Target="#Signature501217"><etsi:SignedProperties Id="Signature501217-SignedProperties443177"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-26T17:45:43+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>WzM+F4m3S/ckiWDgSta6Oj1fnAY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1446455046</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-83613"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

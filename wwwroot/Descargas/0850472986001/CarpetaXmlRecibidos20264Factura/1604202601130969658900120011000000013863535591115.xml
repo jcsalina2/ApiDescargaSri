@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1604202601130969658900120011000000013863535591115</numeroAutorizacion>
+<fechaAutorizacion>2026-04-16T15:41:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>HURTADO CEDEÑO LILIA MONSERRATE</razonSocial>
+        <ruc>1309696589001</ruc>
+        <claveAcceso>1604202601130969658900120011000000013863535591115</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000001386</secuencial>
+        <dirMatriz>Numero: SOLAR 10 Interseccion: CARRERA D Manzana: 79 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>16/04/2026</fechaEmision>
+        <dirEstablecimiento>Numero: SOLAR 10 Interseccion: CARRERA D Manzana: 79 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>CEDEÑO LOOR MAYTER VALESKA</razonSocialComprador>
+        <identificacionComprador>0850472986</identificacionComprador>
+        <totalSinImpuestos>7.13</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>7.13</baseImponible>
+                <valor>1.07</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>8.20</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>8.20</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>SEC028</codigoPrincipal>
+            <descripcion>SECUNDARIO 3.66M</descripcion>
+            <cantidad>2.00</cantidad>
+            <precioUnitario>2.4347</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>4.87</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>4.87</baseImponible>
+                    <valor>0.73</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>TOR01</codigoPrincipal>
+            <descripcion>TORNILLO PLANCHA 6X1</descripcion>
+            <cantidad>200.00</cantidad>
+            <precioUnitario>0.0113</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>2.26</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>2.26</baseImponible>
+                    <valor>0.34</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">valeskacedenoloor@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-361d381a-9118-4de6-a122-17aa62bbb1db"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-361d381a-9118-4de6-a122-17aa62bbb1db-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>U4VXIYAMiJLcFd/dvimvGaOxORQItFckccWZBETuIjw=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-361d381a-9118-4de6-a122-17aa62bbb1db-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>Rp4W7MuiARWYalvNAbFnRJUnSE+sUaWVUJ9uCtswjkc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-361d381a-9118-4de6-a122-17aa62bbb1db-sigvalue">QvOMyMx0EZkMZgDIYQwwjcQuTGHGKU8Wui2RUSd/DBubeDX8vFfm1MaTJJ9Mb5k8hu2ZIIoZOEWAnV7voPcW7LitTKGKLOggRYkysUrBQf1voArj5+cOMBi8xoI2acps7wP0Vdsrvzn2RvWw8NdmGeXHM2SX6ifACfThNlBKZhzNQMALjDjfGgky/NABzERBrYg0uKtenSEPxTAK5lIJAHF9PLQWTOjECHYccfH8kxx7x9+RGOzP0midihljPwC2pVi48rPycAQI3jKeSTNvoM5bkHv18ZUN/kii59W9dwdQT8RYhfg23wSzjzVAjGbUr/iR+rjcgoFQ2mTBUcVUKQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIMAzCCCeugAwIBAgIENM7wsjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMDUxMzQxMDdaFw0yNjEyMDUxMzQxMDdaMIGqMSgwJgYDVQQDDB9MSUxJQSBNT05TRVJSQVRFIEhVUlRBRE8gQ0VERU5PMSAwHgYDVQQFExcxMzA5Njk2NTg5LTA1MTIyNDA4NTEwMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCkpjwChRTrK+fDDqAevpwLxQk/VY0A8M2ibgGLOPiCSrAMVv2VhBuaoREDh5/PCEGq/FhwOrwObuiMzDOZcrgwsfoe7jsC2PM+EsbWEt0wmVjlBiYFpQXkHomvf+MuIcDj0nUeGih4QmdKEHxy6EiFNJJtzFAdtaKeX+OBeyNlg6sO9NW+bxHheDSoFdfF43vwpBYCcVNwGvU9SG3DfuN3TXi4WucIXMiEeh3w1qELxWObXI7DuZ7AFxVSDvlI2qXRVbPFbwG5xf92ZC+aaZB4ZjDVzivlZww+0ekfBstGC7GkL7f+5vBTUAAuQOA5zPOf4PQR+fWVROIsadHic/+zAgMBAAGjggc+MIIHOjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTAnBgNVHREEIDAegRxsaWxpYWh1cnRhZG9jZWRlMjJAZ21haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSutu2NLRTF0knhvtjL4AYL1um3zTArBgNVHRAEJDAigA8yMDI0MTIwNTEzNDEwN1qBDzIwMjYxMjA1MTM0MTA3WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxMzA5Njk2NTg5MBcGCisGAQQBgqZyAwkECQwHVE9OU1VQQTARBgorBgEEAYKmcgMiBAMMAS4wJAYKKwYBBAGCpnIDBwQWDBRTT0xBUiAxMCBZIENBUlJFUkEgRDAgBgorBgEEAYKmcgMCBBIMEExJTElBIE1PTlNFUlJBVEUwHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDA5MTUwMTEwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0hVUlRBRE8wGgYKKwYBBAGCpnIDHgQMDApMSUNFTkNJQURBMB0GCisGAQQBgqZyAwsEDwwNMTMwOTY5NjU4OTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFgYKKwYBBAGCpnIDBAQIDAZDRURFTk8wGgYKKwYBBAGCpnIDCAQMDAowOTg2MDc2OTA1MA0GCSqGSIb3DQEBCwUAA4ICAQBhCeFV7qtr/vfbFBMTv82hKzIcOLzpgdxc5OQAakbmAjEBsY556SOkXtLcj5xnEqhqX60+avG3097dpNClxyDlE3vMiKvP2+qPkDP0zcouQ8hGnxRqO26Zej53WTycoBc5z4X7l9He3fVPqVUNK4KG0I7EIlO1FWq/t4Ald3oi6e/1knVoIoovswUnQjnXZLTvbUSO4tNahOJiKS/7Vawp6eRzDzf48YTPUUOwamz1U4SN4JgdEqF2jUXn3XD3RJIBQOlF3sY2Nq0NjT7+YpJVPqFuI+luIHg18tAN4pn4+M6Go/SgI3RrLVqwj8uoJGRO8Vx7Ir9IE7V6TkjmGe9X9SOMGkeY4qegy3uh3RBYxeCQCKXi6W9NglIN3cnkitqgl4GzJHkvuxOF0oNnw8voN2ZlaEvskIVtPXGwTDJyVHUh0vqCp8OUlUxP009Ca117e/G6gSiRx4bnAqYyATpQ3BtQ1bBVTyuu1Wyhwr2pMc/Aab844uMih85/zuB4ErSVJ4ZqPbW3r4eoKidWVXL3Ayd40K7YzHz3lR/INinRN2JdBuAaiqv2aC+Mo9HTOsbcvLVrI3keCLV2WYvBrr70zN9CB+sLiyAvefEO7dpNm9LMcraeKLDAhPksYcv4H0xEvTwVdpZEEN15FL14Yfq/z7HMEwJWnSlNmP87xOI5ww==</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-361d381a-9118-4de6-a122-17aa62bbb1db"><xades:SignedProperties Id="xmldsig-361d381a-9118-4de6-a122-17aa62bbb1db-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-16T15:41:21.971-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>xmi1qRa2IhTTKsqlH0VeVeaCACPQlnzpGIkEG2Ldnxs=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>885977266</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-361d381a-9118-4de6-a122-17aa62bbb1db-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

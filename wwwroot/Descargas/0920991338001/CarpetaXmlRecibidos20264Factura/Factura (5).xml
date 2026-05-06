@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601079174015000121780220001001630010016314</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T20:17:34-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version='1.0' encoding='UTF-8'?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CRESIO CIA. LTDA.</razonSocial><nombreComercial>CRESIO CIA. LTDA.</nombreComercial><ruc>0791740150001</ruc><claveAcceso>0204202601079174015000121780220001001630010016314</claveAcceso><codDoc>01</codDoc><estab>178</estab><ptoEmi>022</ptoEmi><secuencial>000100163</secuencial><dirMatriz>LA ESPERANZA REFERENCIA  VIA PANAMERICANA FRENTE A LA GASOLINERA TERPEL</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>02/04/2026</fechaEmision><dirEstablecimiento>Dr Vicente Usan Ubilla E  Manuel Ascazubi y Hector Arregui Chavez</dirEstablecimiento><contribuyenteEspecial>289</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>ABRIL TRIANA EDWIN RAUL</razonSocialComprador><identificacionComprador>0920991338</identificacionComprador><direccionComprador>CDLA 22 DE NOVIEMBRE</direccionComprador><totalSinImpuestos>7.33</totalSinImpuestos><totalDescuento>1.65</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>2.74</baseImponible><valor>0.41</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>4.59</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>7.74</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>7.74</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>02633</codigoPrincipal><codigoAuxiliar>7861078306080</codigoAuxiliar><descripcion>PANAL POMPIS ORIGINAL Mx24</descripcion><cantidad>1.0</cantidad><precioUnitario>3.382609</precioUnitario><descuento>0.64</descuento><precioTotalSinImpuesto>2.74</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2.74</baseImponible><valor>0.41</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>67905</codigoPrincipal><codigoAuxiliar>7862102655280</codigoAuxiliar><descripcion>PANDERM 3 CREx1 01 005 x40GR</descripcion><cantidad>1.0</cantidad><precioUnitario>5.600000</precioUnitario><descuento>1.01</descuento><precioTotalSinImpuesto>4.59</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>4.59</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Gran Contribuyente">GRANDES CONTRIBUYENTES  No 243    RESOLUCION No 13 de diciembre de 2022 oficio Nro NACAGCOGEC2200000849M</campoAdicional><campoAdicional nombre="Correo">raulone85 hotmailcom</campoAdicional><campoAdicional nombre="Telefono">099999999999999</campoAdicional><campoAdicional nombre="Direccion">CDLA 22 DE NOVIEMBRE</campoAdicional><campoAdicional nombre="Vendedor">aguamanm</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature783509">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID902423" URI="#Signature783509-SignedPropertiesID474545" Type="http://uri.etsi.org/01903#SignedProperties">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DeJXD3gMG91kuWO5sVAMCZchoOw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate927490">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Fv16OHBbIVuS0zucI5bsXRQIMmg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-441598" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Nu1YGRkkoCStCiqYtPfdwRIIgB0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>A4M1+8bLdnm5OdbU7ASy90DAZX9cNCq+sZEiFaeOJyhwHYWZ+3hmjC8O8d3MNC3u
+Q98HAZZEvbgrdzT4wVrM8/gei8IXDl3MLZLsEbSt+36yNXq/zsvmNsrFUl0QWgqa
+gItWKDGhNPgEDV8MkDC3rBgzeAv4sMPYEEUSP7pEEbuasP752qXzllW2B/XSuoxR
+wvlmyr6PIz46VQZAl8kF3kx+f+dmQ0Hno9GrGTmPaV2ZblPwiXsWW6oUxpws9NhF
+x0Ap4zZjkgQig6vJYd63Vz7nMo8XNuz5iTjOkH+tBn4GzHPBbl7d//yx4AqqUOEm
+2AnV+zxE4UJgmxT+UBgX/g==</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate927490">
+<ds:X509Data>
+<ds:X509Certificate>MIIIBjCCBe6gAwIBAgIRAOCog3+V1nbFIeFC77kghE4wDQYJKoZIhvcNAQELBQAw
+gcIxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAu
+BgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjET
+MBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UEAww1QVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4xDzANBgNVBAcMBkFN
+QkFUTzAeFw0yNTA3MDExNjUxNDVaFw0yNzA3MDExNzUxNDRaMIHZMS0wKwYDVQQF
+EyQ4ZDRkYThhZi05ZDBlLTQ1NWMtYTg0MC02YWNiNTVjNjk5ZmMxKDAmBgkqhkiG
+9w0BCQEWGWxvcmVuYWNvc3RhYTc2MEBnbWFpbC5jb20xIjAgBgNVBAMTGURPUklT
+IEFJVEFNQVIgR1JBTkRBIEFCQUQxMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEbMBkGA1UEChMSRklSTUFTRUdVUkEgUy5B
+LlMuMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AJk7WyxPdTBgvStVp/3uxipXi/6Y+fIJ3aF/B2XYZobCSkRv6WzK8CbgWSSwHMOk
+96vPRGSWpla/ydMcurYorfjFzF8jEBiYASDVH5hWg1q02nvF+eo3BCWA5ctSjd/j
+oCsAMfeQAi2QajRAmAKthmdw1NhAeEcKvLmAfEVpUeAzA5SkwM4aIKsBS8nuoMLx
+AfytGllfYDmt57oyB1tj6pQvFX7fsjnMW5INc7LFwrKrXK14UBTGBeqn3po9DNW2
+jXwHjWJEfA79ZXNnuxbnucMxt+1GLOIrrkWcLN/vNbDHamEndzdxxfJaxh+w3jSx
+2Lp0aKEEmsMR/+NmeXNn8hcCAwEAAaOCAtwwggLYMAkGA1UdEwQCMAAwHwYDVR0j
+BBgwFoAUE0aTaAmu1ySHM0VjJnffrF5eilEwHQYDVR0OBBYEFE6EP2Rih1Es/M9b
+C+568PynCmHuMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuZmlybWFzZWd1
+cmFlYy5jb20vY3JsL2NjY2U1YTRmLTZiNjgtNDZmYy1hNjIwLTRhYmNjNGM0YTY5
+MC5jcmwwOQYIKwYBBQUHAQEELTArMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5m
+aXJtYXNlZ3VyYWVjLmNvbTAaBgorBgEEAYPeeQMBBAwWCjA3MDQyNDk5NTIwHQYK
+KwYBBAGD3nkDAgQPFg1ET1JJUyBBSVRBTUFSMBYGCisGAQQBg955AwMECBYGR1JB
+TkRBMBQGCisGAQQBg955AwQEBhYEQUJBRDAfBgorBgEEAYPeeQMFBBEWD0dFUkVO
+VEUgR0VORVJBTDAiBgorBgEEAYPeeQMHBBQWEkNBTExFIEFWIFJFUFVCTElDQTAc
+BgorBgEEAYPeeQMIBA4WDDU5MzkzOTYxMzg5MzAaBgorBgEEAYPeeQMJBAwWCkhV
+QVFVSUxMQVMwIQYKKwYBBAGD3nkDCgQTFhFDUkVTSU8gQ0lBLiBMVERBLjAdBgor
+BgEEAYPeeQMLBA8WDTA3OTE3NDAxNTAwMDEwEwYKKwYBBAGD3nkDDAQFFgNFQ1Uw
+gaQGA1UdIASBnDCBmTBUBgsrBgEEAYPeeQIBATBFMEMGCCsGAQUFBwIBFjdodHRw
+czovL2Zpcm1hc2VndXJhZWMuY29tL3BvbGl0aWNhc19yZXByZXNlbnRhbnRlX2xl
+Z2FsMEEGCysGAQQBg955AgICMDIwMAYIKwYBBQUHAgIwJAwiQ2VydGlmaWNhZG8g
+ZGUgUmVwcmVzZW50YW50ZSBMZWdhbDAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcN
+AQELBQADggIBAC1vHnSYzkXSKsUpZ3HBl6BAoB6x3+2rGTJ8ZOMoDdyvTL+dX5IK
+A/36qdDXSr5JUxWodHN2bYKB0JS0kRvFL3/KDznzE2eoze9rTN3MHMjaLgjbAY6I
+hAi+dNNs3inI3+BCVWQvVvah4jSzbYfrO/KO3WnuN3DHydOW2zyXnQfikcxLS1vm
+OiVzNpiuPw4ajaX7Q6vnMw4lae8ePu63H0Q4EjBD8yFvcXVFla8owtx+DjfOJA/k
+p973dDla5fkq3SeRFrGZbHv28qp5N3lJVOVbTXqzO8kbB9QpBTO+N5OcY1b+NquT
+Ncns6YUhESjzlUBQcHEXVx4SorVZx1CpVjb9PoxTy2Yx4f8zYW3mHioDqHkQXaB6
+eNV32JCmViaQD429eWYpf3lh130d0YS/wjN7XK+UjijtLv9PKg7VtfSa+j1WNEh7
+qB4TTsZxsflyBdxROATSim0RjU1TedshbFpENtgFqTiTSLUEyP3xDCDtdnK37e/A
+aO+et5YZ0lm1k1TM4Vez78IUhY9JVUumHD+8wYqBTvuTgD0imgTMrLWsKnoYDEk9
+1dHFBAsispL709i22q+MpQxsNIo911BFXN5DfgwVK5o0cRNmh6UPRyylbICrWwFy
+PfM9hevVm19sRVrz9Lu/2+taDluQ+snqfQhHDjMiq0G1ID7k/0akBPAE</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>mTtbLE91MGC9K1Wn/e7GKleL/pj58gndoX8HZdhmhsJKRG/pbMrwJuBZJLAcw6T3
+q89EZJamVr/J0xy6tiit+MXMXyMQGJgBINUfmFaDWrTae8X56jcEJYDly1KN3+Og
+KwAx95ACLZBqNECYAq2GZ3DU2EB4Rwq8uYB8RWlR4DMDlKTAzhogqwFLye6gwvEB
+/K0aWV9gOa3nujIHW2PqlC8Vft+yOcxbkg1zssXCsqtcrXhQFMYF6qfemj0M1baN
+fAeNYkR8Dv1lc2e7Fue5wzG37UYs4iuuRZws3+81sMdqYSd3N3HF8lrGH7DeNLHY
+unRooQSawxH/42Z5c2fyFw==</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature783509" Id="Signature783509"><etsi:SignedProperties Id="Signature783509-SignedPropertiesID474545"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T20:17:32+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>kJ5w+QYxNFK8VxpUoUFwwVvFb+o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO, CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S., ST=TUNGURAHUA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=FIRMASEGURA S.A.S., C=EC</ds:X509IssuerName><ds:X509SerialNumber>298622044032062261716915129448784757838</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-441598"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

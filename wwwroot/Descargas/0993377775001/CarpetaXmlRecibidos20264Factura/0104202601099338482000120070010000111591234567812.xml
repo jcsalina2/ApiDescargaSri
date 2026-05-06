@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601099338482000120070010000111591234567812</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T12:01:00-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>LACOSTEÑITA SAS</razonSocial>
+    <nombreComercial>LA COSTEÑITA</nombreComercial>
+    <ruc>0993384820001</ruc>
+    <claveAcceso>0104202601099338482000120070010000111591234567812</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>007</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000011159</secuencial>
+    <dirMatriz>TORRE MILLENIUM. AV FRANCISCO DE ORELLANA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/04/2026</fechaEmision>
+    <dirEstablecimiento>TORRE MILLENIUM. AV FRANCISCO DE ORELLANA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>KAPICCHI S A A</razonSocialComprador>
+    <identificacionComprador>0993377775001</identificacionComprador>
+    <totalSinImpuestos>9.56</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>9.56</baseImponible>
+        <valor>1.44</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>11.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>11.00</total>
+        <plazo>1</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>C49</codigoPrincipal>
+      <codigoAuxiliar>C49</codigoAuxiliar>
+      <descripcion>Encebollado De Pescado</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>3.91</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.91</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.91</baseImponible>
+          <valor>0.59</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C37</codigoPrincipal>
+      <codigoAuxiliar>C37</codigoAuxiliar>
+      <descripcion>Porcion De Chifle</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>0.65</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.65</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.65</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C155</codigoPrincipal>
+      <codigoAuxiliar>C155</codigoAuxiliar>
+      <descripcion>Bollo De Pescado</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>3.91</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.91</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.91</baseImponible>
+          <valor>0.59</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>C47</codigoPrincipal>
+      <codigoAuxiliar>C47</codigoAuxiliar>
+      <descripcion>Agua</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1.09</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.09</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.09</baseImponible>
+          <valor>0.16</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email:">NEW@KAPICCHI.COM</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature121301">
+<ds:SignedInfo Id="Signature-SignedInfo317513">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID748901" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature121301-SignedProperties118800">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vKr9HRBDhMayz9N6iIrx8prY6Mk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11036815">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>zLBjuxbFgaiRnf3SaoyeIqHZw1M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-355200" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cHVHHf37hMF8+wUQq5+AyHvuQq0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue839796">
+UCp0tBEyLCLpjcdYtWoU7wrdMyrG9eSjkAhmF3cN3tAgtlOcx1optgJYOEPrNNpGqjHYg3sEBCtq
+hpPWKLD1QNhjNPtUubXP8bJnv+zYbgsWPLTUFgiKJec/epu7+mBmPBDdH28xCdcCAJv76rpqs0z8
+yu8dIelus8Dy/BBajJ0WeLDbD5VmCQldDQEQ0OYIVl9F/k7CWNzx7K2FH5GsmpgW8XwnkqjtLkIu
+HrrfdoiObudyLV887Qn+Kcmh7irFKX5JGziRTVJLYBhWe4EvlcL968mCFNwEm0qRMuXTO1nvLwH3
+4sPSYI+CjpXIQT2SUok3/QrSbJ2i7Ik4mqSroQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11036815">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMTTCCCjWgAwIBAgIEfZgECDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzEwMTEyMTE0NTVaFw0yODEwMTAyMTE0NTVaMIGhMSow
+KAYDVQQDDCFKT1JHRSBST0JFUlRPIERPTUVORUNIIEFMVEFNSVJBTk8xFTATBgNVBAUTDDExMTAy
+MzE2MjQzNzEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDgj8gHLoIxFjH7kJhEf1ZeechAPLj1yFEDWTmdH8CH6++Mu022
+KWZaBK4IbvVLgBrbX3yFGAWdsFS2DjIav8940owtuyiUNN94i2eoZPe5TDVZQJKCpAf5l0TO5bVr
+E7dHU0Xu5ut27Eb8LL6HntBciOox17H6ArBv8SlHdGDBN/SmEthgR6iDNimFMga5FQhET161TU15
+yK2pZdnUqLNe2vRcKLz9DCRTEo5qgVZchIPZsw29Tc9VvXHvpLwJrupPN6xrwj/olbBKdZpDZ4Rt
+cKGDeXLRMZeKiPGO5VMy7kcWGqqDoUowVIYKheSH3hrCJPq60Ns4dFZ2AWigugM5AgMBAAGjggeR
+MIIHjTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsG
+AQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVj
+L2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRh
+cDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlv
+bkxpc3Q/YmFzZTArBgNVHREEJDAigSBqb3JnZXJvYmVydG9kb21lbmVjaGFsQGdtYWlsLmNvbTCC
+ARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABp
+AGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEA
+bDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRh
+dGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fk
+b3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYD
+VR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEu
+IDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEu
+bmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBE
+QVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB
+12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBT+
+hLXNCNR52Q+Oc5SpY0WiEcs5FTArBgNVHRAEJDAigA8yMDIzMTAxMTIxMTQ1NVqBDzIwMjgxMDEw
+MjExNDU1WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYK
+KwYBBAGCpnIDAQQMDAowOTMwODY1OTM2MBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisG
+AQQBgqZyAyIEAwwBLjBpBgorBgEEAYKmcgMHBFsMWUFWRU5JREEgTEFTIE1PTkpBUyBQUkVTSURF
+TlRFIEpVQU4gREUgRElPUyBNQVJUSU5FWiBNRVJBIFkgQVZFTklEQSBDQVJMT1MgSlVMSU8gQVJP
+U0VNRU5BMB0GCisGAQQBgqZyAwIEDwwNSk9SR0UgUk9CRVJUTzAfBgorBgEEAYKmcgMgBBEMDzAw
+MTAwMjAwMDQ2NDk5OTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFE
+T1IwGAYKKwYBBAGCpnIDAwQKDAhET01FTkVDSDAhBgorBgEEAYKmcgMKBBMMEUxBQ09TVEVOSVRB
+IFMgQSBTMB0GCisGAQQBgqZyAwsEDwwNMDk5MzM4NDgyMDAwMTASBgorBgEEAYKmcgMdBAQMAk5v
+MBoGCisGAQQBgqZyAwQEDAwKQUxUQU1JUkFOTzAaBgorBgEEAYKmcgMIBAwMCjA5MzkxMDAyOTYw
+DQYJKoZIhvcNAQELBQADggIBAMdyJVAGe72/ecfnDe/oQmW34zJ/mWzI4XC5A/I+/C9dLtzCZR/D
+7+6Sx8aGh9cuMDMe6pD009zgZdQ0C3hf9q7pFtAsGFOc6TSDVRlRT5tpvnucSfkSlTQhXtcOJoAP
+tFWU+5YdgwKbTvilzTnt1yM28UWtnDCxOgjBNsqOVZaSKg6Nka9jUgNC5aKEFmS+GqIK/l+q3sPg
+72g3e8dXDku9FCE6cL/UnLAByupexbGXm/mFpSTBrMXu9djpfZOHBkY++KGdeYWYo5YlU9nJibMO
+3cDO7xEVrDh+tMUunZtKjfYa3r2onYr3sowGIbh7POdTJYUFuYLD7klyysuL6HkpSBmjERA+1QwZ
+y5tCK/nTOLnH5r3vSlVtZmiXXHzKRORb243SqM+43++SLz64+gnnRFj3ukxSS+qLaBSjmwALTz/y
+sTEjgMa+efqhOznbLdTrM5DQEPmzTCKn/gi2Bz+twn0hWz9q38InuCUYlii0ewaQrdRaR2Dup8qb
+9gDJ5UYJ7APWliF1TbfR7dReMWfcE32Olx42as99x/RAWqyg09t6L2ROOPoYCCDYJy8P8jzYhy6W
+BxfxiUeBKPIrqnHAYYbczwCQSw3PnaVcXlWUWt1ZfSfMyhR4kSIRwbK0zYZzdhCaSMRnh1DccnWh
+CR3hlIO9QJ1gKpHTY7I6esme
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4I/IBy6CMRYx+5CYRH9WXnnIQDy49chRA1k5nR/Ah+vvjLtNtilmWgSuCG71S4Aa2198hRgFnbBU
+tg4yGr/PeNKMLbsolDTfeItnqGT3uUw1WUCSgqQH+ZdEzuW1axO3R1NF7ubrduxG/Cy+h57QXIjq
+Mdex+gKwb/EpR3RgwTf0phLYYEeogzYphTIGuRUIRE9etU1NecitqWXZ1KizXtr0XCi8/QwkUxKO
+aoFWXISD2bMNvU3PVb1x76S8Ca7qTzesa8I/6JWwSnWaQ2eEbXChg3ly0TGXiojxjuVTMu5HFhqq
+g6FKMFSGCoXkh94awiT6utDbOHRWdgFooLoDOQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature121301-Object596603"><etsi:QualifyingProperties Target="#Signature121301"><etsi:SignedProperties Id="Signature121301-SignedProperties118800"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T17:00:59+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>w2O0gnCw/VXzpp9A94s22uafjuI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2107114504</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-355200"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

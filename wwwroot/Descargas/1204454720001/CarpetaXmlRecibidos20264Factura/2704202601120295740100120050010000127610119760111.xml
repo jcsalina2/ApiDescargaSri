@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2704202601120295740100120050010000127610119760111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-27T10:40:39-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>MENDEZ VILLOTA LUIS SEGUNDO</razonSocial>
+<nombreComercial>MENDEZ VILLOTA LUIS SEGUNDO</nombreComercial>
+<ruc>1202957401001</ruc>
+<claveAcceso>2704202601120295740100120050010000127610119760111</claveAcceso>
+<codDoc>01</codDoc>
+<estab>005</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000012761</secuencial>
+<dirMatriz>SAN CRISTOBAL / MANABI S/N Y ISAAC MONTES</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>27/04/2026</fechaEmision>
+<dirEstablecimiento>KM 5 VIA A VALENCIA MZ1 SL21 DIAGONAL A MARTINETTI</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>AGUAYO ALVARADO CARLOS </razonSocialComprador>
+<identificacionComprador>1204454720001</identificacionComprador>
+<direccionComprador>RUTA DEL RIO </direccionComprador>
+<totalSinImpuestos>36.09</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>36.09</baseImponible>
+<valor>5.41</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>41.5</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>41.5</total>
+<plazo>0</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>C0214</codigoPrincipal>
+<descripcion>CABLE CONCENTRICO 3X10 AWG INCABLE THHN</descripcion>
+<cantidad>9</cantidad>
+<precioUnitario>3.2609</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>29.35</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Unidad" valor="Metro"></detAdicional>
+<detAdicional nombre="Detalle" valor="METRO"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>29.35</baseImponible>
+<valor>4.4</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>032664332609</codigoPrincipal>
+<codigoAuxiliar>760250</codigoAuxiliar>
+<descripcion>CONECTOR VINYL COOPER CHINO 4227 3P 250V</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>4</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>4</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Unidad" valor="UNIDAD"></detAdicional>
+<detAdicional nombre="Detalle" valor="MEDIDA GENERAL"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>4</baseImponible>
+<valor>0.6</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>614143382550</codigoPrincipal>
+<codigoAuxiliar>HE044005</codigoAuxiliar>
+<descripcion>ESTILETE METALICO PRO RETRACTIL 19MM MAVIJU HE044005</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>2.7391</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2.74</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Unidad" valor="UNIDAD"></detAdicional>
+<detAdicional nombre="Detalle" valor="MEDIDA GENERAL"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>2.74</baseImponible>
+<valor>0.41</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Telefono: ">  </campoAdicional>
+<campoAdicional nombre="Direccion: ">RUTA DEL RIO </campoAdicional>
+<campoAdicional nombre="Vencimiento: ">27/04/2026</campoAdicional>
+<campoAdicional nombre="Tipo Empresa: ">n</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature826041">
+<ds:SignedInfo Id="Signature-SignedInfo866433">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID1022415" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature826041-SignedProperties696141">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>axdnPxlMSRBCeDiLP1Swx1hgtOw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1281243">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>0kmrdCG+JgJvLAewlGk8HkDVnU8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-360125" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>PW7QxyM8kvw4etGpoWinkvF21Qw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue498495">
+XHyLxBhV6PKAJZskw1AMlVZB7qCnYELcysi+N9g+/PC9AB6ugzNPFJIrk/TSSPP55qPIEEnadRP/
+Ua69YwkCbOi1jLo5t0l8cLNEo1lQnFPsSJ+H8FfQX23g97HN0ofpVk4j2zs8dDpu8RVrMoRJ3mZr
+9SmAcJ83yUympXu2mozOmlzZfCQUZeY7IODdl8OCMzJDyCP1U3wAB8RgYz1md2TXx+rwzxAz+gX5
+Qt/6CRJ17Y1Bke3MC/gkwBp8LZaDOehXz4uR5q9m/70s5NmVEHl5NssA0WOnQyuWB6gPCmsTbt66
+ZdcWSUeLfIEcNJeM8qsSGzCwI1mHeUdRngbKnA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1281243">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILyzCCCbOgAwIBAgIEGzLJzDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA3MjIxNDM0MjdaFw0yODA3MjExNDM0MjdaMIGbMSQw
+IgYDVQQDDBtMVUlTIFNFR1VORE8gTUVOREVaIFZJTExPVEExFTATBgNVBAUTDDIyMDcyMzA5NDQx
+MDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYD
+VQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCsdM5KjvcgFLQhZOuBy4zf9UFbnppV8jaOT0zJkxkiZpypSdpMS+KKj3Ec
+Ev9aLMg8pEKOq9CURRqkDRlTng1xJR8/Fsq4CUg6zRpbfuiqetLsIZH7SUHqeF7ojyYh2bLXWUwY
+XBKhxHcmxvLN0Av+x2BqtVa6DF/zwQ2oZTeTTNJyfnmUjaj2oKXaWLPodUzxfaDNvUVqZwzbF3kR
+MMitsQk1n6W5xbPhJDlz80oVJt4PycOGXqt+wFQgPfn07UHVFOWe5goOaBAFqsbYtWkQNpOtyvBu
+vL4ePtDC+ek9GvBM86/e4BQ2a1Yacfpluwk62QgjA8a4ufEX5v52EaTNAgMBAAGjggcVMIIHETAM
+BgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEB
+BE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xk
+YXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/
+YmFzZTAlBgNVHREEHjAcgRphbG1hY2VuZXNrYXR0eUBob3RtYWlsLmNvbTCCAQYGA1UdIASB/jCB
++zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAg
+AGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGK
+BggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rv
+d25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZp
+Y2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8v
+b2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGf
+pIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VS
+SVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+
+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRl
+UmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5z
+ZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1j
+cmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkg
+REFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklU
+WSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBS1UDslw5A1WWX6a5aERWNWVvFlnDArBgNVHRAE
+JDAigA8yMDIzMDcyMjE0MzQyN1qBDzIwMjgwNzIxMTQzNDI3WjALBgNVHQ8EBAMCBeAwGgYKKwYB
+BAGCpnIDAQQMDAoxMjAyOTU3NDAxMBcGCisGAQQBgqZyAwkECQwHUVVFVkVETzARBgorBgEEAYKm
+cgMiBAMMAS4wKQYKKwYBBAGCpnIDBwQbDBlNQU5BQkkgUyBOIFkgSVNBQUMgTU9OVEVTMBwGCisG
+AQQBgqZyAwIEDgwMTFVJUyBTRUdVTkRPMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwNDI5MTg3
+MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkM
+B0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZNRU5ERVowEQYKKwYBBAGCpnIDHgQDDAEuMB0GCisG
+AQQBgqZyAwsEDwwNMTIwMjk1NzQwMTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnID
+BAQJDAdWSUxMT1RBMBoGCisGAQQBgqZyAwgEDAwKMDk5OTM2MzU2ODANBgkqhkiG9w0BAQsFAAOC
+AgEAnjDG+BJ8zgEmvzPOrBg2u7YZmOAB6sD0+fsTwCFhGxIrrfsF9bI3p0lZdV67qQsapUlYYilB
+0wK2txX+bD/R3ynJ+KgharNjFf8f2HcooVGvs9wk+/5x59940hL6lX5+KaKcqaATiFi6kvESTABu
+Vsb7k9yn/CQdg2/RNrD1c5vZmbTDw8Rh0B2YN4+wjNfY5WTTrG6ntUT3VUzzg/bymP1LZPUm1hyc
+AI8aDx5ic6VejYsVrj88j3M6IhHB3lfXHvDMSZ3DFTLqQG+q9/SaeTmCSqjNQAO4osX03QExYitc
+CMQusPNsCw2p9Y5Q4Q6Cwuo2xX6bdEtKbjq0XVygoKWUMp1NldkiGnZg0wW/9/RWoYYKsQzZo5QN
+UojqdFJRDNiaAxRmYfAxqTZcZY/F+5zE0Y/e5CWE5FfYRkV4DVYiC6MkMvQT18bC8NiHYpBDxBwA
+PFYfaUAOKIC9u8dgDkIN+m1vKX1PMYpOiSAJUtWebntSJGIZplN6XJ3739v/I3zN6sj0m+nDJv9g
+NVA8sPDt/DCbZRoPKL8BaG/hYt3RTfaNefNFjM5ghw4PODD2hi+IVMVl8+8nPwwWVgrKPY7Blv2z
+6s7sa2PTjW3mbrtxLM8jyRqnwd3MSfUNpbjqQqNNf0qvbLc2c1+6T+3/t7DN/RBOV/RTTJIHFy4D
+owE=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rHTOSo73IBS0IWTrgcuM3/VBW56aVfI2jk9MyZMZImacqUnaTEviio9xHBL/WizIPKRCjqvQlEUa
+pA0ZU54NcSUfPxbKuAlIOs0aW37oqnrS7CGR+0lB6nhe6I8mIdmy11lMGFwSocR3JsbyzdAL/sdg
+arVWugxf88ENqGU3k0zScn55lI2o9qCl2liz6HVM8X2gzb1FamcM2xd5ETDIrbEJNZ+lucWz4SQ5
+c/NKFSbeD8nDhl6rfsBUID359O1B1RTlnuYKDmgQBarG2LVpEDaTrcrwbry+Hj7QwvnpPRrwTPOv
+3uAUNmtWGnH6ZbsJOtkIIwPGuLnxF+b+dhGkzQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature826041-Object98798"><etsi:QualifyingProperties Target="#Signature826041"><etsi:SignedProperties Id="Signature826041-SignedProperties696141"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-27T10:41:02-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>NNGbYd3pWzJ9uPdAKkVY9rTTj00=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>456313292</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-360125"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

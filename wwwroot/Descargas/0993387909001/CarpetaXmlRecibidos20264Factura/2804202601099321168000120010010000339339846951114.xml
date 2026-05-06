@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2804202601099321168000120010010000339339846951114</numeroAutorizacion>
+<fechaAutorizacion>2026-04-28T14:15:54-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>FERRETERIA INDUSTRIAL - FINPECA SA</razonSocial><nombreComercial>.</nombreComercial><ruc>0993211680001</ruc><claveAcceso>2804202601099321168000120010010000339339846951114</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000033933</secuencial><dirMatriz>Hector Peñafiel</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>28/04/2026</fechaEmision><dirEstablecimiento>10 DE AGOSTO 2002 ENTRE LOS RIOS Y TULCAN</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ASTECNAVIND SAS</razonSocialComprador><identificacionComprador>0993387909001</identificacionComprador><direccionComprador>GUASMO NORTE</direccionComprador><totalSinImpuestos>13.44</totalSinImpuestos><totalDescuento>3.36</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>13.44</baseImponible><valor>2.02</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>15.46</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>15.46</total><plazo>0</plazo><unidadTiempo>Dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>D277</codigoPrincipal><descripcion>Mota de lija kex de 50x25 #60 de 6mm</descripcion><cantidad>10.000000</cantidad><precioUnitario>1.680000</precioUnitario><descuento>3.36</descuento><precioTotalSinImpuesto>13.44</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00000</tarifa><baseImponible>13.44</baseImponible><valor>2.02</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Cod. Cliente:">C16275</campoAdicional><campoAdicional nombre="Dirección:">GUASMO NORTE</campoAdicional><campoAdicional nombre="Email.:">contabilidadastecnavind@gmail.com</campoAdicional><campoAdicional nombre="Forma de Pago:">Contado</campoAdicional><campoAdicional nombre="Vendedor:">HECTOR PEÑAFIEL</campoAdicional><campoAdicional nombre="Teléfono(s):">0991861352</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature145338">
+<ds:SignedInfo Id="Signature-SignedInfo186432">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID122602" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature145338-SignedProperties612436">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>GBnCrieeyP6agCe/FgIIguguSvU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1618848">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>rZx/Ab7eVhhLg/Oxl4qK29V54uI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-468326" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>e7kbIosmTBONzdw3jux4MsAuFKA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue331536">
+jlxZXSPjIBzPtGSwjqRoWlyyJxtD6o6frcOl6qVNAFxjwzCgLrW8NA6jHRaoEYauUnYtPOulXWe4
+pdUYNOLStnZ4Oi8503PgeOnw33RBkW3nggw9YKEiE9LsbNEFAx4IjjlB+X6vqMpNoSHsZH6412iN
+I4rrpm4eVsntMdto8V1vmkFjDc7GFamPkW6sgVZKnCYfbxNBqnhmZlOmZPs6XwuICQHHwgflh4wD
+CcnuqoJpTZOiGoZRPitr3cANhHVV6ViXU4YEQGbyPgnPkhKEkAyTdO8UZiqGmubSrA3icX6giRkr
+r8kK11Ey9pOzq1n6F2C6lh1lvK6vblfq5m/Xvg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1618848">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK7TCCCNWgAwIBAgIIa4tDBqAx8JMwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTI5MTY1MDA2WhcNMzAwOTI5MTY1MDA2WjCB
+rjEsMCoGA1UEAwwjSEVDVE9SIEFSTUFOR09MIFBFTkFGSUVMIEFSSUNIQUJBTEExIDAeBgNVBAUT
+FzA5MDYwMzIzOTYtMjkwOTI1MTE1OTU4MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQG
+EwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMvXMQFQp+Ljn0bd/ARUL1sPGixZ
+rGBsiE5gJBeNNYnH8zWHalCoSPLBXhfeAfdTg1ajgw1gIwp1WuMgq2nWtDCaCHCLFKmnxki8OlIz
+xJ1GrYjrgnPzZfZKNlCQTWOmXwBjoS1KYS2oO20rFVOuKVajRauvVo7Q/8r8SWZEe6UHk/Oompyr
+vk0+s9dJdQ8qYyJZ2vPE71MhLdYIikC/mguWGF2iHGkq6aS9bPiq6JhEPvC7Mtj+tdmjnCLx2n9z
+bTU+PAVcDVTxwm6YopETx9wv7g806Ht9BeM2YREWp9+/0RIoYhe2wDJiAHcLUo3EEmUWdOckGoDt
+k609VH+1DrcCAwEAAaOCBiAwggYcMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAd
+awpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCEGA1UdEQQaMBiB
+FmFzZXNvX3ZlbnRhc0B5YWhvby5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQw
+UgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBz
+AGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIB
+FoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9O
+b3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXBy
+ZXNlbnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNV
+HR8EggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2Ey
+Y3JsMS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwy
+L2NybGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1
+ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9V
+PUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEg
+Uy5BLiAyLEM9RUMwHQYDVR0OBBYEFMBMMp7LlAZEf3vtQ+eoxFnIagOyMCsGA1UdEAQkMCKADzIw
+MjUwOTI5MTY1MDA2WoEPMjAzMDA5MjkxNjUwMDZaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMF
+BAwMClBSRVNJREVOVEUwGgYKKwYBBAGCpnIDAQQMDAowOTA2MDMyMzk2MCAGCisGAQQBgqZyAwkE
+EgwQTlVFVkUgREUgT0NUVUJSRTARBgorBgEEAYKmcgMiBAMMAS4wNQYKKwYBBAGCpnIDBwQnDCUx
+MCBERSBBR09TVE8gMjAwMiBZIExPUyBSSU9TIFkgVFVMQ0FOMB8GCisGAQQBgqZyAwIEEQwPSEVD
+VE9SIEFSTUFOR09MMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAzMDAwMDA4MTQ3MBMGCisGAQQBgqZy
+AyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAYBgorBgEEAYKmcgMDBAoMCFBFTkFG
+SUVMMDEGCisGAQQBgqZyAwoEIwwhRkVSUkVURVJJQSBJTkRVU1RSSUFMIEZJTlBFQ0EgUyBBMB0G
+CisGAQQBgqZyAwsEDwwNMDk5MzIxMTY4MDAwMTARBgorBgEEAYKmcgMdBAMMAS4wGgYKKwYBBAGC
+pnIDBAQMDApBUklDSEFCQUxBMBoGCisGAQQBgqZyAwgEDAwKMDk5NTAxMjAyMjANBgkqhkiG9w0B
+AQsFAAOCAgEAT5k8L5YfpYndOqJ5MVpvrE/HnVqYv/1O/towS1RG6SOUgB8VBWatZzra88QJVEiP
+krRd/zZ92j5XM78dvN8H04VJPigEg2h09Kn+xPb08V5FGD7705tDkH70D4Cn/f/l7hfoaZzyvsAg
+al8ekUUS980/q01txMZuekR4EoOQ9kUFilDp/vaWp56M0BusVb0QY9+PHDpsCJePsyV+e/fnWafu
+XOlUtuJu14xA0pn39hcORukJl2UEmv6bMqTUGxI77NveLY59G9GbgpqUlgv5zIk9JFCNcrhsTbfY
+iF00U1UD6qXw+CoSsRivXRkP5rHIBe3QpgfNEMci26az8nhW15qzdnzZyAp36W7qnlktt/Njknuf
+r6yZS6rli6AlmDodV+TnhnA1IVoHWy/N0CevdowWulmZgBxD7E6Uij7kKnbV9OQIFQGcvzA0NGY6
+bidG3coa88wx40S3b9A0fwVDkW0pTK6/c+tfaoScUGyMGbMsI9NjtoUcgQzhep487awsdd0sFglD
+Nb7g4CurfgeV9nFRa6MdNN7UAuMvGi6c090XtranicNdi8QVbZWkzu+5a+yCgTtgRANZm3SCgqjI
+4AfyH846AIM6BPUl61edFpmmhpRV9vClnWRB78EGmHObgCZBzJiCTbBdXYhGwfVlpnYOPndcdyMW
+P7m1vRB5n1E=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+y9cxAVCn4uOfRt38BFQvWw8aLFmsYGyITmAkF401icfzNYdqUKhI8sFeF94B91ODVqODDWAjCnVa
+4yCrada0MJoIcIsUqafGSLw6UjPEnUatiOuCc/Nl9ko2UJBNY6ZfAGOhLUphLag7bSsVU64pVqNF
+q69WjtD/yvxJZkR7pQeT86ianKu+TT6z10l1DypjIlna88TvUyEt1giKQL+aC5YYXaIcaSrppL1s
++KromEQ+8Lsy2P612aOcIvHaf3NtNT48BVwNVPHCbpiikRPH3C/uDzToe30F4zZhERan37/REihi
+F7bAMmIAdwtSjcQSZRZ05yQagO2TrT1Uf7UOtw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature145338-Object675819"><etsi:QualifyingProperties Target="#Signature145338"><etsi:SignedProperties Id="Signature145338-SignedProperties612436"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-28T14:15:22-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>/r7za5KQUKJBSRy2qdSQ7yA7YQ4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>7749361279557562515</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-468326"><etsi:Description>factura</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

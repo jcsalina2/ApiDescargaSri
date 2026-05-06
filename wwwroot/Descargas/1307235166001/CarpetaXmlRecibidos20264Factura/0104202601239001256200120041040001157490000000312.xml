@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601239001256200120041040001157490000000312</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T03:43:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>TELEALFACOM S.A.</razonSocial>
+    <nombreComercial>ALFANET</nombreComercial>
+    <ruc>2390012562001</ruc>
+    <claveAcceso>0104202601239001256200120041040001157490000000312</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>004</estab>
+    <ptoEmi>104</ptoEmi>
+    <secuencial>000115749</secuencial>
+    <dirMatriz>AV. SANTA MARIA TOACHI Y AVENIDA 1, Aa, Pichincha (EC), Los Rios, Ecuador</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/04/2026</fechaEmision>
+    <dirEstablecimiento>MANABI / CHONE / CHONE / PLUTARCO MOREIRA S/N Y AV SIXTO DURAN BALLEN</dirEstablecimiento>
+    <contribuyenteEspecial>291</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>HILDA AMIRA FIGUEROA BARBERAN</razonSocialComprador>
+    <identificacionComprador>1307235166</identificacionComprador>
+    <direccionComprador>CHONE SANTA RITHA PASANDO LOS RAYDISTA POR EL SEMAFORO CASA TIPO VILLA DE MADERA CON PATIO GRANDE PUERTA DE MAYAS DE FIERRO</direccionComprador>
+    <totalSinImpuestos>23.48</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>23.48</baseImponible>
+        <valor>3.52</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>27.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>27.00</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>RESID_115</codigoPrincipal>
+      <descripcion>[RESID_115] PLAN NAVEGA FACIL V4</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>23.480000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>23.48</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>23.48</baseImponible>
+          <valor>3.52</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">mcardenasg@alfanet.net.ec</campoAdicional>
+    <campoAdicional nombre="novedades">Esta factura cubre el siguiente periodo: 01/04/2026 - 30/04/2026Términos y condiciones: https://www.alfanet.ec/terms</campoAdicional>
+    <campoAdicional nombre="pedido">2049973</campoAdicional>
+    <campoAdicional nombre="direccion">CHONE SANTA RITHA PASANDO LOS RAYDISTA POR EL SEMAFORO CASA TIPO VILLA DE MADERA CON PATIO GRANDE PUERTA DE MAYAS DE FIERRO</campoAdicional>
+    <campoAdicional nombre="telefono">0978692227</campoAdicional>
+    <campoAdicional nombre="formaPago">Pago regular</campoAdicional>
+    <campoAdicional nombre="totalLetras">VeintiSiete  con 00/100</campoAdicional>
+    <campoAdicional nombre="principal">CHONE SANTA RITHA PASANDO LOS RAYDISTA POR EL SEMAFORO</campoAdicional>
+    <campoAdicional nombre="instalado">CHONE SANTA RITHA PASANDO LOS RAYDISTA POR EL SEMAFORO</campoAdicional>
+    <campoAdicional nombre="fechaMaximaPago">11/04/2026</campoAdicional>
+    <campoAdicional nombre="velocidadPlan">600 Mbps</campoAdicional>
+    <campoAdicional nombre="atencionReclamos1">Alfanet pone a su disposición nuestros canales de atención: 02 373 1070, el correo info@alfanet.ec y nuestro sitio web http://www.alfanet.ec</campoAdicional>
+    <campoAdicional nombre="atencionReclamos2">Si su reclamo NO ha sido resuelto por el prestador, ingrese su queja a través del formulario respectivo en www.gob.ec</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signaturea426546b-d9ab-4ca1-8c09-41e30d2c9427">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" Id="SignedPropertiesIDab49d4b4-4fbc-450c-8834-56745f355440" URI="#Signaturea426546b-d9ab-4ca1-8c09-41e30d2c9427-SignedPropertiesID961d34d0-c43b-43d3-8711-2d9de2182f03">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Y9swcVpLkBj/6rs/PtRhv4CvfTo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate2dd6c451-dd6a-4ae7-8dd5-2bb7f15259b0">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jpP5U8rg2HZ8AxkZKm6IM/31fPY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#comprobante" Id="Reference-ID-36f6a6a7-1ede-4176-92c1-6fdfb84f5c7e">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>as+GGVx51FV4AsqnKUXuck19Q1g=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>Q50xVZ0sPsvdokR5gLwYrN9f6RFgS454M4WzTtgSj9Cfnp655cPL/u7wMud0QHCMrLPKrHkR36++
+llRvRMK5r4oD++gEBV1y1E7Y/lYrvGHxnrHaxt4a5eg67wNfkMbIgjjXKTrCOlD5wP0K/98H0pqL
+pk444R2/AeHOlN3PO2l6gLKxc3uakUNm66Jz4uiepoX9nQJjFbjFRVNxnd0Z8FtrZF+3Fb9oITtO
+Dcl72yYcQcMGCBfzhzUPoovFWHnw4DPWSzP8VQH5O6vRtzfBt0WOdGEDOlCv6FA9P8gLjRVpd0cp
+N9EDgx+ZFSRPFnYozyitKWinGiCKa7H1UkatAg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate2dd6c451-dd6a-4ae7-8dd5-2bb7f15259b0">
+<ds:X509Data>
+<ds:X509Certificate>MIILBjCCCO6gAwIBAgIIBbvuVrbiaNUwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTAzMTM1NDQ0WhcNMzAwOTAzMTM1NDQ0WjCB
+qjEoMCYGA1UEAwwfSlVBTiBDQVJMT1MgR1VBTE9UVU5BIEhFTlJJUVVFWjEgMB4GA1UEBRMXMTcx
+NDg0NjA0My0wMzA5MjUwOTA0MzUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq/gK0aD324y4NWZYm0LJNnN1GlMbAY70
+2NjCJr+dPQCj6Ni42k7OwKZspfnJkMrG29yuU/RkcRMf8+bFi5/zBzRdndR5OhgfxhZSeZWngl8E
+CAFiPis6MuOukL0kTlnStmYvAmh8jez4raF/6EirBTwduFTjNEEdHNcNX1YqXAghK5nRthKC2PBw
+oo8iU2tc3LL5vNP3JDkF5AC/PvlL+8/bhYSq3a4Y1spwuLsELb0G0v9XfuVHfdP6LtAJlw28pSdd
+SFMA/bARYhIVypQB1PT9DQsQn/nv+HArf2AgJaySFf/Oma+vFNM/1v9AeVCH6ydwsFYPFTVhwoS9
+jaPqMwIDAQABo4IGPTCCBjkwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktV
+v42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIQYDVR0RBBowGIEWamNn
+dWFsb3R1bmFoQGdtYWlsLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggr
+BgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBu
+AHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJo
+dHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1h
+dGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2Vu
+dGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSC
+AgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwx
+L2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYT
+AkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3Js
+ZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQzAdBgNVHQ4EFgQU23ewgR7jWdq/5LNJO4VNMqA72wgwKwYDVR0QBCQwIoAPMjAyNTA5
+MDMxMzU0NDRagQ8yMDMwMDkwMzEzNTQ0NFowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwP
+R0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTcxNDg0NjA0MzBVBgorBgEEAYKmcgMJ
+BEcMRVNBTlRPIERPTUlOR08gREUgTE9TIENPTE9SQURPUyBDQUJFQ0VSQSBDQU5UT05BTCBZIENB
+UElUQUwgUFJPVklOQ0lBTDARBgorBgEEAYKmcgMiBAMMAS4wLgYKKwYBBAGCpnIDBwQgDB5WSUEg
+Q0hPTkUgUyBOIFkgTUFSR0VOIERFUkVDSE8wGwYKKwYBBAGCpnIDAgQNDAtKVUFOIENBUkxPUzAf
+BgorBgEEAYKmcgMgBBEMDzAxMjAwMTAwMDAwODI3NjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgor
+BgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGCpnIDAwQLDAlHVUFMT1RVTkEwHwYKKwYBBAGC
+pnIDCgQRDA9URUxFQUxGQUNPTSBTIEEwHQYKKwYBBAGCpnIDCwQPDA0yMzkwMDEyNTYyMDAxMBEG
+CisGAQQBgqZyAx0EAwwBLjAZBgorBgEEAYKmcgMEBAsMCUhFTlJJUVVFWjAaBgorBgEEAYKmcgMI
+BAwMCjA5OTA1OTQ2NTMwDQYJKoZIhvcNAQELBQADggIBAGd/ALh4lTuVAewOQq3gSRqVrcRsI6qS
+5rb8GVJdavllkCV/T5h4oXAfDW5wdRQsIF4MhEBZgmEWZKvX6PwRjUg8k8d3nJvLbokhR3n1xa7x
+sylrU8Gs3nIryyqkJ8dxD2IYir5mY2G7XXBQ9OGCOHMqEbhw6UDJsMSl97JwDuHFFVHVPYSbtNfx
+2s51Zqm2DXgeh3UsI09Haau3wOk/AKCppbF6wSO/jOaNrrATfAgCOXY3saZIbQmt1zGDzN33J5y0
+E+rb5yTrMw07g4OhBjybU1SIJQnIj/4SZbQ4eh72QsCQCXEgODlz6GFcIEjQ6+GJe/cr7+QgwDDB
+oFpkHZkm1sD7YNIXPvFqhnsjqU+Fr7b8rWDu4YGIv0DHoIOghHBkSjr6rgTcHC2MVcwUP7sNpYS2
+7VvmqXgJArCjT4cJC+W21ggMCGxSY/r5T1E1i7DHtvGGF6mbBKP4h728iKba4QpCpUd9/O64vFtf
+xAetArJdzC/oQN3UcZLDOk+tces0fOpqdt+h0E7ONqGQqqCQIdshOVQbaLhZ2OWr0Gxc/7K+tKbt
+UAaPincfp4PWgtCehWICxXADkz+p9QLbLSxeBLW/vria2XKDf23TvN2RUb6a4sqcSUpBfwiSiq4U
+MsfhZJ9YN8SzzkiknrzpCu+G2JcZYsKha3o6GkKyRW1g
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>q/gK0aD324y4NWZYm0LJNnN1GlMbAY702NjCJr+dPQCj6Ni42k7OwKZspfnJkMrG29yuU/RkcRMf
+8+bFi5/zBzRdndR5OhgfxhZSeZWngl8ECAFiPis6MuOukL0kTlnStmYvAmh8jez4raF/6EirBTwd
+uFTjNEEdHNcNX1YqXAghK5nRthKC2PBwoo8iU2tc3LL5vNP3JDkF5AC/PvlL+8/bhYSq3a4Y1spw
+uLsELb0G0v9XfuVHfdP6LtAJlw28pSddSFMA/bARYhIVypQB1PT9DQsQn/nv+HArf2AgJaySFf/O
+ma+vFNM/1v9AeVCH6ydwsFYPFTVhwoS9jaPqMw==
+</ds:Modulus>
+<ds:Exponent>AQAB
+</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signaturea426546b-d9ab-4ca1-8c09-41e30d2c9427" Id="Signaturea426546b-d9ab-4ca1-8c09-41e30d2c9427"><etsi:SignedProperties Id="Signaturea426546b-d9ab-4ca1-8c09-41e30d2c9427-SignedPropertiesID961d34d0-c43b-43d3-8711-2d9de2182f03"><etsi:SignedSignatureProperties><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>WjYFA0npEvzUswdGx/N9sydGYrw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA</ds:X509IssuerName><ds:X509SerialNumber>413185847037421781</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-36f6a6a7-1ede-4176-92c1-6fdfb84f5c7e"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2604202601019048045300120011000000293935205205214</numeroAutorizacion>
+<fechaAutorizacion>2026-04-26T19:51:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+  <ambiente>2</ambiente>
+  <tipoEmision>1</tipoEmision>
+  <razonSocial>ROTAL-CUE CIA. LTDA.</razonSocial>
+  <nombreComercial>CASA FIRENZA</nombreComercial>
+  <ruc>0190480453001</ruc>
+  <claveAcceso>2604202601019048045300120011000000293935205205214</claveAcceso>
+  <codDoc>01</codDoc>
+  <estab>001</estab>
+  <ptoEmi>100</ptoEmi>
+  <secuencial>000029393</secuencial>
+  <dirMatriz>SIMON BOLIVAR 8-56 Y LUIS CORDERO</dirMatriz>
+  <agenteRetencion>10</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>26/04/2026</fechaEmision>
+  <obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>MIGUEL JARA</razonSocialComprador>
+<identificacionComprador>0923295786</identificacionComprador>
+<direccionComprador>CUENCA</direccionComprador>
+<totalSinImpuestos>96.65</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>0.00</baseImponible>
+<tarifa>0</tarifa>
+<valor>0.00</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>96.65</baseImponible>
+<tarifa>15</tarifa>
+<valor>14.50</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>111.15</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>19</formaPago>
+<total>111.15</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>M00057N</codigoPrincipal>
+<descripcion>RIGATONI AL POMODORO O AL PESTO</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>11.2174</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>11.22</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>11.22</baseImponible>
+<valor>1.68</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>M00055N</codigoPrincipal>
+<descripcion>FETUCCINI ALLA CARBONARA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>13.4783</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>13.48</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>13.48</baseImponible>
+<valor>2.02</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>M00039N</codigoPrincipal>
+<descripcion>MACCHERONI ALLA MATRICIANA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>12.9565</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>12.96</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>12.96</baseImponible>
+<valor>1.94</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>M00050N</codigoPrincipal>
+<descripcion>INSALATA MURANO</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>11.2609</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>11.26</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>11.26</baseImponible>
+<valor>1.69</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>M00303</codigoPrincipal>
+<descripcion>EXTRA PECHUGA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>5.3913</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>5.39</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>5.39</baseImponible>
+<valor>0.81</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>M00035N</codigoPrincipal>
+<descripcion>SALAME CLASSICO</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>9.4783</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>9.48</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>9.48</baseImponible>
+<valor>1.42</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>M0003N</codigoPrincipal>
+<descripcion>PIZZA STELLA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>11.2174</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>11.22</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>11.22</baseImponible>
+<valor>1.68</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>M00047N</codigoPrincipal>
+<descripcion>LIMONATA TRADIZIONALE</descripcion>
+<cantidad>5.00</cantidad>
+<precioUnitario>2.4348</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>12.17</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>12.17</baseImponible>
+<valor>1.83</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>M00094</codigoPrincipal>
+<descripcion>COLAS</descripcion>
+<cantidad>3.00</cantidad>
+<precioUnitario>2.4348</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>7.30</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>7.30</baseImponible>
+<valor>1.10</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>M00087</codigoPrincipal>
+<descripcion>INFUSION O TE</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>2.1739</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>2.17</baseImponible>
+<valor>0.33</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">artcymonia.escuela@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature819395">
+<ds:SignedInfo Id="Signature-SignedInfo219376">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID696196" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature819395-SignedProperties272210">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>FAmnBIlwoYZy5uisKyLprfS8ENI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1462327">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jvWDp3t7WXwZLnT9bZavpaMx1zA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-358334" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>34xyRtkjTdvOg6xUvb7le7nfmW8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue9161">
+PnCAEjHGZ4nFsxlceUX4jwJznAhJ35+HXlFALHnrQkDlZ2wZEWmWP61mUpdcu+30X7g9WG2Vc91b
+oCUGwXwf8iNM6uDQw9+k/BlNyWVlLw0S/0LAyNPpNg3boDhTnaw62umQZX37s/8VifXSNuAVp3L7
+fEqyBS8lDElKCxzRjGMse1mwpcPfnSMl71QgGwovWt95m0wQjfpL6I/Tli1iWEoROPJaoE6CrGxv
+Nn4bnOxAoB5klcPmGGI5W9wjmleEbINDpz2HwYw5cSjCT4TVN7swUwlJI1C+X7xkgX7uTq3NN3cw
+j4EZQWOtkA78JajCMWXDVNVmo4YnzjucclI/pw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1462327">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJlTCCB32gAwIBAgIII7PSr08VaSIwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDcyNTE2NDkwMFoXDTI4MDcyNDE2NDkwMFowgdUxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRS
+T1RBTC1DVUUgQ0lBLiBMVERBLjEQMA4GA1UEDAwHR0VSRU5URTEXMBUGA1UEBAwOQ0FMT1ZJIEZP
+TlRBTkExGTAXBgNVBCoMEFNJTFZBTkEgVkVST05JQ0ExGTAXBgNVBAUTEElEQ0VDLTAxMDIyMDk2
+NzMxKDAmBgNVBAMMH1NJTFZBTkEgVkVST05JQ0EgQ0FMT1ZJIEZPTlRBTkExHDAaBgNVBGEME1ZB
+VEVDLTAxOTA0ODA0NTMwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCRhj80+KCN
+eetFLN+XJabIXvVvr+EAC6u4o/09XOa7s1aGHG+cEjpKEdw+rPtgpPBUCZizBwmfz1xLEDwTu2e+
+ssK4CRiYcab5i7s1iLyuHT1k0bev5SnIjHew9A4yEicWNJ9sVk3u8H6imvAvz0Z5GkLZ/NIQvR1K
+cgFTsePp3It1DWOUIut7jSwRb+R+q8pTeBcH8RPSqnQtzS0v//66AC9qx1Srva0901ygrOlQbpjC
+er0wssJWsDAYHspm5zT4MXpoW+BsrUmrdJHBknY2z/8dQEDAIMp5soWGq5TnRpNKeINBYg8niRqM
+FXd4XhRhsyflaZCiWFK0a24fZxNFAgMBAAGjggSCMIIEfjAbBgsrBgEEAYLxNmYDAQQMDAowMTAy
+MjA5NjczMB4GCysGAQQBgvE2ZgMLBA8MDTAxOTA0ODA0NTMwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUo8ml65fXtnX83R6WMnLqzKnl
+GX0wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBjgYDVR0g
+BIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1BggrBgEFBQcCAjApDCdDRVJUSUZJQ0FETyBERSBS
+RVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0
+cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAO
+BgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBwwYDVR0RBIIB
+ujCCAbaBHWZpcm1hczIwMjQuYWRvc29mdDJAZ21haWwuY29toBsGCysGAQQBgvE2ZgMBoAwMCjAx
+MDIyMDk2NzOgIQYLKwYBBAGC8TZmAwKgEgwQU0lMVkFOQSBWRVJPTklDQaAXBgsrBgEEAYLxNmYD
+A6AIDAZDQUxPVkmgGAYLKwYBBAGC8TZmAwSgCQwHRk9OVEFOQaAYBgsrBgEEAYLxNmYDBaAJDAdH
+RVJFTlRFoDIGCysGAQQBgvE2ZgMHoCMMIVNJTU9OIEJPTElWQVIgOC01NiBZIExVSVMgQ09SREVS
+T6AfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5ODgyNDkzMaAXBgsrBgEEAYLxNmYDCaAIDAZDVUVO
+Q0GgJQYLKwYBBAGC8TZmAwqgFgwUUk9UQUwtQ1VFIENJQS4gTFREQS6gHgYLKwYBBAGC8TZmAwug
+DwwNMDE5MDQ4MDQ1MzAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNS
+RVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQEL
+BQADggIBAAM8cVf85736VXkZRVb3wHGiqigSpln/7oj88T/Kwose+p7vpTIF78982upHo1tZw6E+
+6j28eY7ONg3xdMN3EGynKR92oBkneuqeyudwRbu/FGLYH5TpCAPGUdxOoC71auqnQxLReZeLQPWa
+hU6AUDtnGhltMrT2AkSH1c3KMRTkMcv7A1alGYuHoTmep0NbxQUYxFT7sHXuytTTyYvkRZdhdcos
+y6EQTYaXoc5VKMcNjFwGmn6IoLuao3faXSlhQbDWcXBlqjJ5ejjlhfy9csZo+iCVmP5BE2WnYfmf
+j09BES7hiQhAeeV35D4U1J/WNeVo1wFTsCVFDowlxOGGuczM7qrXZ/CbWWuY2PEKEOUtBrlUtwap
+ou70GXlM55HjRdygN4vbbCh7p4Fv4Mh6KFtcLj4skyhimcdvjGNPaKIwm2W0f1CfzrxvwZY9dS/b
+/+GFcB+N4/f39efykVAyhIJevA1VoN+PsK8BbDiOVotmbhk22w/0E6iJaivdbA4vHWeutBYEHbq8
+3N8DvkACj/A527OMPPxntPzUolTY2nxNrSkE/2oxAXKLMETxsC6fWEqHoMGjjtPkZ5Y4r+32HRFv
+TJ57aAj96YzBEwY+yBvTVPlJ9lTxyXBViSKO7Z9t/c/6a9+a2S6dmhqmm9aVqLi8I24kvPCQLjGK
+xRR3ip3W
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+kYY/NPigjXnrRSzflyWmyF71b6/hAAuruKP9PVzmu7NWhhxvnBI6ShHcPqz7YKTwVAmYswcJn89c
+SxA8E7tnvrLCuAkYmHGm+Yu7NYi8rh09ZNG3r+UpyIx3sPQOMhInFjSfbFZN7vB+oprwL89GeRpC
+2fzSEL0dSnIBU7Hj6dyLdQ1jlCLre40sEW/kfqvKU3gXB/ET0qp0Lc0tL//+ugAvasdUq72tPdNc
+oKzpUG6Ywnq9MLLCVrAwGB7KZuc0+DF6aFvgbK1Jq3SRwZJ2Ns//HUBAwCDKebKFhquU50aTSniD
+QWIPJ4kajBV3eF4UYbMn5WmQolhStGtuH2cTRQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature819395-Object116218"><etsi:QualifyingProperties Target="#Signature819395"><etsi:SignedProperties Id="Signature819395-SignedProperties272210"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-26T19:51:54-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>vJ1M9XomzLsHGPNSTbYcwXA+OOw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2572631462546598178</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-358334"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

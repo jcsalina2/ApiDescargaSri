@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0304202601019016695300120150010000099046568926712</numeroAutorizacion>
+<fechaAutorizacion>2026-04-03T22:08:12-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version='1.0' encoding='UTF-8'?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>EMPRESA HOTELERA LUCUPA S.A.</razonSocial>
+    <nombreComercial>EMPRESA HOTELERA LUCUPA SA</nombreComercial>
+    <ruc>0190166953001</ruc>
+    <claveAcceso>0304202601019016695300120150010000099046568926712</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>015</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000009904</secuencial>
+    <dirMatriz>Antonio Borrero 8-44 Mariscal Sucre</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>03/04/2026</fechaEmision>
+    <dirEstablecimiento>BENIGNO MALO 9 15 Y SIMON BOLIVAR PA</dirEstablecimiento>
+    <contribuyenteEspecial>654</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>MIGUEL JAEN</razonSocialComprador>
+    <identificacionComprador>0923295786</identificacionComprador>
+    <direccionComprador>CUENCA.</direccionComprador>
+    <totalSinImpuestos>46.40</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>8</codigoPorcentaje>
+        <baseImponible>46.40</baseImponible>
+        <valor>3.71</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>4.64</propina>
+    <importeTotal>54.75</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>27.500000</total>
+      </pago>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>27.250000</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PETITBEBIDA002</codigoPrincipal>
+      <descripcion>MORA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.400000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.40</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>2.40</baseImponible>
+          <valor>0.19</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PETITBEBIDA031</codigoPrincipal>
+      <descripcion>CHOCOLATE CALIENTE</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.200000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>3.20</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PETITBEBIDA032</codigoPrincipal>
+      <descripcion>INFUSIONES NATURALES</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>2.400000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.80</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>4.80</baseImponible>
+          <valor>0.38</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PRI003</codigoPrincipal>
+      <descripcion>PORC POLLO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.200000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>3.20</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PETITTARTIN002</codigoPrincipal>
+      <descripcion>TARTIN POLLO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.400000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.40</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>6.40</baseImponible>
+          <valor>0.51</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PETITTARTIN004</codigoPrincipal>
+      <descripcion>TARTIN MEDITERRANEO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>7.200000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>7.20</baseImponible>
+          <valor>0.58</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PETITFUERT002</codigoPrincipal>
+      <descripcion>POULET ROI</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>12.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>12.00</baseImponible>
+          <valor>0.96</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PETITFUERT005</codigoPrincipal>
+      <descripcion>PASTA PRIMAVERA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>7.200000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>7.20</baseImponible>
+          <valor>0.58</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="OtroCampo">Otra Informacion</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature161016">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID254881" URI="#Signature161016-SignedPropertiesID461325" Type="http://uri.etsi.org/01903#SignedProperties">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>upF4HpQ9dHRgUPBLGZUvUPHEcfk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate559388">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+NQ874lFi0Hbf/9zuIfRroQxleU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-645611" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Qqt4hiFEdJA9oE26vZHe0Llivcg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>DD2y0cCNRMumSuyVcteLOvARk0I2lYFml49CaP/Sm8oLFf1YvW7m/dTs/e54Dkpc
+Z9o45GdqHRKKHLJ5hjJtuBSFQiCOUgyqzcSq4GElB12NAsYGN6VzXY1ulLMnoX9q
+mGPSypEAO3R0Ef/SgOCjDzCbup0tHzYT11qE5/emcS/+1KGL1dA3iHT2Tc5aUQh3
+AWA93I9FG+xirnzXjGjHs3IYoc8ASW2iUVAlCkZwoP7jE7pKC+R/ZFY4aL7lfmls
+ekJBaB/Y5T/x0snbhDp6Al2GMHqQsTEV01rBb0KA6+ZeZKvnlfmSsoYwOtHbvh+6
+OzEQqNIUuL8FlqQS+Hze5A==</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate559388">
+<ds:X509Data>
+<ds:X509Certificate>MIIMGDCCCgCgAwIBAgIERrkOdzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMC
+RUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAe
+Fw0yNDA5MDQxNTA0MzNaFw0yNjA5MDQxNTA0MzNaMIGpMScwJQYDVQQDDB5NQVJD
+RUxPIFJBRkFFTCBDSElDTyBKQVJBTUlMTE8xIDAeBgNVBAUTFzAxMDM0MjU4ODAt
+MDQwOTI0MTAxNDIxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQsw
+CQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALZ1Zs1Z
+7QMQwj6M8wfjKsVwp8sGr42Cb9Az92SRpcAhAXuGJQsaESjTgPIhwib8Y4kweGRQ
+BuBJo8miSAq9gxNEmf9SYD9lzTKYClP5T2Qv9p3Ln779jcLZo7CI8DPgHz5aejLK
+s6a0xEQrN4hJlucp9pE62SuNVrly8wjRXZKBNjuIxLQM+8Imm9bVvNCvtoNxcuE8
+7WQKRrURa8xL6XutOwf8PDT2ONDc9sVHphhZ+rUhGFQkUQsdLfKrz4dJKxxoVXaP
+OELd3bmULjUFD8ydxSoGVikTzeHsqCObyWrD/Pi/nuNPGM2WvGpdvoJVzMeSKSjw
+ppbtMS0RASdazyUCAwEAAaOCB1QwggdQMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgw
+FoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUF
+BzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVi
+bGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEg
+Uy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCQGA1UdEQQdMBuB
+GXJhbWF5YUBzb2NpZWRhZGdvdXJtZXQuZWMwggEVBgNVHSAEggEMMIIBCDBiBgor
+BgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQA
+bwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGww
+gaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFz
+L1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXBy
+ZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0
+cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFE
+IERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VS
+SVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBD
+RVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqG
+gddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89
+U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUzFgSh+oQ9XkSxR2N
+BMt55ROo2UIwKwYDVR0QBCQwIoAPMjAyNDA5MDQxNTA0MzNagQ8yMDI2MDkwNDE1
+MDQzM1owCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5F
+UkFMMBoGCisGAQQBgqZyAwEEDAwKMDEwMzQyNTg4MDAbBgorBgEEAYKmcgMJBA0M
+C0VMIFNBR1JBUklPMBEGCisGAQQBgqZyAyIEAwwBLjA1BgorBgEEAYKmcgMHBCcM
+JUFOVE9OSU8gQk9SUkVSTyA4IDQ0IFkgTUFSSVNDQUwgU1VDUkUwHgYKKwYBBAGC
+pnIDAgQQDA5NQVJDRUxPIFJBRkFFTDAfBgorBgEEAYKmcgMgBBEMDzY2NjY2NjY2
+NjY2NjY2NjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VD
+VUFET1IwFQYKKwYBBAGCpnIDAwQHDAVDSElDTzArBgorBgEEAYKmcgMKBB0MG0VN
+UFJFU0EgSE9URUxFUkEgTFVDVVBBIFMgQTAdBgorBgEEAYKmcgMLBA8MDTAxOTAx
+NjY5NTMwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBkGCisGAQQBgqZyAwQECwwJSkFS
+QU1JTExPMBAGCisGAQQBgqZyAwgEAgwAMA0GCSqGSIb3DQEBCwUAA4ICAQBjgswq
+tbTE5t9ogNpBGUpQsBOgzY2QdMvfmF94DdtvrGS+YtUNXREGr0vj3q9LSZcdw1X2
+1ESgWR4bk6gl1ViG2MLou4plgRvsKRxa9YxmC8f7NJtxxfGrhfle7HDyCZrYoOTp
+PDtmRr7L0Otne5cBDcRZxfnlF3c3LyRee3CcZC8Ye26qtd6P+Ds4qiKhheGdqIfH
+8KZisImUSrjgsoRac6Qpw3q6WJtsA8RO+qJQ6GKf/lkCvtG6FVwcxfeMOdSiQrLU
+pUeJhIf+wVEBzcO8TiOcPkG6I8ivcWzuCycTfQNeeaS3RoTXGbxOsdNUAt7J9XWk
+n3d3xkpDcPQrT2zfMWgHCMiur2JbV+KhnzARNRznP4yWvmT/ksPoPiZYsUgQE30n
+Vrx21BenQO19SQ+Rwew3J53IUh3J+XwIL8snrUy8JzXOnjVgtJ6TDGXD7xCsCEP/
+PNzqzgPkzrr6lGBL8v9nWh8xYLcmlwO3cY27/c8+QGKW0sFS+42GDNOemzR6sV+d
+k9hdWK05R+rMa0NN7heY6Eb7/afgn1A+7Qt3TtSRKoUqmUQtaWpf/X1uKBhvPuAi
+AWSU0ix6JGlD0HLTFHhqfstrGVRkfGTNDIv13/NhngNACdESVVGSar8Ncpj5AS+/
+jQVIUwcLskb9HfwV5iWFSmQxAx9AVP8d1c2tNA==</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>tnVmzVntAxDCPozzB+MqxXCnywavjYJv0DP3ZJGlwCEBe4YlCxoRKNOA8iHCJvxj
+iTB4ZFAG4EmjyaJICr2DE0SZ/1JgP2XNMpgKU/lPZC/2ncufvv2NwtmjsIjwM+Af
+Plp6MsqzprTERCs3iEmW5yn2kTrZK41WuXLzCNFdkoE2O4jEtAz7wiab1tW80K+2
+g3Fy4TztZApGtRFrzEvpe607B/w8NPY40Nz2xUemGFn6tSEYVCRRCx0t8qvPh0kr
+HGhVdo84Qt3duZQuNQUPzJ3FKgZWKRPN4eyoI5vJasP8+L+e408YzZa8al2+glXM
+x5IpKPCmlu0xLREBJ1rPJQ==</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature161016" Id="Signature161016"><etsi:SignedProperties Id="Signature161016-SignedPropertiesID461325"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-04T03:08:11+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>tI76rpBTefUZjWCxcYr0moxQRko=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1186532983</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-645611"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

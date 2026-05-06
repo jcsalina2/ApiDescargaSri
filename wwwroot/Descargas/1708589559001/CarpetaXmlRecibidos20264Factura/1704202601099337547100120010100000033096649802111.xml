@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601099337547100120010100000033096649802111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T16:50:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PRO-AUDITS S.A.S.</razonSocial><nombreComercial>PRO AUDITS</nombreComercial><ruc>0993375471001</ruc><claveAcceso>1704202601099337547100120010100000033096649802111</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>010</ptoEmi><secuencial>000003309</secuencial><dirMatriz>Urb. San Felipe Mz. 135 V 21</dirMatriz></infoTributaria><infoFactura><fechaEmision>17/04/2026</fechaEmision><dirEstablecimiento>Urb. San Felipe Mz. 135 V 21</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>Davila Pazmiño Washington Fidel</razonSocialComprador><identificacionComprador>1708589559001</identificacionComprador><direccionComprador>PICHINCHA / QUITO / SAN JUAN / FELICIANO CHECA 124 Y AV. DIEZ DE AGOSTO</direccionComprador><totalSinImpuestos>91.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>0.00</descuentoAdicional><baseImponible>91.00</baseImponible><valor>13.65</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>104.65</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>104.65</total></pago></pagos><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta></infoFactura><detalles><detalle><codigoPrincipal>BANCOPICHINCHA-CALIFICACI</codigoPrincipal><codigoAuxiliar>BANCOPICHINCHA - CALIFICA</codigoAuxiliar><descripcion>BANCOPICHINCHA - CALIFICACION</descripcion><cantidad>1.000000</cantidad><precioUnitario>91.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>91.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Calificación de proveedores" valor="CALIFICACIÓN DE PROVEEDORES"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>91.00</baseImponible><valor>13.65</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="El pago puede realizarse mediante depósito o transferencia bancaria a la siguiente cuenta ">BANCO DEL PACÍFICO CTA. CORRIENTE  N° 8209693 PROAUDITS SAS IDENTIFICACIÓN RUC  0993375471001  CORREO  gestion@fullaudits-group.com / evaluacion@fullaudits-group.com</campoAdicional><campoAdicional nombre="Correo de cliente">estudiodavila@outlook.es</campoAdicional><campoAdicional nombre="Enviar los comprobantes de retenciones electrónicas al correo">gestion@proaudits.com.ec</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature844034">
+<ds:SignedInfo Id="Signature-SignedInfo94467">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID561133" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature844034-SignedProperties406768">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>VunE6Ih0+soRWDvsXPzppDQrXbg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1236716">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CxmuCwT0KrOrg0EkpWFdNQFol78=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-653066" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vdpVGm2HJpGIHSy1Av9E5t4TcvU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue21313">
+uqU42VylYHjlduDBJD6EkBDrrHqGnihWWZ39hSdss73Fx453hJCmQOCDuHzHxL83YCsO4ZJfo8rr
+EO82uuYcWkuZRlzFKJdCyj+6GwliboBTXnaKmj0RzFaoGq+UEW2JjycLmIviMwbyI18djkZx3CdU
+JF8WpWJmNRfCjXP8nFZ2qRxWPUoficPQgw9cmx6t7jSXlsknevXAK2jAKkvXyOXfsX1tHlcrLn3Z
+QvoWwoDtJVtEPU6KkVij2z4np+7RJ88LJfmhE/bpE6moUMGQloCHYXR76toMJEKWURR+DMxkGeKY
+qqI9otBBt4dGyoc0GV16UCX13/AzqwN66/Kt2w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1236716">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK5DCCCMygAwIBAgIMAzlwVlKyxZxKz0ezMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjQxMDI1MTgzNTA5WhcNMjYxMDI1MTgzNTA5WjCCAV4xGjAYBgNVBAoMEVBSTy1BVURJ
+VFMgUy5BLlMuMRowGAYKKwYBBAGCpEIKBAwKMDkyMTk3Mjg2NTEoMCYGA1UECwwfQ2VydGlmaWNh
+ZG8gUGVyc29uYSBKdXJpZGljYSBFQzETMBEGA1UEKgwKUEVEUk8gQUxFWDEWMBQGA1UEYRMNMDk5
+MzM3NTQ3MTAwMTELMAkGA1UEBhMCRUMxEzARBgNVBAUTCjA5MjE5NzI4NjUxGDAWBgNVBAQMD1RV
+VElWRU4gU0FOQ0hFWjEuMCwGA1UEAwwlMDkyMTk3Mjg2NSBQRURSTyBBTEVYIFRVVElWRU4gU0FO
+Q0hFWjEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMSUwIwYJKoZIhvcNAQkBFhZ0dXRpdmVuLmFs
+ZXhAZ21haWwuY29tMQ8wDQYDVQQIDAZHVUFZQVMxDzANBgNVBAcMBlRBUlFVSTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBANy2z+cGGcLv+wRFHwSEYkxSkO2teOQmReDPgyrQE27mLdVg
+OvCeJlXNWUOIXm6q/eg+eR3o2PtdMyqXf0ahjbuOzKtxErdB4wEaMHXpS6ZT9pkZg1NyfM6SlnIS
+bZK3pD45wrjEdyjE8uZ7h7+CK63tDSBgnATUmX1tIesp6d99uVW4VZYDDNR+LEFKON6jgW/XY+r6
+7NgyGWW5IBHJTXageEPxXB6+XQ67v+yzWHs0+lHRznXUaG/H7EEU3bVr0A6/IslaVgKlsOTyae7q
+nOUjjCkC1r3UhznOZo6ea1pFxqBy2phYl5nokE0l8IB2gmFbkcNc91CUk9quW3TVWUUCAwEAAaOC
+BUIwggU+MB8GA1UdIwQYMBaAFJKu1MuCtJnG0XsRbGXqxU1oIfmsMB0GA1UdDgQWBBTMQX6CrHmo
+AHoPuR3l46EgL1os6TCB8wYDVR0RBIHrMIHogRZ0dXRpdmVuLmFsZXhAZ21haWwuY29tpIHNMIHK
+MRowGAYKKwYBBAGCpEIKAQwKUEVEUk8gQUxFWDEXMBUGCisGAQQBgqRCCgIMB1RVVElWRU4xFzAV
+BgorBgEEAYKkQgoDDAdTQU5DSEVaMRowGAYKKwYBBAGCpEIKBAwKMDkyMTk3Mjg2NTEZMBcGCSsG
+AQQBgY8cAQwKQS0yNTEwMjAyNDEuMCwGA1UEAwwlMDkyMTk3Mjg2NSBQRURSTyBBTEVYIFRVVElW
+RU4gU0FOQ0hFWjETMBEGA1UEBQwKMDkyMTk3Mjg2NTAOBgNVHQ8BAf8EBAMCBsAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwIGCCsGAQUFBwMEMFAGA1UdHwRJMEcwRaBDoEGGP2h0dHA6Ly9jcmwuYW5mLmVz
+L2NybC9BTkZIaWdoQXNzdXJhbmNlRWN1YWRvckludGVybWVkaWF0ZUNBLmNybDCCAQMGA1UdIASB
++zCB+DCB3wYMKwYBBAGCpEICBQEDMIHOMCgGCCsGAQUFBwIBFhxodHRwOi8vd3d3LmFuZi5lcy9k
+b2N1bWVudG9zMIGhBggrBgEFBQcCAjCBlAyBkUNlcnRpZmljYWRvIGNvbmZvcm1lIGEgbGEgbGVn
+aXNsYWNpw7NuIGRlIGZpcm1hIGVsZWN0csOzbmljYS4gQW50ZXMgZGUgYWNlcHRhcmxvIGNvbXBy
+dWViZSBpbnRlZ3JpZGFkLCBsaW1pdGFjaW9uZXMsIHZpZ2VuY2lhIHkgdXNvcyBhdXRvcml6YWRv
+cy4wCQYHBACL7EABATAJBgdghVQBAwUIMIGbBggrBgEFBQcBAQSBjjCBizAnBggrBgEFBQcwAYYb
+aHR0cDovL29jc3AuYW5mLmVzL3NwYWluL0FWMGAGCCsGAQUFBzAChlRodHRwOi8vd3d3LmFuZi5l
+cy9lcy9jZXJ0aWZpY2F0ZXMtZG93bmxvYWQvQU5GSGlnaEFzc3VyYW5jZUVjdWFkb3JJbnRlcm1l
+ZGlhdGVDQS5jZXIwDAYDVR0TAQH/BAIwADAoBgkrBgEEAYGPHBMEGwwZNjIyNjA3MjAyMTU0LTUy
+NTAyMDE3MjExNTAVBgorBgEEAYGPHBMCBAcMBTM3NDQyMCkGCisGAQQBgqRCEwEEGwwZNTI1MDIw
+MTcyMTE1LTQ4NzA2NTEyMjM0ODAaBgorBgEEAYKkQgMBBAwMCjA5MjE5NzI4NjUwIQYKKwYBBAGC
+pEIDCgQTDBFQUk8tQVVESVRTIFMuQS5TLjAdBgorBgEEAYKkQgMLBA8MDTA5OTMzNzU0NzEwMDEw
+EgYKKwYBBAGCpEIDDAQEDAJFQzAaBgorBgEEAYKkQgMCBAwMClBFRFJPIEFMRVgwHwYKKwYBBAGC
+pEIDAwQRDA9UVVRJVkVOIFNBTkNIRVowHwYKKwYBBAGCpEIDBQQRDA9HRVJFTlRFIEdFTkVSQUww
+FgYKKwYBBAGCpEIDCQQIDAZUQVJRVUkwFwYKKwYBBAGCpEIqAQQJDAdVSU8tMDA3MBMGCisGAQQB
+gqRCLgEEBQwDNzMwMFAGCisGAQQBgqRCLwEEQgxANTA3NjExMGViNTNlNzVmNjVhMTllM2UzZjMy
+OGE1YTJiMjJlMzc1OTY4NjZkM2ZmNTEwNzdiYWI3ZmMzNTkwYjANBgkqhkiG9w0BAQsFAAOCAgEA
+BrvzTaEhdb8QSJXRX/b0YR2UCWeC3TYL8zzA+2OzC6wNJkoxOCZZBtKRoSQaCGeMkIyLVppzu9sp
+Uz3owAntMJUyQRUsbYbGWRxlbLutIrb0yRYnTOFX4rWW4Ic44mlbdGaCs502VAsSpUhb/eO3HJlY
+NNq7Rjf4wksFxnBtUeDUAW4ZvCX9vpn9/2axmDv4C7WARNAF7EPCZfOYiCNHAduRQy7TF5tQUhMX
+88DdD0HFFry1V+H+T+LKe7rMIsOIC2S/xzaUUHK6Vte90mKMoWFLGA0V5ezh5wr3vhDVuYF+OTrK
+0mwXKgWjSe6azkBbyeizzg7UurV4yzbfzLOTrNAcYUKNyIKc9Kwq4aS1dlWnDo9uWLwTShdcbK6i
+WJaBs0ZWaCwPjo4TJDYkEhYPI6ayw868faWr00UAHg86mlL+4DNNXBS7agi957BnGGB5PwiPr9VZ
+42pLs8+C37Kz0pE4lly34kpyQw+YUz7WagMqWYsp9Ip5/VvZKo6Sa2Knai2iiBBpVVF+Bc+4ScYI
+hYCtUcKp9Kw1KYKox675UiNl6mmwAJFxKUKoQP8BZiTpUqYVIqcTLgBhd9tYipQZQkHUERvtcm3K
+OJl3ictMl6KVeXAofawl7Xb55FRuJAZcG14qW5jIY2g53W0THvHw6+XB786dQ7ssxYCVjftfNPs=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3LbP5wYZwu/7BEUfBIRiTFKQ7a145CZF4M+DKtATbuYt1WA68J4mVc1ZQ4hebqr96D55HejY+10z
+Kpd/RqGNu47Mq3ESt0HjARowdelLplP2mRmDU3J8zpKWchJtkrekPjnCuMR3KMTy5nuHv4Irre0N
+IGCcBNSZfW0h6ynp3325VbhVlgMM1H4sQUo43qOBb9dj6vrs2DIZZbkgEclNdqB4Q/FcHr5dDru/
+7LNYezT6UdHOddRob8fsQRTdtWvQDr8iyVpWAqWw5PJp7uqc5SOMKQLWvdSHOc5mjp5rWkXGoHLa
+mFiXmeiQTSXwgHaCYVuRw1z3UJST2q5bdNVZRQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature844034-Object228512"><etsi:QualifyingProperties Target="#Signature844034"><etsi:SignedProperties Id="Signature844034-SignedProperties406768"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T16:50:01-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>7Mu1m1mrHicWa91Mfu0wuYc3cMc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>997894298607183340443223987</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-653066"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601100319750400120011000000000125914646719</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T11:31:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>CRUZ CADENA JOSE JOAQUIN</razonSocial>
+        <ruc>1003197504001</ruc>
+        <claveAcceso>0804202601100319750400120011000000000125914646719</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000012</secuencial>
+        <dirMatriz>Calle: A10S7 Numero: N14 - 83 Interseccion: CARAPUNGO </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>08/04/2026</fechaEmision>
+        <dirEstablecimiento>Calle: A10S7 Numero: N14 - 83 Interseccion: CARAPUNGO </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>GUALAVISI GUAJAN SEGUNDO DAVID</razonSocialComprador>
+        <identificacionComprador>1716539133001</identificacionComprador>
+        <totalSinImpuestos>355.50</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>355.50</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>355.50</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>355.50</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>001</codigoPrincipal>
+            <descripcion>SERVICIO DE TRANSPORTE</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>355.50</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>355.50</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>355.50</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">rosescousinsg.dtf@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-1f3c20e7-79a2-4ad7-8189-0942b05c129e"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-1f3c20e7-79a2-4ad7-8189-0942b05c129e-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>NltWRRK7PwHlb/WJi4Q/kMAlKlRIjQOzYbxC+TFWF6E=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-1f3c20e7-79a2-4ad7-8189-0942b05c129e-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>nGRuRwR4mtHlpoP48RqMhCGf5Sqrv0ZzDUmo1Q6wY/o=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-1f3c20e7-79a2-4ad7-8189-0942b05c129e-sigvalue">iCDTUojflFQIXyhjSBMwY8BEGr8yBpxROQ9L8MFIBBlqFeMcEHYmb7qxEWw3hfK3xm28tk1xeuMqWktUc0H8Oczms0kHGVoYXFddD9VhlEGkdKiVqBDlyYHfQrtnPIaHcA5VQWH7tKsTJ+NHw32PnOhSfRO1N6K/oj+U7wPMLV/xLdKgoAYkCJuZ2RQ/EhGsRdb7DYzQo9O2UApbf+p4DvkJWPQ3LFpv/rOjcwWGhPZV5ArNGcGfe7wqHFKg3Kf7hRy5GE6/vuhkdfe3ycEh4B2DDurR/rx7lKXCnTsp2B+cA1JfZ1X4eZXuavd3FpZbWITd3DXgvc4YZaVsswpLcQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-1f3c20e7-79a2-4ad7-8189-0942b05c129e"><xades:SignedProperties Id="xmldsig-1f3c20e7-79a2-4ad7-8189-0942b05c129e-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-08T11:31:07.128-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>3SJNx5xrRgWSIYsbT4xkTZzMeWySGowAFOImeFX6HWk=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1EF CORPNEWBEST,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=CORPNEWBEST CIA. LTDA.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>443573345668242641506685</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-1f3c20e7-79a2-4ad7-8189-0942b05c129e-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

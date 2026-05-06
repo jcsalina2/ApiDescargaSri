@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202601180310846100120010020000891920000313815</numeroAutorizacion>
+<fechaAutorizacion>2026-04-20T11:45:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?><factura id="comprobante" version="1.0.0">  <infoTributaria>    <ambiente>2</ambiente>    <tipoEmision>1</tipoEmision>    <razonSocial>ROMULO EUCLIDES MARTINEZ NUÑEZ</razonSocial>    <nombreComercial>NOTARIA SEGUNDA - LOS RIOS - QUEVEDO</nombreComercial>    <ruc>1803108461001</ruc>    <claveAcceso>2004202601180310846100120010020000891920000313815</claveAcceso>    <codDoc>01</codDoc>    <estab>001</estab>    <ptoEmi>002</ptoEmi>    <secuencial>000089192</secuencial>    <dirMatriz>AVENIDA. 7 DE OCTUBRE 8-28 Y NOVENA, EDIFICIO BORJA ESPARZA, PISO 1, FRENTE A FERRETERÍA FONG.</dirMatriz>  </infoTributaria>  <infoFactura>    <fechaEmision>20/04/2026</fechaEmision>    <obligadoContabilidad>NO</obligadoContabilidad>    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>    <razonSocialComprador>WASHINGTON FIDEL DAVILA PAZMIÑO</razonSocialComprador>    <identificacionComprador>1708589559</identificacionComprador>    <direccionComprador>FELICIANO CHECA #Oe1-26</direccionComprador>    <totalSinImpuestos>24.10</totalSinImpuestos>    <totalDescuento>0</totalDescuento>    <totalConImpuestos>      <totalImpuesto>        <codigo>2</codigo>        <codigoPorcentaje>4</codigoPorcentaje>        <descuentoAdicional>0</descuentoAdicional>        <baseImponible>24.10</baseImponible>        <valor>3.62</valor>      </totalImpuesto>      <totalImpuesto>        <codigo>2</codigo>        <codigoPorcentaje>0</codigoPorcentaje>        <descuentoAdicional>0</descuentoAdicional>        <baseImponible>0.00</baseImponible>        <valor>0</valor>      </totalImpuesto>    </totalConImpuestos>    <propina>0</propina>    <importeTotal>27.72</importeTotal>    <moneda>DOLAR</moneda>    <pagos>      <pago>        <formaPago>20</formaPago>        <total>27.72</total>      </pago>    </pagos>  </infoFactura>  <detalles>    <detalle>      <codigoPrincipal>521</codigoPrincipal>      <codigoAuxiliar>585</codigoAuxiliar>      <descripcion>(1) MARGINACIONES A LA MATRIZ</descripcion>      <cantidad>1</cantidad>      <precioUnitario>24.10</precioUnitario>      <descuento>0</descuento>      <precioTotalSinImpuesto>24.10</precioTotalSinImpuesto>      <impuestos>        <impuesto>          <codigo>2</codigo>          <codigoPorcentaje>4</codigoPorcentaje>          <tarifa>15.00</tarifa>          <baseImponible>24.10</baseImponible>          <valor>3.62</valor>        </impuesto>      </impuestos>    </detalle>  </detalles>  <infoAdicional>    <campoAdicional nombre="Matrizador">OLGA PATRICIA ACOSTA ZAMORA</campoAdicional>    <campoAdicional nombre="NÚMERO DE LIBRO">20261205002O00237</campoAdicional>    <campoAdicional nombre="Email Cliente">estdiodavila@outlook.es</campoAdicional>    <campoAdicional nombre="TELÉFONO">022523556</campoAdicional>    <campoAdicional nombre="CELULAR">0997103666</campoAdicional>  </infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature406294">
+<ds:SignedInfo Id="Signature-SignedInfo551802">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID856146" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature406294-SignedProperties501267">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>csnc00GtWIa2VPEJNR9uwWr1UKI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate799001">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>5uNZapM+CHZXvOq++Li0ZIpswmc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-987723" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>EkPEuwWY7CWWhFj9WRlxmbxMfjM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue29021">
+czz/gJMOrtz6Geoscz+gM1dSm+9Gu8Fr6hHyTAgOS3yexZcf6GHol7RxtY4UkXu5BI/nl69F6axE
+3aERL7e6xP9cpsX/jtLPSrbuAAKD1Jafh5CZpwTgZyankLjUja6AQfBJyxF7arq9+v2I0pEFuX2o
+zzS7SYbuJFTTvr9Tpc0ld97gOuav1pXbdW8AVbUXxKXVwlsa9N0gysqRZM/4NT23BFD+0EPRsqai
+UZzGqdDi6/tLJUGjBVcijU84QxSNiD8H4Kjugqe5uEWuUi77X/XYHK2VSXdyukY+n8wpgX3gK5MF
+JeatNZzERIguiA5AnhQ3ROA49xDz+oBzKvyJWg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate799001">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH2TCCBcGgAwIBAgIQApnzPh/G/r5IbElKwhB1wTANBgkqhkiG9w0BAQsFADCBwjELMAkGA1UE
+BhMCRUMxGzAZBgNVBAoMEkZJUk1BU0VHVVJBIFMuQS5TLjEwMC4GA1UECwwnRU5USURBRCBERSBD
+RVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMRMwEQYDVQQIDApUVU5HVVJBSFVBMT4wPAYDVQQD
+DDVBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIEZJUk1BU0VHVVJBIFMuQS5TLjEP
+MA0GA1UEBwwGQU1CQVRPMB4XDTI0MDYxMTE0MDk0NloXDTI3MDYxMTE1MDk0NVowgeMxLTArBgNV
+BAUTJGYwMTcyOTQ2LTQ5ZWUtNDBjZC1hODgxLTY1ZmJmZGRiMTJhMTErMCkGCSqGSIb3DQEJARYc
+cm9tdWxvbWFydGluZXo3OUBob3RtYWlsLmNvbTEpMCcGA1UEAwwgUk9NVUxPIEVVQ0xJREVTIE1B
+UlRJTkVaICBOVcORRVoxMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEbMBkGA1UEChMSRklSTUFTRUdVUkEgUy5BLlMuMQswCQYDVQQGEwJFQzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAIL6Tl5P42l9uC+QWPutKRruJnzY4bTxCB1q7jTb4gCn
+mcSfAV5MzA+sLenOYoY8CvXv3N0z/RiDJrcOJDNBJ6338dCK2gc6DlNWu8otmJrF2cSc+NuyUbra
++6mQmJKCx9MI1Fmgc+ZKn8UH36C5r0SCHOYna+TgtqH23fTWNY59DP0YHkrnBg7/0wgl5qzHabow
+seY3Z/qntKgBbKNG+AXQGNXAq96YXVI4odc52q72FlrRvhPjpX9LDFmWP4QTppWOCjxapMHkJfB1
+eEll5aZ+5nEJgwR6+xvmBtN95eQfTg9wTSwLML5ZN54Gt7OKXSAvUNW6ZeXPAe7T1yErLcECAwEA
+AaOCAqYwggKiMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUE0aTaAmu1ySHM0VjJnffrF5eilEwHQYD
+VR0OBBYEFIPAK88nfNK3jcfNUlphxscgJ1WIMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwu
+ZmlybWFzZWd1cmFlYy5jb20vY3JsL2NjY2U1YTRmLTZiNjgtNDZmYy1hNjIwLTRhYmNjNGM0YTY5
+MC5jcmwwOQYIKwYBBQUHAQEELTArMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5maXJtYXNlZ3Vy
+YWVjLmNvbTAaBgorBgEEAYPeeQMBBAwWCjE4MDMxMDg0NjEwHwYKKwYBBAGD3nkDAgQRFg9ST01V
+TE8gRVVDTElERVMwGAYKKwYBBAGD3nkDAwQKFghNQVJUSU5FWjAVBgorBgEEAYPeeQMEBAcWBU5V
+0UVaMDYGCisGAQQBg955AwcEKBYmQVYgNyBERSBPQ1RVQlJFIDgtMjggWSBPQ1RBVkEgWSBOT1ZF
+TkEwHAYKKwYBBAGD3nkDCAQOFgw1OTM5ODAzMjEzNDAwFwYKKwYBBAGD3nkDCQQJFgdRVUVWRURP
+MBMGCisGAQQBg955AwwEBRYDRUNVMB0GCisGAQQBg955AwsEDxYNMTgwMzEwODQ2MTAwMTCBnAYD
+VR0gBIGUMIGRMFAGCysGAQQBg955AgEBMEEwPwYIKwYBBQUHAgEWM2h0dHBzOi8vZmlybWFzZWd1
+cmFlYy5jb20vcG9saXRpY2FzX3BlcnNvbmFfbmF0dXJhbDA9BgsrBgEEAYPeeQICATAuMCwGCCsG
+AQUFBwICMCAMHkNlcnRpZmljYWRvIGRlIFBlcnNvbmEgTmF0dXJhbDAOBgNVHQ8BAf8EBAMCBeAw
+DQYJKoZIhvcNAQELBQADggIBAKwjgZk8WzAfso2IlzYarzF4vh03ygFMmHjJpiwiXrm1lgl7/TXw
+YyMAVTVY7/n839Wnds1Rlyb6VyzBwUgDvJX5Zq+AYnHyUN5lCEYDXpnxlJmRMFCGZyyaI3u83Jx3
+rBmW7WqCePAIQUjOllcn/+tsBEk3phc1dY5j5FUnzLz6D0jB6oU/qfdh4cr5mj8edUiZOsI4jZIr
+iN3VZWxtoi6fdAPE9aLADTQhtUt0E0+8aEiW6F/s7+clibfUOE9lZy6CT9m16aRXkSqJJTutgs/z
+tDFwCzqbj5/dnFzA7ZlnVdNKwz29DqWnsv2/4cNfQASTjpxeqMfJ5ev+wVwkcIIoAto3zrF3jw6z
+ZDvkPm0jdlEGWSkQFKp3nPzVoS+a2C7A4YojZCiOdkJcUjFqpr/rgmuYTd0NFZW9tDOKXv4o2boo
+5z3qNoDFeH4zHwwx2TXE/Q+RANmDmtmZfqPvEYxkS8s5t+i+cH5oPPe2PbkrpJprjoPOI8Sx/bdN
++3aUWq5PQXynxaWLt7RHJfmbSRGwqCl9jZHeOmlhmrgdm3JWEaIPxTo7851yOSKyDNfGMgC/01iM
+CvA+f7IPgLvHzVtXBb8j1Af57JP88KKQVpCO2OpmTHDKMbeEFpkdBhfYyJcMzbbbWQu0hEi6sbsI
+Sr8p3q6Fec1PMY1JsqdhjG32
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gvpOXk/jaX24L5BY+60pGu4mfNjhtPEIHWruNNviAKeZxJ8BXkzMD6wt6c5ihjwK9e/c3TP9GIMm
+tw4kM0Enrffx0IraBzoOU1a7yi2YmsXZxJz427JRutr7qZCYkoLH0wjUWaBz5kqfxQffoLmvRIIc
+5idr5OC2ofbd9NY1jn0M/RgeSucGDv/TCCXmrMdpujCx5jdn+qe0qAFso0b4BdAY1cCr3phdUjih
+1znarvYWWtG+E+Olf0sMWZY/hBOmlY4KPFqkweQl8HV4SWXlpn7mcQmDBHr7G+YG033l5B9OD3BN
+LAswvlk3nga3s4pdIC9Q1bpl5c8B7tPXISstwQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature406294-Object795493"><etsi:QualifyingProperties Target="#Signature406294"><etsi:SignedProperties Id="Signature406294-SignedProperties501267"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T11:45:18-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>9KCRLKtilT0N7rUdCtdj4W2KJcE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO, CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S., S=TUNGURAHUA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=FIRMASEGURA S.A.S., C=EC</ds:X509IssuerName><ds:X509SerialNumber>3457810958440029221206773296125736385</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-987723"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

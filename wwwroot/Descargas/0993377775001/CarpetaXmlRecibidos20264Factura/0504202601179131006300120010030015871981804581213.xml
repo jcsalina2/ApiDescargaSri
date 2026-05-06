@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0504202601179131006300120010030015871981804581213</numeroAutorizacion>
+<fechaAutorizacion>2026-04-05T02:01:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>DATAFAST S A</razonSocial><nombreComercial>DATAFAST S A</nombreComercial><ruc>1791310063001</ruc><claveAcceso>0504202601179131006300120010030015871981804581213</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>003</ptoEmi><secuencial>001587198</secuencial><dirMatriz>EDIF CORPORATIVO PISO 1 OFIC MZ 01 AV LAS AMERICAS SN Y AV ISIDRO AYORAENTRE LAS OFICINAS DE MOVISTAR Y LATAM</dirMatriz></infoTributaria><infoFactura><fechaEmision>05/04/2026</fechaEmision><dirEstablecimiento>EDIF CORPORATIVO PISO 1 OFIC MZ 01 AV LAS AMERICAS SN Y AV ISIDRO AYORAENTRE LAS OFICINAS DE MOVISTAR Y LATAM</dirEstablecimiento><contribuyenteEspecial>1305</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>KAPICCHI SAS</razonSocialComprador><identificacionComprador>0993377775001</identificacionComprador><direccionComprador>EDIFICIO BELLINI PUETO SANTA ANA BARRIOBELLINI TORRE 2 2 PUERTO SANTA ANA PISOBELLINI TORRE 2</direccionComprador><totalSinImpuestos>4.75</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>0.00</descuentoAdicional><baseImponible>4.75</baseImponible><valor>0.71</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>5.46</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>5.46</total><plazo>0</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta></infoFactura><detalles><detalle><codigoPrincipal>PPAPAYMENTEZCONXMS</codigoPrincipal><descripcion>PASARELA PAYMENTEZ CNX MENSUAL</descripcion><cantidad>1.000000</cantidad><precioUnitario>4.750000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.75</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>4.75</baseImponible><valor>0.71</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Telefono">593 043958941</campoAdicional><campoAdicional nombre="Direccion">EDIFICIO BELLINI PUETO SANTA ANA BARRIOBELLINI TORRE 2 2 PUERTO SANTA ANA PISOBELLINI TORRE 2</campoAdicional><campoAdicional nombre="Periodo Facturado">5 abr 2026 a 5 may 2026</campoAdicional><campoAdicional nombre="MID">7100082781</campoAdicional><campoAdicional nombre="TID">PW444285</campoAdicional><campoAdicional nombre="Cod. ON2">052928</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature689267">
+<ds:SignedInfo Id="Signature-SignedInfo499821">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID320694" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature689267-SignedProperties752590">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>GR9EncYByDkzkQtBB4JHEVPH5Qs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate190455">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>GJjtY6E6x7qwdBJt1rqTGfPo0qo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-371759" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Ork+zEulLNiDF14uxkG5eALoC2M=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue857309">
+G71avY+AswqL9f7bQrNMsKkKURbdbTO/DgTTC3lzj5t5rHctPWRaPAlhb7ewhm9AVZy+80cXM46I
+eEgMnZ/rIoivAW3c0eY6znz3aJV2ZrmAvRAp1beJKAlWGsBrHGXWmZjr5Zf60Y/JrOVgBx173Uqa
+IcanK1hdwD6JF1gwSCy5w2LI05vzv6MWK1r8/GtxpqOFN9Bj5GKSnGUasf2urog4sTyOp/24pymF
+qL4h4e3dDnlAZGJ6IoNf5H9WHA/lJ8YtRTsLXA8ocTiGpTpGuheCJlfzIWslO3uAE1ZE5q8De1Al
+E0kzxvWGCj0koMQ+Nr78n5+7wHj9HrecRhQM6w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate190455">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKtzCCCJ+gAwIBAgIIVYN/hSejVfcwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMTE0MjIyMDMxWhcNMjcxMTE0MjIyMDMxWjCB
+pDEiMCAGA1UEAwwZTUFOVUVMIENBTUlMTyBWSUFMIEZJR0FSSTEgMB4GA1UEBRMXMDk2Njk5ODA1
+Ni0xNDExMjUxNzMwMjQxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv2qjfayMxNdPnfJwQYb9o8SuRoZOw+sl2FXDi8iZ
+UkKxI9QdoAC8qNyiBRfvKBLAg9o47IALM2JhZK4SXpq6q5OtEGtdnXT+UTiPVPORdPogC8MQwUG0
+CFA2Y+rxQ3yqkxuX3QE8U+/2LtHVg8ybMDSBtS86kJovHei3Sk35vkGvnokMIdx1Rc5IWpKBvxGX
+iX6DLqHI8y9RDCmI5RfQncUwiCwkfxLas0IBJKkD//3iv5Dk3gg2RvUnrUXDg3oCi52HiNwXgOBq
+J1zlRJRMl9ZF0fTRa+wmXyyrxl44qajy4/XqEUKEayWQ/tBbhalMswlaj5Omnk6ZwQIZeF2C/wID
+AQABo4IF9DCCBfAwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29
+jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwJgYDVR0RBB8wHYEbc21vbnRlbmVn
+cm9AZGF0YWZhc3QuY29tLmVjMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsG
+AQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4A
+dABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0
+dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0
+aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50
+YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIIC
+BjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEv
+Y3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxm
+aWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDMB0GA1UdDgQWBBRe+2mRf5dhZEKOXUj3Weow5qOrrzArBgNVHRAEJDAigA8yMDI1MTEx
+NDIyMjAzMVqBDzIwMjcxMTE0MjIyMDMxWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9H
+RVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTY2OTk4MDU2MBYGCisGAQQBgqZyAwkE
+CAwGVEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjAoBgorBgEEAYKmcgMHBBoMGDkgREUgT0NUVUJS
+RSA0MTYgWSBDSElMRTAdBgorBgEEAYKmcgMCBA8MDU1BTlVFTCBDQU1JTE8wHwYKKwYBBAGCpnID
+IAQRDA8wMDEwMDIwMDEwNzE1ODEwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJ
+DAdFQ1VBRE9SMBQGCisGAQQBgqZyAwMEBgwEVklBTDAcBgorBgEEAYKmcgMKBA4MDERBVEFGQVNU
+IFMgQTAdBgorBgEEAYKmcgMLBA8MDTE3OTEzMTAwNjMwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYG
+CisGAQQBgqZyAwQECAwGRklHQVJJMBoGCisGAQQBgqZyAwgEDAwKMDk4NTE1MDc1NTANBgkqhkiG
+9w0BAQsFAAOCAgEARfZ74ily0CFdxIb/zJpzcpH446RI/1yceFSG0jYDEnbwGgYlKERUrZZOcOES
+8q86T38k6psNCYwS6a2Pqsk1Bzqx8Ax5SvL1qMGAW2iz6lAKDx//vVHfkLXG/V3C+ED1xl767ysG
+d3DsLHS5Xprp4kcKJdZJcwHQ0fFLJVevUIth2qRQeSRWURKxG7zI1D5wm85SvT9avUw5iKcI3GOH
+ugg7EboNeDAXfFW4qsm4y9mVxUUnAZ9zUKhQmFp2QFnzucsSvm/gXJkDCzFm2Jnm9D7kzzgwNk3b
+j0A+tEWEN8g89BiBm38oy8APE4rSbAvGNIrGvDKOLsM6Yha8y00NReCJ8kDPH2YuzdFGfctW5ilp
+xfsaK+8JOoQ+w1zhl9C7xpyzif0xJ3E2tfFyR2Y62n59fphLsuZclk7xqRty77K06F1cDkTdcCtE
++o6BniA1lwwAG2cOAj/oR43WeXuStOhm6DKasqdEeNigf09UuoCgCQm7yz/AYpk+PIuVdgCAhvCy
+TcTkl2jl1nNOVc2YJlR6Z/35Fex1MiyYuOBNL19nXDMSS0gDXwVllPSQ0MzMivs9/429cM02wBUp
+AwCTYZUNkmxvimXd8BX1ukH0v60ZVsnas0CkuNDM15wuaZnty1QCh+davCnZZvl/byPl2/hL2imb
+CExyCK2Uk2OKk1s=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+v2qjfayMxNdPnfJwQYb9o8SuRoZOw+sl2FXDi8iZUkKxI9QdoAC8qNyiBRfvKBLAg9o47IALM2Jh
+ZK4SXpq6q5OtEGtdnXT+UTiPVPORdPogC8MQwUG0CFA2Y+rxQ3yqkxuX3QE8U+/2LtHVg8ybMDSB
+tS86kJovHei3Sk35vkGvnokMIdx1Rc5IWpKBvxGXiX6DLqHI8y9RDCmI5RfQncUwiCwkfxLas0IB
+JKkD//3iv5Dk3gg2RvUnrUXDg3oCi52HiNwXgOBqJ1zlRJRMl9ZF0fTRa+wmXyyrxl44qajy4/Xq
+EUKEayWQ/tBbhalMswlaj5Omnk6ZwQIZeF2C/w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature689267-Object347172"><etsi:QualifyingProperties Target="#Signature689267"><etsi:SignedProperties Id="Signature689267-SignedProperties752590"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-05T01:59:54-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>bAHfPxi0AbQwiTcqw3h9W8nbuyc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>6161908925045364215</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-371759"><etsi:Description>Sismeticsa S.A. Soluciones a la medida</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

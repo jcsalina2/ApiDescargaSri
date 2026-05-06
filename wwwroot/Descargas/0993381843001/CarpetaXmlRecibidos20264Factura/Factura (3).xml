@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601094073000500120010010000000732129893111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T07:16:28-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>CARRILLO LUNA HUGO XAVIER</razonSocial>
+        <ruc>0940730005001</ruc>
+        <claveAcceso>0604202601094073000500120010010000000732129893111</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000000073</secuencial>
+        <dirMatriz>Calle: VIA LA COSTA Numero: COND C-1 Interseccion: NA Manzana: 3210 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>06/04/2026</fechaEmision>
+        <dirEstablecimiento>Calle: VIA LA COSTA Numero: COND C-1 Interseccion: NA Manzana: 3210 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <guiaRemision>001-001-000000013</guiaRemision>
+        <razonSocialComprador>APLIKATIQ S.A.S.</razonSocialComprador>
+        <identificacionComprador>0993381843001</identificacionComprador>
+        <direccionComprador>AV. DEL BOMBERO  1RA. CALLE  URB LOS CEIBOS </direccionComprador>
+        <totalSinImpuestos>700.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>700.00</baseImponible>
+                <valor>105.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>805.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>805.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>SE-0003</codigoPrincipal>
+            <descripcion>ALQUILER DE OFICINA</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>700</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>700.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>700.00</baseImponible>
+                    <valor>105.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">0967336521</campoAdicional>
+        <campoAdicional nombre="Email">aplikatiq.sas@gmail.com</campoAdicional>
+        <campoAdicional nombre="ALQUILER OFICINA">MES ABRIL</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-bae8a099-0396-4baf-8a28-27e8ed0e1c7c"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-bae8a099-0396-4baf-8a28-27e8ed0e1c7c-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ipQOedLTazS5XkFqD7wrZbVh7S3EJtc+gC8Ikr9j2FM=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-bae8a099-0396-4baf-8a28-27e8ed0e1c7c-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>aGweLpivyZOtPqKScgcoN2O4Bq0d/sG1UhRPGa4YC3U=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-bae8a099-0396-4baf-8a28-27e8ed0e1c7c-sigvalue">RrOxhBtFcCwmmtiYxZCcHlSYtJB+fYBxi6y4RG7zTGtkZuEMFZTjW6aXqeXXJt8BE1pPAhWhl5dMl9/EE9gwNWpcNgFamyl3UHRFp0Y+YFWRLVPczx/eERp80OKwPaasntRFhNyeJ62GD7vc5u9mcSelf2qVyuMlB4unN0dBtHG6kDLl1u9GJfNwNzsAmLiRfq63IZOFyfnxCon8mw5xsWpon2/CJpUKLyR+8Y3zWCKZkIDQcrhKpR9LxFfNc9h977sDGtsc6oAIBc8P1z5f6KhcVQYPFgqI7W9qKH/nlPHs+5ZmBwK76ew+aXCnQRB+prusTjasmcNvBno1I/DvQw==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIL1TCCCb2gAwIBAgIEdBGITjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA5MTgwMjIyMTlaFw0yODA5MjUyMDQ1MDBaMIGkMSIwIAYDVQQDDBlIVUdPIFhBVklFUiBDQVJSSUxMTyBMVU5BMSAwHgYDVQQFExcwOTQwNzMwMDA1LTE3MDkyNDIxMzIxNDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCdq1s/osQEtXLxOXsuT00QUieTiv2dICwhV3KAEaSLPpPCKuJIDon0XZtwQ5YyisVFQdKPP1/pfV3Nx76lHip5Nztcct9Dpx2u+vGE4sdW3cLAzekdJIA8pdpfePwHZYv9bP04ZN9YRYJ7mw0661iu4rW43YObvd4/uj7POHkzHZ3tIm4UNm9E47ALI/VdatLdMjhuejp9Hh+ruu2x75eLBW2BB/G/ozGeyWINv6BvMPM/qbefrgIJ7ZVTjj8La5/tc1sfAVRsPDuDwx62kYnf2OMpy0+rl89K7ISib/Vy9u7snNCQIE1T71QFyh4/mT9pYRMBQVM1GY/9XF/6+tr3AgMBAAGjggcWMIIHEjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTAfBgNVHREEGDAWgRRoY2FycmlsN0Bob3RtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTkj8r/16MTnZffH62IeO3Q0A5QqDArBgNVHRAEJDAigA8yMDI0MDkxODAyMjIxOVqBDzIwMjkwOTE4MDIyMjE5WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowOTQwNzMwMDA1MBcGCisGAQQBgqZyAwkECQwHQ0hPTkdPTjARBgorBgEEAYKmcgMiBAMMAS4wKgYKKwYBBAGCpnIDBwQcDBpWSUEgTEEgQ09TVEEgQ09ORCBDIDEgWSBOQTAbBgorBgEEAYKmcgMCBA0MC0hVR08gWEFWSUVSMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwNjQ0Nzc0MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYKKwYBBAGCpnIDAwQKDAhDQVJSSUxMTzAZBgorBgEEAYKmcgMeBAsMCUlOR0VOSUVSTzAdBgorBgEEAYKmcgMLBA8MDTA5NDA3MzAwMDUwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBQGCisGAQQBgqZyAwQEBgwETFVOQTAaBgorBgEEAYKmcgMIBAwMCjA5OTI0Mzk5OTAwDQYJKoZIhvcNAQELBQADggIBAF2SmDP3HPYgA91JzkOIoNv7SqKkRdvR2UW5FCmF+iA8epNTn/XPzleCjHzjodwuJHs8Q0Qp6o7hrrvSrmaC5d65npfoJzNqk9TPMiQHK8zkYMc0Wk6tfIDnWMhYBFlQiliVKRUm/ZkU6ld5LCTJjUlLqi46MltLH8d7yoQWrKVV4HMW9xIn2PHAacqXHgeLBWZ3x/ZFCpG7cgqBfF++IybyYN80K4I5nNZNgWnzhnMithVvyaGnWakS6+AH3LnnlWZxS938zhMHHV6C8xAV/0GogQb5bShhD9uWanpYoxLsTaMjbwJyY2EzdY2QZzDU6G8mdskXl7fQ6kthbMDraQL1mwI0B/nctIdDBQEeC3wldcPYxW7JGsPTjnd9lfXDlb3NTkl0M9XoR6iC7Prs//A0zxuajScdvEBdh9MK92SkoXxGiJs7PulECO9GGoImsV7VdyXWWzzaK772OfgCO5cZqrTBaSUaBp0CtSfjFV62pDZ5ZeHR47bn9MIR7ghRXF0vd2r3cDUjjWsgX1QWS2pbtFyPuS8R5THVs80VB7fNXhtqxx1SjHs9hDRySL/cY+klov4rdCXFyP9t4YB3zP4pjf0GZTkVa+I+dMgb9dQrT+p/dfieIOEf5rUs1atXAe44+u2zu2yL1PetaiND871k2kWtPwWiMRQFXKbiQwHm</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-bae8a099-0396-4baf-8a28-27e8ed0e1c7c"><xades:SignedProperties Id="xmldsig-bae8a099-0396-4baf-8a28-27e8ed0e1c7c-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-06T07:16:28.069-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>pN/Je8pUxLVzZgZJ3nmZ18ye/UK5c6I2akiLxeTOH1M=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1947306062</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-bae8a099-0396-4baf-8a28-27e8ed0e1c7c-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

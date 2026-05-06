@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1904202601179269433700120011000050214000000000114</numeroAutorizacion>
+<fechaAutorizacion>2026-04-19T19:03:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>TIPTI SA</razonSocial><nombreComercial>TIPTI SA</nombreComercial><ruc>1792694337001</ruc><claveAcceso>1904202601179269433700120011000050214000000000114</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>100</ptoEmi><secuencial>005021400</secuencial><dirMatriz>Via A Tanda Ofi-106 Av Eugenio Espejo.</dirMatriz></infoTributaria><infoFactura><fechaEmision>19/04/2026</fechaEmision><dirEstablecimiento>Via A Tanda Ofi-106 Av Eugenio Espejo.</dirEstablecimiento><contribuyenteEspecial>130E</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>Miguel Jara</razonSocialComprador><identificacionComprador>0923295786</identificacionComprador><totalSinImpuestos>43.03</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>43.03</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>43.03</importeTotal><pagos><pago><formaPago>19</formaPago><total>43.03</total><plazo>0</plazo><unidadTiempo>meses</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>0103167626623</codigoPrincipal><descripcion>Plátano Verde   Al Peso</descripcion><cantidad>6</cantidad><precioUnitario>0.160000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.98</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.98</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>0103167617925</codigoPrincipal><descripcion>Queso Cheddar Rueda Kiosko alpina 400 G</descripcion><cantidad>1</cantidad><precioUnitario>6.800000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>6.80</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>6.80</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>0103167624708</codigoPrincipal><descripcion>Nueces Naturales La original 200 G</descripcion><cantidad>1</cantidad><precioUnitario>2.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>01031676964489</codigoPrincipal><descripcion>Chía Orgánica Sierra organics 300 G</descripcion><cantidad>1</cantidad><precioUnitario>4.570000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.57</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>4.57</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>010316761148173</codigoPrincipal><descripcion>Coco Pelado Mediano Coco days 700 G</descripcion><cantidad>3</cantidad><precioUnitario>2.490000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>7.47</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>7.47</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>0103167621845</codigoPrincipal><descripcion>Tomate Riñón Orgánico Linda organic 900 A 1100 G</descripcion><cantidad>1</cantidad><precioUnitario>2.700000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.70</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.70</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>0103167609066</codigoPrincipal><descripcion>Espinaca Baby Orgánica Supermaxi Funda</descripcion><cantidad>1</cantidad><precioUnitario>1.850000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.85</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>1.85</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>0103167608575</codigoPrincipal><descripcion>Dorado Congelado Fresh fish 454g</descripcion><cantidad>2</cantidad><precioUnitario>6.170000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>12.34</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>12.34</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>0103167624196</codigoPrincipal><descripcion>Frutilla Premium Premium fresh 850 G</descripcion><cantidad>1</cantidad><precioUnitario>4.320000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.32</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>4.32</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="email">majara@prestoprogram.com</campoAdicional><campoAdicional nombre="tienda">001</campoAdicional><campoAdicional nombre="vendedor">William Jeovani Rodriguez Elizalde</campoAdicional><campoAdicional nombre="pedido">5186368</campoAdicional><campoAdicional nombre="direccion">Vía a la Costa</campoAdicional><campoAdicional nombre="telefono">+593 990925962</campoAdicional><campoAdicional nombre="agente">Agente de Retencion Resolucion Nro. NAC-DGERCGC25-00000011</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature86286">
+<ds:SignedInfo Id="Signature-SignedInfo53009">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID820879" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature86286-SignedProperties939391">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>1gGqY0WvslfQ1AsaPqkTPIyqVYg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1807249">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>YDIXjHaCySz1TfHasNnydJ4ithE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-359824" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7ZWCrxOyTFGoeoZbpvT4Q30f6m0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue502013">
+Yen0Vp6oc7sK2f6QrGJt02u9uQPO8wcwlfUsWE4vxM1AqjNFVHNc/D2vo/ZMdU4vtj8y6nBBaD1N
+Bfl8iRFgDXZfRFLfHmr4PhPhcTaba5cI/6WbekJWPg27g0EuysexZCt3ta+SJAM6T6EWEXxiN/tx
+w5LcAuAC4BEN1TL+WEfE7F3koy++S+/HdAwXblSfrKae1gE8YdvpFffKMHaB1LSKyk07A27DlCM+
+RstObiUym8C6rSOLXpwHVBgg6XNYlG1cozNeDJ6Efc6nPYox9j+kdHHvjYMsfk99xDcLt6OVsOcH
+tZHs8L6QskhKlUweGYZCdMr50besKp+Pzaieow==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1807249">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMLzCCChegAwIBAgIEW/hl1zANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMjQxNDMyMDBaFw0yNjEyMjQxNDMyMDBaMIGpMScw
+JQYDVQQDDB5SSVRIQSBQSUVSQU5HRUxMQSBTSUVSUkEgUE9OQ0UxIDAeBgNVBAUTFzE3MTA2NTcy
+MzgtMjQxMjI0MDk0MTU0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALcizZ/m9awcnU6CH4ijbZBmsQsOGhg3YZgmdVxM
+ECwdHTuCoqJi2mI3x+EBHOlj8iNfzrNdQqT6pYYbCqnMmPh+v43TseaA0/0GQdve285YzeGmObc0
+3uMTKQJc3t8EyhNcoNLUEXmkx0PW+BLDG1GdEIjkQj0hktqBlACtMtxXa7Qt4aqyHJ6dsrkm8Syj
+rcVetXWZE4k9/39gaGunn9JuuOEatL9kZKjvXELVgnHkzwSXln8M2M+Pog8O5r+gZWSFHZmyLDM+
+Rlj5QiNh+VOaGnkfJurGRnBXZbbL8LzQkAQ8T4LkVv0LJU45TnSq0M8iqAa+GNNzq1qlXF9WMzkC
+AwEAAaOCB2swggdnMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMCIGA1UdEQQbMBmBF3BpZXJhbmdlbGFAdGlwdGkubWFya2V0MIIB
+FQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkA
+ZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBs
+MIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRv
+cy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0l
+BBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8v
+b2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGf
+pIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VS
+SVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+
+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRl
+UmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5z
+ZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1j
+cmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkg
+REFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklU
+WSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBRkHCyGGK1WLSrmeRZKrZvw0a2wGzArBgNVHRAE
+JDAigA8yMDI0MTIyNDE0MzIwMFqBDzIwMjYxMjI0MTQzMjAwWjALBgNVHQ8EBAMCBeAwJAYKKwYB
+BAGCpnIDBQQWDBRQUkVTSURFTlRFIEVKRUNVVElWTzAaBgorBgEEAYKmcgMBBAwMCjE3MTA2NTcy
+MzgwFwYKKwYBBAGCpnIDCQQJDAdDVU1CQVlBMBEGCisGAQQBgqZyAyIEAwwBLjA3BgorBgEEAYKm
+cgMHBCkMJ1ZJQSBBIFRBTkRBIE9GSSAxMDYgWSBBViBFVUdFTklPIEVTUEVKTzAhBgorBgEEAYKm
+cgMCBBMMEVJJVEhBIFBJRVJBTkdFTExBMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwOTI1MzE2
+MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKm
+cgMDBAgMBlNJRVJSQTAYBgorBgEEAYKmcgMKBAoMCFRJUFRJIFNBMB0GCisGAQQBgqZyAwsEDwwN
+MTc5MjY5NDMzNzAwMTARBgorBgEEAYKmcgMdBAMMAS4wFQYKKwYBBAGCpnIDBAQHDAVQT05DRTAa
+BgorBgEEAYKmcgMIBAwMCjA5ODU2MTg2MDcwDQYJKoZIhvcNAQELBQADggIBABBKIGsvtuqTez2C
+33eT9C32HbYOcG4vOFo7QCRXOKJTVkvNKkCagDZdhgoS8w1ZOP4/0r7d/yd0YZMQftTpQ3lcMSoK
+hCn9yiZFZZA8FuT7JsKtludj0J55X9s7szVg25Y7/owPfyv8iliECTv1mF361aTo54/jsg4y9shj
+oZOFHOoNMhJqo/fM6bjwkqQCw5sGJlDzhNC+8wHEc0AAK9YDuOL7hUBix+690uFRmLR3JFBsWlCi
+lQWO04Z4c6ody1kY3aup4FD+k5wYaExsUtIyaSfZXhGyqMg1sE7c65zmwOOwF94GKwsukG6xsdQO
+DNRjq0b9j8v0lj7idoaADsHjkVOcpc4rK5vZbEqfi8T7d389cPHd4WOCnKP/kChijcTcir99g2Nc
+ZreAFROKwOTYxGvZtwSyFdfmxRnUXoqRdv/UAvjGpvAX7e3N2VyTI/I56EVLf0gOT7ZkqgbDNfAF
+NnUIIIt2WhcWX+myWBXUQ99mqNvyYS2652BtG3w1yCODBoRPb4iK8Jkom96ghOxTXvV930mtbcNf
+dO6woL2j1a00mjl0yTolzPJJrBzxOOcp7EQb0GRYENs+fcbG6r1+pHxjpOiAXqPrM10bR2gOfqbi
+bnfd4CUZrJ5Ot9h7jtpx7L19qTc81pNJCdn8EjY9vCZasSYG4oCf7Zu1Udw8
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tyLNn+b1rBydToIfiKNtkGaxCw4aGDdhmCZ1XEwQLB0dO4KiomLaYjfH4QEc6WPyI1/Os11CpPql
+hhsKqcyY+H6/jdOx5oDT/QZB297bzljN4aY5tzTe4xMpAlze3wTKE1yg0tQReaTHQ9b4EsMbUZ0Q
+iORCPSGS2oGUAK0y3FdrtC3hqrIcnp2yuSbxLKOtxV61dZkTiT3/f2Boa6ef0m644Rq0v2RkqO9c
+QtWCceTPBJeWfwzYz4+iDw7mv6BlZIUdmbIsMz5GWPlCI2H5U5oaeR8m6sZGcFdltsvwvNCQBDxP
+guRW/QslTjlOdKrQzyKoBr4Y03OrWqVcX1YzOQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature86286-Object439095"><etsi:QualifyingProperties Target="#Signature86286"><etsi:SignedProperties Id="Signature86286-SignedProperties939391"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T00:03:39+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>GhxMMNQfcLupYFD+Q7C/3zK8iEE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1543005655</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-359824"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

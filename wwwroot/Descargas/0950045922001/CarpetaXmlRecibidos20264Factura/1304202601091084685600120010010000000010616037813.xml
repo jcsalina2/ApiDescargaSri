@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601091084685600120010010000000010616037813</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T11:25:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>RIVADENEIRA MAYORGA MARIA EUGENIA</razonSocial>
+	    <nombreComercial>RIVADENEIRA MAYORGA MARIA EUGENIA</nombreComercial>
+	    <ruc>0910846856001</ruc>
+	    <claveAcceso>1304202601091084685600120010010000000010616037813</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000000001</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / SOLAR 12</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>13/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / SOLAR 12</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>NO</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Belgica Loaiza Suarez</razonSocialComprador>
+	    <identificacionComprador>0950045922001</identificacionComprador>
+		<direccionComprador>Samanes 1 mz 139a v 12</direccionComprador>
+	    
+	    <totalSinImpuestos>1300.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>1300.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>1300.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>1300.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>001</codigoPrincipal>
+		<codigoAuxiliar>001</codigoAuxiliar>
+      	<descripcion>Alquiler de inmueble</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>280.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>280.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>280.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>001</codigoPrincipal>
+		<codigoAuxiliar>001</codigoAuxiliar>
+      	<descripcion>Alquiler de inmueble</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>330.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>660.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>660.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>001</codigoPrincipal>
+		<codigoAuxiliar>001</codigoAuxiliar>
+      	<descripcion>Alquiler de inmueble</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>360.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>360.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>360.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">Por concepto de alquiler de departamento Enero, Febrero, Marzo, Abril</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature485235">
+<ds:SignedInfo Id="Signature-SignedInfo713482">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID991641" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature485235-SignedProperties689597">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rh4tDCRfKh89X/Fr7ELTBS0lWNk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate102417">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>FOXy305ORMJz6kiYZKXIk/uxaQ0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-252738" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6sqr93R56sc3jALifYI+5p6ugrY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue259015">
+CAAQN08EIvkDAvUgS4wctgEdJSX++acW75ykLQbifgjQlPYfupPpuIUlRCQXX/vInd59kUk8W4kb
+HilF1+oEofb5HXncFVxs9LGp43B9nCcdV1m+qymxfgUR1heJ2zFCj+7O/adUxkpkluWn3xqDc99+
+PsdaYCO27rkZraJbWS/9rieIzXZQ8LpMZbstMn/ZxnCbQZ8O2jrYOtZZMttfvaIDB0uReqD08tpp
+xmQAnmO+Ef+fUWaWYBBlzMMOO1oRxLPjV5vt18FDZDhgXYA0hKu0sKabq4BAnRVZzp5njlTtmLEr
+IvqjqUgDhj3ilXUIWIAX5m6xuFCJypSuquXlzw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate102417">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJIDCCBwigAwIBAgIIATYxpErVQC0wDQYJKoZIhvcNAQELBQAwgYYxCzAJBgNVBAYTAkVTMRIw
+EAYDVQQHDAlCYXJjZWxvbmExFjAUBgNVBAoMDVVBTkFUQUNBIFMuQS4xFTATBgNVBAsMDFRTUC1V
+QU5BVEFDQTEaMBgGA1UEAwwRVUFOQVRBQ0EgQ0EyIDIwMjExGDAWBgNVBGEMD1ZBVEVTLUE2Njcy
+MTQ5OTAeFw0yNjA0MDcxNzQzMDBaFw0yNzA0MDcxNzQzMDBaMIGoMQswCQYDVQQGEwJFQzEcMBoG
+A1UEBAwTUklWQURFTkVJUkEgTUFZT1JHQTEWMBQGA1UEKgwNTUFSSUEgRVVHRU5JQTEZMBcGA1UE
+BRMQSURDRUMtMDkxMDg0Njg1NjEqMCgGA1UEAwwhTUFSSUEgRVVHRU5JQSBSSVZBREVORUlSQSBN
+QVlPUkdBMRwwGgYDVQRhDBNUSU5FQy0wOTEwODQ2ODU2MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEAgbDM+wnR5xlEzBXLfSTwWe+tQWKD8j8Y0TjbHxKQfKE27QNAOwLXxX2rAVw5
+c+iGeDL33IuVN2UritgeLe7qokjIaatgOOOQcUPgiTs/d+g316ybyuLaeY1yR8cqFdxCsagE6RHw
+gjAe9E3DlkSIq8gY1Tls313uLxhFV5IcU+29qTAD8AtIGTWtriP99ZksQXnZOR16hgKOHjRYSGsn
+q7o9ctRdJWF5SvMcVtAQjehIDRS8spH3EkBpklugsjQLjgx24cGjs1i3L06D5LKBZzthCm/4Qrsg
+qwcExbnaaGgFYVSSIAMxstK1lwXrx1C+q9+lXzg1BlvaIWhQUGQq5wIDAQABo4IEbDCCBGgwGwYL
+KwYBBAGC8TZmAwEEDAwKMDkxMDg0Njg1NjAeBgsrBgEEAYLxNmYDCwQPDA0wOTEwODQ2ODU2MDAx
+MIHtBggrBgEFBQcBAQSB4DCB3TBrBggrBgEFBQcwAoZfaHR0cHM6Ly93ZWIudWFuYXRhY2EuY29t
+L2NvbW1vbi9wcm9qZWN0L3BkZi9hdXRvcmlkYWQtY2VydGlmaWNhY2lvbi8wOF9zdWJvcmRpbmFk
+YS1jYTItMjAyMS5jZXIwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVi
+bGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJs
+aWMvcGtpL29jc3AvMB0GA1UdDgQWBBTu+IiO3PU1Ex9IfvKXUlla60iIqDAMBgNVHRMBAf8EAjAA
+MB8GA1UdIwQYMBaAFMXnMyXY79SN51OHyqJbdTqLlt1KMBwGA1UdEgQVMBOBEWluZm9AdWFuYXRh
+Y2EuY29tMIGQBgNVHSAEgYgwgYUwgYIGDCsGAQQBgvE2ZgIBATByMDcGCCsGAQUFBwIBFitodHRw
+czovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMDcGCCsGAQUFBwICMCsMKUNF
+UlRJRklDQURPIERFIFBFUlNPTkEgTkFUVVJBTCBFTiBBUkNISVZPMIGFBgNVHR8EfjB8MDygOqA4
+hjZodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvMjAyMUNBMnN1Yi5jcmww
+PKA6oDiGNmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC8yMDIxQ0Eyc3Vi
+LmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBgQYD
+VR0RBIIBeDCCAXSBHW1heXV5aXJpdmFkZW5laXJhQGhvdG1haWwuY29toBsGCysGAQQBgvE2ZgMB
+oAwMCjA5MTA4NDY4NTagHgYLKwYBBAGC8TZmAwKgDwwNTUFSSUEgRVVHRU5JQaAcBgsrBgEEAYLx
+NmYDA6ANDAtSSVZBREVORUlSQaAYBgsrBgEEAYLxNmYDBKAJDAdNQVlPUkdBoCcGCysGAQQBgvE2
+ZgMHoBgMFlNBTUFORVMgMSBNWiAxMzlBIFYgMTKgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5OTA3
+MjQ4ODSgGgYLKwYBBAGC8TZmAwmgCwwJR1VBWUFRVUlMoB4GCysGAQQBgvE2ZgMLoA8MDTA5MTA4
+NDY4NTYwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgKQYLKwYBBAGC8TZmAzKgGgwYUEVSU09OQSBO
+QVRVUkFMIE8gRklTSUNBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQAD
+ggIBABFiai6RoUvW5tMNp8OUXZYK63rdS5AiJejqh8wr3kKhNb642wIQPrKwI93QS+UzDHmx/PS7
+lobRJxpzDbWdf2pCAhuX+vdkuJDInSD+C15kCeSDrQyqdVH9LJbi0EbBi82FA1nOhrRgULgDQkPe
+OEi20UmlQ3mzzQJQ2GRc/Lm0copsd6V1bCorQKca80NdPHUCWPQtsrdtrwhCxb7kzY0Ev+NYf9mk
+GiXimnvSL6S3C8LJ3L27+AHiuh+VvR+5kMgO+v3rDKx7d79EkLXLx8VGZiyJiN5TfTB55T8kKrFF
+zzm6hjWkCXPEbJaCz4VwvUUIMK+K3CxMUJJO44XMWgFGxJFodmXgs4N5WKeOuER9y7C0K8iksPnz
+koEf9fcs/2ClgBLj6FgZDOo9+5nb4j4DNgHTTsncOBmxSbD1I0pk1uXrN7iEKi4lUhNrY+RrZX/T
+aDmCc3XO5niCxMOfyoZ4VU4qobnbketu1hNgCkOACcJ5SJY1mW2xeScgs4wzHocVzz4dhe59EV+q
+G/3WJrCfmcmWbDv+qmMPJG+pegvJwGq6uyKfg9Qsk0vko9Z7P2oCdHBoobpMC69+CUdXurzjk3ol
+IE3rexCn+i7YJaXZqKbMc8XBqQ0uelFFWRHUgPhhGamlAndykwAijQR02LfvEr6/WKJIFIoZWZuH
+cM39
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gbDM+wnR5xlEzBXLfSTwWe+tQWKD8j8Y0TjbHxKQfKE27QNAOwLXxX2rAVw5c+iGeDL33IuVN2Ur
+itgeLe7qokjIaatgOOOQcUPgiTs/d+g316ybyuLaeY1yR8cqFdxCsagE6RHwgjAe9E3DlkSIq8gY
+1Tls313uLxhFV5IcU+29qTAD8AtIGTWtriP99ZksQXnZOR16hgKOHjRYSGsnq7o9ctRdJWF5SvMc
+VtAQjehIDRS8spH3EkBpklugsjQLjgx24cGjs1i3L06D5LKBZzthCm/4QrsgqwcExbnaaGgFYVSS
+IAMxstK1lwXrx1C+q9+lXzg1BlvaIWhQUGQq5w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature485235-Object132805"><etsi:QualifyingProperties Target="#Signature485235"><etsi:SignedProperties Id="Signature485235-SignedProperties689597"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T11:25:19-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>lDlQelIftXABjQLfCIMYTo1yvuc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2021,C=ES,L=Barcelona,2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>87311824480190509</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

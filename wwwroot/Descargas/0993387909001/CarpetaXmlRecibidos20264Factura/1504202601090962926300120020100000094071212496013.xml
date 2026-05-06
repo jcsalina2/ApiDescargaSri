@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601090962926300120020100000094071212496013</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T12:13:01-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PACHECO ASCENCIO FLOR MARIA DE LA CRUZ</razonSocial><nombreComercial>SOMOSMANGUERAS</nombreComercial><ruc>0909629263001</ruc><claveAcceso>1504202601090962926300120020100000094071212496013</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>010</ptoEmi><secuencial>000009407</secuencial><dirMatriz>GOMEZ RENDON 3632 ENTRE LA 13 AVA Y LA 14 AVA</dirMatriz></infoTributaria><infoFactura><fechaEmision>15/04/2026</fechaEmision><dirEstablecimiento>GOMEZ RENDON 3632 ENTRE LA 13 AVA Y LA 14 AVA</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ASTECNAVIND S.A.S. .</razonSocialComprador><identificacionComprador>0993387909001</identificacionComprador><direccionComprador>4TO PASEO 52B SE Y 4TO PASEO 52B SE</direccionComprador><totalSinImpuestos>30.80</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>30.80</baseImponible><valor>4.62</valor></totalImpuesto></totalConImpuestos><propina>0</propina><gastosTransporteOtros>0.00</gastosTransporteOtros><importeTotal>35.42</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>35.42</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>MANG-001</codigoPrincipal><codigoAuxiliar>MANG-001</codigoAuxiliar><descripcion>LLAVE DE PASO DE 1/4</descripcion><cantidad>1.00</cantidad><precioUnitario>5.50</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>5.50</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>5.50</baseImponible><valor>0.83</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>MANG-001</codigoPrincipal><codigoAuxiliar>MANG-001</codigoAuxiliar><descripcion>NEPLO 4MP-4MP</descripcion><cantidad>1.00</cantidad><precioUnitario>2.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>2.00</baseImponible><valor>0.30</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>MANG-001</codigoPrincipal><codigoAuxiliar>MANG-001</codigoAuxiliar><descripcion>MANOMETRO DE 0-150 PSI GLICERINA</descripcion><cantidad>1.00</cantidad><precioUnitario>16.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>16.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>16.00</baseImponible><valor>2.40</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>MANG-001</codigoPrincipal><codigoAuxiliar>MANG-001</codigoAuxiliar><descripcion>UNION DE 1/4FP-FP BRONCE</descripcion><cantidad>1.00</cantidad><precioUnitario>2.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>2.00</baseImponible><valor>0.30</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>MANG-001</codigoPrincipal><codigoAuxiliar>MANG-001</codigoAuxiliar><descripcion>TEE DE 1/4 MP-FP-FP</descripcion><cantidad>1.00</cantidad><precioUnitario>4.80</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.80</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>4.80</baseImponible><valor>0.72</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>MANG-001</codigoPrincipal><codigoAuxiliar>MANG-001</codigoAuxiliar><descripcion>TEFLON ROJO</descripcion><cantidad>1.00</cantidad><precioUnitario>0.50</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.50</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>0.50</baseImponible><valor>0.08</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Pagina web">WWW.ESIAPRE2.COM</campoAdicional><campoAdicional nombre="DirCorreoComprador">contabilidadastecnavind@gmail.com</campoAdicional><campoAdicional nombre="Direccion Establecimiento">GOMEZ RENDON 3632 ENTRE LA 13 AVA Y LA 14 AVA</campoAdicional><campoAdicional nombre="Telefono">2478892 - 2460064</campoAdicional><campoAdicional nombre="Correo Electronico Empresa">fp_somosmangueras@outlook.com</campoAdicional><campoAdicional nombre="Telefono Comprador">0996778063</campoAdicional><campoAdicional nombre="Observacion">Contribuyete Regimen General</campoAdicional></infoAdicional><ds:Signature Id="Signature110696" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo221099">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID691595" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature110696-SignedProperties937304">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0Kp+lccQ2vNBsZBjQK/a2DumRCk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1116775">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>/EWhknMKWRKuPXFg80cjEO43J04=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-135287" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Fmj8o48n728D01KPAO9Dhpc982o=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue503738">
+pHWhw9tqQblmsUBmDrwAefdnfP8NVOZElVbumGZFGK7lGPbt5WYjBEYc6Gn6xFV7hYbuJPR34O/W
+KSN7dwULCDEfacISg6bLGee0uQNrJ9kfzH+idWtBdapUufVSY5k6J4BeXORNK4xGiALRod56b68i
+uEkz72zvfm738TFzr3ta0bemx3CyLQ9DboLmI2HR/0HEdB7eMPeUixCEZJspXiv82LHstjvZ54Ld
+leWN+JkjGvBZKORw/V8jwbplDRoywgKlCmnmd71LC/EaORZHtFO9dprdQb8/6HWvpG14DznEEcfn
+1eLbb4tOYz9hRrHnZs7J1cnpRU02RUEPMEgqPg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1116775">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJZjCCB06gAwIBAgIIIId2hB0wD+wwDQYJKoZIhvcNAQELBQAwgYYxCzAJBgNVBAYTAkVTMRIw
+EAYDVQQHDAlCYXJjZWxvbmExFjAUBgNVBAoMDVVBTkFUQUNBIFMuQS4xFTATBgNVBAsMDFRTUC1V
+QU5BVEFDQTEaMBgGA1UEAwwRVUFOQVRBQ0EgQ0EyIDIwMjExGDAWBgNVBGEMD1ZBVEVTLUE2Njcy
+MTQ5OTAeFw0yNjAxMjYyMjI0MDBaFw0zMDAxMjUyMjI0MDBaMIGyMQswCQYDVQQGEwJFQzEZMBcG
+A1UEBAwQUEFDSEVDTyBBU0NFTkNJTzEeMBwGA1UEKgwVRkxPUiBNQVJJQSBERSBMQSBDUlVaMRkw
+FwYDVQQFExBJRENFQy0wOTA5NjI5MjYzMS8wLQYDVQQDDCZGTE9SIE1BUklBIERFIExBIENSVVog
+UEFDSEVDTyBBU0NFTkNJTzEcMBoGA1UEYQwTVElORUMtMDkwOTYyOTI2MzAwMTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBALAgkdDDtkH7Ft2Oy0U/I5hfo4noCOwp0VuUniHdlqUhEA6T
+IL0TvMVjHOFPczCNcdpYKhO5JZRWyBm2qGglNwwcoBKgk88JPoGIXfn5uKDWl6GTf5SvizGNe656
+oj1A/XM65uNGKenXkI1jslfhT/e4QZPJAZ2nFYr9bOsRRsO48DhCkN5youCn5QXXgd/8oOwEqhFV
+lZWMijS5e43ZQKvzql+076vRybBnVsgWkhJxDEJU17DY3a0MWDRx2ceL45agn9Bg6gAQwmMVwpSC
+3dUkKlXyy4bmL3e7C3tg5I/1HU4Xo5waRSHBPMzyykngEhdx9WwNmsHs0NRILxpb3K0CAwEAAaOC
+BKgwggSkMBsGCysGAQQBgvE2ZgMBBAwMCjA5MDk2MjkyNjMwHgYLKwYBBAGC8TZmAwsEDwwNMDkw
+OTYyOTI2MzAwMTCB7QYIKwYBBQUHAQEEgeAwgd0wawYIKwYBBQUHMAKGX2h0dHBzOi8vd2ViLnVh
+bmF0YWNhLmNvbS9jb21tb24vcHJvamVjdC9wZGYvYXV0b3JpZGFkLWNlcnRpZmljYWNpb24vMDhf
+c3Vib3JkaW5hZGEtY2EyLTIwMjEuY2VyMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUYcZuv42ja/gFoY+Ut7azKRg9cyYwDAYD
+VR0TAQH/BAIwADAfBgNVHSMEGDAWgBTF5zMl2O/UjedTh8qiW3U6i5bdSjAcBgNVHRIEFTATgRFp
+bmZvQHVhbmF0YWNhLmNvbTCBmQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEF
+BQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEF
+BQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElW
+TzCBhQYDVR0fBH4wfDA8oDqgOIY2aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kv
+Y3JsLzIwMjFDQTJzdWIuY3JsMDygOqA4hjZodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9jcmwvMjAyMUNBMnN1Yi5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMCBggrBgEFBQcDBDCCAbQGA1UdEQSCAaswggGngSRvcGVyYXRpb25hbF9jb29yZGluYXRvcjEw
+QHNpYXByZS5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMDkwOTYyOTI2M6AmBgsrBgEEAYLxNmYDAqAX
+DBVGTE9SIE1BUklBIERFIExBIENSVVqgGAYLKwYBBAGC8TZmAwOgCQwHUEFDSEVDT6AZBgsrBgEE
+AYLxNmYDBKAKDAhBU0NFTkNJT6BOBgsrBgEEAYLxNmYDB6A/DD1DQUxMRTogR09NRVogUkVORE9O
+IE5NRVJPOiAzNjMyIElOVEVSU0VDQ0lOOiBMQSAxM0FWQSBZIDE0QVZBoB8GCysGAQQBgvE2ZgMI
+oBAMDjAwNTkzOTM5MTA5MTQ0oBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAeBgsrBgEEAYLx
+NmYDC6APDA0wOTA5NjI5MjYzMDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMy
+oBoMGFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0G
+CSqGSIb3DQEBCwUAA4ICAQCTr2eaoADNVUgh3hKgrJmPP1N/NztrySqxebC8p8wd59OKRMPGVbte
+HUo1s6N6cAmMzPMyZelIylKxQElEz0Hn5SRkjeYgVGQd4Hy/cTkbq6OwcFhcvYi5BL7epj+PNcYZ
+ZkaOqU2iRfo4+C9Q7CuiJgICWExzm3iYH8105+3IkriUZAtJTxkIzxkA1IZxekyjbCp84z8KZQuO
+sjwr+UfUk+FKDvwhVS354V9UiqN8zeJuygthHftC7LqvZe0kLTin/ohZ6o9e4LC5yUsAhl9zABEs
+IBsAzfkfbOUuA+pv9pO3k1J6wLyO/nh8IeDr2lvwK8sv2UFYRT7OqDPPQM/gFNJj7g04YQDfLNC1
+0sV55i+HIeIwem8qeZqJAZ0/LYysg/YT0LSif2K3PxT3MNQAfff0ySuO8GduFjmWXbXU3Q2ysW/A
+8IvJIrLbZRus7mo456Qh95DzPgIm+1QoRYusmD1D6sBYOz6ZtLVjqfQpPGm4H3I094JyVupOk9H6
+Q8KvfRCWmfMWr5fY+pbAIJYcoephdQ0cU0F78m4567mGrEmmEzB4fUSYVDc2Mpvm3x+lk/lbCAFm
+7ljms4JwXzpe1WhpV/tcyHJScDVqgeVuG5oheRe+sv+yH6qV6CAvNSAoFNqKq0wq4//GMqEw8VLe
+iV0Ageg9jPCgRymMmsI7QA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sCCR0MO2QfsW3Y7LRT8jmF+jiegI7CnRW5SeId2WpSEQDpMgvRO8xWMc4U9zMI1x2lgqE7kllFbI
+GbaoaCU3DBygEqCTzwk+gYhd+fm4oNaXoZN/lK+LMY17rnqiPUD9czrm40Yp6deQjWOyV+FP97hB
+k8kBnacViv1s6xFGw7jwOEKQ3nKi4KflBdeB3/yg7ASqEVWVlYyKNLl7jdlAq/OqX7Tvq9HJsGdW
+yBaSEnEMQlTXsNjdrQxYNHHZx4vjlqCf0GDqABDCYxXClILd1SQqVfLLhuYvd7sLe2Dkj/UdThej
+nBpFIcE8zPLKSeASF3H1bA2awezQ1EgvGlvcrQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature110696-Object314062"><etsi:QualifyingProperties Target="#Signature110696"><etsi:SignedProperties Id="Signature110696-SignedProperties937304"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T12:12:49-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>AjRfKnm+AF/oa2Ijo0j9q3uVZOo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2021,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona,C=ES</ds:X509IssuerName><ds:X509SerialNumber>2343972440867082220</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-135287"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

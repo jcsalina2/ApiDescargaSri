@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0404202601120384573800120010100000576461234567816</numeroAutorizacion>
+<fechaAutorizacion>2026-04-04T14:23:15-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>JIMENEZ PINCAY MARIANA MARICELA</razonSocial>
+<nombreComercial>MULTICARNES QUEVEDO</nombreComercial>
+<ruc>1203845738001</ruc>
+<claveAcceso>0404202601120384573800120010100000576461234567816</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>010</ptoEmi>
+<secuencial>000057646</secuencial>
+<dirMatriz>SEXTA S/N ENTRE AV. JUNE GUZMAN MARCO QUINTANA</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>04/04/2026</fechaEmision>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>CARLOS ALBERTO AGUAYO ALVARADO</razonSocialComprador>
+<identificacionComprador>1204454720001</identificacionComprador>
+<direccionComprador>QUEVEDO</direccionComprador>
+<totalSinImpuestos>83.70</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>83.70</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>83.70</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>83.70</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>41</codigoPrincipal>
+<descripcion>POLLO ENTERO </descripcion>
+<cantidad>12.517200</cantidad>
+<precioUnitario>1.1600</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>14.52</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>14.52</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>41</codigoPrincipal>
+<descripcion>POLLO ENTERO </descripcion>
+<cantidad>16.543100</cantidad>
+<precioUnitario>1.1600</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>19.19</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>19.19</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>32</codigoPrincipal>
+<descripcion>CARNE MOLIDA </descripcion>
+<cantidad>4.050000</cantidad>
+<precioUnitario>2.8000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>11.34</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>11.34</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>28</codigoPrincipal>
+<descripcion>CARNE ENTERA </descripcion>
+<cantidad>4.041000</cantidad>
+<precioUnitario>3.9000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>15.76</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>15.76</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>54</codigoPrincipal>
+<descripcion>QUESO SUAVE </descripcion>
+<cantidad>3.080000</cantidad>
+<precioUnitario>2.0000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>6.16</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>6.16</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>200</codigoPrincipal>
+<descripcion>HIGADO DE POLLO </descripcion>
+<cantidad>1.130000</cantidad>
+<precioUnitario>1.0000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.13</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.13</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>56</codigoPrincipal>
+<descripcion>HUEVO CUBETA </descripcion>
+<cantidad>4.000000</cantidad>
+<precioUnitario>3.9000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>15.60</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>15.60</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion"> QUEVEDO</campoAdicional>
+<campoAdicional nombre="Email"> aguayoaca@gmail.com</campoAdicional>
+<campoAdicional nombre="Lugar de Emisión"> SEXTA S/N ENTRE AV. JUNE GUZMAN MARCO QUINTANA</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature39769">
+<ds:SignedInfo Id="Signature-SignedInfo1044796">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID969243" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature39769-SignedProperties360932">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>9GKzcb6ygU/DwYxQ5DV2tyj0Y98=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11045693">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>uW+ka9Zsd4f/K8pT80ob75ZP8Mk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-17068" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Oc6Fb4j6hPHgKUUv3cVqdA6NYX8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue998644">
+R3X707zoV+WpcJlv1AZf5CFkNJF5RnNaEjJTUC+Qlw60dM94a6K4VQJ5cAgtb5rstaEq5cKmlWaJ
+Yzqpa9019JAjo0cEMLW/4IbbL1l7dECkA42wveevQOGhyEbcWyFGmV1PyI45AKSqPGDcHDsQflhO
+oBG6JxLZ0EaqVTyTF5lKQc3VRaGmD5gChT5UDTPw0SUeeFomEWL8tcM/ItE5zV4sOS6qoq8LO+mr
+5BdZSLXri2Pc2TCT2WKVDQ7TkfgEYlkqBrjGf9ZFwa/EOnVYE2M69tD9YYS7RrJkn67OKYcnETjl
+ZPnlwxeOjtnLWKKRXCDIM2PmPt7kGA/OCDYYxg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11045693">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKuDCCCKCgAwIBAgIIUdOJBIDO/RYwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMTMwMTUzMjE2WhcNMzEwMTMwMTUzMjE2WjCB
+qjEoMCYGA1UEAwwfTUFSSUFOQSBNQVJJQ0VMQSBKSU1FTkVaIFBJTkNBWTEgMB4GA1UEBRMXMTIw
+Mzg0NTczOC0zMDAxMjYxMDQyMDgxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsZprDfg0US4dwJv+Z6Tl1EwBeLQYSBxE
+uUx4tBR/zy7bpSjRWRI+hDxtCMMRD6sfhcpwjfeibqLFwY64b4Eg6rZIFzBtN4YL2gfHz3whFKB7
+q0j7nWNTGN54mcgAMxAexyVPEMuoiH7pLXeD+u2UA6cXMAevXrmAuFQLPCUs3KIC0j8RgaqN/3Nz
+uzhDs1UpRx3U0q7DChnUlpFuk3MxjPiWvkiHc+s/NhHbnpYlyARBvwOZyaYQ4jCWXLgpbYse23zT
+94m+N62RCISYKiJx+dBroHnFeMyqt1Hxk70aImt21gzMpDMJ4udWLDkcrqUSKQuf0Kc6PMapoWl/
+zP2owwIDAQABo4IF7zCCBeswDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktV
+v42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwJwYDVR0RBCAwHoEcbWFy
+aWFuYS5qaW1lbmV6Lm1hQGdtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEww
+SgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBu
+AGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6
+Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFz
+L1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVy
+YWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHe
+oDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2NybGZpbGUu
+Y3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0y
+IFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4
+hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmww
+geCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBD
+RVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAd
+BgNVHQ4EFgQU4YfrpzCjAARxrxIJdbhXZ9WP/0swKwYDVR0QBCQwIoAPMjAyNjAxMzAxNTMyMTZa
+gQ8yMDMxMDEzMDE1MzIxNlowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMTIwMzg0NTcz
+ODAXBgorBgEEAYKmcgMJBAkMB1FVRVZFRE8wEQYKKwYBBAGCpnIDIgQDDAEuMDkGCisGAQQBgqZy
+AwcEKwwpU0VYVEEgUyBOIFkgSlVORSBHVVpNQU4gWSBNQVJDT1MgUVVJTlRBTkEwIAYKKwYBBAGC
+pnIDAgQSDBBNQVJJQU5BIE1BUklDRUxBMB8GCisGAQQBgqZyAyAEEQwPMDE3MDAxMDAwMDE3OTg0
+MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkM
+B0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdKSU1FTkVaMBsGCisGAQQBgqZyAx4EDQwLQ09NRVJD
+SUFOVEUwHQYKKwYBBAGCpnIDCwQPDA0xMjAzODQ1NzM4MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAW
+BgorBgEEAYKmcgMEBAgMBlBJTkNBWTAaBgorBgEEAYKmcgMIBAwMCjA5NTk2MDg2ODgwDQYJKoZI
+hvcNAQELBQADggIBABbCEYcqxkkCW855OCYv6jBLylK8GexhnSu9SOdBSFHKcjDAC+j46SAOcvTw
+B6OhLRs3DfXeAwRqiWzmnxeZIWwCZYKgpc/y6HOZyo3KYpO52PoEbzrhJUvLlCiavWPlSpQuNhIb
+UIDVrifIKkHjKw9ph2znk2YGaCQHc5UBxQfffFx4SLYCEWkDlgfkFbgK3tPcz65dmv6h6PTZHC4P
+GkTCR24JChvRdnZYGIEFH4kTAfn+eUI2ByEw3+lFHX+BSRYQl6EhpOEHayXKHhZb/KxeYp6x9h4j
+6FWB4ikToFeMkW/o4SFJtZ+if0k4wxW7ZusNJUWjpa/tTagr/04YB+TuJ3BqppgSbVTm7Q67KHSs
+WJcWzRwkgcRNv/PrhIoCDYwBQTapFCO9FXveLqM2uKWyXZwXEZ25g9UUNd7EaxumRoWkeA7keIRF
+EtmKsetXUKbFqckXE31/rnx3p5jeuPn1VZZFP13kRItaK/GJGpFzEW/acFoLGX39M75gCS5FWN1l
+VkH3LFJbGF114Q3dXrf0I3/wFvGyGmE0nZi49YAK6bODZofHjrG/iZU+fIXaQD+3UuMMFXzhAGR8
+wbwGPNgW68ZjiyNO8aPGRIl879iO/Atx6PjIp443ppQSlOF+sgEgzkfCUT0zm2qnFEoT7EXSCEwT
+vn9GO9W7EjmujjLY
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sZprDfg0US4dwJv+Z6Tl1EwBeLQYSBxEuUx4tBR/zy7bpSjRWRI+hDxtCMMRD6sfhcpwjfeibqLF
+wY64b4Eg6rZIFzBtN4YL2gfHz3whFKB7q0j7nWNTGN54mcgAMxAexyVPEMuoiH7pLXeD+u2UA6cX
+MAevXrmAuFQLPCUs3KIC0j8RgaqN/3NzuzhDs1UpRx3U0q7DChnUlpFuk3MxjPiWvkiHc+s/NhHb
+npYlyARBvwOZyaYQ4jCWXLgpbYse23zT94m+N62RCISYKiJx+dBroHnFeMyqt1Hxk70aImt21gzM
+pDMJ4udWLDkcrqUSKQuf0Kc6PMapoWl/zP2oww==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature39769-Object970404"><etsi:QualifyingProperties Target="#Signature39769"><etsi:SignedProperties Id="Signature39769-SignedProperties360932"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-04T14:23:14-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>TVKuNskhjOt+dM0+ODRSh3KQcAo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>5896206989592034582</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-17068"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

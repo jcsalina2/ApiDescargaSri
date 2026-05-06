@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601019042046900120020010000188722023098618</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T14:20:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>GOZARTE DEL CAFE CIA LTDA</razonSocial><nombreComercial>GOZA CAFE</nombreComercial><ruc>0190420469001</ruc><claveAcceso>1504202601019042046900120020010000188722023098618</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>001</ptoEmi><secuencial>000018872</secuencial><dirMatriz>ANTONIO BORRERO 4-11 LARGA </dirMatriz><agenteRetencion>001</agenteRetencion></infoTributaria><infoFactura><fechaEmision>15/04/2026</fechaEmision><dirEstablecimiento>Chaullabamba   </dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>MIGUEL JARA</razonSocialComprador><identificacionComprador>0923295786</identificacionComprador><direccionComprador>SN   </direccionComprador><totalSinImpuestos>43.84</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>43.84</baseImponible><valor>6.58</valor></totalImpuesto></totalConImpuestos><propina>4.38</propina><importeTotal>54.80</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>54.80</total><plazo>1</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>157</codigoPrincipal><descripcion>EXTPOLLO</descripcion><cantidad>1.000000</cantidad><precioUnitario>2.400000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.40</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Unidad" valor="UNIDAD"/><detAdicional nombre="PorcentajeDescuento" valor="0.0000"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2.40</baseImponible><valor>0.36</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>64</codigoPrincipal><descripcion>FET. TRES QUESOS</descripcion><cantidad>1.000000</cantidad><precioUnitario>7.120000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>7.12</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Unidad" valor="UNIDAD"/><detAdicional nombre="PorcentajeDescuento" valor="0.0000"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>7.12</baseImponible><valor>1.07</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>107</codigoPrincipal><descripcion>TORTA CHOCOLATE</descripcion><cantidad>1.000000</cantidad><precioUnitario>5.200000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>5.20</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Unidad" valor="UNIDAD"/><detAdicional nombre="PorcentajeDescuento" valor="0.0000"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>5.20</baseImponible><valor>0.78</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>57</codigoPrincipal><descripcion>PANINIVEGETARIANO</descripcion><cantidad>1.000000</cantidad><precioUnitario>8.600000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>8.60</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Unidad" valor="UNIDAD"/><detAdicional nombre="PorcentajeDescuento" valor="0.0000"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>8.60</baseImponible><valor>1.29</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>68</codigoPrincipal><descripcion>BOLOGNESA GRATINADA</descripcion><cantidad>1.000000</cantidad><precioUnitario>9.400000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>9.40</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Unidad" valor="UNIDAD"/><detAdicional nombre="PorcentajeDescuento" valor="0.0000"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>9.40</baseImponible><valor>1.41</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>83</codigoPrincipal><descripcion>NUGGETSDEPOLLO</descripcion><cantidad>1.000000</cantidad><precioUnitario>11.120000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>11.12</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Unidad" valor="UNIDAD"/><detAdicional nombre="PorcentajeDescuento" valor="0.0000"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>11.12</baseImponible><valor>1.67</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="AGENTE DE RETENCIÓN DE IMPUESTO A LA RENTA E IMPUESTO AL VALOR AGREGADO">No. Resolución: NAC-DNCRASC20-00000001</campoAdicional><campoAdicional nombre="Direccion">SN   ~QUITO Telf: 0000000000</campoAdicional><campoAdicional nombre="Email">arteyarmonia.escuela@gmail.com</campoAdicional><campoAdicional nombre="FechaVencimiento">16/04/2026</campoAdicional><campoAdicional nombre="Vendedor">BISTRO IMPLEMENTACION BISTRO IMPLEMENTACION</campoAdicional><campoAdicional nombre="Ciudad">QUITO</campoAdicional><campoAdicional nombre="CondPago">1 dia</campoAdicional><campoAdicional nombre="Transaccion">42872</campoAdicional></infoAdicional><ds:Signature Id="Signature939" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo469153">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID664303" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature939-SignedProperties1034100">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>We8OzbrH+7PkYQFJx/1O1nJNkwk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1121914">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5l7N8yUO578NZvRunGnbhzbANi0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-150720" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ugQTWTeli5a/bvgaa1QQSRz6df8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue659173">
+flfacXT2+0EOdWoceG08Roc7VBS/fKiBwUXVOZgTFNpAI0WcQhWVzE4HXwj3GCkvnmzP2CxXJrg7
+4wLLGw3pX1Sj27rtOdMhrU4+lae0IbY2zlG1HCDwj3+vmSBo1ojayJBRZRM7CoUFVaKN3+ShWM9d
+uhOaCVssR3sIbha7mUUb/cD8+zjMHnYYhYWSWKrN/17nuQ66CLejTDYN7aLVurhm45doJn9+pJ/U
+jo17YcZ5GWaXTIBM0sO6ki3ckhGMy1p/5iPYmwohp7PlrTW+YalHQp1iYyAxnwIbZDf6W7/QYaEs
+A3tGBKqqOFQdubljc4uF5wX0JWaLUI3qf1ZhKQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1121914">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJkDCCB3igAwIBAgIITXKcQ5s3hqkwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI2MDEwODIwMTAwMFoXDTI4MDEwODIwMTAwMFowgdoxCzAJBgNVBAYTAkVDMSQwIgYDVQQKDBtH
+T1pBUlRFIERFTCBDQUZFIENJQS4gTFREQS4xEDAOBgNVBAwMB0dFUkVOVEUxFzAVBgNVBAQMDlNJ
+TFZBIE1PTlRBTFZPMRgwFgYDVQQqDA9FWElESUEgRkVSTkFOREExGTAXBgNVBAUTEElEQ0VDLTE3
+MDkzNzc0MTgxJzAlBgNVBAMMHkVYSURJQSBGRVJOQU5EQSBTSUxWQSBNT05UQUxWTzEcMBoGA1UE
+YQwTVkFURUMtMDE5MDQyMDQ2OTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMbv
+fRObGp/nVj2OyIov1CEDeXt4ed/Zuvov4poNV5KzxZlXcaVG8KyihaL8adZKRmBW8ofJQzRy3fHu
+QigyaeMl6G32971REL2J5mY7E7TpLCH1xs7q3nmO9ighdMD3u+tvl5UUNsENLnO0C9xFRy1ze4NN
+MoEsIe6FaiIo5prWwM3cjsonYBVG6C75H4B9KVEQL4ePtUd27N0NCpzk5OEoJI6PTqBoKl9qaMsj
+yja98fwwzV+03x+0h+6JVzRaXYKv9dnIZevNXMIzU3QNolJYG5ECMd1LT2/kyHLrhAa578aWzJ7L
+XH7TB7CliL2wKq/8ROOX57c/qWuxumJnl00CAwEAAaOCBHgwggR0MBsGCysGAQQBgvE2ZgMBBAwM
+CjE3MDkzNzc0MTgwHgYLKwYBBAGC8TZmAwsEDwwNMDE5MDQyMDQ2OTAwMTCB1wYIKwYBBQUHAQEE
+gcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9h
+ZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMi5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9v
+Y3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29j
+c3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBS/VfOvgCAuxqewEVQM
+xOt7wW/v9jAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGO
+BgNVHSAEgYYwgYMwgYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJRklDQURP
+IERFIFJFUFJFU0VOVEFOVEUgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8v
+Y3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8
+hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEu
+Y3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggG5BgNV
+HREEggGwMIIBrIEXY29udGFibGV4aWZyYUBnbWFpbC5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMTcw
+OTM3NzQxOKAgBgsrBgEEAYLxNmYDAqARDA9FWElESUEgRkVSTkFOREGgFgYLKwYBBAGC8TZmAwOg
+BwwFU0lMVkGgGQYLKwYBBAGC8TZmAwSgCgwITU9OVEFMVk+gGAYLKwYBBAGC8TZmAwWgCQwHR0VS
+RU5URaAoBgsrBgEEAYLxNmYDB6AZDBdBTlRPTklPIEJPUlJFUk8gWSBMQVJHQaAfBgsrBgEEAYLx
+NmYDCKAQDA4wMDU5Mzk5NDQxNTUzNaAXBgsrBgEEAYLxNmYDCaAIDAZDVUVOQ0GgLAYLKwYBBAGC
+8TZmAwqgHQwbR09aQVJURSBERUwgQ0FGRSBDSUEuIExUREEuoB4GCysGAQQBgvE2ZgMLoA8MDTAx
+OTA0MjA0NjkwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVT
+RU5UQU5URSBMRUdBTKAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4IC
+AQDOhCSX90911hUmM+lF15AvA1cPkWR6NjxQQwP7WKbn7OAdbyUtVzX9CxC+aP/IQrxqkEOPRjht
+JOjkixRZEb1YCVGBWNe4Dz1ZxQZP7jjJ8Ojlt64FrcDR0YRDtvi7u6rfFFIwxrUTd9U4+ERdeLTJ
+klnIpjttrEayRSvYm9RFvIYZ6IH2oZ6XOXEKp0WDqAz360RYWup3/6Ia2GQ9rZv/Mopx/0YfWuvV
+wqFZwnUX44a7qj3WJXmex4DNpj629PV/T/BfNBhjcBDZRkfAnhGl1JsDCPiSqL1lyGOLXFvTBfHu
+Q7oYpMbF+b2xNgKeVSw/43TBn+CtkTN2GcM3jjEktC6u8j7WnzePfoHI2UMAcjUyDhNwHgpLJlT3
+LfjuCWvixal4CgUlWwg8Y5lqOtnKUObi2KIOncSceCqCLp5k51v2toJVCR74YPUwWiqjODE4WBjf
+VqqReXWv+BeOy5G9bZqKkkpZtpsK6kwntIs1r+HfSZYYPj0Qq1Pe34ADDvq4NetzQtbpPGT9qeG5
+oZdG4CUVjXnzUxCf2mJqAmXzFrKs0l+3O401elPMUZm76b6yQkH0xxHB2i1t3iCHx28rDqBv4vQB
+kiCgfsksNfsHzUHQxW5ayDWWu+OLJYfPjMbmn0bSn9BR9oErFZLJ7GZxYrXsLoCSVCeT103CON5U
+Sw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xu99E5san+dWPY7Iii/UIQN5e3h539m6+i/img1XkrPFmVdxpUbwrKKFovxp1kpGYFbyh8lDNHLd
+8e5CKDJp4yXobfb3vVEQvYnmZjsTtOksIfXGzureeY72KCF0wPe762+XlRQ2wQ0uc7QL3EVHLXN7
+g00ygSwh7oVqIijmmtbAzdyOyidgFUboLvkfgH0pURAvh4+1R3bs3Q0KnOTk4Sgkjo9OoGgqX2po
+yyPKNr3x/DDNX7TfH7SH7olXNFpdgq/12chl681cwjNTdA2iUlgbkQIx3UtPb+TIcuuEBrnvxpbM
+nstcftMHsKWIvbAqr/xE45fntz+pa7G6YmeXTQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature939-Object235561"><etsi:QualifyingProperties Target="#Signature939"><etsi:SignedProperties Id="Signature939-SignedProperties1034100"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T14:16:18-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Ngc7RgpFwukTuShfc5AbOTBGc9M=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>5580694702446315177</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-150720"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

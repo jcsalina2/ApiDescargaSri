@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202601179319371900120010030000341922796213711</numeroAutorizacion>
+<fechaAutorizacion>2026-04-20T07:30:26-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Ibremax S.A.S.</razonSocial><nombreComercial>Ibremax S.A.S.</nombreComercial><ruc>1793193719001</ruc><claveAcceso>2004202601179319371900120010030000341922796213711</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>003</ptoEmi><secuencial>000034192</secuencial><dirMatriz>Av. 6 de Diciembre y Av. Portugal</dirMatriz></infoTributaria><infoFactura><fechaEmision>20/04/2026</fechaEmision><dirEstablecimiento>Av. 6 de Diciembre y Av. Portugal</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>Maria Karina Argenzio</razonSocialComprador><identificacionComprador>0923083190001</identificacionComprador><direccionComprador>-</direccionComprador><totalSinImpuestos>72.69</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>72.69</baseImponible><valor>10.90</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>83.59</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>83.59</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>BT015-TA</codigoPrincipal><descripcion>[#365895] BT015-TA - Silla Para Auto GIRONA I-Size 76-150cm Taupe, DESP 028-2026-10-00487963</descripcion><cantidad>1.000000</cantidad><precioUnitario>72.690000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>72.69</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>72.69</baseImponible><valor>10.90</valor></impuesto></impuestos></detalle></detalles><ds:Signature Id="Signature659330" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo775189">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID324825" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature659330-SignedProperties1023523">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>g76cSbxViPGpITz/4OgjwnmONI4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1746932">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>skdYsy/lr+X+CqAyqBZD01YYGsU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1029382" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cPiEkwPT9AC6QSaCrRdqci1Z3kE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue336912">
+kAe08IUqe8OMqP4AwU3Qr1IE2vr9aXoo/xUKa8lKO7IydIzfcJHrilBPniyWgjlkzW7pDJJOUvxN
+2NXxVfzuz8NU0g5f5fa2SVQQ7r0DH5Q0KeEYqnUc3Xh/gt3GW+uVZ/qCp9MmxK4gnTlEXPnAQULX
+boHNx7H47n/winOY4TVjJUj1mXVPYvNvNlVJ67QwfC3oWpzLP49Kzy0Dteb4eE8MlKnTiqbmTmtY
+mlndbz/a8kFc1VS9vml2allAG4DabNYf0XAGgQ6LGOA8rBDgXz22BQ3z8hNkFzWaRVrCpQUHWtbD
+NapiYk5dyVsHqYQZbFE1pvulKBRMEI9+zbRrLA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1746932">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIfzCCB2egAwIBAgIFAMICajswDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI1
+MTAxNzIxMTY0MloXDTI3MTAxNzIxMTY0MlowgaExCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEmMCQGA1UEAwwd
+VkFOSU5BIEFOVE9ORUxBIEJJQU5DSEkgU09SSUExLTArBgkqhkiG9w0BCQEWHnllc3NlbmlhLnB1
+am90YUBzaWdsb2Jwb2VjLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANUqQtbq
+QIwrjY4r1zjrmIc8PUAnhnT/BAlo8ZpGOJs9bofW/Tte9C7lQ3rd23WBSZZke5iaUMYb23aU7Nhl
+iL0VBknU0oqRz928dRc/R6PpPKXPTOZpNCbLOG9lkPHbhmGTIBWdl0IzLBvl26A27agb27fMnc9n
+hnzI3f5F/wr2wvp1kNsZibt92EiYNv/KVAFGlfj6cL3soxDLNOJIXRT4kxwRf9MQpLmTTNxtByi4
+o9YWZOYkHdT67Pn0da5aSQHkONSlFPdPqLqFGUjS78uqJmn7TLBf70Xc15WVj2L76B3c99uRHhWQ
+0UEoW++hhxCAf4/YhDR/XO8IRoB6HPMCAwEAAaOCBRUwggURMBoGCisGAQQBg892AwEEDAwKMTc2
+MTYxMTkzNjAfBgorBgEEAYPPdgMCBBEMD1ZBTklOQSBBTlRPTkVMQTAXBgorBgEEAYPPdgMDBAkM
+B0JJQU5DSEkwFQYKKwYBBAGDz3YDBAQHDAVTT1JJQTAjBgorBgEEAYPPdgMFBBUME1JlcHJlc2Vu
+dGFudGUgTGVnYWwwMQYKKwYBBAGDz3YDBwQjDCFBVi4gNiBERSBESUNJRU1CUkUgWSBBVi4gUE9S
+VFVHQUwwGgYKKwYBBAGDz3YDCAQMDAowOTg0MjkzODc4MBUGCisGAQQBg892AwkEBwwFUXVpdG8w
+FwYKKwYBBAGDz3YDDAQJDAdFQ1VBRE9SMB0GCisGAQQBg892AwsEDwwNMTc5MzE5MzcxOTAwMTAe
+BgorBgEEAYPPdgMKBBAMDklCUkVNQVggUy5BLlMuMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFKo3
+xPpA6s6z4QbX0ShSrnFMswiHMB8GA1UdIwQYMBaAFO12SLAK8cmGhgxMRmTSBvjM1b0+MA4GA1Ud
+DwEB/wQEAwIF4DA6BgNVHR8EMzAxMC+gLaArhilodHRwOi9lbmV4dDIueHl6L0xhenphdGVDQTIv
+ZW1pc29yQ0EyLmNybDCCAYQGA1UdIASCAXswggF3MHwGCisGAQQBg892AgIwbjBsBggrBgEFBQcC
+AjBgGl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9s
+w610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMIH2BgkrBgEEAYPPdgIw
+gegwbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUgY2VydGlmaWNhZG8gZXMgZW1pdGlkbyBlbiBi
+YXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lhLiBMdGRhLjB4
+BggrBgEFBQcCAjBsGmpFbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBzdWJvcmRpbmFkbyBlcyBlbWl0
+aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEu
+IEx0ZGEuMIIBXQYDVR0RBIIBVDCCAVCgGgYKKwYBBAGDz3YDAaAMDAoxNzYxNjExOTM2oB8GCisG
+AQQBg892AwKgEQwPVkFOSU5BIEFOVE9ORUxBoBcGCisGAQQBg892AwOgCQwHQklBTkNISaAVBgor
+BgEEAYPPdgMEoAcMBVNPUklBoCMGCisGAQQBg892AwWgFQwTUmVwcmVzZW50YW50ZSBMZWdhbKAx
+BgorBgEEAYPPdgMHoCMMIUFWLiA2IERFIERJQ0lFTUJSRSBZIEFWLiBQT1JUVUdBTKAaBgorBgEE
+AYPPdgMIoAwMCjA5ODQyOTM4NzigFQYKKwYBBAGDz3YDCaAHDAVRdWl0b6AXBgorBgEEAYPPdgMM
+oAkMB0VDVUFET1KgHQYKKwYBBAGDz3YDC6APDA0xNzkzMTkzNzE5MDAxoB4GCisGAQQBg892Awqg
+EAwOSUJSRU1BWCBTLkEuUy4wPAYIKwYBBQUHAQEEMDAuMCwGCCsGAQUFBzABhiBodHRwOi8vZW5l
+eHQyLnh5ejo4Nzc3L2Fkc3Mvb2NzcDANBgkqhkiG9w0BAQsFAAOCAQEA2imY1D+gHqDgNdy8H7F+
+sBtS00xhNLmTPlF1XZqhPLvhwBpPCmmh6NPcCBOraU9dwtFjYrMVeXadydwXqHLdK02Jyhnbco/m
+yME1KQfEElwB2umN4hFH6S322trGzgZyZRcs1hssUVBXfeTG1/Jdq+nqx++nZ0hOk7cAcUmeO8K0
+79jIiPEg/bghicRX2Fr/9K/hwfCavCpe2hVdSPIgI+Foop2OTq8oM0EhppgqPZnyKTr44wGWXHMH
+XeLS/o4DhATxgeQqeNwVhGrMpOjs7RFyLFPOF9ZR+vjqx/hkewmp4KSqn+q36LvAMt/za2E9EsIt
+h/YZV3g4iXwgymtBtA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+1SpC1upAjCuNjivXOOuYhzw9QCeGdP8ECWjxmkY4mz1uh9b9O170LuVDet3bdYFJlmR7mJpQxhvb
+dpTs2GWIvRUGSdTSipHP3bx1Fz9Ho+k8pc9M5mk0Jss4b2WQ8duGYZMgFZ2XQjMsG+XboDbtqBvb
+t8ydz2eGfMjd/kX/CvbC+nWQ2xmJu33YSJg2/8pUAUaV+PpwveyjEMs04khdFPiTHBF/0xCkuZNM
+3G0HKLij1hZk5iQd1Prs+fR1rlpJAeQ41KUU90+ouoUZSNLvy6omaftMsF/vRdzXlZWPYvvoHdz3
+25EeFZDRQShb76GHEIB/j9iENH9c7whGgHoc8w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature659330-Object999595"><etsi:QualifyingProperties Target="#Signature659330"><etsi:SignedProperties Id="Signature659330-SignedProperties1023523"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T12:30:20+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>nTXiRTnHeAvm7RPX4LDBoCFsdT4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254938171</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1029382"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

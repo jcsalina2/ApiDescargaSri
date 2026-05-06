@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601099337856400120059010000183471234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T15:20:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ZANNU S.A</razonSocial>
+    <nombreComercial>ZANNU S.A</nombreComercial>
+    <ruc>0993378564001</ruc>
+    <claveAcceso>1304202601099337856400120059010000183471234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>005</estab>
+    <ptoEmi>901</ptoEmi>
+    <secuencial>000018347</secuencial>
+    <dirMatriz>KENNEDY AV. SAN JORGE 0416 Y AV OLIMPO </dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/04/2026</fechaEmision>
+    <dirEstablecimiento>KENNEDY AV. SAN JORGE 0416 Y AV OLIMPO</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>SALINAS ELIZALDE JUAN CARLOS</razonSocialComprador>
+    <identificacionComprador>0929761104</identificacionComprador>
+    <direccionComprador>--MARTHA DE ROLDOS MZ 110:3</direccionComprador>
+    <totalSinImpuestos>5.39</totalSinImpuestos>
+    <totalDescuento>5.39</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>5.39</baseImponible>
+        <valor>0.81</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>6.2</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>6.2</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>02696</codigoPrincipal>
+      <codigoAuxiliar>02696</codigoAuxiliar>
+      <descripcion>VC HHK-24</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>5.3913</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>5.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>5.39</baseImponible>
+          <valor>0.81</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>02696</codigoPrincipal>
+      <codigoAuxiliar>02696</codigoAuxiliar>
+      <descripcion>VC HHK-24</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>5.3913</precioUnitario>
+      <descuento>5.39</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">--MARTHA DE ROLDOS MZ 110:3</campoAdicional>
+    <campoAdicional nombre="Email">juansalinas_e@hotmail.com                                                       </campoAdicional>
+    <campoAdicional nombre="ordenCompra">SALINAS ELIZALDE JUAN CARLOS - FACTURACION POS</campoAdicional>
+    <campoAdicional nombre="Vendedor">VENTAS DE OFICINA</campoAdicional>
+    <campoAdicional nombre="Sucursal">MATRIZ</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature994107">
+<ds:SignedInfo Id="Signature-SignedInfo381891">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID205451" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature994107-SignedProperties74002">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>kd9fu7GBPQ1Mi6Y69DvHcKlkbfw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate137660">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>yIdBWFB0+a4TluBT6Hhov9s7pE4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-172505" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>j4B1kcQuFlXEFah6OInxPcyhyJM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue673078">
+NsFlAvN01UFivpQg7V+rpeilwrpIqAzYzki7/YZEOqaERH/5JA905c2R8JCHYI/TrH17P94zIe5w
+pWB3SgUqBIql/h21hkK3nd3rbr/95vOl1zRTpIZGL8C2r8GOB5lbBLaCmLq1CwBMySnABG5iFrQa
+ThMxM96+JGIrb8qp9EuDzlfn5eEYwjOpGgGeHyLDcsj7DvjgLabI/fJlobSwv0+DM90J8w/Xrtkl
++kN3aygRLWYQpxkBLgraFkefcazvhIPkAYb21SryfzNNaVMbzQWhpi2guA7KH5AmGfv822o6r08C
+KDv279ywr4JkhZF2nasimk0hJNG/3HUc5XiquQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate137660">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMOjCCCiKgAwIBAgIEKbKewzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTAxMjAxNzM4MTRaFw0yODAxMjAxNzM4MTRaMIGgMR4w
+HAYDVQQDDBVMVUlTQSBQQU9MQSBDSEFORyBUQVkxIDAeBgNVBAUTFzE3MTc4ODI0NTgtMjAwMTI1
+MTI0ODEwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKprMNhUrpWCNIRMjLO0SMe/P42HsVZ/XxtlnJwph3l49Pc95p5e
+O3VU9sHRss5S7q9uOVXbEnJDnkKgA9f9lqX+4yd26dDTIhquj3jFs5GxOODiCm9yTUFCicKbVytI
+i02fzi3K89hubOQo21gVqjE5W4KUKluz4CvbjF+DDcgJ6hWSmZ7MknvoM2wjmsLUKUYoJNEQdEAx
+gPJGOcABAkLTgiYft78+Zvv0Ij9GnCeZplyizHmoMrjdGfWPndWF0HTPpQQzXovl/O7uNnQM+nQc
+HGGbV6L6oK7kgID++75mSFi6awmv8uAetKMxdhlLa5t8wq9RmQlkZN67Kc1PhNUCAwEAAaOCB38w
+ggd7MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYB
+BQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9u
+TGlzdD9iYXNlMB8GA1UdEQQYMBaBFHBhb2NoYW5nOTNAZ21haWwuY29tMIIBFQYDVR0gBIIBDDCC
+AQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8A
+IABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKm
+cgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3At
+Y29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMg
+ZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUH
+AwIGCCsGAQUFBwMEMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3Vy
+aXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYD
+VQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAu
+BgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwU
+U0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBz
+ZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxp
+c3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDMB0GA1UdDgQWBBTvylLV7tkXVcVa2PK6QS9tkRo5NjArBgNVHRAEJDAigA8yMDI1MDEy
+MDE3MzgxNFqBDzIwMjgwMTIwMTczODE0WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9H
+RVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxNzE3ODgyNDU4MEAGCisGAQQBgqZyAwkE
+MgwwR1VBWUFRVUlMIENBQkVDRVJBIENBTlRPTkFMIFkgQ0FQSVRBTCBQUk9WSU5DSUFMMBEGCisG
+AQQBgqZyAyIEAwwBLjAyBgorBgEEAYKmcgMHBCQMIkFWRU5JREEgU0FOIEpPUkdFIFkgQVZFTklE
+QSBPTElNUE8wGwYKKwYBBAGCpnIDAgQNDAtMVUlTQSBQQU9MQTAfBgorBgEEAYKmcgMgBBEMDzAw
+MTAwMjAwMDcwMjY4MDATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFE
+T1IwFQYKKwYBBAGCpnIDAwQHDAVDSEFORzAZBgorBgEEAYKmcgMKBAsMCVpBTk5VIFMgQTAdBgor
+BgEEAYKmcgMLBA8MDTA5OTMzNzg1NjQwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBMGCisGAQQBgqZy
+AwQEBQwDVEFZMBoGCisGAQQBgqZyAwgEDAwKMDk4Nzk5OTUyMjANBgkqhkiG9w0BAQsFAAOCAgEA
+HyMdv0Qdc+jRN0hVuXbJWXo0UKMv7RSxLZh1kYoSQEibTcpNefeCW62wtZ44RH4sdpTiwwVVDFYC
+1qF33LOU78uFK+ItJqRJ1A5PCj5k84NwKsbvCXeXapDJ/pn++4UXRgj4lcyluNcvvNxU867bU+mc
+ULlMQ3LkTsFtqXsS2LFA9hDZoq1gw6tr3M1s+i0ocZCJtjrAQlnDvAjBwiqR0OpIga5OCnjJjcw5
+2T7blMkbQn+neezHM7b7WmO+kXyrN9hPGvuma3cqAXrqu7sAAOJZPwBP95m+JjDSNHvrb0LnMPZt
+FVaVpv9uTib8bU5a7dI3y9G/t3lvrYTOVA2u76iaB3FzKNbUwauAfOeZJaivNWldshdxrNT/kh/D
+0AMzRRTpDHZKYt1mhm2xL/GVe4GIAGMWF/X6TI2Cj2DJ2lvt56FQAQyPlq8+p32PS5W3E0nol8A4
+HFNBWEgzklV8O6MNGKT4UYsHPOrQYbcUUHxFftMeKTBM+Pgpnr7P/f17tu4+HwV5MzzAap+Tvqrv
+IHx+6WqzyMP8UoPzX7MZKE46EWd5x1hwozAGK2zgw6HeIP2hm657j5NWgsuGxODBHlXXcXaVyOfU
+HN1b5qTZKRbEC5z8sFhcWxylnK6gpQNkwqqbyeUyDKdh81eqRuoSZX5ITkt2KcsUGoJykUOQCfE=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qmsw2FSulYI0hEyMs7RIx78/jYexVn9fG2WcnCmHeXj09z3mnl47dVT2wdGyzlLur245VdsSckOe
+QqAD1/2Wpf7jJ3bp0NMiGq6PeMWzkbE44OIKb3JNQUKJwptXK0iLTZ/OLcrz2G5s5CjbWBWqMTlb
+gpQqW7PgK9uMX4MNyAnqFZKZnsySe+gzbCOawtQpRigk0RB0QDGA8kY5wAECQtOCJh+3vz5m+/Qi
+P0acJ5mmXKLMeagyuN0Z9Y+d1YXQdM+lBDNei+X87u42dAz6dBwcYZtXovqgruSAgP77vmZIWLpr
+Ca/y4B60ozF2GUtrm3zCr1GZCWRk3rspzU+E1Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature994107-Object236230"><etsi:QualifyingProperties Target="#Signature994107"><etsi:SignedProperties Id="Signature994107-SignedProperties74002"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T15:20:26-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>EhdI7MxNqps7pYJDkiHBmNeEALw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>699571907</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-172505"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

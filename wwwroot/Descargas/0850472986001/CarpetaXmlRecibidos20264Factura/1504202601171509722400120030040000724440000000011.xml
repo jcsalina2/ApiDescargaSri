@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601171509722400120030040000724440000000011</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T18:17:19-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CALDERON CORDOVA CESAR ANTONIO</razonSocial><nombreComercial>CALDERON ESMERALDAS</nombreComercial><ruc>1715097224001</ruc><claveAcceso>1504202601171509722400120030040000724440000000011</claveAcceso><codDoc>01</codDoc><estab>003</estab><ptoEmi>004</ptoEmi><secuencial>000072444</secuencial><dirMatriz>VIA ESMERALDAS ATACAMES M50 SL</dirMatriz></infoTributaria><infoFactura><fechaEmision>15/04/2026</fechaEmision><dirEstablecimiento>EUGENIO ESPEJO #315 Y 17 DE MARZO</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>M&amp;amp;C MINI MARKET</razonSocialComprador><identificacionComprador>0850472986001</identificacionComprador><direccionComprador>VIA PRINCIPAL TONSUPA MAS ADELANTE DEL REDONDEL DE LA VIRGEN</direccionComprador><totalSinImpuestos>5.64</totalSinImpuestos><totalDescuento>0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>5.64</baseImponible><valor>0.85</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>6.49</importeTotal><moneda>Dolar</moneda><pagos><pago><formaPago>01</formaPago><total>6.49</total><plazo>1</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>64960722</codigoPrincipal><descripcion>AROMATEL AROMATERAPIA RELAJ DP 24X340ML</descripcion><cantidad>1</cantidad><precioUnitario>0.74</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>0.74</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>0.74</baseImponible><valor>0.11</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>64960734</codigoPrincipal><descripcion>AROMATEL SUAVIZ FLORAL DP 24X340ML</descripcion><cantidad>2</cantidad><precioUnitario>0.74</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>1.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>1.48</baseImponible><valor>0.22</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>65072710</codigoPrincipal><descripcion>SURF DT PVO MULTIUSOS ROSAS 21X500G</descripcion><cantidad>3</cantidad><precioUnitario>0.76</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>2.28</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>2.28</baseImponible><valor>0.34</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>65072700</codigoPrincipal><descripcion>SURF DT PVO MULTIUSOS ROSAS 36X225G</descripcion><cantidad>3</cantidad><precioUnitario>0.38</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>1.14</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>1.14</baseImponible><valor>0.17</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="telefono">NO TIENE</campoAdicional><campoAdicional nombre="Orden De Compra">NA</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature136498">
+<ds:SignedInfo Id="Signature-SignedInfo788407">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID524680" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature136498-SignedProperties1012916">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>iu1PLFd3/rRzrVfjSPFwFy2laEg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1603360">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>YhT/HL+yAs2d2ZfHLiNLk7EH4cg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-556081" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>e142vwUV373f4MSPuMFDDRseN0A=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue96001">
+fGVQwRTvTKX41bc6Jug69aoAJ9QR6fEjs+av6xkUNGEzyHQKvcIdd+KOWqmI/F35A1QxninSqSxc
+CAogb7Io9R+iQnbfcjCLS8ZBwOoqOvQb0tZo3BpF0YPt9KFwFiSp38ZBOZongaO69KmoxvRbb5bV
+r7VkXei/2ZT6iqbma4MIYbaWiRTe5+A7/0pIE8hov1pLljugY/mkGy0UcyzSjRGyTfZgM/XJBwmP
+4JeEyWDOrUrJl7VInl5D3UXZQCASl9E5aZkGpDqGfOd6pW0iKoHJwlqXODynTMDaa+zsK8e/Tt++
+sFN7mhRj4Rh/8MTbz9mwnc0li+B78rykXGCImw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1603360">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJHzCCBwegAwIBAgIIWuBEAa3TsqQwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTIxMTAwMTgwMFoXDTI2MTIxMTAwMTgwMFowgaIxCzAJBgNVBAYTAkVDMRkwFwYDVQQEDBBD
+QUxERVJPTiBDT1JET1ZBMRYwFAYDVQQqDA1DRVNBUiBBTlRPTklPMRkwFwYDVQQFExBJRENFQy0x
+NzE1MDk3MjI0MScwJQYDVQQDDB5DRVNBUiBBTlRPTklPIENBTERFUk9OIENPUkRPVkExHDAaBgNV
+BGEME1RJTkVDLTE3MTUwOTcyMjQwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCI
+X2v1AIUKztZ1MqZ7UIXqwl5pGBsdezeVAGk8/T1RMRnB7Iz70kYuMHfls3v+5QR0o0I2uEjgNFnw
+CdGKJNT1IOYh/qw3hhGeBxBj0vl006mDH3qe3OteViX4mdwOHljEX2Vdrjc6kxBfGzEnCldDs/Mf
+fQBHDq+PmsgYyJk0T6cEQpapNAr0XJvTfDLTiZ+HM7FBMP5INXE1CiiF83lBeKtMRrMTXbL8FwrZ
+e6SECRDGl+xtr9syQYg4wVTpPrh4gfqa/7OYWcWlbaZObeJYLlvFe9e4r/6DUG1XvsZ4jGdNz548
+Hw0/hLV3o9Jsg0zmiX658BSSqXF3nZYz0ZFnAgMBAAGjggQ/MIIEOzAbBgsrBgEEAYLxNmYDAQQM
+DAoxNzE1MDk3MjI0MB4GCysGAQQBgvE2ZgMLBA8MDTE3MTUwOTcyMjQwMDEwgdcGCCsGAQUFBwEB
+BIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxv
+YWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8v
+b2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9v
+Y3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUFdIy0aNNWM+eKfKr
+esdUbeN2sngwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCB
+mQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FE
+TyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECg
+PqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5h
+ZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Ey
+c3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYB
+BQUHAwQwggF1BgNVHREEggFsMIIBaIEUZmRpZ2l0YWw5MUBnbWFpbC5jb22gGwYLKwYBBAGC8TZm
+AwGgDAwKMTcxNTA5NzIyNKAeBgsrBgEEAYLxNmYDAqAPDA1DRVNBUiBBTlRPTklPoBkGCysGAQQB
+gvE2ZgMDoAoMCENBTERFUk9OoBgGCysGAQQBgvE2ZgMEoAkMB0NPUkRPVkGgIwYLKwYBBAGC8TZm
+AwegFAwSTFVJUyBBTEZPTlNPIExPUEVaoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTkyNjQ3MDU0
+oB4GCysGAQQBgvE2ZgMJoA8MDVNBTlRPIERPTUlOR0+gHgYLKwYBBAGC8TZmAwugDwwNMTcxNTA5
+NzIyNDAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5B
+VFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOC
+AgEAMH8O/rrQG9vs8eq5HEGJaRKxGelf4nk16CGIt2/QGoNEADalbIzvGj1sYeRJDbNVFpKMUeD3
+uzgjVJrqLn9OOi0hAG+alcYl0GkmHj3/YR/CaaGdg7vmCJE17SRPqK33F41O2HEw6+jYX+QSOVrZ
+QDtt7l94131CgEDJZIiKQvHybNhsSJhIfgpiGvE/E2479pGT/VSBMUocvJJbYLu8y5beGxuPafUh
+wOivU1vpWvzBxvpFpQkgrIdxXE4Z+YbseMr9bhYUHtVn5Zsb+AIMgCUcRV7hYTriUHoPAOy88rn+
+fIjrnANcqdBz2UBIIStrIScxq+4Bxfv4TP4xeDw/skXWZgoOfVHBwxgD0zVCJgn8YjiAmIQBwuZc
+mHRdfGVzqJryAq+6k5UFStTgK1/Bus47heb0dffvegmCNPo5qnEmNXTlvq9Aw1gP6qRZhS/rYB8+
+cucZOzw30YdXOyK96LaiGPJzisys2HSWPT//8Y6o6M3DQoQ1L3eRPwRHZrkP7ClYdOqR2uXLJa4V
+CfomD4cb3TmwTpnC1R23gBZ7WimYatFDPOfMA6hty1F1MlDrEOSMQP4VH2K1goPAH8hGuxjFxFOP
+7JVS06f3dbQKMnKlvUir3xXD6XeQzVVI3bcSzY6JvIQOFO/QVj5/YfOHwjOvYwyEcOFGbCvX3KMm
+Dhk=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iF9r9QCFCs7WdTKme1CF6sJeaRgbHXs3lQBpPP09UTEZweyM+9JGLjB35bN7/uUEdKNCNrhI4DRZ
+8AnRiiTU9SDmIf6sN4YRngcQY9L5dNOpgx96ntzrXlYl+JncDh5YxF9lXa43OpMQXxsxJwpXQ7Pz
+H30ARw6vj5rIGMiZNE+nBEKWqTQK9Fyb03wy04mfhzOxQTD+SDVxNQoohfN5QXirTEazE12y/BcK
+2XukhAkQxpfsba/bMkGIOMFU6T64eIH6mv+zmFnFpW2mTm3iWC5bxXvXuK/+g1BtV77GeIxnTc+e
+PB8NP4S1d6PSbINM5ol+ufAUkqlxd52WM9GRZw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature136498-Object754376"><etsi:QualifyingProperties Target="#Signature136498"><etsi:SignedProperties Id="Signature136498-SignedProperties1012916"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T20:17:19-03:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>50OgQmucYKJDSmEi2lZE7D9w6gE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>6548308632198689444</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-556081"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

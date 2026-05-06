@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2304202601170606263300120010140000310630003106317</numeroAutorizacion>
+<fechaAutorizacion>2026-04-23T14:39:13-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>MARIA GLADYS CACHIPUENDO VARGAS</razonSocial>
+<nombreComercial>SUPER GABY</nombreComercial>
+<ruc>1706062633001</ruc>
+<claveAcceso>2304202601170606263300120010140000310630003106317</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>014</ptoEmi>
+<secuencial>000031063</secuencial>
+<dirMatriz>ASCAZUBI S2-26 Y 10 DE AGOSTO</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>23/04/2026</fechaEmision>
+<dirEstablecimiento>ASCAZUBI S2-26 Y 10 DE AGOSTO</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>GUALAVISI GUAJAN SEGUNDO DAVID</razonSocialComprador>
+<identificacionComprador>1716539133001</identificacionComprador>
+<direccionComprador>PAQUIESTANCIA</direccionComprador>
+<totalSinImpuestos>3.83</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>3.48</baseImponible>
+<valor>0.52</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>0.35</baseImponible>
+<valor>0</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>4.35</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>4.35</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>0120103</codigoPrincipal>
+<descripcion>PLIEGOS CARTULINA COLORES 150 GR 70X100</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   0.35000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.35</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>0.35</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>0120173</codigoPrincipal>
+<descripcion>PLIEGOS CARTULINA IRIS 50 X 70 CM 160GR</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   0.47826</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.48</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>0.48</baseImponible>
+<valor>0.07</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>012105</codigoPrincipal>
+<descripcion>LAPIZ BICOLOR DELGADO HEXAGONAL STAEDTLER</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   0.43478</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.43</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>0.43</baseImponible>
+<valor>0.07</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>4007817104460</codigoPrincipal>
+<descripcion>LAPIZ TRADITION STAEDTLER HB</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>   0.65217</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.3</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>1.3</baseImponible>
+<valor>0.2</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>77915153</codigoPrincipal>
+<descripcion>RESALTADOR PELIKAN FLASH VERDE</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   0.52174</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.52</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>0.52</baseImponible>
+<valor>0.08</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FIGEVA124</codigoPrincipal>
+<descripcion>FOMIX FIGURA FUNDA</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   0.73913</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.74</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>0.74</baseImponible>
+<valor>0.11</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">PAQUIESTANCIA</campoAdicional>
+<campoAdicional nombre="Telefono">0997602308</campoAdicional>
+<campoAdicional nombre="EmaiL">dguajan80 outlook.com</campoAdicional>
+<campoAdicional nombre="NumDocumento">FR0770460M-0301-M</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature279041">
+<ds:SignedInfo Id="Signature-SignedInfo550458">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID327260" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature279041-SignedProperties39799">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>m68esfZ1D3ZUVaDqpbfA1JBY19c=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1919563">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RRWs7LtGZO/7PWnUGKMOdYHMnJ0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-943772" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>MtP7DjYtKtcX+MuU/lwKbBIa7u0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue632272">
+SkjVoUWyLhExwWh9mANJxD4RSpFGdX+nRocvksql1eZK+iqK9NkafuSNlzOOtTwvNkPeLvgQJW17
+uJOnWN7lHJkgBT3913g7dYGOwcT17Yaz0Ps+Ru+zvGSXOROEnAcsiiHSxe3JXsNU7E5kKzNixaIP
+7FTTKhalhRhs4a8ccdGbPgY1QaZ1YgVZX0XEyHq+3eCCpFH0DS/f8xynopWG2/GH9HhzW7UpejFp
+b4W+qSF1bneu4J9dmKOKKuyvjDJ4Uo4efrsZXVbc/7AZ6yBXuLKR2MnP9aLWuV7s2Ji4zHjJl5k2
+eXzdUOsijynGUqFW4I0BGcqn1e/Mk/pmRutHBA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1919563">
+<ds:X509Data>
+<ds:X509Certificate>
+MIII7TCCBtWgAwIBAgIISUV6UaBD0c8wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMDEwMzE5MjMwMFoXDTI3MDEwMjE5MjMwMFowgaQxCzAJBgNVBAYTAkVDMRswGQYDVQQEDBJD
+QUNISVBVRU5ETyBWQVJHQVMxFTATBgNVBCoMDE1BUklBIEdMQURZUzEZMBcGA1UEBRMQSURDRUMt
+MTcwNjA2MjYzMzEoMCYGA1UEAwwfTUFSSUEgR0xBRFlTIENBQ0hJUFVFTkRPIFZBUkdBUzEcMBoG
+A1UEYQwTVElORUMtMTcwNjA2MjYzMzAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AJ6LdIHkiWZsb76cEPoRBssSgUcEuVO1oTT7K6msUBWIgTkA/jWOiT4fYZvXonnPt8VK2uFO5aEP
+E/kMb88TLrBvjwvScp25/pblQaHruSomG3CAPpqQIDKe2v3pPORpFVgdX2wj7sKuM3N3MXPMX2am
+HsqXNE+PZ9ENI66ajXJpRCREv7peIa77MWI158AbdHVvQXG4puZZSX5Dki9SV9/23vVu+3cVhTKD
+QPJcFRvAZMnjU+VMO4hVtF5L9GNXaquXOxlttsK/zcxrXF2xsgVEPs82SfZa70r9wtHEDMi2im27
+b9D9weslNUJHM4y3orFrJs7RWzqiJNZvlAKZpUMCAwEAAaOCBAswggQHMIHXBggrBgEFBQcBAQSB
+yjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2Fk
+L3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29j
+c3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2Nz
+cDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFFjXtTtFOwBFxPxtI8Gd
+AEOqM61+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkG
+A1UdIASBkTCBjjCBiwYMKwYBBAGC8TZmAgEBMHswNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wQAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8g
+REUgUEVSU09OQSBOQVRVUkFMIE8gRklTSUNBIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6g
+PIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRh
+LmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1
+Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMIIBfgYDVR0RBIIBdTCCAXGBF3N1cGVyZ2FieWVmZWNAZ21haWwuY29toBsGCysGAQQBgvE2
+ZgMBoAwMCjE3MDYwNjI2MzOgHQYLKwYBBAGC8TZmAwKgDgwMTUFSSUEgR0xBRFlToBwGCysGAQQB
+gvE2ZgMDoA0MC0NBQ0hJUFVFTkRPoBcGCysGAQQBgvE2ZgMEoAgMBlZBUkdBU6AuBgsrBgEEAYLx
+NmYDB6AfDB1BU0NBWlVCSSBTMi0yNiBZIDEwIERFIEFHT1NUT6AfBgsrBgEEAYLxNmYDCKAQDA4w
+MDU5Mzk5ODExMzQ3NqAYBgsrBgEEAYLxNmYDCaAJDAdDQVlBTUJFoB4GCysGAQQBgvE2ZgMLoA8M
+DTE3MDYwNjI2MzMwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgKQYLKwYBBAGC8TZmAzKgGgwYUEVS
+U09OQSBOQVRVUkFMIE8gRklTSUNBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcN
+AQELBQADggIBAM4Bmu02EKy56J7D24LAc8zi2BZaFbewC+JRKAO8olZIpDLJaOu60aBZO7n349+a
+vlsg33XanRoE+fM/SVLqeECaQR+IuEwjVwh/t9KMh2tmr/BLGz6BVr3tZAp72SdpQeALqm179JWJ
+a8mMKOXIjRaX2EcOyFhfjETGJ/wPYnT+l2WQye1gG2dgX50Zyld2jlAqUW5DPTM8re7vjcupfehc
+ituVZ6Om5m9GnsrkNdwVh8RaLP3a101m8kIjjtG+OF6aFJVNREq6m0gjgD9IfWqVDKiAFmwUlwk+
+009mwz3mWvoLpPVXybBWdhdIxfX1u3S0k0i4M1NYhkyGPT5gOEEYnvJoIf4+8j1oXdo70v60sS+A
+Eh6FAXEDSzEBFCbXvu0KhkkXXIgmnxyciq0ew9tCKjDC7gXmCt5oXZwI8ymjvnOpekDD8OX/zmvu
+1gsI6p8QshlhIUbq0wAnNbGxBIQSdFn1fwRhU27s4KxEFCLHhYln99hRiUXEeejUB9rIAL18z8NI
+cGjruySH+oeY52XkqwGaOK9eDvjYsXaijkuXvq2gWbnIvKxk7fpUBHHVwn4dEuDQ0nsi9M4DZ8xK
+nA1zZeC4XKSyW7g7Xx16t+rfXW6UGKozeBIq1n2cSowEHRGHv39D7zwrOYzWOTQwv+D/TH7kAfKU
+JyivoXowLyCx
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+not0geSJZmxvvpwQ+hEGyxKBRwS5U7WhNPsrqaxQFYiBOQD+NY6JPh9hm9eiec+3xUra4U7loQ8T
++QxvzxMusG+PC9Jynbn+luVBoeu5KiYbcIA+mpAgMp7a/ek85GkVWB1fbCPuwq4zc3cxc8xfZqYe
+ypc0T49n0Q0jrpqNcmlEJES/ul4hrvsxYjXnwBt0dW9Bcbim5llJfkOSL1JX3/be9W77dxWFMoNA
+8lwVG8BkyeNT5Uw7iFW0Xkv0Y1dqq5c7GW22wr/NzGtcXbGyBUQ+zzZJ9lrvSv3C0cQMyLaKbbtv
+0P3B6yU1QkczjLeisWsmztFbOqIk1m+UApmlQw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature279041-Object774838"><etsi:QualifyingProperties Target="#Signature279041"><etsi:SignedProperties Id="Signature279041-SignedProperties39799"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-23T14:39:10-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>LJWCqTpI9YOJvkfOQDg3X65hnAY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>5279760629161513423</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-943772"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

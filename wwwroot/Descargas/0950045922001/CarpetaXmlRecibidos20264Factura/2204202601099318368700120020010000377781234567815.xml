@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2204202601099318368700120020010000377781234567815</numeroAutorizacion>
+<fechaAutorizacion>2026-04-22T16:13:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PARTYLOVERS</razonSocial>
+    <nombreComercial>PARTYLOVERS</nombreComercial>
+    <ruc>0993183687001</ruc>
+    <claveAcceso>2204202601099318368700120020010000377781234567815</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000037778</secuencial>
+    <dirMatriz>LOT. SENORA DE PAREJA, AV. FELIPE PEZO Y AV. 33 NE</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>22/04/2026</fechaEmision>
+    <dirEstablecimiento>SAUCES 8</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>BELGICA ANDREA LOAIZA SUAREZ</razonSocialComprador>
+    <identificacionComprador>0950045922001</identificacionComprador>
+    <totalSinImpuestos>32.05</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>32.05</baseImponible>
+        <valor>4.81</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>36.86</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>36.86</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>6903924116069</codigoPrincipal>
+      <descripcion>SET COLLAR VASO SHOT PLAST. ROJO 6PCS</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.208700</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.21</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>5.21</baseImponible>
+          <valor>0.78</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7736400122006</codigoPrincipal>
+      <descripcion>LLAVERO HARRY POTTER V.MOD.</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.730400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.46</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.46</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2626109982818</codigoPrincipal>
+      <descripcion>SET COLLAR DORADO X6PCS  /X200B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.165200</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7736400500040</codigoPrincipal>
+      <descripcion>GUIRNALDA HAP/BIR HARRY POTTER</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.260900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.26</baseImponible>
+          <valor>0.49</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7736600000364</codigoPrincipal>
+      <descripcion>CAJA TRIANG. HARRY POTTER X10</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.600000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.60</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.60</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>6692242724666</codigoPrincipal>
+      <descripcion>MANTEL PLAST. NEGRO X48B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.730400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.73</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.73</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7736400711460</codigoPrincipal>
+      <descripcion>GLOBO JUMBO #3  MENTA 40 PLG</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.956500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.96</baseImponible>
+          <valor>0.29</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7736400711491</codigoPrincipal>
+      <descripcion>GLOBO JUMBO #6 MENTA 40 PLG</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.956500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.96</baseImponible>
+          <valor>0.29</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CROM12</codigoPrincipal>
+      <descripcion>GLOBO R12 CROMADO XU</descripcion>
+      <cantidad>12.000000</cantidad>
+      <precioUnitario>0.297600</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.57</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.57</baseImponible>
+          <valor>0.54</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7492025008612</codigoPrincipal>
+      <descripcion>CANDELABRO VIDRIO BASE RED.  V.COLOR. REF:HM1164/B</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.600000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.60</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.60</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>6584599279046</codigoPrincipal>
+      <descripcion>CANDELABRO VIDR/ REDON.REF:ES27904 (7.5*5CM)</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.304300</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1.30</baseImponible>
+          <valor>0.20</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2023021078610</codigoPrincipal>
+      <descripcion>VARITA CIGARRO XU</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>1.116100</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.23</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección:">SAMANES 4</campoAdicional>
+    <campoAdicional nombre="Telefono:">0959257691</campoAdicional>
+    <campoAdicional nombre="Vencimiento:">22-Abr-2026</campoAdicional>
+    <campoAdicional nombre="Vendedor:">SILVA HUAYAMAVE MELANY NAYELLI                                                                                                                                                                          </campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature84859" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo Id="Signature-SignedInfo60711"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID97982" URI="#Signature84859-SignedProperties94035" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>HDIVmBDW/yGh9/j5NFgG1BqX1/E=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate52242"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>ricY7ABEPP0dZDKIQ3d6gkzGuSQ=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-90594" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>QUmpwAkyrFkxOV+xxqMp7NtqLlg=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue99720">NwRXUdLDLlwf18sS48VJCiZW/9p56vRJ3f5WNoPPlJCPnQOX+/ggQqNDSQzspgUAN8P0EaNsp6vV
+4EFYteo4hJqGW/iSecxCDT66lwajZz6oo2xcsvjYDixt0jlP3Pdam4V6npZAL/wsSNktrn3W8rBB
+25dJ4aooFlhAW4Ifz5wZNR+rr2kgFrrVmWzn4+95ImO3h8Iho/jqMox2xbpiqdSXr87G0R3gAnKw
+7kgMIat8aFcXGDrQW4kMssZaBBC0cmQLRenC2vmBKB5UxmDFpc5JBN/wmJOxf//kbcgQlT/Zyy1q
+x7JdhykuM+JXviNyjxd2HcD1/y1rlKqrc1XIIA==</ds:SignatureValue><ds:KeyInfo Id="Certificate52242"><ds:X509Data><ds:X509Certificate>MIILBTCCCO2gAwIBAgIIGqDAeK4fzvcwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMzAyMTU1MzA1WhcNMzEwMzAyMTU1MzA1WjCB
+qTEnMCUGA1UEAwweWEFWSUVSIExFT05BUkRPIEdSQU5EQSBRVUVaQURBMSAwHgYDVQQFExcwOTIz
+ODMzNTUyLTAyMDMyNjExMDI1NjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCTYZlmzVPNr2BfU5hdZNRhFKKQIpi7Gra3
+0JSBYJxYdaW0u639XRUZsUvCkFQkkAuDCKlCq3x19duy48vzRo7e3xAHneymMk1UPMB1w4LwvwHb
+g8EooO680m4gYG1p1J5dpISOotDW+zdtUf4XFAEb5JuB1Z9miBuHOB3bnJTbFsIomYKlhhp+9c+c
+fnVQSQae9euuOsWQIxeKWsU8UjyG2IqEfTO4VQ7UJaO6kpSXJKHHnnBBX5naPoyQH2BeAZtLajkz
+Rjmk7AqST2tJ1EO+T3N7tFgu8fvO4H5PP5DKmJB6UWftGaFry6iZgXiZsM8rprHpfMdqYPjIIfz3
+EtaFAgMBAAGjggY9MIIGOTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/
+ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAqBgNVHREEIzAhgR9jb250
+YWJpbGlkYWRAcGFydHlsb3ZlcnMuY29tLmVjMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnIC
+CTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcABy
+AGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEF
+BQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9h
+ZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8g
+UmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIC
+DwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1
+YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEL
+MAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2Ey
+Y3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwm
+aXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBE
+QVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBS4vaaqMPsiFquURm8p4MYBLtuhJDArBgNVHRAEJDAi
+gA8yMDI2MDMwMjE1NTMwNVqBDzIwMzEwMzAyMTU1MzA1WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGC
+pnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTIzODMzNTUyMEAGCisG
+AQQBgqZyAwkEMgwwR1VBWUFRVUlMIENBQkVDRVJBIENBTlRPTkFMIFkgQ0FQSVRBTCBQUk9WSU5D
+SUFMMBEGCisGAQQBgqZyAyIEAwwBLjA7BgorBgEEAYKmcgMHBC0MK0FWRSBGRUxJUEUgUEVaTyBT
+TCAxIFkgQVYgR1VJTExFUk1PIENVQklMTE8wHwYKKwYBBAGCpnIDAgQRDA9YQVZJRVIgTEVPTkFS
+RE8wHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDExMTU2NjcwEwYKKwYBBAGCpnIDIQQFDANQRlgw
+FwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGR1JBTkRBMB8GCisGAQQB
+gqZyAwoEEQwPUEFSVFlMT1ZFUlMgUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MzE4MzY4NzAwMTAR
+BgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdRVUVaQURBMBoGCisGAQQBgqZyAwgE
+DAwKMDk5NDM2ODUxOTANBgkqhkiG9w0BAQsFAAOCAgEAMSZPs3xijIGev8XeL7bEcZt3hYLe48Ph
+8ANyd6n+GvsKmoXKQesvoBQgJjS4Yrmzd9+jtMsQp0JVhp0Nbve70OQ0wwuDoNfdSz/GyCAkQAqq
+mHu3wWJ/qrOGVM3n77SVpXWoWr1xrQfKkvJaVo9mX6xxGujcVWZ1nG8tcmMibGFozSviPTRgSpA3
+VjFj9cFaYhKMKsr26l9ZjYW2WREg8CMCrftvflTTsY6UnD9f9Cic3dcuypTeadTVvHf+4pZacSUG
+5AYEwnUomUMytORZRGICYvAYCte/bErCedLvLnDTUbOIG95dBxiRT2rpLZoNzuzmk/RSGyqopAqf
+F3DH00vyzCS3kAvQpJYRX1cRI+UAq92Td+Fki7N8FpvTWd+v5zp33WlYu+RYtag86XSHDffaa/Qh
+hzMOOZCM+lhVZcsR6I2s7rAQaNvpMGr0g5lzV/0Jpf2rl6T0B17r7EurIiZNiJq3ooFTzotBemTC
+eRj3Pi6M4SUVxPCCPSW/v75F/4xIlqw8cAdzZ5XXBQ6rTq7HIP544MSoi7UE1g87V7sAYYrbdDqq
+QA3CQQoxZqQUu0bRFxr03gE72biqDQL1RrRi1hoMbMQiljr3BqHImHwLqqtHeGLaEGAwy3Weoi86
+bWeg8WhYIMZFLfPpz8SBjHjQL/5JJ3HpA051yLmBn5I=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>k2GZZs1Tza9gX1OYXWTUYRSikCKYuxq2t9CUgWCcWHWltLut/V0VGbFLwpBUJJALgwipQqt8dfXb
+suPL80aO3t8QB53spjJNVDzAdcOC8L8B24PBKKDuvNJuIGBtadSeXaSEjqLQ1vs3bVH+FxQBG+Sb
+gdWfZogbhzgd25yU2xbCKJmCpYYafvXPnH51UEkGnvXrrjrFkCMXilrFPFI8htiKhH0zuFUO1CWj
+upKUlyShx55wQV+Z2j6MkB9gXgGbS2o5M0Y5pOwKkk9rSdRDvk9ze7RYLvH7zuB+Tz+QypiQelFn
+7Rmha8uomYF4mbDPK6ax6XzHamD4yCH89xLWhQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature84859-Object64989"><etsi:QualifyingProperties Target="#Signature84859"><etsi:SignedProperties Id="Signature84859-SignedProperties94035"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-22T16:13:30</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>X40dWinuxnvrhEYtXOWts6xhU5w=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1918745065809759991</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-90594"><etsi:Description>Servicios IT, Luis Orellana Escalante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601099000053000121281010000161081234567814</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T18:07:35-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PYCCA S.A.</razonSocial><nombreComercial>ALMACENES PYCCA</nombreComercial><ruc>0990000530001</ruc><claveAcceso>1804202601099000053000121281010000161081234567814</claveAcceso><codDoc>01</codDoc><estab>128</estab><ptoEmi>101</ptoEmi><secuencial>000016108</secuencial><dirMatriz>MATRIZ: BOYACA 1205 Y AV.9 DE OCTUBRE - VELEZ</dirMatriz></infoTributaria><infoFactura><fechaEmision>18/04/2026</fechaEmision><dirEstablecimiento>LA MODERNA TOWN CENTER</dirEstablecimiento><contribuyenteEspecial>6925</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>LOAIZA SUAREZ BÉLGICA ANDREA</razonSocialComprador><identificacionComprador>0950045922</identificacionComprador><direccionComprador>UBICACI N SAMAES 1 MANZANA 122 VILLA 22 DEPARTAMENTO   REFERENCIA A 2 CUADRAS DE LA IGLESIA DE LOS M</direccionComprador><totalSinImpuestos>4.24</totalSinImpuestos><totalDescuento>0.24</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>4.24</baseImponible><tarifa>0</tarifa><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>4.24</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>4.24</total><plazo>30</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>PS1971</codigoPrincipal><codigoAuxiliar>PS1971</codigoAuxiliar><descripcion>HUMEDA POUCH NUTRAPRO GAT</descripcion><cantidad>4</cantidad><precioUnitario>1.1200</precioUnitario><descuento>0.24</descuento><precioTotalSinImpuesto>4.24</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>4.24</baseImponible><valor>0</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="FormaPago">CRED. DIRECTO PYCCA:4.24</campoAdicional><campoAdicional nombre="telefono">0959257611</campoAdicional><campoAdicional nombre="EMAIL">BAMDREASUAREZL@GMAIL.COM</campoAdicional><campoAdicional nombre="Gran Contribuyente">GRAN CONTRIBUYENTE MEDIANTE RESOLUCIÓN NAC-GCFOIOC21-00001007-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature802503">
+<ds:SignedInfo Id="Signature-SignedInfo907345">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID132389" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature802503-SignedProperties52419">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uBQj4+5G4oFf7s1TwYMillatbA4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate199638">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ENHmdzZfxfuD0zfz3+1CudxrXCo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-368650" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>shx665jIG+UL6TpNG8Nay4Bp6ec=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue320773">
+inS0n3Zxht2Gezs0cXwzPNTVpzjHr8nz+ITn4qBUSxacuEnFQ96v88fKZy1hZu9gIX+9F/imGb3V
+Cd+/JJM3UVY297Ql9Lb+02+YoDyLasgUqT+U6EDt6FztcuDnnY1u8cXES4qK4kpODxL04Eiv6KM4
+aXl9DQzv+JJVIRRvfLsJdeR9ZB1NkYHJZCM16/yM4IGfr9zL5cVi0szjhD07rAdRys2S+hI5xxHs
+XuG2VWxzZ47iFioiAG2FSwXSDkCPqjA97xWPE1Fpda/gqp67+HjmmRcXaPYkvfUBBx8GgQiqpasD
+q7c0EQtwtZojMnMVf7oQfVfmSHeHwq7DM7i82Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate199638">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ4DCCB8igAwIBAgIEZeevszANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI2MDEyMTE1MDQwN1oXDTI4MDEyMTE1MzQw
+Nlowga4xCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzEyMBEGA1UEBRMKMDIwMDAyNDQ2NzAdBgNVBAMTFkxVSVMgRklERUwgTEFa
+TyBGTE9SRVMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiKVWtCnInNdBpxYNMWRVU
+ZgtKdCZXOkHqNcu+3e60EQZws/XH6Mio/DvmuCfDicp+lLOIWYFubc6kW5f18TnjNZFyt69dijVB
+fFMv5q4PSR+2YiWDwUBUkeKRv72GrDWrnhPfGMnYaVNNx6QPT8e9ZDx9Pg7amzYmKvDEbN6HLjtY
+5S1j3MrVZbiMlhk6B1YZuovqAr7/+J55RJysjYVvcxpfoiFJ2X6rUmRYJ6qxbShDzlU/R+e1c8g5
+ZfxgarYVTFmO2lGTSAS3BgtDNC1QTX6tHi8CyNKir6Ze23d2XKsKcWB0MoGOOevaABg3+3lI1l/W
+huRPYvPHmxBwEpstAgMBAAGjggUPMIIFCzALBgNVHQ8EBAMCBsAwZwYDVR0gBGAwXjBcBgsrBgEE
+AYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRpY2EtY2Vy
+dGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsGAQUF
+BzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDA/
+BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1
+cy9vY3NwMBoGCisGAQQBgqg7AwoEDBMKUFlDQ0EgUy5BLjAdBgorBgEEAYKoOwMLBA8TDTA5OTAw
+MDA1MzAwMDEwGgYKKwYBBAGCqDsDAQQMEwowOTA5MzI5ODY0MBoGCisGAQQBgqg7AwIEDBMKTFVJ
+UyBGSURFTDAUBgorBgEEAYKoOwMDBAYTBExBWk8wFgYKKwYBBAGCqDsDBAQIEwZGTE9SRVMwJwYK
+KwYBBAGCqDsDBQQZExdHRVJFTlRFIERFIENPTlRBQklMSURBRDAtBgorBgEEAYKoOwMHBB8THUJP
+WUFDQSAxMjA1IFkgQVYgOSBERSBPQ1RVQlJFMBkGCisGAQQBgqg7AwgECxMJMDQyNTkyMDAxMBkG
+CisGAQQBgqg7AwkECxMJR1VBWUFRVUlMMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAgBgorBgEE
+AYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wHAYDVR0RBBUwE4ERbGxhem9AcGlrYS5jb20uZWMw
+ggHhBgNVHR8EggHYMIIB1DCCAdCgggHMoIIByIaB1mxkYXA6Ly9iY2VxbGRhcHN1YnAxLmJjZS5l
+Yy9jbj1DUkwyMzIxLGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFV
+SVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVD
+SUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJl
+dm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19j
+cmxmaWxlY29tYi5jcmykgbYwgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFM
+IERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBE
+RUwgRUNVQURPUjEQMA4GA1UEAxMHQ1JMMjMyMTArBgNVHRAEJDAigA8yMDI2MDEyMTE1MDQwN1qB
+DzIwMjgwMTIxMTUzNDA2WjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4E
+FgQU+vjaHquH5NexZk6k7VrEL2skf3IwCQYDVR0TBAIwADAaBgkqhkiG9n0HQQAEDTALGwVWMTAu
+MAMCBDAwDQYJKoZIhvcNAQELBQADggIBACq3Ggr28+VpH5mbkb1FaMr+4jjX/Wtqrgtm0d/xrhOr
+LW9EPll6RRWcW/7PXfOwQNJGOpqCedzQ6eUTD/HJ+WqN5Q1Z8RUL1oecl3FnCJypcO2VNjbrqhOZ
+Lf6eo6HooEYWzeEhHGIFJQQW3yW8kR1MO4jv7vHkzgyaClyY3bMpsmN8YHrXo6ExGAgqjd6W7nsw
+i6nrfCw+/LLL//MW7p3rmBqjy6+ZLwqcMUiBnWc8WK78FIeSXSsSUcaxoftnehNd1NkQQUi7KSFY
+qbSlrx8+n8ghDEBaug3bowBenj2xZv2X2tB6HIHnd1S8P3XbuCzre1IW8cg1xZ2/CQ2qccDEfwgL
+0uEilNOs4rqjNZHbM72Pc1aYVtrt358t2/WOyBpTQ7Ec5oIfJbcPevdqLFiaEX2VcxpfW87g5QBw
++TEDw5CrqNnEpeRQ52JZ6lYGAKVRjXojrbdIbgW/uf4MGJVg0TYAR/z6kAWpheIY1lCEsZGki1tN
+yPOWHhLYy1Kccsj7l7X43mpPK3efgwXxel7IsrVm2+qb57nWpLNyS/ZPNptZiXyR3S800XcSsit2
+TNe0VVjrhwENY7omOiQyNO65Rq3ggUOp700WZDpc8L5c/L4f1odVL/miuZCoFoqRgcJAPOh4icEo
+SbAswHWcBgVHu3bZKw0mXORWPYK4qI0x
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4ilVrQpyJzXQacWDTFkVVGYLSnQmVzpB6jXLvt3utBEGcLP1x+jIqPw75rgnw4nKfpSziFmBbm3O
+pFuX9fE54zWRcrevXYo1QXxTL+auD0kftmIlg8FAVJHikb+9hqw1q54T3xjJ2GlTTcekD0/HvWQ8
+fT4O2ps2JirwxGzehy47WOUtY9zK1WW4jJYZOgdWGbqL6gK+//ieeUScrI2Fb3MaX6IhSdl+q1Jk
+WCeqsW0oQ85VP0fntXPIOWX8YGq2FUxZjtpRk0gEtwYLQzQtUE1+rR4vAsjSoq+mXtt3dlyrCnFg
+dDKBjjnr2gAYN/t5SNZf1obkT2Lzx5sQcBKbLQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature802503-Object803041"><etsi:QualifyingProperties Target="#Signature802503"><etsi:SignedProperties Id="Signature802503-SignedProperties52419"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T18:03:01-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Qjj3ZqSitBKRKbhNG4E5JPMwlP8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709682611</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-368650"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

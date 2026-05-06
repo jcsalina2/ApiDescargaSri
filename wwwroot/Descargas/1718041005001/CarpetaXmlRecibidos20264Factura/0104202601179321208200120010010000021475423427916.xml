@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601179321208200120010010000021475423427916</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T10:45:58-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>IDENTIFICACION Y ETIQUETADO S.A.S.</razonSocial><nombreComercial>IDETI</nombreComercial><ruc>1793212082001</ruc><claveAcceso>0104202601179321208200120010010000021475423427916</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000002147</secuencial><dirMatriz>DISTRITO METROPOLITANO - MADRID Y MALLORCA</dirMatriz></infoTributaria><infoFactura><fechaEmision>01/04/2026</fechaEmision><dirEstablecimiento>Quito</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>DIAZ YANEZ GABRIELA FERNANDA</razonSocialComprador><identificacionComprador>1718041005001</identificacionComprador><direccionComprador>KENNEDY - JULIAN ARBAIZA E753 Y CARLOS BUSTAMANTE</direccionComprador><totalSinImpuestos>58.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>0.00</baseImponible><tarifa>0.00</tarifa><valor>0.00</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>58.00</baseImponible><tarifa>15.00</tarifa><valor>8.70</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>66.70</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>66.70</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>PVC-MYLLARBACK-ADH</codigoPrincipal><descripcion>TAREJTA ADHESIVA MYLLAR BACK </descripcion><cantidad>100.000000</cantidad><precioUnitario>0.580000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>58.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>58.00</baseImponible><valor>8.70</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Email">megacardsolutions@hotmail.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature379712">
+<ds:SignedInfo Id="Signature-SignedInfo361084">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID1039681" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature379712-SignedProperties311411">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>CYXFGZYBV2hZxrl6EpS5+2EtFn8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1806817">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>xK0jvPkjK+nwH9pRz5sLDmWDjog=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-740983" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>+q6dDm6laxqhZzCyM6vSsgM7/Ps=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue963334">
+Hfonef+Q0CoE100dwsSW+jriYDInLetkqA2X7CvIQlTpyFtPGP9C8gzTDRLt+UuIa6Lzj47XWkV4
+bG3gmJ62tKhSG3nQ8C/L0wTvbknQiTlt+DKWYvu/NsH0eRuBcpMB4S/d8G5aWwivCBfJL8bscJR+
+/rcdCPuuEf1PvBU3xLhFtCxhw5g1mYas21Lvb2elZamoqG3Ub8/Zrd1d8I/PST0DIavBHhnODT5M
+sbnYhz5tH/wvFNOwLj+cWikPVQSR+aqWSGEgaejeVTccMrkWWVg1anb90zE9dR+CqtKrKCOra9eP
+iyUkF9uvIm7z4nvu/+uqeEjwLrHxKLjCbGrHuQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1806817">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJsjCCB5qgAwIBAgIIdGv2ClvKQBAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MTExOTIwMTIwMFoXDTI2MTExOTIwMTIwMFowgeIxCzAJBgNVBAYTAkVDMSwwKgYDVQQKDCNJ
+REVOVElGSUNBQ0nDk04gWSBFVElRVUVUQURPIFMuQS5TLjEYMBYGA1UEDAwPR0VSRU5URSBHRU5F
+UkFMMRUwEwYDVQQEDAxWSVRFUkkgUEXDkUExFjAUBgNVBCoMDUtFVklOIFZJTklDSU8xGTAXBgNV
+BAUTEElEQ0VDLTE3MjI3NTM2MDMxIzAhBgNVBAMMGktFVklOIFZJTklDSU8gVklURVJJIFBFw5FB
+MRwwGgYDVQRhDBNWQVRFQy0xNzkzMjEyMDgyMDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAwpm1CddlWgslOO0vghBzNzvp4a84l98ay77TxmhPDRo3mRDedQdUwG0vlw5Z15OGJfYL
+BRd+FkzKTRhQ7uJePuRh+pfu+IXeJiGcA2zPIxVe4GMpHj5iCzOlypVeBV0fr/rCacH/0ztlhsbU
+tLuSGYXsoSC8mjyRMZID2S4UM5qnJ2yVYUt3KSfK3iD3hOLvhHd2AQP0EnjAhY7zaCap94Uwxeai
+KZk50y8aaB7fOvvk6cJuhRjUIA9ZnGP90/F7LQ/l41t7dRWmKo6eDVDFBxWQj8cve2f+K2B6W+GK
++HcY91OHL9I36Tj+/Y/IZxmGQKP6Hlt+OHZtkb2c99dZlQIDAQABo4IEkjCCBI4wGwYLKwYBBAGC
+8TZmAwEEDAwKMTcyMjc1MzYwMzAeBgsrBgEEAYLxNmYDCwQPDA0xNzkzMjEyMDgyMDAxMIHXBggr
+BgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGlj
+L2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUyLmNydDA2BggrBgEFBQcwAYYq
+aHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipo
+dHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFLnjkfz0
+xT0yZilmR6p2SRCQgKKJMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OER
+snSSc/0wgY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0dHBz
+Oi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VS
+VElGSUNBRE8gREUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyG
+Omh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5j
+cmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJv
+cmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDCCAdMGA1UdEQSCAcowggHGgRNrLnZpdGVyaXBAZ21haWwuY29toBsGCysGAQQBgvE2ZgMBoAwM
+CjE3MjI3NTM2MDOgHgYLKwYBBAGC8TZmAwKgDwwNS0VWSU4gVklOSUNJT6AXBgsrBgEEAYLxNmYD
+A6AIDAZWSVRFUkmgFgYLKwYBBAGC8TZmAwSgBwwFUEXDkUGgIAYLKwYBBAGC8TZmAwWgEQwPR0VS
+RU5URSBHRU5FUkFMoDsGCysGAQQBgvE2ZgMHoCwMKk1BRFJJRCBZIE1BTExPUkNBIEZSRU5URSBB
+IFJBRElPIFBJQ0hJTkNIQaAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5MjU4NjY5OaAWBgsrBgEE
+AYLxNmYDCaAHDAVRVUlUT6A0BgsrBgEEAYLxNmYDCqAlDCNJREVOVElGSUNBQ0nDk04gWSBFVElR
+VUVUQURPIFMuQS5TLqAeBgsrBgEEAYLxNmYDC6APDA0xNzkzMjEyMDgyMDAxoBMGCysGAQQBgvE2
+ZgMMoAQMAkVDoCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VOVEFOVEUgTEVHQUygGAYLKwYBBAGC
+8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEABXHzTy6Tv8ZAckBPEVWgjkadLjzy
+9vMErZQcxXISK1NEtLtaoYX0sG1LCKqt9gtPSrbqyeEZrN/QLKs7mpeJPwonB18YI2P1IYY3vo2E
+DgWCUImYi8Mapsj2dCtIY21X/6Zg8qXVIeC0a/k27ovxWH9os8hycSpMaZ0/DXJUn4tt/yXLSNjG
+yv81B/CABX/L1Ix2T7ov37VC3TDZhDLaTqqanYB0CZ8aaPi5iBi9xp6S6kQ0/AsIgx/PU/MEkzyc
+vAcC4siVY9/1eIcjnJlwBn3/coL1wAO3/NCXgk7jal4q3EyuFbjaLTLa7sofHrLVft0Lajo8Hv8n
+RGGcGCLrB1Hi7BjK+u2A7xQT9DB8CBF+xRzHqRcteWhbcv1cMrhhlNqWxYk6tSt1m2bonMmsVGpF
+t4cwBkqb3Gwo2ykMLfgHzFR4T94cCxk8eWv/AYza0Iq0Yd7koJT2wDVfmZGNSoGEv8baynDUeiZv
+DFsgZwYY8D/jPH3TQOJayalW/BZYH/xVu1ExfPToGV2/zbxLllHoKAeisICXw2CH3aBbX8Do6v5I
+gV41GxQ7hMn+bpCqD5OMR839JnLGmDw2iSwBnzNY8OOCrwaDE3wDce3LfFcepXngV/84KUdwI0sN
+J5UoEqkYQJ8ysDauMmB/nuUPMDPjLW3c15Li2z/mdEAFvrw=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wpm1CddlWgslOO0vghBzNzvp4a84l98ay77TxmhPDRo3mRDedQdUwG0vlw5Z15OGJfYLBRd+FkzK
+TRhQ7uJePuRh+pfu+IXeJiGcA2zPIxVe4GMpHj5iCzOlypVeBV0fr/rCacH/0ztlhsbUtLuSGYXs
+oSC8mjyRMZID2S4UM5qnJ2yVYUt3KSfK3iD3hOLvhHd2AQP0EnjAhY7zaCap94UwxeaiKZk50y8a
+aB7fOvvk6cJuhRjUIA9ZnGP90/F7LQ/l41t7dRWmKo6eDVDFBxWQj8cve2f+K2B6W+GK+HcY91OH
+L9I36Tj+/Y/IZxmGQKP6Hlt+OHZtkb2c99dZlQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature379712-Object157933"><etsi:QualifyingProperties Target="#Signature379712"><etsi:SignedProperties Id="Signature379712-SignedProperties311411"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T08:45:56-07:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>rR2PbZ3yn6gZdKFCUdTs+wZJ9vU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>8389069255257767952</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-740983"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

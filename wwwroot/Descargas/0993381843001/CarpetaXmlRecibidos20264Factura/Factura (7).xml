@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601091653531300120011000000008462692724210</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T07:10:17-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>SALAS RIOFRIO MARIA CAROLINA</razonSocial>
+        <nombreComercial>ON COMUNICACIÓN VISUAL</nombreComercial>
+        <ruc>0916535313001</ruc>
+        <claveAcceso>1504202601091653531300120011000000008462692724210</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000846</secuencial>
+        <dirMatriz>Ciudadela: SANGALEN Numero: SOLAR 1 Manzana: D-1 </dirMatriz>
+        <contribuyenteRimpe>CONTRIBUYENTE NEGOCIO POPULAR - RÉGIMEN RIMPE</contribuyenteRimpe>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>15/04/2026</fechaEmision>
+        <dirEstablecimiento>Ciudadela: SANGALEN Numero: SOLAR 1 Manzana: D-1 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>APLIKATIQ S.A.S.</razonSocialComprador>
+        <identificacionComprador>0993381843001</identificacionComprador>
+        <totalSinImpuestos>80.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>80.00</baseImponible>
+                <valor>12.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>92.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>92.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>DECOMB</codigoPrincipal>
+            <descripcion>DISEÑO, IMPLEMENTACIÓN Y SOPORTE TIENDA EN LÍNEA</descripcion>
+            <cantidad>2.00</cantidad>
+            <precioUnitario>40</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>80.00</baseImponible>
+                    <valor>12.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">aplikatiq.sas@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-cdf3931e-8b56-49a3-95c3-66219d552e07"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-cdf3931e-8b56-49a3-95c3-66219d552e07-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ggXTqPORmi0tbQrWLk6ARxKtLW2/71QbZ8caRVLeqfs=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-cdf3931e-8b56-49a3-95c3-66219d552e07-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>9I7vuiPBBkF0bkp+KWd885SiYRDGjwppeOtVZkvwtmk=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-cdf3931e-8b56-49a3-95c3-66219d552e07-sigvalue">4V7NqWK90Nl6ZyrSdzeJs1P8fZWmdDbfqQPdMblP3vO/If6TbFM+SQSMQ0KhqhSl5EBYHhSHsESJODS2DmuUnnN4P/eClDCroF21tXlwt0/Px+dSCum9jYjKubdV/CzzMfAT4qkl1FMR4RC6EFnyri+/gBcmfcZru5OyeoOtY6SK1BjG4R99QZlNs9L2109lVUp51huiAclsptNsBa7jxRzUKgkXTQ+s/yowNbBt6ysm8FxqB0RL1658Ps1oCyDyKznrKsa7z1xGz/YBEnrcNJSDGHVL/uGdgJh6NqLVvVpRVPNrgBFY8Awr/nExRL2x6tUVP2OmvCoYquyv706s0A==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIKhDCCCGygAwIBAgIEWtU/KjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA0MjEyMDUzMTJaFw0yNjA0MjEyMDUzMTJaMIGnMSUwIwYDVQQDDBxNQVJJQSBDQVJPTElOQSBTQUxBUyBSSU9GUklPMSAwHgYDVQQFExcwOTE2NTM1MzEzLTIxMDQyNTE2MDMwNjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDpbkApVnela7Yteo6/vDcBv5dJknLaoJ1HggC6t5lFQzqCPnul3M/L527ArR4bpFhzChYHA/qOJOBQG3W008LI9K1Nh+AVlsMjdTrRe3xXWkQNAKDoVdPPswPdfl913uxvqV61exod1/9pgdGCjYiaSHjiA6nDXly6SLA67Fpp++JQrICAWaiq1Zuj4UM+6TWnFsvg9ec5DVuAn79WGNApLhkaXA4m8y5mXDMIRY3lrdAS+n310KRlaCNfvUP9XNwfpgFcBydV9szJlfQBzlVH1S835VmC9Ubi9IVTbNWQmd6yt9b/sw78OQ1OD4KNqCWYlkkWk6ZDAwm3W6oRc5InAgMBAAGjggXCMIIFvjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAhBgNVHREEGjAYgRZtY2FyaXRvc2FsYXNAZ21haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQ5PvVouzupG7H1DiMQLADNJ6R/LTArBgNVHRAEJDAigA8yMDI1MDQyMTIwNTMxMlqBDzIwMjYwNDIxMjA1MzEyWjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowOTE2NTM1MzEzMBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjAXBgorBgEEAYKmcgMHBAkMB1NPTEFSIDEwHgYKKwYBBAGCpnIDAgQQDA5NQVJJQSBDQVJPTElOQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDk4MzAxNzARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisGAQQBgqZyAwMEBwwFU0FMQVMwGgYKKwYBBAGCpnIDHgQMDApMSUNFTkNJQURBMB0GCisGAQQBgqZyAwsEDwwNMDkxNjUzNTMxMzAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdSSU9GUklPMBoGCisGAQQBgqZyAwgEDAwKMDk4NjkyNzkyMjANBgkqhkiG9w0BAQsFAAOCAgEAF5LVkDrjj3aqyKfLSynBhRYJvN3hBIAXyI7aOHi5cMfiNf1hMHg/jMUyPDSse4AbLk1Uj9DZZE7q8vXnMB4yEvjQJkSa+nshghsEH51dwCtpPJ8QZqC48DBMpBXKo7AWgL56/PrZlVBesTBf1El4sNQP5H6L8DYX8ZyZ/kx5X0G/+WV3A2IuZKDXiU0N0gGXSjpaxQXND7HlhpHkEN88r51jBh8kYqmlTbbMZpyDKYbq5eOvKbiv/QxWPdYB8+nl//tt3ydK7V2qvyjdcXx2ddVvE4SC2DsfrbKzDdB/WP9bVOULxFMaFmX4tnhNuC6ji87eJMDk56n2IogXtKuL0Os+dwnBIHoTj0Og3hNDAvQruSuMHaLI/pWktcKFKqZWRk0Yzck5wfo4Q5c9jgfQcWk8M1hYjY5E9ATQPsadGnw96wSRL2F7L3DsXYGkRYX+Q9QrFUhEpbGjIesV6ZgcFLmXdndugby3bX/QvrvRKJlORZHeNFZzbxleqWTYCNBPdNpudYTD6glRXIUddOT2D+5uH8HvTOzsvoR+1GvxDlwq2OxClNmR0CW0YSC7Xp5ZrUg93BzQj8AtnEa+Fj+8gLsnx6c9Y5x9pXVDlMms/PSOkhW8f5sUM12zGB/f6r++9/YILEnckEG+y1kItxQiqwh5ZktOAgqDW3cPuRYb3Bo=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-cdf3931e-8b56-49a3-95c3-66219d552e07"><xades:SignedProperties Id="xmldsig-cdf3931e-8b56-49a3-95c3-66219d552e07-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-15T07:10:17.157-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>LBb1K5i2y0a2cNKl4Mo4BZWc4jGnYH2Cwu4YAOMsx0A=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1523924778</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-cdf3931e-8b56-49a3-95c3-66219d552e07-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

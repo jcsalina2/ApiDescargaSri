@@ -1,0 +1,108 @@
+0:03:42 Tab1 PageLoad
+0:03:43 Tab1 StartNav235 #typed
+0:03:43 Tab1 RemoveInfobar73
+0:03:43 Tab1 AddInfobar73
+0:03:43 Tab1 FinishNav235
+0:03:43 Tab1 PageLoad
+0:03:44 Tab1 StartNav236 #typed
+0:03:44 Tab1 RemoveInfobar73
+0:03:44 Tab1 AddInfobar73
+0:03:44 Tab1 FinishNav236
+0:03:44 Tab1 PageLoad
+0:03:45 Memory Pressure: Moderate
+0:03:45 Tab1 StartNav237 #typed
+0:03:45 Tab1 RemoveInfobar73
+0:03:45 Tab1 AddInfobar73
+0:03:45 Tab1 FinishNav237
+0:03:45 Tab1 StartNav238 #typed
+0:03:45 Tab1 RemoveInfobar73
+0:03:45 Tab1 AddInfobar73
+0:03:45 Tab1 FinishNav238
+0:03:45 Tab1 PageLoad
+0:03:46 Tab1 StartNav239 #typed
+0:03:47 Tab1 RemoveInfobar73
+0:03:47 Tab1 AddInfobar73
+0:03:47 Tab1 FinishNav239
+0:03:47 Tab1 PageLoad
+0:03:47 Tab1 StartNav240 #typed
+0:03:47 Tab1 RemoveInfobar73
+0:03:47 Tab1 AddInfobar73
+0:03:47 Tab1 FinishNav240
+0:03:47 Tab1 PageLoad
+0:03:48 Tab1 StartNav241 #typed
+0:03:48 Tab1 RemoveInfobar73
+0:03:48 Tab1 AddInfobar73
+0:03:48 Tab1 FinishNav241
+0:03:49 Tab1 PageLoad
+0:03:49 Tab1 StartNav242 #typed
+0:03:49 Tab1 RemoveInfobar73
+0:03:49 Tab1 AddInfobar73
+0:03:49 Tab1 FinishNav242
+0:03:49 Tab1 PageLoad
+0:03:50 Tab1 StartNav243 #typed
+0:03:50 Tab1 RemoveInfobar73
+0:03:50 Tab1 AddInfobar73
+0:03:50 Tab1 FinishNav243
+0:03:51 Tab1 PageLoad
+0:03:51 Tab1 StartNav244 #typed
+0:03:51 Tab1 RemoveInfobar73
+0:03:51 Tab1 AddInfobar73
+0:03:51 Tab1 FinishNav244
+0:03:51 Tab1 PageLoad
+0:03:52 Tab1 StartNav245 #typed
+0:03:52 Tab1 RemoveInfobar73
+0:03:52 Tab1 AddInfobar73
+0:03:52 Tab1 FinishNav245
+0:03:52 Tab1 PageLoad
+0:03:52 Tab1 StartNav246 #typed
+0:03:53 Tab1 RemoveInfobar73
+0:03:53 Tab1 AddInfobar73
+0:03:53 Tab1 FinishNav246
+0:03:53 Tab1 PageLoad
+0:03:54 Tab1 StartNav247 #typed
+0:03:54 Tab1 RemoveInfobar73
+0:03:54 Tab1 AddInfobar73
+0:03:54 Tab1 FinishNav247
+0:03:55 Tab1 PageLoad
+0:03:55 Tab1 StartNav248 #typed
+0:03:55 Memory Pressure: Moderate
+0:03:55 Tab1 RemoveInfobar73
+0:03:55 Tab1 AddInfobar73
+0:03:55 Tab1 FinishNav248
+0:03:55 Tab1 PageLoad
+0:03:56 Tab1 StartNav249 #typed
+0:03:57 Tab1 RemoveInfobar73
+0:03:57 Tab1 AddInfobar73
+0:03:57 Tab1 FinishNav249
+0:03:57 Tab1 PageLoad
+0:03:57 Tab1 StartNav250 #typed
+0:03:57 Tab1 RemoveInfobar73
+0:03:57 Tab1 AddInfobar73
+0:03:57 Tab1 FinishNav250
+0:03:57 Tab1 PageLoad
+0:03:59 Tab1 StartNav251 #typed
+0:03:59 Tab1 RemoveInfobar73
+0:03:59 Tab1 AddInfobar73
+0:03:59 Tab1 FinishNav251
+0:03:59 Tab1 PageLoad
+0:03:59 Tab1 StartNav252 #typed
+0:03:59 Tab1 RemoveInfobar73
+0:03:59 Tab1 AddInfobar73
+0:03:59 Tab1 FinishNav252
+0:03:59 Tab1 PageLoad
+0:04:01 Tab1 StartNav253 #typed
+0:04:01 Tab1 RemoveInfobar73
+0:04:01 Tab1 AddInfobar73
+0:04:01 Tab1 FinishNav253
+0:04:01 Tab1 PageLoad
+0:04:01 Tab1 StartNav254 #typed
+0:04:01 Tab1 RemoveInfobar73
+0:04:01 Tab1 AddInfobar73
+0:04:01 Tab1 FinishNav254
+0:04:01 Tab1 PageLoad
+0:04:02 Tab1 RemoveInfobar73
+0:04:02 Tab1 RenderProcessGone
+0:04:02 Browser1 Close Tab1 at 0
+0:04:02 Widget Closed: BrowserWidget
+0:04:02 Widget Closed: BrowserWidget
+0:04:02 Shutdown

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2304202601093301282500120011000000001762897045519</numeroAutorizacion>
+<fechaAutorizacion>2026-04-23T15:15:19-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>PEREIRA BONILLA MICHELLE ALEJANDRA</razonSocial>
+        <ruc>0933012825001</ruc>
+        <claveAcceso>2304202601093301282500120011000000001762897045519</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000176</secuencial>
+        <dirMatriz>Barrio: URB VILLA CLUB Numero: SL 21 Manzana: Z 24 </dirMatriz>
+        <contribuyenteRimpe>CONTRIBUYENTE NEGOCIO POPULAR - RÉGIMEN RIMPE</contribuyenteRimpe>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>23/04/2026</fechaEmision>
+        <dirEstablecimiento>Barrio: URB VILLA CLUB Numero: SL 21 Manzana: Z 24 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>SALINAS ELIZALDE JUAN CARLOS</razonSocialComprador>
+        <identificacionComprador>0929761104</identificacionComprador>
+        <totalSinImpuestos>60.00</totalSinImpuestos>
+        <totalDescuento>10.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>60.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>60.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>60.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>DIETS2</codigoPrincipal>
+            <codigoAuxiliar>INFANTIL</codigoAuxiliar>
+            <descripcion>DANZA INTEGRAL ENTRE SEMANA - GRUPO INFANTIL</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>35</precioUnitario>
+            <descuento>5.00</descuento>
+            <precioTotalSinImpuesto>30.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>30.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>DIETS4</codigoPrincipal>
+            <codigoAuxiliar>JUVENIL</codigoAuxiliar>
+            <descripcion>DANZA INTEGRAL ENTRE SEMANA - GRUPO JUVENIL</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>35</precioUnitario>
+            <descuento>5.00</descuento>
+            <precioTotalSinImpuesto>30.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>30.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">042732247</campoAdicional>
+        <campoAdicional nombre="Email">juansalinas_e@hotmail.com</campoAdicional>
+        <campoAdicional nombre="MENSUALIDAD">ABRIL</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-4d1709b5-f808-4eac-8a8f-6b98fa37f30b"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-4d1709b5-f808-4eac-8a8f-6b98fa37f30b-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>wJUmsqZSgy/WWEl/NW7znKDCUI1ub2RbHtAWWDWxR3U=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-4d1709b5-f808-4eac-8a8f-6b98fa37f30b-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>dq4PxcwF3EXuA7TYkYVnNjR2KhvzvcDwa1vbCyBYOVU=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-4d1709b5-f808-4eac-8a8f-6b98fa37f30b-sigvalue">XLVjLFv4YoBOq2vP72QuvOE86rzDBmwb1pfCfupAN3oWK+isjrRTINfyEP/6Bz/RCzil8TVS0/F0rvlmS+4y8V4jy11j2Kg2kRhA7MvfoaHpaMw6zx43LN2CHMinZNEEWYNL/5mLXmUMHhxOBb90GchpH76akXKZ9kxwl7XChLCxNbgGPaX80hDJEEXfjCkHwRlaFFlcGzfPDiTV2zWO0jyZfBKmDyXIV2CBNwlbjJyfNk5sVbj3Ja2DfyOLPSA7Oxh2kbZ2f2orD9UHaS/tx3OHK2vxVdZweJRTOh3nI0bbX2ibN0HhBwxrVIfNTh1DK9fN5Rd2sOGkyaXXSmHz+Q==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-4d1709b5-f808-4eac-8a8f-6b98fa37f30b"><xades:SignedProperties Id="xmldsig-4d1709b5-f808-4eac-8a8f-6b98fa37f30b-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-23T15:15:14.950-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>Zbyd7dufmegL3cjoPWQio99FoEJexRQe88xuKxjSEL0=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254830994</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-4d1709b5-f808-4eac-8a8f-6b98fa37f30b-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

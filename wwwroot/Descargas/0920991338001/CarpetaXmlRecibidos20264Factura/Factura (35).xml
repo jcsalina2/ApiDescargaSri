@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601096859139000120011020000205641234567819</numeroAutorizacion>
+<fechaAutorizacion>2026-04-10T09:49:38-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>EMPRESA PUBLICA CUERPO DE BOMBEROS DE MILAGRO EPCBM EN LIQUIDACION</razonSocial><nombreComercial>CUERPO DE BOMBEROS DE MILAGRO</nombreComercial><ruc>0968591390001</ruc><claveAcceso>0804202601096859139000120011020000205641234567819</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>102</ptoEmi><secuencial>000020564</secuencial><dirMatriz>Simon Bolivar y Chimborazo</dirMatriz></infoTributaria><infoFactura><fechaEmision>08/04/2026</fechaEmision><dirEstablecimiento>Simon Bolivar y Chimborazo</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ABRIL TRIANA EDWIN RAUL</razonSocialComprador><identificacionComprador>0920991338001</identificacionComprador><direccionComprador>LIZARDO GARCIA SN Y ESTERO BERLIN ESQ. CDLA. QUIRINO MOREIRA</direccionComprador><totalSinImpuestos>80.66</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>80.66</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>80.66</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>80.66</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>GOBERP00002</codigoPrincipal><descripcion>PERMISO DE FUNCIONAMIENTO</descripcion><cantidad>1.000000</cantidad><precioUnitario>76.760000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>76.76</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>76.76</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>GOBERP00004</codigoPrincipal><descripcion>TASA ADMINISTRATIVA</descripcion><cantidad>1.000000</cantidad><precioUnitario>1.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>1.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>GOBERP00005</codigoPrincipal><descripcion>INSPECCION</descripcion><cantidad>1.000000</cantidad><precioUnitario>2.900000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.90</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.90</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Email">info@gmail.com</campoAdicional><campoAdicional nombre="Agente">AGENTE RETENCION SEGUN RESOLUCION Nro. NAC-DNCRASC20-00000001</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature98832">
+<ds:SignedInfo Id="Signature-SignedInfo143982">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID810079" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature98832-SignedProperties1048089">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+1pDnqWc10HVD6dHHYrwXaFuQ08=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1311550">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>sY0LjBafrhihUdB+JCOr6a7diWg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-493347" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dxnbnAVHzz9SzrTR83v+3imdv1s=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue417952">
+diS0cU8V6I9mTI1YZEpO/5WiGvW1dcvpwDXlsCWSEetM0RGIXhsaXgZM2IPzBZ8gOeKilmRexKD+
+5dzXFcqL/K/wUWHm8b/qUMJi4eOkbapJivvJCuXn+SrqrG681bgFrnBqwX8ygys0O0Ubae3ORLn4
+hFJb3bubdyiDnKldm9m1b7gBKrSntI9bam6E5wr46QBMh716b3yO1AV/yaC2r+XW9gnwh5vXlK5p
+Yk5gvYdgzN19CNoMS1+T9Cu6eHbVCcB5mN9RUU9zgEk3QKWOEw7dqGyO/kGegz+21lGG5ryjmCS0
+dcD6r9A0JOK+kurbDSGppqcfusmDS04En8WN+Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1311550">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILEDCCCPigAwIBAgIIUqFAFtewCtIwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwNDA5MTQxMjUzWhcNMjcwNDA5MTQxMjUzWjCB
+qTEnMCUGA1UEAwweR0VSTUFOSUEgQVFVRURBIEJBTkNIT04gVklMTEFPMSAwHgYDVQQFExcxMjA0
+NjEyMjUxLTA5MDQyNjA5MjI0MjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCDxZpCbxJ8To0oCueh1ILu8+53ViYst+WW
+w0vabYfqZxJ6La9lVHv0buq+2EUPnj0nv7FGfc8+4GXPexN/BY5k2yaTxAfQm6agjjZ1DJA9UIlF
+lQgFbE8mrKd2dPqryFjGSvMdN4zy1iECaaxDuFdr5tHLHisCdUb4sKb1opaXXhwrAuaydXpyfvvx
+mkDwmIj0wMf8FXy7aUiW7SUr5CajwaDotRTvrb0I7r8HLMUqR4JI/Q3gJI5lJxVkCPHV9Lqr+Mm0
+K5pKegrP7+OS2hH3Dvk+ZcUsnFQSzB7ZMpBjsEnH8F7BRea53t8bz0pQc17UHy/OPnJybysAdPjv
+8m1XAgMBAAGjggZIMIIGRDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/
+ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAhBgNVHREEGjAYgRZnZXJi
+YW5jaG9uQGhvdG1haWwuY29tMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsG
+AQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAA
+ZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRw
+czovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2
+YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUg
+RW1wcmVzYS5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCC
+AgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3Js
+ZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+PKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxl
+LmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFE
+IERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixD
+PUVDMB0GA1UdDgQWBBQiaT5B5Ugy87c6m0pacbrwRBDxPDArBgNVHRAEJDAigA8yMDI2MDQwOTE0
+MTI1M1qBDzIwMjcwNDA5MTQxMjUzWjALBgNVHQ8EBAMCBeAwGQYKKwYBBAGCpnIDBQQLDAlDT05U
+QURPUkEwGgYKKwYBBAGCpnIDAQQMDAoxMjA0NjEyMjUxMCkGCisGAQQBgqZyAwkEGwwZTUlMQUdS
+TyBDQUJFQ0VSQSBDQU5UT05BTDARBgorBgEEAYKmcgMiBAMMAS4wKAYKKwYBBAGCpnIDBwQaDBhC
+T0xJVkFSIFMgTiBZIENISU1CT1JBWk8wHwYKKwYBBAGCpnIDAgQRDA9HRVJNQU5JQSBBUVVFREEw
+HwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDExMzQyMTYwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYK
+KwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHQkFOQ0hPTjARBgorBgEEAYKm
+cgMeBAMMAS4wUwYKKwYBBAGCpnIDCgRFDENFTVBSRVNBIFBVQkxJQ0EgQ1VFUlBPIERFIEJPTUJF
+Uk9TIERFIE1JTEFHUk8gRVAgQ0JNIEVOIExJUVVJREFDSU9OMB0GCisGAQQBgqZyAwsEDwwNMDk2
+ODU5MTM5MDAwMTARBgorBgEEAYKmcgMdBAMMAS4wFgYKKwYBBAGCpnIDBAQIDAZWSUxMQU8wGgYK
+KwYBBAGCpnIDCAQMDAowOTg5ODM0ODA3MA0GCSqGSIb3DQEBCwUAA4ICAQBr4z4fl5ukCssxeRf9
+XcptZnImAoqLtRQNNWMia1IN1qxmL8OxHNqWlpDThIjozoyxnmiVWbYNocWpDDaeCJiySv5Afdvm
+dYSxa/hJOnCuBhEYl8HPBCciiR0E+/q470IvlMPOF2Mm383mK+Rk5ULQkQvrTx80lsEDMcuO3n0U
+71a8N+Jo/nu+Ed0QwbLh8GWe4ydL97xzLvbrXGkILp3RyF0/LEw2empzG6ZKCsSSrUDMulG0B8J1
+4ngUfjQdRe88pBs4zFF3Me8317HEJFo8dzpL7WXJgL6VOhaJoRJCqWiwiVWmDXCLxM5aBztOB+0B
+L4e05M2kz2TyeC8fiTdYUiBJVL4IYJ0R8jxbccy1ZIHaLdL0RWChygmAX3GXk70nNPOZeOxuUlyR
+175xN/Onl3pJprm99i4BeGeUnS6gx57/p0c8X7b9B6EM5kRpj2sex+c22q9maPexQUJDWAZj4RqM
+dHbsDwLPw3j8w14hJ4uNae51K07mi6g/vzmA98yFVtbyZuJQ0LtwrqJdaqGe11BIxBjl0KBjowQE
+9viq6UHR5+qXOnA42khMh4TrZ8kSJXfMtkvwFaA5o4IRQ9+FRNeWpY3dblKltbJaEB2wEMqBF7k5
+up4Ssny8yLi7pAXHdPq4uUqZlAw96SP1dq5/NC8J/G4xEOXYBfuk+Gpkrg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+g8WaQm8SfE6NKArnodSC7vPud1YmLLfllsNL2m2H6mcSei2vZVR79G7qvthFD549J7+xRn3PPuBl
+z3sTfwWOZNsmk8QH0JumoI42dQyQPVCJRZUIBWxPJqyndnT6q8hYxkrzHTeM8tYhAmmsQ7hXa+bR
+yx4rAnVG+LCm9aKWl14cKwLmsnV6cn778ZpA8JiI9MDH/BV8u2lIlu0lK+Qmo8Gg6LUU7629CO6/
+ByzFKkeCSP0N4CSOZScVZAjx1fS6q/jJtCuaSnoKz+/jktoR9w75PmXFLJxUEswe2TKQY7BJx/Be
+wUXmud7fG89KUHNe1B8vzj5ycm8rAHT47/JtVw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature98832-Object934517"><etsi:QualifyingProperties Target="#Signature98832"><etsi:SignedProperties Id="Signature98832-SignedProperties1048089"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-10T14:49:37+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>9AWm+KsQdYOjEsTIuSywj/ruhMs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>5954110649212603090</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignerRole><etsi:ClaimedRoles><etsi:ClaimedRole>Rol de firma</etsi:ClaimedRole></etsi:ClaimedRoles></etsi:SignerRole></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-493347"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

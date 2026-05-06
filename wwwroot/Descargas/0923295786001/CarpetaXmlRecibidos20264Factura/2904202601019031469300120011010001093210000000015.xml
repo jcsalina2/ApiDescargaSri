@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601019031469300120011010001093210000000015</numeroAutorizacion>
+<fechaAutorizacion>2026-04-29T11:47:26-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ASOCIACION ECUATORIANA ALEMANA DE CULTURA Y EDUCACION DE CUENCA</razonSocial>
+        <nombreComercial>AEACEC COLEGIO ALEMAN DE CUENCA</nombreComercial>
+        <ruc>0190314693001</ruc>
+        <claveAcceso>2904202601019031469300120011010001093210000000015</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>101</ptoEmi>
+        <secuencial>000109321</secuencial>
+        <dirMatriz>SIN NOMBRE S/N / VALLE - CUENCA</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>29/04/2026</fechaEmision>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>JARA ITURRALDE MIGUEL ANGEL</razonSocialComprador>
+        <identificacionComprador>0923295786001</identificacionComprador>
+        <totalSinImpuestos>610.13</totalSinImpuestos>
+        <totalDescuento>109.06</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>0</baseImponible>
+                <valor>0</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>610.13</baseImponible>
+                <valor>0</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>610.13</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>19</formaPago>
+                <total>610.13</total>
+                <plazo>30</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>3</codigoPrincipal>
+            <codigoAuxiliar>ABR-2026</codigoAuxiliar>
+            <descripcion>PENSIÓN BÁSICA (1ERA - 9NA KLASSE)</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>671.74</precioUnitario>
+            <descuento>109.06</descuento>
+            <precioTotalSinImpuesto>562.68</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cod Alumno : 3384" valor="10"></detAdicional>
+                <detAdicional nombre="ANCHUNDIA SANCHEZ ARIANA MAILY" valor="20"></detAdicional>
+                <detAdicional nombre="4ª KLASSE A" valor="30"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>562.68</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>11</codigoPrincipal>
+            <codigoAuxiliar>ABR-2026</codigoAuxiliar>
+            <descripcion>TRANSPORTE CUENCA Z1</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>47.45</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>47.45</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cod Alumno : 3384" valor="10"></detAdicional>
+                <detAdicional nombre="ANCHUNDIA SANCHEZ ARIANA MAILY" valor="20"></detAdicional>
+                <detAdicional nombre="4ª KLASSE A" valor="30"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>47.45</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Direccion:">GOLONDRINAS 190 Y GORRIONES</campoAdicional>
+        <campoAdicional nombre="Telefono:">0990925962</campoAdicional>
+        <campoAdicional nombre="Email:">arteyarmonia.escuela@gmail.com</campoAdicional>
+        <campoAdicional nombre="Concepto:">FACTURACION ABRIL 2026</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature473673">
+<ds:SignedInfo Id="Signature-SignedInfo353428">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID879826" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature473673-SignedProperties729067">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>SJkCva4AXuW+5jJgkSrSZn38ZYQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate152333">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>n6ESVqJ482C0baXlq3pbERfgNtY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-632215" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>dtLp/aVqXR7V7b8l3orySbZIB2g=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue709026">
+KDrlE6Mmw02egG2Eevamdm6DJ2sRmleK/MjjI70uSgY0JF72lh1VAS756v2lmCL+K9oycvWxGaB1
+1APbXOqhX9ibTYwVFkOE+M3S+urpgEbGkl9h9+btAbElFT/vDX103THec+2juDXw2xhXVfcLnm/z
+VxDtMcVBcGxdVLSP5E0ibIkfqaSSSo+WCXgB/6cDC34gz0r9ri30np/V4huaGdgjfoTzggJ01vDW
+nGhX/CXpJXUlGplGq4FTKjB4OgmWlgfkO5cer70rk5CrgSr22wHpKksL5eXjdz3W+ESarMMIpA30
+0t+xo02mVKGX5WZZ/h6/pijIXGKkOnVTqbra7g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate152333">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKCTCCB/GgAwIBAgIEZedrmjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI1MTEyNDEzMjczMVoXDTI3MTEyNDEzNTcz
+MFowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDY5NjI3ODAkBgNVBAMTHUNSSVNUSU5BIElTQUJF
+TCBSRUlOTyBDSEVSUkVaMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxzJsDvHIF6i/
+YJJTIHZmu4WGOwYSXRegQSTERKekDVWBN+tavTXwB/O4g6PzTz1oIT2MQGqDEWro9dHleVI4F/bB
+Kral0AOxYH89qZInveCKPb1qqWPocXlleTsv0cVJ/peSrHqcloUXMC8DEW0ZM2kQDB5fqq7zdKZB
+QtX5pU/irkSO4umEa4L9Vl9INbNS9HxkkyO+N+lM6D/ksJpRUUt1W7hJyCbs8iKTF8IjYNH2a81p
+as9eR9fEuKUBCydHzCTCqvlHbyb7+w7bk7WW+HanRD92l0TeVJt6kAmcVtSQnz1j50SKHpmF8wih
+lK6I94l9db91srSCiwe3UM30DQIDAQABo4IFMTCCBS0wCwYDVR0PBAQDAgbAMGcGA1UdIARgMF4w
+XAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+
+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcDBPBgorBgEEAYKoOwMKBEETP0FTT0NJQUNJT04gRUNVQVRPUklBTkEgQUxF
+TUFOQSBERSBDVUxUVVJBIFkgRURVQ0FDSU9OIERFIENVRU5DQTAdBgorBgEEAYKoOwMLBA8TDTAx
+OTAzMTQ2OTMwMDEwGgYKKwYBBAGCqDsDAQQMEwowMTA1ODEyNDczMB8GCisGAQQBgqg7AwIEERMP
+Q1JJU1RJTkEgSVNBQkVMMBUGCisGAQQBgqg7AwMEBxMFUkVJTk8wFwYKKwYBBAGCqDsDBAQJEwdD
+SEVSUkVaMBkGCisGAQQBgqg7AwUECxMJQ09OVEFET1JBMB0GCisGAQQBgqg7AwcEDxMNTUFOVUVM
+IENPUlJBTDAZBgorBgEEAYKoOwMIBAsTCTA3MjgzNDc0NTAWBgorBgEEAYKoOwMJBAgTBkNVRU5D
+QTAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNI
+SVZPMCMGA1UdEQQcMBqBGGNvbnRhYmlsaWRhZEBjYXNjLmVkdS5lYzCCAeEGA1UdHwSCAdgwggHU
+MIIB0KCCAcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDIzMDEsY249
+QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUy
+MERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBD
+RU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFz
+ZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSB
+tjCBszELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1
+BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAM
+BgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYD
+VQQDEwdDUkwyMzAxMCsGA1UdEAQkMCKADzIwMjUxMTI0MTMyNzMxWoEPMjAyNzExMjQxMzU3MzBa
+MB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1UdDgQWBBQ+6YVUM31lfL4Ay7ik
+qjsLMbSU7TAJBgNVHRMEAjAAMBoGCSqGSIb2fQdBAAQNMAsbBVYxMC4wAwIEMDANBgkqhkiG9w0B
+AQsFAAOCAgEAK7X7dOSzE5QNh4CtAciihwyH23EcIFUKrm3w1rHGkMaZW1JSyN2qhUwURat5Ffpb
++h/zojOmUijK5ER7WRLeuWs4xkDLxOQzMdAEekcvQloIm+72ZJZhtQfcfAs/Ql+vTtfSLCK3eQFk
+oRWIX3vVdmpTzPadt7dFlAaShZor9n+UVoSdSktV+fnPIQa0EzYkdHcCDZNUe52ELkaiYzlNrFbJ
+sHyElDKsyqkC5UzbXX7r7nTCHzLJnBmIvNR9TCE8R8m52Qr4rq+GcRPuik2F4lmB16WAT8A7eFqP
+egF8xoyGOfZ/Z54cH6Yfa6dgZmCHGK2v+XSPkX6CBnUvMVOL394EMQz2WZyX6LzDaElYR+GdNbkE
+DIEkSgLgniYBMEgCutxg11FFORlBLrQ+UgXYSw+Aar2x1ynv8iPoL7mgsKjCRLHTGK/QPSs8d2AJ
+xirb6jjg9y/Lv7A6CBgTBxe1OWJ8zdaeCtFz4mMbKEOP3iWDAWD0AODl8bVe7l0YX70BCdlNjNaV
+6UAkmmP0iLgEYLyqUKZcYOvrQqB7mXkjV7MbTrqKxiyS2NZ0/3VuRTkmQuTRVbQUVTaMTVD//SOF
+cyeCpuVLjbEsmb694hAXFtN7Dogmqy7RH/srU1vjpoJ7dj2LwOHct0Z8lUQfK8aOvb7TKO4myOD5
+vuPsJnZbl7U=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xzJsDvHIF6i/YJJTIHZmu4WGOwYSXRegQSTERKekDVWBN+tavTXwB/O4g6PzTz1oIT2MQGqDEWro
+9dHleVI4F/bBKral0AOxYH89qZInveCKPb1qqWPocXlleTsv0cVJ/peSrHqcloUXMC8DEW0ZM2kQ
+DB5fqq7zdKZBQtX5pU/irkSO4umEa4L9Vl9INbNS9HxkkyO+N+lM6D/ksJpRUUt1W7hJyCbs8iKT
+F8IjYNH2a81pas9eR9fEuKUBCydHzCTCqvlHbyb7+w7bk7WW+HanRD92l0TeVJt6kAmcVtSQnz1j
+50SKHpmF8wihlK6I94l9db91srSCiwe3UM30DQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature473673-Object1016908"><etsi:QualifyingProperties Target="#Signature473673"><etsi:SignedProperties Id="Signature473673-SignedProperties729067"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-29T11:44:18-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>DrgmiDTi/iY9sqDiZVhp36uKdlA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709665178</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-632215"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

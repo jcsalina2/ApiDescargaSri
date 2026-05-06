@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601179208693000120030120000038190000000118</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T18:20:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="2.1.0">
+    <infoTributaria>
+            <ambiente>2</ambiente>
+            <tipoEmision>1</tipoEmision>
+            <razonSocial>FERRETERIAS FERRIGONZ S.A.</razonSocial>
+            <nombreComercial>FERRIGONZ S.A</nombreComercial>
+            <ruc>1792086930001</ruc>
+            <claveAcceso>0104202601179208693000120030120000038190000000118</claveAcceso>
+            <codDoc>01</codDoc>
+            <estab>003</estab>
+            <ptoEmi>012</ptoEmi>
+            <secuencial>000003819</secuencial>
+            <dirMatriz>PICHINCHA / PEDRO MONCAYO / TABACUNDO / VELASCO IBARRA 040703 Y VICENTE ESTRELLA</dirMatriz>
+            <agenteRetencion>001</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>01/04/2026</fechaEmision>
+        <dirEstablecimiento>PICHINCHA / CAYAMBE / CAYAMBE / AV. GONZALO LEON Y LIBERTAD</dirEstablecimiento>
+        
+        <contribuyenteEspecial>829</contribuyenteEspecial>
+        
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>GUALAVISI GUAJAN SEGUNDO DAVID</razonSocialComprador>
+        <identificacionComprador>1716539133</identificacionComprador>
+        <direccionComprador>PICHINCHA / CAYAMBE / CAYAMBE</direccionComprador>
+        <totalSinImpuestos>242.76</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <descuentoAdicional>0.00</descuentoAdicional>
+                <baseImponible>42.79</baseImponible>
+                <valor>6.42</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>5</codigoPorcentaje>
+                <descuentoAdicional>0.00</descuentoAdicional>
+                <baseImponible>199.97</baseImponible>
+                <valor>10.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>259.18</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>259.18</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>CODR345</codigoPrincipal>
+            <descripcion>CODO RIVAL 3"*45 DESAGUE </descripcion>
+            <cantidad>2.000000</cantidad>
+            <precioUnitario>1.826087</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>3.65</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="presentacion_mascara" valor="2.000000"/>
+                <detAdicional nombre="presentacion_precio_unitario" valor="1.826087"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>3.65</baseImponible>
+                    <valor>0.55</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>TUBR3</codigoPrincipal>
+            <descripcion>TUBO RIVAL 3" DESAGUE </descripcion>
+            <cantidad>4.000000</cantidad>
+            <precioUnitario>5.869565</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>23.48</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="presentacion_mascara" valor="4.000000"/>
+                <detAdicional nombre="presentacion_precio_unitario" valor="5.869565"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>23.48</baseImponible>
+                    <valor>3.52</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>CODR290</codigoPrincipal>
+            <descripcion>CODO RIVAL 2" DESAGUE </descripcion>
+            <cantidad>4.000000</cantidad>
+            <precioUnitario>0.782609</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>3.13</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="presentacion_mascara" valor="4.000000"/>
+                <detAdicional nombre="presentacion_precio_unitario" valor="0.782609"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>3.13</baseImponible>
+                    <valor>0.47</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>TUBR2R</codigoPrincipal>
+            <descripcion>TUBO RIVAL 2 DESAGUE </descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>3.086957</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>3.09</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="presentacion_mascara" valor="1.000000"/>
+                <detAdicional nombre="presentacion_precio_unitario" valor="3.086957"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>3.09</baseImponible>
+                    <valor>0.46</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>REJ2</codigoPrincipal>
+            <descripcion>REJILLA 2" ALUM </descripcion>
+            <cantidad>3.000000</cantidad>
+            <precioUnitario>0.695652</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.09</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="presentacion_mascara" valor="3.000000"/>
+                <detAdicional nombre="presentacion_precio_unitario" valor="0.695652"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>2.09</baseImponible>
+                    <valor>0.31</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>VAR12</codigoPrincipal>
+            <codigoAuxiliar>F010101</codigoAuxiliar>
+            <descripcion>VARILLA 12MM*12M NOVACERO (10.656KG) </descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>47.590000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>47.59</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="presentacion_mascara" valor="1.000000"/>
+                <detAdicional nombre="presentacion_precio_unitario" valor="190.360000"/>
+                <detAdicional nombre="unidad_medida" valor="QQ 4VAR"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>5</codigoPorcentaje>
+                    <tarifa>5</tarifa>
+                    <baseImponible>47.59</baseImponible>
+                    <valor>2.38</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>QQCEMGS</codigoPrincipal>
+            <codigoAuxiliar>F010401</codigoAuxiliar>
+            <descripcion>CEMENTO GRIS LAFARGE 50KG QQ </descripcion>
+            <cantidad>20.000000</cantidad>
+            <precioUnitario>7.619000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>152.38</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="presentacion_mascara" valor="20.000000"/>
+                <detAdicional nombre="presentacion_precio_unitario" valor="7.619000"/>
+                <detAdicional nombre="unidad_medida" valor="UND"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>5</codigoPorcentaje>
+                    <tarifa>5</tarifa>
+                    <baseImponible>152.38</baseImponible>
+                    <valor>7.62</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PIN300T</codigoPrincipal>
+            <descripcion>PINZA TIERRA 300A TRUPER PTI-300 </descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>7.347826</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>7.35</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="presentacion_mascara" valor="1.000000"/>
+                <detAdicional nombre="presentacion_precio_unitario" valor="7.347826"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>7.35</baseImponible>
+                    <valor>1.10</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="direccion">PICHINCHA / CAYAMBE / CAYAMBE</campoAdicional>
+        <campoAdicional nombre="vendedor">panama_jessica</campoAdicional>
+        <campoAdicional nombre="fecha_vencimiento">2026-04-01</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature136446">
+<ds:SignedInfo Id="Signature-SignedInfo8412">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID951140" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature136446-SignedProperties142187">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>llUQt95/IBLoWa+yEv7q6mu45oQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1337137">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>hHVnYmh1uKkmaSZtu2HzjKDjoYk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-431839" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>K52qu1HWn4tBOW1gAwzee6ZvkuQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue56877">
+TVSg2UfeOGt0GKPtrslZV0MOKAPrc/MyeUbDHAjzXFYo0qWqFi+E/XforzgGaL0Z2P25J7i3AUaR
+jNESsfZMxOdt7NXm3IiU+1dHhsRt/aNlnD5G232pX0sXS9M1OwqDrcyJW+x4NPiMi6g4AyoTgbQg
+Ja6Sot8JWeQoL9X7jbzBKR7B6QHObXZz8BV3aOVp2j9h5NRISnJ5GVylEb8M7RqhhsejUP8yv0b/
+FAkjkF4l2EigKVK/p73TBXCRFsl5y3a19zAVJgzOmz+o5Rv/SJVHS+4nBwzXaVXWkeyZyq8f42sL
+ikOHGpdddfUiEuFFxdBBbGLk09m1rVTq8WlEXA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1337137">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMMzCCChugAwIBAgIEE8KQ2TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA4MTkxNjUzMDFaFw0yNjA4MTkxNjUzMDFaMIGnMSUw
+IwYDVQQDDBxKQUlNRSBBVUdVU1RPIEdPTlpBTEVaIFJFWUVTMSAwHgYDVQQFExcxNzA4MjUyMzU2
+LTE5MDgyNDEyMDI0NjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC2M8576LaT6ddrkXC4FIVcaAKu7tcmwGYqbW8rUunB
+GkxJx6zlc8DzyNlC3TiIeQC+LvUhIzp96ZWoW96t9/lBi+edwa+AYHEVsYmUuWLshGF+AGhCBU4m
+g7Nzt3zTD6NV6hT/8WA/ipM5RrPvIRK584wi0u2X/qq06L1FUqoGJd6elWG5GlicUy+p1AhCdVCc
+qryK+U9FlC7BvueGspItwy1zl2h+7tjg7V0N1+dUL9Y1VnEqzOhNVirFyaULrT2b3IQLEv3nhOP4
+aR5PeeOTKCbnCu5PvzruwtNR/blUR++7Xf3mkqEOoROU3IuXTfiTXWK/jtI5OYuZjny1IM5pAgMB
+AAGjggdxMIIHbTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7
+hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2
+b2NhdGlvbkxpc3Q/YmFzZTAoBgNVHREEITAfgR1jb250YWJpbGlkYWRAZmVycmlnb256LmNvbS5l
+YzCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIA
+dABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBn
+AGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0
+eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZp
+Y2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIIC
+ogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBT
+LkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRh
+dGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkg
+REFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklU
+WSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB
+2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQW
+BBQub2c+BD+jK6vArQLmZZ0hfn4guDArBgNVHRAEJDAigA8yMDI0MDgxOTE2NTMwMVqBDzIwMjYw
+ODE5MTY1MzAxWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUww
+GgYKKwYBBAGCpnIDAQQMDAoxNzA4MjUyMzU2MCsGCisGAQQBgqZyAwkEHQwbVEFCQUNVTkRPIENB
+QkVDRVJBIENBTlRPTkFMMBEGCisGAQQBgqZyAyIEAwwBLjA4BgorBgEEAYKmcgMHBCoMKFZFTEFT
+Q08gSUJBUlJBIDA0MDcwMyBZIFZJQ0VOVEUgRVNUUkVMTEEwHQYKKwYBBAGCpnIDAgQPDA1KQUlN
+RSBBVUdVU1RPMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwODUzOTQ4MBMGCisGAQQBgqZyAyEE
+BQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAYBgorBgEEAYKmcgMDBAoMCEdPTlpBTEVa
+MCkGCisGAQQBgqZyAwoEGwwZRkVSUkVURVJJQVMgRkVSUklHT05aIFMgQTAdBgorBgEEAYKmcgML
+BA8MDTE3OTIwODY5MzAwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBUGCisGAQQBgqZyAwQEBwwFUkVZ
+RVMwGgYKKwYBBAGCpnIDCAQMDAowOTg3NDE2Mzg4MA0GCSqGSIb3DQEBCwUAA4ICAQBnLgCAr+XD
+UTdRlwWIcGmsYSYY+97JxXBNO/G4TC1ROj2lqL6TVn8mLQ6D9q5YiMY87H8FEajFg6FQZTJB+4GX
+3iOeHNOLmK5XFwpCh2v3EiImBoZyEpesLo1w69VM7RftDmxtcM580JxczCivON9LzgVSt5AhDDH3
+fWmMQEUyySsQQaejI6ZS2smlg5IGNOI63f/UyM84iEKEuB+pwLLcvZtt41sq6WhtkDKi0a6Qrh/E
+/JWrwT6xr5XPB0Y2m8PPT6LmKtWTWaYYuI/d9xb3tkasfp8e6XMfUxa4FZOCZbM9bH4dhtDEvJpE
+Yl0CeNCMOZKHueJJrbuWgSH11DSDE+hQbaxmAXz9DR4NIVUi3An2qbSPtNUl/6W/YgoOfmbkAEoV
+JtT1g5BOBSesUMoVcGAIU24HgCHRrjYr7QkhZ9SDfYSi/wq/XYp/6TWZFZxeswH5G+jiiuwe3N5L
+eEHWv+7FCNYxaqh4Y3Q+NUtN7hSK7lzJcGDJxvuBxwz2/0hfusZHPVTt/Xp6lNyvELwYMQCCpATk
+Bb3Y/GPfnwy6TOs0NVNIqLK41+bH6mAppjuxKrHfpfIqhDoymPuJS88uTMRV8orB1dW6hyOQ9WAS
+d9VQ6XvwpBjCWdWn8PC6aQoU2CUYFqbVl6ZLTvrHjA6x0p92aTAniAcgWkLHoHSTlA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tjPOe+i2k+nXa5FwuBSFXGgCru7XJsBmKm1vK1LpwRpMSces5XPA88jZQt04iHkAvi71ISM6femV
+qFverff5QYvnncGvgGBxFbGJlLli7IRhfgBoQgVOJoOzc7d80w+jVeoU//FgP4qTOUaz7yESufOM
+ItLtl/6qtOi9RVKqBiXenpVhuRpYnFMvqdQIQnVQnKq8ivlPRZQuwb7nhrKSLcMtc5dofu7Y4O1d
+DdfnVC/WNVZxKszoTVYqxcmlC609m9yECxL954Tj+GkeT3njkygm5wruT7867sLTUf25VEfvu139
+5pKhDqETlNyLl034k11iv47SOTmLmY58tSDOaQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature136446-Object504013"><etsi:QualifyingProperties Target="#Signature136446"><etsi:SignedProperties Id="Signature136446-SignedProperties142187"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T18:20:20-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>DUhM+8/W+O2umnfit9a9QK1Mle0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>331518169</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-431839"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

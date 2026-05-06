@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601099315677900120010020002430590024305916</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T15:05:11-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PERNOS LUMITEC PERLUMITEC S.A. </razonSocial>
+    <nombreComercial>PERNOS LUMITEC PERLUMITEC S.A.</nombreComercial>
+    <ruc>0993156779001</ruc>
+    <claveAcceso>1504202601099315677900120010020002430590024305916</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000243059</secuencial>
+    <dirMatriz>AV. 10 DE AGOSTO #1527-1529 Y GARCIA MORENO ESQUINA</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>15/04/2026</fechaEmision>
+    <dirEstablecimiento>AV. 10 DE AGOSTO #1527-1529 Y GARCIA MORENO ESQUINA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ASTECNAVIND S.A.S. </razonSocialComprador>
+    <identificacionComprador>0993387909001</identificacionComprador>
+    <direccionComprador>GUAYAQUIL 4TO PASEO 52B SE Y 4TO PASEO 52B SE</direccionComprador>
+    <totalSinImpuestos>1.77</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>1.77</baseImponible>
+        <valor>0.27</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>2.03</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>2.03</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PEG129H_20X2.50X60</codigoPrincipal>
+      <codigoAuxiliar>NA</codigoAuxiliar>
+      <descripcion>PERNO HEX 12.9 NEGRO M20 X 2.50 X 60</descripcion>
+      <cantidad>1.00000</cantidad>
+      <precioUnitario>1.768</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.77</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.77</baseImponible>
+          <valor>0.27</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">GUAYAQUIL 4TO PASEO 52B SE Y 4TO PASEO 52B SE</campoAdicional>
+    <campoAdicional nombre="Telefono">0991861352</campoAdicional>
+    <campoAdicional nombre="email">contabilidaddastecnavind@gmail.com</campoAdicional>
+    <campoAdicional nombre="Nota">000304481   EFECTIVO</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature656916">
+<ds:SignedInfo Id="Signature-SignedInfo141598">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID65852" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature656916-SignedProperties109503">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>xKRiNkFqBKnrdzWd5AG4/dEsttg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate19141">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>61I+zuKxlARL02amdltzoCN5Wok=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-202548" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>LVAnxQlbp4+iyaA+NRXvYbtIJ0g=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue263022">
+jzbUQdijlyGal84p6tisAOROUHeVvDC659QgUYiV/hDfCxn1YO2ieuwAooFKtLUkI7ooZ5YjC5DB
+REzxxOLsGRdhgbbrk6GT8sKwNzWtBq8cCXZSmqWBm3XClV4KedkIAcZx+n4Z5onxs1TcsgwJ1EN5
+zHuijCHv5XrPlGQ8VK4pXwCPxV97nW1C+UI1WrXN9tkQvt407ANH0IuNBo3uRjMZND6WvoJVrNvb
+lOjgdLSlWvH7Mw8+ODLI7zdM60v13kEBXCT6EGKSGywUEXCGW+p0bIAZOSZ7JAP8ivztzKs5LiPP
+BgPEhYPqfGyVpOqkHbsJv9N5CtlBJS3EE8pCRA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate19141">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJfjCCB2agAwIBAgIIBDPi+j0qPzAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI2MDMwMjIyMTgwMFoXDTI5MDMwMTIyMTgwMFowgeIxCzAJBgNVBAYTAkVDMSgwJgYDVQQKDB9Q
+RVJOT1MgTFVNSVRFQyBQRVJMVU1JVEVDIFMuIEEuMRgwFgYDVQQMDA9HRVJFTlRFIEdFTkVSQUwx
+FzAVBgNVBAQMDlJBTUlSRVogVEFNQVlPMRYwFAYDVQQqDA1FTk1BIE1FUkNFREVTMRkwFwYDVQQF
+ExBJRENFQy0wOTA1MTM1Nzc4MSUwIwYDVQQDDBxFTk1BIE1FUkNFREVTIFJBTUlSRVogVEFNQVlP
+MRwwGgYDVQRhDBNWQVRFQy0wOTkzMTU2Nzc5MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEArAi2AMO4Lvz2/Y8i3JUi0/4HLsygeVyjEzNN+BJg4kpEXi7H1lW4qSwazV2MThCilZOO
+KAoLnKs6Z8H9bc+w70+ploE2PJ+ffEGlezqscSvmiIoqh9j353BVSSz/HfgSSdz4hRN7HV47VDRd
+gEmueHsHoJ2oJCOBmlljdwWPq1TClslv5CVJOkSJCzdJ38J0brLX36x8kUM9tBezj8St1eLuRSqo
+IcUqLtgB4GKcle2vrdltffUl+aE04uVIoomU7ScZqMEVRAVXWPkRig1meh+y3jQ4bdoqVHfW4fHM
+MEr4Y0jRR8H6ZtxVqCTB+C++Xt1loxuaJ0ZsVV+Cz2szKQIDAQABo4IEXjCCBFowGwYLKwYBBAGC
+8TZmAwEEDAwKMDkwNTEzNTc3ODAeBgsrBgEEAYLxNmYDCwQPDA0wOTkzMTU2Nzc5MDAxMIHXBggr
+BgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGlj
+L2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUyLmNydDA2BggrBgEFBQcwAYYq
+aHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipo
+dHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFGW+UPip
+UNg8n2JroqnqlLQKRa4rMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OER
+snSSc/0wVAYDVR0gBE0wSzBJBgwrBgEEAYLxNmYCAwEwOTA3BggrBgEFBQcCARYraHR0cHM6Ly93
+d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggHaBgNVHREEggHRMIIBzYEhY29udGFiaWxpZGFkQHBlcm5vc2x1bWl0ZWMuY29tLmVjoBsGCysG
+AQQBgvE2ZgMBoAwMCjA5MDUxMzU3NzigHgYLKwYBBAGC8TZmAwKgDwwNRU5NQSBNRVJDRURFU6AY
+BgsrBgEEAYLxNmYDA6AJDAdSQU1JUkVaoBcGCysGAQQBgvE2ZgMEoAgMBlRBTUFZT6AgBgsrBgEE
+AYLxNmYDBaARDA9HRVJFTlRFIEdFTkVSQUygMgYLKwYBBAGC8TZmAwegIwwhMTAgREUgQUdPU1RP
+IDE1MjAgWSBHQVJDSUEgTU9SRU5PoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTY3MzUwOTI0oBoG
+CysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAwBgsrBgEEAYLxNmYDCqAhDB9QRVJOT1MgTFVNSVRF
+QyBQRVJMVU1JVEVDIFMuIEEuoB4GCysGAQQBgvE2ZgMLoA8MDTA5OTMxNTY3NzkwMDGgEwYLKwYB
+BAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAYBgsr
+BgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQBSBJ2RaC+vioAq/UwrYVFB
+abjBSDoLFz+vOHnbEfPh8wHXf6SYKRjPXiew5r3+QzmPgBB13vZwJ4OmxCSMFNyiWcsZvIzxVBzH
+zSi3Wh3gT7gNup8j5mmtvDMSlSQL438Zl50fQKc47Hw4WXZ4EZ0qZV7olFqBgZvRNM6aVqILYdfM
++PgyMHYSzqYcl944XuCvHcPm1jYhii4vvVV0Xk1sYdP2iqYpPIY/Sv7XJWJMsoxvbeUvJ9QCDlk7
+8fB6Rva7i+3kF7DWA5UqOoYCHJ1WB2icRe12C7hm0yH37HK96Cy4312bzoYjyOPfXLvvFQmDFhZo
+pwOhMPTLCK2h5S4EBq1nqu1TmXv9NvuqoIiBgnD8pNw2/Y0YyDPpbRCqIKYzxglhgCbgz6hLOFBV
+Afmsp4nAgQvS809NC9lJI5MPVSruwtHZ78uO9iVpVswx37WjUNI2ocpsB00ov0zY75wB+9GPQg5a
+e/MkQafIr1bPmxFNnYhOV3HOPGF6aFZMjW/5tDHdGGuMJ3f1GKVb6EVNkfNXyeTwKNn09WDYtHWF
+wwgPOrew3jgcpviTqL9ms/sZbJIYSA8aMTNpouvIghDYBhxCX8xCv0cj2l2f+4NMjXpB3xq3S1Up
++HmMEDAINbb6Cg5mnAqK2I8T+yVFH/gAS4iUR73h1C2mOnloflUcAw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rAi2AMO4Lvz2/Y8i3JUi0/4HLsygeVyjEzNN+BJg4kpEXi7H1lW4qSwazV2MThCilZOOKAoLnKs6
+Z8H9bc+w70+ploE2PJ+ffEGlezqscSvmiIoqh9j353BVSSz/HfgSSdz4hRN7HV47VDRdgEmueHsH
+oJ2oJCOBmlljdwWPq1TClslv5CVJOkSJCzdJ38J0brLX36x8kUM9tBezj8St1eLuRSqoIcUqLtgB
+4GKcle2vrdltffUl+aE04uVIoomU7ScZqMEVRAVXWPkRig1meh+y3jQ4bdoqVHfW4fHMMEr4Y0jR
+R8H6ZtxVqCTB+C++Xt1loxuaJ0ZsVV+Cz2szKQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature656916-Object46031"><etsi:QualifyingProperties Target="#Signature656916"><etsi:SignedProperties Id="Signature656916-SignedProperties109503"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T15:05:10-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>CnE216klRSgsk8M1JRdITE+wgJE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>302835164359835440</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-202548"><etsi:Description>contedido del comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

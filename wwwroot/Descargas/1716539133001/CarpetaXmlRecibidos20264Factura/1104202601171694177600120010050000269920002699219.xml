@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1104202601171694177600120010050000269920002699219</numeroAutorizacion>
+<fechaAutorizacion>2026-04-11T12:34:17-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>QUIMBIAMBA YAGUARCOTA LUIS ANTONIO</razonSocial>
+<nombreComercial>CONFITERIA DON LUIS 2</nombreComercial>
+<ruc>1716941776001</ruc>
+<claveAcceso>1104202601171694177600120010050000269920002699219</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>005</ptoEmi>
+<secuencial>000026992</secuencial>
+<dirMatriz>SUCRE S/N Y MORALES</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>11/04/2026</fechaEmision>
+<dirEstablecimiento>SUCRE S/N Y MORALES</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>DAVID GUALAVISI</razonSocialComprador>
+<identificacionComprador>1716539133001</identificacionComprador>
+<direccionComprador>CAYAMBE</direccionComprador>
+<totalSinImpuestos>14.65</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>14.65</baseImponible>
+<valor>2.2</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>16.85</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>16.85</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>7750670000758</codigoPrincipal>
+<descripcion>PULP DURAZNO 1L</descripcion>
+<cantidad>6</cantidad>
+<precioUnitario>   1.00000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>6</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>6</baseImponible>
+<valor>0.9</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7861006703998</codigoPrincipal>
+<descripcion>PANCHITOS NATURAL 63 GR</descripcion>
+<cantidad>5</cantidad>
+<precioUnitario>   0.30435</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.52</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>1.52</baseImponible>
+<valor>0.23</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7861006704018</codigoPrincipal>
+<descripcion>PANCHITO PINCANTE 63G</descripcion>
+<cantidad>5</cantidad>
+<precioUnitario>   0.30435</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.52</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>1.52</baseImponible>
+<valor>0.23</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7861091158109</codigoPrincipal>
+<descripcion>AMOR WAFERS PEKES 54X130</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>   1.04348</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.04</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>1.04</baseImponible>
+<valor>0.16</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7862117323358</codigoPrincipal>
+<descripcion>SALTICAS X 3 UNI  63GR</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>   0.86957</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2.61</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>2.61</baseImponible>
+<valor>0.39</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>7862117324980</codigoPrincipal>
+<descripcion>APETITAS MARIA 160 GR</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>   0.65217</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.96</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>1.96</baseImponible>
+<valor>0.29</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">CAYAMBE</campoAdicional>
+<campoAdicional nombre="Telefono">0981630247</campoAdicional>
+<campoAdicional nombre="EmaiL">mariela-estef97 hotmail.com</campoAdicional>
+<campoAdicional nombre="NumDocumento">FR0027004B-0201-M</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature673803">
+<ds:SignedInfo Id="Signature-SignedInfo739494">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID508739" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature673803-SignedProperties348021">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6pPOHgAoCyb/oaAkJP9T30UIO3U=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1354066">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>f9j4XVazmADLXRHbLEt5BkOpYtM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-903275" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>JF4ycT2b6v5G5Vn4k8gZhqEZNFM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue570396">
+EPwqnA77T+HQCNxxG1KgfC33V9Lbtu1v0KreMoBtxyCTDRFj2gkKy/ML0FLzHX+VIEZv/RM8I4Y8
+4a00fkm1QglBKWtZwGHceShY9RMu2PfP/VS6mAK5sbA+2O+l5Pm+v+FOv3BMCevq17P2kPRXjpnl
+fcKRIktWF2PiuIZZX0nyCoLGduGJJIoW0BHmqjnU4ANQKaVP6OLf07iE1vDEg+LikyjwUo+7bwbO
+5SUrRWlneTzI7dEnRTKoxso8m2y5eyd/zvXYHxtyBlkAwnnLfv/DD7QcB+mJOaqrRykFqRtJPTn1
+Tqiiv8IhRR3XnkV4tmlApq4zXlqtSDr3juOLjQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1354066">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKmDCCCICgAwIBAgIEXdS6TTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTAzMDcxOTM5MzFaFw0yNzAzMDcxOTM5MzFaMIGtMSsw
+KQYDVQQDDCJMVUlTIEFOVE9OSU8gUVVJTUJJQU1CQSBZQUdVQVJDT1RBMSAwHgYDVQQFExcxNzE2
+OTQxNzc2LTA3MDMyNTE0NDkyNTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQChBO2m5/Ht3I+5UAG8+NK3uFZ27+KFJuMS
+4t3vepVcOKfCOSwSBMfLFNqT86CtnjJvjyBxnGCctiQdzYFL1b7I5MjbFvbEArpbipGakTymg5Di
+JrgAVbwdJJBA1+EQVSxKZfLIheSOgZ2597ThxAVu5k7t5KIJ1kuCIrCWr8O7B74Fw2s95xNrA5Xu
+aS4uqUqKKmGLjOSxk1eL2JOknawz5Bfm/1IYbY/sBnxifXEPuCdR4qtdAvdqxqWenbS8Wt03ujai
+PrgwPuXli9aDj+/RRRWFtxs7Sfxrt+lyFpoYnJnfK7YmJX0Y983Uar/dxoBJHQVdhooEEsej3dQm
+2dLtAgMBAAGjggXQMIIFzDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/
+ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAkBgNVHREEHTAbgRlsdWlz
+cXVpbWJpYW1iYUBob3RtYWlsLmVzMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggr
+BgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAg
+AE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3
+dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9k
+ZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5w
+ZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4
+hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyi
+gZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VD
+VVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0
+dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB
+3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1Ud
+DgQWBBRzuL+Vuc+JiN1m+WaMgSt0O4Kd7DArBgNVHRAEJDAigA8yMDI1MDMwNzE5MzkzMVqBDzIw
+MjcwMzA3MTkzOTMxWjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxNzE2OTQxNzc2MBcG
+CisGAQQBgqZyAwkECQwHQ0FZQU1CRTARBgorBgEEAYKmcgMiBAMMAS4wHQYKKwYBBAGCpnIDBwQP
+DA1QUklOQ0lQQUwgUyBOMBwGCisGAQQBgqZyAwIEDgwMTFVJUyBBTlRPTklPMB8GCisGAQQBgqZy
+AyAEEQwPMDA2MDAxMDAwMDU2ODk5MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUM
+A1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGgYKKwYBBAGCpnIDAwQMDApRVUlNQklBTUJB
+MBgGCisGAQQBgqZyAx4ECgwIRU1QTEVBRE8wHQYKKwYBBAGCpnIDCwQPDA0xNzE2OTQxNzc2MDAx
+MBEGCisGAQQBgqZyAx0EAwwBLjAaBgorBgEEAYKmcgMEBAwMCllBR1VBUkNPVEEwGgYKKwYBBAGC
+pnIDCAQMDAowOTk2NTQ3Nzc2MA0GCSqGSIb3DQEBCwUAA4ICAQB9JpSKOLcnlchKqJ7F2peSvNht
+OLXv3bkOPMNOC/VTeYnCg5ZLdD6tZImfIe48KIKV+FMWlo4A/18NUIwxD6U0LNgf9zS/0NDUBn3j
+eFkS7FHDcPHelpBKs87FDlj2dJx+3gcsEykh076trPDEuAjR9PiQQN9x6jsrWJicr2VpvIkSrpvc
+890FFu7+1MtiH/p+RYczEn2eTUVTnkQqcr4LyYmNFVKU0xn8H+s2JhdltzbSFPZuw9/qPEHKAAnl
+hdyb6AGiIQzgufABzKPlLGgtXqlZ75BUk7vU5oN87AQCkFnhnr+Yx9ePqRTIhP8Ta5nawZbY3ptL
+HjIVtNdlgJtgCSl+tichEHpBVCZZFQOZGJE6k0oqLpQ9FoZ77/w0z1kt2SEeefhPyj2Z67FVDX5S
+k6SW0XnwdadZpMxqVGUo197dWfIjq1XZh6/hJe6WLDJidm78y0zrjRZiaEMu73A0EnjyO3c4qAq5
+KKxZlLHHSPfexx77tTgn0z99N5BC3tYgAY2Pg8wKs3zNlrnJhCr3vkE2ZlH0hhaMb0jd6k0XTIs9
+g8QYy1+dyZQlZvbg2ppeIwh+l65B7Y9613rBsZRhswQxpa2Xr41Xcz29Q6CVAYVN2aEq3Eqegdqo
+Nk66TcO6XvmWWviyhQk75aAng0/VgBjPxyYrUIjK1D7MDqLW4Q==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oQTtpufx7dyPuVABvPjSt7hWdu/ihSbjEuLd73qVXDinwjksEgTHyxTak/OgrZ4yb48gcZxgnLYk
+Hc2BS9W+yOTI2xb2xAK6W4qRmpE8poOQ4ia4AFW8HSSQQNfhEFUsSmXyyIXkjoGdufe04cQFbuZO
+7eSiCdZLgiKwlq/Duwe+BcNrPecTawOV7mkuLqlKiiphi4zksZNXi9iTpJ2sM+QX5v9SGG2P7AZ8
+Yn1xD7gnUeKrXQL3asalnp20vFrdN7o2oj64MD7l5YvWg4/v0UUVhbcbO0n8a7fpchaaGJyZ3yu2
+JiV9GPfN1Gq/3caASR0FXYaKBBLHo93UJtnS7Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature673803-Object1015452"><etsi:QualifyingProperties Target="#Signature673803"><etsi:SignedProperties Id="Signature673803-SignedProperties348021"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-11T12:34:16-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>N61qLp0Qcz+jo+u+faHP+xLLepU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1574222413</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-903275"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

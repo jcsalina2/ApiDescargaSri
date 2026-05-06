@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202601099085832200120395000000762290990858316</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T10:40:38-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?><factura version="1.1.0" id="comprobante"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>DISTRIBUIDORA FARMACEUTICA ECUATORIANA DIFARE S.A</razonSocial><nombreComercial>DIFARE S.A.</nombreComercial><ruc>0990858322001</ruc><claveAcceso>0804202601099085832200120395000000762290990858316</claveAcceso><codDoc>01</codDoc><estab>039</estab><ptoEmi>500</ptoEmi><secuencial>000076229</secuencial><dirMatriz>Urb. Ciudad Colón, Mz. 275 Solar 5 Etapa Tres Edif. Corporativo Uno Piso 4 Ofic 423</dirMatriz></infoTributaria><infoFactura><fechaEmision>08/04/2026</fechaEmision><dirEstablecimiento>GARCIA GOYENA 5221E/28AVA Y 29AVA</dirEstablecimiento><contribuyenteEspecial>6925</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>JAVIER SOLORZANO</razonSocialComprador><identificacionComprador>0915937668</identificacionComprador><totalSinImpuestos>4.35</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>0.00</baseImponible><valor>0.00</valor><valorDevolucionIva>0.00</valorDevolucionIva></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>4.35</baseImponible><valor>0.65</valor><valorDevolucionIva>0.00</valorDevolucionIva></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>5.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>5.00</total><plazo>0</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>105351</codigoPrincipal><descripcion>PAQUETE DATOS - CNT</descripcion><cantidad>1.0000</cantidad><precioUnitario>4.35</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.35</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="detAdicional1" valor="1u|0f|S||"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>4.35</baseImponible><valor>0.65</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="factura">715331779|08/04/2026 10:39:24|rcusquir|GYECRUZFG114||FG114|6925 Julio-04/1995|0915937668|5.00|0.65|0.00|0|0</campoAdicional><campoAdicional nombre="Telefono">0993167205</campoAdicional><campoAdicional nombre="Direccion">CIRCUVALACION SUR 816 E HIGUER</campoAdicional><campoAdicional nombre="TipoVenta">I</campoAdicional><campoAdicional nombre="Detalle Adicional">GRAN CONTRIBUYENTE Resolución No. 934E</campoAdicional><campoAdicional nombre="Informacion">DIFARE trata datos personales conforme a la normativa vigente. Política de privacidad: https://www.farmaciascruzazul.ec/terminos-y-condiciones</campoAdicional><campoAdicional nombre="Documento">Punto de emisi n 500, referente al establecimiento 1111</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-1628817554">
+	<ds:SignedInfo>
+		<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<ds:Reference URI="#comprobante">
+			<ds:Transforms>
+				<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+			</ds:Transforms>
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>tPghTM3vbU8oLYR5Yo2qlsr/8bA=</ds:DigestValue>
+		</ds:Reference>
+		<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-545002491">
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>oNNCTb80+w7TLGMmWqHL+ppQBXY=</ds:DigestValue>
+		</ds:Reference>
+	</ds:SignedInfo>
+	<ds:SignatureValue>
+fmObGo6S8IdGEr47thUQ+vzxMFn1zvH43pL+MxOtsF1qS5X06QJ/+oACCOU/gFG5
+mnwm6wT1zicNUFbk6du1Ovt4sQGMGGJ8YOEc2izZv+1uQQUKu5Pes2WCp0t2Nz8M
+rL0VNXKj3BU2EskFrw/RIMOtyvITnZMPQ5HVJKpRjMlTjTNH2mMGp56CyiIrhShJ
+ttud2yr9Y+N09pXg1uYr4dVe/RpDd/WmQUcB3NBe3b4HF83+FFpuaevdYZwU75sy
+MSwqjiAk3eMdGKmjclgBAkD3D5Iy60tW30qjL498Bns59cOvMwEvFpzoFzRwRPox
+H4Lmo5TsmPC+U1vxU/sQRA==
+	</ds:SignatureValue>
+	<ds:KeyInfo>
+		<ds:KeyValue>
+			<ds:RSAKeyValue>
+				<ds:Modulus>
+kUDUSgGR/WagxzuzQRmOJ/+Zi6s55NP+5vYmx8Ccc+a/8mm7GrpPH7B0zGdjNpu/
+/roPhhOcy6JJxuYtwuPvuu1RWBmDGGhIxnX5rVqoxUi1okl+juttbwXgxGWaE1QE
+5GwXFme16TihiNUURhjbzD+kfUfcUcsRYaFQj15J5PMZy9FVnR/+WC/PRYGCeWn4
+dYItL6iG5GW47l3MsoSNOOWpWS2mcKPkHMXpay06BH8zICXxkWFtLkTcl7o8rz3n
+vNxHTT7bDkxQtCqw8XITvE2m5dSzLP4leFj8zzRot5SE2rP9T7KoCEJ5gBP20kS8
+bSMMJM7uzlZZy/bEUspXUQ==
+				</ds:Modulus>
+				<ds:Exponent>AQAB</ds:Exponent>
+			</ds:RSAKeyValue>
+		</ds:KeyValue>
+		<ds:X509Data>
+			<ds:X509IssuerSerial>
+				<ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName>
+				<ds:X509SerialNumber>4515793025824494601</ds:X509SerialNumber>
+			</ds:X509IssuerSerial>
+			<ds:X509SubjectName>C=EC, O=SECURITY DATA S.A. 2, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, 2.5.4.5=0925927675-270326085019, CN=LEONEL FRANCISCO IDROVO HURTADO</ds:X509SubjectName>
+			<ds:X509Certificate>
+MIIK/TCCCOWgAwIBAgIIPqtR1M90lAkwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNV
+BAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwn
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQD
+DDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEEwHhcNMjYwMzI3MTM0MDI5WhcNMjkwMzI2MTM0MDI5WjCBqjEoMCYGA1UEAwwf
+TEVPTkVMIEZSQU5DSVNDTyBJRFJPVk8gSFVSVEFETzEgMB4GA1UEBRMXMDkyNTky
+NzY3NS0yNzAzMjYwODUwMTkxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEu
+IDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA
+kUDUSgGR/WagxzuzQRmOJ/+Zi6s55NP+5vYmx8Ccc+a/8mm7GrpPH7B0zGdjNpu/
+/roPhhOcy6JJxuYtwuPvuu1RWBmDGGhIxnX5rVqoxUi1okl+juttbwXgxGWaE1QE
+5GwXFme16TihiNUURhjbzD+kfUfcUcsRYaFQj15J5PMZy9FVnR/+WC/PRYGCeWn4
+dYItL6iG5GW47l3MsoSNOOWpWS2mcKPkHMXpay06BH8zICXxkWFtLkTcl7o8rz3n
+vNxHTT7bDkxQtCqw8XITvE2m5dSzLP4leFj8zzRot5SE2rP9T7KoCEJ5gBP20kS8
+bSMMJM7uzlZZy/bEUspXUQIDAQABo4IGNDCCBjAwDAYDVR0TAQH/BAIwADAfBgNV
+HSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYI
+KwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIQYDVR0RBBowGIEWbGVvbmVsaWRyb3Zv
+QGdtYWlsLmNvbTCCARIGA1UdIASCAQkwggEFMGAGCisGAQQBgqZyAgowUjBQBggr
+BgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAATQBpAGUA
+bQBiAHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZyAgQwgZEw
+gY4GCCsGAQUFBwIBFoGBaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93
+cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9z
+L1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRm
+MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggIC
+MIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJj
+cmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VO
+VElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwU
+U0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8v
+Y3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmww
+geCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3Js
+Jmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNF
+Q1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUPimu
+mNV1q41jiIkCoGELq/U26BswKwYDVR0QBCQwIoAPMjAyNjAzMjcxMzQwMjlagQ8y
+MDI5MDMyNjEzNDAyOVowCwYDVR0PBAQDAgXgMCUGCisGAQQBgqZyAwUEFwwVQU5B
+TElTVEEgREUgSU1QVUVTVE9TMBoGCisGAQQBgqZyAwEEDAwKMDkyNTkyNzY3NTAW
+BgorBgEEAYKmcgMJBAgMBlRBUlFVSTARBgorBgEEAYKmcgMiBAMMAS4wLAYKKwYB
+BAGCpnIDBwQeDBxBTEVKTyBMQVNDQU5PIDEwNSBBIFkgQk9ZQUNBMCAGCisGAQQB
+gqZyAwIEEgwQTEVPTkVMIEZSQU5DSVNDTzAfBgorBgEEAYKmcgMgBBEMDzAwMTAw
+MjAwMTEyODAxNTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkM
+B0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZJRFJPVk8wEQYKKwYBBAGCpnIDHgQD
+DAEuMEEGCisGAQQBgqZyAwoEMwwxRElTVFJJQlVJRE9SQSBGQVJNQUNFVVRJQ0Eg
+RUNVQVRPUklBTkEgRElGQVJFIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTA4NTgz
+MjIwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBcGCisGAQQBgqZyAwQECQwHSFVSVEFE
+TzAaBgorBgEEAYKmcgMIBAwMCjA5ODQzMDI4NDcwDQYJKoZIhvcNAQELBQADggIB
+ACM79egq+qPbt9ij50UfOQ7OHZZlhXGK5RXdzkhzvhkiv3xe6TiLbvs5cMzLXZRs
+CwPk8hdoU2dLDPEaQ5WuMXbrMIDptxDF4Wg8qzT/schPuL2vTcvusfSea2OgY218
+HAe+pqTrG+zmfmwkVeFCuTyo/ic5ejx3c5ICWnIYVGl3z+dz023lZtjjSlaJ315U
+1LNGJyLWIXJgMqTYTZrc2/YeqJso5nZhzpP2BQUUOzD8NnzvbNHWfA8TAexX+9tC
+4LBkagmVl+LIwTh0KYXan+v0ZDEnN+kZ4fgROyel2oAAdC0A23YybE3U/skJM5GO
+gauwDoz4FZ1Ko57IQ90ks6mD4ihSNqdyI1KfOuj9nIRkBApVe1A23bZ4/B0/i+BJ
+J8mehUFBVNVKM4HM5Fy4IhyQHQcmTK1SektgSqA85nM4cOADUYFHyYhRcUj+8yhq
+RCV+fek8LVKvHDHw6AMzMVqmTwXkNPNWkHZKKMimBBK+fh9FpCbQuEXUzy3kEDLb
+HfptTJWBUj5tO6xlQJxNeQ4ywykvnLWB+cNIeKpHw6/nDWq5fOUNcysaDth+guU+
+6dChk7nR6EeTpd3vKt+sgYUqb6ODAb9OF64ybfQWrz5p9pB4yh6jHityZ2eJYwxA
+ItUCvrE0AmQKT2E0yD9UCCLk6vT7o7Iov2qQznU/LoYb
+			</ds:X509Certificate>
+		</ds:X509Data>
+	</ds:KeyInfo>
+	<ds:Object>
+		<etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-1628817554">
+			<etsi:SignedProperties Id="SignedProperties-545002491">
+				<etsi:SignedSignatureProperties>
+					<etsi:SigningTime>2026-04-08T10:39:33.517Z</etsi:SigningTime>
+					<etsi:SigningCertificate>
+						<etsi:Cert>
+							<etsi:CertDigest>
+								<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+								<ds:DigestValue>6msI1xcF3bTveR16a8Gqce4htgk=</ds:DigestValue>
+							</etsi:CertDigest>
+							<etsi:IssuerSerial>
+								<ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName>
+								<ds:X509SerialNumber>4515793025824494601</ds:X509SerialNumber>
+							</etsi:IssuerSerial>
+						</etsi:Cert>
+					</etsi:SigningCertificate>
+				</etsi:SignedSignatureProperties>
+			</etsi:SignedProperties>
+		</etsi:QualifyingProperties>
+	</ds:Object>
+</ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

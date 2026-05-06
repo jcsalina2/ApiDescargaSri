@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202601099337873500120010010043468441234567815</numeroAutorizacion>
+<fechaAutorizacion>2026-04-21T00:58:06-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>AXA ASISTENCIA COLOMBIA S.A.</razonSocial><ruc>0993378735001</ruc><claveAcceso>2104202601099337873500120010010043468441234567815</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>004346844</secuencial><dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / AV DE ALARCON Y AV DE LAS AMERICAS</dirMatriz></infoTributaria><infoFactura><fechaEmision>21/04/2026</fechaEmision><contribuyenteEspecial>011</contribuyenteEspecial><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>OLVERA MORA MIGUEL AGAPITO</razonSocialComprador><identificacionComprador>1201782156</identificacionComprador><direccionComprador>CDLA EUGENIO ESPEJO CL A Y CL C</direccionComprador><totalSinImpuestos>4.75</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>4.75</baseImponible><tarifa>15</tarifa><valor>0.71</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>5.46</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>5.46</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>NOV011</codigoPrincipal><descripcion>VIDA PROTEGIDA PLAN 2</descripcion><cantidad>1.00</cantidad><precioUnitario>4.750000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.75</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="vigencia" valor="Marzo 2026"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>4.75</baseImponible><valor>0.71</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Notificaciones">Se envian a la direcciones siguientes:</campoAdicional><campoAdicional nombre="EMAILCLIENTE">info.ecuador@axa-assistance.com.co</campoAdicional><campoAdicional nombre="direccion">CDLA EUGENIO ESPEJO CL A Y CL C</campoAdicional><campoAdicional nombre="comentario">REG.FACT.004346844, NOV011 Marzo 2026</campoAdicional><campoAdicional nombre="telefono">0991638879-052734987</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature573422">
+<ds:SignedInfo Id="Signature-SignedInfo302886">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID656939" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature573422-SignedProperties386303">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>O205W+85+JlOHBHtPu9DJJkaLdo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1219170">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0od+i4KHvgDddMWqZedzzsITW60=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-692561" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>AWEj3G1MOwoiafDvmD/DeDOol3A=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue675898">
+HpRsBoFwkclycQ7+YMtyJHEh3fPxgnQcM8q5Jv+1gLz4OUbaAOqOfUIGy9eDiK1nNWvRWYj+LzpK
+8haR5aPPvh+/NbigcerlpBQtAEDRr3kJyF3JOBDSazKNvRLK8Lwiby1oKxRV9NFa/C/u3TOgQE0T
+zjYM1h0m/V/P79ifbw07HzfQvoC1s1DJ6gnCN56o/LVgohFfgOO85/okdJd+upGq65IWQdMlYuDX
+cJZ4CVQm1ayIer/eR6k7FHYzj/bW+9htGzZYilDUnpKBUiNYaOSFBI97q6o9ocX+n2YT44ztme26
+sWwWfPPH12AvMOrM+F4QOAwnzaTVN5WJDIXrxg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1219170">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJdzCCB1+gAwIBAgIIcgy+bB9AD3owDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI2MDMyNDIwMTcwMFoXDTI4MDMyMzIwMTcwMFowgdUxCzAJBgNVBAYTAkVDMSUwIwYDVQQKDBxB
+WEEgQVNJU1RFTkNJQSBDT0xPTUJJQSBTLkEuMRIwEAYDVQQMDAlBUE9ERVJBREExFjAUBgNVBAQM
+DUJBUVVFIENBUlJFUkExFTATBgNVBCoMDExBRFkgTUFSSVVYSTEZMBcGA1UEBRMQSURDRUMtMDky
+MzQxOTQ0NDEjMCEGA1UEAwwaTEFEWSBNQVJJVVhJIEJBUVVFIENBUlJFUkExHDAaBgNVBGEME1ZB
+VEVDLTA5OTMzNzg3MzUwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCIaF5G/WLF
+R67tTH6HMmR6eM0X6Qg0VG2BjGbQR1ZnMOy+cx3qg6chPhSfcbLBwZSMORxqREyO9mUNFrkIhYzZ
+nM7rRhDOJdOi0C7L1KEVOQ87L1j0c2TECk2b1rlAm7nkhwx2jHbY26bTAsVADVtw/myfSrAw9oA6
+qsLnggqLSVKDh4Z909gH6Y+8+9KEKWsAgw0uHKaOlvQ5/FDlinp1aXKEInu4+9S3srYCey6nk4rM
+BFNFhk93Xg/EYPiRaFcj2Lge2+or6MgGFBcPfAdw0+3nGmx7qfYgDvKn5LkiA9K7ttgpbDfPrw4b
+AleKzPanknmEUMem/FYFBnuKAG0ZAgMBAAGjggRkMIIEYDAbBgsrBgEEAYLxNmYDAQQMDAowOTIz
+NDE5NDQ0MB4GCysGAQQBgvE2ZgMLBA8MDTA5OTMzNzg3MzUwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTIuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUyMCIdj0rzN7bA6FjAQifSxLB
+QWYwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TBUBgNVHSAE
+TTBLMEkGDCsGAQQBgvE2ZgIDATA5MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5j
+b20vcHVibGljL3BraS9kcGMtZWMvMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6
+Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYD
+VR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAeAGA1UdEQSCAdcw
+ggHTgSVsYmFxdWUuZXh0ZXJuYWxAYXhhLWFzc2lzdGFuY2UuY29tLmNvoBsGCysGAQQBgvE2ZgMB
+oAwMCjA5MjM0MTk0NDSgHQYLKwYBBAGC8TZmAwKgDgwMTEFEWSBNQVJJVVhJoBYGCysGAQQBgvE2
+ZgMDoAcMBUJBUVVFoBgGCysGAQQBgvE2ZgMEoAkMB0NBUlJFUkGgGgYLKwYBBAGC8TZmAwWgCwwJ
+QVBPREVSQURBoD8GCysGAQQBgvE2ZgMHoDAMLlVSQkFOSVpBQ0lOIExBIFBFUkxBIEVTVEFQQSAz
+IE1aIDYwMjggVklMTEEgMTKgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5ODc3ODkyOTSgGgYLKwYB
+BAGC8TZmAwmgCwwJR1VBWUFRVUlMoC0GCysGAQQBgvE2ZgMKoB4MHEFYQSBBU0lTVEVOQ0lBIENP
+TE9NQklBIFMuQS6gHgYLKwYBBAGC8TZmAwugDwwNMDk5MzM3ODczNTAwMaATBgsrBgEEAYLxNmYD
+DKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQBgvE2
+ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBAAgIQGJXEpvxfew6EuLq3v1Zqm6V2T7+
+EbUAytoMEA+c/sQqxNKSrYIiyhNX1E+rPlNdld+Xv9EvCDlSKc2Uzww4lN/pLoeUtLJ3/3XuQxjb
+FCgRTwJ4ipZlLIIItr8SUHgJB1l4LmWd2VGXdmaR9me9fVM0VMJwy5ua2bjFA1POzen71q8ZOn1j
+1NamG2G+6ozWUfj0RxssZtLHfSAleAUcL/BDZSfq4Oary0K3MdponnuWkS9YczGdSvoojQAQSLTt
+dnOWSjbkFywErPHGbALLsK2YyFY7GXkTmjqhklC0DBGkrnqQFGoapXujbc1lCJLUnH3JZniRw0kY
+TwWRZwF9+KrROLaqPlt5MlIceNIZLpabSgYIO0TyDbsOFV1g3Cb73BAwsYcQucDf174uZnLfQrd6
+zkIHuN/KdKi2YoZIEkeaxBQCy/R0IKVaEyPHWtISI1RBHpeemiSqpmsg16GX97u6II0g/CzZSkKT
+5lBe81HXOTu0RPlzaZehw1iedfJxmXisDnWiB+cepHk68Mu+jS0R/faVtya7uVO4XEhvm91jVxtl
+65odVp0tsiSxLpabPUC4VXF6p37NveFO9rx7fUtg2cuEK/adJr/Vj8g9vYL6eagg5NQtbbrnZxbT
+IaXHb3LTB5cd3YRvfZDKm9emnk31rGvAdQLH7h+ek870
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iGheRv1ixUeu7Ux+hzJkenjNF+kINFRtgYxm0EdWZzDsvnMd6oOnIT4Un3GywcGUjDkcakRMjvZl
+DRa5CIWM2ZzO60YQziXTotAuy9ShFTkPOy9Y9HNkxApNm9a5QJu55IcMdox22Num0wLFQA1bcP5s
+n0qwMPaAOqrC54IKi0lSg4eGfdPYB+mPvPvShClrAIMNLhymjpb0OfxQ5Yp6dWlyhCJ7uPvUt7K2
+Ansup5OKzARTRYZPd14PxGD4kWhXI9i4HtvqK+jIBhQXD3wHcNPt5xpse6n2IA7yp+S5IgPSu7bY
+KWw3z68OGwJXisz2p5J5hFDHpvxWBQZ7igBtGQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature573422-Object832937"><etsi:QualifyingProperties Target="#Signature573422"><etsi:SignedProperties Id="Signature573422-SignedProperties386303"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T20:23:54-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>x+6IWeCjnSXqTbKr0Qei2WlrCJU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>8218152791634349946</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-692561"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601096860714000120011000023964063868413411</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T01:37:55-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>2</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>EMPRESA PÚBLICA MUNICIPAL DE AGUA POTABLE, ALCANTARILLADO, PLUVIAL, SANITARIO Y SANEAMIENTO DEL CANTÓN SAN FRANCISCO DE MILAGRO</razonSocial>
+      <nombreComercial>EP AGUAS DE MILAGRO</nombreComercial>
+      <ruc>0968607140001</ruc>
+      <claveAcceso>0604202601096860714000120011000023964063868413411</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>100</ptoEmi>
+      <secuencial>002396406</secuencial>
+      <dirMatriz>EPAMIL- JUAN MONTALVO  SN y BOLIVAR</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>06/04/2026</fechaEmision>
+      <dirEstablecimiento>EPAMIL- JUAN MONTALVO  SN y BOLIVAR</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+      <razonSocialComprador>VINTIMILLA SALTOS MARIELA JACQUELINE</razonSocialComprador>
+      <identificacionComprador>0923600613</identificacionComprador>
+      <totalSinImpuestos>12.34</totalSinImpuestos>
+      <totalSubsidio>0.0</totalSubsidio>
+      <totalDescuento>0.0</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>0</codigoPorcentaje>
+            <baseImponible>12.34</baseImponible>
+            <valor>0.0</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.0</propina>
+      <importeTotal>12.34</importeTotal>
+      <moneda>DOLAR</moneda>
+      <pagos>
+         <pago>
+            <formaPago>01</formaPago>
+            <total>12.34</total>
+            <plazo>0</plazo>
+            <unidadTiempo>dias</unidadTiempo>
+         </pago>
+      </pagos>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>1</codigoPrincipal>
+         <codigoAuxiliar>1</codigoAuxiliar>
+         <descripcion>2604-consumo agua</descripcion>
+         <cantidad>1.0</cantidad>
+         <precioUnitario>8.9</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>8.9</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>8.9</baseImponible>
+               <valor>0.0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>2</codigoPrincipal>
+         <codigoAuxiliar>2</codigoAuxiliar>
+         <descripcion>2604-alcantarillado</descripcion>
+         <cantidad>1.0</cantidad>
+         <precioUnitario>2.67</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>2.67</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>2.67</baseImponible>
+               <valor>0.0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>5</codigoPrincipal>
+         <codigoAuxiliar>5</codigoAuxiliar>
+         <descripcion>2604-intereses agua modulo</descripcion>
+         <cantidad>1.0</cantidad>
+         <precioUnitario>0.27</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>0.27</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>0.27</baseImponible>
+               <valor>0.0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>7</codigoPrincipal>
+         <codigoAuxiliar>7</codigoAuxiliar>
+         <descripcion>2604-mantenimiento agua</descripcion>
+         <cantidad>1.0</cantidad>
+         <precioUnitario>0.5</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>0.5</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>0.5</baseImponible>
+               <valor>0.0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+   <infoAdicional>
+      <campoAdicional nombre="Domicilio">VARGAS TORRES ENTRE EPLICACHIMA Y 24 DE MAYO NUMERO DE CASA  00</campoAdicional>
+      <campoAdicional nombre="Contacto">SM@GMAIL.COM</campoAdicional>
+      <campoAdicional nombre="Telefono">0999951740</campoAdicional>
+      <campoAdicional nombre="Concepto">Marzo del 2026</campoAdicional>
+      <campoAdicional nombre="Cuenta">4651   VARGAS TORRES ENTRE EPLICACHIMA Y 24 DE MAYO Numero de Casa  00</campoAdicional>
+      <campoAdicional nombre="Emitido"> Lister Alejandro Pardo Ramos</campoAdicional>
+   </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature696874">
+<ds:SignedInfo Id="Signature-SignedInfo33409">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID327784" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature696874-SignedProperties318114">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0SL3BT5W6SfSKIHE6DyyU9gAQhY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1626282">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>va8O452TKjcKHL79XEGzk/Li7zE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-888448" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3LlssyHjOLJQ3LdxtnV2tSP1ezY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1017076">
+RAT2J2C6QpkyYeGJxqBWw0CUZbLRNcUQIKbvby2WwFCrj17VMLlDSwkM+vQF2grjpONuxSvf97qK
+6vYgCoiVFb2oiEp9QSk+0Uyd9MZjEaSuNh7ppHPwUToRavOHf9BBBdBq6ytdWWtUALKrqJ737bgI
+TWpwCNoiaz/hN2pNupadtK34d+QeZfuV9XuAIKZvrTExkkoZkatusOjyY4najC1jxR1JfTJXAfyH
+u2xM+aNpyfECs3vzZE6Ogv4N8TftcJu37jUXLLSt2vvH4rfoxC2v1WqTDqyIZXIYoh0staywxhZ3
+xukCithPh9gfM2V5tnk5jhFaQ2h5R2Q4ZM4tnA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1626282">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ4zCCB8ugAwIBAgIEZeZ0YTANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI1MDYwNDIwNTgwOVoXDTI3MDYwNDIxMjgw
+OFowgbkxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE9MBEGA1UEBRMKMDIwMDAwODAwNDAoBgNVBAMTIUNJTlRIWUEgREFZQU5B
+IEVDSEVWRVJSSUEgTkFSVkFFWjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMbCM5ZH
+lCYeKdAJ3KLSqH61dpXG56mF6DelYSdRLHTJzO+zAACeeq7fbX+NRSZh2pjuGKrGQOXNIn4f0Sdk
+fbP/V2bQeb50KbT2Vvpx/a1EMI4OcDIWxSodpTS2c2WO4u09JE8sathAaqBCSaw6XD09Esg+yzv3
+kMmlsigMUmkQqLDE3Puf95cjB/ym8LQ9Bg06uqkci6qDIU5QJhn/0mtPPHi3MgL5qQ7wDTeUAWbl
+T27uREq5PD/Td16zZEmcrVpAzcuER/DG3AImcojcNF+bWAIQipaWtNAGEsvNAveVI5PkABxUM+2a
+2rM01Nxk+v1c0uuFalAnJqVQfymHI5sCAwEAAaOCBQcwggUDMIGRBggrBgEFBQcBAQSBhDCBgTA+
+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcDCBhwYKKwYBBAGCqDsDCgR5E3dFTVBSRVNBIFBVQkxJQ0EgTVVOSUNJUEFM
+IERFIEFHVUEgUE9UQUJMRSwgQUxDQU5UQVJJTExBRE8sIFBMVVZJQUwsIFNBTklUQVJJTyBZIFNB
+TkVBTUlFTlRPIERFTCBDQU5UT04gU0FOIEZSQU5DSVNDTyBERTAdBgorBgEEAYKoOwMLBA8TDTA5
+Njg2MDcxNDAwMDEwGgYKKwYBBAGCqDsDAQQMEwowOTQyMDUyMTY4MB4GCisGAQQBgqg7AwIEEBMO
+Q0lOVEhZQSBEQVlBTkEwGgYKKwYBBAGCqDsDAwQMEwpFQ0hFVkVSUklBMBcGCisGAQQBgqg7AwQE
+CRMHTkFSVkFFWjAuBgorBgEEAYKoOwMFBCATHkVzcGVjaWFsaXN0YSAzIGVuIENvbnRhYmlsaWRh
+ZDAzBgorBgEEAYKoOwMHBCUTI0dBTE8gUExBWkEgRU5UUkUgSUJBUlJBIFkgTEFUQUNVTkdBMBkG
+CisGAQQBgqg7AwgECxMJMDAwMDAwMDAwMBcGCisGAQQBgqg7AwkECRMHTUlMQUdSTzAXBgorBgEE
+AYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCYGA1Ud
+EQQfMB2BG2RheWFuYWVjaGV2ZXJyaWE1QGdtYWlsLmNvbTCCAeEGA1UdHwSCAdgwggHUMIIB0KCC
+AcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDIyMjYsY249QUMlMjBC
+QU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIw
+Q0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFM
+JTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0
+cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszEL
+MAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsT
+LkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcT
+BVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdD
+UkwyMjI2MAsGA1UdDwQEAwIFIDAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNV
+HQ4EFgQUZLS6ZwaJ2CZIiD27olW8o7Mz40wwCQYDVR0TBAIwADAaBgkqhkiG9n0HQQAEDTALGwVW
+MTAuMAMCBBAwDQYJKoZIhvcNAQELBQADggIBAMq2eJOZ5Q0WFO9W+BBfuwcxCRe3G3T+zgaMVLf1
+ziHeOzVfa5SOPXygN1lQZ9NKCU0eB/nL1bHziL7Mk037FychBH4HIFFE6mscqi0CJEaMNZdbRG1t
+/2sdUHJLcahlHe26SNBTD2nXb95zFrArjXPmR6Q32ySDeKJu/ZvaeSK6XyGiOccHf4vDW2K7PtJ7
+x9zxbnqK0FP8pI/F6tsMRcSohOlMViAEQWpsRIfpP+QzkkRuo5O1jLnhr8SkYbDlKlqzymjF7m3Q
+ABEKerRV1MqG8XvPJU9JQqumxvhp267cfH87l/VlZpJc12Q16OypzO/ex/c4+0wGEqNizE7z86h3
+Kkw8wEnu1QwkuW0XCqlwJvnz5uSLXukeEOL+EM+wxFi4bu91Vq08h5dB1BRwc8+pjqx8r/4PDaZM
+i8OT3tj2hdEnjpJt/f4bDzWiC/74nBtihRElNodAdv4DIHNQ1I70kTFUfvQAk9LvpDAr0PJSCgxU
+U2AXSCrvaWspOb+RcINjkeuUKtwoDVROunTvRvRhVbuTA/KZpT+hGzuMoYc+ilQ6amx+edRdbDZj
+Cj6jQvvmyhF0+ziJ0+cjXrS8S11+7ZNFOgNjPGz2I6cZTUfgnQwZre4l+B5jszqWmRbghbLwdzHV
+l5CsP/1BJrEzc+KhQnom8Zl/BVJRomSSUkbX
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xsIzlkeUJh4p0AncotKofrV2lcbnqYXoN6VhJ1EsdMnM77MAAJ56rt9tf41FJmHamO4YqsZA5c0i
+fh/RJ2R9s/9XZtB5vnQptPZW+nH9rUQwjg5wMhbFKh2lNLZzZY7i7T0kTyxq2EBqoEJJrDpcPT0S
+yD7LO/eQyaWyKAxSaRCosMTc+5/3lyMH/KbwtD0GDTq6qRyLqoMhTlAmGf/Sa088eLcyAvmpDvAN
+N5QBZuVPbu5ESrk8P9N3XrNkSZytWkDNy4RH8MbcAiZyiNw0X5tYAhCKlpa00AYSy80C95Ujk+QA
+HFQz7ZraszTU3GT6/VzS64VqUCcmpVB/KYcjmw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature696874-Object481660"><etsi:QualifyingProperties Target="#Signature696874"><etsi:SignedProperties Id="Signature696874-SignedProperties318114"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T01:37:54-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>KdFdUehyjIXyAHOxwcWDRPgDs9k=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709601889</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-888448"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1504202601179117003200120010080107206541791170011</numeroAutorizacion>
+<fechaAutorizacion>2026-04-15T09:48:39-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>N&amp;CO Ecuador S.A.S.</razonSocial>
+    <nombreComercial>N&amp;CO Ecuador S.A.S.</nombreComercial>
+    <ruc>1791170032001</ruc>
+    <claveAcceso>1504202601179117003200120010080107206541791170011</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>008</ptoEmi>
+    <secuencial>010720654</secuencial>
+    <dirMatriz>VIA A SANGOLQUI KM3 1/2 EL CARMEN;PB04</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>15/04/2026</fechaEmision>
+    <contribuyenteEspecial>5368</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>MAYTER VALESKA CEDEÑO LOOR</razonSocialComprador>
+    <identificacionComprador>0850472986</identificacionComprador>
+    <totalSinImpuestos>85.73</totalSinImpuestos>
+    <totalDescuento>56.91</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0004</codigoPorcentaje>
+        <baseImponible>85.73</baseImponible>
+        <tarifa>15.000000000</tarifa>
+        <valor>12.88</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>98.61</importeTotal>
+    <moneda>USD</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>98.61</total>
+        <plazo>21</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>000000000050375449</codigoPrincipal>
+      <codigoAuxiliar>64746</codigoAuxiliar>
+      <descripcion>HUMOR MEU PRIME HUMOR EDT FE 75ML LTM NV</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>6.52</precioUnitario>
+      <descuento>2.68</descuento>
+      <precioTotalSinImpuesto>3.84</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>3.84</baseImponible>
+          <valor>0.58</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050361274</codigoPrincipal>
+      <codigoAuxiliar>109127</codigoAuxiliar>
+      <descripcion>HUMOR MEU PRIM HUMOR DES COL FEM 200ML</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>5.86</precioUnitario>
+      <descuento>2.41</descuento>
+      <precioTotalSinImpuesto>3.45</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>3.45</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050449503</codigoPrincipal>
+      <codigoAuxiliar>139961</codigoAuxiliar>
+      <descripcion>HUMOR PRIM GELEIA BANHO PARTI ILUM 75ML</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>5.86</precioUnitario>
+      <descuento>2.41</descuento>
+      <precioTotalSinImpuesto>3.45</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>3.45</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050424100</codigoPrincipal>
+      <codigoAuxiliar>131126</codigoAuxiliar>
+      <descripcion>AVON SECRET FANTASY STORIES EDP FRA 50mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>5.21</precioUnitario>
+      <descuento>2.14</descuento>
+      <precioTotalSinImpuesto>3.35</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>3.35</baseImponible>
+          <valor>0.46</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423990</codigoPrincipal>
+      <codigoAuxiliar>131026</codigoAuxiliar>
+      <descripcion>SECRET FANTASY STORIES COLONIA SPR 125mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.47</precioUnitario>
+      <descuento>1.43</descuento>
+      <precioTotalSinImpuesto>2.04</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.04</baseImponible>
+          <valor>0.31</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423991</codigoPrincipal>
+      <codigoAuxiliar>131027</codigoAuxiliar>
+      <descripcion>LOC PERF CUERPO SECRET FANTASY ST 90mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.47</precioUnitario>
+      <descuento>1.43</descuento>
+      <precioTotalSinImpuesto>2.04</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.04</baseImponible>
+          <valor>0.31</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423722</codigoPrincipal>
+      <codigoAuxiliar>130758</codigoAuxiliar>
+      <descripcion>AVON LATIN ATTITUDE EAU TOILET 50mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>4.16</precioUnitario>
+      <descuento>1.71</descuento>
+      <precioTotalSinImpuesto>2.45</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.45</baseImponible>
+          <valor>0.37</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423689</codigoPrincipal>
+      <codigoAuxiliar>130725</codigoAuxiliar>
+      <descripcion>AVON LATIN ATTITUDE COLONIA SPRAY 125mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.47</precioUnitario>
+      <descuento>1.43</descuento>
+      <precioTotalSinImpuesto>2.04</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.04</baseImponible>
+          <valor>0.31</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423724</codigoPrincipal>
+      <codigoAuxiliar>130760</codigoAuxiliar>
+      <descripcion>AVON LATIN ATTITUDE LOCION PER 90mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.47</precioUnitario>
+      <descuento>1.43</descuento>
+      <precioTotalSinImpuesto>2.04</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.04</baseImponible>
+          <valor>0.31</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050415257</codigoPrincipal>
+      <codigoAuxiliar>127127</codigoAuxiliar>
+      <descripcion>AVON DEO AT ROLL ON LATIN ATTITUDE50mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.47</precioUnitario>
+      <descuento>1.43</descuento>
+      <precioTotalSinImpuesto>2.04</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.04</baseImponible>
+          <valor>0.31</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050548050</codigoPrincipal>
+      <codigoAuxiliar>188029</codigoAuxiliar>
+      <descripcion>AVON CARE COCO CREMA CRUZADA 1L</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>2.60</precioUnitario>
+      <descuento>1.07</descuento>
+      <precioTotalSinImpuesto>1.53</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>1.53</baseImponible>
+          <valor>0.23</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050424007</codigoPrincipal>
+      <codigoAuxiliar>131043</codigoAuxiliar>
+      <descripcion>AT BY AVON LIMPIEZA PROF SHAM 300mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.73</precioUnitario>
+      <descuento>0.71</descuento>
+      <precioTotalSinImpuesto>1.02</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>1.02</baseImponible>
+          <valor>0.15</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423821</codigoPrincipal>
+      <codigoAuxiliar>130857</codigoAuxiliar>
+      <descripcion>AVON SF DREAMS EDP SPRAY ELLA 50mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>4.52</precioUnitario>
+      <descuento>1.86</descuento>
+      <precioTotalSinImpuesto>2.66</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.66</baseImponible>
+          <valor>0.40</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423822</codigoPrincipal>
+      <codigoAuxiliar>130858</codigoAuxiliar>
+      <descripcion>LOCION PERFUMADA CUERPO SF DREAMS 90mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>4.17</precioUnitario>
+      <descuento>1.71</descuento>
+      <precioTotalSinImpuesto>2.46</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.46</baseImponible>
+          <valor>0.37</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423823</codigoPrincipal>
+      <codigoAuxiliar>130859</codigoAuxiliar>
+      <descripcion>SECRET FANTASY DREAMS COLONIA SPRA 125mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>4.17</precioUnitario>
+      <descuento>1.71</descuento>
+      <precioTotalSinImpuesto>2.46</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.46</baseImponible>
+          <valor>0.37</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423830</codigoPrincipal>
+      <codigoAuxiliar>130866</codigoAuxiliar>
+      <descripcion>AVON SECRET COLON SPRAY CUERPO 125mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>4.17</precioUnitario>
+      <descuento>1.71</descuento>
+      <precioTotalSinImpuesto>2.46</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.46</baseImponible>
+          <valor>0.37</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050461857</codigoPrincipal>
+      <codigoAuxiliar>100090</codigoAuxiliar>
+      <descripcion>TODODIA DES HID AMEIX BAU 400ML LTM</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.85</precioUnitario>
+      <descuento>1.58</descuento>
+      <precioTotalSinImpuesto>2.27</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.27</baseImponible>
+          <valor>0.34</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050462198</codigoPrincipal>
+      <codigoAuxiliar>100535</codigoAuxiliar>
+      <descripcion>TODODIA SAB BAR AMEIX BAU 5X90G</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.85</precioUnitario>
+      <descuento>1.58</descuento>
+      <precioTotalSinImpuesto>2.27</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.27</baseImponible>
+          <valor>0.34</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050461853</codigoPrincipal>
+      <codigoAuxiliar>100679</codigoAuxiliar>
+      <descripcion>TODODIA DES SPRAY AMEIX BAU 200ML</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.85</precioUnitario>
+      <descuento>1.58</descuento>
+      <precioTotalSinImpuesto>2.27</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.27</baseImponible>
+          <valor>0.34</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050462195</codigoPrincipal>
+      <codigoAuxiliar>148016</codigoAuxiliar>
+      <descripcion>TODODIA HID AMEIX E BAU MAOS 50ML</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.85</precioUnitario>
+      <descuento>1.58</descuento>
+      <precioTotalSinImpuesto>2.27</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>2.27</baseImponible>
+          <valor>0.34</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000061013947</codigoPrincipal>
+      <codigoAuxiliar>239103</codigoAuxiliar>
+      <descripcion>AVON FH C08 2026</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.10</precioUnitario>
+      <descuento>0.46</descuento>
+      <precioTotalSinImpuesto>0.64</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>0.64</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000061013972</codigoPrincipal>
+      <codigoAuxiliar>239126</codigoAuxiliar>
+      <descripcion>AVON CFT C07 2026</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.10</precioUnitario>
+      <descuento>0.46</descuento>
+      <precioTotalSinImpuesto>0.64</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>0.64</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000061013925</codigoPrincipal>
+      <codigoAuxiliar>239127</codigoAuxiliar>
+      <descripcion>REVISTA NATURA C07 2026</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.03</precioUnitario>
+      <descuento>0.43</descuento>
+      <precioTotalSinImpuesto>0.60</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>0.60</baseImponible>
+          <valor>0.09</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000061013946</codigoPrincipal>
+      <codigoAuxiliar>239128</codigoAuxiliar>
+      <descripcion>AVON FH C07 2026</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.10</precioUnitario>
+      <descuento>0.46</descuento>
+      <precioTotalSinImpuesto>0.64</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>0.64</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000061013933</codigoPrincipal>
+      <codigoAuxiliar>239148</codigoAuxiliar>
+      <descripcion>REVISTA NATURA C08 2026</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.03</precioUnitario>
+      <descuento>0.43</descuento>
+      <precioTotalSinImpuesto>0.60</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>0.60</baseImponible>
+          <valor>0.09</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000061013967</codigoPrincipal>
+      <codigoAuxiliar>239149</codigoAuxiliar>
+      <descripcion>AVON CFT C08 2026</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>1.10</precioUnitario>
+      <descuento>0.46</descuento>
+      <precioTotalSinImpuesto>0.64</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>0.64</baseImponible>
+          <valor>0.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000061022533</codigoPrincipal>
+      <codigoAuxiliar>244408</codigoAuxiliar>
+      <descripcion>REVISTA IMPRESA MI CONSULTORIA C07 2026</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.78</precioUnitario>
+      <descuento>0.32</descuento>
+      <precioTotalSinImpuesto>0.46</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>0.46</baseImponible>
+          <valor>0.07</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423760</codigoPrincipal>
+      <codigoAuxiliar>130796</codigoAuxiliar>
+      <descripcion>AT BY AVON NUTRICION ABS ACOND AC 250mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>7.89</precioUnitario>
+      <descuento>3.24</descuento>
+      <precioTotalSinImpuesto>4.65</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>4.65</baseImponible>
+          <valor>0.70</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423764</codigoPrincipal>
+      <codigoAuxiliar>130800</codigoAuxiliar>
+      <descripcion>AT NUTRICION ABS SHAMPOO SIN SAL 750mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>7.89</precioUnitario>
+      <descuento>3.24</descuento>
+      <precioTotalSinImpuesto>4.65</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>4.65</baseImponible>
+          <valor>0.70</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050424000</codigoPrincipal>
+      <codigoAuxiliar>131036</codigoAuxiliar>
+      <descripcion>MARK MASC EXTRA VOL Y ALAR Blackest 10g</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>5.39</precioUnitario>
+      <descuento>2.21</descuento>
+      <precioTotalSinImpuesto>3.18</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>3.18</baseImponible>
+          <valor>0.48</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050423815</codigoPrincipal>
+      <codigoAuxiliar>130851</codigoAuxiliar>
+      <descripcion>LATIN ATTITUDE ADVENTURE EDP ELLA 50mL</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>13.20</precioUnitario>
+      <descuento>5.41</descuento>
+      <precioTotalSinImpuesto>7.79</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="AVON"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>7.79</baseImponible>
+          <valor>1.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050294005</codigoPrincipal>
+      <codigoAuxiliar>80936</codigoAuxiliar>
+      <descripcion>EKOS POLPA CRP CASTANHA 400ML TUT LATAM</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>14.34</precioUnitario>
+      <descuento>5.88</descuento>
+      <precioTotalSinImpuesto>8.46</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>8.46</baseImponible>
+          <valor>1.27</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000061046562</codigoPrincipal>
+      <codigoAuxiliar>259851</codigoAuxiliar>
+      <descripcion>LIBRO FRAGANCIADO TD CIRUELA Y FLOR</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.78</precioUnitario>
+      <descuento>0.32</descuento>
+      <precioTotalSinImpuesto>0.46</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="MARCA" valor="NATURA"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>0.46</baseImponible>
+          <valor>0.07</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>000000000050540600</codigoPrincipal>
+      <descripcion>CARGO OPERATIVO</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>3.91</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.91</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0004</codigoPorcentaje>
+          <tarifa>15.000000000</tarifa>
+          <baseImponible>3.91</baseImponible>
+          <valor>0.59</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">VALESKACEDENOLOOR@GMAIL.COM</campoAdicional>
+    <campoAdicional nombre="NATURA">30.40</campoAdicional>
+    <campoAdicional nombre="AVON">51.42</campoAdicional>
+    <campoAdicional nombre="Gran Contribuyente">NAC-GCFOIOC21-00000911-E</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature942913" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo445733">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID43856" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature942913-SignedProperties94488">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yr88AjOBdnSWXWpzPT/b4Kt4LxY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1381409">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vdPASR5cmfRacPfpnL07r9o5v5U=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-586257" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>FNMq+RwnO8UVwEEK4aC8BJele+U=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue704823">
+LLLvoXrwocYo1A5hlF8No7HnS+K57Vr1j+LtrlEcnwX8NJ4QCAB8nvZmmU2pMZ6bCal/VCZIOLQ5
+1uDs+GarMK43qndeExYKul90/SoGRGwpIeJ3QDtiYyADNtQqiROYpZhco3U66OkWQ5iffqSSKiVm
+xpIncAgBD/jmZLIs9ceSY/frfmtL1xVFUvVmFTKd06uKJd8+LTTvZU6LiBDo6R73aoPHf5DaWGxk
+qdg19nTX1QmGFRtoTJqWp9DXfBZ5O/iMd38aawrhHAlivbViygDOXHn3DMkTWvGOuXIkjQpsT6TS
+W3HDincSQ2cN0KdIa0OSaPpCFxWIk0hOi3VegQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1381409">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKyjCCCLKgAwIBAgIIQDSKHnTlyEwwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwODA0MjA1MDA2WhcNMjcwODA0MjA1MDA2WjCB
+rDEqMCgGA1UEAwwhTUFSSUEgR0FCUklFTEEgUEVOQUhFUlJFUkEgSUJBUlJBMSAwHgYDVQQFExcx
+NzE0MTE3Mjg4LTA0MDgyNTE1NTk1NTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDECWj5XKRBsimGKEFKlDW55aaIH2yG
+L50thYKWDzyd2xRdLS1l6OsziYNff7b+a7iGARw9UHaEc8kRDoRvmtEomFsHdhz8Kuuvi4BzJWtI
+pkL2NKeKNEG2FETHadBsA1cJaumvH1M3mkTLT1FKem6oIRm8iogHyNtYmsz4GtRu44liqy3fanHT
+fUlbu4jq13kARJmutR5OUcUHd6qTexVqBsI2lFD3r4HFIIwQLkLZB+pk5aT1SJrggdiGSHCSU7/2
+jr0WE331/sxnf7AvTU7++mSt1hQ/TdX+Pdj85kMLwtP0NhcVqdT6hB0kM+xaQ6Xil+QRKn1uUAQA
+LHmVs40FAgMBAAGjggX/MIIF+zAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsK
+S1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAkBgNVHREEHTAbgRln
+YWJpcGVuYWhlcnJlcmFAZ21haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBU
+MFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUA
+cwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcC
+ARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMv
+Tm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVw
+cmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYD
+VR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNh
+MmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkG
+A1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3Js
+Mi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNz
+dWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDMB0GA1UdDgQWBBT+uyLxBZEg5QwIRUnm580oe7y3pzArBgNVHRAEJDAigA8y
+MDI1MDgwNDIwNTAwNlqBDzIwMjcwODA0MjA1MDA2WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnID
+BQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxNzE0MTE3Mjg4MBkGCisGAQQB
+gqZyAwkECwwJU0FOR09MUVVJMBEGCisGAQQBgqZyAyIEAwwBLjAkBgorBgEEAYKmcgMHBBYMFFZJ
+QSBBIFNBTkdPTFFVSSBQQjA0MB4GCisGAQQBgqZyAwIEEAwOTUFSSUEgR0FCUklFTEEwHwYKKwYB
+BAGCpnIDIAQRDA8wMDIwMDEwMDEwNDQ1NjYwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGC
+pnIDDAQJDAdFQ1VBRE9SMBsGCisGAQQBgqZyAwMEDQwLUEVOQUhFUlJFUkEwIgYKKwYBBAGCpnID
+CgQUDBJOWUNPIEVDVUFET1IgUyBBIFMwHQYKKwYBBAGCpnIDCwQPDA0xNzkxMTcwMDMyMDAxMBEG
+CisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBklCQVJSQTAaBgorBgEEAYKmcgMIBAwM
+CjA5NTg2MjE1OTUwDQYJKoZIhvcNAQELBQADggIBAKTcIETl7UAVbCFIoYWCoT9rr+zQPzPUg2Sd
+bogWVa9o9JTsVrzk4T0m9R/JtC+6PQ5+/RxlbahVVCgVDL8E9jV+TrqIAoSszFFPxiSddnsb/gEQ
+mlY+I6RIZ6VWnt8JIkygQMLha8N954CI1gyZuEybvD5DW3t+WRhAYjVflcER2wg4dfmHBEcWN1Vs
+XyVovNYr/jWdhPVT2F/0s6c8Is2W74A72C33HCiEXEY4HnihYKnPYIekLD7t4ZAT5+6jGCuzTcbj
+p5JtHZmapkw2gcA+PDeAZ4CVYbI71A+zNaaOhvxpnMgzDAsgoJZEG1QjgZFolqYVL5W3hDymvO1S
+jB+8N79Nn+MjXY0fXfNpIWkttjaQYou+2pzHUHBwnvr5U+HXxPrRe8HyW/te/EC2DVZbhlxYzvOW
+R6rteb/yT+SbMuUjg1bgUDvyixe1M5pk85dg4i0QaNvjkX45GF6tGguIgZ9VPznIerEy2Xt1xlAH
+0scHyvUwJDrjHA6t8ha09qZ8IGl/U/yG2qeqWIixge4UFM/gTgUa56caJkZqVAlnkN/ZHd8k+IYn
+nuDg2Bdjlo3UWEvNClaeFaIjUKLZR18BUTu8l7Hzy9dGklNHn/D/KyCxC4T6bNKwyZqb1Gnp1two
+h74Z0BjOhlOotFRNAG8xrmqPBWf1XHhT16QEN/0f
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xAlo+VykQbIphihBSpQ1ueWmiB9shi+dLYWClg88ndsUXS0tZejrM4mDX3+2/mu4hgEcPVB2hHPJ
+EQ6Eb5rRKJhbB3Yc/Crrr4uAcyVrSKZC9jSnijRBthREx2nQbANXCWrprx9TN5pEy09RSnpuqCEZ
+vIqIB8jbWJrM+BrUbuOJYqst32px031JW7uI6td5AESZrrUeTlHFB3eqk3sVagbCNpRQ96+BxSCM
+EC5C2QfqZOWk9Uia4IHYhkhwklO/9o69FhN99f7MZ3+wL01O/vpkrdYUP03V/j3Y/OZDC8LT9DYX
+FanU+oQdJDPsWkOl4pfkESp9blAEACx5lbONBQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature942913-Object964857"><etsi:QualifyingProperties Target="#Signature942913"><etsi:SignedProperties Id="Signature942913-SignedProperties94488"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-15T16:47:47.208+02:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>q5o6dbawbIqpRlA8iQ0zWFfvJn4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>4626474580631210060</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignerRole><etsi:ClaimedRoles><etsi:ClaimedRole>emisor</etsi:ClaimedRole></etsi:ClaimedRoles></etsi:SignerRole></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-586257"><etsi:Description>Factura firmada</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

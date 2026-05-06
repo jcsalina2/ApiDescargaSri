@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601099307777100120020010000008050000321411</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T12:32:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>VERANERALOU EC S.A.</razonSocial>
+	    <nombreComercial>VERANERALOU EC</nombreComercial>
+	    <ruc>0993077771001</ruc>
+	    <claveAcceso>1804202601099307777100120020010000008050000321411</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>002</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000000805</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / AV.CARLOS JULIO AROSEMENA PB Y KM 2</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>18/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / AV.CARLOS JULIO AROSEMENA PB Y KM 2</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>KARIANA ARGENZIO</razonSocialComprador>
+	    <identificacionComprador>0923083190001</identificacionComprador>
+		<direccionComprador>GYE</direccionComprador>
+	    
+	    <totalSinImpuestos>226.09000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>226.09</baseImponible>
+				<valor>33.91000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>260.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>260.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>CAM919 S.BLA</codigoPrincipal>
+		<codigoAuxiliar>CAM919 S.BLA</codigoAuxiliar>
+      	<descripcion>BLUSA VERALOVER SMALL-BLANCO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>60.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>60.00000</baseImponible>
+          <valor>9.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>CC6751 S.MEN</codigoPrincipal>
+		<codigoAuxiliar>CC6751 S.MEN</codigoAuxiliar>
+      	<descripcion>VESTIDO VERALOVER SMALL-MENTA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>103.480000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>103.48</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>103.48000</baseImponible>
+          <valor>15.52</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>LVBA-0375 PLA</codigoPrincipal>
+		<codigoAuxiliar>LVBA-0375 PLA</codigoAuxiliar>
+      	<descripcion>CARTERA VERALOVER PLATEADO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>62.610000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>62.61</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>62.61000</baseImponible>
+          <valor>9.39</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>TELAVERA</codigoPrincipal>
+		<codigoAuxiliar>TELAVERA</codigoAuxiliar>
+      	<descripcion>FUNDAS DE TELA VERALOVER</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.001000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SHBAG</codigoPrincipal>
+		<codigoAuxiliar>SHBAG</codigoAuxiliar>
+      	<descripcion>SHOPPING BAGS</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.000100</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature358530">
+<ds:SignedInfo Id="Signature-SignedInfo863453">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID89528" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature358530-SignedProperties53675">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8ftGL6owi1y4B90w+bp4rr33IU4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate776292">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>JgItXg9iIhJu2BVx7jEFgkIL59M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-497115" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>mFB6ZFlCtw897CI4u3HzZbmCfSM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue381319">
+SX1IVj3REKKXOXWOQVSF8Vkxqu88uK6/tkisPTJxC8acHdpDfC12kA9cn3F/ksvq43XcVOBBF6oK
+U7Hrak6L2cBYHbTJxY+fvFLw/Epw4+jiNzG/bhIJ/JuKS2iWQ2XjZEmD+PGE52/eMW4jP1PqNaUu
+dTgAju5zvBlYdjqk3/EIUWcqMJG+3pxD085hzjlgERcFoSlnQlmThZIqMrkvU2c1G+4YYhjsG1qX
+F64knm30KDHvUuu4CHR6isMCweILNmnJI8rjXqcYa4Tx9ss5GDYT8wmnRn8syz2P3WcYZD54af/N
+mxyt4FSU8k012s9O12cq0gOb2Smm6GX5j7uHAA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate776292">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKmTCCCIGgAwIBAgIIC5vkNBsp3u8wDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTA4MTIyNjM5WhcNMjgwOTA3MTIyNjM5WjCB
+nTEbMBkGA1UEAwwSUEFVR0VOIE1PTkNBWU8gTE9VMSAwHgYDVQQFExcwOTExMjEwNzYzLTA4MDky
+NTA3MzYyOTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC+hMCsMluTiUCsApsgmBdwxrNCayUYLgj4TThG7zqY1NztrFlW
+iyXtP/4P9ybXx6lrCnypCi0jpB14SXVhlot3laHzrQdc3/5PwlqGUBNjns5lsu3emlYabQmmxWoV
+GD4DyDnpSov8B1svkIT+7Lc4v4FcWXpc6ycem/0UnuK14MZYNp8o5VDjD6gNmKAQkUOogVdHD7QC
+3HYtF34nz64THrXhBuJUYxRe3IVRi0FByXqySlif3Jtm+oIVK7cZ8F+HX3QGlZpkhIVVsOvTaFnX
+j1XSA1UQGJeDi7hKfjynmv6NuYimuPGksgvhjI1iBIBRMchqQng9G6a1NP+Hg1uPAgMBAAGjggXd
+MIIF2TAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsG
+AQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVj
+L2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAgBgNVHREEGTAXgRV2ZXJhbmVyYS5lY0BnbWFp
+bC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMA
+ZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABM
+AGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2Vy
+dGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBk
+ZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiG
+Nmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKB
+n6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNV
+UklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0
+cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHd
+oIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2Ev
+cHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0O
+BBYEFImQ64RQT8d6RPf0UgKR5D0dzVtuMCsGA1UdEAQkMCKADzIwMjUwOTA4MTIyNjM5WoEPMjAy
+ODA5MDcxMjI2MzlaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJB
+TDAaBgorBgEEAYKmcgMBBAwMCjA5MTEyMTA3NjMwFwYKKwYBBAGCpnIDCQQJDAdDSE9OR09OMBEG
+CisGAQQBgqZyAyIEAwwBLjAXBgorBgEEAYKmcgMHBAkMB1NPTEFSIDEwFgYKKwYBBAGCpnIDAgQI
+DAZQQVVHRU4wHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDEwNDA2MDkwEwYKKwYBBAGCpnIDIQQF
+DANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHTU9OQ0FZTzAi
+BgorBgEEAYKmcgMKBBQMElZFUkFORVJBTE9VIEVDIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTMw
+Nzc3NzEwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBMGCisGAQQBgqZyAwQEBQwDTE9VMBoGCisGAQQB
+gqZyAwgEDAwKMDk5ODE3NzE0NzANBgkqhkiG9w0BAQsFAAOCAgEAo4Unzb5y+aXfFgG28PpHl7KV
+H2ZM8JKgL4tlthwpmnmRuFxocDGstXXdtPVHNtZpSjoejVyNCrOvrxJpUH2FQQljEHzOtPYLkpdz
+Y1a9LTOB7wlX1u6PjAJIdkLDVRq4L3Se2RNklov84RjeEr1LemMJEWxf5zo1kAfr91XOF52ymOYn
+Uhn24ilFpM7TZqep0tjIbG1uAryFz529eK7dTX6YDXow6WzXNvf1AN7SWKUVi915s2SUiOfX5aQ1
+ZAO9ejX6oHUTuz1bu55H3KdRYNIevkoHpVpfBdbDUaPap+8LoZXOF4bJP1Syh+NYZtDP6rUWNX/Q
+T2jW5t5l3I4TLJZnP85NRQA1bVuvAQoHvSo7iuyCUYCXjk2XYOt5/0owleQ1LbgO6WtrqvmcuSai
+UiWo+9NIp8qel8w+xiJV94MJ9JlaXKZ+6qEKCzAi0ylgOEWQOTeos4kKEol/B818ApuA0K3s9KOD
+LiW1jW2D492sw3/WtWkAVa4FSte9IoO+c3ZZXA3FlEV2Di/DtjfPQkalAEZsa/vnHhATeZBe2z4l
+MqjOfkhHi9zYLxOC/cHOt2M/ZmO7afDh682P8FtoswXXSUfdclpocJi8vFIQDGS1dFDXcFJP20Cb
+rLx4iKx+kO33veoeAJswuTQ30PaOa3IiGCY0QL2UzRvPZLq2IXM=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+voTArDJbk4lArAKbIJgXcMazQmslGC4I+E04Ru86mNTc7axZVosl7T/+D/cm18epawp8qQotI6Qd
+eEl1YZaLd5Wh860HXN/+T8JahlATY57OZbLt3ppWGm0JpsVqFRg+A8g56UqL/AdbL5CE/uy3OL+B
+XFl6XOsnHpv9FJ7iteDGWDafKOVQ4w+oDZigEJFDqIFXRw+0Atx2LRd+J8+uEx614QbiVGMUXtyF
+UYtBQcl6skpYn9ybZvqCFSu3GfBfh190BpWaZISFVbDr02hZ149V0gNVEBiXg4u4Sn48p5r+jbmI
+prjxpLIL4YyNYgSAUTHIakJ4PRumtTT/h4Nbjw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature358530-Object790968"><etsi:QualifyingProperties Target="#Signature358530"><etsi:SignedProperties Id="Signature358530-SignedProperties53675"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T12:32:35-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>UMbNXiAe/NiI4xwx+8FhZ/U/rr8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>836513068252520175</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

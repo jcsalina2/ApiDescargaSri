@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601139002320700120340010002878308765432116</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T12:05:05-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.0.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>COOPERATIVA DE TRANSPORTE TERRESTRE CARLOS ALBERTO ARAY</razonSocial>
+        <nombreComercial>COOP. CARLOS ALBERTO ARAY</nombreComercial>
+        <ruc>1390023207001</ruc>
+        <claveAcceso>0604202601139002320700120340010002878308765432116</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>034</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000287830</secuencial>
+        <dirMatriz>VARGAS TORRES 072 Y WASHINGTON</dirMatriz>
+		<agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>06/04/2026</fechaEmision>
+        <dirEstablecimiento>VARGAS TORRES 072 Y WASHINGTON</dirEstablecimiento>
+         <contribuyenteEspecial>261E</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>ZAMBRANO CEVALLOS BENITO XAVIER</razonSocialComprador>
+        <identificacionComprador>1310542673</identificacionComprador>
+        <totalSinImpuestos>20.70</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>20.70</baseImponible>
+                <valor>0</valor>
+            </totalImpuesto>
+	</totalConImpuestos>
+		<propina>0.00</propina>
+    	<importeTotal>20.70</importeTotal>
+    	<moneda>DOLAR</moneda>
+		<pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>20.70</total>
+            </pago>
+        </pagos>
+        <valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>PRODB101</codigoPrincipal>
+            <codigoAuxiliar>PRODB101-B101</codigoAuxiliar>
+            <descripcion>SERVICIO DE PASAJE: QUITO - CHONE</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>20.70</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>20.70</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.00</tarifa>
+                    <baseImponible>20.70</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Direccion">-</campoAdicional>
+        <campoAdicional nombre="Email">-</campoAdicional>
+        <campoAdicional nombre="Fono">-</campoAdicional>
+        <campoAdicional nombre="Usuario">ZAMBRANO PARRAGA ALFREDO JOSE</campoAdicional>
+        <campoAdicional nombre="Observacion">-</campoAdicional></infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature378700"><ds:SignedInfo Id="Signature-SignedInfo261707"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="SignedPropertiesID715879" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature378700-SignedProperties491269"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>XyUUrfsQLOnWh1Q9UFIVuCyhJxU=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate236132"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>s6TOK/upOHD/7XJE4aHfQM3SVs0=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-858930" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>m44lCeU0RWtx5xXEJvsbNNoloJQ=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue340810">BszRyPbqTlyBLFHBTDF2ETktkK2g5QU7oi6SBRkzFAAReNr90zOdY3rsuAZFG8fWg/Q4eUD1+QsB5+w+eg2bcoKthsHysjFESFH84OXUsSFiXceLsKeZ+Nruw2+nJ18QVFiZ5mV5xQ+pPm0SXJM23snR3rirCQDEyYPX8vAT5T3T2FF9Nu9syWW5cWRHss6x5khIwaLhiWu2rMxJnPPRrDbKJixopVtzUwQ5R9QAh8+RatzWhUKPEjUzRfAsXc41pdswx3en4J+GbhEJc8KrgTtkl02Lg8lKVW8JfL1S18euXNsrRobGwLcrjQpB0DsQdHZER2BrNN6dcB46w4sApsHDdOLPxll6XOrrT1mLvLdwHEFvBcXCptilO+ul4iMfh2KQWVtm2Gp/kHY0q4PjFpfkkt69Y72FZWdfenxe1vgjYDqx3NI8VhqUUImeQ1SoD/ohoaZq99q8FXRG31dSAK8aVr3GJo3cdoSuuxCjOe+AoJ+qTDgRI0J5PgcDj6/P</ds:SignatureValue><ds:KeyInfo Id="Certificate236132"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>xw4sFxCmXofzA17e2QMa/uils6hcoXLxgYEqFNxYl36TgSLgq3w6nGfH4BXNsjcg8Ntvlr4Y5Gy6uBq33r6zUeCnqhVoa/mspynylhQ/d2VzxCJZE4zzX6zn1XKfye+c2zG8bHUQgyFSFZLpTtRHWJJc5BUINwx2nJiNVaqi8uHa7K68YKetBxto0C9j5bt+cFxpXwt7jF7t75t7QmZ1mlwQb65C3B3hl5BtH1sNU0bodpSM8huvzFnCIiDEo1/jci7g0Xj+DUHo+7D0NdQhbGPQbpj74Xy7bmUxgEVnr82Cen/T7VgJSeBkBGiV8Fhp8PX51PhrY8J9Lm7x+IJRZ6ugeGr8E5j/XDNvbtPy8vlarIzPzjLZrOPrScmbGDdnauDadVJowDY0EaNyp6CB1d8o/U/zABN28oGZ4nR14nzejNMo2W5kLoYIVawOt8w+5u1IYCetxCbD/sOZa1nDnpMC/GiBTu5XrUtwWdNTA5KgsJyh9idOwwr3zamQZYHn</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature378700-Object777458"><etsi:QualifyingProperties Target="#Signature378700"><etsi:SignedProperties Id="Signature378700-SignedProperties491269"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T12:05:03.v-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>QvB9dEl3ndfrbKax74YSVv12va4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,serialNumber=1792601215001</ds:X509IssuerName><ds:X509SerialNumber>998929059295442605284123027</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-858930"><etsi:Description>contenido comprobante</etsi:Description><MimeType>text/xml</MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

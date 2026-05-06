@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601099340205000120019010000035541234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T18:03:54-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>NACION TEXTIL NXTL S.AS.</razonSocial>
+    <nombreComercial>NACION TEXTIL NXTL S.AS.</nombreComercial>
+    <ruc>0993402050001</ruc>
+    <claveAcceso>1304202601099340205000120019010000035541234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>901</ptoEmi>
+    <secuencial>000003554</secuencial>
+    <dirMatriz>ALAMOS NORTE- EDIFICIO ALAMOS CENTER</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/04/2026</fechaEmision>
+    <dirEstablecimiento>ALAMOS NORTE- EDIFICIO ALAMOS CENTER</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>KAPICCHI</razonSocialComprador>
+    <identificacionComprador>0993377775001</identificacionComprador>
+    <direccionComprador>HOTEL BELLINI -PUERTO SANTANA</direccionComprador>
+    <totalSinImpuestos>120.87</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>120.87</baseImponible>
+        <valor>18.13</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>139</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>59</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>57</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>23</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>468</codigoPrincipal>
+      <codigoAuxiliar>468</codigoAuxiliar>
+      <descripcion>CAMISA COLUMBIA  L NEGRO</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>33.043478</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>66.09</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>66.09</baseImponible>
+          <valor>9.91</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>473</codigoPrincipal>
+      <codigoAuxiliar>473</codigoAuxiliar>
+      <descripcion>CAMISA COLUMBIA  XL NEGRO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>33.043478</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>33.04</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>33.04</baseImponible>
+          <valor>4.96</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>W030-50{S}[U]</codigoPrincipal>
+      <codigoAuxiliar>W030-50{S}[U]</codigoAuxiliar>
+      <descripcion>CAMISETA POLO BLANCO OP S</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>10.869565</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>21.74</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>21.74</baseImponible>
+          <valor>3.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="vendedor ">ALDAZ VASCONEZ MARIA FERNANDA</campoAdicional>
+    <campoAdicional nombre="correo ">info@kapicchi.com</campoAdicional>
+    <campoAdicional nombre="ciudad ">SAMBORONDÓN</campoAdicional>
+  </infoAdicional>
+<Signature Id="Signature-045a46bf-22f1-4cdb-8594-88fe1918f7a8" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference Id="Reference-cadd9f28-ceaf-4658-a8df-fe1d9567d64e" URI="#comprobante"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>C8tU9HNjXzjV1uduAgMD0mnx1V0=</DigestValue></Reference><Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-045a46bf-22f1-4cdb-8594-88fe1918f7a8"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>4gKy++W8VgqCVID0nqRk/E5cAi0=</DigestValue></Reference><Reference URI="#SignedProperties-Signature-045a46bf-22f1-4cdb-8594-88fe1918f7a8" Type="http://uri.etsi.org/01903#SignedProperties"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Rk2DRgH/5h3+EyVEu343QN6kfWQ=</DigestValue></Reference></SignedInfo><SignatureValue>iTXCYjGy747UnmyJ02XEh6zmisWcRz0PQ4R1qHzAf/HgbOB2dsVIrG/SPHPfeaUDAAtEHisuj2MX6uBhm88FC8eqZSFew8MMesxeCjtfNJrNE0fkBveOrACCNxFVmy3F/N0eurylA6SCMLLhaij0V+McmOUDZCOeLJsYFE8+5OFipTps8FYS2HTIH+Rw/epwzBn9vk26G0VYvNah3bCJWzaqRi1EMcNqv5Ig4qt09/vTQ2HqXXyUGErXOKW1PFcIuBGP0IDPJTW84P5SX2MtRJ5GRhEIyFes2y5x1R56eVkD/zDxH6cPKmxMMqcb0/FaxlFm3nY55hNuAAGFKr+BMg==</SignatureValue><KeyInfo Id="KeyInfoId-Signature-045a46bf-22f1-4cdb-8594-88fe1918f7a8"><X509Data><X509Certificate>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</X509Certificate></X509Data><KeyValue><RSAKeyValue><Modulus>u/beb29bpWEcAXiYsz9EVi9ThHSwud0FPQ6cRb6R57W/FAEBwhepKkav3QYPQNdKkAzv1W/zIunvgNxceNTwQ14iOkEBdnfB8P29CXVxOs937+2qS17BcOiX3YFnyf1NAaAvAbKmz/urVuvvhwa3STETqd4SrEqZGgTU+8uWngIYCeuRAvH1Fm3kuUCZV0/i4sHrRdBCVU2zyVcgM42aSVzrPx2nD9r634r5PDVpH0Jk1B9b80HgT76ztwyyiUZQaiF60YemdCtMNL/z9rJVJa9QNkFTGjRr+kA3VoaHrnvXR7TDxa6cLp9n12W+LSMIVhPorAx2o4e/N/gcVAwTWw==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo><Object Id="XadesObjectId-dc69d1fd-272d-4fd4-bbb3-9968a2a5a0b1"><xades:QualifyingProperties xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="QualifyingProperties-a59715cb-5ce1-4a76-a1c5-c4a1c97402ae" Target="#Signature-045a46bf-22f1-4cdb-8594-88fe1918f7a8" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#"><xades:SignedProperties xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="SignedProperties-Signature-045a46bf-22f1-4cdb-8594-88fe1918f7a8"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-13T18:03:52-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>UBKB7YwaGYRSTO5ZKV7PYUZ5brg=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=#130f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>4144040567620799168</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-cadd9f28-ceaf-4658-a8df-fe1d9567d64e"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></Object></Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

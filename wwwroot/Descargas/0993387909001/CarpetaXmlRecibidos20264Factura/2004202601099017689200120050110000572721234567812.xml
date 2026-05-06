@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202601099017689200120050110000572721234567812</numeroAutorizacion>
+<fechaAutorizacion>2026-04-20T14:16:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>GERONIMO ONETO GERONETO S.A.</razonSocial>
+    <nombreComercial>GERONETO S.A.</nombreComercial>
+    <ruc>0990176892001</ruc>
+    <claveAcceso>2004202601099017689200120050110000572721234567812</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>005</estab>
+    <ptoEmi>011</ptoEmi>
+    <secuencial>000057272</secuencial>
+    <dirMatriz>KM 11.5 VIA A DAULE - AV. 43 NO (TECAS) Y AV. LUIS ROBLES PLAZA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>20/04/2026</fechaEmision>
+    <dirEstablecimiento>KM 11.5 VIA A DAULE - AV. 43 NO (TECAS) Y AV. LUIS ROBLES PLAZA</dirEstablecimiento>
+    <contribuyenteEspecial>198</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <guiaRemision>005-011-000060152</guiaRemision>
+    <razonSocialComprador>ASTECNAVIND SAS</razonSocialComprador>
+    <identificacionComprador>0993387909001</identificacionComprador>
+    <direccionComprador>GUASMO NORTE COOP 1 DE MAYO</direccionComprador>
+    <totalSinImpuestos>989.57</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>989.57</baseImponible>
+        <valor>148.44</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>1138.01</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>1138.01</total>
+        <plazo>0</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>003096</codigoPrincipal>
+      <descripcion>TUBO NEGRO S/C CED80 10" X 15.09MM X 6.00MT</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>494.782610</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>989.57</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>989.57</baseImponible>
+          <valor>148.44</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="EMAIL">contabilidadastecnavind@gmail.com</campoAdicional>
+    <campoAdicional nombre="DIRECCION">GUASMO NORTE COOP 1 DE MAYO</campoAdicional>
+    <campoAdicional nombre="PLAZO_PAGO">CONTADO</campoAdicional>
+    <campoAdicional nombre="VENCIMIENTO">20/04/2026</campoAdicional>
+    <campoAdicional nombre="REFERENCIA">FAC-01-357025</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature429968">
+<ds:SignedInfo Id="Signature-SignedInfo407604">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID952023" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature429968-SignedProperties829732">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ndvg2FmSsqgF5GPgVA2R56jxiXY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate720109">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>+Bfzhhj/b7IUON0xR8KDF2tZHsk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-199353" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ZIN5E7Bn6XCXyTyQjPXpmuL5xDM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue517236">
+BMIUxz7zggRDSx8BdKAgWKaJk9Y/QhpnKWi/prVSyYLHNKDYOXpS7DFJQjQRQdtQ2HUEMkmwSx5v
+12yUw7ujC+xYwR7v5/BBuy1oEUC+8N4ameRSUcP2Kzpfafs/TCAT9i2cHVijgmAuQw/xBW0JBcN8
+9DTyBGqeNBRO0oY9vkBU7zP5cjNsWcm+07HLr5GTNQ8eGOzJoZVisPu2UQlz1eueLkypvlxhf8Y6
+kSmBjr98PHWnbswjr73doimtKUXpCn5AQemADib9MeB6da1JLSGHauzoOZFaJ9RiDgVDSA6XBRQ4
+VZcldNe2fevC1kk0Cz5hCHttzuYv21LWO9jINA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate720109">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKAzCCB+ugAwIBAgIEZefQqjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI2MDIxMjE0NDMyMVoXDTI4MDIxMjE1MTMy
+MFowgbExCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE1MBEGA1UEBRMKMDAwMDcxMDA1NDAgBgNVBAMTGUpVQU4gSkFWSUVSIE9O
+RVRPIFBFUkVJUkEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDCxNvmmeRal8ZBHMSG
+505oQ6suX8IdTQ211DEk95+OuKxRjcRI74avh+TCsL3PPSAMhNFAfaXXDpr2+VmgBVMFuaijHVkx
+PdeCFGM8NWhpIUgRMmeD5mkTD2TYRr4OdmB+lM7uIGDcLLT2MTlgwHQNzCkFg5RMKMW56yfINr1C
+3RTQDF0DrDzykOmrIFhmBPtg+UNfzz71trlypWNteb/1VM0VJafGa4OO9RR8vyGCP6QGzDmZU8DZ
+fALlwf+jYJSZBgBtI297E6ID0y9GbsPeornrHanXrF2l9XktcBOQEbmWtdS6As4OkrHzQKAsRa0B
+jm5KpOY4lO/BExvL7mVvAgMBAAGjggUvMIIFKzALBgNVHQ8EBAMCBsAwZwYDVR0gBGAwXjBcBgsr
+BgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRpY2Et
+Y2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsG
+AQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2Nz
+cDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwMCwGCisGAQQBgqg7AwoEHhMcR0VST05JTU8gT05FVE8gR0VST05FVE8gUy5BLjAd
+BgorBgEEAYKoOwMLBA8TDTA5OTAxNzY4OTIwMDEwGgYKKwYBBAGCqDsDAQQMEwowOTE0Nzk4ODA2
+MBsGCisGAQQBgqg7AwIEDRMLSlVBTiBKQVZJRVIwFQYKKwYBBAGCqDsDAwQHEwVPTkVUTzAXBgor
+BgEEAYKoOwMEBAkTB1BFUkVJUkEwIgYKKwYBBAGCqDsDBQQUExJHRVJFTlRFIEZJTkFOQ0lFUk8w
+OAYKKwYBBAGCqDsDBwQqEyhVUkIuIFJJVklFUkEgQ0xVQiBLTSAzLjUgVklBIFNBTUJPUk9ORE9O
+MBkGCisGAQQBgqg7AwgECxMJMDQzOTA2MjYyMBsGCisGAQQBgqg7AwkEDRMLU0FNQk9ST05ET04w
+FwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElW
+TzAfBgNVHREEGDAWgRRqam9uZXRvQGdlcm9uZXRvLmNvbTCCAeEGA1UdHwSCAdgwggHUMIIB0KCC
+AcygggHIhoHWbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDIzMzEsY249QUMlMjBC
+QU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIw
+Q0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFM
+JTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0
+cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszEL
+MAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsT
+LkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcT
+BVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdD
+UkwyMzMxMCsGA1UdEAQkMCKADzIwMjYwMjEyMTQ0MzIxWoEPMjAyODAyMTIxNTEzMjBaMB8GA1Ud
+IwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0GA1UdDgQWBBTnN/+YzFBQFIp0rBUsoz1HxdAv
+KTAJBgNVHRMEAjAAMBoGCSqGSIb2fQdBAAQNMAsbBVYxMC4wAwIEMDANBgkqhkiG9w0BAQsFAAOC
+AgEAJqeGRhfwhtlI+K1ooia7L844REkPe3gkyFAYZcy4ZQTIl3NdDUtf9s/g7NLUlTnK2t9FBkhS
+Ev7sUkGSzS9ksxrHUGKgDtkB0ell5yJ3qkjT7We4smxadZ8mGPXmmDPnRiGuCSwkBp9xMV2h7kRc
+e8r/BFQ+RjjuwM28XM0sa6if3+xcKwLz2DrAt8YYXJcpVh2y1tiV2NdCobK7eIuV7GURcaClFHFq
+U8WoeETVYj1x2GKvd9Vh/vxxy+hyMjAJ03m9O/m436fLx1/tNnl4Ouv6teYKy+8Oj/bq0eC6QxF9
+sQISIMWHy7bGyC7XpLZzc6HAJA1ePqc1ycZQs9ACCUGQub/8V4dSsA5IEWTz81hE1kbw/aiHQC4I
+pcI3TorXJshjPVAqfCZTFOEs1Lt+jfvWUDwZXahJpGrMrL22M/EQ/ZKlA5L6zOtmdT0pl2nGx6zX
+F5zcSNz0Z05l8W7jmIjWZOPTTaSNa7Eys7DBP61B8oJJnCGlDjx/6zzwXkJZVf2ynfOaBWqIPm2M
+bIvDVnG+7vMELQXCym1w3TM8UR/gNlOxgVD+eZHR80TrHEiyv5rtIabvdmjf/T3L/DVL4Ro8NcZB
+r4LHMcAQ6EmeF666dpp60KvdM2E6CWSM249eSqAWnVdKASOiRWnAaZQmKtVdK5JbvGWfkBWjVliY
+0NA=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wsTb5pnkWpfGQRzEhudOaEOrLl/CHU0NtdQxJPefjrisUY3ESO+Gr4fkwrC9zz0gDITRQH2l1w6a
+9vlZoAVTBbmoox1ZMT3XghRjPDVoaSFIETJng+ZpEw9k2Ea+DnZgfpTO7iBg3Cy09jE5YMB0Dcwp
+BYOUTCjFuesnyDa9Qt0U0AxdA6w88pDpqyBYZgT7YPlDX88+9ba5cqVjbXm/9VTNFSWnxmuDjvUU
+fL8hgj+kBsw5mVPA2XwC5cH/o2CUmQYAbSNvexOiA9MvRm7D3qK56x2p16xdpfV5LXATkBG5lrXU
+ugLODpKx80CgLEWtAY5uSqTmOJTvwRMby+5lbw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature429968-Object958745"><etsi:QualifyingProperties Target="#Signature429968"><etsi:SignedProperties Id="Signature429968-SignedProperties829732"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T14:16:29-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>UAbHu8F5zeB+TIxBP1CD+8lcYmw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709691050</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-199353"><etsi:Description>Comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

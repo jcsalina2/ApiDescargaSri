@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601099338819000120010040000722390007223915</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T10:15:34-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>SUPERCONFITES CORP S.A.S.</razonSocial>
+<nombreComercial>SUPER CONFITERIA DON HERNAN</nombreComercial>
+<ruc>0993388190001</ruc>
+<claveAcceso>1804202601099338819000120010040000722390007223915</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>004</ptoEmi>
+<secuencial>000072239</secuencial>
+<dirMatriz>SUCRE 1117 ENTRE PIO MONTUFAR Y PEDRO MONCAYO</dirMatriz>
+<agenteRetencion>00000010</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>18/04/2026</fechaEmision>
+<dirEstablecimiento>SUCRE 1117 ENTRE PIO MONTUFAR Y PEDRO MONCAYO</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<guiaRemision>000-000-000000000</guiaRemision>
+<razonSocialComprador>CARLOS PERALTA</razonSocialComprador>
+<identificacionComprador>0928905074001</identificacionComprador>
+<direccionComprador>12 Y FEBRES CORDERO</direccionComprador>
+<totalSinImpuestos>12.48</totalSinImpuestos>
+<totalDescuento>0.0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<descuentoAdicional>0.0</descuentoAdicional>
+<baseImponible>12.48</baseImponible>
+<valor>1.87</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.0</propina>
+<importeTotal>14.35</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>14.35</total>
+<plazo>1.0</plazo>
+<unidadTiempo>DIA</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>024533</codigoPrincipal>
+<codigoAuxiliar>024533</codigoAuxiliar>
+<descripcion>PELUCHE LLAVERO STITCH</descripcion>
+<cantidad>1.0</cantidad>
+<precioUnitario>3.173913</precioUnitario>
+<descuento>0.0</descuento>
+<precioTotalSinImpuesto>3.17</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="UND" valor="D1:"/>
+<detAdicional nombre="1" valor="D2:"/>
+<detAdicional nombre="0" valor="D3:"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.0</tarifa>
+<baseImponible>3.17</baseImponible>
+<valor>0.48</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>026730</codigoPrincipal>
+<codigoAuxiliar>026730</codigoAuxiliar>
+<descripcion>PLATO PLASTICO N.7 DA212</descripcion>
+<cantidad>1.0</cantidad>
+<precioUnitario>1.043478</precioUnitario>
+<descuento>0.0</descuento>
+<precioTotalSinImpuesto>1.04</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="UND" valor="D1:"/>
+<detAdicional nombre="1" valor="D2:"/>
+<detAdicional nombre="0" valor="D3:"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.0</tarifa>
+<baseImponible>1.04</baseImponible>
+<valor>0.16</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>026677</codigoPrincipal>
+<codigoAuxiliar>026677</codigoAuxiliar>
+<descripcion>VELA VOLCAN 12CM X6</descripcion>
+<cantidad>1.0</cantidad>
+<precioUnitario>1.086957</precioUnitario>
+<descuento>0.0</descuento>
+<precioTotalSinImpuesto>1.09</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="UND" valor="D1:"/>
+<detAdicional nombre="1" valor="D2:"/>
+<detAdicional nombre="0" valor="D3:"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.0</tarifa>
+<baseImponible>1.09</baseImponible>
+<valor>0.16</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>26JVCC3705</codigoPrincipal>
+<codigoAuxiliar>26JVCC3705</codigoAuxiliar>
+<descripcion>ESTUCHE CARTUCHERA STICH BULTO X288</descripcion>
+<cantidad>1.0</cantidad>
+<precioUnitario>2.304348</precioUnitario>
+<descuento>0.0</descuento>
+<precioTotalSinImpuesto>2.3</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="UND" valor="D1:"/>
+<detAdicional nombre="1" valor="D2:"/>
+<detAdicional nombre="0" valor="D3:"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.0</tarifa>
+<baseImponible>2.3</baseImponible>
+<valor>0.35</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>016563</codigoPrincipal>
+<codigoAuxiliar>016563</codigoAuxiliar>
+<descripcion>ARCO GLOBO 100PCS STITCH XGS</descripcion>
+<cantidad>1.0</cantidad>
+<precioUnitario>4.217391</precioUnitario>
+<descuento>0.0</descuento>
+<precioTotalSinImpuesto>4.22</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="UND" valor="D1:"/>
+<detAdicional nombre="1" valor="D2:"/>
+<detAdicional nombre="0" valor="D3:"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.0</tarifa>
+<baseImponible>4.22</baseImponible>
+<valor>0.63</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>02040</codigoPrincipal>
+<codigoAuxiliar>02040</codigoAuxiliar>
+<descripcion>VELA NUMERO DORADA/PLATA/ORO ROSA 6972605910104</descripcion>
+<cantidad>1.0</cantidad>
+<precioUnitario>0.652174</precioUnitario>
+<descuento>0.0</descuento>
+<precioTotalSinImpuesto>0.65</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="UND" valor="D1:"/>
+<detAdicional nombre="1" valor="D2:"/>
+<detAdicional nombre="0" valor="D3:"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.0</tarifa>
+<baseImponible>0.65</baseImponible>
+<valor>0.1</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">12 Y FEBRES CORDERO</campoAdicional>
+<campoAdicional nombre="Telefono">0969644715</campoAdicional>
+<campoAdicional nombre="Email">NINGUNO</campoAdicional>
+<campoAdicional nombre="CIUDAD">Guayaquil</campoAdicional>
+<campoAdicional nombre="VENDEDOR">CAJA3</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature1035664" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo309489">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID459205" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1035664-SignedProperties219530">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>JF8Fh+4LkqRqT1hlOtISaZxRmlQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1999136">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pXXooEghsnPrLbTGuXXtLtOb9go=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-521108" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>n7Yh2zvtzqY3YrQnC27W1+KIYTs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue540655">
+g49TufWzQh3YZwqdcD3dhI2CWyd4JKUY/mS6kfjL/npyIu0yGz2EAOiFxmZ9YBj2GmA2EiD2o0e+
++t6eMzBX9inAxgrthY/sARY6/z7tK2CCojhSN++ZAJjXYEBr8DQDikqNoLekBmvRzoy8Pm4tK0RI
+XoHZ4kyKurODENoPgvIqWPkPIaWRkIOAM3mNw0moatIEFiKNZ8588/L8RofsXWWqUqIwT8SK3ut8
+VtZzl1KIcpqOvMk7PpsqZ5PZsYFm6KBFql+GtQWNiNgdM2J1ccxaG40+y/5xhEwfNYy4ewVW5wqk
+gTC8muKUgpaTfRJM0so1vaXQQcFjGePNNs6WZg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1999136">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJwzCCB6ugAwIBAgIIJqLrh3A5pb0wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDUzMDIyNDEwMFoXDTI4MDUyOTIyNDEwMFowgd0xCzAJBgNVBAYTAkVDMSMwIQYDVQQKDBpT
+w5pQRVJDT05GSVRFUyBDT1JQIFMuQS5TLjEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMRcwFQYD
+VQQEDA5ST0JBTElOTyBQRVJFWjEWMBQGA1UEKgwNTUlMVE9OIEhFUk5BTjEZMBcGA1UEBRMQSURD
+RUMtMTgwMjU3MTkwOTElMCMGA1UEAwwcTUlMVE9OIEhFUk5BTiBST0JBTElOTyBQRVJFWjEcMBoG
+A1UEYQwTVkFURUMtMDk5MzM4ODE5MDAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AMIBzKIJ6T26BvZ0QrjJq7C0Rg0i6n5Gc7/eWhre8ST+31MmF0kRgjfrGbK/ORslEbXKRGLnS5tE
+Hpe/lTaswkwQC6IDPtJPQL6okMurcFXRXLNEAIx4vk7t5aPQynR6QwbPaBkwI+cDJ1YbOpS82hRs
+WpRR+/3/Zs3pfbojRbPFrNGRtcfi8F3J1Wb/Pz91otUZ+GfdqLfPFWRBxgckUs59xddOdhVfQ0P+
+jz+SOO4UsTWRcneAIX8lZpAHQ5PTDxhyLiZLK+7cskv/LXK3UtjZ619OgnTXy3nktikkeK88idMZ
+cz18WHy40CJdel+Z3dRpAnfYxl5oDN9G0J4Y+skCAwEAAaOCBKgwggSkMBsGCysGAQQBgvE2ZgMB
+BAwMCjE4MDI1NzE5MDkwHgYLKwYBBAGC8TZmAwsEDwwNMDk5MzM4ODE5MDAwMTCB1wYIKwYBBQUH
+AQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3du
+bG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6
+Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDov
+L29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBTQkviVxUnm5jUH
+gJyjtPgNBTFPkjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9
+MIGOBgNVHSAEgYYwgYMwgYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczovL3d3
+dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJRklD
+QURPIERFIFJFUFJFU0VOVEFOVEUgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRw
+Oi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECg
+PqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5h
+ZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggHp
+BgNVHREEggHgMIIB3IEacGluY2F5ZGF5YW5uYTgyNEBnbWFpbC5jb22gGwYLKwYBBAGC8TZmAwGg
+DAwKMTgwMjU3MTkwOaAeBgsrBgEEAYLxNmYDAqAPDA1NSUxUT04gSEVSTkFOoBkGCysGAQQBgvE2
+ZgMDoAoMCFJPQkFMSU5PoBYGCysGAQQBgvE2ZgMEoAcMBVBFUkVaoCAGCysGAQQBgvE2ZgMFoBEM
+D0dFUkVOVEUgR0VORVJBTKBNBgsrBgEEAYLxNmYDB6A+DDxDQUxMRTogU1VDUkUgSU5URVJTRUND
+SU46IEVOVFJFIFBJTyBNT05UVUZBUiBZIFBFRFJPIE1PTkNBWU+gHwYLKwYBBAGC8TZmAwigEAwO
+MDA1OTM5NjMxOTY2NzKgGgYLKwYBBAGC8TZmAwmgCwwJR1VBWUFRVUlMoCsGCysGAQQBgvE2ZgMK
+oBwMGlPDmlBFUkNPTkZJVEVTIENPUlAgUy5BLlMuoB4GCysGAQQBgvE2ZgMLoA8MDTA5OTMzODgx
+OTAwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5U
+RSBMRUdBTKAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQDL6i0f
+uPDqjV02HYTipEf0hDANtO7bs3sitW2o25MC5VxMPwfGLOwDptolF+CfN5r4lAMSq2SSWnY2Ik+6
+NBt+Hq/m5u2TzfWisf0bt0jkqMUgm/jSGqYWwVWrZ1xh/YqWlGY5FwI84rmW7E6664ehUOmT1NNA
+Lh/pRPAiMdNp5sXz4tmHrl5HderJW8gxo5j6db9E0uwoJ2J4RtElactwVgkUJnXiP7TqjGhkbgIz
+1XIbYmLaK5PqGsCIYUZ/CwnRURw0UH/QxUgGp29orUagnUuDdeimUPxlHOvu/+1/rNpdD7e9rh/N
+0DDLtZDAuddT9ubm2YiRq+4b65BlGLfnv/d2vXFDyM2knRS4pV8Bi3iiAZVvvgknuCFKvOeItbFG
+3bpwE547hvVlsk0tlADpLRmjOXwjl2+waopFQnFM3ExtvnpqvIEdK9LS7MNRS2k25EWo2CHtq0oV
+H0HWh1zBlS8LGQYNzDM7olcxnui2mM9kvN+ZHmo8clDHZk3v4GJe07jqHq+rY5Hy01S/pKX8gfJn
+9uYVRw20CLoTVGEf6cKvSwuiFauTtR++Sm5fn+h/hn8fH9SKN1PA9aIrTIYa6ZDFTiHIq2JAqmhC
+6shy6V7Bu/oo3+F5mjVRkpGXYsjl5bKhgsRxes1GwVpYPfXzb4cJjonutMt67EfN2ZULWQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wgHMognpPboG9nRCuMmrsLRGDSLqfkZzv95aGt7xJP7fUyYXSRGCN+sZsr85GyURtcpEYudLm0Qe
+l7+VNqzCTBALogM+0k9AvqiQy6twVdFcs0QAjHi+Tu3lo9DKdHpDBs9oGTAj5wMnVhs6lLzaFGxa
+lFH7/f9mzel9uiNFs8Ws0ZG1x+LwXcnVZv8/P3Wi1Rn4Z92ot88VZEHGByRSzn3F1052FV9DQ/6P
+P5I47hSxNZFyd4AhfyVmkAdDk9MPGHIuJksr7tyyS/8tcrdS2NnrX06CdNfLeeS2KSR4rzyJ0xlz
+PXxYfLjQIl16X5nd1GkCd9jGXmgM30bQnhj6yQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1035664-Object936698"><etsi:QualifyingProperties Target="#Signature1035664"><etsi:SignedProperties Id="Signature1035664-SignedProperties219530"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T10:15:33-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>/o+skp0lW7JcXZa4SvC3Rh7l84A=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2784046486604326333</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-521108"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

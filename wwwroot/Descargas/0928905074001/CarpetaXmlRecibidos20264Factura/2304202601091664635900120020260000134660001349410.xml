@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2304202601091664635900120020260000134660001349410</numeroAutorizacion>
+<fechaAutorizacion>2026-04-23T10:57:12-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MATAMOROS COLOMA GEOVANNY ELOY</razonSocial>
+    <ruc>0916646359001</ruc>
+    <claveAcceso>2304202601091664635900120020260000134660001349410</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>026</ptoEmi>
+    <secuencial>000013466</secuencial>
+    <dirMatriz>GUAYAS GUAYAQUIL y URDANETA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>23/04/2026</fechaEmision>
+    <dirEstablecimiento>GUAYAS GUAYAQUIL y URDANETA</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>PERALTA MALAVE CARLOS ALBERTO</razonSocialComprador>
+    <identificacionComprador>0928905074001</identificacionComprador>
+    <direccionComprador>GUAYAS GUAYAQUIL y XIMENA</direccionComprador>
+    <totalSinImpuestos>4.35</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>4.35</baseImponible>
+        <valor>0.65</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>5.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>5.00</total>
+        <plazo>30</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>45516-0A010 NOK</codigoPrincipal>
+      <codigoAuxiliar>45516-0A010 NOK</codigoAuxiliar>
+      <descripcion>CAUCHO CREMALLERA DIRECCI</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.173900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>45517-10070 NOK</codigoPrincipal>
+      <codigoAuxiliar>45517-10070 NOK</codigoAuxiliar>
+      <descripcion>CAUCHO CREMALLERA DIRECCI</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.173900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.17</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">GUAYAS GUAYAQUIL y XIMENA</campoAdicional>
+    <campoAdicional nombre="FORMA DE PAGO">EFECTIVO ASISCLO GARAY</campoAdicional>
+    <campoAdicional nombre="RESPONSABLE">GANCHOZO ZAMBRANO WELLINGTON RAFAEL</campoAdicional>
+    <campoAdicional nombre="EMAIL">carlosperaltam1989@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature524442">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID899089" URI="#Signature524442-SignedPropertiesID742121" Type="http://uri.etsi.org/01903#SignedProperties">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>AP991yutzfezsYi16+B4scjgjUU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate617027">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WvgqvJc5GoH8PnsHLPQRne2Uay4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-487945" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>05EWiruRqIgjpqsnmHByN3RtqoU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>NK7d/9hhQQITvDv04QxFJS1kOm0laamw1u6XmlHFTXARvYw+YRBZlEuZUJj44jGe
+9hEH89EZzmqKDipaH4dP83KoOTqYqDS2gvO/rCqBhCn/6j0UCq6/Fk4Tb0Vv+4vb
+AChZ3r71q++B/NI+Y6yS8W0b1SBeFC2HMUatGmlUx3WgzRJsIzVomFmqGEpnsh08
+4wLG5pGs/p7JiDK5o06RwcSrCrTQ7MpdWTsCZDbpPzdCxgTvtKMkJJJ22GU0t6hG
+whuVAApLdBDUMaAvbwzgjaaBSeH7QOWjNaSsgXGbBk8Kf6I8wavlNaxDmuFACM3t
+1/2rt/SxLzB4CPtKHdCuug==</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate617027">
+<ds:X509Data>
+<ds:X509Certificate>MIIKszCCCJugAwIBAgIIICS7NVocSckwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNV
+BAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwn
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQD
+DDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEEwHhcNMjYwMTE0MTYzNjE4WhcNMjkwMTEzMTYzNjE4WjCBqTEnMCUGA1UEAwwe
+R0VPVkFOTlkgRUxPWSBNQVRBTU9ST1MgQ09MT01BMSAwHgYDVQQFExcwOTE2NjQ2
+MzU5LTE0MDEyNjExNDYwODEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4g
+MjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDV
+LhzuMnqO+nvjTICHjyUZS11T9Fb/klweYL5zKU4amzqAwnm30EuQlZQ6oSiGpryp
+uLI4FQQR+YH1DzlEqLGzdSY5bOWCWAAY3cdvrjLHt6mhTsndTZHTuwpJRoYkovYZ
+Oq0Bdr9j060MzHKJlV6/dNmtpmn2mOKDYjO/1eWUwz5ksIdSQWCN7G9omXxLwwM+
+KiNPCFXHp7/pyUxjf6uuMGmgOr0QSnB9b+d9mZYmeKN7MIZ7cdTxOYOUwD9GRZFJ
+Oo8X+BdSkfb0QSS730MtA7GTm8xI/wgCRtC8/T2YNfPh56e24R9htbGo8ajDGXCJ
+uJxsop2VFYmriSfAoDInAgMBAAGjggXrMIIF5zAMBgNVHRMBAf8EAjAAMB8GA1Ud
+IwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggr
+BgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAnBgNVHREEIDAegRxjb250YWJpbGlkYWRA
+Y2F1Y2hvc3NhZWMuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBK
+BggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABl
+AHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoG
+CCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNv
+bnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9s
+aXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0l
+BBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4
+hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3Js
+ZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklU
+WSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB
+2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVj
+L2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVy
+PUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkg
+REFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04s
+Tz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTJoHiUvm85GinL
+kmqwI39DozR7ODArBgNVHRAEJDAigA8yMDI2MDExNDE2MzYxOFqBDzIwMjkwMTEz
+MTYzNjE4WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowOTE2NjQ2MzU5
+MBgGCisGAQQBgqZyAwkECgwIVVJEQU5FVEEwEQYKKwYBBAGCpnIDIgQDDAEuMDYG
+CisGAQQBgqZyAwcEKAwmQVNJU0NMTyBHQVJBWSAwODE5IFkgUEVEUk8gUEFCTE8g
+R09NRVowHQYKKwYBBAGCpnIDAgQPDA1HRU9WQU5OWSBFTE9ZMB8GCisGAQQBgqZy
+AyAEEQwPMDAxMDAyMDAxMDk3MDg0MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEE
+AYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGC
+pnIDAwQLDAlNQVRBTU9ST1MwGgYKKwYBBAGCpnIDHgQMDApFU1RVRElBTlRFMB0G
+CisGAQQBgqZyAwsEDwwNMDkxNjY0NjM1OTAwMTARBgorBgEEAYKmcgMdBAMMAS4w
+FgYKKwYBBAGCpnIDBAQIDAZDT0xPTUEwGgYKKwYBBAGCpnIDCAQMDAowOTk2MzE2
+NTE3MA0GCSqGSIb3DQEBCwUAA4ICAQCkOYHgoVnMSkBxb+qYpyUQ0d2+hujA8oXL
+DDsAEe99LNPLsCB3DSMiaEAfyhLqaUUcpCuoBxYvqJ2/Hb3c+95adeU/iLic61J+
+oILcfyvVmFTeK8gdTibCysG7QyZEL0BMPW8SRoF4SSU81HGYgSuXenGpZO6svuwa
+oYpY28c2OWp7/BlpaZHlgmJpwFL6QBQvuAHGxZ56VstgbGo9g32hii6ZKypfCF1m
+5KlPukpCpPKRwFGBbOsGXMxSgYy9DnchCSxDcgVQMYx6BihfMw0vuhqNlgrQqFuG
+JV9eEDBvVSYIfYtpqJSxZLFM8B8qaFCuEi6U98jYRuEZkt/4rSo6fwT710sEdZqc
+LBpQz4PtLIuPJ+1Xb5N0qNuVTjS0NCT76CiQ5wMnbUOKS6FzfqcAsuU81KLygAw4
+NUEFVXRHoJKybvDtdtT3Ifx1FGfmmUG0zAjXBy5v4A4MYeMksklns9VFK8jh7XwL
+l2trubbIqoOUIotBTAFprc4iZCmiA3kxJ4/zDwhm0Xn/S4IpkYiz7pbDOviCsqoC
+hb89QMdhUFodTtjzXNsJyvkJMIvad4SVLb0B6oTdRKeiwCp5X+eIBYdGKDvKv/1/
+a1dASVZsfeLK5djHRkxIIj0WqYgKGfbxXrRXpmY17mTm4got8suotsvKbfm4YEOG
+VgwbAorrXQ==</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>1S4c7jJ6jvp740yAh48lGUtdU/RW/5JcHmC+cylOGps6gMJ5t9BLkJWUOqEohqa8
+qbiyOBUEEfmB9Q85RKixs3UmOWzlglgAGN3Hb64yx7epoU7J3U2R07sKSUaGJKL2
+GTqtAXa/Y9OtDMxyiZVev3TZraZp9pjig2Izv9XllMM+ZLCHUkFgjexvaJl8S8MD
+PiojTwhVx6e/6clMY3+rrjBpoDq9EEpwfW/nfZmWJnijezCGe3HU8TmDlMA/RkWR
+STqPF/gXUpH29EEku99DLQOxk5vMSP8IAkbQvP09mDXz4eentuEfYbWxqPGowxlw
+ibicbKKdlRWJq4knwKAyJw==</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature524442" Id="Signature524442"><etsi:SignedProperties Id="Signature524442-SignedPropertiesID742121"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-23T15:57:11+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>AN1+ZcttJG1z3uPEkzIHm/+6zTI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>2316181946194741705</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-487945"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

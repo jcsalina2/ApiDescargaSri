@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2704202601099287690500120250020002073589595569219</numeroAutorizacion>
+<fechaAutorizacion>2026-04-27T15:07:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>MAGNOLIA FOOD MAGNOFOOD SA</razonSocial><nombreComercial>Bombons Coffee shop</nombreComercial><ruc>0992876905001</ruc><claveAcceso>2704202601099287690500120250020002073589595569219</claveAcceso><codDoc>01</codDoc><estab>025</estab><ptoEmi>002</ptoEmi><secuencial>000207358</secuencial><dirMatriz>URDESA CENTRAL Calle: VICTOR EMILIO ESTRADA Numero</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>27/04/2026</fechaEmision><dirEstablecimiento>CC City Mall  Local 229  Av Felipe Pezo  Sol</dirEstablecimiento><contribuyenteEspecial>194</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>KAPICCHI S.A.S.</razonSocialComprador><identificacionComprador>0993377775001</identificacionComprador><totalSinImpuestos>2.17</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>2.17</baseImponible><tarifa>15.00</tarifa><valor>0.33</valor></totalImpuesto><totalImpuesto><codigo>3</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>0.00</baseImponible><tarifa>0.00</tarifa><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>2.50</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>2.50</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>310</codigoPrincipal><codigoAuxiliar>310</codigoAuxiliar><descripcion>8 oz - CAFE AMERICANO </descripcion><cantidad>1.000000</cantidad><precioUnitario>1.304348</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.30</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.30</baseImponible><valor>0.20</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>226</codigoPrincipal><codigoAuxiliar>226</codigoAuxiliar><descripcion>AGUA SIN GAS </descripcion><cantidad>1.000000</cantidad><precioUnitario>0.869565</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>0.87</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.87</baseImponible><valor>0.13</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="correo">INFO@KAPICCHI.COM</campoAdicional><campoAdicional nombre="direccion">PUERTO SANTA ANA</campoAdicional><campoAdicional nombre="telefono">0958941944</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature331486">
+<ds:SignedInfo Id="Signature-SignedInfo386541">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID678998" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature331486-SignedProperties515888">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>pWVyho0CEEZB+TyXI5VKamO6N+4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1366221">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>UqhzsuJKO7oYOs/0+546y+f/EdU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-761613" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>MtM68G82dYI/qDde0O2wrvVALy0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue94062">
+EeuI7bXWLsah5Bo8muLpyeOtsIFJhoUzXcDNadOec9iYuDonlpZAes3ogzAS0ZxkhaJNEX/oxXXy
+7x10RJwIG9ZYUqDI5yPHe5O3H5P3pbyDCoDfVKLsgGBscv3tUYASqPo81fNQxZLx1aUugcJOfVbf
+aWbwIFO+Fqv1iitCRv8wPK/CfSoweHI/bBJ6Do9WD2H9Wr/pyQG98Ow/CNQ2/6/3/THgGIq5APVZ
+Fh1oscROsNWCWHKFDzgiK94bZtX3W++qT2hqBii02GNUzGKWybo+4YQhLCKhBIZt0eDiZu5QHJWW
+r89GU/+NleNzmYjuvl1Hbg3/NFmm6jUOYbPwOA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1366221">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILBjCCCO6gAwIBAgIMAzlXFFEmKXr+5eRXMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjUxMDA4MTQ1NTU0WhcNMjYxMDA4MTQ1NTU0WjCCAaMxGjAYBgorBgEEAYKkQgoEDAow
+OTA4NDczNTk4MSUwIwYDVQQKDBxNQUdOT0xJQSBGT09EIE1BR05PRk9PRCBTLkEuMSgwJgYDVQQL
+DB9DZXJ0aWZpY2FkbyBQZXJzb25hIEp1cmlkaWNhIEVDMRkwFwYDVQQqDBBGUkFOQ0lTQ08gWEFW
+SUVSMRYwFAYDVQRhEw0wOTkyODc2OTA1MDAxMQswCQYDVQQGEwJFQzETMBEGA1UEBRMKMDkwODQ3
+MzU5ODEaMBgGA1UEBAwRU0FNQU5JRUdPIEZST01FTlQxNjA0BgNVBAMMLTA5MDg0NzM1OTggRlJB
+TkNJU0NPIFhBVklFUiBTQU1BTklFR08gRlJPTUVOVDEtMCsGCSqGSIb3DQEJARYeQ09OVEFET1JA
+Ym9tYm9uc2NvZmZlZXNob3AuY29tMR0wGwYDVQQMDBRBZG1pbmlzdHJhZG9yIMO6bmljbzE9MDsG
+A1UEDQw0UmVnLiBQdWIuOkFERCBDYXJnbzpBZG1pbmlzdHJhZG9yIMO6bmljbyBOb3RhcmlvOkFE
+RDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOn17DCpAfuhkq7AgJXixoDx3ngZ+aVq
+C5ZCiX70bR1iFwH5mKXMxB/RgQ7nZF5KXOzJ9wfb0TY7Mb+5vlJcD85PQT/WX4Tx0Ne26DTOAE+g
+vSAkCBfe84D+jbBZ7sJuwSzEpUGeXbPXESvdUc6jtphPeN+1KJtNcLskembZPid81VEEDcnvUMVq
+p+hizqtbeWGxLQk5CBEQl/vYLF9Px4vIPyYQ8tcJZtJIHczN8zCWMoD+2BwCYkF9WDAQECisfPmh
+GodNNi7kU9qQwiSEKIHYYf2wW5UrJzAbmUlI+LVoiMeQ4ySsF/yjAcIqf9nqZLmDzW7QG7tBO6ek
+8IINFecCAwEAAaOCBR8wggUbMB8GA1UdIwQYMBaAFJKu1MuCtJnG0XsRbGXqxU1oIfmsMB0GA1Ud
+DgQWBBRNkl3NDsVqLef0hWikRUN4cHapSzCBvgYDVR0RBIG2MIGzgR5DT05UQURPUkBib21ib25z
+Y29mZmVlc2hvcC5jb22kgZAwgY0xIDAeBgorBgEEAYKkQgoBDBBGUkFOQ0lTQ08gWEFWSUVSMRkw
+FwYKKwYBBAGCpEIKAgwJU0FNQU5JRUdPMRcwFQYKKwYBBAGCpEIKAwwHRlJPTUVOVDEaMBgGCisG
+AQQBgqRCCgQMCjA5MDg0NzM1OTgxGTAXBgkrBgEEAYGPHAEMCkEtMDcxMDIwMjUwDgYDVR0PAQH/
+BAQDAgbAMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDBQBgNVHR8ESTBHMEWgQ6BBhj9o
+dHRwOi8vY3JsLmFuZi5lcy9jcmwvQU5GSGlnaEFzc3VyYW5jZUVjdWFkb3JJbnRlcm1lZGlhdGVD
+QS5jcmwwggENBgNVHSAEggEEMIIBADCB5wYMKwYBBAGCpEICBQEDMIHWMDAGCCsGAQUFBwIBFiRo
+dHRwczovL2FuZi5lcy9lYy9yZXBvc2l0b3Jpby1sZWdhbC8wgaEGCCsGAQUFBwICMIGUDIGRQ2Vy
+dGlmaWNhZG8gY29uZm9ybWUgYSBsYSBsZWdpc2xhY2nDs24gZGUgZmlybWEgZWxlY3Ryw7NuaWNh
+LiBBbnRlcyBkZSBhY2VwdGFybG8gY29tcHJ1ZWJlIGludGVncmlkYWQsIGxpbWl0YWNpb25lcywg
+dmlnZW5jaWEgeSB1c29zIGF1dG9yaXphZG9zLjAJBgcEAIvsQAEBMAkGB2CFVAEDBQgwgZsGCCsG
+AQUFBwEBBIGOMIGLMCcGCCsGAQUFBzABhhtodHRwOi8vb2NzcC5hbmYuZXMvc3BhaW4vQVYwYAYI
+KwYBBQUHMAKGVGh0dHA6Ly93d3cuYW5mLmVzL2VzL2NlcnRpZmljYXRlcy1kb3dubG9hZC9BTkZI
+aWdoQXNzdXJhbmNlRWN1YWRvckludGVybWVkaWF0ZUNBLmNlcjAMBgNVHRMBAf8EAjAAMCgGCSsG
+AQQBgY8cEwQbDBk2NTI2NjI5NzQxMTktNDg2NDYwMjk5OTcxMB0GCisGAQQBgY8cEwIEDwwNMDk5
+Mjg3NjkwNTAwMTApBgorBgEEAYKkQhMBBBsMGTQ4NjQ2MDI5OTk3MS00NzY4MTk3NDcwOTUwGgYK
+KwYBBAGCpEIDAQQMDAowOTA4NDczNTk4MCwGCisGAQQBgqRCAwoEHgwcTUFHTk9MSUEgRk9PRCBN
+QUdOT0ZPT0QgUy5BLjAdBgorBgEEAYKkQgMLBA8MDTA5OTI4NzY5MDUwMDEwEgYKKwYBBAGCpEID
+DAQEDAJFQzAgBgorBgEEAYKkQgMCBBIMEEZSQU5DSVNDTyBYQVZJRVIwIQYKKwYBBAGCpEIDAwQT
+DBFTQU1BTklFR08gRlJPTUVOVDAkBgorBgEEAYKkQgMFBBYMFEFkbWluaXN0cmFkb3Igw7puaWNv
+MBcGCisGAQQBgqRCKgEECQwHVUlPLTAxOTATBgorBgEEAYKkQi4BBAUMAzM2NTBQBgorBgEEAYKk
+Qi8BBEIMQDYwNDc2Y2MwYTI1NzAzNzliODhmZTJlZGUxZTg1MTkxYTE5NGQxZTFmZTFmODYxMmZm
+NzlkZDJiNDAxMTNhZTEwDQYJKoZIhvcNAQELBQADggIBABcuxSABk48AumfzshWRLsda24DYMn4/
+RP4CGoacER2kVLjUqF2fFGTD6rlmES1Ezdlgcn0WiVm3Op0yFkq0JIolOgfBxcaxuuNxKiu2tLCe
+Fw4fh4/krQUt3nyMUiCiBm21Kqm1yvhho1R2U8jSosh6lZjX0AkGLSzFyNM5uifQVybrWAR7ra8C
+U8M+0lDaNe6G3WMKByQaPEJhEqZ1m0jR2UjBNjMtHadOMFTFrVI9tIi4qWes4uu4SsmNUfp8UoOX
+fy+/hWq7uzADfPcTIUQbSV67QZcGXbqBmW0Cmpn7ioXPXqMQwV+J5jSBxQBRFXTK9thLO2Ov5RdK
+sAOx2R5Lm/phVgSiLhK6WF4Yt9IpGlC2zj1gqMxl4XepTWkAKz7/k2DPmN5+Z2qPyc9G5x12fEXg
+i+YbywiYK6fuaIfmtPuYq1tZefQOvy1jwJTN/Ze7uorUK4AjHPzRSk4sqHg2XvyNZtgmJ7fVxSKt
+6fh8auA/nvwH+Lsoc01zz+V39eENPzyIUUeTb+fPkDObdmdX5Oh5zOxA+q7K3NmRvaiIBo/naNrX
+njfCcpATWT03V55axIK8nUp7yrJp6pgBZH49aR/BICFOZJYJ3+cbUTZgLOkYdYh9pON42x6BpnjS
+hx0I6T1uSddmfjG/ktxqp3l/gH0LZXinErlJeX5OJ/4l
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+6fXsMKkB+6GSrsCAleLGgPHeeBn5pWoLlkKJfvRtHWIXAfmYpczEH9GBDudkXkpc7Mn3B9vRNjsx
+v7m+UlwPzk9BP9ZfhPHQ17boNM4AT6C9ICQIF97zgP6NsFnuwm7BLMSlQZ5ds9cRK91RzqO2mE94
+37Uom01wuyR6Ztk+J3zVUQQNye9QxWqn6GLOq1t5YbEtCTkIERCX+9gsX0/Hi8g/JhDy1wlm0kgd
+zM3zMJYygP7YHAJiQX1YMBAQKKx8+aEah002LuRT2pDCJIQogdhh/bBblSsnMBuZSUj4tWiIx5Dj
+JKwX/KMBwip/2epkuYPNbtAbu0E7p6Twgg0V5w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature331486-Object256736"><etsi:QualifyingProperties Target="#Signature331486"><etsi:SignedProperties Id="Signature331486-SignedProperties515888"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-27T20:07:19+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>V+v3jlLomJUUg8lq8ETUmqpwnbI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>997775021848366976883614807</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-761613"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

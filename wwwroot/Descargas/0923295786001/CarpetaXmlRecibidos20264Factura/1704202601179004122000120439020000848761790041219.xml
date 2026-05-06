@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601179004122000120439020000848761790041219</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T19:06:42-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>COMERCIAL KYWI S.A.</razonSocial><nombreComercial>COMERCIAL KYWI S.A.</nombreComercial><ruc>1790041220001</ruc><claveAcceso>1704202601179004122000120439020000848761790041219</claveAcceso><codDoc>01</codDoc><estab>043</estab><ptoEmi>902</ptoEmi><secuencial>000084876</secuencial><dirMatriz>AV. 10 DE AGOSTO N24-59 Y LUIS CORDERO</dirMatriz></infoTributaria><infoFactura><fechaEmision>17/04/2026</fechaEmision><dirEstablecimiento>AV 24 DE MAYO S/N Y VILCABAMBA</dirEstablecimiento><contribuyenteEspecial>5368</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MIGUEL JARA</razonSocialComprador><identificacionComprador>0923295786001</identificacionComprador><direccionComprador>GOLONDRINAS 190-Y GORRIONES</direccionComprador><totalSinImpuestos>31.28</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>31.28</baseImponible><valor>4.69</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>35.97</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>16</formaPago><total>35.97</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>456714</codigoPrincipal><codigoAuxiliar>53891149228</codigoAuxiliar><descripcion>PLANCHA D/VAPOR GCSTBS6003-013 AZUL</descripcion><cantidad>1.00</cantidad><precioUnitario>29.782609</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>29.78</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>29.78</baseImponible><valor>4.47</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>800468</codigoPrincipal><codigoAuxiliar>7702048295327</codigoAuxiliar><descripcion>FOCO LED VINTAGE CLEAR GLOBO 6W L/BLANCA</descripcion><cantidad>1.00</cantidad><precioUnitario>1.504348</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1.50</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1.50</baseImponible><valor>0.23</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Telefono:">0990925962</campoAdicional><campoAdicional nombre="Tr:">583</campoAdicional><campoAdicional nombre="Observacion:">GRAN CONTRIBUYENTE NAC-GCFOIOC21-00000899-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature738544">
+<ds:SignedInfo Id="Signature-SignedInfo449065">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID506337" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature738544-SignedProperties499802">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>SzUteAAOJTzLpV44SstXe5gaBcI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1559149">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uP5lcvSlWiXkboPhLLy5Xv30EaM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-471962" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DK6Pb7VwLXlvmRZd7ArZeaTH/io=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue49346">
+dN/zExE8gRR3UU9LxTWHX8L3rPxfXEavF5YwNll5fda5c7W3xEhKyN6HUnwhOrRzBSrFqq0Y2ixP
+3Auyuy0Oe87XtChpD8mn+J407njVYLxup0FetKcS6EB9u1g+5Fn1gJ3NHt1sYOFF46yI9UkemPxR
+0IY7z8qGuR83PiYuAv9T69w/UlboFH+H6tF9uXEnMa3oTeXQ18fY/olfwJUnaawboM1Gj8ZkzYIU
+JCeh85TQIpHAbVBhhORHLpS6Sj6uIUQ4wNp1MGtPFx3Da4kqnXYAeKr/jChj2n852Aor0Bjd8Qir
+NjxTlfI9Uu83uDNMagigK9pmdqAl/4dHxgE6Sw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1559149">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK8TCCCNmgAwIBAgIIQjcMKORxax4wDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwNDE2MTgzMzU5WhcNMjgwNDE1MTgzMzU5WjCB
+qzEpMCcGA1UEAwwgSU5FUyBNQVJHQVJJVEEgVklMTEFSUlVFTCBHVUVSUkExIDAeBgNVBAUTFzE3
+MDQ1ODEwMjItMTYwNDI2MTM0MzQ5MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKQ189j5rFtIRX3+u3QvuHEABgB0rcWD
+DP9M2sRVEdkMJPymrFETDkHmzQgrw77KnTXxqSO76BCcb8pP4uf6br5flm3H5qyG79bKxq05lsQP
+fix3Ug5ypMyteaFEXq1G3DsdxZYcdZE9b0xapTSv31iWuqTGv+/yM3Fuq1Q2xa5Bb7bvCCtpxQ/c
+LE1BH9e4n9WzNLzHefgGrLejqY12XGiV+MJBwtcg9iBz4XZy+Vn3NNSpLRDXjTBcT7zwMGlPgcsS
+/Q2m/mBr89u/zut/x6g8KRsMiT8ocyC9QSfBuwN2AZQPCt9DKW1lktZuw8Fl/40rgwd1d78c54Jy
+HgX2N90CAwEAAaOCBicwggYjMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpL
+Vb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3Vy
+aXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMB8GA1UdEQQYMBaBFG1h
+cnZpZ3VlQGt5d2kuY29tLmVjMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsG
+AQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAA
+ZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRw
+czovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2
+YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUg
+RW1wcmVzYS5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCC
+AgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3Js
+ZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+PKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxl
+LmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFE
+IERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixD
+PUVDMB0GA1UdDgQWBBQ6FkGqIZItl79Nqm89pvjGanGt5jArBgNVHRAEJDAigA8yMDI2MDQxNjE4
+MzM1OVqBDzIwMjgwNDE1MTgzMzU5WjALBgNVHQ8EBAMCBeAwJAYKKwYBBAGCpnIDBQQWDBRKRUZF
+IERFIENPTlRBQklMSURBRDAaBgorBgEEAYKmcgMBBAwMCjE3MDQ1ODEwMjIwIQYKKwYBBAGCpnID
+CQQTDBFCRUxJU0FSSU8gUVVFVkVETzARBgorBgEEAYKmcgMiBAMMAS4wNQYKKwYBBAGCpnIDBwQn
+DCVBViAxMCBERSBBR09TVE8gTjI0IDU5IFkgTFVJUyBDT1JERVJPMB4GCisGAQQBgqZyAwIEEAwO
+SU5FUyBNQVJHQVJJVEEwHwYKKwYBBAGCpnIDIAQRDA8wMDcwMDEwMDAwMzQ3ODgwEwYKKwYBBAGC
+pnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBoGCisGAQQBgqZyAwMEDAwKVklM
+TEFSUlVFTDARBgorBgEEAYKmcgMeBAMMAS4wIgYKKwYBBAGCpnIDCgQUDBJDT01FUkNJQUwgS1lX
+SSBTIEEwHQYKKwYBBAGCpnIDCwQPDA0xNzkwMDQxMjIwMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAW
+BgorBgEEAYKmcgMEBAgMBkdVRVJSQTAaBgorBgEEAYKmcgMIBAwMCjA5ODQ4NjI3NzAwDQYJKoZI
+hvcNAQELBQADggIBAENzwrOlgKz8pWYMp9x5kdR0mA9LMX3GLuyiJfsPBJyovFxMMS5tvnWUvICg
+pZuQwXXhOnf1dksbUtxBNX2xK3x2UhZqzhs0ZlvOYsXJG9ZsxN3ioiq2a7/BKEljh8qozLYfhg7W
+fNSlMfJGcSdqMpwdFpbgaw5waHes1Ea2etuJKCLeF9iK6whyAd22gV2IkD2AN42GWhrJtdagASk0
+A+8rKQa/KIWjWtDleqP3eUMEDiBNjFi3UeDUb8Ltd7CcAeuGyQY+pbVe3ak9WUrMz7TCXbWTQuUk
+BJ0F2eUpjhjskI4l7uSMCIoAbTXlsuIxp1afqXd0kPWGovwYhwaHebp2J7oxTO3Ge+XtLo/F7zL0
+avFMs3kIYE+rdNUKSaV5TGz/ieviYg/K13kHmcejDBfRZkjO2b9VP99Hgvm/dHh4HTNTGwVQAyL5
+YsnmSlGJVwrqYlFVUj5bVYBmivheC97FkRBT3+vYxW+HXGraVYxfrwRDkbVDPbbll5Ac86ICA/88
+9eoAYW1XEDvRO/www739QHM86dlF1tq9nGA7V+coQFyXWKTD5+5DLeSBLvEdiZoY49/JsagQyZjr
+8GmZvnEVaFV+Nm+lFaLD3B+awDAjosb12aTOPeK+RHS8MnWElu58ITOLfluvur6BoBs9uwTzGMiX
+j2kaAfvWquTBb9sK
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pDXz2PmsW0hFff67dC+4cQAGAHStxYMM/0zaxFUR2Qwk/KasURMOQebNCCvDvsqdNfGpI7voEJxv
+yk/i5/puvl+WbcfmrIbv1srGrTmWxA9+LHdSDnKkzK15oURerUbcOx3Flhx1kT1vTFqlNK/fWJa6
+pMa/7/IzcW6rVDbFrkFvtu8IK2nFD9wsTUEf17if1bM0vMd5+Aast6OpjXZcaJX4wkHC1yD2IHPh
+dnL5Wfc01KktENeNMFxPvPAwaU+ByxL9Dab+YGvz27/O63/HqDwpGwyJPyhzIL1BJ8G7A3YBlA8K
+30MpbWWS1m7DwWX/jSuDB3V3vxzngnIeBfY33Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature738544-Object529463"><etsi:QualifyingProperties Target="#Signature738544"><etsi:SignedProperties Id="Signature738544-SignedProperties499802"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T19:06:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>yJFtOdkrsZAdGUQEx0f8f1I++hU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>4771295699993193246</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-471962"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

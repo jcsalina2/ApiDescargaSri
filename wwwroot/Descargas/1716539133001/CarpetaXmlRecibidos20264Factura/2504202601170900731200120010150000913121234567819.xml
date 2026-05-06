@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2504202601170900731200120010150000913121234567819</numeroAutorizacion>
+<fechaAutorizacion>2026-04-25T14:29:13-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>VASQUEZ TAMAYO HILDA MARLENE</razonSocial>
+    <nombreComercial>BODEGA EDISON</nombreComercial>
+    <ruc>1709007312001</ruc>
+    <claveAcceso>2504202601170900731200120010150000913121234567819</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>015</ptoEmi>
+    <secuencial>000091312</secuencial>
+    <dirMatriz>CAYAMBE / JUNIN S/N Y ASCAZUBI</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>25/04/2026</fechaEmision>
+    <dirEstablecimiento>CAYAMBE / JUNIN S/N Y ASCAZUBI</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>GUALAVISI GUAJAN SEGUNDO DAVID</razonSocialComprador>
+    <identificacionComprador>1716539133001</identificacionComprador>
+    <direccionComprador>PRINCIPAL S/N y S/N</direccionComprador>
+    <totalSinImpuestos>69.39</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>65.43</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>3.96</baseImponible>
+        <valor>0.59</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>69.98</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>69.98</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>P0137</codigoPrincipal>
+      <codigoAuxiliar>P0137</codigoAuxiliar>
+      <descripcion>ATUN REAL 180GR</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>1.45</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.9</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>2.9</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P1517</codigoPrincipal>
+      <codigoAuxiliar>P1517</codigoAuxiliar>
+      <descripcion>SARDINA REAL TOMATE 425 GRAMOS</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>1.79</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>3.58</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>3.58</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P1472</codigoPrincipal>
+      <codigoAuxiliar>P1472</codigoAuxiliar>
+      <descripcion>RICACAO 400 GR DOYPAK</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.782609</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.78</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.78</baseImponible>
+          <valor>0.42</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P1662</codigoPrincipal>
+      <codigoAuxiliar>P1662</codigoAuxiliar>
+      <descripcion>ACEITE PALMA DE ORO 750ML BOTELLA</descripcion>
+      <cantidad>3</cantidad>
+      <precioUnitario>1.79</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>5.37</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>5.37</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P1225</codigoPrincipal>
+      <codigoAuxiliar>P1225</codigoAuxiliar>
+      <descripcion>MOROCHO PARTIDO</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.6</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.2</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.2</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P0130</codigoPrincipal>
+      <codigoAuxiliar>P0130</codigoAuxiliar>
+      <descripcion>ARVEJA VERDE</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.6</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.2</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.2</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P0115</codigoPrincipal>
+      <codigoAuxiliar>P0115</codigoAuxiliar>
+      <descripcion>ARROZ DE CEBADA</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.55</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.1</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.1</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P1462</codigoPrincipal>
+      <codigoAuxiliar>P1462</codigoAuxiliar>
+      <descripcion>QUINUA NACIONAL</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>1.5</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>3</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>3</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P1152</codigoPrincipal>
+      <codigoAuxiliar>P1152</codigoAuxiliar>
+      <descripcion>MANI TOSTADO</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>1.3</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.6</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>2.6</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P1476</codigoPrincipal>
+      <codigoAuxiliar>P1476</codigoAuxiliar>
+      <descripcion>SAL CRISAL 2 KG</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.79</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.58</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.58</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P0806</codigoPrincipal>
+      <codigoAuxiliar>P0806</codigoAuxiliar>
+      <descripcion>GUANTES USO DOMESTICO 8 C-22</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.173913</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.17</baseImponible>
+          <valor>0.18</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P0122</codigoPrincipal>
+      <codigoAuxiliar>P0122</codigoAuxiliar>
+      <descripcion>ARROZ RICO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>42.9</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>42.9</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>42.9</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="vendedor ">Vendedor</campoAdicional>
+    <campoAdicional nombre="correo ">echeverria1224@hotmail.com</campoAdicional>
+    <campoAdicional nombre="ciudad ">CAYAMBE</campoAdicional>
+  </infoAdicional>
+<Signature Id="Signature-72fdddc3-2e48-4930-ad01-9dda7d4b3861" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference Id="Reference-45d84539-d51b-421d-83ae-8fd0c3f6a8a4" URI="#comprobante"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>oLeNvbUbeZoj4D7QoiwT6viuvgE=</DigestValue></Reference><Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-72fdddc3-2e48-4930-ad01-9dda7d4b3861"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>87u7Vsc/LLJIKhh5Iu/wcP97kR4=</DigestValue></Reference><Reference URI="#SignedProperties-Signature-72fdddc3-2e48-4930-ad01-9dda7d4b3861" Type="http://uri.etsi.org/01903#SignedProperties"><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Cl9BNSgvtS3vWfcsUt7PkxTYiCU=</DigestValue></Reference></SignedInfo><SignatureValue>P7jW00F06xtqFmnGb+QQRSqqDQeWkVqGe0RFn5a6QDctcPr5c7JIxh+2ZUUfbDn0vMrmtOaCNI4MwwCSd9GWQnxzT0pWXmrjgZK1nxVCVJTeTV8KYeJ3BKs964voJa/IsrGSF8QXWTZ+5VOusKSX4uMQ0fh+WVRvd5fT/StzUDyaIWZqCGJN6gl4TGgGg1tf9JatKdCE1VycDEDk9uuBXIgBWwyJwQ++bavDspIkUmE5TFUUzwJvYixlNMjGgaIIvTD6RFYRP0jhKJW45EIc/FttQMmSUVEfdSdJqcCOhdQYuQPtfMFJiXPbsqILNqH2/dLO7V2pC4I2bcov1m2PpQ==</SignatureValue><KeyInfo Id="KeyInfoId-Signature-72fdddc3-2e48-4930-ad01-9dda7d4b3861"><X509Data><X509Certificate>MIILvzCCCaegAwIBAgIEbzupHzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEwMTQwMjE5NTFaFw0yNzEwMTQwMjE5NTFaMIGcMSUwIwYDVQQDDBxISUxEQSBNQVJMRU5FIFZBU1FVRVogVEFNQVlPMRUwEwYDVQQFEwwxMzEwMjIyMTI5MzUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvil1AntyKzEOv3UIrkkBbXpv4KqUvfUR4Y7cZHo3z/zbTyuOHMttTbAAjTVHBiTuVo9ctCw416y6w8n4ztpXftbcotDzUMlKtBnai6zfJetQB20q/9g2E9oylATyrxnbltO3fIDfBwmKv6pPZ7hsHgDroocK2YnOVpFWjpYs8rTn3ux5iP/yx/c7NJ7Wu7o3Cf8aCaQIPmxpSHGbXbe0OHdcjDYi2tt07v/ESrjXXjlwbvCwqHR/pl3eRu/tmFnJIS2wIlexeCcQypfKagjmhmcNFUrs67ZuTSPmUQXHszZX1+JsgHqTu+VUyN5JmbLBMnSrgWXr5bgfUs/g8oE80wIDAQABo4IHCDCCBwQwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwHAYDVR0RBBUwE4EReHZwNTRAaG90bWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUPwHe85uCO7lsYD60oLIX/4a/0fMwKwYDVR0QBCQwIoAPMjAyMjEwMTQwMjE5NTFagQ8yMDI3MTAxNDAyMTk1MVowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMTcwOTAwNzMxMjAXBgorBgEEAYKmcgMJBAkMB0NBWUFNQkUwEQYKKwYBBAGCpnIDIgQDDAEuMCQGCisGAQQBgqZyAwcEFgwUSlVOSU4gUyBOIFkgQVNDQVpVQkkwHQYKKwYBBAGCpnIDAgQPDA1ISUxEQSBNQVJMRU5FMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNDQwMDc3MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdWQVNRVUVaMBEGCisGAQQBgqZyAx4EAwwBLjAdBgorBgEEAYKmcgMLBA8MDTE3MDkwMDczMTIwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGVEFNQVlPMBoGCisGAQQBgqZyAwgEDAwKMDk5Nzc0MTA5NzANBgkqhkiG9w0BAQsFAAOCAgEAxjQ17XUXdQiisQy8nwBeOxvwTyqs4qVa1KchRzw7g2+7/wxBYPxuilyfaI0qX4EmU/oHR9NBRQew2GLQ+c5F5z1CHsqnq/yxvRccWrQ0igno8xgLJpwjMYLGOhsit5MQJpwmSc1KP2BWA9hUuJ9bgJt9CV13IJviK1qv2dhVjNt+6NwBTsGE6a/7c+txwRUYqtiBQbe50g2WXQevfQx8fO0tybOssi7F4DVCwpRAsqW1PsoM3Iuzt20j2B+bwDESSFURkCQ41Y3Ovv7+PE4Kxkm0YJqojmW1v98ZUgFKul71nMs4CucV/C9IBWDt5NXpxXZssm4yRpZ8sUx0TvsEJqWaPuSklYLN/PiX34IB6iTsFxctjU7I2BaN08F86vndtQXK9tR9pDuWAJD+ZpzjSmUrlJWMIoW1gyTR+PYHIv3zNuFZ324DUcIYfSLTcuw/ouLu+cplXFkrquoCwDagW3Aj6Q3e/nF3ygFMvFiLAoz79lBdNp5xf8/mW/x+diH7GaYPYuYTP6Fe59ksngkBMXMvQKGt4BTowO6V9oieuuIuOiNsZ48eKME+oo+isa+LaWOO8mSbU8Di/CGsqNDIQttp9WPHAaCIdV1Ae+uHBt3lsIGuNaLzLPbuksHfo1z5gRqNPX4VPS8DavBM7gujbZsqeC9rO4Anzw17XpwdkFY=</X509Certificate><X509Certificate>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</X509Certificate><X509Certificate>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</X509Certificate></X509Data><KeyValue><RSAKeyValue><Modulus>vil1AntyKzEOv3UIrkkBbXpv4KqUvfUR4Y7cZHo3z/zbTyuOHMttTbAAjTVHBiTuVo9ctCw416y6w8n4ztpXftbcotDzUMlKtBnai6zfJetQB20q/9g2E9oylATyrxnbltO3fIDfBwmKv6pPZ7hsHgDroocK2YnOVpFWjpYs8rTn3ux5iP/yx/c7NJ7Wu7o3Cf8aCaQIPmxpSHGbXbe0OHdcjDYi2tt07v/ESrjXXjlwbvCwqHR/pl3eRu/tmFnJIS2wIlexeCcQypfKagjmhmcNFUrs67ZuTSPmUQXHszZX1+JsgHqTu+VUyN5JmbLBMnSrgWXr5bgfUs/g8oE80w==</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo><Object Id="XadesObjectId-016c881f-a47e-4f22-8dd7-efd1f0320792"><xades:QualifyingProperties xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="QualifyingProperties-2c13c914-fe15-421d-a116-2fd5d1c5d388" Target="#Signature-72fdddc3-2e48-4930-ad01-9dda7d4b3861" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#"><xades:SignedProperties xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="SignedProperties-Signature-72fdddc3-2e48-4930-ad01-9dda7d4b3861"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-25T14:29:12-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>gny6l6/2Ixn3LLA6UvSkaQz4d18=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1866180895</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-45d84539-d51b-421d-83ae-8fd0c3f6a8a4"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></Object></Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

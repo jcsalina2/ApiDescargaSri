@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601179193738400120019010001111570000000118</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T14:58:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>UNISCAN CIA. LTDA.</razonSocial>
+        <nombreComercial>UNISCAN CIA. LTDA.</nombreComercial>
+       <ruc>1791937384001</ruc>
+        <claveAcceso>1304202601179193738400120019010001111570000000118</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>901</ptoEmi>
+        <secuencial>000111157</secuencial>
+        <dirMatriz>PERALES N47-164 Y ELOY ALFARO</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>13/04/2026</fechaEmision>
+        <dirEstablecimiento>PERALES N47-164 Y ELOY ALFARO</dirEstablecimiento>
+        <contribuyenteEspecial>663E</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>GABRIELA FERNANDA DIAZ YANEZ</razonSocialComprador>
+        <identificacionComprador>1718041005001</identificacionComprador>
+        <totalSinImpuestos>54.38</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>54.38</baseImponible>
+                <valor>8.16</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>62.54</importeTotal>
+        <moneda>dolar</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>62.54</total>
+<plazo>1</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+ <valorRetIva>0.00</valorRetIva>
+ <valorRetRenta>0.00</valorRetRenta>
+    </infoFactura>
+    <detalles>
+<detalle><codigoPrincipal>02000GT11030</codigoPrincipal>
+<codigoAuxiliar>02000GT11030</codigoAuxiliar>
+<descripcion>ZEBRA, 4,33" X 984 ' WAX RIBBON, 1" CORE</descripcion>
+<cantidad>4.00</cantidad>
+<precioUnitario>5.36000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>21.44</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>21.44</baseImponible>
+<valor>3.22</valor>
+</impuesto>
+</impuestos>
+</detalle><detalle><codigoPrincipal>ZEB-800300-350LA</codigoPrincipal>
+<codigoAuxiliar>ZEB-800300-350LA</codigoAuxiliar>
+<descripcion>ZEBRACARD CONSUMABLES YMCKO TRUE</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>32.94000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>32.94</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>32.94</baseImponible>
+<valor>4.94</valor>
+</impuesto>
+</impuestos>
+</detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Direccion">PEDRO CORNELIO N55-165 Y JULIAN ARBAIZA</campoAdicional>
+        <campoAdicional nombre="Telefono">022812283</campoAdicional>
+        <campoAdicional nombre="Correo E">megacardsolutions@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature94510">
+<ds:SignedInfo Id="Signature-SignedInfo222809">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID502052" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature94510-SignedProperties287504">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>DUPhFFeNjMHxdcXxCDtt+kbsSXA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1573662">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>zZ39ZdAfDCgbaqO4VNFG4F0anqE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-64905" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>QQoq+mLZ9lFloVGSPcne0qYeM5E=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue782913">
+DAo5W/orp5s2ABmcTkVdL6mO1DVncs4FT+WvR+k/67GI+g00SFAYAC4bnTlulHfyXbUwUyliET4M
+OoRSh0gIvtChoJSI24+UDYU5cs4xXT682si6/X6NBVQSV9FAL8xzE8eQL9Wb4Fb3v+LWp/aaKbWw
+lJmGKKVkFIkpyqbfL5jq22EXd9Tj8osuUM0fdhfi+A/+YiY5622k7apIMpqJRPSntl1YaniqmY6S
+gZqueTCvIgQ2IIfi4CRUtBuwGIeHUoemq78j84CyI5tW2YlGgFTwVt8CZzpUBbEga/XJbHDGggVz
+Nh/MwgKqospLSzJOmU4HbqW401CjyKXMKPFIiw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1573662">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMADCCCeigAwIBAgIEaBxH6jANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA0MjIyMDIxMTRaFw0yNjA0MjIyMDIxMTRaMIGcMSUw
+IwYDVQQDDBxIRUNUT1IgTFVJUyBSRURST0JBTiBOQVJWQUVaMRUwEwYDVQQFEwwyMjA0MjIxNTMw
+NTIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAuWn25M/MT0WgOl2NXwgLjjj7BFy08tgldYMdXJah9uEsEF9GlWpWhIcT
+UFjQZKSIaUApHhf+RommyFh8RzfZZEGqv2FU0CSmICWAqMDY7tBpGBasVHIqiftJEcufCojmonv8
+k5Gzfo68Bx5x1ad+czxW+tq2qkWFV0D5faTraRbMV996ZPyah1NliyhE1gQ8sid4BoiKz1qQlqqT
+lSQNE6YDcHeSZ+iQACF+CqLWXELHuhxT/SsZb77XkKEYIKThpnij2VSP12chXfVyV6SAzTOspRZI
+WdhJJipf828/UTSAOiLBhpYoxLpPSpL6JGfL7oFrWeOBruojHi1Y9eE3YQIDAQABo4IHSTCCB0Uw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwIAYDVR0RBBkwF4EVaHJlZHJvYmFuQGhvdG1haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgw
+YgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABk
+AGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgID
+MIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29u
+dGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUg
+Q2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBB
+oD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+gceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJ
+REFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/
+Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwt
+b3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2Vy
+dGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFLqLhju0hCpmYuXYuVtemZvd
+pkV0MCsGA1UdEAQkMCKADzIwMjIwNDIyMjAyMTE0WoEPMjAyNjA0MjIyMDIxMTRaMAsGA1UdDwQE
+AwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjE3
+MDg3OTI3NjUwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4wNAYKKwYB
+BAGCpnIDBwQmDCRERSBMT1MgUEVSQUxFUyBONDctMTY0IFkgRUxPWSBBTEZBUk8wGwYKKwYBBAGC
+pnIDAgQNDAtIRUNUT1IgTFVJUzAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMDM0NTk4NzATBgor
+BgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYKKwYBBAGCpnIDAwQK
+DAhSRURST0JBTjAiBgorBgEEAYKmcgMKBBQMElVOSVNDQU4gQ0lBLiBMVERBLjAdBgorBgEEAYKm
+cgMLBA8MDTE3OTE5MzczODQwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAXBgorBgEEAYKmcgMEBAkM
+B05BUlZBRVowGgYKKwYBBAGCpnIDCAQMDAowOTk1MjAwOTk3MA0GCSqGSIb3DQEBCwUAA4ICAQCw
+X4f4G0gMwIO8w1wGXMW735qd1c8wSIkgsolSquzVsccKFh5B5uNeU/mk5oTCmUvdbPkWmx5G7VtN
+zADmhJhzobFZSb+UI9wnAm4X2vz07QCi1YOobH54NpRiiCgHsAHDnG4dHesclwMV5R4NWUXP5xV3
+hRZVmc6bQSwCkmSrEOzr1DcrFGrJFaf53A/PTB2wa6f+UDNPL6HCZ2/RyAY0f1w4goehxksNTLat
+PUO6fdptj8ubzyM2HMPwTY3AaWvsyeDvOv29bYF1wfh4zGVAUX/Z4nUqqL5/KmQ8yt85ytXH2dRi
+P/U8DqQ8dTPU+meuxOQ4htq4NUXq5uhi6rXaVwfJWEKj3n4g7d9i+1bSLsdlQwI5ejC4FKmsDNiB
+Vg2Vg5AbC64WCtrFkuvDyieDS6huYup7DQSlfYmN4AD/PYDcuIHSnAWe96x7RnFmybJQV5TYcc6O
+q1rkenhGMasV+LJZH84wAsSAWGjs23JNjTZ1IcKhe2l+HMs/D+slcsfmJe5JTL0d2mgoi3300r7h
+rl/mWWYM/s++bCe7zxDql0au+swEnI40D54PiZgjLdGVIejYiwo+PK3BtGu1wFd1ag4TO4DEdcqe
+23tlytUB9LERWTg95yl+tFxc9utN5PPGVSDaS+2sjUfbBDXk7ljjTqIShqMwadeBAtDNa6MMfw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uWn25M/MT0WgOl2NXwgLjjj7BFy08tgldYMdXJah9uEsEF9GlWpWhIcTUFjQZKSIaUApHhf+Romm
+yFh8RzfZZEGqv2FU0CSmICWAqMDY7tBpGBasVHIqiftJEcufCojmonv8k5Gzfo68Bx5x1ad+czxW
++tq2qkWFV0D5faTraRbMV996ZPyah1NliyhE1gQ8sid4BoiKz1qQlqqTlSQNE6YDcHeSZ+iQACF+
+CqLWXELHuhxT/SsZb77XkKEYIKThpnij2VSP12chXfVyV6SAzTOspRZIWdhJJipf828/UTSAOiLB
+hpYoxLpPSpL6JGfL7oFrWeOBruojHi1Y9eE3YQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature94510-Object228411"><etsi:QualifyingProperties Target="#Signature94510"><etsi:SignedProperties Id="Signature94510-SignedProperties287504"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T14:57:59-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>+z0poUp6+nbrRsP1YeThN1r4DiM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1746683882</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-64905"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

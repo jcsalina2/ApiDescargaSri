@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601179001030900120010050001105701234567818</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T10:48:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>TEOJAMA COMERCIAL S.A.</razonSocial><nombreComercial>TEOJAMA COMERCIAL S.A.</nombreComercial><ruc>1790010309001</ruc><claveAcceso>0604202601179001030900120010050001105701234567818</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>005</ptoEmi><secuencial>000110570</secuencial><dirMatriz>AV. GALO PLAZA LASSO N47-137 Y PASAJE LOS CACTUS--QUITO</dirMatriz></infoTributaria><infoFactura><fechaEmision>06/04/2026</fechaEmision><dirEstablecimiento>AV. GALO PLAZA LASSO N47-137 Y PASAJE LOS CACTUS</dirEstablecimiento><contribuyenteEspecial>5368</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>JACOME CONTERON ROSA</razonSocialComprador><identificacionComprador>1706522081001</identificacionComprador><direccionComprador>SANTA ANA ALTA JUAN HIDALGO 10 Y BERNARDO DE LEGAR</direccionComprador><totalSinImpuestos>58.42</totalSinImpuestos><totalDescuento>6.49</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>58.42</baseImponible><tarifa>15</tarifa><valor>8.76</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>67.18</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>67.18</total><plazo>0.00</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>31353-35010-</codigoPrincipal><codigoAuxiliar>31353-35010-</codigoAuxiliar><descripcion>SEGURO</descripcion><cantidad>1.00</cantidad><precioUnitario>10.540000</precioUnitario><descuento>1.05</descuento><precioTotalSinImpuesto>9.49</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>9.49</baseImponible><valor>1.42</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>58808-37021-C0</codigoPrincipal><codigoAuxiliar>58808-37021-C0</codigoAuxiliar><descripcion>GUARDAPOLVO</descripcion><cantidad>1.00</cantidad><precioUnitario>54.370000</precioUnitario><descuento>5.44</descuento><precioTotalSinImpuesto>48.93</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>48.93</baseImponible><valor>7.34</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Dirección">SANTA ANA ALTA JUAN HIDALGO 10 Y BERNARDO DE LEGAR</campoAdicional><campoAdicional nombre="Teléfono">022533240</campoAdicional><campoAdicional nombre="Correo">doc.electronicos@teojama.com;</campoAdicional><campoAdicional nombre="Teléfono Sucursal">02-2400500</campoAdicional><campoAdicional nombre="Tipo de Venta">Contado</campoAdicional><campoAdicional nombre="Vendedor">V-Mario Gallo</campoAdicional><campoAdicional nombre="Observaciones">-</campoAdicional><campoAdicional nombre="Gran Contribuyente">GRAN CONTRIBUYENTE MEDIANTE RESOLUCIÓN NAC-GCFOIOC21-00001047-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature805561">
+<ds:SignedInfo Id="Signature-SignedInfo141917">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID107582" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature805561-SignedProperties607287">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>P1OumVfyZb3qdXTl0vDdMk1UNCI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11040390">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pfjDvgdctS1cCg53s1lh6zbSH4M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-796425" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8uopeSua5fj0twKbgwQwr1VLWfo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue52814">
+T8PwEdufE4CtyquBFKDHE8J10skROs+I7EPYT6giPedWL8c7y4jnv3KncWadtldW6ZlZOeyo/syg
+XISyTmq1FGCEFY3q5dRJZhelUBhbXC7M08rvzFlG2+sgvcF+GBvXJHMP1xxy036SizmDr2FNPRdV
+siTSlfDHP7TTG9OB1WqB9FrHWfguIjsOD1BxQ7ZZjBgqVsiZrYR4opvsUvSYI2aOPMIKC34J74W1
+JA2Z2o39JfrNZQJosLqkCwytd0Q8k4jKUbwuEVpOCrksJHKciIsdqA3rx9BuRCDXfD56O9w+VHPW
+QQCCUHgdFB8k3QSJsjoBJWA8wDHG4uRP2WEG1g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11040390">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMFjCCCf6gAwIBAgIEZrxP0jANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTEwMDQyMTUyMTJaFw0yNjEwMDQyMTUyMTJaMIGfMSgw
+JgYDVQQDDB9DQVJMT1MgRURVQVJETyBET05PU08gRUNIQU5JUVVFMRUwEwYDVQQFEwwwNDEwMjEx
+NzAyMDMxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAs0yCBSMMSyOzASzpi9OtrcCqiFPgslIVLplshGWf9p6HY7r7jID5
+xAL23GYOHQlXyQtZCrTSs5lsqc0Jm/EKTTrmNEM2fUPBnIQ0F+il2qR6Q/xDwFw7e4d2uuA4aCSC
+KU9GNjyum5gSLkpNBbFOeSH+xSOrb8QDAupikE3TsMDOigF8RDf8+IHeY3QaRMexhXbptSJXcjKR
+1hxe7y1fiOMLBCpQhlZ5qVIIm0kcvahFuEA5DAGRejpebyrhmJkx0/h6w6aqg05SnFxzgPdLIml6
+Aovg4iXuHJwwHFiDeavCmGU8/YdsIuXr+50iIon9s3ydLk+/NPwhu/K28a6DhQIDAQABo4IHXDCC
+B1gwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEF
+BQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6
+Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25M
+aXN0P2Jhc2UwHgYDVR0RBBcwFYETY2Rvbm9zb0B0ZW9qYW1hLmNvbTCCARUGA1UdIASCAQwwggEI
+MGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAA
+ZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnIC
+AzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNv
+bnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRl
+IENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWg
+QaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9S
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERF
+IENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVD
+P2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFs
+LW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2Nl
+cnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNB
+LTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTr27UTkhVMQvOkWiGiNBdo
+RsKPNDArBgNVHRAEJDAigA8yMDIxMTAwNDIxNTIxMlqBDzIwMjYxMDA0MjE1MjEyWjALBgNVHQ8E
+BAMCBeAwIQYKKwYBBAGCpnIDBQQTDBFBUE9ERVJBRE8gR0VORVJBTDAaBgorBgEEAYKmcgMBBAwM
+CjE3MDI5ODUxNDIwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4wQAYK
+KwYBBAGCpnIDBwQyDDBBVi4gR0FMTyBQTEFaQSBMQVNTTyBONDctMTM3IFkgUEFTQUpFIExPUyBD
+QUNUVVMwHgYKKwYBBAGCpnIDAgQQDA5DQVJMT1MgRURVQVJETzAfBgorBgEEAYKmcgMgBBEMDzAw
+MjAwMTAwMDI1Mjc0MjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFE
+T1IwFgYKKwYBBAGCpnIDAwQIDAZET05PU08wJAYKKwYBBAGCpnIDCgQWDBRURU9KQU1BIENPTUVS
+Q0lBTCBTQTAdBgorBgEEAYKmcgMLBA8MDTE3OTAwMTAzMDkwMDEwEgYKKwYBBAGCpnIDHQQEDAJO
+bzAZBgorBgEEAYKmcgMEBAsMCUVDSEFOSVFVRTAcBgorBgEEAYKmcgMIBA4MDDU5Mzk5MTM5NzI4
+NjANBgkqhkiG9w0BAQsFAAOCAgEAFKiTM//eUUYD5H1x8xcn2MYCWLV1G7DzKbDWv9zcsmY8dc2d
+45mN7SwyVj9ORHYojk0aMEjS15v51B70Pn8o/coeMpPx2O9N30g9KD5Uv7bTXpjMMJGuJmK4TzVc
+6T72TOO7OiJ0zsV7W3gps5RC0q3JrWFaPPv9p23t26YUtzNRPSNwCYu3ktY3nUtlPHAtR82Iawrj
+fMvtbNkDocgWBqVpL1G59fTcJI/mS3jPKdHsfnMw4ZyaTQG3pe3hUQl9JMkQYWSOiQ+u0uLzu0s3
+GON0eEy4XrCf4IizYly2tyNR+thRm6d7YLZ4ZWxpoTRglDa/SJBSIfTCXGe9x7JvgtLEKvC4BdU2
+hLNEgozPZ/S5GA6v4BKqpYytBPsPhOefoj6+V2/3jv5VSUIYEVbWo3Uh1lIKkfDdrNjeStB5ztvy
+M1OVxfnNxwDzWakeoWg6hjJQUAxnoOGMk7LrX0CH+QfTTWYQzvBkEl2QC+Zs0OigBuHM+/I1vlWf
+R2vuiAC/TH98EFTfsLa0+dncfInswJa9GIr/If0ZUNOTzWP0V/RB5KYAr8bqDPU1RDByY6JEABPm
+zQO/wK4dCtwMYL/tWXjX3QIo1BQz2h2LZrGNUtdXAzS82wALaZOVpPm4IdeHfkGZcWtJh2jJFAoH
+cV5DXDl05pfP1fQ3xFPb6W4bLiQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+s0yCBSMMSyOzASzpi9OtrcCqiFPgslIVLplshGWf9p6HY7r7jID5xAL23GYOHQlXyQtZCrTSs5ls
+qc0Jm/EKTTrmNEM2fUPBnIQ0F+il2qR6Q/xDwFw7e4d2uuA4aCSCKU9GNjyum5gSLkpNBbFOeSH+
+xSOrb8QDAupikE3TsMDOigF8RDf8+IHeY3QaRMexhXbptSJXcjKR1hxe7y1fiOMLBCpQhlZ5qVII
+m0kcvahFuEA5DAGRejpebyrhmJkx0/h6w6aqg05SnFxzgPdLIml6Aovg4iXuHJwwHFiDeavCmGU8
+/YdsIuXr+50iIon9s3ydLk+/NPwhu/K28a6DhQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature805561-Object968669"><etsi:QualifyingProperties Target="#Signature805561"><etsi:SignedProperties Id="Signature805561-SignedProperties607287"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T10:47:34-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>eXwgGr5GUENrpic27CyQeV5g1Io=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1723617234</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-796425"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

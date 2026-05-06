@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1704202601099270068800120010010003553151234567818</numeroAutorizacion>
+<fechaAutorizacion>2026-04-17T21:38:55-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>BLOTEIN SA</razonSocial>
+        <nombreComercial>DON CHUZO</nombreComercial>
+        <ruc>0992700688001</ruc>
+        <claveAcceso>1704202601099270068800120010010003553151234567818</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000355315</secuencial>
+        <dirMatriz>CDLA MIRAFLORES AVE PRINCIPAL 313 Y CALLE SEXTA ESQUINA</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>17/04/2026</fechaEmision>
+        <dirEstablecimiento>CDLA MIRAFLORES AVE PRINCIPAL 313 Y CALLE SEXTA ESQUINA</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>ERIKA FERNANDEZ</razonSocialComprador>
+        <identificacionComprador>0920196813</identificacionComprador>
+        <totalSinImpuestos>15.98</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+        <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <baseImponible>15.98</baseImponible>
+            <tarifa>15</tarifa>
+            <valor>2.40</valor>
+        </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>18.38</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>19</formaPago>
+                <total>18.38</total>
+                <plazo>0</plazo>
+                <unidadTiempo>Dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>61</codigoPrincipal>
+            <codigoAuxiliar>VEN0045</codigoAuxiliar>
+            <descripcion>CHOCLO DESGRANADO CON QUESO</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.48</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>3.48</precioTotalSinImpuesto>
+            <impuestos><impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>3.48</baseImponible>
+                    <valor>0.52</valor>
+                </impuesto></impuestos>
+        </detalle><detalle>
+            <codigoPrincipal>10038</codigoPrincipal>
+            <codigoAuxiliar>INS0008</codigoAuxiliar>
+            <descripcion>TARRINA 5X5</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>0.22</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.22</precioTotalSinImpuesto>
+            <impuestos><impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0.22</baseImponible>
+                    <valor>0.03</valor>
+                </impuesto></impuestos>
+        </detalle><detalle>
+            <codigoPrincipal>11033</codigoPrincipal>
+            <codigoAuxiliar>VENT0657</codigoAuxiliar>
+            <descripcion>PORCION DE FILETE</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>5.22</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>5.22</precioTotalSinImpuesto>
+            <impuestos><impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>5.22</baseImponible>
+                    <valor>0.78</valor>
+                </impuesto></impuestos>
+        </detalle><detalle>
+            <codigoPrincipal>10742</codigoPrincipal>
+            <codigoAuxiliar>VENT0264</codigoAuxiliar>
+            <descripcion>MICHELADA</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>4.35</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>4.35</precioTotalSinImpuesto>
+            <impuestos><impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>4.35</baseImponible>
+                    <valor>0.65</valor>
+                </impuesto></impuestos>
+        </detalle><detalle>
+            <codigoPrincipal>10035</codigoPrincipal>
+            <codigoAuxiliar>INS0004</codigoAuxiliar>
+            <descripcion>TARRINAS LONCHERAS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>0.22</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.22</precioTotalSinImpuesto>
+            <impuestos><impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0.22</baseImponible>
+                    <valor>0.03</valor>
+                </impuesto></impuestos>
+        </detalle><detalle>
+            <codigoPrincipal>10026</codigoPrincipal>
+            <codigoAuxiliar>VEN0161</codigoAuxiliar>
+            <descripcion>250</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>2.50</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.50</precioTotalSinImpuesto>
+            <impuestos><impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>2.50</baseImponible>
+                    <valor>0.38</valor>
+                </impuesto></impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">erikaf89@gmail.com</campoAdicional>
+        <campoAdicional nombre="Leyenda">Agentes de Retencion RESOLUCION Nro. NAC-DNCRASC20-00000001</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature89313">
+<ds:SignedInfo Id="Signature-SignedInfo420608">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID330601" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature89313-SignedProperties352604">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>soByxJ1zn0KRueCqsykeR5SovmE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1557319">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>mK6YE/CG4NUOSK8BzPIJn0dWRgA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-239573" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qbja0z+D8nqTHeCwiShuTis4uQQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue530249">
+vEnBmLRZySo43E53t+qS6SEYga9k9yh3GXjRJR89a+jdihbDtXmAko0mBoNdi85N/b+83+Aqei/M
+gblop1W4AbvMHTdreItva511vqyGJ0AP+DUGa7G3p/X8sjEZYAMGlnRlBTAM24K/26c+CT/9Pc+k
+V/ivUuN9QB9cMQnAiUidETlY+JoKkvG/99J3DQuZnJYJxC3E1bZ0UIyOxtKplHQOFEGXjzcDpkM+
+vfSCmnzC2jnF+mLi0HKKWhywT1KHwB7T4jD4qMRYNFbr4whotRvJ/kF9NbAAcWWMSFksf79SPHIj
+0fHGCtS3Pw5o45QeCm5t2kVQkDFXUdWfBDVEgQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1557319">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKzTCCCLWgAwIBAgIIBUtedqkuumIwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwNzA4MTUwODE5WhcNMjgwNzA3MTUwODE5WjCB
+rTErMCkGA1UEAwwiUklDQVJETyBCRVJOQVJETyBST0RSSUdVRVogTU9SQUxFUzEgMB4GA1UEBRMX
+MDkxNTE2NzY4OC0wODA3MjUxMDE4MTAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYT
+AkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxf/gK8ofKJadBDt185XKkpy+70vG
+ciF0ePshsSZAqMhOIfLzETRZfPcHc0M2Br1W3ksu7g0FUkZi9nbTK+Z+9RRC9Fq0q0DAoj2A23e8
+3/O0mOsvzgEaboM3m5MsOvjnfcAwbSByCnOUHBzyEbYqRFKvx/sL4cvpkIbs28b7So1HMQa2U9oR
+wutYns9o9MDilqC0Ooi0VGi9/vGkKV1XCueBymdPfv9i0a120++vJ951E5h5bYVeLy+UzijSw4oO
+wjdy0lvHrGEKoZjaicM1vElStqyIS0Csg+q8gVZjJHsXRiG2EI1DFTU2FfQ2iKPPyOlqugt/5gp9
+IZkikT/+HQIDAQABo4IGATCCBf0wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1r
+CktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIwYDVR0RBBwwGoEY
+Y2xhdWRpYWJyYXZvQGJsb3RlaW4uY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBU
+MFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUA
+cwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcC
+ARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMv
+Tm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVw
+cmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYD
+VR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNh
+MmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkG
+A1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3Js
+Mi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNz
+dWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDMB0GA1UdDgQWBBQTownEj5yfQLsu0nVwxZSjNR+1wDArBgNVHRAEJDAigA8y
+MDI1MDcwODE1MDgxOVqBDzIwMjgwNzA3MTUwODE5WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnID
+BQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowOTE1MTY3Njg4MBYGCisGAQQB
+gqZyAwkECAwGVEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjAwBgorBgEEAYKmcgMHBCIMIEFWREEg
+UFJJTkNJUEFMIDMxMSBZIENBTExFIFNFWFRBMCAGCisGAQQBgqZyAwIEEgwQUklDQVJETyBCRVJO
+QVJETzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMzAwMDAwNTUwNDATBgorBgEEAYKmcgMhBAUMA1BG
+WDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGCpnIDAwQLDAlST0RSSUdVRVowGwYK
+KwYBBAGCpnIDCgQNDAtCTE9URUlOIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTI3MDA2ODgwMDEw
+EQYKKwYBBAGCpnIDHQQDDAEuMBcGCisGAQQBgqZyAwQECQwHTU9SQUxFUzAaBgorBgEEAYKmcgMI
+BAwMCjA5OTg0MzQzNTkwDQYJKoZIhvcNAQELBQADggIBABHIGHhL1+K/JvMJC4vZjk+eg9/t45wI
+7zXuZ14+eZOjaWdJpADnPMlGBWeAp6cAWcKxV0aKWfn/gVC+y8r5+lYX7SgjNAKu2ZqYg9guzYIw
+bdSsAhSDHmQ4Cuw4zB3iXdQiywHZZDcnf3qXHH9SIFoyRbi+2LkzSsVqJQwLE2zMBqUBOY7SDV+Q
+bPfIE68wRT1yqH5QFcQnkMwfA9zHigmMgP9e0KGKEzScROtJFu2RewfFgCk7KG+OheCsAH6NWbrw
+AoLNWZpcQ3edx03nH4rvvb2J7SvVzjxSfbLl+ZC621u8MCbzsZN60TiIpk8IoCQQbAxrW+BUELZw
+IHST3cZeKihoGCW+JyGywe1PSXEBw9UeFlOILIMfEmhhvXw6nGG42jKZxayVqCetMefGiWDfwuW/
+DfoS7m5Cjho62lns9f4Lo4Gi7t+Q+02yCa18S+Rc6qoWyqUcC079RUGm1MUpnVFxf4LkK3ZReYxP
+lCC8UvTIRVtHdWPIvetABocZt5WS6usUU7zfE+lC8j5ZUVLXW73Gn/uTbYPGmUdiubouhN53+rdN
+EWXkoYv38pLOpepdUd/YgNEAON2cL6PechLvLGVXGPqi3jRqSctw/iv6HUBU5wbIMGGRNCzqH3Ts
+ngUTzRLYxOrmDAju5N52OWjnK0J6Dru/RKQtO1kTh0YQ
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xf/gK8ofKJadBDt185XKkpy+70vGciF0ePshsSZAqMhOIfLzETRZfPcHc0M2Br1W3ksu7g0FUkZi
+9nbTK+Z+9RRC9Fq0q0DAoj2A23e83/O0mOsvzgEaboM3m5MsOvjnfcAwbSByCnOUHBzyEbYqRFKv
+x/sL4cvpkIbs28b7So1HMQa2U9oRwutYns9o9MDilqC0Ooi0VGi9/vGkKV1XCueBymdPfv9i0a12
+0++vJ951E5h5bYVeLy+UzijSw4oOwjdy0lvHrGEKoZjaicM1vElStqyIS0Csg+q8gVZjJHsXRiG2
+EI1DFTU2FfQ2iKPPyOlqugt/5gp9IZkikT/+HQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature89313-Object947647"><etsi:QualifyingProperties Target="#Signature89313"><etsi:SignedProperties Id="Signature89313-SignedProperties352604"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-17T21:38:55-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>3cLTgOnavGWJ1zQYQIYu3JCaEvU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>381502457180502626</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-239573"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

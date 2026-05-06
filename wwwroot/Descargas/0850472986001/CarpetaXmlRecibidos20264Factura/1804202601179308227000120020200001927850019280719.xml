@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601179308227000120020200001927850019280719</numeroAutorizacion>
+<fechaAutorizacion>2026-04-18T09:54:56-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>FERRETERIA TONSUPA SCC</razonSocial>
+    <ruc>1793082270001</ruc>
+    <claveAcceso>1804202601179308227000120020200001927850019280719</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>020</ptoEmi>
+    <secuencial>000192785</secuencial>
+    <dirMatriz>Ruminahui Sangolqui Av.Los shyris s/n Interseccion</dirMatriz>
+    <agenteRetencion>3</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>18/04/2026</fechaEmision>
+    <dirEstablecimiento>2: Tonsupa via principal Atacames barrio paz y progreso, frente a gasolinera de Petroecuador</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>CEDENO LOOR MAYTER VALESKA</razonSocialComprador>
+    <identificacionComprador>0850472986</identificacionComprador>
+    <direccionComprador>SN 00</direccionComprador>
+    <totalSinImpuestos>3.01</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>3.01</baseImponible>
+        <valor>0.45</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>3.46</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>3.46</total>
+        <plazo>30</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>011721</codigoPrincipal>
+      <codigoAuxiliar>011721</codigoAuxiliar>
+      <descripcion>REGLETA BAOLY 6 SERVICIOS X 3 MT</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.006100</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.01</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>3.01</baseImponible>
+          <valor>0.45</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">S N 00</campoAdicional>
+    <campoAdicional nombre="FORMA DE PAGO">EFECTIVO</campoAdicional>
+    <campoAdicional nombre="RESPONSABLE">RIVAS SANTANDER ROBERT ADRIAN</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature922654" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo674527">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID598909" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature922654-SignedProperties878934">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Zw3iruOsBj9wdVNen71wljFlgn8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1982694">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>lC/G4juPSGvGFRiZXOvA1kuNZ40=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-236410" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kN4yX8hL35TOYwyWn5L9BJH+qXY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue40356">
+fX0+IN3j4WWxmourEQjyaLM1zro3bDOLk2ry1ZKmYP8/EKGSCkhKONRCBgkpZ0nmmUlOwmYCgAxV
+oIwXhbOZOinM3hmhVvztGTbAGctukKTm64wEuHgqW4nnpwWm6j0/dorlW70OH6JKcQQRGKEuHtEy
+G5x8tV46w9wawYHqChofsu3uvczXPULARndc9gaG/lUi48HaAjNPwK0PRzTHJCUfyshE8S0tWtLS
+SIcxADmS5lITQFlA4JEqt9ercsVb7kgNqfAd34qRqe0nbvR8sGHmJDcph6ocaVD02hKsTFP3leih
+ZxXhq5Jy0ojqPbcGQ/B9E10gRoeCKT22CC3xzA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1982694">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIUDCCBjigAwIBAgIRAI2NTBf0meKtd3tXnIxcQnUwDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNTA5MTUxNjIxNDRaFw0zMDA5MTUxNzIxNDRaMIHrMS0wKwYD
+VQQFEyRkNDljNjRkYy0wOThkLTQwNzgtODBmMy01ODgzMWZjNWJiMGIxLjAsBgkqhkiG9w0BCQEW
+H3NoZXlsYS5zb2Z3YXJlLmNvYnJvc0BnbWFpbC5jb20xLjAsBgNVBAMMJU1BR0FMWSBERUwgUk9D
+SU8gUEFDSEFDQU1BIEdVQUxPVFXDkUExMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTjEbMBkGA1UEChMSRklSTUFTRUdVUkEgUy5BLlMuMQswCQYDVQQGEwJF
+QzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIAV3A0oATkV9zkNx9CR5wbWr5gKfXvM
+8wM8F5orMB6iPTUxrKGQDASv+1IBGiLFJOaIcUink2MaC4h3Kc+bIVBbnLxjK9Xu8+2lenNwa0xr
+QUSGXAOXiBRgN8sIjtAUTn5FtbBUj/+T07a3qvL53JdcVzdQqIPXjP6ppUWYMrpmr8pCz0nCe5MA
+C/Shcm+gowVTcEfL/j4oFg8PfoYvgirw6bVb7tJZA8vQVl6p9GAc/39feipLejM6EgTD6lK4FfQf
+WXerRC9UP4bpYbJTFxHi5Bhf7Z18+X8kxkx82OB7atZNn13Np17IOs5L5Wte17qH5RaIuI96TADO
+4I63WW8CAwEAAaOCAxQwggMQMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUE0aTaAmu1ySHM0VjJnff
+rF5eilEwHQYDVR0OBBYEFHJcwV6FoNj1z32nprLAODqDYv0GMFoGA1UdHwRTMFEwT6BNoEuGSWh0
+dHA6Ly9jcmwuZmlybWFzZWd1cmFlYy5jb20vY3JsL2NjY2U1YTRmLTZiNjgtNDZmYy1hNjIwLTRh
+YmNjNGM0YTY5MC5jcmwwOQYIKwYBBQUHAQEELTArMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5m
+aXJtYXNlZ3VyYWVjLmNvbTAaBgorBgEEAYPeeQMBBAwWCjA4MDE5MzA3OTMwIAYKKwYBBAGD3nkD
+AgQSFhBNQUdBTFkgREVMIFJPQ0lPMBkGCisGAQQBg955AwMECxYJUEFDSEFDQU1BMBkGCisGAQQB
+g955AwQECxYJR1VBTE9UVdFBMBcGCisGAQQBg955AwUECRYHR0VSRU5URTBPBgorBgEEAYPeeQMH
+BEEWP0NBTExFIEFWLiBMT1MgU0hZUklTIFMvTiBORVMgR0FOR09URU5BIFVSQkFOSVpBQ0lPTiBM
+QSBQQUxNQSBTQTAcBgorBgEEAYPeeQMIBA4WDDU5Mzk5NDEzNTk3NTAdBgorBgEEAYPeeQMJBA8W
+DVNBTlRPIERPTUlOR08wJgYKKwYBBAGD3nkDCgQYFhZGRVJSRVRFUklBIFRPTlNVUEEgU0NDMB0G
+CisGAQQBg955AwsEDxYNMTc5MzA4MjI3MDAwMTATBgorBgEEAYPeeQMMBAUWA0VDVTCBpAYDVR0g
+BIGcMIGZMFQGCysGAQQBg955AgEBMEUwQwYIKwYBBQUHAgEWN2h0dHBzOi8vZmlybWFzZWd1cmFl
+Yy5jb20vcG9saXRpY2FzX3JlcHJlc2VudGFudGVfbGVnYWwwQQYLKwYBBAGD3nkCAgIwMjAwBggr
+BgEFBQcCAjAkDCJDZXJ0aWZpY2FkbyBkZSBSZXByZXNlbnRhbnRlIExlZ2FsMA4GA1UdDwEB/wQE
+AwIF4DANBgkqhkiG9w0BAQsFAAOCAgEAOkeE0nCmNDvtfufl/rZ9SHkPJhOhmQRufiI/RYqohwR4
+4W0bCSdCviEIN7iT+Od1e2i4mSayEjCTfktyd0Ad2o32tXQq/1zYbMoI0P2wIQ3/fUQgFzDtcEJx
+oeJy5zLEtwIaxDr7hAZsUq17GPjyNxQbg4x9NvMXXr0Ll7N5JP0bnVYCFqV+atPqZA8g9oOm7l9T
+ND1CbANz7TPZUES7uGo3k5Jx65xZH6aCvpSFowPxteUsjnEw4je1hSWH69yp+fgiyZbJleDeXDRI
+wzAviA17nhce9qKKRsdI+b2ZhcWkwcmcEeHto9226uUftWb3LN14ju7aEvcKRoOXCK6SmWZvrCVc
+hwpY+e2SGFcgm0Iv1LXUAwfdI6QaN1XMUvRQTO7Giiw0rF4MYdyEY3lpq5Xvx52JPogMFIZYX6DP
+SUrTonin2cy81KYKcnj+yK2bRjw6MWMKnVXmxRLBOmxDggkOlrdhiylQN6K9GosF4XMu8Gwe71BA
+yP8TOScfTFyjY6JMtdGlRftlO7Y+M/zJf9oYwQv+EVJ5y53mhya211rB0/taTtZnVrlZBArsLzrF
+RzPeRjAu56TF2zfPy+73hKSqX2XtGt/sjXcc3Kn6r0QotF2i4M4B8YPDBQVgsqEKa0GHBuS+KMtj
+slphckVi8xKBGn6oR5n54N4fKcgaChs=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gBXcDSgBORX3OQ3H0JHnBtavmAp9e8zzAzwXmiswHqI9NTGsoZAMBK/7UgEaIsUk5ohxSKeTYxoL
+iHcpz5shUFucvGMr1e7z7aV6c3BrTGtBRIZcA5eIFGA3ywiO0BROfkW1sFSP/5PTtreq8vncl1xX
+N1Cog9eM/qmlRZgyumavykLPScJ7kwAL9KFyb6CjBVNwR8v+PigWDw9+hi+CKvDptVvu0lkDy9BW
+Xqn0YBz/f196Kkt6MzoSBMPqUrgV9B9Zd6tEL1Q/hulhslMXEeLkGF/tnXz5fyTGTHzY4Htq1k2f
+Xc2nXsg6zkvla17XuoflFoi4j3pMAM7gjrdZbw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature922654-Object770103"><etsi:QualifyingProperties Target="#Signature922654"><etsi:SignedProperties Id="Signature922654-SignedProperties878934"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-18T14:54:56+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>z3lOc7qw9Epq3ml4i8wzpDvvKyU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>188154804623804542631622239891234767477</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-236410"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

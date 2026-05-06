@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2704202601092490102800120010100000958031234567814</numeroAutorizacion>
+<fechaAutorizacion>2026-04-27T16:03:20-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PINCAY ESPINOZA KARINA ESTEFANIA</razonSocial>
+    <nombreComercial>PINCAY ESPINOZA KARINA ESTEFANIA</nombreComercial>
+    <ruc>0924901028001</ruc>
+    <claveAcceso>2704202601092490102800120010100000958031234567814</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>010</ptoEmi>
+    <secuencial>000095803</secuencial>
+    <dirMatriz>COOP. SANTA TERESA KM 12 1/2 VIA A DAULE</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>27/04/2026</fechaEmision>
+    <dirEstablecimiento>COOP. SANTA TERESA KM 12 1/2 VIA A DAULE</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>TRANSPWILQ S.A</razonSocialComprador>
+    <identificacionComprador>0993048135001</identificacionComprador>
+    <totalSinImpuestos>2.61</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>2.61</baseImponible>
+        <valor>0.39</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>3.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>3.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>20918</codigoPrincipal>
+      <codigoAuxiliar>1100149</codigoAuxiliar>
+      <descripcion>CONSUMO GRASA 1/2 LB VISTONY (AZUL) EP-2 LITHIUM 210GR</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.608700</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.61</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>2.61</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">.</campoAdicional>
+    <campoAdicional nombre="Contribuyente">Regimen General</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-f112c682-0709-4328-8623-00cd8bcabe5e"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-59035d21-f8c4-4737-8dfc-7035e7776593" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>GXek4W3B4gTpU+OADshSH8ENXjlIHwBsq9SoYy5+7Q4=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-f112c682-0709-4328-8623-00cd8bcabe5e"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>oxNcM2lRKnC1SptvtMepvmTCjMdsRnWopTRNPiOvX6w=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-f112c682-0709-4328-8623-00cd8bcabe5e"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>J0Kd8IHU31VgDuw+Jia94U5SUrjVCOS8nud27gAy0/A=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-f112c682-0709-4328-8623-00cd8bcabe5e">Ih7osKsv/1j79B7TyNiiMWhg0fCLQQ/Wanyk5QrwpegsJEXb1TaDlYNoiUrVdtwMeUSU0/xXBJ8wir9LaNtaZoXZ6LFqVyW8J/fmpf9Vs1O1oqv4LwUQ2JJtn7/elhGHrDIuIVmFpIkCvtMbBj+GIBBaXONIy7MBkRfjASllLq77bsy/3MDnxvTAt9nc8pn/NLscLfUgq8BpC+D2fCiB7F+mwB+Z4avZxwKQEdhhAS3QYyvGksGD+2cFPWz5rwXvmqaILHVXE6BVcpzrG2TRqvUTKdLoqKQV99rRfXvXboUlCf73y4c3BbWHy7rKIRdzJFJiriGIzX1ihAi2sPLoqw==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-f112c682-0709-4328-8623-00cd8bcabe5e"><ds:X509Data><ds:X509Certificate>MIIL3zCCCcegAwIBAgIECf0qmTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA4MDgyMjI5NTlaFw0yNzA4MDgyMjI5NTlaMIGrMSkwJwYDVQQDDCBLQVJJTkEgRVNURUZBTklBIFBJTkNBWSBFU1BJTk9aQTEgMB4GA1UEBRMXMDkyNDkwMTAyOC0wODA4MjQxNzM5NDcxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkCaMutNgofAZO0xeamkwt7YP6825fpwjQVq6ARXSLcUBJO/dQJvcGLRYRdFiGapZka945/58LnIn9J/UsXUBM2AtxdEqyskd/GRoibfBjRgW9shcPR8yqnAQ9H0elDyXg6LbL/YMl6WfR+1PmTszXDRkKk8HiHHEIGo6NZHHBfuguTrZUpmtTbsNGW9X7EwYPqggiQo5DyJQJUpr6y+Sb/IDXnpwlzP8hCUpuQS5zITf2xyKu73pWNSBG6FMP1IDC9qSXBn4Er+rI79qgiJQCQiXIOfHO6y+0TQKvutzcrfCDgS8kgRSFZuUkES7Z8VPhhuXnxj63LKGI9tN2iD/5wIDAQABo4IHGTCCBxUwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwKwYDVR0RBCQwIoEgZHB0b2NvbnRhYmxlQGNvbWVyY2lhbHBpbmNheS5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUe1scyEO3L15f/YRKSQIy7Bhg7MIwKwYDVR0QBCQwIoAPMjAyNDA4MDgyMjI5NTlagQ8yMDI3MDgwODIyMjk1OVowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMDkyNDkwMTAyODAWBgorBgEEAYKmcgMJBAgMBlRBUlFVSTARBgorBgEEAYKmcgMiBAMMAS4wGgYKKwYBBAGCpnIDBwQMDApTT0xBUiAxNyAyMCAGCisGAQQBgqZyAwIEEgwQS0FSSU5BIEVTVEVGQU5JQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDYyNzQ5OTARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGUElOQ0FZMBoGCisGAQQBgqZyAx4EDAwKRVNUVURJQU5URTAdBgorBgEEAYKmcgMLBA8MDTA5MjQ5MDEwMjgwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBgGCisGAQQBgqZyAwQECgwIRVNQSU5PWkEwGgYKKwYBBAGCpnIDCAQMDAowOTg0Njk4NjI0MA0GCSqGSIb3DQEBCwUAA4ICAQC+hulbrqc1R0M2TuXhvm6AlsQRK5/jTsFkKHvuMVNz/MyWANEA24UzytzitRuxuUMFxwPt/0R42tTr+x5RboraZVD2bYcWGpQ8W/d7OcwuFy6Hw84QD6oef6/ZyPv/ER0Sc+a2PE59DOPvyePY769O5kxvXsnpovHmopHa6x1PlUDmWi5dM69LUNwuDx6tMd52r2+/R2kkpNWDfv/crubPVkXMYqMbzSPaLcbcuBBJogLMEFvf8BkDvGMm5dK64BwbJ2vAli+CpcdyDuHnbq3LusT9aj1rO0wmMMvOx+u8KzkynP4ARliHbz08+G0a27onZYdz52T6f5VpuRjZpUJV1srU7LN4bDa1RrdzXruA3k3PNz8lA13F0xEOWilbGAelJ5tPbLAIuhDOxDLAwwGMYPPAL0kaZkDvve+OyEzxp6aToNQng3vPKlo19ubo+8qqTlpgEcQ5C13wI95FtMMKLI2QRDsQ+6TmcZ41skcrdCErqNRYiXAEJhdc6962ZNstIrXER3wvrKMIvA/jupVlZx/d0IjIRw4/r7wKBZPkH01Np8W8J29wVjoToVpbdKyp4KvRWpXCVnAHe1bxStvl9PX04mkxNgzS2Qxib8mItldgFWPmE0cQ8IzZMjJaSuExxROqYUzFVAXA2fBJ4HBRcc03ua6yXDTkdocC4khPTw==</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>kCaMutNgofAZO0xeamkwt7YP6825fpwjQVq6ARXSLcUBJO/dQJvcGLRYRdFiGapZka945/58LnIn9J/UsXUBM2AtxdEqyskd/GRoibfBjRgW9shcPR8yqnAQ9H0elDyXg6LbL/YMl6WfR+1PmTszXDRkKk8HiHHEIGo6NZHHBfuguTrZUpmtTbsNGW9X7EwYPqggiQo5DyJQJUpr6y+Sb/IDXnpwlzP8hCUpuQS5zITf2xyKu73pWNSBG6FMP1IDC9qSXBn4Er+rI79qgiJQCQiXIOfHO6y+0TQKvutzcrfCDgS8kgRSFZuUkES7Z8VPhhuXnxj63LKGI9tN2iD/5w==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-11843e32-30af-48a8-bd84-4acc88bfdfab"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-b260b224-e8bf-4ad7-bb94-b131efa53440" Target="#Signature-f112c682-0709-4328-8623-00cd8bcabe5e"><xades:SignedProperties Id="SignedProperties-Signature-f112c682-0709-4328-8623-00cd8bcabe5e"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-27T16:03:20-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>eJbLB2NaZNtnoe1SRUsSBUPpaorHEANwAhe1DGMfhJo=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>167586457</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-59035d21-f8c4-4737-8dfc-7035e7776593"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

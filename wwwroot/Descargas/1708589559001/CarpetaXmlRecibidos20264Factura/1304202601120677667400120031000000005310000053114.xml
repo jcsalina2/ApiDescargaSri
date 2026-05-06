@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601120677667400120031000000005310000053114</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T11:08:00-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Norka Juliana Mosquera Salas</razonSocial><nombreComercial>PACKEXPRESSPLUS</nombreComercial><ruc>1206776674001</ruc><claveAcceso>1304202601120677667400120031000000005310000053114</claveAcceso><codDoc>01</codDoc><estab>003</estab><ptoEmi>100</ptoEmi><secuencial>000000531</secuencial><dirMatriz>Quevedo: Calle Bolivar No. S/N y Novena, Mercado 3</dirMatriz></infoTributaria><infoFactura><fechaEmision>13/04/2026</fechaEmision><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>WASHINGTON DAVILA PAZMIÑO</razonSocialComprador><identificacionComprador>1708589559001</identificacionComprador><direccionComprador>SAN CAMILO/SANTA MARIA II Y 12AVA</direccionComprador><totalSinImpuestos>24.50</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>24.50</baseImponible><valor>3.68</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>28.18</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>28.18</total></pago></pagos></infoFactura><detalles><detalle><descripcion>COPIAS CERTIFICADAS DE LA CAUSA 12331-2025-00263</descripcion><cantidad>490.00</cantidad><precioUnitario>0.05</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>24.50</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>24.50</baseImponible><valor>3.68</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Direccion">SAN CAMILO/SANTA MARIA II Y 12AVA</campoAdicional><campoAdicional nombre="Telefono">0999543082</campoAdicional><campoAdicional nombre="Correo">estudiodavila@outlook.es</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature515156">
+<ds:SignedInfo Id="Signature-SignedInfo660148">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID81499" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature515156-SignedProperties988569">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>IosjDF3oH7zY7aYV8TDjPAuEGZU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1746791">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hHlMeqBwa9j/ot6yY947Cfgd3R4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-860110" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>oHjrFfmI30Skd3HHNBpNpqziJnA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue588011">
+1z6ADE0hpTKNTucL2s5blkqujYHT+9uz99oYjRuD4I9npj+xxEA3UX6fFZU0k0QYmNKXlwwLoWwg
+efNLw1tRIgVrApG/NDwDjWAU+7DZuz0RKnDAFA0YWC/uYKWuhLfxfZXbMr3tlEAb1Kl5NTNsJFqV
+okmCiDQgnx5EOFsd8qc+KCkTIxroWlQ6pU/1gm1ICP0U8MnpGyuiXUQYy92eO1XRxlnk63s0XIbR
+0E8+KpXp90FmaIm3VbAnJ7/7/wrW57LlWOjM1BcHpC5mfG3ulaotFVBrIaDvklqN+NQknNnzO2wW
+qdXvIR28gUExUFMl8U5H4pnVhBx+S0x6l9XFOw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1746791">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH+zCCBeOgAwIBAgIRAIc85GfkbYpLHXRdLP3zB5cwDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNjAxMTYxMzUzNTFaFw0yNzAxMTYxNDUzNTFaMIHfMS0wKwYD
+VQQFEyRmNTJkZjU5NC1jNmFjLTQ3MWMtOGQ2Yi1kOTcyOWM0MWZjNmExKzApBgkqhkiG9w0BCQEW
+HGpjLmFzZXNvcmlhY29udGJsZUBnbWFpbC5jb20xJTAjBgNVBAMTHE5PUktBIEpVTElBTkEgTU9T
+UVVFUkEgU0FMQVMxMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTjEbMBkGA1UEChMSRklSTUFTRUdVUkEgUy5BLlMuMQswCQYDVQQGEwJFQzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAON0pXR8yJ2AxtO04ISVOLbOFqKggQ0Plbed8Chd3XDOsCGC
+TEXMxxlWQ6w9dZnGb3soZsI8EEaWFgdFTpCeqP2JBeltWSJgKpAyVV9y1HRSuYHwyqOcUvgg81v2
+ZE1/EQtjOY7M0jTF2wsjW05dMGbX5/DcMloYh8kG+Xh9Psqx2Mj2wiTl/L4Cw3aeSWuMbCPEc2nn
+T53HQPVsr+7RvotL9Ha4l3DrU0x2MEZsHT2xskrQvdm6w2HU00CU+ZjJwoG6lbw296nQOJ9h6l8D
+VWJ0Mzh8f430ZAnMwQz81MHRFcxOaGzR8GFRREJ3vAtc9G7LKWgy01LzxeeDKUqjz1UCAwEAAaOC
+AsswggLHMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUE0aTaAmu1ySHM0VjJnffrF5eilEwHQYDVR0O
+BBYEFJE6ch+Hy7vffkftbMwEiEkjApjEMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuZmly
+bWFzZWd1cmFlYy5jb20vY3JsL2NjY2U1YTRmLTZiNjgtNDZmYy1hNjIwLTRhYmNjNGM0YTY5MC5j
+cmwwOQYIKwYBBQUHAQEELTArMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5maXJtYXNlZ3VyYWVj
+LmNvbTAaBgorBgEEAYPeeQMBBAwWCjEyMDY3NzY2NzQwHQYKKwYBBAGD3nkDAgQPFg1OT1JLQSBK
+VUxJQU5BMBgGCisGAQQBg955AwMEChYITU9TUVVFUkEwFQYKKwYBBAGD3nkDBAQHFgVTQUxBUzBZ
+BgorBgEEAYPeeQMHBEsWSUJPTElWQVIgTk8uIFMvTiBZIE5PVkVOQSBNRVJDQURPICBOTy4zIERJ
+QUdPTkFMIEEgRkVSUkVURVJJQSBXSUxMSUFNIEZPTkcwHAYKKwYBBAGD3nkDCAQOFgw1OTM5OTQ1
+ODEyODYwFwYKKwYBBAGD3nkDCQQJFgdRVUVWRURPMBcGCisGAQQBg955AwwECRYHRWN1YWRvcjAd
+BgorBgEEAYPeeQMLBA8WDTEyMDY3NzY2NzQwMDEwgZwGA1UdIASBlDCBkTBQBgsrBgEEAYPeeQIB
+ATBBMD8GCCsGAQUFBwIBFjNodHRwczovL2Zpcm1hc2VndXJhZWMuY29tL3BvbGl0aWNhc19wZXJz
+b25hX25hdHVyYWwwPQYLKwYBBAGD3nkCAgEwLjAsBggrBgEFBQcCAjAgDB5DZXJ0aWZpY2FkbyBk
+ZSBQZXJzb25hIE5hdHVyYWwwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQAIV/ex
+/PsGduPKZReHqL9KK9hTWgV9sVuv+zAhMrY693TuAZTVX1hPYFk4FOeBr3sLA8vvTOOh3Gf20rvU
+G6GWQ6URWkX0I1DgAR33henC+JCFCjh+mWeJUw51EUGIRfSvF6OkU8wPKKJ29sozWk+NMqcnDH4f
+CjyFV1sbncf8m6Q2OuywAmvodLxsNIcH3f32m3oPJAZ/aEg2vmke1qnYc7hPuzjg2a0SETzQh7J6
+e6+Jmu0VOaSbu+QWsMHq8ApTzEe2Ag1K34aapFlg4xW3rdVPaz1wZ3t6Uabfg/kM457zWze6WFUl
+o2C5kEoxq5uf4Z+nf/XXJLVTRfJUR4IQRvFgj7pMsQpRa/L9eSSYzM1dQQQVlEorMlBBjUCgGIof
+ilJ9+J4D39Og9/RKHrTGRi2sdjqpt2pLNIpsYA9N36ZirfaWsHajx2/6/eNlPjzkVwUXalUgDIPK
+fYHYogwEkny9Qaf6/fcArWbuu3D3BxVaFd0RNyBj34p1A+ins3ONBSFiJ+nzKCC6k+Q4f67oqIhH
+JKBxlAr6386OSzZkKQVMZxEcnWyZzIVpOREU3tgpjMFBZPWuMKtdtt9tCm3ROImvMNoiAcIphn7o
+wv2WWMLVKAp50WZjbHNvcyVpvxXUq5EHlR5FJ6yURqXQUizgs1zkVCjW8cFooYV0C0/LwQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+43SldHzInYDG07TghJU4ts4WoqCBDQ+Vt53wKF3dcM6wIYJMRczHGVZDrD11mcZveyhmwjwQRpYW
+B0VOkJ6o/YkF6W1ZImAqkDJVX3LUdFK5gfDKo5xS+CDzW/ZkTX8RC2M5jszSNMXbCyNbTl0wZtfn
+8NwyWhiHyQb5eH0+yrHYyPbCJOX8vgLDdp5Ja4xsI8RzaedPncdA9Wyv7tG+i0v0driXcOtTTHYw
+RmwdPbGyStC92brDYdTTQJT5mMnCgbqVvDb3qdA4n2HqXwNVYnQzOHx/jfRkCczBDPzUwdEVzE5o
+bNHwYVFEQne8C1z0bsspaDLTUvPF54MpSqPPVQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature515156-Object478185"><etsi:QualifyingProperties Target="#Signature515156"><etsi:SignedProperties Id="Signature515156-SignedProperties988569"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T11:07:59-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>oTCF2A+ve27Bs5CyOY9nJk2E9lk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>179761949863061112275616750586687588247</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-860110"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

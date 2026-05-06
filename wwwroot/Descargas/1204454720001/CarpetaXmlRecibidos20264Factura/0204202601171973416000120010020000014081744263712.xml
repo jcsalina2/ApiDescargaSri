@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601171973416000120010020000014081744263712</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T09:32:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>GONZALEZ CEVALLOS ESTEBAN LUIS</razonSocial>
+	    <nombreComercial>GONZALEZ CEVALLOS ESTEBAN LUIS</nombreComercial>
+	    <ruc>1719734160001</ruc>
+	    <claveAcceso>0204202601171973416000120010020000014081744263712</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000001408</secuencial>
+	    <dirMatriz>PICHINCHA / QUITO / NAYON / LALAMA SN Y VIA A NNAYON</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>02/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>PICHINCHA / QUITO / NAYON / LALAMA SN Y VIA A NNAYON</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>NO</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>CARLOS ALBERTO AGUAYO ALVARADO</razonSocialComprador>
+	    <identificacionComprador>1204454720</identificacionComprador>
+		
+	    
+	    <totalSinImpuestos>92.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>92.00</baseImponible>
+				<valor>13.80000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>105.80000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>105.80</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>CAP</codigoPrincipal>
+		<codigoAuxiliar>CAP</codigoAuxiliar>
+      	<descripcion>Calcetín Personalizado</descripcion>
+      
+      <cantidad>72.000000</cantidad>
+      <precioUnitario>1.220000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>87.84</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>87.84000</baseImponible>
+          <valor>13.18</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>DYP</codigoPrincipal>
+		<codigoAuxiliar>DYP</codigoAuxiliar>
+      	<descripcion>Diseño y Pruebas</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>4.160000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.16</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.16000</baseImponible>
+          <valor>0.62</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">Personzalizado</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature517643">
+<ds:SignedInfo Id="Signature-SignedInfo898185">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID599088" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature517643-SignedProperties275287">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>NrnriWdYjWNeklIXCCfXdcFRuI0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate787266">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>q3u8S0OM2gxHPtzEJOIc6EcD/Zo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-56394" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dPsQwHN7dyYLoVkZBxrK19Q/n2A=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue76978">
+BeipnG/5L1Gb9RglXFms+hhl7GEbD7sSbXOHRIN3lF+RDNKjRJesMzl4/pC3AFIU1+ruPVEug69+
+o6c0DrIIQV6FgmpuAq4Zse+wUTi1Dz9HEEkULlQPhGzQ/LjzD1GAH5ob9pQQSENKa/7+Rw74FQ6w
+vp3Do+XDNTGVFf/6kpCKHWxyfiyo6pG7SuZA4L5VoTAFBS6p/Pz5pEajuOh90UZ/Dn6qrCX3dYt5
+ziclWqCD2kbaFvAU67p1v0mpV8AA0tfBGFhzPZBALeRne0uXAvng2x810jY67ziwy6hrwpe5joWO
+p1E8uwm1f8Ic1nb53FhchOzmB/1LdMO+gBFhZg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate787266">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJGzCCBwOgAwIBAgIIUWANpYpvqxwwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDgwNTE3NDAwMFoXDTI2MDgwNTE3NDAwMFowgaIxCzAJBgNVBAYTAkVDMRowGAYDVQQEDBFH
+T05aQUxFWiBDRVZBTExPUzEVMBMGA1UEKgwMRVNURUJBTiBMVUlTMRkwFwYDVQQFExBJRENFQy0x
+NzE5NzM0MTYwMScwJQYDVQQDDB5FU1RFQkFOIExVSVMgR09OWkFMRVogQ0VWQUxMT1MxHDAaBgNV
+BGEME1RJTkVDLTE3MTk3MzQxNjAwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCQ
+CU6o2XRd1ptRsKBK3bQUfHcZ1fg/wiZGnnyqFT7TR85CKM+ZlZjtgscekglbtM3k+jpjgvDloLa6
+uVnoDWg90R3xetWLnTY0ZdmOtRtsOiD8COi2d3JnrjGLnfJcjfuymfWqiqdcajRlHFKeGstHixEI
+hrm3bkUj0LNUCWeRAsHK42/ToLJ3lgilZjVdDhxuGyRBjkXEvp/GEmPIZ0doHOnjL5+2GgXqx2TR
+tx+D72pHRf5v2FHaUfHCYKhTtDjrEbXigmQmiJuVhUgPqtMLa+ATpNukK8da5y8kAiwrrUmgkoDU
+asb2YWUUZNcKZUfiaZHfdOMuCVfNOw7lyUO1AgMBAAGjggQ7MIIENzAbBgsrBgEEAYLxNmYDAQQM
+DAoxNzE5NzM0MTYwMB4GCysGAQQBgvE2ZgMLBA8MDTE3MTk3MzQxNjAwMDEwgdcGCCsGAQUFBwEB
+BIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxv
+YWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8v
+b2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9v
+Y3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUWT9FAkqbTJfb8Nob
+bD7r+ZqxUhcwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCB
+mQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FE
+TyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECg
+PqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5h
+ZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Ey
+c3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYB
+BQUHAwQwggFxBgNVHREEggFoMIIBZIEVZXN0ZWJhbmdjZWxAZ21haWwuY29toBsGCysGAQQBgvE2
+ZgMBoAwMCjE3MTk3MzQxNjCgHQYLKwYBBAGC8TZmAwKgDgwMRVNURUJBTiBMVUlToBkGCysGAQQB
+gvE2ZgMDoAoMCEdPTlpBTEVaoBkGCysGAQQBgvE2ZgMEoAoMCENFVkFMTE9ToCYGCysGAQQBgvE2
+ZgMHoBcMFUpPQVFVSU4gTEFMQU1BIEU1LTExMaAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5NTQy
+ODUyNqAWBgsrBgEEAYLxNmYDCaAHDAVRVUlUT6AeBgsrBgEEAYLxNmYDC6APDA0xNzE5NzM0MTYw
+MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEgTkFUVVJB
+TCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQB3
+b9aL/zuluIcBY0PFUUBbxRQDWk+LpT7HVRdgrX8QClDTAELNSZFWHi8pUx3L7yN5sckWoQUZLJRO
+zy7+WyDhQIG4PawQigZcgunWIm6swM94FAt05Mrfe3Brb5v/aUFCXQhWtw3/agAIm2bcil0SSrYt
+B44wA/T2iZ75R5ovqPb7pDYus6VrEtSHvRVE2+PjnMVTCdXzBEUrD8etdY/ggfi5RNxUabsAayh/
+qww7OnpiLemhH0rgS/wp+KLeHLDuxUVuwrPCBEIJkf1YS85He7IxOI2LU0hbyTWzbPeQ0Vlkyz3U
+aGHOLiLeVGoC2aMfjxGNv5GCob+Xb9OkDWtLUWgrq8PCW0JNDCn2r8av2tC0/bHyGjxB6687og5C
+FXplSG9eZnqxszUXT07f4gHC+QYK97lx0xH6p7YWXPY0ETysECreZiYxEix9DS3+QRNg7KR7itgd
+Cel/NYqRoSjgRF+GiFBDnw0CmNFaUf6RC/Xq+g/aNvgPwc6xJiyQGlauHgS4xssWpAWV2uNfb2Tm
+NljSirt55XG0s9ggFJwJbXoNeM/A7xDIp4/lb7mx51k3L7AVVTA6uVNeBQ+9AJwqzoovjxgOaa2f
+Q85tPNOwAIj1OfxInKo2HJQFa1JGqSnbQl8y03YYaoz1UWWQAkk6a54PSTGGv3w/R7ynBMkECQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+kAlOqNl0XdabUbCgSt20FHx3GdX4P8ImRp58qhU+00fOQijPmZWY7YLHHpIJW7TN5Po6Y4Lw5aC2
+urlZ6A1oPdEd8XrVi502NGXZjrUbbDog/AjotndyZ64xi53yXI37spn1qoqnXGo0ZRxSnhrLR4sR
+CIa5t25FI9CzVAlnkQLByuNv06Cyd5YIpWY1XQ4cbhskQY5FxL6fxhJjyGdHaBzp4y+fthoF6sdk
+0bcfg+9qR0X+b9hR2lHxwmCoU7Q46xG14oJkJoiblYVID6rTC2vgE6TbpCvHWucvJAIsK61JoJKA
+1GrG9mFlFGTXCmVH4mmR33TjLglXzTsO5clDtQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature517643-Object633968"><etsi:QualifyingProperties Target="#Signature517643"><etsi:SignedProperties Id="Signature517643-SignedProperties275287"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T09:32:50-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>nemwAjFGqS43jf24tQY0syAOyK4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>5863701719479724828</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

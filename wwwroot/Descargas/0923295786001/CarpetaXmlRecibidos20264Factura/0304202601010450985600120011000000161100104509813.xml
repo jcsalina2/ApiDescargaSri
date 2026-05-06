@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0304202601010450985600120011000000161100104509813</numeroAutorizacion>
+<fechaAutorizacion>2026-04-03T10:01:10-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>JOSE ALEJANDRO APOLO APOLO</razonSocial>
+    <nombreComercial>YAKUMAMA</nombreComercial>
+    <ruc>0104509856001</ruc>
+    <claveAcceso>0304202601010450985600120011000000161100104509813</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000016110</secuencial>
+    <dirMatriz>LUIS CORDERO 5-66 Y JUAN JARAMILLO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>03/04/2026</fechaEmision>
+    <dirEstablecimiento>LUIS CORDERO 5-66 Y JUAN JARAMILLO</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>MIGUEL ANGEL JARA</razonSocialComprador>
+    <identificacionComprador>0923295786</identificacionComprador>
+    <direccionComprador>GOLONDRINAS Y GORRIONES</direccionComprador>
+    <totalSinImpuestos>45.37</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>8</codigoPorcentaje>
+        <baseImponible>45.37</baseImponible>
+        <valor>3.63</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>3</codigo>
+        <codigoPorcentaje>3031</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>49.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>49</total>
+      </pago>
+    </pagos>
+    <valorRetIva>0.00</valorRetIva>
+    <valorRetRenta>0.00</valorRetRenta>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>203</codigoPrincipal>
+      <descripcion>Avocado Toast  ,GUARNICIONES:,  1 x - Fruta del dia, </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>6.94</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.94</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>6.94</baseImponible>
+          <valor>0.56</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>9</codigoPrincipal>
+      <descripcion>BAGELS 2 ,GUARNICIONES:,  1 x - Ensalada fresca, </descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>6.25</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>12.5</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>12.50</baseImponible>
+          <valor>1.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>145</codigoPrincipal>
+      <descripcion>HUEVOS PURGATORIO</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>6.48</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>12.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>12.96</baseImponible>
+          <valor>1.04</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>3</codigoPrincipal>
+      <descripcion>PANCAKES DE ORITO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>6.48</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.48</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>6.48</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>5</codigoPrincipal>
+      <descripcion>TOSTADA FRANCESA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>6.48</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.48</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>8</codigoPorcentaje>
+          <tarifa>8</tarifa>
+          <baseImponible>6.48</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="CORREO">arteyarmonia.escuela@gmail.com</campoAdicional>
+    <campoAdicional nombre="TELÉFONO">0990925962</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature2126439139"><ds:SignedInfo Id="Signature-SignedInfo729781219"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID1092705266" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature2126439139-SignedProperties1822311507"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>+vchJeL6BCIfw1zGwwr4ATN5xyY=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1018805779"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>OeZt0J5tTpxzcM/vNTiM4bpsYio=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-1295485747" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>oSwu7IFQWRb4dqSWvjPMpwxxPeQ=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue804206548">m1ncKFN+RmASTsygn6KZgfB5mel6wQCW+e8K3WH3HgH5+13rUnUNn39tTCu46AcjRoNR87arpApT
+lSQCQSmmdgDqWFmgJbGQSNpiBE07xqAB9QdWDryboyZyIJoTQ6/fQ2rInn5iITrg9rnx83jBizg9
+Cj7JT4ByaSy2bYngBaIcBoDTN07pFtuuPxMSfk3nIn/RxlwCNH5UJo+V8FV9kL4hvzWRW6FLiUDR
+3KqXyyd2j6c9J6lRmgdg3XKfkDcN3xGmPhc+XffKVOaz8YG/IobUqkqlG6OttAE7hd699NKCWAYZ
+jQ0hD0b0Ypr1mUWF8s/LM1qDxNjpMf0hiza8Eg==
+</ds:SignatureValue><ds:KeyInfo Id="Certificate1018805779"><ds:X509Data><ds:X509Certificate>MIILujCCCaKgAwIBAgIEYcvsnTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAzMTYyMjE4MDRaFw0yODAzMTUyMjE4MDRaMIGaMSMw
+IQYDVQQDDBpKT1NFIEFMRUpBTkRSTyBBUE9MTyBBUE9MTzEVMBMGA1UEBRMMMTYwMzIzMTcyNzQw
+MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAJ9YUvbAekmK1SxCmSZVooLjod2o5qu3LcmycVQq3HRWXzkORd0PQMp30lUX
+pdKbYTDfhFUaKvaVJv9ZiivlWRYOG5TJXManVlbo4ZvWoqceESgCGUgUXxxmknBTT5LyT0O3RYIE
+xpXyq2+LFWqL3FoWXnlKfA+u3aLCvrRfJeSo3sXyOwvZTCDbUYvQa0Nid+SXiIRSDfKFyXpzGdFM
+A7PmRl9UEV6MFSXTbuGCUIs+BZy8eziQ1gGsF2V3UrU5AbaQjk209giGlIKR9QCRLEuGi6S8Uu6n
+m4VvWx6IY3Sd8fc/BBRWgznoXstIP9BdCcbdy0Di40OAe/2hNXcryuMCAwEAAaOCBwUwggcBMAwG
+A1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEE
+TTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2Ev
+cHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRh
+cHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9i
+YXNlMCAGA1UdEQQZMBeBFXBlcG9hcG9saXRvQGdtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgor
+BgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAg
+AFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEF
+BQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fk
+cy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQ
+ZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZ
+MTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNz
+dWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDMB0GA1UdDgQWBBQqoYbcj+jGvFbPt6xtJZeOZ/arIDArBgNVHRAEJDAigA8y
+MDIzMDMxNjIyMTgwNFqBDzIwMjgwMzE1MjIxODA0WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnID
+AQQMDAowMTA0NTA5ODU2MBYGCisGAQQBgqZyAwkECAwGQ1VFTkNBMBEGCisGAQQBgqZyAyIEAwwB
+LjAgBgorBgEEAYKmcgMHBBIMEExVSVMgQ09SREVSTyA1NjYwHgYKKwYBBAGCpnIDAgQQDA5KT1NF
+IEFMRUpBTkRSTzAfBgorBgEEAYKmcgMgBBEMDzAwNTAwMTAwMDA2NzU4MTARBgorBgEEAYKmcgMj
+BAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisG
+AQQBgqZyAwMEBwwFQVBPTE8wEQYKKwYBBAGCpnIDHgQDDAEuMB0GCisGAQQBgqZyAwsEDwwNMDEw
+NDUwOTg1NjAwMTARBgorBgEEAYKmcgMdBAMMAS4wFQYKKwYBBAGCpnIDBAQHDAVBUE9MTzAaBgor
+BgEEAYKmcgMIBAwMCjA5ODA0ODAzNjUwDQYJKoZIhvcNAQELBQADggIBACYs5jqcPjn83/F1ZVe/
+s7+nyNC14+hDmTEA1sA+rs/dj6TNHDJwI0KlPTdfYppJIJ3vRBRifhdw3ujBGLSHJJ66bECysdm2
+7xSsmN6snck03igzRdqLzEjTpm+hQhNtdr4SlK9i0ErjGBOKp/YTM5WjjUR2z1RKPc7+WTnsNurJ
+8rhEei3ZfR7OiRdMiSk0ZxVDHDnuHUQU+uBRlwqU2MRDIZr1JJCT60CG+n7BdXbkgh+QnjjROvXu
+11HF42yjYcEbIvsl4pvkTe9IjIgcRuMbnTiqVmAvqODxiJLlJQYAbpQhRN604gN6yJOhxsj0Pi8z
+vUg9cvqWwToFzp3ypZQAcB2fT2NuRb2MT/utn+S7/ko8miYp3jsvJhDGsAX8wtceW2hT/0A2D7vq
+5qXOOsAcePumeEE5bOL/NXpV/y385goTsv/r01Ts2gOJ7uFgvFdWvoxzhcT2ojdFmaGnpzAYccOr
+FFMEym3/fUwUHgLdNLxUJj/VSzGlTs76SN2wo8W6rojSyUXhHt7+rdiwz8wMzCSadbPi3lKeRAxm
+sVh49+i9VjindrTRScF5Gv+xj71Lpz+QeHEaTDUMHgLcC8ha1tDp9IVfv42PwQbihqHWtvuqaD7t
+qvh/C3rmggkrFfkLUGbSkHWXjBVkbZjvADrJhPs+XlTrZrYN6g2Zdb3I
+</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>n1hS9sB6SYrVLEKZJlWiguOh3ajmq7ctybJxVCrcdFZfOQ5F3Q9AynfSVRel0pthMN+EVRoq9pUm
+/1mKK+VZFg4blMlcxqdWVujhm9aipx4RKAIZSBRfHGaScFNPkvJPQ7dFggTGlfKrb4sVaovcWhZe
+eUp8D67dosK+tF8l5KjexfI7C9lMINtRi9BrQ2J35JeIhFIN8oXJenMZ0UwDs+ZGX1QRXowVJdNu
+4YJQiz4FnLx7OJDWAawXZXdStTkBtpCOTbT2CIaUgpH1AJEsS4aLpLxS7qebhW9bHohjdJ3x9z8E
+FFaDOehey0g/0F0Jxt3LQOLjQ4B7/aE1dyvK4w==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature2126439139-Object1282295751"><etsi:QualifyingProperties Target="#Signature2126439139"><etsi:SignedProperties Id="Signature2126439139-SignedProperties1822311507"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-03T10:01:09-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>1uOBuknDfFT2suIBHdr04TSkDRM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1640754333</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1295485747"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

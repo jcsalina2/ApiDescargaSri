@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202601079174015000122900210000102830001028310</numeroAutorizacion>
+<fechaAutorizacion>2026-04-20T10:21:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version='1.0' encoding='UTF-8'?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CRESIO CIA. LTDA.</razonSocial><nombreComercial>CRESIO CIA. LTDA.</nombreComercial><ruc>0791740150001</ruc><claveAcceso>2004202601079174015000122900210000102830001028310</claveAcceso><codDoc>01</codDoc><estab>290</estab><ptoEmi>021</ptoEmi><secuencial>000010283</secuencial><dirMatriz>LA ESPERANZA REFERENCIA  VIA PANAMERICANA FRENTE A LA GASOLINERA TERPEL</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>20/04/2026</fechaEmision><dirEstablecimiento>WASHINGTON   S N   ALEJO LASCANO Y VARGAS TORRES</dirEstablecimiento><contribuyenteEspecial>289</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>ZAMBRANO FIGUEROA JENIFFER NIC</razonSocialComprador><identificacionComprador>1316471463</identificacionComprador><direccionComprador>AV CARLOS ALBERTO ARAY 0 00 000</direccionComprador><totalSinImpuestos>19.19</totalSinImpuestos><totalDescuento>4.21</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>15.26</baseImponible><valor>0.00</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>3.93</baseImponible><valor>0.59</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>19.78</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>19.78</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>06151</codigoPrincipal><codigoAuxiliar>7861100402438</codigoAuxiliar><descripcion>ASPIRINAINF TABx100MGx100</descripcion><cantidad>4.0</cantidad><precioUnitario>0.182300</precioUnitario><descuento>0.16</descuento><precioTotalSinImpuesto>0.57</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>0.57</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>05385</codigoPrincipal><codigoAuxiliar>7861109400053</codigoAuxiliar><descripcion>BENZO DERMA UNGx6 25 46 x24</descripcion><cantidad>1.0</cantidad><precioUnitario>0.810417</precioUnitario><descuento>0.17</descuento><precioTotalSinImpuesto>0.64</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>0.64</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>07277</codigoPrincipal><codigoAuxiliar>7861155902983</codigoAuxiliar><descripcion>HEPASIL Q CAPx150 50 100 20 1MG 120UIx30</descripcion><cantidad>2.0</cantidad><precioUnitario>0.500000</precioUnitario><descuento>0.24</descuento><precioTotalSinImpuesto>0.76</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>0.76</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>09191</codigoPrincipal><codigoAuxiliar>7862102656485</codigoAuxiliar><descripcion>ALERGIN COMx10MGx20</descripcion><cantidad>2.0</cantidad><precioUnitario>0.550000</precioUnitario><descuento>0.23</descuento><precioTotalSinImpuesto>0.87</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>0.87</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>08959</codigoPrincipal><codigoAuxiliar>7861073970309</codigoAuxiliar><descripcion>ZALEPLA COMRECx75MGx30</descripcion><cantidad>10.0</cantidad><precioUnitario>0.392333</precioUnitario><descuento>0.82</descuento><precioTotalSinImpuesto>3.10</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>3.10</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>66011</codigoPrincipal><codigoAuxiliar>7862133450007</codigoAuxiliar><descripcion>CHUPETE BEE FARMA PECTINA VITCx90GRx10</descripcion><cantidad>4.0</cantidad><precioUnitario>0.311304</precioUnitario><descuento>0.26</descuento><precioTotalSinImpuesto>0.99</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.99</baseImponible><valor>0.15</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>60693</codigoPrincipal><codigoAuxiliar>7862110202766</codigoAuxiliar><descripcion>VAPORAL MENTOLEUCALIPTO MAST TABx25GRx12 5 </descripcion><cantidad>1.0</cantidad><precioUnitario>1.000000</precioUnitario><descuento>0.21</descuento><precioTotalSinImpuesto>0.79</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>0.79</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>03796</codigoPrincipal><codigoAuxiliar>7861135400393</codigoAuxiliar><descripcion>RECOLECTOR ORINA FCOx54  45 9 </descripcion><cantidad>4.0</cantidad><precioUnitario>0.227375</precioUnitario><descuento>0.14</descuento><precioTotalSinImpuesto>0.77</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.77</baseImponible><valor>0.12</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>06459</codigoPrincipal><codigoAuxiliar>7861006112202</codigoAuxiliar><descripcion>EXFORGE HCT COMRECx160 25 5MGx28</descripcion><cantidad>1.0</cantidad><precioUnitario>1.685714</precioUnitario><descuento>0.35</descuento><precioTotalSinImpuesto>1.34</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>1.34</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>07114</codigoPrincipal><codigoAuxiliar>5000456061209</codigoAuxiliar><descripcion>XIGDUO XR COMLIBPROx5 1000MGx30</descripcion><cantidad>2.0</cantidad><precioUnitario>0.784000</precioUnitario><descuento>0.28</descuento><precioTotalSinImpuesto>1.29</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>1.29</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>68945</codigoPrincipal><codigoAuxiliar>7750215027080</codigoAuxiliar><descripcion>IBUSOL CAPBLAx400MGx100</descripcion><cantidad>1.0</cantidad><precioUnitario>0.387500</precioUnitario><descuento>0.10</descuento><precioTotalSinImpuesto>0.29</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>0.29</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>08132</codigoPrincipal><codigoAuxiliar>7501298222349</codigoAuxiliar><descripcion>DOLONEUROBION RETARD TABLIBPROx20</descripcion><cantidad>1.0</cantidad><precioUnitario>1.354000</precioUnitario><descuento>0.28</descuento><precioTotalSinImpuesto>1.07</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>1.07</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>70674</codigoPrincipal><codigoAuxiliar>650240063213</codigoAuxiliar><descripcion>SUEROX FRESAKIWI FCOx630ML</descripcion><cantidad>1.0</cantidad><precioUnitario>2.521739</precioUnitario><descuento>0.35</descuento><precioTotalSinImpuesto>2.17</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2.17</baseImponible><valor>0.33</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>08083</codigoPrincipal><codigoAuxiliar>7861006112479</codigoAuxiliar><descripcion>CATAFLAMDD TABDISPx50MGx12</descripcion><cantidad>10.0</cantidad><precioUnitario>0.515833</precioUnitario><descuento>0.62</descuento><precioTotalSinImpuesto>4.54</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>4.54</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Gran Contribuyente">GRANDES CONTRIBUYENTES  No 243    RESOLUCION No 13 de diciembre de 2022 oficio Nro NACAGCOGEC2200000849M</campoAdicional><campoAdicional nombre="Correo">zjeniffer195 gmailcom</campoAdicional><campoAdicional nombre="Telefono">0967336521</campoAdicional><campoAdicional nombre="Direccion">AV CARLOS ALBERTO ARAY 0 00 000</campoAdicional><campoAdicional nombre="Vendedor">mvvegav</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature222342">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID142880" URI="#Signature222342-SignedPropertiesID463957" Type="http://uri.etsi.org/01903#SignedProperties">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>R0dBbU/WlNQVuJhs9W6j9DQqXuk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate945698">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5p/Dz0o2RKrRw5aPjRB9E/6h7bo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-612160" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>f8gYmLwDKtsvOIoccJHA6DfgdBk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>hwaiQHJUNc4FwXmabHS2gDWB9ip9I7SkGnk3LXQXPtCNUulm/z85/4UH4kNTMHiu
+/oCARtab5704Y7vUCfvQ7TKjiTOt0KZlhlj+6p9itjlb/dtXSB3elDDM7KHcEGAx
+tjBERpbT+X/SUdCiYbJcvwmTg8Ex+tHoRO0SGiLyCVwrOAyL2BW6TxgN2/Z4vYA9
+QtUh3LefL6YJxkaQQghdlNgglJkvgWciQjtWqZZ/Amk8aKtosPLJOMcIEFX3HorR
+L/sTF5ciBOIaPX4Ril8jo2wGLEC2kP6TpFQ6fyqdraljkf0rRx9oDl04DwQCusOu
+4WlA5j7EbWAl67b0Mhh4IQ==</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate945698">
+<ds:X509Data>
+<ds:X509Certificate>MIIIBjCCBe6gAwIBAgIRAOCog3+V1nbFIeFC77kghE4wDQYJKoZIhvcNAQELBQAw
+gcIxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAu
+BgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjET
+MBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UEAww1QVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4xDzANBgNVBAcMBkFN
+QkFUTzAeFw0yNTA3MDExNjUxNDVaFw0yNzA3MDExNzUxNDRaMIHZMS0wKwYDVQQF
+EyQ4ZDRkYThhZi05ZDBlLTQ1NWMtYTg0MC02YWNiNTVjNjk5ZmMxKDAmBgkqhkiG
+9w0BCQEWGWxvcmVuYWNvc3RhYTc2MEBnbWFpbC5jb20xIjAgBgNVBAMTGURPUklT
+IEFJVEFNQVIgR1JBTkRBIEFCQUQxMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEbMBkGA1UEChMSRklSTUFTRUdVUkEgUy5B
+LlMuMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+AJk7WyxPdTBgvStVp/3uxipXi/6Y+fIJ3aF/B2XYZobCSkRv6WzK8CbgWSSwHMOk
+96vPRGSWpla/ydMcurYorfjFzF8jEBiYASDVH5hWg1q02nvF+eo3BCWA5ctSjd/j
+oCsAMfeQAi2QajRAmAKthmdw1NhAeEcKvLmAfEVpUeAzA5SkwM4aIKsBS8nuoMLx
+AfytGllfYDmt57oyB1tj6pQvFX7fsjnMW5INc7LFwrKrXK14UBTGBeqn3po9DNW2
+jXwHjWJEfA79ZXNnuxbnucMxt+1GLOIrrkWcLN/vNbDHamEndzdxxfJaxh+w3jSx
+2Lp0aKEEmsMR/+NmeXNn8hcCAwEAAaOCAtwwggLYMAkGA1UdEwQCMAAwHwYDVR0j
+BBgwFoAUE0aTaAmu1ySHM0VjJnffrF5eilEwHQYDVR0OBBYEFE6EP2Rih1Es/M9b
+C+568PynCmHuMFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuZmlybWFzZWd1
+cmFlYy5jb20vY3JsL2NjY2U1YTRmLTZiNjgtNDZmYy1hNjIwLTRhYmNjNGM0YTY5
+MC5jcmwwOQYIKwYBBQUHAQEELTArMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5m
+aXJtYXNlZ3VyYWVjLmNvbTAaBgorBgEEAYPeeQMBBAwWCjA3MDQyNDk5NTIwHQYK
+KwYBBAGD3nkDAgQPFg1ET1JJUyBBSVRBTUFSMBYGCisGAQQBg955AwMECBYGR1JB
+TkRBMBQGCisGAQQBg955AwQEBhYEQUJBRDAfBgorBgEEAYPeeQMFBBEWD0dFUkVO
+VEUgR0VORVJBTDAiBgorBgEEAYPeeQMHBBQWEkNBTExFIEFWIFJFUFVCTElDQTAc
+BgorBgEEAYPeeQMIBA4WDDU5MzkzOTYxMzg5MzAaBgorBgEEAYPeeQMJBAwWCkhV
+QVFVSUxMQVMwIQYKKwYBBAGD3nkDCgQTFhFDUkVTSU8gQ0lBLiBMVERBLjAdBgor
+BgEEAYPeeQMLBA8WDTA3OTE3NDAxNTAwMDEwEwYKKwYBBAGD3nkDDAQFFgNFQ1Uw
+gaQGA1UdIASBnDCBmTBUBgsrBgEEAYPeeQIBATBFMEMGCCsGAQUFBwIBFjdodHRw
+czovL2Zpcm1hc2VndXJhZWMuY29tL3BvbGl0aWNhc19yZXByZXNlbnRhbnRlX2xl
+Z2FsMEEGCysGAQQBg955AgICMDIwMAYIKwYBBQUHAgIwJAwiQ2VydGlmaWNhZG8g
+ZGUgUmVwcmVzZW50YW50ZSBMZWdhbDAOBgNVHQ8BAf8EBAMCBeAwDQYJKoZIhvcN
+AQELBQADggIBAC1vHnSYzkXSKsUpZ3HBl6BAoB6x3+2rGTJ8ZOMoDdyvTL+dX5IK
+A/36qdDXSr5JUxWodHN2bYKB0JS0kRvFL3/KDznzE2eoze9rTN3MHMjaLgjbAY6I
+hAi+dNNs3inI3+BCVWQvVvah4jSzbYfrO/KO3WnuN3DHydOW2zyXnQfikcxLS1vm
+OiVzNpiuPw4ajaX7Q6vnMw4lae8ePu63H0Q4EjBD8yFvcXVFla8owtx+DjfOJA/k
+p973dDla5fkq3SeRFrGZbHv28qp5N3lJVOVbTXqzO8kbB9QpBTO+N5OcY1b+NquT
+Ncns6YUhESjzlUBQcHEXVx4SorVZx1CpVjb9PoxTy2Yx4f8zYW3mHioDqHkQXaB6
+eNV32JCmViaQD429eWYpf3lh130d0YS/wjN7XK+UjijtLv9PKg7VtfSa+j1WNEh7
+qB4TTsZxsflyBdxROATSim0RjU1TedshbFpENtgFqTiTSLUEyP3xDCDtdnK37e/A
+aO+et5YZ0lm1k1TM4Vez78IUhY9JVUumHD+8wYqBTvuTgD0imgTMrLWsKnoYDEk9
+1dHFBAsispL709i22q+MpQxsNIo911BFXN5DfgwVK5o0cRNmh6UPRyylbICrWwFy
+PfM9hevVm19sRVrz9Lu/2+taDluQ+snqfQhHDjMiq0G1ID7k/0akBPAE</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>mTtbLE91MGC9K1Wn/e7GKleL/pj58gndoX8HZdhmhsJKRG/pbMrwJuBZJLAcw6T3
+q89EZJamVr/J0xy6tiit+MXMXyMQGJgBINUfmFaDWrTae8X56jcEJYDly1KN3+Og
+KwAx95ACLZBqNECYAq2GZ3DU2EB4Rwq8uYB8RWlR4DMDlKTAzhogqwFLye6gwvEB
+/K0aWV9gOa3nujIHW2PqlC8Vft+yOcxbkg1zssXCsqtcrXhQFMYF6qfemj0M1baN
+fAeNYkR8Dv1lc2e7Fue5wzG37UYs4iuuRZws3+81sMdqYSd3N3HF8lrGH7DeNLHY
+unRooQSawxH/42Z5c2fyFw==</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature222342" Id="Signature222342"><etsi:SignedProperties Id="Signature222342-SignedPropertiesID463957"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-20T10:21:26+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>kJ5w+QYxNFK8VxpUoUFwwVvFb+o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO, CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S., ST=TUNGURAHUA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=FIRMASEGURA S.A.S., C=EC</ds:X509IssuerName><ds:X509SerialNumber>298622044032062261716915129448784757838</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-612160"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

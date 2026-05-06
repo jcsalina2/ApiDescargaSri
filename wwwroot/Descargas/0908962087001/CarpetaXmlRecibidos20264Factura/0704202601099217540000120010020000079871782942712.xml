@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202601099217540000120010020000079871782942712</numeroAutorizacion>
+<fechaAutorizacion>2026-04-07T11:44:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>JUNTA DE RIEGO Y DRENAJE AMERICA LOMAS</razonSocial>
+	    <nombreComercial>JUNTA DE RIEGO Y DRENAJE AMERICA LOMAS</nombreComercial>
+	    <ruc>0992175400001</ruc>
+	    <claveAcceso>0704202601099217540000120010020000079871782942712</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000007987</secuencial>
+	    <dirMatriz>GUAYAS / DAULE / DAULE / CAMPAMENTO CEDEGE S/N</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>07/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / DAULE / DAULE / CAMPAMENTO CEDEGE S/N</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>NO</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>VILLEGAS VITERI PATRICIO</razonSocialComprador>
+	    <identificacionComprador>0908962087</identificacionComprador>
+		<direccionComprador>KM 14 VIA A LA COSTA</direccionComprador>
+	    
+	    <totalSinImpuestos>500.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>500.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>500.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>500.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>011</codigoPrincipal>
+		<codigoAuxiliar>011</codigoAuxiliar>
+      	<descripcion>SERVICIO DE RIEGO 2026</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>500.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>500.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>500.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">ABONO SERVICIO DE RIEGO 2026 COMPROBANTE DE INGRESO 42521 DEL SECTOR 1 AREA 23.02 HAS.  EN EL LOTE DE VILLEGAS MOSQUERA MIGUEL EDUARDO. DE ACUERDO A TRANSFERENCIA REALIZADA DEL BANCO DE GUAYAQUIL EL DÍA 07-04-2026 CON No DE TRANSACCIÓN 000222886.</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature489925">
+<ds:SignedInfo Id="Signature-SignedInfo609403">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID789590" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature489925-SignedProperties682471">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+kUtEG3OwP9q/DgJzOFbjKCtJIg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate276592">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>e7oTI5clk5irz0k5jCETxg1Ds3s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-965348" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>K76OmfHljjBaHoK1hCnxTl9RjPU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue377386">
+D8KtrKyjv4Oyk7U5ieliFfGsij7rkFWh4nRQKB0iuEGHwHKttSZ5QG7TPYXw/rpjVyxFe8kWmX6B
+Lzqd6KjhNbqbgqRAXAvtf/cfRRzZCEU8Mpjfmx/A7aptWf7UzuQLtmMC5mWrFa3P6NuKSMD30Tif
+swoKbXIUFuhht3Yu/LiixnxcVZppZP8Ur8XqkEj/fL1ayIbEh4ZEc8Gg3gENJYHNtrEZ66JG3e5d
+0/CYIlJDJtvR7emWv+tvhsCmcb2hFSWK8MvTFr/GmKXGsO/bLFOaU5k/gAPu/FPV0rBgNRVo+Ud0
+vFjjaTliuWB39QEHg4L3gLSbK8sdYpRkzYJeMQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate276592">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKxDCCCKygAwIBAgIEKlhGtTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA1MTkxOTE4MzFaFw0yNzA1MTkxOTE4MzFaMIGjMSEw
+HwYDVQQDDBhEQU5JTE8gSlVBTiBHT01FWiBUT1JSRVMxIDAeBgNVBAUTFzA5MTgzMTM5MTctMTkw
+NTI1MTQyODIyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAOXN1zf6Cmk8HEbKt3k4vNfnN2gN5xj1peS+MyCJNb8tAfen
+JH++gGNcnjC75vDDmkWa+moPCbnuPVCm9l2pbPQzTDQAH9rkt7NczhyKli/sKxegp4UyDbZ9EZ+2
+3xT+9NgWdqnNQvz+ojZDx/QtT6us7ptMgsaepbKi9D8c0SDTN+MKspd2YVjHEdKoCl1Wep2Sfs4n
+6Ysh1MmR1OLjB1ZMo7ac+7y22REsVJ9PmGCZNmz0bUVdheXlQwsHCwaDf1o0raTLQbYmqE5S+pAY
+1Ff12TPwDvIyJmYWmC1Q6w9+jJAgySoRW67vAVeZOl5NsV9EkBY1niJ2ZLcKhMxokZ0CAwEAAaOC
+BgYwggYCMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYI
+KwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCgGA1UdEQQhMB+BHWp1bnRhLmFtZXJpY2Eu
+bG9tYXNAZ21haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUF
+BwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABh
+AG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBz
+Oi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZh
+cy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50
+ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCC
+AgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3Js
+ZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+PKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxl
+LmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFE
+IERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixD
+PUVDMB0GA1UdDgQWBBSC3C+pXFYl/WlM3El7Eo7DPejnqDArBgNVHRAEJDAigA8yMDI1MDUxOTE5
+MTgzMVqBDzIwMjcwNTE5MTkxODMxWjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDBQQMDApQUkVT
+SURFTlRFMBoGCisGAQQBgqZyAwEEDAwKMDkxODMxMzkxNzAVBgorBgEEAYKmcgMJBAcMBURBVUxF
+MBEGCisGAQQBgqZyAyIEAwwBLjAlBgorBgEEAYKmcgMHBBcMFUNBTVBBTUVOVE8gQ0VERUdFIFMg
+TjAbBgorBgEEAYKmcgMCBA0MC0RBTklMTyBKVUFOMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAzMDAw
+MDAzOTM2MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAVBgor
+BgEEAYKmcgMDBAcMBUdPTUVaMDYGCisGAQQBgqZyAwoEKAwmSlVOVEEgREUgUklFR08gWSBEUkVO
+QUpFIEFNRVJJQ0EgTE9NQVMwHQYKKwYBBAGCpnIDCwQPDA0wOTkyMTc1NDAwMDAxMBEGCisGAQQB
+gqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBlRPUlJFUzAaBgorBgEEAYKmcgMIBAwMCjA5OTMx
+OTczOTQwDQYJKoZIhvcNAQELBQADggIBADP+QDLILvrjCNRl7ExCwMLrVbBAvjUpAcT6XE6u5Yr0
+1kd65jIPX7scR13jC4ZFydbCLCEgd9o4V6K+L5xkAiZlcwKEnU4C1pJnyH7I6lzhS34fEsfHTWQ9
+Mt2UoaKzmrdaOfZJn1BhnAs2jrHvZygC/xd4sJqxnPCdX4HqWMhJjFNEy/Au2E8s0eHn16QZPaRZ
++7g/J8ERbyU4A4zNlEh1y/AaQASzrYC5qaOc85yFGSDd3KD8X/Y2X8BCq+NkyJv70Js93PZfYZZ0
+Bybx13IdoTfafGQk9J7B0sRZydGTVgJVwPRZfHgK5hvEna8eLPczNSqcK0gxTNGYpXzRSHFjxJ4T
+qwx7m6lmKHoB4b77om2+h5mjoyOL8JrlbOuqzEvQLPFJrG4iL5D+ECQzIlaTaXlxywPMX5nWEq6D
+GAtiZUJh/qhlcKdaYP41/UgoSj2RwBgyVyWAv/duZ0pXyhCc0EwgrTYclyprloWWeHclLC6hFtG4
+byKHU4mWZ3NPfHBhcYOS+9tqbW9tOR6ilc7GqnHKVCO3JWaS4qaXfoV1wZhT9BmS+eeKdd4uD2jq
+NMNuwXrN0+maAnI2roOZZX99K2L2sCNSQrRqpB3OhHrxWaymmKZpmJ+bahOxHbczT8CMNfYWI4e8
+c17E6JRHIVah/jFwME7diPCxSPnR9wgB
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+5c3XN/oKaTwcRsq3eTi81+c3aA3nGPWl5L4zIIk1vy0B96ckf76AY1yeMLvm8MOaRZr6ag8Jue49
+UKb2Xals9DNMNAAf2uS3s1zOHIqWL+wrF6CnhTINtn0Rn7bfFP702BZ2qc1C/P6iNkPH9C1Pq6zu
+m0yCxp6lsqL0PxzRINM34wqyl3ZhWMcR0qgKXVZ6nZJ+zifpiyHUyZHU4uMHVkyjtpz7vLbZESxU
+n0+YYJk2bPRtRV2F5eVDCwcLBoN/WjStpMtBtiaoTlL6kBjUV/XZM/AO8jImZhaYLVDrD36MkCDJ
+KhFbru8BV5k6Xk2xX0SQFjWeInZktwqEzGiRnQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature489925-Object886321"><etsi:QualifyingProperties Target="#Signature489925"><etsi:SignedProperties Id="Signature489925-SignedProperties682471"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-07T11:44:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>r7Cy/NBZwZ9eCJv9TcvoG4Gwq2g=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>710428341</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

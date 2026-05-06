@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601120238274100120010020000044902304201913</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T09:00:20-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MACIAS MORA CARLOS LENIN</razonSocial>
+    <nombreComercial>COMISARIATO DEL AGRICULTOR</nombreComercial>
+    <ruc>1202382741001</ruc>
+    <claveAcceso>0204202601120238274100120010020000044902304201913</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000004490</secuencial>
+    <dirMatriz>QUEVEDO, CALLE 7 DE OCTUBRE ENTRE 3RA Y 4TA </dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>02/04/2026</fechaEmision>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>EDISON SUAREZ SOLIS</razonSocialComprador>
+    <identificacionComprador>1311241440001</identificacionComprador>
+    <direccionComprador>QUEVEDO</direccionComprador>
+    <totalSinImpuestos>71</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>71</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>71</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>71</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>567994</codigoAuxiliar>
+      <descripcion>COBRE</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>20</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>20</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>145978</codigoAuxiliar>
+      <descripcion>MIROS</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>7.5</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>15</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>15</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>18914</codigoAuxiliar>
+      <descripcion>giberalina</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>2.5</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>5</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>5</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>482909</codigoAuxiliar>
+      <descripcion>confiable </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>9</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>9</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>9</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <codigoAuxiliar>87937</codigoAuxiliar>
+      <descripcion>AMISTAR TOP</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>11</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>22</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>22</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Correo Electronico">edisonsuarez858@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature807907">
+<ds:SignedInfo Id="Signature-SignedInfo767949">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID470587" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature807907-SignedProperties816556">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>jZEEZeUlFa9WfSje2rk+taUlORE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate172919">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>s+GHPnXKA7YSAFBwk0Z1j9USIqQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-890547" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>e5s8XB5+041dQ0AhXr4XAmwN6fE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue525751">
+TrB1biot5WX1yI7fpYhJgwgvoIp6xCu++CpePRQnBvdyynxJLnHp4Gm223T2Pcht
+V95XGO8EGZ8IBO4hr4Ul7Lm9SWQwDcY4nuRy+HJMNQYqmsBj0jV2fxMJMFKLVZ2Y
+kgDYZuatRx5Xe17k6eULsanZ+iKszWiA/mB99rQyd52unOVfjhOauJMkbFlZcTIK
+4GumrU7GzlyuT3HuGLEHvhHwkWXexFGVk9rMsXvbuhlHBNi0Cha+lEGJnRGAsoB9
+dcHIYl/KrpBJObWxlEAUe+Yui3Gh3WyKsKH6fzQAxwf0wSoowGKGRkl5cv6wtdAc
+PvIhJ9mXJZuCFYGSwMncZg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate172919">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH5DCCBsygAwIBAgIFAMICSG4wDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMC
+RUMxGzAZBgNVBAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0
+ZSBFbWlzb3IgQ0EyMB4XDTI1MTAwNzE1MjEwM1oXDTI2MTAwNzE1MjEwM1owgZYx
+CzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6YXRlIENpYS4gTHRkYS4xHjAcBgNV
+BAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEiMCAGA1UEAwwZQ0FSTE9TIExFTklO
+ICBNQUNJQVMgTU9SQTEmMCQGCSqGSIb3DQEJARYXam9lbWFuem8xMjA1NUBnbWFp
+bC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDAynrE4/gpSbmi
+uOdB+ptSnH3jopP51CnN+C8kx02YdtqiLtkXM7ztLkOQgG8Dwy0w9A/bNvqa6Wmp
+Ojr1XE8cDGj/VX0DqzA7c+E5RlCt+KzA1QwhGSa6f7TWI5zZeX2x9FJeasKeKNtz
+t2EsBxBF4RojhGWPlnYIbGfuV2ThYAfOo+Y8fhgYy4wPALM4/Iiuoh+9KzvYFHf7
+avJbt02YbntszD9hn11ct5+ULo+jVnl3NTRSCuwMofConCMBvWspQINWSP/PrAAJ
+71TXnw/HDAPHPXT364dPLcrQF+rlLnkbjHMYZAjihLebsw/ueHZP8tjVdaMakurI
+Bda7JoiFAgMBAAGjggSFMIIEgTAaBgorBgEEAYPPdgMBBAwMCjEyMDIzODI3NDEw
+HAYKKwYBBAGDz3YDAgQODAxDQVJMT1MgTEVOSU4wFgYKKwYBBAGDz3YDAwQIDAZN
+QUNJQVMwFAYKKwYBBAGDz3YDBAQGDARNT1JBMDEGCisGAQQBg892AwcEIwwhQ2Fs
+bGUgMiwgZW50cmUgYXlhY3VjaG8geSBwcmltZXJhMBoGCisGAQQBg892AwgEDAwK
+MDk4NTQzMzM0OTAXBgorBgEEAYPPdgMJBAkMB1FVRVZFRE8wFwYKKwYBBAGDz3YD
+DAQJDAdFQ1VBRE9SMB0GCisGAQQBg892AwsEDwwNMTIwMjM4Mjc0MTAwMTAMBgNV
+HRMBAf8EAjAAMB0GA1UdDgQWBBSSySFONTmrPJKnpVnI3/yzkcg+rjAfBgNVHSME
+GDAWgBTtdkiwCvHJhoYMTEZk0gb4zNW9PjAOBgNVHQ8BAf8EBAMCBeAwOgYDVR0f
+BDMwMTAvoC2gK4YpaHR0cDovZW5leHQyLnh5ei9MYXp6YXRlQ0EyL2VtaXNvckNB
+Mi5jcmwwggGEBgNVHSAEggF7MIIBdzB8BgorBgEEAYPPdgIBMG4wbAYIKwYBBQUH
+AgIwYBpeRWwgcHJlc2VudGUgY2VydGlmaWNhZG8gZXMgZW1pdGlkbyBlbiBiYXNl
+IGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lhLiBM
+dGRhLjCB9gYJKwYBBAGDz3YCMIHoMGwGCCsGAQUFBwICMGAaXkVsIHByZXNlbnRl
+IGNlcnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2Fz
+IGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4weAYIKwYBBQUHAgIw
+bBpqRWwgcHJlc2VudGUgY2VydGlmaWNhZG8gc3Vib3JkaW5hZG8gZXMgZW1pdGlk
+byBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExhenph
+dGUgQ2lhLiBMdGRhLjCCARUGA1UdEQSCAQwwggEIoBoGCisGAQQBg892AwGgDAwK
+MTIwMjM4Mjc0MaAcBgorBgEEAYPPdgMCoA4MDENBUkxPUyBMRU5JTqAWBgorBgEE
+AYPPdgMDoAgMBk1BQ0lBU6AUBgorBgEEAYPPdgMEoAYMBE1PUkGgMQYKKwYBBAGD
+z3YDB6AjDCFDYWxsZSAyLCBlbnRyZSBheWFjdWNobyB5IHByaW1lcmGgGgYKKwYB
+BAGDz3YDCKAMDAowOTg1NDMzMzQ5oBcGCisGAQQBg892AwmgCQwHUVVFVkVET6AX
+BgorBgEEAYPPdgMMoAkMB0VDVUFET1KgHQYKKwYBBAGDz3YDC6APDA0xMjAyMzgy
+NzQxMDAxMDwGCCsGAQUFBwEBBDAwLjAsBggrBgEFBQcwAYYgaHR0cDovL2VuZXh0
+Mi54eXo6ODc3Ny9hZHNzL29jc3AwDQYJKoZIhvcNAQELBQADggEBAMlz7mDymd+5
+SeIy2KjEP8AFGTXoXd1rOz7T1DIFQt2nAyBBoask4Teboj0VLNSJDMwkWLUvdkKl
+xqlVn+MMUyXylklgqn68vCToOw30XjMF7W7QyzZT5uvkqxgClZMQt3G1DbQ+vvRb
+Fk2uNnfbG2MBpgxHy0flVEVCLDOEOrNvkiCRUhcfk+ybP1PKI0snyBIbzivtVYYk
+hQW5o4nBN06uzpf8KC9V0CvEXRaZ7B4Ka/Oe/uMiwif2SZSUqXQg9MVR/jcu+5Nn
+NzbHvdGU55nZF+4wIkv/1os9aXtE1ODGFzTWUS7X2nIfbJUWaMRlwzLTKKd//nno
+3mZC/ybnCXg=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wMp6xOP4KUm5orjnQfqbUpx946KT+dQpzfgvJMdNmHbaoi7ZFzO87S5DkIBvA8Mt
+MPQP2zb6mulpqTo69VxPHAxo/1V9A6swO3PhOUZQrfiswNUMIRkmun+01iOc2Xl9
+sfRSXmrCnijbc7dhLAcQReEaI4Rlj5Z2CGxn7ldk4WAHzqPmPH4YGMuMDwCzOPyI
+rqIfvSs72BR3+2ryW7dNmG57bMw/YZ9dXLeflC6Po1Z5dzU0UgrsDKHwqJwjAb1r
+KUCDVkj/z6wACe9U158PxwwDxz109+uHTy3K0Bfq5S55G4xzGGQI4oS3m7MP7nh2
+T/LY1XWjGpLqyAXWuyaIhQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature807907-Object619930"><etsi:QualifyingProperties Target="#Signature807907"><etsi:SignedProperties Id="Signature807907-SignedProperties816556"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T08:58:14-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>TB/RRchXa2bwsuDahQkllpMVCOY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254929518</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-890547"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

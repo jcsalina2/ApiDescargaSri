@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601099017568300120010090000014235604117319</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T15:28:21-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>LABORATORIOS LUQUE</razonSocial><nombreComercial>LABORATORIOS LUQUE</nombreComercial><ruc>0990175683001</ruc><claveAcceso>0604202601099017568300120010090000014235604117319</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>009</ptoEmi><secuencial>000001423</secuencial><dirMatriz>Juridico mas punto de venta</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>06/04/2026</fechaEmision><dirEstablecimiento>DIEZ DE AGOSTO NO 639 ENTRE FRANCISCO GARCIA AVIL</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>Miguel Angel Jara Iturralde</razonSocialComprador><identificacionComprador>0923295786001</identificacionComprador><totalSinImpuestos>134.71</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>134.71</baseImponible><tarifa>15.00</tarifa><valor>20.22</valor></totalImpuesto><totalImpuesto><codigo>3</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>0.00</baseImponible><tarifa>0.00</tarifa><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>154.93</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>154.93</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>3283</codigoPrincipal><codigoAuxiliar>3283</codigoAuxiliar><descripcion>Elastina y Hialuronico 100 ml. </descripcion><cantidad>1.000000</cantidad><precioUnitario>20.860000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>20.86</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>20.86</baseImponible><valor>3.13</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>3893</codigoPrincipal><codigoAuxiliar>3893</codigoAuxiliar><descripcion>Crema Facial Hidrauya 80ml </descripcion><cantidad>1.000000</cantidad><precioUnitario>17.380000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>17.38</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>17.38</baseImponible><valor>2.61</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>131</codigoPrincipal><codigoAuxiliar>131</codigoAuxiliar><descripcion>Serum Day Porcelain 60 ml. </descripcion><cantidad>1.000000</cantidad><precioUnitario>17.380000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>17.38</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>17.38</baseImponible><valor>2.61</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>3280</codigoPrincipal><codigoAuxiliar>3280</codigoAuxiliar><descripcion>Hialuronico y Vitamina C 100 ml. </descripcion><cantidad>1.000000</cantidad><precioUnitario>20.860000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>20.86</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>20.86</baseImponible><valor>3.13</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>3301</codigoPrincipal><codigoAuxiliar>3301</codigoAuxiliar><descripcion>Niacinamida 100 ml </descripcion><cantidad>1.000000</cantidad><precioUnitario>20.860000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>20.86</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>20.86</baseImponible><valor>3.13</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>76</codigoPrincipal><codigoAuxiliar>76</codigoAuxiliar><descripcion>Colageno y Hialuronico 100 ml. </descripcion><cantidad>1.000000</cantidad><precioUnitario>20.860000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>20.86</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>20.86</baseImponible><valor>3.13</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>2786</codigoPrincipal><codigoAuxiliar>2786</codigoAuxiliar><descripcion>Tonico de Colageno 200 ml </descripcion><cantidad>1.000000</cantidad><precioUnitario>16.510000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>16.51</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>16.51</baseImponible><valor>2.48</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="correo">academico.arteyarmonia@gmail.com</campoAdicional><campoAdicional nombre="direccion">Golondrinas 1-90 y Gorriones br Casa blanca portón café claro br Cuenca br br br </campoAdicional><campoAdicional nombre="telefono">0999950222</campoAdicional><campoAdicional nombre="infoadicional">Numero de pedido 27226</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1005726">
+<ds:SignedInfo Id="Signature-SignedInfo56445">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID76219" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1005726-SignedProperties205659">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>z4d+fKRRbawNjv0Q9NSQugk/2LE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1255568">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hHvSpzcgVJCXrihShHwbYGeF2zc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-998623" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>tmHe2FNxCeCsG+Sz4tVV5Ypu2kM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1007021">
+p/Oo29vy/f4E3xsdBn24WUij32cvqfHRhyM6Jaan2IewpP/DGnj5Z+3shysE25g4IoOhtuKF5aM2
+SY/KYuySO2kiKldD6OwkN5tCrfPph9B4UuVuB8NdZOrcon3V2Htyo1Upx0PxXtWVwIWFK464wiyo
+8kmiyqCHGMF0wV0eQRVBlt0hPhAdYrMtQl3GnlBLMxK2iHn1Vsc9wcRrjLrpJ7ivhW6/LhT9vEfC
+YXAADm7NscYl8vHsCe5IlznU0eD6oLQJBdi35YgcP/42BDPOrQ8jSaesVNPAbnnF1+Ml5xEFkzBh
+vTpLwqSPMKWiJsl3N2ipHeJaAAakfXAMrIDA2Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1255568">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK8zCCCNugAwIBAgIICLjwTvy5pqUwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMDA2MTYwODM4WhcNMjgxMDA1MTYwODM4WjCB
+rDEqMCgGA1UEAwwhTUFSSUVMTEEgR0VPUkdJTkEgSkFSQU1JTExPIExVUVVFMSAwHgYDVQQFExcw
+OTExNDE5NzM3LTA2MTAyNTExMTgzMDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDWGpzgHrK0jCNjywCVmbbO3/A/DbBA
+1KX38xOkwK81IJOZfP2hs3F/PdgVda9Mw5zEeGHR7BFIzpImZ/Q/etin8dQg4S1p9wsDQJPlUbJR
+SKh1BZm54qahqcIZnyHNx0xsUyPaoGJP7tRnZzM0jPc3AVMRyGmaosJMXvU43tj4ORwz3OFM7PZx
+HYVIJ4usEi7/WQRLkTGvaB5ZGl8eglXX3xfEP0tdV3Ax+BscKAkt029hY3uh41UA12UR8yslvT9Y
+upYA5dbm9/vcPvg7PG/wx2BDRaT3Vjd0aM9cQ+ODyECI93FbQAar/HZDaGmBEm/FdLY0Z3+/Gtnb
+Af+N2LQ/AgMBAAGjggYoMIIGJDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsK
+S1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAqBgNVHREEIzAhgR9t
+YXJpZWxsYWpAbGFib3JhdG9yaW9zbHVxdWUuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGC
+pnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUA
+cAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggr
+BgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3du
+bG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNh
+ZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwME
+MIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVj
+L3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBD
+RVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4g
+MjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3Vi
+Y2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5z
+ZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1j
+cmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkg
+REFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklU
+WSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTHTHYkgRZxrHH1RdUmupbIZqA5MTArBgNVHRAE
+JDAigA8yMDI1MTAwNjE2MDgzOFqBDzIwMjgxMDA1MTYwODM4WjALBgNVHQ8EBAMCBeAwFwYKKwYB
+BAGCpnIDBQQJDAdHRVJFTlRFMBoGCisGAQQBgqZyAwEEDAwKMDkxMTQxOTczNzAaBgorBgEEAYKm
+cgMJBAwMClJPQ0FGVUVSVEUwEQYKKwYBBAGCpnIDIgQDDAEuMEUGCisGAQQBgqZyAwcENww1S00g
+OTUgSkFSRElOIERFIFBBUlFVRSBNQUdOTyBDT05ET01JTklPIDMgUExBTlRBIEJBSkEwIQYKKwYB
+BAGCpnIDAgQTDBFNQVJJRUxMQSBHRU9SR0lOQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTA1
+NDY2MjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYB
+BAGCpnIDAwQLDAlKQVJBTUlMTE8wKwYKKwYBBAGCpnIDCgQdDBtMQUJPUkFUT1JJT1MgTFVRVUUg
+Q0lBIExUREEwHQYKKwYBBAGCpnIDCwQPDA0wOTkwMTc1NjgzMDAxMBEGCisGAQQBgqZyAx0EAwwB
+LjAVBgorBgEEAYKmcgMEBAcMBUxVUVVFMBoGCisGAQQBgqZyAwgEDAwKMDk5NzAwMTAwMjANBgkq
+hkiG9w0BAQsFAAOCAgEAD3Mr4EkiGJclR8MgCQyaiJ4AJ/0umiuYtrpjsjxHr4VCxeI04j5yjgTO
+LynPUyB6o2fAPrjYUtwYMD2gthPapwkwO6vnnrptkJtlv5bgBlVOrBBglXvBR9nongU6wD6Jxdmw
+2zYqSa8pNQyud9BQ9+pc/hWuuHamueFoZTRLqp69n5H6twhgT4h2Utrawoe5wyzIcSiFcruTVqbj
+A+TzZ5Nix+r1E7cg2RSh20PYzv6joPUkW/ANjgy+Lubst2oE53CnaUFGQe7nys94XJvfjh1P464s
+EEMPK2FAkrcGXJTXqgnzHx6VpOfD5j9hDotfG+CxCQAA3ZAnjJljjxQPu3EXMx+lksueshvWegpe
+DWHAjb0xtwkeT+wqO4Fx/XUTfuEef4xSkoKYIzs1/qZjxR8ZMmUG3JdPtHUXTM440y974UmBIH+R
+nq+BovmDrMVkXUhACsnm83T2QUb4zZkD0fOO7ylZzGY/xmmr+zOL4jfGRJfBoeoziHnXLWGXfHSk
+NV4Yke7selDW/weJ+hdtXkk35pxmwlZUawCPJhdQqeCAZ1qMp0z4pyVPAg+noGQCVuXXXxciz95z
+ein+WnWU6p+xCkXz/SjL2pIh2SCzsed06NVMPoNaRtRTgxRyK049oXVA8/ZHIzKKJDsVCluueQzB
+T/XKpDj25gfwNR1hjp4=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+1hqc4B6ytIwjY8sAlZm2zt/wPw2wQNSl9/MTpMCvNSCTmXz9obNxfz3YFXWvTMOcxHhh0ewRSM6S
+Jmf0P3rYp/HUIOEtafcLA0CT5VGyUUiodQWZueKmoanCGZ8hzcdMbFMj2qBiT+7UZ2czNIz3NwFT
+EchpmqLCTF71ON7Y+DkcM9zhTOz2cR2FSCeLrBIu/1kES5Exr2geWRpfHoJV198XxD9LXVdwMfgb
+HCgJLdNvYWN7oeNVANdlEfMrJb0/WLqWAOXW5vf73D74Ozxv8MdgQ0Wk91Y3dGjPXEPjg8hAiPdx
+W0AGq/x2Q2hpgRJvxXS2NGd/vxrZ2wH/jdi0Pw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1005726-Object571516"><etsi:QualifyingProperties Target="#Signature1005726"><etsi:SignedProperties Id="Signature1005726-SignedProperties205659"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T20:28:17+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>asfupBR0spaaQj8qvlsEcalXxFk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>628516370056324773</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-998623"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

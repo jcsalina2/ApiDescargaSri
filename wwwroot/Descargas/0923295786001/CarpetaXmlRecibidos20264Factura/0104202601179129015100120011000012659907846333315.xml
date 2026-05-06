@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601179129015100120011000012659907846333315</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T15:00:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ds="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>PUNTONET S.A</razonSocial>
+        <nombreComercial>1791290151001</nombreComercial>
+        <ruc>1791290151001</ruc>
+        <claveAcceso>0104202601179129015100120011000012659907846333315</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>001265990</secuencial>
+        <dirMatriz>Quito, Amazonas 4545 y Pereira Edif. Centro Financiero, 4to piso, Ofi. 401</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>01/04/2026</fechaEmision>
+        <dirEstablecimiento>AV. AMAZONAS 4545 PEREIRA CENTRO FINANCIERO OFICINA 401</dirEstablecimiento>
+        <contribuyenteEspecial>636</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>MIGUEL ANGEL  JARA ITURRALDE</razonSocialComprador>
+        <identificacionComprador>0923295786001</identificacionComprador>
+        <totalSinImpuestos>18.8</totalSinImpuestos>
+        <totalDescuento>15.17</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>18.8</baseImponible>
+                <valor>2.82</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>21.62</importeTotal>
+        <moneda>USD</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>21.62</total>
+                <plazo>5</plazo>
+                <unidadTiempo>días</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>50061777</codigoPrincipal>
+            <codigoAuxiliar>NPC50061777</codigoAuxiliar>
+            <descripcion>Servicios Adicionales Plan Silver</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>1.12</precioUnitario>
+            <descuento>1.12</descuento>
+            <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>50061777</codigoPrincipal>
+            <codigoAuxiliar>NPC50061777</codigoAuxiliar>
+            <descripcion>Servicios Adicionales Equipo Booster Plus</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>1.85</precioUnitario>
+            <descuento>1.85</descuento>
+            <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>50061777</codigoPrincipal>
+            <codigoAuxiliar>NPC50061777</codigoAuxiliar>
+            <descripcion>Servicios Adicionales Equipo Booster</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>2</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>2</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>2</baseImponible>
+                    <valor>0.3</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>50061777</codigoPrincipal>
+            <codigoAuxiliar>NPC50061777</codigoAuxiliar>
+            <descripcion>Servicios Adicionales Club Celerity</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>1</precioUnitario>
+            <descuento>1</descuento>
+            <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>0</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>50061777</codigoPrincipal>
+            <codigoAuxiliar>NPC50061777</codigoAuxiliar>
+            <descripcion>Celerity Fast - 900 Mbps</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>28</precioUnitario>
+            <descuento>11.2</descuento>
+            <precioTotalSinImpuesto>16.8</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>16.8</baseImponible>
+                    <valor>2.52</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="ciudad">CUENCA</campoAdicional>
+        <campoAdicional nombre="Direccion">norte golondrima 1-90 y gorriones</campoAdicional>
+        <campoAdicional nombre="Telefono">593095891034</campoAdicional>
+        <campoAdicional nombre="FechaCorte">01/05/2026</campoAdicional>
+        <campoAdicional nombre="Peridodo de consumo">01/04/2026 - 01/05/2026</campoAdicional>
+        <campoAdicional nombre="FechaPago">06/04/2026</campoAdicional>
+        <campoAdicional nombre="mensajeCobranzas|granContribuyente">Ponemos a su disposicion para Soporte Tecnico y Atencion a Clientes residenciales la unica linea directa de CONTACTO 1-700 PUNTONET| Grandes Contribuyentes Resolución: NAC-GCFOIOC21-00001214-E</campoAdicional>
+        <campoAdicional nombre="email">soporte@prestoprogram.com</campoAdicional>
+        <campoAdicional nombre="tipoContrato">Cuenta Personal</campoAdicional>
+        <campoAdicional nombre="Codigo">CA50061775/NPC50061777</campoAdicional>
+        <campoAdicional nombre="valorServicio">33.97</campoAdicional>
+        <campoAdicional nombre="clienteDesde">02/02/2026</campoAdicional>
+        <campoAdicional nombre="Observacion">B1-1397097</campoAdicional>
+        <campoAdicional nombre="puntoAcumulados">null</campoAdicional>
+        <campoAdicional nombre="fechaCaducidad">null</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1472042238"><ds:SignedInfo Id="SignedInfoDoc"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="SignedProperties851" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>J2N0TuyaqrVl+Tv31y8DTAIifzE=</ds:DigestValue></ds:Reference><ds:Reference Id="Cert442" URI="#Certificate"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>lgSpYXX5aOD7vu3xTMxsP7fPxZs=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference992" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>N9xWhGJutMz1g0xJAQSqZDi4/QQ=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>B15qCysiQX/gSMiC98YyTUToXCxq935IDkX9KxMJp9cLiV5JnA77pnq/5DosLjeyR9FdFBUQt1ZvtJQo7xtg+m5JLyH7GIxT6qN29gCmgHO21QQtHhpFq3yRu4mojc6lcO+KrgK88fhvtxpFaI6/7/sQgyO+fOEIPoioRhP+PvTDOt9fepQPzGhULz+u7qUINR9LXOXFa3aA6ecgppolcXWFWL23VdhIH/qopU3bFCKvD/53xyeJxd3cAcOvDh/yuqE0/EYj9SkXkOWXL91CjqsPX04svng2vs6ZTwMuZ1LPz58oMLVEZYxvYrinFw7zSNqj61+PjG/OipuNwaYaFQ==</ds:SignatureValue><ds:KeyInfo Id="Certificate"><ds:X509Data><ds:X509Certificate>MIILKjCCCRKgAwIBAgIIUrMXya9aLSEwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwNzE1MTQwMzA5WhcNMjYwNzE1MTQwMzA5WjCBqzEpMCcGA1UEAwwgU1RFRkFOWSBNSUNIRUxMRSBTQU5UQU5BIEJSSUNFTk8xIDAeBgNVBAUTFzE3NTczMjgxNDktMTUwNzI1MDkxMzAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJYBVWmDlNhHX6MKWV0MacuMwHF7w6g3WnmMvfu6SXKTj3hXdqbbNOOXHGo5f9DPVrDrYJ1t32R4jDdHG1e6WOHU10PHR4gC2CHAcrgT2B2hVlmkGMWAQ9yY+Of9TEX3tDdTIYhfEo9Uu3HqL6B8WF2DUMhYvzsNWStVX5cZ1CFT1O/iz4O8gwTqww5zwxg38Hkql4TovHgYyK1aVCqAVyc+ib5QElgDytLWZlm0r5x/dXGi6qiTg3T98ncjS7mFTwqhFXx3nTmFcCQgc+XM09fgNqnCWawFYpqkK+VUZquWCVhXzSgy0lDFFAIqll9dkzcvCr6tYaPs3MVHRH0UcRUCAwEAAaOCBmAwggZcMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCYGA1UdEQQfMB2BG3N0ZWZhbnkuc2FudGFuYUBwdW50b25ldC5lYzCCARIGA1UdIASCAQkwggEFMGAGCisGAQQBgqZyAgowUjBQBggrBgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAATQBpAGUAbQBiAHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZyAgQwgZEwgY4GCCsGAQUFBwIBFoGBaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUoO2I7to0kQ73ZDZSqz0tta1Yt1cwKwYDVR0QBCQwIoAPMjAyNTA3MTUxNDAzMDlagQ8yMDI2MDcxNTE0MDMwOVowCwYDVR0PBAQDAgXgMBkGCisGAQQBgqZyAwUECwwJQ09OVEFET1JBMBoGCisGAQQBgqZyAwEEDAwKMTc1NzMyODE0OTBvBgorBgEEAYKmcgMJBGEMX1FVSVRPIERJU1RSSVRPIE1FVFJPUE9MSVRBTk8gQ0FCRUNFUkEgQ0FOVE9OQUwgQ0FQSVRBTCBQUk9WSU5DSUFMIFkgREUgTEEgUkVQVUJMSUNBIERFTCBFQ1VBRE9SMBEGCisGAQQBgqZyAyIEAwwBLjAqBgorBgEEAYKmcgMHBBwMGkFWIEFNQVpPTkFTIDQ1NDUgWSBQRVJFSVJBMCAGCisGAQQBgqZyAwIEEgwQU1RFRkFOWSBNSUNIRUxMRTAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMTAzNDIxMzATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdTQU5UQU5BMBEGCisGAQQBgqZyAx4EAwwBLjAcBgorBgEEAYKmcgMKBA4MDFBVTlRPTkVUIFMgQTAdBgorBgEEAYKmcgMLBA8MDTE3OTEyOTAxNTEwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBcGCisGAQQBgqZyAwQECQwHQlJJQ0VOTzAaBgorBgEEAYKmcgMIBAwMCjA5OTgyMDg2MjcwDQYJKoZIhvcNAQELBQADggIBABWj3Bn9g/W6w2g4L2ANB1n1bVRyvhlu56MZC3otMClGwiqkeeOznQ5/OWNTFflCVmNFZ8/I4jFiJ4WO39SvC1xU0ipn0hAQ1iHGGSkeQrdkRwwy/9rvcXRuEwmyvpdbn+QK1m8+kT1qWmMuGGp80voKGtMESrgrgy/dJRtZUNmkapjt9OMdVX+l1xovhlPQCSXM8EMlZOKXaiZnKVGXPu3kjAdp/U5CE54LXP17wx1Xw7Bfs8WQcp8IsHKC2ZpxIHE86PNN4zzP2IX/Kr2oEcg/A37KK9QaHU3QX6sOsvkigER5fWUL2uRMe974FiPHF8tN7/0LQG9Tt9rbxqM79teXeIFjiWMzoo8cwMlS91T7XqvzzGT2oR6T0+Lfdj4kFaoSPEimeYFmTK1F6CPHHLQpSprZ+McOqwsaxjRVhyzfnTUG3JybM9iJ0SWHnghOBoI9oijk+6vkCVf8cY9BJ8YG7Q85AtWb+WB48OnE+0Sld21YVOu5KZW6qGRH0nha3qjXyEstolm8Jgv9shwqPTg2n8/XrW7+BhlKSawri2wuR24OoiToscyP41nq3hhicxivd1Gmzw71rNUjHUe+CrQgQz2seWwmOrZzwJyDJCc4Pboq0VL48/BWqZbrLf2lMiWr8VyPdElloiC5rS9O73HzQ9cAd929Aquqz8Or8D8M</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>lgFVaYOU2EdfowpZXQxpy4zAcXvDqDdaeYy9+7pJcpOPeFd2pts045ccajl/0M9WsOtgnW3fZHiMN0cbV7pY4dTXQ8dHiALYIcByuBPYHaFWWaQYxYBD3Jj45/1MRfe0N1MhiF8Sj1S7ceovoHxYXYNQyFi/Ow1ZK1VflxnUIVPU7+LPg7yDBOrDDnPDGDfweSqXhOi8eBjIrVpUKoBXJz6JvlASWAPK0tZmWbSvnH91caLqqJODdP3ydyNLuYVPCqEVfHedOYVwJCBz5czT1+A2qcJZrAVimqQr5VRmq5YJWFfNKDLSUMUUAiqWX12TNy8Kvq1ho+zcxUdEfRRxFQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature1472042238-Object"><etsi:QualifyingProperties Target="#Signature1472042238"><etsi:SignedProperties Id="SignedProperties"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T15:00:36.457-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>O6SV62eYHjkDrmHPubGrZERhSPQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>5959132886939086113</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference992"><etsi:Description>Comprobante SRI by QuindeFee</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

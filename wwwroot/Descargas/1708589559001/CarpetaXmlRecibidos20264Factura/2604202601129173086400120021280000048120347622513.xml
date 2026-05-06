@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2604202601129173086400120021280000048120347622513</numeroAutorizacion>
+<fechaAutorizacion>2026-04-26T11:48:56-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>MUNDOFFICE C. LTDA.</razonSocial>
+		<nombreComercial>LIBRERIA Y PAPELERIA OFFICE MUNDO 21</nombreComercial>
+		<ruc>1291730864001</ruc>
+		<claveAcceso>2604202601129173086400120021280000048120347622513</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>002</estab>
+		<ptoEmi>128</ptoEmi>
+		<secuencial>000004812</secuencial>
+		<dirMatriz>BOLIVAR N. 705 Y SEPTIMA</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>26/04/2026</fechaEmision>
+		<dirEstablecimiento>OCTAVA #222 Y 7 DE OCTUBRE</dirEstablecimiento>
+		<contribuyenteEspecial>286</contribuyenteEspecial>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		<razonSocialComprador>DAVILA PAZMINO WASHINGTON FIDEL</razonSocialComprador>
+		<identificacionComprador>1708589559</identificacionComprador>
+		<direccionComprador>AV WALTER ANDRADE Y LA QUINTA                                   0</direccionComprador>
+		<totalSinImpuestos>23.74</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<baseImponible>2.96</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<baseImponible>20.78</baseImponible>
+				<valor>3.12</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>26.86</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>01</formaPago>
+				<total>26.86</total>
+				<plazo>0</plazo>
+				<unidadTiempo>DIAS</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>03043295</codigoPrincipal>
+			<codigoAuxiliar>7702111606524</codigoAuxiliar>
+			<descripcion>RESMA INEN NORMA/POLAR 75GR</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>2.950000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>2.95</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="GENERAL"/>
+			<detAdicional nombre="IVA" valor="N"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>2.95</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03051545</codigoPrincipal>
+			<codigoAuxiliar>03051545</codigoAuxiliar>
+			<descripcion>CARTULINA BRISTOL A4 X50 BLANCA</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>1.250000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1.25</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="BRISTOL"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>1.25</baseImponible>
+					<valor>0.19</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03018716</codigoPrincipal>
+			<codigoAuxiliar>7861098329120</codigoAuxiliar>
+			<descripcion>PLIEGO PAPELOGR DOBLADO 1L</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.180000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.18</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="OFFICE"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.18</baseImponible>
+					<valor>0.03</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03005382</codigoPrincipal>
+			<codigoAuxiliar>7861098329144</codigoAuxiliar>
+			<descripcion>PLIEGO PAPELOGR DOBLADO CUADRO</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.180000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.18</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="OFFICE"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.18</baseImponible>
+					<valor>0.03</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03010199</codigoPrincipal>
+			<codigoAuxiliar>7702111505247</codigoAuxiliar>
+			<descripcion>COSIDO 4L ANDALUZ/NORMA</descripcion>
+			<cantidad>2.00</cantidad>
+			<precioUnitario>0.860800</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1.72</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="NORMA"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>1.72</baseImponible>
+					<valor>0.26</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03010197</codigoPrincipal>
+			<codigoAuxiliar>7702111505254</codigoAuxiliar>
+			<descripcion>COSIDO CUADRO ANDALUZ/NORMA SURTIDO</descripcion>
+			<cantidad>3.00</cantidad>
+			<precioUnitario>0.860800</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>2.58</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="NORMA"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>2.58</baseImponible>
+					<valor>0.39</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03033943</codigoPrincipal>
+			<codigoAuxiliar>03033943</codigoAuxiliar>
+			<descripcion>FORRO GRUESO COSIDO ROJO</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.580000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.58</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="GENERAL"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.58</baseImponible>
+					<valor>0.09</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03033937</codigoPrincipal>
+			<codigoAuxiliar>03033937</codigoAuxiliar>
+			<descripcion>FORRO GRUESO COSIDO ROSADO</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.580000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.58</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="GENERAL"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.58</baseImponible>
+					<valor>0.09</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03033935</codigoPrincipal>
+			<codigoAuxiliar>03033935</codigoAuxiliar>
+			<descripcion>FORRO GRUESO COSIDO AZUL</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.580000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.58</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="GENERAL"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.58</baseImponible>
+					<valor>0.09</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03049603</codigoPrincipal>
+			<codigoAuxiliar>03049603</codigoAuxiliar>
+			<descripcion>FORRO GRUESO COSIDO LILA</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.580000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.58</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="GENERAL"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.58</baseImponible>
+					<valor>0.09</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03048268</codigoPrincipal>
+			<codigoAuxiliar>6926662356146</codigoAuxiliar>
+			<descripcion>SOBRE C/CIERRE A4 CREATIV CY56-14C</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.320000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.32</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="CREATIV"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.32</baseImponible>
+					<valor>0.05</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03049926</codigoPrincipal>
+			<codigoAuxiliar>3086123768772</codigoAuxiliar>
+			<descripcion>COLOR BIC X 12 KIDS PREMIUN-TIGRE   525786</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>2.600000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>2.60</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="BIC"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>2.60</baseImponible>
+					<valor>0.39</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03029575</codigoPrincipal>
+			<codigoAuxiliar>6924675000018</codigoAuxiliar>
+			<descripcion>REGLA 20CM FLEXIBLE JEFF JF.RE.21</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.200000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.20</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="JEFF"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.20</baseImponible>
+					<valor>0.03</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03009991</codigoPrincipal>
+			<codigoAuxiliar>7861123900775</codigoAuxiliar>
+			<descripcion>BORRADOR BESTER BT-20</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.173900</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.17</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="BESTER"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.17</baseImponible>
+					<valor>0.03</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03054201</codigoPrincipal>
+			<codigoAuxiliar>6975830246932</codigoAuxiliar>
+			<descripcion>SACAPUNTA NOVEDOSO STITCH 2 SERV C/DEPOSITO REF:NO.2469</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.900000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.90</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="OFFICE"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.90</baseImponible>
+					<valor>0.14</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>00002159</codigoPrincipal>
+			<codigoAuxiliar>4007817104460</codigoAuxiliar>
+			<descripcion>LAPIZ STAEDTLER HB</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.652000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.65</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="STAEDTLER"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.65</baseImponible>
+					<valor>0.10</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>00001998</codigoPrincipal>
+			<codigoAuxiliar>3086129999668</codigoAuxiliar>
+			<descripcion>ACRILICO BIC. AZUL        932584</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.790000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.79</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="BIC"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.79</baseImponible>
+					<valor>0.12</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>00001997</codigoPrincipal>
+			<codigoAuxiliar>3086129999651</codigoAuxiliar>
+			<descripcion>ACRILICO BIC. NEGRO       932583</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.790000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.79</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="BIC"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.79</baseImponible>
+					<valor>0.12</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03018509</codigoPrincipal>
+			<codigoAuxiliar>7750082013261</codigoAuxiliar>
+			<descripcion>TIJERA ARTESCO REBOTE TIJ006</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.670000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.67</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="ARTESCO"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.67</baseImponible>
+					<valor>0.10</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>00003123</codigoPrincipal>
+			<codigoAuxiliar>7861194608303</codigoAuxiliar>
+			<descripcion>GOMA BIOPLAST T2 140GR</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.490000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.49</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="BIOPLAST"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.49</baseImponible>
+					<valor>0.07</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03025593</codigoPrincipal>
+			<codigoAuxiliar>03025593</codigoAuxiliar>
+			<descripcion>PLIEGO FOMIX ESCAR VERDE CLARO</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>1.100000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1.10</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="VENUS"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>1.10</baseImponible>
+					<valor>0.17</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03025443</codigoPrincipal>
+			<codigoAuxiliar>03025443</codigoAuxiliar>
+			<descripcion>PLIEGO FOMIX 60X115 CAFE  1817U</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>1.200000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>1.20</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="PLASTICAUC"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>1.20</baseImponible>
+					<valor>0.18</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>00002333</codigoPrincipal>
+			<codigoAuxiliar>4710609883114</codigoAuxiliar>
+			<descripcion>SIMBALION 07</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.700000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.70</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="SIMBALION"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.70</baseImponible>
+					<valor>0.10</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03048975</codigoPrincipal>
+			<codigoAuxiliar>7861084200549</codigoAuxiliar>
+			<descripcion>HOJA CUADERNO 4LINEA X50</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.366700</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.37</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="OFFICE"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.37</baseImponible>
+					<valor>0.06</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03048976</codigoPrincipal>
+			<codigoAuxiliar>7861084200532</codigoAuxiliar>
+			<descripcion>HOJA CUADERNO CUADRO X50</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.366700</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.37</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="OFFICE"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.37</baseImponible>
+					<valor>0.06</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03026843</codigoPrincipal>
+			<codigoAuxiliar>03026843</codigoAuxiliar>
+			<descripcion>CARPETA TC TRANS VERDE CLARO</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.370000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.37</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="CARIOCA"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.37</baseImponible>
+					<valor>0.06</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03025254</codigoPrincipal>
+			<codigoAuxiliar>000000069823</codigoAuxiliar>
+			<descripcion>CARTUCHERA PROMOCION 2026</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.010000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.01</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="OFFICE"/>
+			<detAdicional nombre="IVA" valor="N"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>0</codigoPorcentaje>
+					<tarifa>0.00</tarifa>
+					<baseImponible>0.01</baseImponible>
+					<valor>0.00</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>03053999</codigoPrincipal>
+			<codigoAuxiliar>000000136587</codigoAuxiliar>
+			<descripcion>TOMATODO PLASTICO 500ML OSITO PROMOCION</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>0.855000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>0.85</precioTotalSinImpuesto>
+			<detallesAdicionales>
+			<detAdicional nombre="MARCA" valor="OFFICE"/>
+			<detAdicional nombre="IVA" valor="S"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>0.85</baseImponible>
+					<valor>0.13</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Direccion">AV WALTER ANDRADE Y LA QUINTA                                   0</campoAdicional>
+		<campoAdicional nombre="Vencimiento1">2026/04/26 Valor:26.86</campoAdicional>
+		<campoAdicional nombre="Control">01-FP-003476225</campoAdicional>
+		<campoAdicional nombre="Email Institucional">mundoffice@mundoffice.com</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature345413">
+<ds:SignedInfo Id="Signature-SignedInfo636130">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID345922" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature345413-SignedProperties2793">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>m9l+Jz/GRpOvktw8OJFvOPB4TsE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate182589">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>QeZuUjvBK+0c+v//8ERKspPafm4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-288947" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>fFn5SkLKS7KXfQ4Oq1m4LyBPeUM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue855461">
+B6W0Tb4/sCQu9pMfdos19HC7Iaxs8tekHu89WyXYGnfuUbbjhhWP1d9/REkQ2MrPv65atrN4neU6
+OXM4viQlie3lFRKgADbZVXTaTG8tmrVmgC8KTMVF9D6i9U+dxkKTalD+RQchosSd8jYYW71+lVZn
+vWy9DVYBfalIpFDicwayfUDXk29vGZawCbmf69oR/6Aps/SBlUoY6irX3HLP36CgmiQb/p24p2BD
+xnpodN8Ra0o9yVo1aJpIA2OBEeye0OsNkH5YQeJasanVpZCUoc45++wrGkKDb/DlaV8iAKGkylco
+sfPzr8ddwyE/uijV5uRLnzRyOrnL0MMVqdDicA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate182589">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL8TCCCdmgAwIBAgIEQpPZVTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA4MDkxODU3MjlaFw0yNjA4MDkxODU3MjlaMIGcMSUw
+IwYDVQQDDBxKT1NFIEFVR1VTVE8gVElQQU5UVU5BIFVHU0hBMRUwEwYDVQQFEwwwOTA4MjIxNDA3
+MTIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA4YKaqQ5kK7Gpdd9SqiFCHphIOMnCHEwK+/3ey3V/eUx+9/RBSo8/rWlB
+Fh4qhutCCVEuYM9iukCre6Tgn+/Ogg/veiWunp66CHXVWUNwSqrQlQNLq/XuGEgBlD0kdOwKzkWn
+NvZ9mehiF/JVOsNWPUMyLtabd2LBy4R8DXFv+U9Ng7N85voUuK8pQRCUpAN4Mfw+zcNc2dxx0cva
+6dxWgrtytedm6XLtS2oY66OQEzKDQfb0L4P0oyk3e0E7y0zWaee5E763LFuah+c791SVzdAkp3vc
+s4zDyFZkooTcks3N/m0zpPVbt+h1g30K55ZJh3ecl3JPXLpgeviNIzh+2wIDAQABo4IHOjCCBzYw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwIgYDVR0RBBswGYEXZ2VyZW5jaWFAbXVuZG9mZmljZS5jb20wggEVBgNVHSAEggEMMIIB
+CDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAg
+AGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZy
+AgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1j
+b250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBk
+ZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHl
+oEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1F
+Qz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRh
+bC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9j
+ZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU6HcXFhe8nMddO1cIOK5d
+gWMtmVAwKwYDVR0QBCQwIoAPMjAyMjA4MDkxODU3MjlagQ8yMDI2MDgwOTE4NTcyOVowCwYDVR0P
+BAQDAgXgMBoGCisGAQQBgqZyAwUEDAwKUFJFU0lERU5URTAaBgorBgEEAYKmcgMBBAwMCjEyMDE2
+MjUwODIwFwYKKwYBBAGCpnIDCQQJDAdRVUVWRURPMBEGCisGAQQBgqZyAyIEAwwBLjAlBgorBgEE
+AYKmcgMHBBcMFUJPTElWQVIgNzA1IFkgU0VQVElNQTAcBgorBgEEAYKmcgMCBA4MDEpPU0UgQVVH
+VVNUTzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDIzOTU5ODATBgorBgEEAYKmcgMhBAUMA1BG
+WDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGCpnIDAwQLDAlUSVBBTlRVTkEwIwYK
+KwYBBAGCpnIDCgQVDBNNVU5ET0ZGSUNFIEMuIExUREEuMB0GCisGAQQBgqZyAwsEDwwNMTI5MTcz
+MDg2NDAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBUGCisGAQQBgqZyAwQEBwwFVUdTSEEwGgYKKwYB
+BAGCpnIDCAQMDAowOTg5NDI2MzI5MA0GCSqGSIb3DQEBCwUAA4ICAQCsNc37FKJEDdRUC0mqJH9n
+QQliQRH9w7OODGzTDa8eQqDTfq35/viMvn3TeRvnOoPnUy7HxA3OUfzyVmKvnPm77cw8hQ6ypUpD
+gXFWIOQa9ClcYCk9tjFtg3bXky4GP5kB197mEnXuGg+ScYGbqhBYI0hDfBl/ryXt+ti82H+iBcOn
+UaVFNSMIYA42oq5rtQroJzEt0Ddv6r02fbnL7NIkmZmqzpDqhw6VK4G5c9zL68fcuZ7NrnuJeUHG
+FNYJ5ZjHYT7rQvVLi6UgHm4yxcY7UD5rQcBSwS+O+kUfyng63t1MvZPhh5+Yg9ug/smQn65Pfqha
+F0di7r3swictMOwuPtDgNP4o68JWX8DBbnUr04VrfeXoaJBVhQ1R1bC8X/B3sOCvCHa32Vst2Rvl
+qkg9xornBBYjXVoYhg+S+OO417xVxmg8u8woWyefGCqqDSQPXy/efUrlzByipksTYwZrqCmw0RMm
+ty+xPJX3KVfAORekBqhBNSj8SsEh/R/MwbaOibmlG462kyL8wLiyNp9zB9u2PrCgPtbxjeLIKKog
+tSVXAeixJdPIMFsGW+o/sbFjJB8L8hA7mhVgca+ibd/9hsEG+p/pWKsdlTOQ7iiHH6FuHd9wsnVY
+a60EKUN2g9vbVGar175V9O7VuZfDJmHBqZjxbh71xz52bPXLnHk/yg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4YKaqQ5kK7Gpdd9SqiFCHphIOMnCHEwK+/3ey3V/eUx+9/RBSo8/rWlBFh4qhutCCVEuYM9iukCr
+e6Tgn+/Ogg/veiWunp66CHXVWUNwSqrQlQNLq/XuGEgBlD0kdOwKzkWnNvZ9mehiF/JVOsNWPUMy
+Ltabd2LBy4R8DXFv+U9Ng7N85voUuK8pQRCUpAN4Mfw+zcNc2dxx0cva6dxWgrtytedm6XLtS2oY
+66OQEzKDQfb0L4P0oyk3e0E7y0zWaee5E763LFuah+c791SVzdAkp3vcs4zDyFZkooTcks3N/m0z
+pPVbt+h1g30K55ZJh3ecl3JPXLpgeviNIzh+2w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature345413-Object775683"><etsi:QualifyingProperties Target="#Signature345413"><etsi:SignedProperties Id="Signature345413-SignedProperties2793"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-26T11:48:49-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>bh+3mHwJ2uidVg0LCS7CpC3PaFQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1116985685</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-288947"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

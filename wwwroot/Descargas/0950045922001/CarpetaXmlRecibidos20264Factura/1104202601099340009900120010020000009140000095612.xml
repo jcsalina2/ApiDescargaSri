@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1104202601099340009900120010020000009140000095612</numeroAutorizacion>
+<fechaAutorizacion>2026-04-11T18:43:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>MAO RESTAURANTE MAOREST S.A.S.</razonSocial>
+	    <nombreComercial>MAO RESTAURANTE MAOREST S.A.S.</nombreComercial>
+	    <ruc>0993400099001</ruc>
+	    <claveAcceso>1104202601099340009900120010020000009140000095612</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000000914</secuencial>
+	    <dirMatriz>Av. Benjamín Carrión S/N junto al edificio City Office</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>11/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>Av. Benjamín Carrión S/N junto al edificio City Office</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>BELGICA LOAIZA</razonSocialComprador>
+	    <identificacionComprador>0950045922</identificacionComprador>
+		<direccionComprador>xxxxxx</direccionComprador>
+	    
+	    <totalSinImpuestos>44.99000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>44.99</baseImponible>
+				<valor>6.75000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>51.74000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>51.74</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>BP011</codigoPrincipal>
+		<codigoAuxiliar>BP011</codigoAuxiliar>
+      	<descripcion>MINI MAO PURPLE (SIN ALCOHOL)</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.600000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.60</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.60000</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>BE005</codigoPrincipal>
+		<codigoAuxiliar>BE005</codigoAuxiliar>
+      	<descripcion>SAPPORO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.960000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.96</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.96000</baseImponible>
+          <valor>1.04</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>C003</codigoPrincipal>
+		<codigoAuxiliar>C003</codigoAuxiliar>
+      	<descripcion>TAKOYAKI</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.690000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.69</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>8.69000</baseImponible>
+          <valor>1.30</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>C004</codigoPrincipal>
+		<codigoAuxiliar>C004</codigoAuxiliar>
+      	<descripcion>YAKIMESHI</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.080000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.08</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.08000</baseImponible>
+          <valor>0.91</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>C008</codigoPrincipal>
+		<codigoAuxiliar>C008</codigoAuxiliar>
+      	<descripcion>CORNDOG</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.470000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.47</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.47000</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>S007</codigoPrincipal>
+		<codigoAuxiliar>S007</codigoAuxiliar>
+      	<descripcion>SAMURAI ROLL</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>10.430000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.43</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>10.43000</baseImponible>
+          <valor>1.56</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>S001</codigoPrincipal>
+		<codigoAuxiliar>S001</codigoAuxiliar>
+      	<descripcion>EBI CRUNCHY</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.760000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.76</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.76000</baseImponible>
+          <valor>1.01</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA.</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature312137">
+<ds:SignedInfo Id="Signature-SignedInfo526658">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID691343" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature312137-SignedProperties326149">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>aw18MnstR5nO3lOl31HREdUoqGw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate709561">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6Ivu/cqfltuOwn17au78eYGr1Ec=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-189345" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>KKc+Xf48EQlhvgEsa6j8NNhOR6A=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue605693">
+VtjDm22oGfRRIXlEkZt0GZdpGQPn2/XsQboS6exvKW4t0UgsjE9r6NKHQE3iip2bjpAvcwdiUs0O
+A5VHbg7gCuwOjpDjiYOj8JwBZuSO4qTUFYyj7yNq2v5+eIhU2Eb1KqI8hK8hc0kocSgRITouI9yV
+O8jTlGHAn8GgjRjFhSIQB69gOCPWs7OrhIbTmt2cOrRAm3UPZW4qTX7qxdBaM3AHEXjRr1nmXaUT
+oeKnr/0/Ot8JedAQ8E0QsbfvgERV3KA+iQtn8CLTl+xCQonzzJQfu36pTL967qvveKFixfTPpl+Y
+kWa6ynsAOKlk8xTlz4BDapzOArDS/iSTv9vQgQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate709561">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJfjCCB2agAwIBAgIIIbO777Hd1OkwDQYJKoZIhvcNAQELBQAwgYYxCzAJBgNVBAYTAkVTMRIw
+EAYDVQQHDAlCYXJjZWxvbmExFjAUBgNVBAoMDVVBTkFUQUNBIFMuQS4xFTATBgNVBAsMDFRTUC1V
+QU5BVEFDQTEaMBgGA1UEAwwRVUFOQVRBQ0EgQ0EyIDIwMjExGDAWBgNVBGEMD1ZBVEVTLUE2Njcy
+MTQ5OTAeFw0yNjAzMjAxNDM0MDBaFw0yNzAzMjAxNDM0MDBaMIHdMQswCQYDVQQGEwJFQzEnMCUG
+A1UECgweTUFPIFJFU1RBVVJBTlRFIE1BT1JFU1QgUy5BLlMuMRgwFgYDVQQMDA9HRVJFTlRFIEdF
+TkVSQUwxFzAVBgNVBAQMDk1BUlRJTkVaIENBTkRPMRQwEgYDVQQqDAtMVUlTIEFORFJFUzEZMBcG
+A1UEBRMQSURDRUMtMDkyMjIzOTcyODEjMCEGA1UEAwwaTFVJUyBBTkRSRVMgTUFSVElORVogQ0FO
+RE8xHDAaBgNVBGEME1ZBVEVDLTA5OTM0MDAwOTkwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQCXBLnx0LsHyvmNL7qLq2PFiEdaEHE1c/LB2DqO1KFpMveaz/zrqiNlulBHHUQxC3e6
+ldXVIHhV6OwMBJomIxDd6UOHqkEjjtIr5KNROlmZznH7FYPMtnH31Op+Yf1lG6utEG40s9xyfl9K
+p5SLeEaVvtNaIyMmASWUxBmwk5yDsY5WBX4dJDB7o04kj4nJS2mTd53H3FPkHwv5nRGKkj/oNywS
+6NKvrVt7+bpZEr9uuBW+xVIE+6bU8oGxYHBRQLGunond6TSntJ1AQ+mD/7cCGLcdpL/I3hZhe4rg
+A+4CqC7Fss0ZEc2UcCM+xiE0Gj9IygFzarNfbGC97e9ynXdnAgMBAAGjggSVMIIEkTAbBgsrBgEE
+AYLxNmYDAQQMDAowOTIyMjM5NzI4MB4GCysGAQQBgvE2ZgMLBA8MDTA5OTM0MDAwOTkwMDEwge0G
+CCsGAQUFBwEBBIHgMIHdMGsGCCsGAQUFBzAChl9odHRwczovL3dlYi51YW5hdGFjYS5jb20vY29t
+bW9uL3Byb2plY3QvcGRmL2F1dG9yaWRhZC1jZXJ0aWZpY2FjaW9uLzA4X3N1Ym9yZGluYWRhLWNh
+Mi0yMDIxLmNlcjA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMv
+cGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9w
+a2kvb2NzcC8wHQYDVR0OBBYEFKGuwkeD4LNyNetySo8AiVf2OHsIMAwGA1UdEwEB/wQCMAAwHwYD
+VR0jBBgwFoAUxeczJdjv1I3nU4fKolt1OouW3UowHAYDVR0SBBUwE4ERaW5mb0B1YW5hdGFjYS5j
+b20wVAYDVR0gBE0wSzBJBgwrBgEEAYLxNmYCAwEwOTA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzCBhQYDVR0fBH4wfDA8oDqgOIY2aHR0cDov
+L2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsLzIwMjFDQTJzdWIuY3JsMDygOqA4hjZo
+dHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvMjAyMUNBMnN1Yi5jcmwwDgYD
+VR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAecGA1UdEQSCAd4w
+ggHagR5ub3RpZmljYWNpb25lc2Zpcm1hc0BzaWlnby5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMDky
+MjIzOTcyOKAcBgsrBgEEAYLxNmYDAqANDAtMVUlTIEFORFJFU6AZBgsrBgEEAYLxNmYDA6AKDAhN
+QVJUSU5FWqAWBgsrBgEEAYLxNmYDBKAHDAVDQU5ET6AgBgsrBgEEAYLxNmYDBaARDA9HRVJFTlRF
+IEdFTkVSQUygRQYLKwYBBAGC8TZmAwegNgw0QVYuIEJFTkpBTU4gQ0FSUklOIFMgTiBKVU5UTyBB
+TCBFRElGSUNJTyBDSVRZIE9GRklDRaAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk2Nzg1MjAwNqAa
+BgsrBgEEAYLxNmYDCaALDAlHVUFZQVFVSUygLwYLKwYBBAGC8TZmAwqgIAweTUFPIFJFU1RBVVJB
+TlRFIE1BT1JFU1QgUy5BLlMuoB4GCysGAQQBgvE2ZgMLoA8MDTA5OTM0MDAwOTkwMDGgEwYLKwYB
+BAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAYBgsr
+BgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQCBr60qiCQTau4Y09eyTVql
+O3JqyP4jnpvMJBHs+83hRMqHD+wV5feHb9R/K+GVwdK5gfnjienMYwDSE7cz05emIgH1IikhbePc
+WAESXqYd2m2yCYggQZv04M+Do/bvrme6medbZQLVMBC4em5MMgf2/v4qEAXEq5GjO0Ma77Sqrqeq
+6joLHIQ7/oJ+X1cJ/lJ6AXPoIwo4M1FyQZeK3QFz7KEoc2DSbFxQO2p7rHvc0K38AwpYcMGBnXru
+uh7uDHWHLtT869pZOa2PEJ8URgSTGW4U+upD847ynXuNklz3rmCK5S1VFbMCnqz2fN9cGVqSwM2z
+RX7hdapEm5IyQfb0sEQccmjIYTbNFh21jjHuKHqgc0IpAEs6FjuGXknpi0kiI8QNMfEoOXDzoxtl
+na8eaPvhDtLe1s51B9NB0AaE9NT7gjmwOkhsy1rXLfe/QykdhyVDiTzdIMrjuDtB5tySALP+vEv4
+2JaOy1BQJBaKQE/cTvZISwkrcN+kGefH7wu5/zsyicfiZGflWwCSRqH9V0ykoGY9gZSEMODRE7NH
+NXjRo4+ROHkgB7dTP3fqCMZvs+tsODDNADqw/FoMqgR077ANfvOmCingenT9/Rt7LSie96uByGgY
+Dy0/DjzAFBdPOjaOXgezHjEsOhGfs75thdnXrI3aWqd0Vn23wpan8g==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+lwS58dC7B8r5jS+6i6tjxYhHWhBxNXPywdg6jtShaTL3ms/866ojZbpQRx1EMQt3upXV1SB4Vejs
+DASaJiMQ3elDh6pBI47SK+SjUTpZmc5x+xWDzLZx99TqfmH9ZRurrRBuNLPccn5fSqeUi3hGlb7T
+WiMjJgEllMQZsJOcg7GOVgV+HSQwe6NOJI+JyUtpk3edx9xT5B8L+Z0RipI/6DcsEujSr61be/m6
+WRK/brgVvsVSBPum1PKBsWBwUUCxrp6J3ek0p7SdQEPpg/+3Ahi3HaS/yN4WYXuK4APuAqguxbLN
+GRHNlHAjPsYhNBo/SMoBc2qzX2xgve3vcp13Zw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature312137-Object54432"><etsi:QualifyingProperties Target="#Signature312137"><etsi:SignedProperties Id="Signature312137-SignedProperties326149"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-11T18:43:16-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>aQvneQLkR2GNdGIztZWrxSAEBXY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2021,C=ES,L=Barcelona,2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>2428491262238512361</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

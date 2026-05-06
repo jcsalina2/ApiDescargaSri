@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601019045180100120010020000589884038286814</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T12:37:23-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>BLOQUESIETE CÍA. LTDA.</razonSocial><nombreComercial>SINFONÍA TOSTADURÍA Y CAFETERÍA</nombreComercial><ruc>0190451801001</ruc><claveAcceso>0104202601019045180100120010020000589884038286814</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000058988</secuencial><dirMatriz>AZUAY / CUENCA / HUAYNACAPAC / FEDERICO MALO 1-265</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>01/04/2026</fechaEmision><dirEstablecimiento>AZUAY / CUENCA / HUAYNACAPAC / FEDERICO MALO 1-265</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>Miguel Jara</razonSocialComprador><identificacionComprador>0923295786</identificacionComprador><direccionComprador>Guayaquil</direccionComprador><totalSinImpuestos>6.52</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>6.52</baseImponible><tarifa>15.00</tarifa><valor>0.98</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>7.50</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>7.50</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>Choclito</codigoPrincipal><descripcion>Choclito</descripcion><cantidad>1.00</cantidad><precioUnitario>4.347826</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>4.35</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>4.35</baseImponible><valor>0.65</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>Doble Shot Espresso</codigoPrincipal><descripcion>Doble Shot Espresso</descripcion><cantidad>1.00</cantidad><precioUnitario>2.173913</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2.17</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2.17</baseImponible><valor>0.33</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="email">arteyarmonia.escuela@gmail.com</campoAdicional><campoAdicional nombre="telefono">0990925962</campoAdicional></infoAdicional><ds:Signature Id="Signature192447" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo659084" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID700763" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature192447-SignedProperties321260">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>BfboNw+l8+w6caSLgKtFW6h8enk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate160936">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hZPZg6kx2Mm4y4XOft24JIFOUHE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-374800" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>CEmhDJr9JsRZMvUrZ2k8SvgVbow=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>
+qTyO+zWRV+m0R33sQLp451n/a7pB2ii56NaZ9XF3Uua5QScwVQvo+ohiC5eObolGdNfxnoduFhOB
+Ff+65dgVx8V9789sZLk70ZIy0YfZ6dLgCRZKXCJbMN6hl/rxB19NMMKfTgPBXhvzH1X87ZEPHWUe
+LIb5TKb4qPrJdDEQiydiB1sZ/GQiyw2eHlWUrCGgVsi+ViD6Sj9WpbCJkS1wpANX1hJYXHDitqz2
++2kkqEe9aa2CvYB4ior7Fx2qt8CVJEM93fMbXrtjxcF1q3WYi72WfY4ZAavDN8l+WLysT5LO/byv
+tmJaAsmdLkz9r00Ovbm/UcrLDlC67aAShDEVJA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate160936" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKuDCCCKCgAwIBAgIINJCmD8bHPSMwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTAyMDEwNjAwWhcNMjcwOTAyMDEwNjAwWjCB
+oTEfMB0GA1UEAwwWUlVNSU5BSFVJIExPQUlaQSBMQU5HRTEgMB4GA1UEBRMXMTEwMjMzNDQ0Ni0w
+MTA5MjUyMDE1NTAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt5KdvxF8NRWJTwQ+kL+pi6HgAA5CqtiILVLojkz1ghaG
+VhVvGbpGQ0ug05soTSHPq/8Vh4tsX9WJU9kypgvyhK71z/28+V5v2xu8zhZeriGdj65lBZ0WsqRJ
+dbGXwzWjLajnnYuSScR/WZirkDt0WVFhq6SpF9zqbGcIcqekILNNeQkYs/1Z+yZiBSl5iCat/pw2
+scfOyQZx4jXk1QVMPc3fkGXsWpidE5thMo/trcdyvDCdYil98gIRQ0IStaMKxDsyy8Y54uuazm1b
+38Gh5FiWSDKdLww1JMjShrcjUl6QwlH2aRuR67r0jZcqv3W0+olfI1w5JPYxziZ71C7+YQIDAQAB
+o4IF+DCCBfQwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZ
+BggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwLQYDVR0RBCYwJIEicy5uZWdvY2lvc0Bj
+b3Jwb3JhY2lvbm5vdnVtLmNvbS5lYzCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBS
+BggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMA
+ZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEW
+gYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05v
+cm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJl
+c2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1Ud
+HwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJj
+cmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNV
+BAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIv
+Y3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vl
+cj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQzAdBgNVHQ4EFgQUa3lt6nwwaxphcADaQg6n4dzvtfEwKwYDVR0QBCQwIoAPMjAy
+NTA5MDIwMTA2MDBagQ8yMDI3MDkwMjAxMDYwMFowCwYDVR0PBAQDAgXgMBcGCisGAQQBgqZyAwUE
+CQwHR0VSRU5URTAaBgorBgEEAYKmcgMBBAwMCjExMDIzMzQ0NDYwGwYKKwYBBAGCpnIDCQQNDAtI
+VUFZTkFDQVBBQzARBgorBgEEAYKmcgMiBAMMAS4wIwYKKwYBBAGCpnIDBwQVDBNGRURFUklDTyBN
+QUxPIDEgMjY1MBkGCisGAQQBgqZyAwIECwwJUlVNSU5BSFVJMB8GCisGAQQBgqZyAyAEEQwPMDE5
+MDAxMDAwMDAyMzIwMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURP
+UjAWBgorBgEEAYKmcgMDBAgMBkxPQUlaQTAkBgorBgEEAYKmcgMKBBYMFEJMT1FVRVNJRVRFIENJ
+QSBMVERBMB0GCisGAQQBgqZyAwsEDwwNMDE5MDQ1MTgwMTAwMTARBgorBgEEAYKmcgMdBAMMAS4w
+FQYKKwYBBAGCpnIDBAQHDAVMQU5HRTAaBgorBgEEAYKmcgMIBAwMCjA5Nzk1NTY5NTkwDQYJKoZI
+hvcNAQELBQADggIBAFcgT6AAUVpAI6a99zP3y5seyK6UdDwcgIaQzdl5MW36dBAZJYwbOn37BanW
+t26UHvmSRxONirzoohgT2NmVSjwn4iXJbPeqyyXTX6zsB0gIt8UWAIyOu2x/wEe/1ELlhxko1kkk
+egtP7mdmn5zRHqJyCh1iJmovKC4WE61sm1/5MOxGNlqKoWdq+KcatwdARep7xZ/u42IC3+7T+6Jk
+fQADOI9WUclnBOE6uT3kdMgSF4V3/dV0O1b/XqWA0JlbLfI4lpLMozrKLKvJwpiVriQBaIjYYv8T
++uOUK9mZsvgEmnQo5uKj5/5AlOwl3MZJ4PK+4O6ddxhU/FoX4CErUHhY0p1qdKovuCMVjQeO7XjB
+2fXKpck7FL1DMOCj0eq6k8vqhkZADPn0CajSECngdPeEJikv7y2xut6sRsn7YHdaSmTUtnM+C/6q
+BQiIyaYKKuSD6hJTTcm3jvWsV+Vq1HpJSq8Fp1Dv025oJ1zyHdXJZHVBgud6XGal9LRmijNjCOW+
+2v2J4lRiaq2xIOohzNvCatkHDHrBMNyCmhUzENu/tlgTIajKCU5rB1GSmQzYx6H5NqMTt8iWQ/v6
++LlGa4OK5ECxGDmnCpE2+0JmK3b1rMhwIKJ/KiY0fWWHNrq4GLfKecKw9k6XsvxpynW0aIBR7g+Y
+Hgoa2g14EE/X2B8V
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+t5KdvxF8NRWJTwQ+kL+pi6HgAA5CqtiILVLojkz1ghaGVhVvGbpGQ0ug05soTSHPq/8Vh4tsX9WJ
+U9kypgvyhK71z/28+V5v2xu8zhZeriGdj65lBZ0WsqRJdbGXwzWjLajnnYuSScR/WZirkDt0WVFh
+q6SpF9zqbGcIcqekILNNeQkYs/1Z+yZiBSl5iCat/pw2scfOyQZx4jXk1QVMPc3fkGXsWpidE5th
+Mo/trcdyvDCdYil98gIRQ0IStaMKxDsyy8Y54uuazm1b38Gh5FiWSDKdLww1JMjShrcjUl6QwlH2
+aRuR67r0jZcqv3W0+olfI1w5JPYxziZ71C7+YQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature192447-Object49708"><etsi:QualifyingProperties Target="#Signature192447"><etsi:SignedProperties Id="Signature192447-SignedProperties321260"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T12:36:55-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>sJrKwbpztN3L77Cxf4wfzKtXrq4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>3787709873308253475</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-374800"><etsi:Description>Contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

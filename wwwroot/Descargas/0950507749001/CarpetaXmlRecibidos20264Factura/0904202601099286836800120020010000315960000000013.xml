@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0904202601099286836800120020010000315960000000013</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T23:58:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>FISH INTERNATIONAL TRADING S.A. FINTRA</razonSocial>
+	    <nombreComercial>ROSA MEZCAL</nombreComercial>
+	    <ruc>0992868368001</ruc>
+	    <claveAcceso>0904202601099286836800120020010000315960000000013</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>002</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000031596</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / S/N PUERTO SANTA ANA EDIF. THE POINT PISO 28 OF. 2804</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>09/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / S/N PUERTO SANTA ANA EDIF. THE POINT PISO 28 OF. 2804</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>ERICK GARCIA</razonSocialComprador>
+	    <identificacionComprador>0950507749001</identificacionComprador>
+		<direccionComprador>GYE</direccionComprador>
+	    
+	    <totalSinImpuestos>16.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>16.00</baseImponible>
+				<valor>2.40000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>18.40000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>18.40</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>FCC086</codigoPrincipal>
+		<codigoAuxiliar>FCC086</codigoAuxiliar>
+      	<descripcion>CHURROS RELLENOS DE MANJAR - CORTESIA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.010000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.01</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.01000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FCC047</codigoPrincipal>
+		<codigoAuxiliar>FCC047</codigoAuxiliar>
+      	<descripcion>COPA MEXICANA TRUFADA.</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>15.990000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>15.99</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>15.99000</baseImponible>
+          <valor>2.40</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature975656">
+<ds:SignedInfo Id="Signature-SignedInfo154390">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID114344" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature975656-SignedProperties781907">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>u4Yp+C3tTp0+1t7hIZNsUEP1b3I=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate827289">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Wehzi+lRKsSHaD++u1MjS+iaRYs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-382473" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>L0iajsw+9pfkEYRXpjPGcwwM3kY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue247915">
+ZsyLVpZHAsAGLOuafJl8+iWJWU6asRi0CzME0kWhplX91YBSSdVV3Mb8RAxJ/ZIhn+ugfcd8HHKD
+nrXkfx5F8Dkgyu93OWnN+I8IaEH45AaX30xmCiHBqlJMV1uU8Di7GKlFm2tgGrNQJhTDJ/Yqbj8t
+zNxP5F7Eu4V42MleFUC0G/XmVVGsM5OI3g2Pldcf9i0gGjCp8X2N5pCanZ1bU8wX3eRTsIikJ/ka
+SSPXNwl0gENww4sOqRcey/6xBb7ObF1FO208YLKqvpi5azGKkcMmMqfr/DbHqv4LKrBh96zcTM8A
+TCBRAa4gBIDwSae/DZKqQEs3+w69aDX5XqdO4w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate827289">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL9DCCCdygAwIBAgIEf2154jANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMDUxNTE4MzhaFw0yNjExMDUxNTE4MzhaMIGjMSEw
+HwYDVQQDDBhKVUFOIEFORFJFUyBHQU1FIFRSSVZJTk8xIDAeBgNVBAUTFzA5MjAyMDYxMTctMDUx
+MTI0MTAyODMwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAKZtziBzD7Ovu3tizgQSx3Lh76jBFi+jj2ecK6ofQQRAVmle
+UlnHMRccT3IyeJQXhKY7/4EbuzeKbnaPxy8Lxw+k4fDb0T+dSHl4WZAwQa7x4tU4QoAoogL1y3SW
+2e8RG3yygPCuOdhTu45KZL5YbDkr91BSuL7WRpMK3bvGHcMlzg9C/+76vqnZy/eMF8r5jhXfPvEM
+IUGpxSBogR2Zz2hLTpGt4n4mbNWlzn0xBm/Zko28OguD3K7e8Tv6rUoQ1JOKFuL98HNTdqD4lS5f
+17E0GwSAvpiuCNUfOqBGBf9yPud19sJGZhqwFt+17C6pcVYJ79uq3BTFsOw6KfDMwwsCAwEAAaOC
+BzYwggcyMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYI
+KwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhs
+ZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0
+aW9uTGlzdD9iYXNlMB8GA1UdEQQYMBaBFGphZ2FtZTkzQGhvdG1haWwuY29tMIIBFQYDVR0gBIIB
+DDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEE
+AYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+d3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGlj
+YXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIC
+lTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3
+ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UE
+BhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9w
+b3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRp
+c3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFGcKlCPu4hUekw2H
+QcxPx639qJS+MCsGA1UdEAQkMCKADzIwMjQxMTA1MTUxODM4WoEPMjAyNjExMDUxNTE4MzhaMAsG
+A1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMB
+BAwMCjA5MjAyMDYxMTcwFgYKKwYBBAGCpnIDCQQIDAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEu
+MBMGCisGAQQBgqZyAwcEBQwDUyBOMBsGCisGAQQBgqZyAwIEDQwLSlVBTiBBTkRSRVMwHwYKKwYB
+BAGCpnIDIAQRDA82NjY2NjY2NjY2NjY2NjYwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGC
+pnIDDAQJDAdFQ1VBRE9SMBQGCisGAQQBgqZyAwMEBgwER0FNRTA1BgorBgEEAYKmcgMKBCcMJUZJ
+U0ggSU5URVJOQVRJT05BTCBUUkFESU5HIFMgQSBGSU5UUkEwHQYKKwYBBAGCpnIDCwQPDA0wOTky
+ODY4MzY4MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAXBgorBgEEAYKmcgMEBAkMB1RSSVZJTk8wGgYK
+KwYBBAGCpnIDCAQMDAowOTgyNDk2NTg4MA0GCSqGSIb3DQEBCwUAA4ICAQC9QRGfttqeOFQ0S7al
+Js3h1y5YOCMPiEMzm7oCmy79BnzE5W8EzUaDzYXOkWxu3Yg0LdAntRzzaQ99RlUQQT46ZCzwfjLc
+7RnEKnMekBH8W3uokvCqv0eYGRLI+CL6FbpNKJip5yGm0t+fnhtlMj1Efeurf7KiQJtKW8iAsnTL
+tW0TIin611XMwP3+SU56XcOLUyjKcjSqwPJj++HM6c9UUvfjdUP3BrQ1ZIVgA6dViXHniV+k2Mi9
+jVWlya/y5x0jh68S0Hhm/hv/LmNo20FaHnDLQerUm7mERKQMIZpZhC6OrsCMVGGSUdhktDYF9Ypj
+CzaPgxiI3sBqu4FKzJqYl7d5FqqNL47EDo6r2wDMDuFge7LNr1Dyfu9vfpR4sSG7hCWvQ0W1kB7a
+vHqLpx3hNKsli28FA/MHN33yfpPbplL06JJJZOZzYCQy7Mghc3enb1X8FPzEu+RnKRyRF+SYGREI
+u4ySMpsjBNZI2ajLJuQk1CRob+Y4yYMCxfn8lHdQdpgF/ur6PNlq6TksjO0bcu47N/xvVNJ/4pvh
+skZlRvTLBHehJucyBRpKMl3N/PimLZQOeQ4K/FLj4q4Njo+rLoIU5zLkvAD1diXKs/hFbBPZDdTP
+mt/qEVA4mNBXW7O0uqYwKtENODoo+ionLvKWabFvExszyGEcxbxa2dI75w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pm3OIHMPs6+7e2LOBBLHcuHvqMEWL6OPZ5wrqh9BBEBWaV5SWccxFxxPcjJ4lBeEpjv/gRu7N4pu
+do/HLwvHD6Th8NvRP51IeXhZkDBBrvHi1ThCgCiiAvXLdJbZ7xEbfLKA8K452FO7jkpkvlhsOSv3
+UFK4vtZGkwrdu8YdwyXOD0L/7vq+qdnL94wXyvmOFd8+8QwhQanFIGiBHZnPaEtOka3ifiZs1aXO
+fTEGb9mSjbw6C4Pcrt7xO/qtShDUk4oW4v3wc1N2oPiVLl/XsTQbBIC+mK4I1R86oEYF/3I+53X2
+wkZmGrAW37XsLqlxVgnv26rcFMWw7Dop8MzDCw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature975656-Object360985"><etsi:QualifyingProperties Target="#Signature975656"><etsi:SignedProperties Id="Signature975656-SignedProperties781907"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-09T23:58:29-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>lUHahloX+ehwjwiQ3MCOq/90YGo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>2137881058</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

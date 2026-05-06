@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601179125704900120010580001212234936818317</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T14:58:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SALUDSA SISTEMA DE MEDICINA PREPAGADA DEL ECUADOR S.A.</razonSocial>
+    <nombreComercial>SALUD S.A.</nombreComercial>
+    <ruc>1791257049001</ruc>
+    <claveAcceso>1404202601179125704900120010580001212234936818317</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>058</ptoEmi>
+    <secuencial>000121223</secuencial>
+    <dirMatriz>Quito: REPUBLICA DEL SALVADOR N36-84 Y AV. NACIONES UNIDAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>14/04/2026</fechaEmision>
+    <dirEstablecimiento>Quito: REPUBLICA DEL SALVADOR N36-84 Y AV. NACIONES UNIDAS</dirEstablecimiento>
+    <contribuyenteEspecial>02239</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>LOAIZA SUAREZ BÉLGICA ANDREA</razonSocialComprador>
+    <identificacionComprador>0950045922</identificacionComprador>
+    <direccionComprador>SAMANES 4 MZ 411 VILLA 40 MZ 411 VILLA 40 MZ 411 VILLA 40 REFERENCIA:</direccionComprador>
+    <totalSinImpuestos>92.63</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>92.63</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>93.09</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>93.09</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>4163991-IND</codigoPrincipal>
+      <descripcion>MEDICINA PREPAGADA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>92.63</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>92.63</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Detalle-Adicional" valor="LOAIZA SUAREZ BÉLGICA ANDREA" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>92.63</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <otrosRubrosTerceros>
+    <rubro>
+      <concepto>SeguroCampesino</concepto>
+      <total>0.46</total>
+    </rubro>
+    <rubro>
+      <concepto>SeguroCampesinoRetroactivo</concepto>
+      <total>0.00</total>
+    </rubro>
+  </otrosRubrosTerceros>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">bandreasuarezl@gmail.com</campoAdicional>
+    <campoAdicional nombre="Seguro Campesino">0.46</campoAdicional>
+    <campoAdicional nombre="Seguro Campesino Retroactivo">0.00</campoAdicional>
+    <campoAdicional nombre="Periodo Pago">01/03/2026 - 01/04/2026</campoAdicional>
+    <campoAdicional nombre="Total">93.09</campoAdicional>
+    <campoAdicional nombre="Empresa-Lista-Contrato">COSTA-IND-4163991</campoAdicional>
+    <campoAdicional nombre="Vigencia">01/02/2023 - 01/02/2027</campoAdicional>
+    <campoAdicional nombre="Periodo-facturacion">Mensual</campoAdicional>
+    <campoAdicional nombre="Direccion-cliente">SAMANES 4 MZ 411 VILLA 40 MZ 411 VILLA 40 MZ 411 VILLA 40 REFERENCIA:</campoAdicional>
+    <campoAdicional nombre="broker">.</campoAdicional>
+    <campoAdicional nombre="email-broker">.</campoAdicional>
+    <campoAdicional nombre="email-contacto">.</campoAdicional>
+    <campoAdicional nombre="telefono-cliente">.</campoAdicional>
+    <campoAdicional nombre="tipoContribuyente">Gran Contribuyente según resolución Nro. NAC-GCFOIOC21-00001132-E</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-8bc9d7b9-8f5e-4b07-a81b-5b67a125b11c"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-be6001d4-42dd-43d2-83cb-73441fa29e89" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>qv9BqlYMSzei/7WLRciv8tTUpASRd7+X0Ck2tAztaNo=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-8bc9d7b9-8f5e-4b07-a81b-5b67a125b11c"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>rexNkNpJDRSjkR54Rtq+UeOOSdc92NcwBdpcC2Jj7tk=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-8bc9d7b9-8f5e-4b07-a81b-5b67a125b11c"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>7i58HABM9qAH7Xj3cz2Kq8KCBDf4h3zZ4zgLHkdvg4E=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-8bc9d7b9-8f5e-4b07-a81b-5b67a125b11c">aFmLsTNisug5vGMACoME1PWA5scz88KPn3eU6EcedMxu0QAiTOL5bv9kYaHK0nhZRYdACbRK/gdV3IKMeDnMEpDywgE9eHdheugJMaLkHibjF8c3HE+ho5pmFg9g41wSEWsrzMphH7mqILNxmJMjwBvWCCwrZSewvnRLHTEsx7VNRofIBwiefdMWhWP4fSK1926dYrlh7ZxBjsY6Bf+TUMZF/Zms8RldZSMOiTL7ENdWPY23wSBnOcF6382zWydRd39l4e4obBCsAFDf+2wtFt0uev/PMRYaRgKLrT3pObqoHvEjoHUJI+LKmMBOZy2YZAdN5B6r+DMck0MkU5FiYg==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-8bc9d7b9-8f5e-4b07-a81b-5b67a125b11c"><ds:X509Data><ds:X509Certificate>MIIMpjCCCo6gAwIBAgIEBVCbQDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA3MDMyMDA0NDlaFw0yNjA3MDMyMDA0NDlaMIGrMSkwJwYDVQQDDCBDTEFSQSBET0xPUkVTIEZBUklOQU5HTyBDSVNORVJPUzEgMB4GA1UEBRMXMTcxMzMxMzgxMy0wMzA3MjQxNTE0MzAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7gohdogqjKe707RMoZRIecYlqH7OMASoZ772kl8KapmQG3vQsf6kf9QBpmpXd9WJzvclWkwQVFinhbg1KemLU0Ea06gF88ddJla6iRa3DY5aUcHsrTQUMEVBo9hQIP33ilGuyT0/WgrSyN23lRjOrCnGCZ6T2gMkk7WT9ENmb/3xUXarWfeeqLMY/JeEw2GlTq0ZnRjMTRcs3dt28AtjN2Jx1AWZ37wvG3bmfdkvIjTsVCSZ/Mqkl3w209zFZyy9MawAQ8ARd8uJtv077d+nndZ3UGAALonb1Q7i4g+U223L1LkdlNMWT4jVLPh8QyLFTX4cmZCD6+MnLKvsWQ0igQIDAQABo4IH4DCCB9wwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwJAYDVR0RBB0wG4EZY2ZhcmluYW5nb0BzYWx1ZHNhLmNvbS5lYzCCARIGA1UdIASCAQkwggEFMGAGCisGAQQBgqZyAgowUjBQBggrBgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAATQBpAGUAbQBiAHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZyAgQwgZEwgY4GCCsGAQUFBwIBFoGBaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBRgE+zS0A0Sqs/TZ04Z2UjO66WYjjArBgNVHRAEJDAigA8yMDI0MDcwMzIwMDQ0OVqBDzIwMjYwNzAzMjAwNDQ5WjALBgNVHQ8EBAMCBeAwJwYKKwYBBAGCpnIDBQQZDBdHRVJFTlRFIERFIENPTlRBQklMSURBRDAaBgorBgEEAYKmcgMBBAwMCjE3MTMzMTM4MTMwbwYKKwYBBAGCpnIDCQRhDF9RVUlUTyBESVNUUklUTyBNRVRST1BPTElUQU5PIENBQkVDRVJBIENBTlRPTkFMIENBUElUQUwgUFJPVklOQ0lBTCBZIERFIExBIFJFUFVCTElDQSBERUwgRUNVQURPUjARBgorBgEEAYKmcgMiBAMMAS4wQgYKKwYBBAGCpnIDBwQ0DDJSRVBVQkxJQ0EgREVMIFNBTFZBRE9SIE4zNiA4NCBZIEFWIE5BQ0lPTkVTIFVOSURBUzAdBgorBgEEAYKmcgMCBA8MDUNMQVJBIERPTE9SRVMwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDA2MTE2NjIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBkGCisGAQQBgqZyAwMECwwJRkFSSU5BTkdPMEUGCisGAQQBgqZyAwoENww1U0FMVURTQSBTSVNURU1BIERFIE1FRElDSU5BIFBSRVBBR0FEQSBERUwgRUNVQURPUiBTIEEwHQYKKwYBBAGCpnIDCwQPDA0xNzkxMjU3MDQ5MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAYBgorBgEEAYKmcgMEBAoMCENJU05FUk9TMBoGCisGAQQBgqZyAwgEDAwKMDk5MTMzMzM0ODANBgkqhkiG9w0BAQsFAAOCAgEAo6IZ25LtkLM73Xir2leObiWfrY+hkMAmhAOBbJFMtY+Cu4EOwaul/QCWMymPZuAWKaAfzIoNEjwWCylufeblKPkUrbMLbiCQPuBmeg6P16PusB6gITl2eZ8kvLs7GFfUk/2iGJJQrwUr1w5S1sOfElldSCdUFYGRrz7+ZlT7OB5G7w0EiCWAdiHNeoh/04OQOIV8Fg+Gb+EOt7asW6W4OpFRraTmHHuO6UidFFIdeAzjpCaIoik8xeX/mUNo3gWlgumaXfnL6xH94dEwtSr/L54ZJL3/Tq7biHxyjOSTZSMYgX+e+xpaJlvjI3XmeM1Zafq161yMMo+N9pcV3aBe6hK0lPD8gx16Li7oEDYcoGcQH1NaqEXVwL/wFPq3b7GXNizlFen5P0ef/hoMEvtaV01JsS4YYIyGBEfwd7rJPUp/oxxzV79uOqgd09/H9JbMcCEMm6BgWOzWV1TsTiPLuU+OLRETEY95tFxm3t/zppIrqGtQH2JA6NqeU/PFVE0Xex7luWicVi7+4AYrOJqlWndsbD/WvThswYfsm60purHBDkJFm9BAzWmUzESa4kcHhhAtTyGZ+zs1pSlsd/GbwFAYljsl37qJjnQlMzyuIsQif7KikW/CjIfiBjYtGXqZRl/8D944OjIPP3r831hk8Ji3FWELnViR1ul+wfPCxZQ=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>7gohdogqjKe707RMoZRIecYlqH7OMASoZ772kl8KapmQG3vQsf6kf9QBpmpXd9WJzvclWkwQVFinhbg1KemLU0Ea06gF88ddJla6iRa3DY5aUcHsrTQUMEVBo9hQIP33ilGuyT0/WgrSyN23lRjOrCnGCZ6T2gMkk7WT9ENmb/3xUXarWfeeqLMY/JeEw2GlTq0ZnRjMTRcs3dt28AtjN2Jx1AWZ37wvG3bmfdkvIjTsVCSZ/Mqkl3w209zFZyy9MawAQ8ARd8uJtv077d+nndZ3UGAALonb1Q7i4g+U223L1LkdlNMWT4jVLPh8QyLFTX4cmZCD6+MnLKvsWQ0igQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-fd99cfcf-411a-4137-b6ed-1cbb5a25d21a"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-4042e3c0-c4ac-43de-b947-d4f20ff5c521" Target="#Signature-8bc9d7b9-8f5e-4b07-a81b-5b67a125b11c"><xades:SignedProperties Id="SignedProperties-Signature-8bc9d7b9-8f5e-4b07-a81b-5b67a125b11c"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-14T14:58:27-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>yr2W0f/2wtyzdnjZfrfEQsFlyDXq/lb7x8tgtxfloBo=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>89168704</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate><xades:SignaturePolicyIdentifier><xades:SignaturePolicyId><xades:SigPolicyId><xades:Identifier>https://info.saludsa.com</xades:Identifier><xades:Description /></xades:SigPolicyId><xades:SigPolicyHash><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue></xades:SigPolicyHash></xades:SignaturePolicyId></xades:SignaturePolicyIdentifier><xades:SignerRole><xades:ClaimedRoles><xades:ClaimedRole>emisor</xades:ClaimedRole></xades:ClaimedRoles></xades:SignerRole></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-be6001d4-42dd-43d2-83cb-73441fa29e89"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1804202601120624273500120050110000363561234567814</numeroAutorizacion>
+<fechaAutorizacion>2026-04-21T09:02:48-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>MORALES SORNOZA JOSE MANUEL</razonSocial>
+<nombreComercial>EL GARAJE</nombreComercial>
+<ruc>1206242735001</ruc>
+<claveAcceso>1804202601120624273500120050110000363561234567814</claveAcceso>
+<codDoc>01</codDoc>
+<estab>005</estab>
+<ptoEmi>011</ptoEmi>
+<secuencial>000036356</secuencial>
+<dirMatriz>CDLA EL CHOFER WALTER ANDRADE SOLAR 4 Y NOVENA DECIMA</dirMatriz>
+<contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>18/04/2026</fechaEmision>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>EDISON SUAREZ</razonSocialComprador>
+<identificacionComprador>1311241440001</identificacionComprador>
+<direccionComprador>QUJEVEDO</direccionComprador>
+<totalSinImpuestos>6.09</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>6.09</baseImponible>
+<valor>0.91</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>7.00</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>7.00</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>106</codigoPrincipal>
+<descripcion>LAVADA EXPRESS DOBLE CABINA </descripcion>
+<cantidad>1.000000</cantidad>
+<precioUnitario>6.0870</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>6.09</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15</tarifa>
+<baseImponible>6.09</baseImponible>
+<valor>0.91</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion"> QUJEVEDO</campoAdicional>
+<campoAdicional nombre="Telefono"> 997295169</campoAdicional>
+<campoAdicional nombre="Lugar de Emisión"> CDLA EL CHOFER WALTER ANDRADE SOLAR 4 Y NOVENA DEC</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature662583">
+<ds:SignedInfo Id="Signature-SignedInfo667725">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID290276" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature662583-SignedProperties335613">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>A/WWfd8PVTNfXil03z1W5w0XuYw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1318008">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>8deOwsTGgVYuKXhecXWWx7NdK3w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-623651" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>g4ATenZK1pQ3q9Xorr7r6HHELOs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue612878">
+f6CXTYAFR3d9sTx8P+Pvrx6sm78hjl/uCd0B0n6KusK6Nr44HTn5oCFdYIFiEeazAOw1gRTGGjpv
+AibPix7XGzvVHfWdLoK6aJVUtakUyXnZgRe4LL4KmxmWz75pd3LOW6Ec0ZudS+RYiOdJ3QMXULD4
+axi8+Q+kbTDJ8qLMjMdAPO1MGyYUGtY8inSJgzKRL6zKZk3HCOjhJY+wu4OMW73w9tB5mPrjPbPH
+0wel4vf/x7O1UIIc/qRNVeh3UH2wJsELq0KNdP+1V3qwZAun4nogIxijOmS9uXxU8NFT/LrmE7bj
+jJ9GYBsJlDzGHHJide21kTytzbY7ddVfQpxuUQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1318008">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKjTCCCHWgAwIBAgIIL3WncHmqItYwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwNDE1MTQwNDI2WhcNMjgwNDE0MTQwNDI2WjCB
+pjEkMCIGA1UEAwwbSk9TRSBNQU5VRUwgTU9SQUxFUyBTT1JOT1pBMSAwHgYDVQQFExcxMjA2MjQy
+NzM1LTE1MDQyNjA5MTQxNjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDCrdh9AE5lM8nNjUxRLBOPBI/j25ZGAIs9jBb4
+n5EUFa+8FCjPIKmGRvFEIdbCacLQE0jIEWySCsp6aN9zzdJ6tnYuzP9tc27ulI7EVJS1Bu60bOCI
+DyUstenPW4dsREiwC1DbP9A7Y49Bm67XcBbD7FXShqCxbUTfiA0EzCojtpdhRf8V1Oh4AGtk+38P
+ag/fA7onh1m2JE/ZoSAEljk2ua0SYWwIyq9fDYNgE0zjneq9NvE6iI38u/gwX4fp4Hx3JjBzTC+z
+NAUSXW1G8/iushzxRj3Edu0NwF9XHVmYH7hXJrLhMJUkLJC8hG01ZZfiNwCzHxBdfXYZgw6uWHOz
+AgMBAAGjggXIMIIFxDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAlBgNVHREEHjAcgRpqb3NlLW1v
+cmFsZXMtc0Bob3RtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYB
+BQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABO
+AGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cu
+c2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVf
+Q2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRm
+MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHeoDqgOIY2
+aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2NybGZpbGUuY3JsooGf
+pIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VS
+SVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRw
+Oi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmwwgeCggd2g
+gdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9w
+dWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4E
+FgQUjGiQI2NE+0zyal/K/sqFWdIVzBgwKwYDVR0QBCQwIoAPMjAyNjA0MTUxNDA0MjZagQ8yMDI4
+MDQxNDE0MDQyNlowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMTIwNjI0MjczNTAYBgor
+BgEEAYKmcgMJBAoMCEdVQVlBQ0FOMBEGCisGAQQBgqZyAyIEAwwBLjAZBgorBgEEAYKmcgMHBAsM
+CUMgU09MQVIgMTAbBgorBgEEAYKmcgMCBA0MC0pPU0UgTUFOVUVMMB8GCisGAQQBgqZyAyAEEQwP
+MDE3MDAxMDAwMDIwNjAwMBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAX
+BgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdNT1JBTEVTMBkGCisGAQQB
+gqZyAx4ECwwJSU5HRU5JRVJPMB0GCisGAQQBgqZyAwsEDwwNMTIwNjI0MjczNTAwMTARBgorBgEE
+AYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdTT1JOT1pBMBoGCisGAQQBgqZyAwgEDAwKMDk4
+NTI2NzIxNzANBgkqhkiG9w0BAQsFAAOCAgEAqNbTLRXaqUfblvXycdxec0rHcCiQ3OSOvsNojLUO
+VuukEBk0EeKmLWttmDIrEz7qM9qFYERy5podNMb3d4fiRJk9IZz+Q1FE31S18u9u9D6T1d6SZpIF
+VmBpXF54fo1YTcAYAxQ6/Onz3h7fR4l7IH/VC5bGIukqTbzlIZl++9x20NSj6i9blf/4NI5m/rEk
+MBuxm4U/BF0WuYBLr3n9YvYl3iQGydD8vAFlE/TjFVx2dnq7ju+6XP96sRsFYuAD/PxsWF0WoQ1Z
+y+mGMQ0sILOHdSfoGoeRLr3IbELaSeGSeDeld/n2y/E3rZSgOp2ZXQ44IOobN7Sx9Aryqhp58CJd
+dyeP/PMg2F8FlOWUHt8U804WghQiTuk5877Y77hkWsCgz34YTm1tfuW1QS7lWk2BEd8KbosNRQ+6
+1sDiraD7W5lv7kg3Cph1rPhRfb6njtqelwRljNhnwKETLSBq/9Kf86TqpTrIJzR7piudiIjIKJep
+hIa3Y3BZYgTAg3pr0MnfzGm1yqKC9cL1C12HiRD4vuu4IN9TsrVt44eTUzzGGaysl5D33Mcuubwk
++EBwaChEiqckkB+HjXLWT1ZpOmQpSZlBPL77tmq+eCVGROu4ne2ZuFtrnnoeB/C7djahGg2gqSMt
+m+1x25QZ61ZqjX0s8rayC7lvj7hUtW2/c9k=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wq3YfQBOZTPJzY1MUSwTjwSP49uWRgCLPYwW+J+RFBWvvBQozyCphkbxRCHWwmnC0BNIyBFskgrK
+emjfc83SerZ2Lsz/bXNu7pSOxFSUtQbutGzgiA8lLLXpz1uHbERIsAtQ2z/QO2OPQZuu13AWw+xV
+0oagsW1E34gNBMwqI7aXYUX/FdToeABrZPt/D2oP3wO6J4dZtiRP2aEgBJY5NrmtEmFsCMqvXw2D
+YBNM453qvTbxOoiN/Lv4MF+H6eB8dyYwc0wvszQFEl1tRvP4rrIc8UY9xHbtDcBfVx1ZmB+4Vyay
+4TCVJCyQvIRtNWWX4jcAsx8QXX12GYMOrlhzsw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature662583-Object262610"><etsi:QualifyingProperties Target="#Signature662583"><etsi:SignedProperties Id="Signature662583-SignedProperties335613"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-21T09:02:49-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>V54cpcORlsujxnoX8xTw56V4wks=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3419823593577128662</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-623651"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

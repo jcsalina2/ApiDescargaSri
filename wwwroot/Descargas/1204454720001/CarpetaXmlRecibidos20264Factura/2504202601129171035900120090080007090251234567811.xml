@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2504202601129171035900120090080007090251234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-25T13:58:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ORIENTAL INDUSTRIA ALIMENTICIA O.I.A. S.A.</razonSocial>
+    <nombreComercial>ORIENTAL INDUSTRIA ALIMENTICIA O.I.A. S.A.</nombreComercial>
+    <ruc>1291710359001</ruc>
+    <claveAcceso>2504202601129171035900120090080007090251234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>009</estab>
+    <ptoEmi>008</ptoEmi>
+    <secuencial>000709025</secuencial>
+    <dirMatriz>LOS RIOS / QUEVEDO / VÍA A EL EMPALME KM 3 VIA PRINCIPAL S/N Y AV REVOLUCIÓN CIUDADANA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>25/04/2026</fechaEmision>
+    <dirEstablecimiento>LOS RIOS / QUEVEDO / QUEVEDO / VIA PRINCIPAL S/N Y AV REVOLUCION CIUDADANA</dirEstablecimiento>
+    <contribuyenteEspecial>0588</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>CARLOS AGUAYO ALVARADO</razonSocialComprador>
+    <identificacionComprador>1204454720001</identificacionComprador>
+    <totalSinImpuestos>51.78</totalSinImpuestos>
+    <totalDescuento>12.95</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>51.78</baseImponible>
+        <valor>7.77</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>5</codigo>
+        <codigoPorcentaje>5001</codigoPorcentaje>
+        <baseImponible>150.00</baseImponible>
+        <valor>3.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>62.55</importeTotal>
+    <moneda>DOLARES</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>62.55</total>
+        <plazo>1</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>906010037</codigoPrincipal>
+      <codigoAuxiliar>7861007915468</codigoAuxiliar>
+      <descripcion>AGUA MIN.NAT SG MANA 1 LT</descripcion>
+      <cantidad>8.00</cantidad>
+      <precioUnitario>4.81560</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>38.52</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidad Medida" valor="PCK"/>
+        <detAdicional nombre="Unidades Caja" valor="12"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>38.52</baseImponible>
+          <valor>5.78</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>5</codigo>
+          <codigoPorcentaje>5001</codigoPorcentaje>
+          <tarifa>0.02</tarifa>
+          <baseImponible>96.00</baseImponible>
+          <valor>1.92</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>906010037</codigoPrincipal>
+      <codigoAuxiliar>7861007915468</codigoAuxiliar>
+      <descripcion>AGUA MIN.NAT SG MANA 1 LT</descripcion>
+      <cantidad>24.00</cantidad>
+      <precioUnitario>0.40130</precioUnitario>
+      <descuento>9.63</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidad Medida" valor="UD"/>
+        <detAdicional nombre="Unidades Caja" valor="1"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>5</codigo>
+          <codigoPorcentaje>5001</codigoPorcentaje>
+          <tarifa>0.02</tarifa>
+          <baseImponible>24.00</baseImponible>
+          <valor>0.48</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>906019002</codigoPrincipal>
+      <codigoAuxiliar>7861007915833</codigoAuxiliar>
+      <descripcion>RUNADE APPLE ICE 500ML</descripcion>
+      <cantidad>12.00</cantidad>
+      <precioUnitario>0.36850</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.42</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidad Medida" valor="UD"/>
+        <detAdicional nombre="Unidades Caja" valor="1"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.42</baseImponible>
+          <valor>0.66</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>5</codigo>
+          <codigoPorcentaje>5001</codigoPorcentaje>
+          <tarifa>0.02</tarifa>
+          <baseImponible>12.00</baseImponible>
+          <valor>0.24</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>906019002</codigoPrincipal>
+      <codigoAuxiliar>7861007915833</codigoAuxiliar>
+      <descripcion>RUNADE APPLE ICE 500ML</descripcion>
+      <cantidad>3.00</cantidad>
+      <precioUnitario>0.36850</precioUnitario>
+      <descuento>1.11</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidad Medida" valor="UD"/>
+        <detAdicional nombre="Unidades Caja" valor="1"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>5</codigo>
+          <codigoPorcentaje>5001</codigoPorcentaje>
+          <tarifa>0.02</tarifa>
+          <baseImponible>3.00</baseImponible>
+          <valor>0.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>906019004</codigoPrincipal>
+      <codigoAuxiliar>7861007915802</codigoAuxiliar>
+      <descripcion>RUNADE TROPICAL FRUITS 1 LT</descripcion>
+      <cantidad>12.00</cantidad>
+      <precioUnitario>0.73690</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.84</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidad Medida" valor="UD"/>
+        <detAdicional nombre="Unidades Caja" valor="1"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>8.84</baseImponible>
+          <valor>1.33</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>5</codigo>
+          <codigoPorcentaje>5001</codigoPorcentaje>
+          <tarifa>0.02</tarifa>
+          <baseImponible>12.00</baseImponible>
+          <valor>0.24</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>906019004</codigoPrincipal>
+      <codigoAuxiliar>7861007915802</codigoAuxiliar>
+      <descripcion>RUNADE TROPICAL FRUITS 1 LT</descripcion>
+      <cantidad>3.00</cantidad>
+      <precioUnitario>0.73690</precioUnitario>
+      <descuento>2.21</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidad Medida" valor="UD"/>
+        <detAdicional nombre="Unidades Caja" valor="1"/>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>5</codigo>
+          <codigoPorcentaje>5001</codigoPorcentaje>
+          <tarifa>0.02</tarifa>
+          <baseImponible>3.00</baseImponible>
+          <valor>0.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Cliente">000000000078914</campoAdicional>
+    <campoAdicional nombre="Direccion">DIAGONAL A LA GASOLINERA CHIQUITA</campoAdicional>
+    <campoAdicional nombre="Email">aguayoaca@gmail.com</campoAdicional>
+    <campoAdicional nombre="Invoice">009008000709025</campoAdicional>
+    <campoAdicional nombre="Orden">0900206949</campoAdicional>
+    <campoAdicional nombre="Telefono1">0959582842</campoAdicional>
+    <campoAdicional nombre="Vendedor">090032 JACOME GOYA MARLON EDISON</campoAdicional>
+    <campoAdicional nombre="codigoAlmacen">10</campoAdicional>
+    <campoAdicional nombre="ordenCompra">1</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature824711" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo895165">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID629760" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature824711-SignedProperties481023">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>KPm3A3aVXfBu2y1zbJ/4Qf5SWhs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1849256">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>z926mbIMWxBlYctniAQd10WBeWo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-277538" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>HenRGuEEsK02To6FK0eloJ9l+q0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue730608">
+Pj1OFY7Iakmc5UWpGjB5nZV8YFKfhzi4nmEH22PNODgRTuw8FpaLHm6wHYiVnTUOj1EPUyjtpmgS
+WQIerhOS5lT/dCNeNOB9yRGZvPzPM3ez93Zzgsr0MMeoozpWidsTDIFCStssXreGBudrhlJb7CQv
+gBzZd1pr3n02u5dhrEMMWnBvwlCvA73dIH+LLPGl4HA7hGqbO4YOzdTSjKHrWGU3wS+hiVAIG5rJ
+vZuAlFECitfOOtWUY8lCqcM5g0V2OSy9M6waelLQQDbfrSuTV5+qD0e6/OxJfI8FwfycHyDi1yti
+Ab7jtKiaHQdDw9hJbQFxp0X/D2fJDhDrT23urQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1849256">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK7TCCCNWgAwIBAgIET7FepDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA2MTExNDIzNDFaFw0yODA2MTAxNDIzNDFaMIGqMSgw
+JgYDVQQDDB9NQU5VRUwgQU5UT05JTyBaQU1PUkEgTU9ORFJBR09OMSAwHgYDVQQFExcxMjA1MTMy
+ODIwLTExMDYyNTA5MzMzMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC6VcPP1KK+ByhUW7yzrlsjbkiiplOvbXBzlQFP
+BlQ6W7kLc4B5pT1GX3Nil+CHf370HTNU3ySntGWe6nKSdUfpETpDQC+ovETx1A2eHks29tO7yX4k
+MEX2s2cA2pouU0yoGTFmtxw9LTtYSJzMVn4cYPZrbqHTUK6ljq6YZWPqwNw4qdfClflnh4SNX4B9
+NrwWbCs8uA/zs3etP/hCc7bk587F7tVXzAXNp8huWDabBC/W3aVbJysJTjLZ7BoArbOHrBkVcfu1
+kXwhQTuDB56V80bA3L5voTCcSD8XyT0MlOb3hiXpu+B9BnrfuOKPzLDAXwKc/yi6PuQbuWQPqOSH
+AgMBAAGjggYoMIIGJDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAkBgNVHREEHTAbgRl6dmFzcXVl
+ekBncnVwb3JpZW50YWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsG
+AQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4A
+dABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0
+dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0
+aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50
+YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIIC
+BjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEv
+Y3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxm
+aWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDMB0GA1UdDgQWBBQWiSL53ybc87RsTaQ/frMIfPUDCTArBgNVHRAEJDAigA8yMDI1MDYx
+MTE0MjM0MVqBDzIwMjgwNjEwMTQyMzQxWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9H
+RVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxMjA1MTMyODIwMBcGCisGAQQBgqZyAwkE
+CQwHUVVFVkVETzARBgorBgEEAYKmcgMiBAMMAS4wOwYKKwYBBAGCpnIDBwQtDCtWSUEgUFJJTkNJ
+UEFMIFMgTiBZIEFWIFJFVk9MVUNJT04gQ0lVREFEQU5BMB4GCisGAQQBgqZyAwIEEAwOTUFOVUVM
+IEFOVE9OSU8wHwYKKwYBBAGCpnIDIAQRDA8wMTcwMDEwMDAwMDkyMDUwEwYKKwYBBAGCpnIDIQQF
+DANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGWkFNT1JBMDgG
+CisGAQQBgqZyAwoEKgwoT1JJRU5UQUwgSU5EVVNUUklBIEFMSU1FTlRJQ0lBIE8gSSBBIFMgQTAd
+BgorBgEEAYKmcgMLBA8MDTEyOTE3MTAzNTkwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBkGCisGAQQB
+gqZyAwQECwwJTU9ORFJBR09OMBoGCisGAQQBgqZyAwgEDAwKMDk5OTcwNTY1NTANBgkqhkiG9w0B
+AQsFAAOCAgEAV2V/LMNQCHaiGX2lTQsh8K/WtB5cWRoHmNrCOvcHrO6Xe/PwyA8qIVig0t+WxVfT
+VMNMYuECNYWANgRUleJLLmBELJ9lNVr01miCf+JqSmeUQQcmiJkQ1BupIzbYCmFStBJERZ2X/Mhs
+C7Q4BmjYqgyTspd9B9/dZ1wg4Xoli4aVP0NbG9Fd4JsJpnAuMzLwdh6uBUKejQR1loiSP/UeCEXy
+1TJsZlN+vzg/D9C9W+6F9lywRykW6XpeijOgJV7NyrL3Ioa9FE0DQAGjm82Q6GeiX/44YJSJpxKv
+wnPKe19z4ybQGQlqEpqX6gEWngqC7gGcTCJmM2bg+4RPpA8dDTD4olVQOAKzi9SUsWtx6LJmomIQ
+1c0ozQNJL3n1yJlctMQF0Ob9sBphAgGD1YqjrecFbm9tNrFN+eB921u4qNnO7qh0ZmzeI2DS4U0e
+E3cbjILG3JZ1DLHlH4C0EmXBtjxV910I/xuqvmfBfbp+uDfObYPnwRPsJq8emt7V1wRMWvf2LD+s
+3rKA+ho2e7CAly97pvcQ9wxXgNUub1dHxsyf+FaiPK0xMKBCrYIado5yHb7NbsDGqb+wRss9WoLw
+0XbM/ZxtYOe8lLOy9US3Vxt/ixoYK/nGBzROWWJ97sRb+rRkWLHRliak/3A8mbwEty8o37CskSwx
+UbeZD0WUSpA=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ulXDz9SivgcoVFu8s65bI25IoqZTr21wc5UBTwZUOlu5C3OAeaU9Rl9zYpfgh39+9B0zVN8kp7Rl
+nupyknVH6RE6Q0AvqLxE8dQNnh5LNvbTu8l+JDBF9rNnANqaLlNMqBkxZrccPS07WEiczFZ+HGD2
+a26h01CupY6umGVj6sDcOKnXwpX5Z4eEjV+AfTa8FmwrPLgP87N3rT/4QnO25OfOxe7VV8wFzafI
+blg2mwQv1t2lWycrCU4y2ewaAK2zh6wZFXH7tZF8IUE7gweelfNGwNy+b6EwnEg/F8k9DJTm94Yl
+6bvgfQZ637jij8ywwF8CnP8ouj7kG7lkD6jkhw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature824711-Object894844"><etsi:QualifyingProperties Target="#Signature824711"><etsi:SignedProperties Id="Signature824711-SignedProperties481023"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-25T13:58:52-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>aDqiI7x4aH6/lKxU6Dd9YkiDowc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1337024164</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-277538"><etsi:Description>Documento de prueba</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

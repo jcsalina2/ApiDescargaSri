@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202601179141255900120070010000007120001161111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-14T12:18:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MEDILABOR S.A.</razonSocial>
+        <nombreComercial>MEDILABOR</nombreComercial>
+        <ruc>1791412559001</ruc>
+        <claveAcceso>1404202601179141255900120070010000007120001161111</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>007</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000000712</secuencial>
+        <dirMatriz>PARAISO OE 5-468 Y EL EDEN</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>14/04/2026</fechaEmision>
+        <dirEstablecimiento>LA PUNTILLA (SATELITE) / VIA AL COUNTRY CLUB NA Y NA</dirEstablecimiento>
+        <contribuyenteEspecial>047</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>OLVERA MORA, MIGUEL AGAPITO</razonSocialComprador>
+        <identificacionComprador>1201782156001</identificacionComprador>
+        <direccionComprador>BABAHOYO</direccionComprador>
+        <totalSinImpuestos>32.02</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <descuentoAdicional>0</descuentoAdicional>
+                <baseImponible>32.02</baseImponible>
+                <valor>0</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>32.02</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>32.02</total>
+                <plazo>0</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>BIO040</codigoPrincipal>
+            <codigoAuxiliar>DVALERA</codigoAuxiliar>
+            <descripcion>CREATININA</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.1400</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>3.1400</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>3.1400</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>BIO051</codigoPrincipal>
+            <codigoAuxiliar>DVALERA</codigoAuxiliar>
+            <descripcion>GLUCOSA</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.0000</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>3.0000</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>3.0000</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>BIO139</codigoPrincipal>
+            <codigoAuxiliar>DVALERA</codigoAuxiliar>
+            <descripcion>UREA/BUN</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.1400</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>3.1400</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>3.1400</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>COA004</codigoPrincipal>
+            <codigoAuxiliar>DVALERA</codigoAuxiliar>
+            <descripcion>TIEMPO DE PROTROMBINA (TP)</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>4.9400</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>4.9400</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>4.9400</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>COA009</codigoPrincipal>
+            <codigoAuxiliar>DVALERA</codigoAuxiliar>
+            <descripcion>TIEMPO DE TROMBOPLASTINA PARCIAL (TTP)</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.8000</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>3.8000</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>3.8000</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>EMR001</codigoPrincipal>
+            <codigoAuxiliar>DVALERA</codigoAuxiliar>
+            <descripcion>HEMOGRAMA COMPLETO (E)</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>7.5000</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>7.5000</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>7.5000</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>HEM044</codigoPrincipal>
+            <codigoAuxiliar>DVALERA</codigoAuxiliar>
+            <descripcion>TIPIFICACIÓN SANGUÍNEA Y FACTOR RH</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>6.5000</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>6.5000</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>6.5000</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">olveranaomy22@gmail.com</campoAdicional>
+        <campoAdicional nombre="COND. PAGO">CONTADO</campoAdicional>
+        <campoAdicional nombre="DIRECCION">BABAHOYO</campoAdicional>
+        <campoAdicional nombre="ZONA">101</campoAdicional>
+        <campoAdicional nombre="PAGO POR TRANSFERENCIA">C. CORRIENTE PICHINCHA: 3036687704 / PACIFICO: 4358497 / INTERNACIONAL: 0700615834 / GUAYAQUIL: 21227501</campoAdicional>
+        <campoAdicional nombre="RETENCION">SEGUN CONTRIBUYENTE REGIMEN GENERAL</campoAdicional>
+        <campoAdicional nombre="NOTIFICAR A">irene.ramirez@grupodifare.com, mdl.cobranzasgye@grupodifare.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature959455">
+<ds:SignedInfo Id="Signature-SignedInfo21715">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID212977" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature959455-SignedProperties528588">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>H2lW2cJqu6LPGyrsosnsdFSOh8w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1509318">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>KyqXWi5CIGjtcgd3NIP9jOAM+EM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-837769" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>VpQUWcWarR+pRyw2xRZpR/BaGr0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue263022">
+hY5skZa6FRWhJH57ff9fk4H/BhURL1RXUcpbBlvID4D5PXt440huZdGFPdKop5Q5O5cdZbbV6Wjt
+KUlAAV0LlRPWucMogReyvw98RxXfJYb7e2sGMwqg7p5i7iYzJrBgyfzMYQz7veZ4AQig7/BTeGsK
+e85Tbp8WY72QrCJqsaGsEdOmEA+tNgVvlXY2MvNPcouXkqPsZEbv4cXAaxA46wZafSWyvp01WWNi
+fMCxAmrEuLViMKscw6/obhJxjSVUAbBM02vzTK1Htaw0qn9/5qE3Dqf3AIbCwGQ7przNuF6UKHd6
+IZQR2XkUCv+GXCyoCvsQZhLlQgHqzq/ZhBS7Mw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1509318">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKwDCCCKigAwIBAgIIfzJOgKY3qKcwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMTEwMTk0MDA0WhcNMjcxMTEwMTk0MDA0WjCB
+ozEhMB8GA1UEAwwYSk9SR0UgT1NXQUxETyBEVVJBTiBWQUNBMSAwHgYDVQQFExcxNzA0NDMxOTM5
+LTEwMTEyNTE0NDk1NDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCTh40vYEKC/Zb1IJocZi05T13d2XhiZ1ZTufrNhnQA
+/SDTaz+SCERSELaIjGgh7nIcdktpvMpUzdKywzGaUbhMJGTHeIFoURi2ZrSvZgxRhylW7uXSvVek
+py+PrSdnmff+5hCKFcwhBPgCYuQVN9PGRShd/m5Mdvs3RzOYkY7g7vAE68YC3cYt7pbGdTDkO9Wl
+TOot6ozXlqxfZKwB35dABnZAEyiohKqTxZcoycpSH08RxK1dxZEBdRDwBQFn9fC9p0+CWauUrWan
+D4uDULFK4Kj7qjjPt6ZQ4uB9VlRCDJ8UwNbJttizenbtzfa9KpY9FyfgrdvsGbkETYU+M7dPAgMB
+AAGjggX+MIIF+jAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAsBgNVHREEJTAjgSF2aXZpYW5hLm1h
+eWFucXVlckBncnVwb2RpZmFyZS5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQw
+UgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBz
+AGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIB
+FoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9O
+b3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXBy
+ZXNlbnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNV
+HR8EggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2Ey
+Y3JsMS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwy
+L2NybGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1
+ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9V
+PUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEg
+Uy5BLiAyLEM9RUMwHQYDVR0OBBYEFNjacz4gXHRAmQwT12D7//e3M6M0MCsGA1UdEAQkMCKADzIw
+MjUxMTEwMTk0MDA0WoEPMjAyNzExMTAxOTQwMDRaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMF
+BBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjE3MDQ0MzE5MzkwGAYKKwYBBAGC
+pnIDCQQKDAhQT01BU1FVSTARBgorBgEEAYKmcgMiBAMMAS4wKgYKKwYBBAGCpnIDBwQcDBpQQVJB
+SVNPIE9FIDUgNDY4IFkgRUwgRURFTjAdBgorBgEEAYKmcgMCBA8MDUpPUkdFIE9TV0FMRE8wHwYK
+KwYBBAGCpnIDIAQRDA8wMDIwMDEwMDEwOTg0NTAwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYB
+BAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisGAQQBgqZyAwMEBwwFRFVSQU4wHQYKKwYBBAGCpnIDCgQP
+DA1NRURJTEFCT1IgUyBBMB0GCisGAQQBgqZyAwsEDwwNMTc5MTQxMjU1OTAwMTARBgorBgEEAYKm
+cgMdBAMMAS4wFAYKKwYBBAGCpnIDBAQGDARWQUNBMBoGCisGAQQBgqZyAwgEDAwKMDk4ODA5Mzcw
+NDANBgkqhkiG9w0BAQsFAAOCAgEAo99WR+4Pxafvb3HrJQ2VaIRdSAyDYq6dTlsmiW6iW0w8/JWC
+cqj/VE5x1megN42fHyNMsGYQ+DgUDTwtjbKpRfwsjYvfD+vLjWMSjuErOpiYPYoXEaTvmv6nHojB
+icVhaW7Eftb91doCWkm5pQ3fpJA0oCfh4s/1StrSgLbNOHzS/c66/hdxgZlZ3D6Z9eTuhHy/XSEF
+CmgiMrscFZBpL9847LfyNVitZ4cpG/y3KMwoVzzzvBVtKz4ZpN38xgfV3tUTNUwNniqUyxlRYn1Q
+16qSc/WmTihjRWWdODOyrQlahkQgnOlA83H+Gz/a9L8i/1SMPi1t5fh5hir49JlPlvDMus9xgI25
+xuRf4YFGEAgL7+aAix7BnOJBnLF56a8T9Sdqw/ee4wZe78yr/V2FW8SnsBUl8EfTpT+252z6T3/4
+bHWAcPdwB9ghA7uEryyxyXLGdl+d6rHslmJRbV2zX+kxNKbKTEKQ4LDeZ0HinA22gdBxlkxfs5Hz
+zuMShBHfJoIIT1jhGY4W60ZRx7zFsRcr4tYFU5GK15mKdsGhA385hmOvNqEVrXHdGPdaW+RIfNAh
+e1Ozb1nQzqYesBjpwqDQfMnM2+5lpQDMng+dEUVl8tShU58aN8YRj68JaPwPn5f+QCMsbmolyn78
+WZfjKiMFkST1LXgYyXEyNopqbYo=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+k4eNL2BCgv2W9SCaHGYtOU9d3dl4YmdWU7n6zYZ0AP0g02s/kghEUhC2iIxoIe5yHHZLabzKVM3S
+ssMxmlG4TCRkx3iBaFEYtma0r2YMUYcpVu7l0r1XpKcvj60nZ5n3/uYQihXMIQT4AmLkFTfTxkUo
+Xf5uTHb7N0czmJGO4O7wBOvGAt3GLe6WxnUw5DvVpUzqLeqM15asX2SsAd+XQAZ2QBMoqISqk8WX
+KMnKUh9PEcStXcWRAXUQ8AUBZ/XwvadPglmrlK1mpw+Lg1CxSuCo+6o4z7emUOLgfVZUQgyfFMDW
+ybbYs3p27c32vSqWPRcn4K3b7Bm5BE2FPjO3Tw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature959455-Object921476"><etsi:QualifyingProperties Target="#Signature959455"><etsi:SignedProperties Id="Signature959455-SignedProperties528588"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-14T12:18:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>kQckzxcWtwDl6rm2gDuFdr+ruwg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>9165474506103826599</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-837769"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

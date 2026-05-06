@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiDescargaSriV9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8192cdb2f589501f3e9ef0832334eea1edd4c9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiDescargaSriV9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiDescargaSriV9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

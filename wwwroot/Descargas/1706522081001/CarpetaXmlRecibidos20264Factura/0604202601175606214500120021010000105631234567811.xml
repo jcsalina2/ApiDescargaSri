@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601175606214500120021010000105631234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T16:02:25-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>LU CHUNXIAN</razonSocial><ruc>1756062145001</ruc><claveAcceso>0604202601175606214500120021010000105631234567811</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>101</ptoEmi><secuencial>000010563</secuencial><dirMatriz>PEDRO DE ALVARADO N60-178 Y FLAVIO ALFARO</dirMatriz></infoTributaria><infoFactura><fechaEmision>06/04/2026</fechaEmision><dirEstablecimiento>PEDRO DE ALVARADO N60-178 Y FLAVIO ALFARO</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>ROSA JACOME  </razonSocialComprador><identificacionComprador>1706522081</identificacionComprador><direccionComprador>Dir: COTOCOLLAO</direccionComprador><totalSinImpuestos>6.17</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>6.17</baseImponible><valor>0.93</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>7.10</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>7.10</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>81</codigoPrincipal><codigoAuxiliar>202</codigoAuxiliar><descripcion>Mixto chaufarin</descripcion><cantidad>1.00</cantidad><precioUnitario>6.173913</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>6.17</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>6.17</baseImponible><valor>0.93</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Sistema Contable">Neola v.1.1</campoAdicional><campoAdicional nombre="Catastro">REGIMEN GENERAL</campoAdicional><campoAdicional nombre="Dirección">COTOCOLLAO</campoAdicional><campoAdicional nombre="Email">rositajacome.60@gmail.com</campoAdicional><campoAdicional nombre="Teléfono">0981547162</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature828171">
+<ds:SignedInfo Id="Signature-SignedInfo1019912">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID228935" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature828171-SignedProperties723567">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yKA2stXDHgYh1o3KYqZacKV/UTI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1567123">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>fuAhlze8eRjkfzt5twk9/9tzYAU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-153662" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>eWo2x5VyEylFs1W0CjX+HJMtf1c=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue530715">
+BdTncRo1yrpF7gn9fR26pW8HNxovyjtrABAKsiGDIuKM/H9Md29JX+kPTJGfsckTs567bgOQwNNS
+qf53iWpAtTRrSMx/ydSKFLwb9shUKQ4p7jgqzTonstYyugHbT3eWThXBLV+aZEDisbodat8c6qAf
+do0n41wdxhciBTIfMEoz5R6Bc7BinPbdSw+9GK98pZF3mY5pZ7mGCNsuxFvsH3u8tKHiNkITmC9O
+Z8UOAzTvkKrHNqTjFI0tm8mmiiHhXCyE0FxEhRsBmgn2FixO3Qjtl7d0ktTE3aRjBnHUlZVblh8M
+Lzf+7czoc4IpxhowR80V1QuGVaUvQMHlGO4r8A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1567123">
+<ds:X509Data>
+<ds:X509Certificate>
+MIII9DCCBtygAwIBAgIIcL07cqwCO9gwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDgyMTIxNDUwMFoXDTI4MDgyMDIxNDUwMFowfDELMAkGA1UEBhMCRUMxCzAJBgNVBAQMAkxV
+MREwDwYDVQQqDAhDSFVOWElBTjEZMBcGA1UEBRMQSURDRUMtMTc1NjA2MjE0NTEUMBIGA1UEAwwL
+Q0hVTlhJQU4gTFUxHDAaBgNVBGEME1RJTkVDLTE3NTYwNjIxNDUwMDEwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDOU0YM1IrIXhr204PlmXjQJv50x3xXR3Ej+bh/rvzdtUnTXSvieHdw
+BkpE2/9E2TbHxRBZJhp1zgxCwXgA9EbH0Li0usrFjBcMHv4GDcZ9NSBJR+3tvpFXcHCxbJ4NVlQf
+aYqwBJFOH0TGEBIdD6/eSYo1+ODa/wG0uvBb1rUbsJlnTJMQ5oRXlTBud086jxeD+dETEmZnpvGc
+ElidG2FoskVdqv7c+jpqFovn6+EM4Pf2URmUwuO7UHWkuOWHDZejqCw699sqwxp+h1t4OIxY8LAG
+FfwpJqWlcj1P2VrNXiI9cmSclIaE0jRRV5nKedv28+WWT7p3Kan4Sc8tYTf1AgMBAAGjggQ7MIIE
+NzAbBgsrBgEEAYLxNmYDAQQMDAoxNzU2MDYyMTQ1MB4GCysGAQQBgvE2ZgMLBA8MDTE3NTYwNjIx
+NDUwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNh
+LmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYG
+CCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYI
+KwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNV
+HQ4EFgQUzalT7uZY2nVqlnodrf56G25b6aQwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dg
+c84HRqnio2jw4RGydJJz/TCBmQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEF
+BQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEF
+BQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElW
+TzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3Br
+aS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20v
+cHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUE
+FjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggFxBgNVHREEggFoMIIBZIEUbWVpY3NhY29udEBnbWFp
+bC5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMTc1NjA2MjE0NaAZBgsrBgEEAYLxNmYDAqAKDAhDSFVO
+WElBTqATBgsrBgEEAYLxNmYDA6AEDAJMVaBMBgsrBgEEAYLxNmYDB6A9DDtQRURSTyBERSBBTFZB
+UkFETyBOTUVSTzogTjYwLTE3OCBJTlRFUlNFQ0NJTjogRkxBVklPIEFMRkFST6AfBgsrBgEEAYLx
+NmYDCKAQDA4wMDU5Mzk4MDczODcyMaAWBgsrBgEEAYLxNmYDCaAHDAVRVUlUT6AeBgsrBgEEAYLx
+NmYDC6APDA0xNzU2MDYyMTQ1MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMy
+oBoMGFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0G
+CSqGSIb3DQEBCwUAA4ICAQBjODlhtd0AyiJYMHw7IgThd/CY3yH1kvfe3u4lvpFHa9sCUbU5ebSs
+ZtPt+ytV3c9Tq/0/IQQKT2mpXAM5vhO/vbo7J/QJDwykXVmlrDPHgaoVseWB4LITEcNniu/ujyMW
+IaXsAeevW3WrCU7Zm2GRQSI5/ATyttti5b5hpzBg86MCEUg9TYdjJSLtuNuEaPgd+SplVEaULGKn
+LbjMxbPoiphjudQOv1pSwK2u7YSqLiXvJq7cSMLfXbo5y3qNiG2jxQlh+5bvKznBAO5zM1cWb0Bs
+HFEaC79tS226V8zTWsUt+146qPIjHLbnIeUMeVbAjTBPcxVmKCrpnt+i4RONUDvrl9dVO6t38k6F
+O/pYELu1H1eB5NSJ77LYElj7mDfU/6WrrpqKRim4y7781jKwZddX6sG07MYDKhNXQ3SyMhtXtlID
+6GvF5aeeMcmmD2nc03BIFXeVK7xkY6dKwkqnbo2XxulDpiImuy+BqUgFLVQWw/fA/UvpI9CqmVIt
+UU6mXXug4ipJ4S6ltcQ1m7xRWM+Ow3BQGUa921IuUASddl6JbCeZSGU/bXklPFD7KVxracXd+7gN
+TQaYOslu4kAwlqgWfgl915pHcyFjzd0nxtfmtJ76vfCOPo2lS+7RwCr5LCcRbxglCmmZusEi/1Es
+TAu9BWDV0Hc6ctAXikpPOQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zlNGDNSKyF4a9tOD5Zl40Cb+dMd8V0dxI/m4f6783bVJ010r4nh3cAZKRNv/RNk2x8UQWSYadc4M
+QsF4APRGx9C4tLrKxYwXDB7+Bg3GfTUgSUft7b6RV3BwsWyeDVZUH2mKsASRTh9ExhASHQ+v3kmK
+Nfjg2v8BtLrwW9a1G7CZZ0yTEOaEV5UwbndPOo8Xg/nRExJmZ6bxnBJYnRthaLJFXar+3Po6ahaL
+5+vhDOD39lEZlMLju1B1pLjlhw2Xo6gsOvfbKsMafodbeDiMWPCwBhX8KSalpXI9T9lazV4iPXJk
+nJSGhNI0UVeZynnb9vPllk+6dymp+EnPLWE39Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature828171-Object803429"><etsi:QualifyingProperties Target="#Signature828171"><etsi:SignedProperties Id="Signature828171-SignedProperties723567"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T15:59:04-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>THYjZEbRl+8MZ+x6IETsj7YSvQo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>8123714666544380888</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-153662"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

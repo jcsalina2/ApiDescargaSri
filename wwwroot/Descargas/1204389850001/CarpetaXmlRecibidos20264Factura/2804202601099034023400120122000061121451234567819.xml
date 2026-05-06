@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2804202601099034023400120122000061121451234567819</numeroAutorizacion>
+<fechaAutorizacion>2026-04-28T14:02:58-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>YANBAL ECUADOR S.A.</razonSocial><nombreComercial>YANBAL</nombreComercial><ruc>0990340234001</ruc><claveAcceso>2804202601099034023400120122000061121451234567819</claveAcceso><codDoc>01</codDoc><estab>012</estab><ptoEmi>200</ptoEmi><secuencial>006112145</secuencial><dirMatriz>Av. de la República E7-61 y Martín Carrión. Ed Titanium Plaza. P9 Quito</dirMatriz></infoTributaria><infoFactura><fechaEmision>28/04/2026</fechaEmision><dirEstablecimiento>PICHINCHA / MEJIA / KM 1 1/2 VIA ALOG S/N Y AV. PANAMERICANA SUR</dirEstablecimiento><contribuyenteEspecial>6925</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>CEDEÑO AGUIRRE MAURICIO BENIGNO</razonSocialComprador><identificacionComprador>1204389850</identificacionComprador><direccionComprador>Av. 7 de octubre y june gusman  N2 LOS RIOS N3 QUEVEDO N4 QUEVEDO-QUEVEDO Diagonal al redondel al lado de fon fay</direccionComprador><totalSinImpuestos>109.57</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>109.57</baseImponible><tarifa>15</tarifa><valor>16.44</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>126.01</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>126.01</total><plazo>0</plazo><unidadTiempo>Dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>22471958</codigoPrincipal><codigoAuxiliar>98341</codigoAuxiliar><descripcion>SABANAS 2.5 PLZ + COBIJA COLEC TERRACOTA</descripcion><cantidad>1.00</cantidad><precioUnitario>46.920000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>46.92</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>46.92</baseImponible><valor>7.04</valor></impuesto><impuesto><codigo>3</codigo><codigoPorcentaje>3610</codigoPorcentaje><tarifa>20</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>22471959</codigoPrincipal><codigoAuxiliar>98341</codigoAuxiliar><descripcion>SET DE 2 ALMOHADAS BELDOM EC</descripcion><cantidad>1.00</cantidad><precioUnitario>19.170000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>19.17</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>19.17</baseImponible><valor>2.87</valor></impuesto><impuesto><codigo>3</codigo><codigoPorcentaje>3610</codigoPorcentaje><tarifa>20</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>22471795</codigoPrincipal><codigoAuxiliar>93556</codigoAuxiliar><descripcion>MALETA CARRY ON MOCCA</descripcion><cantidad>1.00</cantidad><precioUnitario>43.480000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>43.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>43.48</baseImponible><valor>6.52</valor></impuesto><impuesto><codigo>3</codigo><codigoPorcentaje>3610</codigoPorcentaje><tarifa>20</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="CORREO 1">Deyvihazzz@gmail.com</campoAdicional><campoAdicional nombre="GranContrib">GRAN CONTRIBUYENTE CONFORME RESOLUCIÓN NAC-GCFOIOC21-00000888-E</campoAdicional><campoAdicional nombre="OrdenCompra">54904049</campoAdicional><campoAdicional nombre="Grupo">3011293121</campoAdicional><campoAdicional nombre="Campana">2026 C5 S17</campoAdicional><campoAdicional nombre="TotalUnidades">3</campoAdicional><campoAdicional nombre="CodigoConsultor">3015493400</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature470808">
+<ds:SignedInfo Id="Signature-SignedInfo432245">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID375450" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature470808-SignedProperties203559">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>hq5YXj25dLgc7/9Kio/Fu/6XZr8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1551271">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>IqyY25vAnMT7/F83Uk/87MalHWo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-421764" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kBnY85RehsDETMFNnj2YTBoImjY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue37464">
+au4IYbMC44Vql+HUI4yRRv2L0MQ3TdFQ9/f2xAPU1FM+gkTsHEIY0SGJHA8m+O9DdnbSmlqhQkEL
+JiC1xU1CC+BbNfI50ouk+Xd5453brbpwGSX7cB/J4yP5uZyxzqkU+US7lFzRw1iYaeTysd9RCRqg
+ujA03ZpHC42Q5p3cjIB+RYG8qxj+iq9S/jh/0BpycDWQkzuZ+EmsEh5aNgwdk6xn3zX/DoWR7CaH
+eaAkEiRlh5wU/BLEykgIbggdiSAisS1bZQJNwXFLVbB28zaOzg57BtoPyAJ65WMrE9JCSRad0442
+YqS0/qnz4aSR9itDwDIaZJDw52syGNKNUUosqw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1551271">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILOzCCCSOgAwIBAgIIAcH7LwgvhmMwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwNDI0MjE1MjQ5WhcNMjgwNDIzMjE1MjQ5WjCB
+pzElMCMGA1UEAwwcR0VORVNJUyBSVUJZIFJBTUlSRVogSEVSUkVSQTEgMB4GA1UEBRMXMTcxMzEw
+Nzg4NC0yNDA0MjYxNzAyMzgxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqFcDY37Cm6LQikl9fzUKAoH/+6McUSGsITN1
+n5gQ+FahZ+B53WDnW70mglVqnEqnuM6MWfKCsLBuqzQ4X8QU9c1RNLzqF1/Rcrqn+XjH2TCDCyZb
+vEbfcZyToff9N0nSeASCPJmJD2BeOqDZI30crbwlRD0fK5hS3ewJn1CvQ0ub0w//pKoy53bnbzZI
+k4oIxfKwmr2lO/5MmKYUhLx1jnr4zxbhu7fsNOWnHhOvuOcwclwtnEpCBN2Jj3IFxXTU436lqBQD
+BHfOE6ZdQ9X06Zxc+6+FwFaJ71oYfk/w2N0PEFFRWQlVM+IACqkuHzjp5nMlR/WT8mRhH32GQKXD
+mwIDAQABo4IGdTCCBnEwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42u
+Yt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIgYDVR0RBBswGYEXZ19ycmFt
+aXJlemhAaG90bWFpbC5jb20wggESBgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYB
+BQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABk
+AGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBz
+Oi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZh
+cy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBF
+bXByZXNhLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIIC
+AjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxm
+aWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8
+oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUu
+Y3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUMwHQYDVR0OBBYEFKnRXb2t8Ianx0qtRnC6hj9SF8bZMCsGA1UdEAQkMCKADzIwMjYwNDI0MjE1
+MjQ5WoEPMjAyODA0MjMyMTUyNDlaMAsGA1UdDwQEAwIF4DAhBgorBgEEAYKmcgMFBBMMEUNPTlRB
+RE9SQSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTcxMzEwNzg4NDBvBgorBgEEAYKmcgMJBGEM
+X1FVSVRPIERJU1RSSVRPIE1FVFJPUE9MSVRBTk8gQ0FCRUNFUkEgQ0FOVE9OQUwgQ0FQSVRBTCBQ
+Uk9WSU5DSUFMIFkgREUgTEEgUkVQVUJMSUNBIERFTCBFQ1VBRE9SMBEGCisGAQQBgqZyAyIEAwwB
+LjA5BgorBgEEAYKmcgMHBCsMKUFWIERFIExBIFJFUFVCTElDQSBFNyA2MSBZIE1BUlRJTiBDQVJS
+SU9OMBwGCisGAQQBgqZyAwIEDgwMR0VORVNJUyBSVUJZMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAx
+MDAxMjAwOTE3MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAX
+BgorBgEEAYKmcgMDBAkMB1JBTUlSRVowEQYKKwYBBAGCpnIDHgQDDAEuMCIGCisGAQQBgqZyAwoE
+FAwSWUFOQkFMIEVDVUFET1IgUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MDM0MDIzNDAwMTARBgor
+BgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdIRVJSRVJBMBoGCisGAQQBgqZyAwgEDAwK
+MDk4MzQ5MTQyMDANBgkqhkiG9w0BAQsFAAOCAgEAxL0rGPOLL4jAZSrWP5PcASR6uZx+4qyR3tAo
+T0m84DaHAdgYmg9edLTWTFkxyOL4lYLVynE5EFd4NjlDYS7/ilz4Tp/XwJpwNNm30txjAtdVjiQF
+o+U+CzIJJy1uj8EKGKHqM7I8i9Z7YqgOigPo5FXhqPR4B8gWmEiKFu9y/uInxT5U2h4ylavrTAUA
+p7N0+pY6b8o29H6Vw/sMaO5N0O8xGqM6mzndftrhwOJx8ICTAcjJpiXpLV5EQMwZD+gxA5CXe6ID
+yvnNfeG2HS2dg0dbC/Vz53m1PGrcdqvmWd9We7WOVMeMOVnQ/UbtELUDiURiX/PKCg4P9DURcDGq
+NooAhl1WLuek6BmqkJc4NdsZ4LCpORIKk3ZWvW+z1NoMTxCYgoITQknfPzMzL5goucKeqtPVFecU
+ZS7B9wPTnREMyoUF5qILTTcYR5XIwkBxhPR7M3XLPOn+aWestxmdBcf4tTassULIy6XItaGm9F+e
+3sKmQgXRVnnvWASswssJlwLEbwcS+Sxq8zq/zbD3w0LiRezY5+ZAcMmINieDRgRLsMzjoRWw5qZE
+gSimtr4Usq/uLwi6tPgJ0Th4wPkgF2KRCC6gy0tf2zrpgLDkTugpZuIkJMhsV8qvbPo2sYUlzYuV
+flUWB1NWevjpWXd3CbcSgxmw09rU2BNzMdWFn2k=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qFcDY37Cm6LQikl9fzUKAoH/+6McUSGsITN1n5gQ+FahZ+B53WDnW70mglVqnEqnuM6MWfKCsLBu
+qzQ4X8QU9c1RNLzqF1/Rcrqn+XjH2TCDCyZbvEbfcZyToff9N0nSeASCPJmJD2BeOqDZI30crbwl
+RD0fK5hS3ewJn1CvQ0ub0w//pKoy53bnbzZIk4oIxfKwmr2lO/5MmKYUhLx1jnr4zxbhu7fsNOWn
+HhOvuOcwclwtnEpCBN2Jj3IFxXTU436lqBQDBHfOE6ZdQ9X06Zxc+6+FwFaJ71oYfk/w2N0PEFFR
+WQlVM+IACqkuHzjp5nMlR/WT8mRhH32GQKXDmw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature470808-Object797243"><etsi:QualifyingProperties Target="#Signature470808"><etsi:SignedProperties Id="Signature470808-SignedProperties203559"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-28T13:56:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>CDFQDnjrscjeLBhulQn9BS1jdKI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>126658443962451555</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-421764"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

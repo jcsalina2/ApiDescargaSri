@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0504202601099282225200120090040014190340000099917</numeroAutorizacion>
+<fechaAutorizacion>2026-04-05T07:58:47-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>GESURYMACA S.A.</razonSocial><nombreComercial>ESTACION DE SERVICIO LOS PITS</nombreComercial><ruc>0992822252001</ruc><claveAcceso>0504202601099282225200120090040014190340000099917</claveAcceso><codDoc>01</codDoc><estab>009</estab><ptoEmi>004</ptoEmi><secuencial>001419034</secuencial><dirMatriz>ZONA 8/GUAYAS/GUAYAQUIL</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>05/04/2026</fechaEmision><dirEstablecimiento>MANABI / CHONE / CHONE / AV BY PASS</dirEstablecimiento><contribuyenteEspecial>1391</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>ZAMBRANO FIGUEROA JENIFFER NICOLLE</razonSocialComprador><identificacionComprador>1316471463</identificacionComprador><direccionComprador>SIN DIRECCION</direccionComprador><totalSinImpuestos>7.83</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>7.83</baseImponible><valor>1.17</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>9.00</importeTotal><placa>JU741E</placa><pagos><pago><formaPago>19</formaPago><total>9.00</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>0185</codigoPrincipal><codigoAuxiliar>0185</codigoAuxiliar><descripcion>SUPER</descripcion><cantidad>2.728</cantidad><precioUnitario>2.868696</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>7.83</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>7.83</baseImponible><valor>1.17</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Num_Factura">009-004-001419034</campoAdicional><campoAdicional nombre="E_MAIL">lospits.efactura@gmail.com</campoAdicional><campoAdicional nombre="Direccion_Cliente">SIN DIRECCION</campoAdicional><campoAdicional nombre="Telefono_Cliente">0</campoAdicional><campoAdicional nombre="Codigo_Cliente">77765</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature446218">
+<ds:SignedInfo Id="Signature-SignedInfo647907">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID398848" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature446218-SignedProperties953804">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PyiBWlRoj3ZDnjnSxu8fouo95VY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1264397">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0rQQPImaKs6lQ2s5jSTnHZSTwhQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-994518" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DXgG/ZY3/AFqbblBAj5mCzjQ6rs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue372570">
+gNcxC3VtLsOcxdfwH9DnqFYQHZzgOUzEGDYpKvwhn7xGM5e0jIRXimiD3xJ0bcdznIkCpmFokOj1
+vQy6dvnYGvEnZ6Sf1ivypKRCDWeGYLaxgs+iSbkMIfpCxON+8+oKM4gc3atPyPae43n7NY8nu9SF
+18FF4Yo4Xoy7/ZcdVrexEl2WVoRu6yA97G2S+drdsFDJGQAh6zhomojj+Jbnbmj1uF6FadqZJbgc
+G68iaBBHZxPG3zoPwLawAtj0sF8GVz6nzPNPTeCHnJ1Nty3gITWMCggl3UCUTp8VEQJoyAjFgqeS
+FOUKJHu9tAGtwRySX2IEDlNz6Ix5KfKx+crFDg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1264397">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMFDCCCfygAwIBAgIEboCKgTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTA5MjQxNTA3MzRaFw0yNjA5MjQxNTA3MzRaMIGZMSIw
+IAYDVQQDDBlBTElDSUEgQU5BTEkgQlVTVE9TIEFMQVZBMRUwEwYDVQQFEwwyNDA5MjExMDE3MjQx
+MDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UE
+CgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOC
+AQ8AMIIBCgKCAQEA1738/i56Fg0VRpmVPvswPk6J9AGc0QThE1Q3NMy9wtANbUZwmCB3eAXX8aj9
+Sb4DXYpNZuUn04WwUfCxGN2fqt3GLQ9SrA8RYEEYx4r/YUa+sFol+fCz+PM2/4grt92r3+gsvolq
+4jsT0EUO7llgBM0UlehqJ2hA1J10WF1URStSAS9wqR8kE340wZBVhMDJRneUfzY8a7mKlRnhotPF
+dU3ajUdglNgSrijk8TYTPAWN5nET6JEK1bdAg7qNpDmUdbyulg47/sjjUmM7ne8qwZXx6l/tRtiZ
+s+4XOAy6o50hqFz13UA5YrZAhGAZ8sIauQzaIabJx/8HihR5LbDFkQIDAQABo4IHYDCCB1wwDAYD
+VR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRN
+MEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9w
+dWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFw
+c2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jh
+c2UwJQYDVR0RBB4wHIEaZ2VyZW5jaWFAZ2VzdXJ5bWFjYS5jb20uZWMwggEVBgNVHSAEggEMMIIB
+CDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAg
+AGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZy
+AgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1j
+b250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBk
+ZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHl
+oEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1F
+Qz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRh
+bC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9j
+ZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU1L7lo3UlcCEZCk0pqDsE
+b0ZUpuswKwYDVR0QBCQwIoAPMjAyMTA5MjQxNTA3MzRagQ8yMDI2MDkyNDE1MDczNFowCwYDVR0P
+BAQDAgXgMCAGCisGAQQBgqZyAwUEEgwQR0VSRU5URSBHRU5FUkFMIDAaBgorBgEEAYKmcgMBBAwM
+CjA5MTgzNDA3MzgwGQYKKwYBBAGCpnIDCQQLDAlHVUFZQVFVSUwwEQYKKwYBBAGCpnIDIgQDDAEu
+MEUGCisGAQQBgqZyAwcENww1QVYgTkFSQ0lTQSBERSBKRVNVUyBTT0xBUiAwMyBZIEFWIFRFUk1J
+TkFMIFBBU0NVQUxFUwkwHAYKKwYBBAGCpnIDAgQODAxBTElDSUEgQU5BTEkwHwYKKwYBBAGCpnID
+IAQRDA8wMDEwMDIwMDAxNTA3NzYwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJ
+DAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGQlVTVE9TMB8GCisGAQQBgqZyAwoEEQwPR0VTVVJZ
+TUFDQSBTLkEuMB0GCisGAQQBgqZyAwsEDwwNMDk5MjgyMjI1MjAwMTASBgorBgEEAYKmcgMdBAQM
+Ak5vMBUGCisGAQQBgqZyAwQEBwwFQUxBVkEwHAYKKwYBBAGCpnIDCAQODAw1OTM0NDIxMzE4OTAw
+DQYJKoZIhvcNAQELBQADggIBAIkqCC8OhrrPGDoR1ZjEgVV/seBcO3nVrNVpqRZX88fFQEbvtO6y
+I7pzyJFddNtlJv5SwSnMr1LEtx5Q61Fau6HX005KsJrehWXmFWNmdT3BxX0QnZuazK7/9LdUn3jJ
+ggX0ANkjYf222yBxKC6fWj1iPrmnhV9IJ6s+s2JS0Vwdl0WxoinZew9n1+RSPxw9GHtGerq+I0JY
+95nOnibdlkbuHwHH2fSNAA5syXJPwjahfF8uysx3uPuG6pP4vc0E+rCSn2KB5AgwEbOKfUq6SbO2
+KXSeXGQ01NB7It2ahJEMPEvwGt4BzTp++6A5+MoCMmuP6HH/t2mtp3eGD9gsiysfvRDe88wAaEh2
+atnIMyAq6PpCk0l0hTX828+Pnzyb2m/KA+OvGCiNL7/ydUrqhyjVz3hZOQ9JBUfQJPT39kKVwr2p
+oxmIYRfwTI5z0DFvQYWv3uZ5uhPIByyLL7UninxogpndIScKkm/Qarnqh/qGEHdQvBysVjZ1KAVe
+HXM0saxNqb98/goDUinjtf7dsa2ARWBo7bsfz6t3AHacmLWfAYdICKPbptc7lDo6bH28GF9NZIV7
+yqKzG3xbOCvXCzMxKE1fjKdvnu25gpC/mW9u2iQm3vOP8MiPluzov3rtH1HyjeC9Ejqeuom3iMKm
+zWghQ/Xx0+x8kQBLpxbTbOmX
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+1738/i56Fg0VRpmVPvswPk6J9AGc0QThE1Q3NMy9wtANbUZwmCB3eAXX8aj9Sb4DXYpNZuUn04Ww
+UfCxGN2fqt3GLQ9SrA8RYEEYx4r/YUa+sFol+fCz+PM2/4grt92r3+gsvolq4jsT0EUO7llgBM0U
+lehqJ2hA1J10WF1URStSAS9wqR8kE340wZBVhMDJRneUfzY8a7mKlRnhotPFdU3ajUdglNgSrijk
+8TYTPAWN5nET6JEK1bdAg7qNpDmUdbyulg47/sjjUmM7ne8qwZXx6l/tRtiZs+4XOAy6o50hqFz1
+3UA5YrZAhGAZ8sIauQzaIabJx/8HihR5LbDFkQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature446218-Object660353"><etsi:QualifyingProperties Target="#Signature446218"><etsi:SignedProperties Id="Signature446218-SignedProperties953804"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-05T07:58:46-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>/CuIf8yJec3IITrZgP7z7Ty07is=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1853917825</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-994518"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

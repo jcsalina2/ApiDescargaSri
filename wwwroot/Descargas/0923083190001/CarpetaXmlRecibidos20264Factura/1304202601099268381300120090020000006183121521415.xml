@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601099268381300120090020000006183121521415</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T11:25:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version='1.0' encoding='UTF-8'?>
+<factura version="2.1.0" id="comprobante">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>Sociaboss S.A.</razonSocial>
+    <nombreComercial>Sociaboss S.A.</nombreComercial>
+    <ruc>0992683813001</ruc>
+    <claveAcceso>1304202601099268381300120090020000006183121521415</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>009</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000000618</secuencial>
+    <dirMatriz>Av. Carlos Julio Arosemena km 2.5</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/04/2026</fechaEmision>
+    <dirEstablecimiento>Lemaler Village</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MARIA KARINA ARGENZIO GONCALVEZ</razonSocialComprador>
+    <identificacionComprador>0923083190001</identificacionComprador>
+    <direccionComprador>CEIBOS</direccionComprador>
+    <totalSinImpuestos>26.000000</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>26.000000</baseImponible>
+        <tarifa>15.000000</tarifa>
+        <valor>3.90</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>29.90</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>29.90</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>LM0200-E-2</codigoPrincipal>
+      <descripcion>[LM0200-E-2] Camiseta Lucy (S)</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>26.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>26.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.000000</tarifa>
+          <baseImponible>26.000000</baseImponible>
+          <valor>3.90</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Referencia">Fact 009-002-000000618</campoAdicional>
+    <campoAdicional nombre="Vendedor">Lemaler Village</campoAdicional>
+    <campoAdicional nombre="E-mail">village@lemaler.com</campoAdicional>
+    <campoAdicional nombre="Telf. Cliente">098 592 4979</campoAdicional>
+    <campoAdicional nombre="Email Cliente">mkarinaargenzio@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature1935a072-978b-4d40-b3b6-277e6e5deee5">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" Id="SignedPropertiesID2c70b4aa-ef7c-4752-bf28-06013a6a840f" URI="#Signature1935a072-978b-4d40-b3b6-277e6e5deee5-SignedPropertiesID4ebe6be0-67a2-4813-b5a7-2f90c9092c0a">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>I6J7r4BjXTOkWxhI7c03G+fnITI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificatebf43fb39-4b9f-4a0c-a03f-603864f7b116">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0+jL9WFBDRnLdF0rp45bTKcL7+Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#comprobante" Id="Reference-ID-319a3060-6895-4b98-9b67-2249a0d4dc75">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>al0KD8Z6UcNcM/6w785scvkEiwU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>CBE8iwzdhlM7aw697cxGF0Q0e+uoB4M9I9kW2VG6PWnIG69mAOzbHONvCsP1FH19FY/H6c45Arbl
+2bYsMsWb/jUZPAfqAIH1yeX5Ge+5e6m+KVOSXIssGejG6rBplDoF75PBfgMjKpTZzOiBb9fLYOX3
+3iL1VxptsQE5TjZC4N1I2NFaqAUpXNAYsTNbbLgKmp+2yQznD/OOxxKahyjBS8Fe3XJaEZWPiMmb
+jGY6Fez1BIHdl5CrEuz/w0411ka2mjDUl0VJffmpIJUnBmyT3FhMDvo+QCu/NxSXnU8dSjTfFhh/
+cUOM0rCakrpRx/1s99H3XVh9mlIJMuEqImiaww==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificatebf43fb39-4b9f-4a0c-a03f-603864f7b116">
+<ds:X509Data>
+<ds:X509Certificate>MIIKtjCCCJ6gAwIBAgIISj47VNqRtswwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMjI5MjAwNjM5WhcNMjgxMjI4MjAwNjM5WjCB
+qjEoMCYGA1UEAwwfQURSSUFOQSBNQVJJQSBHT05aQUxFWiBST0JBTElOTzEgMB4GA1UEBRMXMDkx
+NTY5MjQ2MS0yOTEyMjUxNTE2MzExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzjbpjdmCr+Hu7NxUjyMfcvF2jVc5sY+W
+eqedDFSEXfjf7s0Tov2acpVSlBk05V8OHshlZIdLk5TViTABCc8uFxd1H8rqxaPLiiSTtRWEUoqx
+H2M4c8MUdoCQ0T03xOgA/1maCVFi/NZ14VM0Px8NxrlyqSnnj9upcgS2OTMUqg46YLAW+X28r+F/
+D12kPFaYr7NgCmp+wIkmbB0jWMk7uQDboio5Ke9f2sl/pTotFSVpAYjrqQAnNJE5U/hCPc87Vek9
+bZh2L87BxpqGkUVdqSPz31+vzaW5mwpLiSikNptOT/hxPKa/37LRVMDGif9gMxjN1NF01upSWqWV
+eZxI3QIDAQABo4IF7TCCBekwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktV
+v42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIgYDVR0RBBswGYEXYWRy
+aWFuYV9nODVAaG90bWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYI
+KwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUA
+bgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGC
+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3Jt
+YXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNl
+bnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8E
+ggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3Js
+MS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQG
+EwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2Ny
+bGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9
+Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVO
+VElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5B
+LiAyLEM9RUMwHQYDVR0OBBYEFEbCJtfoAdMOwgDdPxepPanLqdcEMCsGA1UdEAQkMCKADzIwMjUx
+MjI5MjAwNjM5WoEPMjAyODEyMjgyMDA2MzlaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEM
+D0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjA5MTU2OTI0NjEwFgYKKwYBBAGCpnID
+CQQIDAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMB4GCisGAQQBgqZyAwcEEAwOQVYgREVMIEJP
+TUJFUk8wHQYKKwYBBAGCpnIDAgQPDA1BRFJJQU5BIE1BUklBMB8GCisGAQQBgqZyAyAEEQwPMDAx
+MDAyMDAxMDg3OTE2MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURP
+UjAYBgorBgEEAYKmcgMDBAoMCEdPTlpBTEVaMB0GCisGAQQBgqZyAwoEDwwNU09DSUFCT1NTIFMg
+QTAdBgorBgEEAYKmcgMLBA8MDTA5OTI2ODM4MTMwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBgGCisG
+AQQBgqZyAwQECgwIUk9CQUxJTk8wGgYKKwYBBAGCpnIDCAQMDAowOTk4MDgyMDUwMA0GCSqGSIb3
+DQEBCwUAA4ICAQCQtjTbTf518BSmd9cUTfnt/2Sq9QvYOxFHM60HZ5SDkjeAZY+Ka4NUj68SsaVi
+i+qHVcLoUPoovGZGwDHoCtMTUys3znx3IZ/0np9pBlvNszeTHDv3N7MYc6NyabP1E4H03+jKO4r6
+E1/8eSSVwD6Tdv9tyh/fE3SbbtGiWxWi6H8xzrL9JZ/JSneQYNq13lBQJMTDFh6dVVdLu6WRStZJ
+IvOlxJcA5XfG35Z1J+Xg6P+ucfmFY6tHSNxwuooWwZVK4asv+f7Qdy89hdNbHmfLrwJsKeIMhuGv
+fk3M2yK6ir+Wego98nnBcqjcpP6cQDZiWhVh6UM09FObJnmw5TP8GDDzk9GiOGoJA6cC0Vlcwlyz
+Iu92CHzo2hxlF0fJw08QN8ZUo040wYVl/PNgcLjzI7QVOWRfi0kT9oC+l3aEqcrnZmvLcfOqjIfh
+MtZtTAdLMdowLYa2BeWZQnPjc8YohhF1MqPDiExC752Z2q0PohCGow1nSualQy4QFQu6SLOcr+m4
+d7zItD3/1njoWSvsij3QyZNPQTJI69m8aYK7IBXcNdGtv5ouXFgcs0VftSCADkCEt3hxdPeBjhrx
+e9lSnLaSVmU/hK3Qbne+UotvNwFBfdm1DKfOUZZ/AuTwU4nv3TfSfDkGvNwBARZ4jNJAli/B7Lz8
+a+Ro9NBh8oIKBQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>zjbpjdmCr+Hu7NxUjyMfcvF2jVc5sY+WeqedDFSEXfjf7s0Tov2acpVSlBk05V8OHshlZIdLk5TV
+iTABCc8uFxd1H8rqxaPLiiSTtRWEUoqxH2M4c8MUdoCQ0T03xOgA/1maCVFi/NZ14VM0Px8Nxrly
+qSnnj9upcgS2OTMUqg46YLAW+X28r+F/D12kPFaYr7NgCmp+wIkmbB0jWMk7uQDboio5Ke9f2sl/
+pTotFSVpAYjrqQAnNJE5U/hCPc87Vek9bZh2L87BxpqGkUVdqSPz31+vzaW5mwpLiSikNptOT/hx
+PKa/37LRVMDGif9gMxjN1NF01upSWqWVeZxI3Q==
+</ds:Modulus>
+<ds:Exponent>AQAB
+</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature1935a072-978b-4d40-b3b6-277e6e5deee5" Id="Signature1935a072-978b-4d40-b3b6-277e6e5deee5"><etsi:SignedProperties Id="Signature1935a072-978b-4d40-b3b6-277e6e5deee5-SignedPropertiesID4ebe6be0-67a2-4813-b5a7-2f90c9092c0a"><etsi:SignedSignatureProperties><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>ybVTj2PQ3ZZ6i247r0YNI+nSTcg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>5349778642993002188</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-319a3060-6895-4b98-9b67-2249a0d4dc75"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

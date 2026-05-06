@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601179174962600120010030000756100007561018</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T10:44:20-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>UNIDAD EDUCATIVA SALESIANA DOMINGO SAVIO</razonSocial><nombreComercial>UNIDAD EDUCATIVA SALESIANA DOMINGO SAVIO</nombreComercial><ruc>1791749626001</ruc><claveAcceso>0104202601179174962600120010030000756100007561018</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>003</ptoEmi><secuencial>000075610</secuencial><dirMatriz>AV. NATALIA JARRIN N2-77 Y 24 DE MAYO</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>01/04/2026</fechaEmision><dirEstablecimiento>AV. NATALIA JARRIN N2-77 Y 24 DE MAYO</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>GUALAVISI GUAJAN SEGUNDO DAVID</razonSocialComprador><identificacionComprador>1716539133001</identificacionComprador><direccionComprador>PAQUIESTANCIA./ B. SAN MIGUEL /SAN JOSE DE AYORA-CAYAMBE</direccionComprador><totalSinImpuestos>128.10</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>128.10</baseImponible><tarifa>0</tarifa><valor>0.00</valor></totalImpuesto></totalConImpuestos><importeTotal>128.10</importeTotal><moneda>USD</moneda><pagos><pago><formaPago>20</formaPago><total>128.10</total><plazo>9.00</plazo><unidadTiempo>días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>PENSION EGB-2025</codigoPrincipal><codigoAuxiliar>PENSION EGB-2025</codigoAuxiliar><descripcion>PENSIONES 2025-2026 Abril 8 10</descripcion><cantidad>1.00</cantidad><precioUnitario>128.1000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>128.10</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>128.10</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION:">PAQUIESTANCIA./ B. SAN MIGUEL /SAN JOSE DE AYORA-CAYAMBE</campoAdicional><campoAdicional nombre="TELEFONO:">0997602308</campoAdicional><campoAdicional nombre="CORREO:">dguajan80@outlook.com</campoAdicional><campoAdicional nombre="Obs:">Términos y condiciones: https://1791749626001-edu.sdb-integralis360.com/terms</campoAdicional><campoAdicional nombre="ESTUDIANTE:">GUALAVISI QUISHPE JORDAN DAVID</campoAdicional><campoAdicional nombre="CODIGO:">11195</campoAdicional><campoAdicional nombre="CEDULA:">1728106996</campoAdicional><campoAdicional nombre="GRUPO:">Noveno 2025-2026 - C</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature755037">
+<ds:SignedInfo Id="Signature-SignedInfo585195">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID474716" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature755037-SignedProperties931376">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Ff6CDVz3iaQnCflUASTyHt8NHNo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1153742">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CGOMhhUm6sX6n6K7G0A/TZDSuzU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-368812" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>8PFAkcyu9Nx2eMEDUm1iSXahcg0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue247437">
+e8Soi1LSv5hN68/BpdYgYl6lqVkBnXKE6t36bBwZeTVWDTfwg5jTqmJ5YWRZs3QzbEKAzyMqAN1J
+euCQThQB/Z0qXqcqckDOU0KQcN2Qoo5WrzKVjGOxDp3B5fHkQ9CeTPuI5tIvWJmPJBEOGrR6vfmw
+2ON6SLbM1dMEcUS2YSmgw3PXZZSFtaxRDWcOnIhpawdFSBlKH98+hPogQKZLd2ke3PESjsVGSIeX
+rDChf0Q0aubJo3G0NlqQRonJ9ng9tVhaXsvVE7brZjPJwFiaj2EDBr7RhgL4KEmlbJfxJAflIVnP
+iKl8FA7s12f2+ilS0nZkUYNG2pUJPX3pQXzljg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1153742">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJvTCCB6WgAwIBAgIIBOHgIp2867kwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDYxODE0NDEwMFoXDTI2MDYxODE0NDEwMFowgdYxCzAJBgNVBAYTAkVDMTUwMwYDVQQKDCxV
+TklEQUQgRURVQ0FUSVZBIEZJU0NPTUlTSU9OQUwgRE9NSU5HTyBTQVZJTzERMA8GA1UEDAwIRElS
+RUNUT1IxFTATBgNVBAQMDEhFUlJBTiBHT01FWjEPMA0GA1UEKgwGSkFWSUVSMRkwFwYDVQQFExBJ
+RENFQy0xNzAzMTc5NTg4MRwwGgYDVQQDDBNKQVZJRVIgSEVSUkFOIEdPTUVaMRwwGgYDVQRhDBNW
+QVRFQy0xNzkxNzQ5NjI2MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiN4GzKS7
+EnMW8pY24PK8CCT49sgm8kn134I+SwEVy3LibDlI8jHwpu5pC7P3E9Nva0cKcyoS7f1ZHzlRQLXA
+nN4L+oFCoip/PccKv0+VipPzGJP0+jvtvU5LwjadhlWmmMT9gPdjPSSDjoG5tBqxCr0QjFnGF4FA
+x6VNTf6WbBYJyQ5Xk3jAdCsENTXxXvHWJP6l2Xw3y+6vxvC8wg085MVBQ5Gb9mrWWTI2kwGGDTbW
+MPuQMs/nubf0gNr62Kjv+v+pDsY9L7YKNTR9Wj9hMKlcfld6EWnnANplJOehmq1JS+W4YjGFQ6hO
+GG8w0qVVzoKP0dDdaOHdOmMZkkYq4QIDAQABo4IEqTCCBKUwGwYLKwYBBAGC8TZmAwEEDAwKMTcw
+MzE3OTU4ODAeBgsrBgEEAYLxNmYDCwQPDA0xNzkxNzQ5NjI2MDAxMIHXBggrBgEFBQcBAQSByjCB
+xzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3Rz
+cF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3Ax
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFMpnIJG12FXZ1ipuhyTawEzn
+lfShMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgY4GA1Ud
+IASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0
+YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8gREUg
+UkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwx
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0
+dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmww
+DgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAeoGA1UdEQSC
+AeEwggHdgSBqaGVycmFuQHNhbGVzaWFub3NjYXlhbWJlLmVkdS5lY6AbBgsrBgEEAYLxNmYDAaAM
+DAoxNzAzMTc5NTg4oBcGCysGAQQBgvE2ZgMCoAgMBkpBVklFUqAXBgsrBgEEAYLxNmYDA6AIDAZI
+RVJSQU6gFgYLKwYBBAGC8TZmAwSgBwwFR09NRVqgGQYLKwYBBAGC8TZmAwWgCgwIRElSRUNUT1Kg
+SAYLKwYBBAGC8TZmAwegOQw3QVYuIE5BVEFMSUEgSkFSUklOIE5NRVJPOiBOMi03NyBJTlRFUlNF
+Q0NJTjogMjQgREUgTUFZT6AfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5ODczNzU0OaAYBgsrBgEE
+AYLxNmYDCaAJDAdDQVlBTUJFoD0GCysGAQQBgvE2ZgMKoC4MLFVOSURBRCBFRFVDQVRJVkEgRklT
+Q09NSVNJT05BTCBET01JTkdPIFNBVklPoB4GCysGAQQBgvE2ZgMLoA8MDTE3OTE3NDk2MjYwMDGg
+EwYLKwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdB
+TKAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQDJG3ew16tCS7UI
+U1EHmRuAk0IN5d5izeJbix9sMrDLfKjm05kLtvksy8RVPT9rLShWj0c0pDaBzoe53zVB4oxSXysU
+DbfoCrIqo//kxlZPiVW2XSNPEpiPLk3PYpQrfS1EdCQ2HdWaRy4F23hO9CRXPzoduhsjKhZA49YS
+4sYGEyBJHBqEDCaaeNPXGIqQ3AlpeA1o+zQBsf75QL1aTuqJzbF82lcisnU+Yfr0/9ftSOqkQbB4
+dlFcu2k9nNJwYVVYnKvaLXPXhx+xyXmiXkVvBji2yQs1QD0tvV4iWuqUDUUJ1YPHcohxzsUqJU/D
+vnllj3gsWP0Kwf3zhAcgx7aAkI0D7bFAcCfOQGFmL9LlWv7w+y8dt2141P7NRH1L0nvixkwVciwL
+2NRlB1j0sh3etKqew3hVWlEPqMszmfWdnxuen5fNLqVzC5+PtTgEeqgsqYf2tmUrMbpMYX8AhG/e
+7SGxKcu5KOYIooY2pVy3VhsL3u9gNjZv/E46GlJ7bWf0XeqW4jCoMJDErfdvh0BnDS/TFP4d5feJ
+dB1VKnDZvPLCi4wRLNUTohzg34EgLcl+HtXYoKF1YCtsf4mGxw/oSorQwRtOxO2DJREyCtmXPzCN
+94kUan4p26tRlruD5xICjxfC1wdISUlCYD5bjBa4Txoz+x9lRr4gww9SJIjENA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iN4GzKS7EnMW8pY24PK8CCT49sgm8kn134I+SwEVy3LibDlI8jHwpu5pC7P3E9Nva0cKcyoS7f1Z
+HzlRQLXAnN4L+oFCoip/PccKv0+VipPzGJP0+jvtvU5LwjadhlWmmMT9gPdjPSSDjoG5tBqxCr0Q
+jFnGF4FAx6VNTf6WbBYJyQ5Xk3jAdCsENTXxXvHWJP6l2Xw3y+6vxvC8wg085MVBQ5Gb9mrWWTI2
+kwGGDTbWMPuQMs/nubf0gNr62Kjv+v+pDsY9L7YKNTR9Wj9hMKlcfld6EWnnANplJOehmq1JS+W4
+YjGFQ6hOGG8w0qVVzoKP0dDdaOHdOmMZkkYq4Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature755037-Object985274"><etsi:QualifyingProperties Target="#Signature755037"><etsi:SignedProperties Id="Signature755037-SignedProperties931376"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T10:44:18-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>5VgRWocuMJRMj/LkY2crncRhoSU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>351808685191523257</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-368812"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

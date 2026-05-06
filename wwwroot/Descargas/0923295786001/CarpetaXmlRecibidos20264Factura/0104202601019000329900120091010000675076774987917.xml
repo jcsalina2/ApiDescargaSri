@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601019000329900120091010000675076774987917</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T19:19:26-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>PASAMANERIA S.A.</razonSocial>
+    <nombreComercial>PASAMANERIA S.A.</nombreComercial>
+    <ruc>0190003299001</ruc>
+    <claveAcceso>0104202601019000329900120091010000675076774987917</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>009</estab>
+    <ptoEmi>101</ptoEmi>
+    <secuencial>000067507</secuencial>
+    <dirMatriz>AV. HUAYNA CAPAC 1-97 Y PIO BRAVO</dirMatriz>
+</infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/04/2026</fechaEmision>
+    <dirEstablecimiento>CUENCA, AV. DE LAS AMERICAS S/N Y EL TEJAR</dirEstablecimiento>
+    <contribuyenteEspecial>3257</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>JARA ITURRALDE MIGUEL ANGEL</razonSocialComprador>
+    <identificacionComprador>0923295786</identificacionComprador>
+    <direccionComprador>VILLA AL SOL</direccionComprador>
+    <totalSinImpuestos>0.17</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>0.17</baseImponible>
+        <valor>0.03</valor>
+   </totalImpuesto>
+ </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>0.20</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>0.20</total>
+        <plazo>0</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+   </pago>
+ </pagos>
+</infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>MPV-CM</codigoPrincipal>
+      <descripcion>FUNDA MEDIANA P/VENTA (27X33.5)+F10</descripcion>
+      <cantidad>1.000</cantidad>
+      <precioUnitario>0.170000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.17</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.17</baseImponible>
+          <valor>0.03</valor>
+     </impuesto>
+   </impuestos>
+ </detalle>
+</detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Teléfono">999999999</campoAdicional>
+    <campoAdicional nombre="Email">majara@armoniaec.net</campoAdicional>
+    <campoAdicional nombre="_">Por disposición gubernamental, considerar el incremento del IVA al 15%</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature307255">
+<ds:SignedInfo Id="Signature-SignedInfo896818">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID877192" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature307255-SignedProperties702536">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1fZhj+65uEXqtI0MmrUd9HMF26Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1502114">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>g7v/E3PLoR98YhIxyMkYgPsIy+g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-441610" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>NaWcnNaIIZCrlA9OBOQSr1f8fY0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue295477">
+gto+veqZC0pcsZH4vpnooRgH4FtCASIrmwNHwOzVELqVfHSJyj7Wrhm6Tt4z/0Jfh4GWloMP23Fq
+pco3wJCod1NXqcTyZCyaO7OUCvpW9HonPOaooeQi54YNeQAAf0ykNDioY2VSwKLc7IZZh/7WLYlS
+BDSnE5HBWlzWpcjAonpNZ3Y/XCWJvvkZpkH7MP7fFDl0RB+Qi/fqY8oTMA6NqxdqR+O8SEBNYtUF
+Y1CftCPXEGWQ+OpqaU+TChetXkAjlCCn+Q9BpxGRmuW224B7SWa7kyKbZm6bOxeWnF5ypQ/UHljg
+AidG7B56tsk5lYra1NUmD8OL9ypVQP8WZ8UKTA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1502114">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJQjCCByqgAwIBAgIKJOZm7eg1RY6CpzANBgkqhkiG9w0BAQsFADCBmzELMAkGA1UEBhMCRUMx
+HzAdBgNVBAoMFkNPUlBORVdCRVNUIENJQS4gTFREQS4xMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMUVGIENPUlBORVdCRVNUMB4XDTI2MDEyMzE1MDE0OFoXDTI4MDEyMzE1MDE0
+N1owgYAxCzAJBgNVBAYTAkVDMR4wHAYDVQQKDBVDT1JQTkVXQkVTVCBDSUEuIExUREExMDAuBgNV
+BAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEfMB0GA1UEAwwWVE9T
+SSBMRU9OIEFVR1VTVE8gTFVJUzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKAsrxoE
+WNw32jOwPplTYh4aXGNqkLK37948tyZtvtwH7NmrSZOF83wXdhlr/QvrdFJw3JXmCzEuJIhkLq4y
+OV5mGasiPyoVgUB+qbLTbZWa215caM6wR/5lfEylxDA79I/LYqukIvkeVHObJpQ5IRb+t9jKwRe6
+wipM9LneY4D+LK5dgHEAZHL/JCdI8xBr/LMV5aBejnH1oZgF+4/Tn/v/94krxAe4hly7EFOKCeoB
+Dn4BX5kNnDLsBO3SIoioHKxKPX7NuM/uRFtWSGPbTFqo9PTmlqHlioUnuEbQhHhZ1JpkDQlSGHOb
+yTbF7rhfsRJXYDWRuXLyWACbx2lMWEkCAwEAAaOCBJ8wggSbMAwGA1UdEwEB/wQCMAAwHwYDVR0j
+BBgwFoAUaZUPhTiZVIha5cn2GnVziP9K9J4wUwYIKwYBBQUHAQEERzBFMEMGCCsGAQUFBzABhjdo
+dHRwOi8vZWpiY2FlZS5uZXdiZXN0LnRlY2gvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHt
+BgNVHS4EgeUwgeIwgd+ggdyggdmGgdZodHRwOi8vZWpiY2FlZS5uZXdiZXN0LnRlY2gvZWpiY2Ev
+cHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q04lM0RBVVRPUklEQUQr
+REUrQ0VSVElGSUNBQ0lPTitTVUJDQS0xRUYrQ09SUE5FV0JFU1QlMkNPVSUzREVOVElEQUQrREUr
+Q0VSVElGSUNBQ0lPTitERStJTkZPUk1BQ0lPTiUyQ08lM0RDT1JQTkVXQkVTVCtDSUEuK0xUREEu
+JTJDQyUzREVDMIGMBgNVHSAEgYQwgYEwcQYKKwYBBAGCjEwBCTBjMGEGCCsGAQUFBwIBFlVodHRw
+czovL3d3dy5uZXdiZXN0Lm5ldC9uZXdzaWduYXBpL2Rvd25sb2Fkcy9ub3JtYXRpdmEvcG9saXRp
+Y2FzX3BlcnNvbmFfanVyaWRpY2EucGRmMAwGCisGAQQBgoxMAggwge0GA1UdHwSB5TCB4jCB36CB
+3KCB2YaB1mh0dHA6Ly9lamJjYWVlLm5ld2Jlc3QudGVjaC9lamJjYS9wdWJsaWN3ZWIvd2ViZGlz
+dC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTiUzREFVVE9SSURBRCtERStDRVJUSUZJQ0FDSU9O
+K1NVQkNBLTFFRitDT1JQTkVXQkVTVCUyQ09VJTNERU5USURBRCtERStDRVJUSUZJQ0FDSU9OK0RF
+K0lORk9STUFDSU9OJTJDTyUzRENPUlBORVdCRVNUK0NJQS4rTFREQS4lMkNDJTNERUMwHQYDVR0O
+BBYEFI83pfgu6UxfChI6RLtS1d24MVQ0MCsGA1UdEAQkMCKADzIwMjYwMTIzMTUwMTQ4WoEPMjAy
+ODAxMjMxNTAxNDdaMA4GA1UdDwEB/wQEAwIF4DAtBgorBgEEAYKMTAMFBB8MHVZJQ0VQUkVTSURF
+TlRFIERFIE9QRVJBQ0lPTkVTMBoGCisGAQQBgoxMAwEEDAwKMDEwMTMxNjA0MDAWBgorBgEEAYKM
+TAMJBAgMBkNVRU5DQTAuBgorBgEEAYKMTAMHBCAMHkFWIEhVQVlOQSBDQVBBQyAxIDk3IFBJTyBC
+UkFWTzAcBgorBgEEAYKMTAMCBA4MDEFVR1VTVE8gTFVJUzASBgorBgEEAYKMTAMMBAQMAkVDMBQG
+CisGAQQBgoxMAwMEBgwEVE9TSTAeBgorBgEEAYKMTAMKBBAMDlBBU0FNQU5FUklBIFNBMB0GCisG
+AQQBgoxMAwsEDwwNMDE5MDAwMzI5OTAwMTAUBgorBgEEAYKMTAMEBAYMBExFT04wGgYKKwYBBAGC
+jEwDCAQMDAowOTkzMzg2Mjc3MA0GCSqGSIb3DQEBCwUAA4ICAQCQbYr3kOZJxsO5jqcDXmQurP1/
+d4cXEkVVJENgRwR5P2sfJH3nDbeHpohXddnyPenSfbuBcNWOmHRkiAu9uq7gOjn/u6aDOcgqX9Eo
+LGIf+2ipxtMIw5zQwEtklXWsA+Jt7BdBAEKreugY4LGgFviYqzYv2gSS9uEJ6uOlLmYoZMGMGut+
+vm1twuwXGKemp+e9N/C2EVTSpym/AsVZUodKAQ1EoTiZ2mNAdILfvNLg3U7+nZazZX3ahmL1Y9+L
+wbtPIECznClOYQEVCyv18cnBrrTGgtyXA4jtVDE/YA9bIUW86OvsYmSGQ2t+cU5KT+cgjAvag/sw
+WtItXZb5ShpmwgWDIRlTohDUoLxePabLaH0DrHPjDqmmsRF6WH40yzibYGlSfB/nz3Ip53fn3O+y
+apJDfQeVjxEpnQwg2Yr+OfSqdMgoPnjU0keOnvTbMLEYYrbWW05Ce5hkvXHwlBPw9fXNO947sEM2
+8Kt6YiYxzqTBDtlC+53vfZ7mLjYDQdpKOrVTzYzdmlmEcVUNXmtQwGnKDmVSRI2iZjBeZA31mzco
+mXm9PnlZ3xhLfsIOG+WCd5OSjF/OClfBjUeiU6VBW09dL+cH/BDTjjoGbxZmQsZ7GnNNP1yRKA9k
+UXWMhHeLlY8AOiBtDqzS50gQHgS6IWlfOMeuMovNyVnpx4XYKA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oCyvGgRY3DfaM7A+mVNiHhpcY2qQsrfv3jy3Jm2+3Afs2atJk4XzfBd2GWv9C+t0UnDcleYLMS4k
+iGQurjI5XmYZqyI/KhWBQH6pstNtlZrbXlxozrBH/mV8TKXEMDv0j8tiq6Qi+R5Uc5smlDkhFv63
+2MrBF7rCKkz0ud5jgP4srl2AcQBkcv8kJ0jzEGv8sxXloF6OcfWhmAX7j9Of+//3iSvEB7iGXLsQ
+U4oJ6gEOfgFfmQ2cMuwE7dIiiKgcrEo9fs24z+5EW1ZIY9tMWqj09OaWoeWKhSe4RtCEeFnUmmQN
+CVIYc5vJNsXuuF+xEldgNZG5cvJYAJvHaUxYSQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature307255-Object466377"><etsi:QualifyingProperties Target="#Signature307255"><etsi:SignedProperties Id="Signature307255-SignedProperties702536"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T19:19:23-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Sm4TOtsEgAzWc7PtcDLyRpLSFtA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1EF CORPNEWBEST,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=CORPNEWBEST CIA. LTDA.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>174255361359737271517863</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-441610"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

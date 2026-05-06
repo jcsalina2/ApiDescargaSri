@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601099281694500120010030004378968072744613</numeroAutorizacion>
+<fechaAutorizacion>2026-04-01T23:33:46-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>SATINATOG. S.A.</razonSocial><nombreComercial>Medicos En Casa</nombreComercial><ruc>0992816945001</ruc><claveAcceso>0104202601099281694500120010030004378968072744613</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>003</ptoEmi><secuencial>000437896</secuencial><dirMatriz>Av. Francisco Boloña #703 y calle Decima</dirMatriz></infoTributaria><infoFactura><fechaEmision>01/04/2026</fechaEmision><dirEstablecimiento>Av. Francisco Boloña #703 y calle Decima</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>FERNANDEZ ESCALANTE ERIKA FABIOLA</razonSocialComprador><identificacionComprador>0920196813</identificacionComprador><direccionComprador>CALLE 513 ENTRE LA 9VA Y LA 11 AVA  NUEVA KENNEDY</direccionComprador><totalSinImpuestos>36.60</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>36.60</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>36.60</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>36.60</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>1</codigoPrincipal><descripcion>PAGO POR LOS SERVICIOS BAJO EL PLAN INTEGRAL DE URGENCIAS Y EMERGENCIAS MEDICAS COBERTURA CORRESPONDIENTE  Abril del 2026</descripcion><cantidad>1</cantidad><precioUnitario>36.60</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>36.60</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>36.60</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Teléfono">392421</campoAdicional><campoAdicional nombre="Email">erikaf89@gmail.com, facturacion@mec.com.ec, facturacion@mec.com.ec, facturacion@mec.com.ec</campoAdicional><campoAdicional nombre="Contrato #">23875</campoAdicional><campoAdicional nombre="# Personas">3</campoAdicional><campoAdicional nombre="AGENTE DE RETENCION RESOLUCION Nro.">NAC-DNCRASC20-00000001</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature315151">
+<ds:SignedInfo Id="Signature-SignedInfo941588">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID40104" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature315151-SignedProperties894321">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hBsCayE6pipGU+dGx/vQqwjvBfI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1634409">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>HXIY4ma08QOQeXY+KSSbktwFRgA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-960899" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hZpNWlWYWrzZCTXFE3o96KHvk4I=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue620756">
+TvqHr6XhK3KgzJwZQE+A1wi23WnC1sFAZr7x92EEE8M1f57QlU4JVshzRRx7Zj+lMN6QTJ4PLj2A
+s7Ol4JXeumVsrd81TtVXfDwMwMDkV6ubCLc6JrWz+S3rbHJeWhH+70Pn1E7VFjk3z8r6bl7yJvi2
+WjNlU6ZliPmNM80UrWZdO3ZhTSd058Uwwv/UIk96beXKLa2goXeBCbmbnfp4RgTYL+PO9EVDviLZ
+B6aw2e0CoHqOo0mtJax0wbBbICK0QLXRYKaFCCTLwoPSSINFUX50IT9Dqcrl+20vJzZ+Q7VbUwNS
+5C0mEAsm6bMzJ5+p70FnlujuWb9ZmthOOiqrnA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1634409">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKzDCCCLSgAwIBAgIIJFX+/+AaFqEwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMTA4MjAzOTQyWhcNMzEwMTA4MjAzOTQyWjCB
+qDEmMCQGA1UEAwwdVklDVE9SIERBVklEIFNBTEFaQVIgT1RBTFZBUk8xIDAeBgNVBAUTFzE3MTk2
+NDA2MzEtMDgwMTI2MTU0OTMyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMy2VVH2XZ3pp9Vnle5U6gMstSGKDRosdnKu
+ULtRI6ik3IqY37P6aMioUD/LGQUsSTMKwPJ4WkiO73fSoj+2SWKaVir5wvggKOjxBvzQ+dPGAuAm
+LZ3VpiEXbXa0l1vywWjeeFTBztwTn4GjjW2Z3P19rNXN3AbWM4jmqsWH3F+Ma9VRxI723GFGgTAQ
+QuqMc6uQnGO1sMO4g7+/apyasU1exELX2/XtA+XZGX2hzIZm9cghmq2bfWuzh2DXs69k3BHusx8q
+fdSlUNPEd88Fk/kEycwC5bFj5bhpUbOgMt8ta/wrR6I6nKlCFsqxVVjylE760zXIPjb8oCzqWB93
+uWsCAwEAAaOCBgUwggYBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+N
+rmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMB8GA1UdEQQYMBaBFG1hdmlk
+YTc1QGhvdG1haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUF
+BwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABh
+AG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBz
+Oi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZh
+cy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50
+ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCC
+AgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3Js
+ZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+PKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxl
+LmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFE
+IERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixD
+PUVDMB0GA1UdDgQWBBTlma4K45kjsu5zrXoqTdjB2SCDPTArBgNVHRAEJDAigA8yMDI2MDEwODIw
+Mzk0MlqBDzIwMzEwMTA4MjAzOTQyWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJF
+TlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxNzE5NjQwNjMxMBYGCisGAQQBgqZyAwkECAwG
+VEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjA7BgorBgEEAYKmcgMHBC0MK0FWRU5JREEgRlJBTkNJ
+U0NPIEJPTE9OQSA3MDEgWSBDQUxMRSBERUNJTUEwHAYKKwYBBAGCpnIDAgQODAxWSUNUT1IgREFW
+SUQwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDEwOTQ1NjgwEwYKKwYBBAGCpnIDIQQFDANQRlgw
+FwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHU0FMQVpBUjAdBgorBgEE
+AYKmcgMKBA8MDVNBVElOQVRPRyBTIEEwHQYKKwYBBAGCpnIDCwQPDA0wOTkyODE2OTQ1MDAxMBEG
+CisGAQQBgqZyAx0EAwwBLjAYBgorBgEEAYKmcgMEBAoMCE9UQUxWQVJPMBoGCisGAQQBgqZyAwgE
+DAwKMDk4NzMxODEyMDANBgkqhkiG9w0BAQsFAAOCAgEABYknLSrVFGF4K1kb2iCE/ssf8XNspKAK
+ErH5dM5IVy5/RQbLLdM7+r3S9o6W1m4wpF2ZA8xQ49JmEbIBjSRzxvPaJBaq1G49sRZ1RGSVjXrP
+4fb5uDKbn09eD3KVyU6eOD1Cnn0At0ieTvrbWFdU0ZCcK6dfR5awFt0zzcFP7iacSGISLs/zIWD5
+rugpXIGPk28vXiPsw0M3L3BKYFOg9I4EPm2hApJiUb+3bWzbH+9eD7+O5DWuxrr7utjke0zoEgMM
+3lpXjFf8aQAt6Pp7R6oJ7sNdkMaIbQYwLra/diNvPQj3Ya7GARXheiOWZR9UgvUNsGVz5VOAWCMc
+PFaaRjuL9IjQiPMaPxEL8fjCP0ip9R6N2YY8UljHYcQLywvJZfFCWr+k98okejRF0+7HtPCuZjzN
+j9UVcOHE7Qf9I+lWvrA9lwicccRFBSp5t06XTxE65H2In0riuUWVlIJEX1gB0UXU80Yw+3sbCADB
+qUbkKnfGawuvtweUcx4+u35WqQSaBIM+WV2xhBuFxGckWcUk6zzjiQBUPwvIQ647gRjlap2KEaZs
+r+ATXAL4xRXV49BY48W3KnuJyXJHD3P46ukabluDRR3pE9hvwUAYT3D99uXTeF/84xcm4iV4ikWm
+Lr+b3hcNBpqJO7NLjB0/WPpaDZIfxCcAMzq4ByErplY=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zLZVUfZdnemn1WeV7lTqAyy1IYoNGix2cq5Qu1EjqKTcipjfs/poyKhQP8sZBSxJMwrA8nhaSI7v
+d9KiP7ZJYppWKvnC+CAo6PEG/ND508YC4CYtndWmIRdtdrSXW/LBaN54VMHO3BOfgaONbZnc/X2s
+1c3cBtYziOaqxYfcX4xr1VHEjvbcYUaBMBBC6oxzq5CcY7Www7iDv79qnJqxTV7EQtfb9e0D5dkZ
+faHMhmb1yCGarZt9a7OHYNezr2TcEe6zHyp91KVQ08R3zwWT+QTJzALlsWPluGlRs6Ay3y1r/CtH
+ojqcqUIWyrFVWPKUTvrTNcg+NvygLOpYH3e5aw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature315151-Object649393"><etsi:QualifyingProperties Target="#Signature315151"><etsi:SignedProperties Id="Signature315151-SignedProperties894321"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-01T23:33:02-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>X9mvTLGzDGs+70AVBi3WpUtKs/k=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2618279133315733153</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-960899"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

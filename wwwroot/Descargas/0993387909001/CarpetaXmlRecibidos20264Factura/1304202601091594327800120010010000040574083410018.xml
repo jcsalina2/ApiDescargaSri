@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601091594327800120010010000040574083410018</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T12:58:37-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>ARELLANO MATAMOROS ZOILA LILY</razonSocial>
+	    <nombreComercial>FERRETERIA AREMAT</nombreComercial>
+	    <ruc>0915943278001</ruc>
+	    <claveAcceso>1304202601091594327800120010010000040574083410018</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000004057</secuencial>
+	    <dirMatriz>10 DE AGOSTO 1602A Y GARCIA MORENO</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>13/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>10 DE AGOSTO 1602A Y GARCIA MORENO</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>ASTECNAVIND S.A.S.</razonSocialComprador>
+	    <identificacionComprador>0993387909001</identificacionComprador>
+		<direccionComprador>GUAYAQUIL</direccionComprador>
+	    
+	    <totalSinImpuestos>42.43000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>42.43</baseImponible>
+				<valor>6.36000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>48.79000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>48.79</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>FA05887</codigoPrincipal>
+		<codigoAuxiliar>FA05887</codigoAuxiliar>
+      	<descripcion>CINTA DOBLE FAZ TRANSPARENTE TRUPER 30MM</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.304000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.30</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.30000</baseImponible>
+          <valor>0.50</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FA04153</codigoPrincipal>
+		<codigoAuxiliar>FA04153</codigoAuxiliar>
+      	<descripcion>NEPLO PERDIDO PLASTIGAMA 1 1/2</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.173000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.17</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.17000</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FA03376</codigoPrincipal>
+		<codigoAuxiliar>FA03376</codigoAuxiliar>
+      	<descripcion>NEPLO PLASTIGAMA PERDIDO 2 ¨</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.478000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.48</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.48000</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FA03578</codigoPrincipal>
+		<codigoAuxiliar>FA03578</codigoAuxiliar>
+      	<descripcion>NUDO PLASTIGAMA 1 1/2</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.260000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.26</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>8.26000</baseImponible>
+          <valor>1.24</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FA01828</codigoPrincipal>
+		<codigoAuxiliar>FA01828</codigoAuxiliar>
+      	<descripcion>NUDO PLASTIGAMA 2¨</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>14.347000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>14.35</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>14.35000</baseImponible>
+          <valor>2.15</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FA01606</codigoPrincipal>
+		<codigoAuxiliar>FA01606</codigoAuxiliar>
+      	<descripcion>SILICON ROJO PERMATEX 3OZ</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>3.478000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.96</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.96000</baseImponible>
+          <valor>1.04</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FA03798</codigoPrincipal>
+		<codigoAuxiliar>FA03798</codigoAuxiliar>
+      	<descripcion>TAPON MACHO INOX 1/4</descripcion>
+      
+      <cantidad>5.000000</cantidad>
+      <precioUnitario>0.782000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.91</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.91000</baseImponible>
+          <valor>0.59</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">ASTECNAVIND S.A.S.</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature329883">
+<ds:SignedInfo Id="Signature-SignedInfo161156">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID982518" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature329883-SignedProperties769275">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>G3ErBvbVOSUUxUM5uZnTNUZeYVM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate210364">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>M2hg4h5FGLUKnctp6Zxp+2Sme4k=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-59121" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>BoNTFfUyGZOrcY7wv7aWo+BTWDU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue129326">
+24SQPS5/zMQLeGMCJ3ipFy4yUibc5ZBz0RTTOsWaffQKY1vMJnnpH6GYfrn4W8e+UG9MiXblQ3uH
+KgoVs4bt2+oJ415pYRDmjrQk3NQqrX/fhytdZnfyQ2Td+8H2d+cN0a1ox7CE8Pd7rCNWa+jtBkBs
+HaiJG3CUCvstt4YZlNnJ967CLOphnv/hK127xgyWF7DEee9TJKiAfOS5Q9mu0MxkZdtu0cSwXV+O
+SbteEgjzI/CqzeNiy81taNQswSanym2KljtXr4lXZLLiwo3+8PWX+ITCTnegiFY0d/E0+ZFZqqPM
+J5yU8pHifm2sTaCFV9P9gDSkdYf/Q0tcwC+ZFw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate210364">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL7DCCCdSgAwIBAgIEUh86DjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMTExNjI4MjNaFw0yOTExMTExNjI4MjNaMIGoMSYw
+JAYDVQQDDB1aT0lMQSBMSUxZIEFSRUxMQU5PIE1BVEFNT1JPUzEgMB4GA1UEBRMXMDkxNTk0MzI3
+OC0xMTExMjQxMTM4MTIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4u5KvxBMKn0D4uTA5I0KHSzAzkigS+uQycCNQ1WX
+teKk+fy/QA+LO750yfMlNINoCPdVlxktfzmruov3a++qUa7O3sRKEg1uug9DvmZCdpH27iCCBQSc
+JpeIIARSYgf1sNnwB+TlK9V6NVw5Gr/CupKgQtvcoXArCzoaNbZ71uqNImkzcfDPD2lq9GA2v60p
+jnq7IxWdGA9ehp3gU1lAok0wpFIc3XeENfPD+QuZ2LlA8pBdxstXbDtYz/QN0e3jIDmrveMqQSLx
+STuL9jxVjTntyqQm9ZnmAEioB/R7hqatohGPKedw4rsU/xlPlf+sMd7k6jHLTGneQt6LESjcSwID
+AQABo4IHKTCCByUwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29
+jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCB
+u4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJl
+dm9jYXRpb25MaXN0P2Jhc2UwHAYDVR0RBBUwE4ERemxpbHk3NkB5YWhvby5jb20wggEGBgNVHSAE
+gf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCB
+jTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVu
+dC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2Vy
+dGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0
+cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2Nz
+cKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBT
+RUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCB
+wYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZp
+Y2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRv
+cjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9j
+bWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VS
+SVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VD
+VVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUM/nZAZGgKj44sfylyArAOMx1LKgwKwYD
+VR0QBCQwIoAPMjAyNDExMTExNjI4MjNagQ8yMDI5MTExMTE2MjgyM1owCwYDVR0PBAQDAgXgMBoG
+CisGAQQBgqZyAwEEDAwKMDkxNTk0MzI3ODAgBgorBgEEAYKmcgMJBBIMEE5VRVZFIERFIE9DVFVC
+UkUwEQYKKwYBBAGCpnIDIgQDDAEuMDIGCisGAQQBgqZyAwcEJAwiMTAgREUgQUdPU1RPIDE2MDJB
+IFkgR0FSQ0lBIE1PUkVOTzAaBgorBgEEAYKmcgMCBAwMClpPSUxBIExJTFkwHwYKKwYBBAGCpnID
+IAQRDA8wMDEwMDIwMDA2NjM2OTQwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwD
+UEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAYBgorBgEEAYKmcgMDBAoMCEFSRUxMQU5PMBoG
+CisGAQQBgqZyAx4EDAwKRU1QUkVTQVJJTzAdBgorBgEEAYKmcgMLBA8MDTA5MTU5NDMyNzgwMDEw
+EQYKKwYBBAGCpnIDHQQDDAEuMBkGCisGAQQBgqZyAwQECwwJTUFUQU1PUk9TMBoGCisGAQQBgqZy
+AwgEDAwKMDk5MzYwNTQ0NDANBgkqhkiG9w0BAQsFAAOCAgEADrnywASI/kJoCMTz9REAEiLeYyDt
+YbyIRDBI52FdJqrRoQ89YM0hpqMBBEu7EWzdhkOIMD+95Ondi7pLkCzDnbFFdI5B6Wij5hxu1t/f
+Z4DpcCHUtMwhjSuin7cN1F2D/+4DVUiYB/mJNzNEy2mp7EDm/rCcM66L1KIb/rzW+/w50B7T47a7
+8MqV5Ma9qj7kVxUtLUZKdcV6n8OINuRau/dM72G33E8e3AjLfMuZQdRlYktZd1JqPGeBDvcTwE1d
+x34Pm0raH4XvewVLb9sCDxcjW+xai9ixOTagBjGyY1UGK3u8B6IamnqEMDfqwSRCHZAZBp9b1Zbw
+G/N1pKEYAqGDp4DGKZEYwaQOBP2X6A0z570pTpRcb2bIJsORGM4m/6nrCp/4Xk7SCN5ZzLkfS84s
+VoYG76K5ESYyNUdJ/RVPFwFXClBTf22irG72+ucj24bQCFL3QSiQ7OxbV+9SwWcqAJY8bLFUPmMC
+svYiaV495sihMciPweTXFaU1UV0auvzzEszYCndPiIHNjtPJbVe3E0IcENjQal7WXWpTfrmrDFCB
+JJyxySLrLCTcOictby84rs93JnjK5HCR0PahmmlDBwo4r146FFwaA9DXERq8hmgp7q7DWbISnWRA
+aFQVXtc4RECwIB94BiNbJGPdicBRzv36MLNIgrR8IRAHcbY=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4u5KvxBMKn0D4uTA5I0KHSzAzkigS+uQycCNQ1WXteKk+fy/QA+LO750yfMlNINoCPdVlxktfzmr
+uov3a++qUa7O3sRKEg1uug9DvmZCdpH27iCCBQScJpeIIARSYgf1sNnwB+TlK9V6NVw5Gr/CupKg
+QtvcoXArCzoaNbZ71uqNImkzcfDPD2lq9GA2v60pjnq7IxWdGA9ehp3gU1lAok0wpFIc3XeENfPD
++QuZ2LlA8pBdxstXbDtYz/QN0e3jIDmrveMqQSLxSTuL9jxVjTntyqQm9ZnmAEioB/R7hqatohGP
+Kedw4rsU/xlPlf+sMd7k6jHLTGneQt6LESjcSw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature329883-Object404646"><etsi:QualifyingProperties Target="#Signature329883"><etsi:SignedProperties Id="Signature329883-SignedProperties769275"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T12:58:35-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>QeuMzcaOP08rgaKEPF50uO49/iw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>1377778190</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

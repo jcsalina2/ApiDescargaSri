@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2504202601099337192900120020030000368180006131911</numeroAutorizacion>
+<fechaAutorizacion>2026-04-25T13:54:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>DOCTOR PET LA COSTA S.A.S.</razonSocial>
+	    <nombreComercial>DOCTOR PET LA COSTA S.A.S.</nombreComercial>
+	    <ruc>0993371929001</ruc>
+	    <claveAcceso>2504202601099337192900120020030000368180006131911</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>002</estab>
+	    <ptoEmi>003</ptoEmi>
+	    <secuencial>000036818</secuencial>
+	    <dirMatriz>KM 9.5 VIA LA COSTA / LOTE COMERCIAL 2 / DEL PORTAL</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>25/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>KM 9.5 VIA LA COSTA / LOTE COMERCIAL 2 / DEL PORTAL</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>KARINA ARGENZIO</razonSocialComprador>
+	    <identificacionComprador>0923083190001</identificacionComprador>
+		<direccionComprador>COSTA</direccionComprador>
+	    
+	    <totalSinImpuestos>39.73000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>39.73000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>39.73000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>39.73</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>7798042360871</codigoPrincipal>
+		<codigoAuxiliar>7798042360871</codigoAuxiliar>
+      	<descripcion>PROTELIV GOTAS</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>10.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>30.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>30.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>9003579309445</codigoPrincipal>
+		<codigoAuxiliar>9003579309445</codigoAuxiliar>
+      	<descripcion>ROYAL CANIN LATA 400GRS GASTROINTESTINAL CANINE</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>9.730000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.73</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>9.73000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA</campoAdicional>
+    		
+    			<campoAdicional nombre="Cajero">OFICINA </campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature915073">
+<ds:SignedInfo Id="Signature-SignedInfo646682">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID68045" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature915073-SignedProperties808609">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>/VtfcN1VtoI8J7qHJUpNoLI9HUU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate674770">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4ErlIVMWAPlUgt96xTdW/Sd+HKU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-468138" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jn4rhJBakCJFJCH6W8qhOQNQnk4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue347697">
+oOLKaIaR/4FQ0U6HXBKqnquQCb0vrdwzBclx4fxUKqv01BFdw+Rs6j75QlI6owrNAnuW8ob4eh+s
+2aJY/UV7AGS1FaJ2t1ERkd7YfesFM/TmeMS6WSv/1Hi6hRNDnoQNMpwu9U4Wt/hx1bCO/JZSQ+ja
+a+tkAFuznvzq7QdohuDvOeRZrH8rv6XDOy00NTYr4XNTai7q+RrqHFF88lBi16diNoNcFos2b35D
+4zC8ujqpZdWbvXbruiaKX9ToeztrcOHbL+FRH7B6PLG41G0DV1RhRDA/JsWdpK7tcEtf4xq6VfHx
+em9YpJY5zq/LxPpLah87IQYZKF1GN7vZRqbjFw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate674770">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ4zCCB8ugAwIBAgIIJfrx+fEGX70wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDQyOTE4MTcwMFoXDTI3MDQyOTE4MTcwMFowgeExCzAJBgNVBAYTAkVDMSMwIQYDVQQKDBpE
+T0NUT1IgUEVUIExBIENPU1RBIFMuQS5TLjEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMRowGAYD
+VQQEDBFaQU5BQlJJQSBWSUxMQU1BUjEVMBMGA1UEKgwMSk9SR0UgQVJUVVJPMRkwFwYDVQQFExBJ
+RENFQy0wOTEzNzk3OTgxMScwJQYDVQQDDB5KT1JHRSBBUlRVUk8gWkFOQUJSSUEgVklMTEFNQVIx
+HDAaBgNVBGEME1ZBVEVDLTA5OTMzNzE5MjkwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDVb0FQ6GGXVBmGfEjpkKQOyk2dhVouIuaZJqPVIJwxhcwz2jOPlyP0El60J7U1eAQjv0aR
+QOW2Hy4Qj2hKBPKzOY5VMThCttVKjVju1dBZPAPt6fHs21ioDOoaIcYRFD8mjYanOA07X4kCYJl1
+ytvssW+RebYaRNMv+LgMEGcmCSQ5mEWzob5VkQGbqUgdn45J2YUlq9jBev7yX/+X2m91IjXMai8v
+OBRFC2RhpfdPgZu5k8HZvjF/GwLk4P3Jjuu3jJdWztD70v7ZpXtW9l4U4xlBVNEWF60H3+lZeUjn
+BGPiunFh2DFbeoqGJV/dMv1lCFn5VHrQZNp2ORV65ar9AgMBAAGjggTEMIIEwDAbBgsrBgEEAYLx
+NmYDAQQMDAowOTEzNzk3OTgxMB4GCysGAQQBgvE2ZgMLBA8MDTA5OTMzNzE5MjkwMDEwgdcGCCsG
+AQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMv
+ZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipo
+dHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0
+dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUsWDyrLxu
+gZou/ZV853AIBv94oS4wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGy
+dJJz/TCBjgYDVR0gBIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3BggrBgEFBQcCARYraHR0cHM6
+Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1BggrBgEFBQcCAjApDCdDRVJU
+SUZJQ0FETyBERSBSRVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6
+aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNy
+bDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9y
+ZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwME
+MIICBQYDVR0RBIIB/DCCAfiBImNvbnRhYmlsaWRhZGRycGV0bGFjb3N0YUBnbWFpbC5jb22gGwYL
+KwYBBAGC8TZmAwGgDAwKMDkxMzc5Nzk4MaAdBgsrBgEEAYLxNmYDAqAODAxKT1JHRSBBUlRVUk+g
+GQYLKwYBBAGC8TZmAwOgCgwIWkFOQUJSSUGgGQYLKwYBBAGC8TZmAwSgCgwIVklMTEFNQVKgIAYL
+KwYBBAGC8TZmAwWgEQwPR0VSRU5URSBHRU5FUkFMoF8GCysGAQQBgvE2ZgMHoFAMTkNBTExFOiBB
+Qi4gSkFJTUUgTkVCT1QgVkVMQVNDTyBOTUVSTzogU0wgMTAgQ0FSUkVURVJBOiBWSUEgQSBMQSBD
+T1NUQSAgS0lMTUVUUqAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk4MTYzOTczNaAaBgsrBgEEAYLx
+NmYDCaALDAlHVUFZQVFVSUygKwYLKwYBBAGC8TZmAwqgHAwaRE9DVE9SIFBFVCBMQSBDT1NUQSBT
+LkEuUy6gHgYLKwYBBAGC8TZmAwugDwwNMDk5MzM3MTkyOTAwMaATBgsrBgEEAYLxNmYDDKAEDAJF
+Q6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRFIExFR0FMoBgGCysGAQQBgvE2ZgMzoAkM
+B0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBAB4Ho+ps42k6lmI9L2sSeEhHMbU1x7nIIyo/r6G+
+2nK7fy8tUPNx0cuyrCkG7R4ZmonypU+cMp3S1p6PyFgWmqN4Vn3dic8fDHaOie1UvYg+LwZdkAma
+oquvx78v59IJsBhKcYi0URxa+M8bK5yAES3bMy7GJrlwtVb4/ts6A6Yn3zijEd4cGqOkYZKrQ8T3
+Z4zjrEN6sxIQggCbRgXQD0PILpq/SAyuH9KJaKzxZOjszI/M0w2PCJxdFaoKVIRKd75T4o8MUN5L
+KsehKLGLfnQCkRzG57MJtjCsl9RXiduhO3Gnd0OhdQ4qhwkqTQUN4OVWgtpFCG0umtFmrHO2zOic
+d25/ErLMZUMhG+M4wo5092aNug2mdPCOOjgVHg8wcGDiAVtRJmF4ztultfLFtXaoxiJUdWlNlmmv
+ZAnCYip3366jhViElxJQ848KMg3YElIazh8aR503iSRxSHIyfGMVp1AZYFbR6/nU645cfgabMt+H
+0FNLS6Wwn7UBdzk055uy6zs8ITXj7OXdlKaT6LNuLuLLUGLL+GZt8aUrw/DzaGnrISAC1hkjkTP4
+TAo5w7yJb9wQ8bXLhiP7h6LWuv17y0nmVfLPj9zlCMmJYO6YH16VAuwzbxlAggKbnwBCAoLChiRY
+JUA9cMDg6I+zJr5h/tGTsDmKXQ9Oxwq+/Kzp
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+1W9BUOhhl1QZhnxI6ZCkDspNnYVaLiLmmSaj1SCcMYXMM9ozj5cj9BJetCe1NXgEI79GkUDlth8u
+EI9oSgTyszmOVTE4QrbVSo1Y7tXQWTwD7enx7NtYqAzqGiHGERQ/Jo2GpzgNO1+JAmCZdcrb7LFv
+kXm2GkTTL/i4DBBnJgkkOZhFs6G+VZEBm6lIHZ+OSdmFJavYwXr+8l//l9pvdSI1zGovLzgURQtk
+YaX3T4GbuZPB2b4xfxsC5OD9yY7rt4yXVs7Q+9L+2aV7VvZeFOMZQVTRFhetB9/pWXlI5wRj4rpx
+YdgxW3qKhiVf3TL9ZQhZ+VR60GTadjkVeuWq/Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature915073-Object448365"><etsi:QualifyingProperties Target="#Signature915073"><etsi:SignedProperties Id="Signature915073-SignedProperties808609"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-25T13:54:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>tsYgNcw4PDdFmXPZB2dOcWjkA7o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>2736765779373875133</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

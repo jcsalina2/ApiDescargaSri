@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1604202601179193738400120019010001112340000000111</numeroAutorizacion>
+<fechaAutorizacion>2026-04-16T14:26:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>UNISCAN CIA. LTDA.</razonSocial>
+        <nombreComercial>UNISCAN CIA. LTDA.</nombreComercial>
+       <ruc>1791937384001</ruc>
+        <claveAcceso>1604202601179193738400120019010001112340000000111</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>901</ptoEmi>
+        <secuencial>000111234</secuencial>
+        <dirMatriz>PERALES N47-164 Y ELOY ALFARO</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>16/04/2026</fechaEmision>
+        <dirEstablecimiento>PERALES N47-164 Y ELOY ALFARO</dirEstablecimiento>
+        <contribuyenteEspecial>663E</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>GABRIELA FERNANDA DIAZ YANEZ</razonSocialComprador>
+        <identificacionComprador>1718041005001</identificacionComprador>
+        <totalSinImpuestos>110.49</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>110.49</baseImponible>
+                <valor>16.57</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>127.06</importeTotal>
+        <moneda>dolar</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>127.06</total>
+<plazo>1</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+ <valorRetIva>0.00</valorRetIva>
+ <valorRetRenta>0.00</valorRetRenta>
+    </infoFactura>
+    <detalles>
+<detalle><codigoPrincipal>10015699</codigoPrincipal>
+<codigoAuxiliar>10015699</codigoAuxiliar>
+<descripcion>L 2.00 X 1.000, 05272RM POLYESTER FLEX LABEL</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>29.49000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>29.49</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>29.49</baseImponible>
+<valor>4.42</valor>
+</impuesto>
+</impuestos>
+</detalle><detalle><codigoPrincipal>ZEB-800033-840</codigoPrincipal>
+<codigoAuxiliar>ZEB-800033-840</codigoAuxiliar>
+<descripcion>ZEBRACARD, LX SERIES COLOR RIBBIN FOR ZXP</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>39.00000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>39.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>39.00</baseImponible>
+<valor>5.85</valor>
+</impuesto>
+</impuestos>
+</detalle><detalle><codigoPrincipal>CM-65BX</codigoPrincipal>
+<codigoAuxiliar>CM-65BX</codigoAuxiliar>
+<descripcion>CARDMARK CR8030, PVC CARD WHITE, 500 CARD PER SLEEVE</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>42.00000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>42.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>42.00</baseImponible>
+<valor>6.30</valor>
+</impuesto>
+</impuestos>
+</detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Direccion">PEDRO CORNELIO N55-165 Y JULIAN ARBAIZA</campoAdicional>
+        <campoAdicional nombre="Telefono">022812283</campoAdicional>
+        <campoAdicional nombre="Correo E">megacardsolutions@hotmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1036726">
+<ds:SignedInfo Id="Signature-SignedInfo127441">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID142692" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1036726-SignedProperties925312">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>dnjcpq5gblH745xMVfxP0mcF50Q=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11031745">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ZVhYB1KD6uAqsA2irvOMizQPMoI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-113339" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>5e9YiO2en2+6W3WF9iBjyzmuVmo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue215712">
+I6bfBgoOpjBBfMnkFXbTFFCGvRU+BMN2LQHewOQYZctoVxaQ5XG6eYzOFLX7JOCqy5pSOpurGVJe
+DZJ8chu81gEF8qGatMCt8ln6SPWhOCItRfK9xzu5NKnzU0K5rFXUDYnEm9EPs30zpsa6VSNZZx3D
+/Mc7sKg1WCBe7DyMN3YxPrnKy90ygX8RljyUmtWMDnXi2opTCO+mCb5Zq5COLBMmLOHitEBA2RxP
+Fm6Nik5kdEol0j0nXrp6AFASx6+G5RYq9YoaJh8mVUKsgDLXMR6xLjhlVhxL6q/bvOZvgJt6zFUn
+ovDexDFkH4R94qRew4wfgJI0uZtkSAmgzip5msNWlezPGNLzbbiaPs15enqAlYjeJahtb1KxpjTz
+53HlHk9eOOCLFUCTEOFxwXlyQTh8Azq1awtcpq3r5dFyccg1G7tnNWK03pRS1JAIBNHyuXVGO+cT
+Ha1QWVY0bv+9qyFkyda6MLfG49+GVBeIZfSXU9sVtvzNiak0JvfGX8sy
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11031745">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK9zCCCN+gAwIBAgIMAzjYHgx89OwWe5nDMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjYwNDEzMjE0MDAzWhcNMzAwNDEyMjE0MDAzWjCCAZUxGzAZBgNVBAoMElVOSVNDQU4g
+Q0lBLiBMVERBLjEaMBgGCisGAQQBgqRCCgQMCjE3MDg3OTI3NjUxKDAmBgNVBAsMH0NlcnRpZmlj
+YWRvIFBlcnNvbmEgSnVyaWRpY2EgRUMxFDASBgNVBCoMC0hFQ1RPUiBMVUlTMRYwFAYDVQRhEw0x
+NzkxOTM3Mzg0MDAxMQswCQYDVQQGEwJFQzETMBEGA1UEBRMKMTcwODc5Mjc2NTEZMBcGA1UEBAwQ
+UkVEUk9CQU4gTkFSVkFFWjEwMC4GA1UEAwwnMTcwODc5Mjc2NSBIRUNUT1IgTFVJUyBSRURST0JB
+TiBOQVJWQUVaMRgwFgYDVQQMDA9HRVJFTlRFIEdFTkVSQUwxIjAgBgkqhkiG9w0BCQEWE2hyZWRy
+b2JhbkBnbWFpbC5jb20xMTAvBgNVBA0MKENlcnRpZmljYWRvIGRlIFBlcnNvbmEgSnVyw61kaWNh
+IDQgYcOxb3MxEjAQBgNVBAgMCVBJQ0hJTkNIQTEOMAwGA1UEBwwFUVVJVE8wggGiMA0GCSqGSIb3
+DQEBAQUAA4IBjwAwggGKAoIBgQCpwXlMYHObcUaFPzYXIkOWnSzbkDzL04LxCIX9keSTn4pYEClQ
+Kw7a7HQSfZckOYTKi2BsQ89Znz2kwjijMhr3FVhFe4+5sxbc9FFyVeMsim+Yg5X1LhAGgdS8DLCe
+vq4QYD3ynI9fNZF+VRyNfIhoiK1vzXHGaf8dANhZofcswoMgNMdHdJtPOFtoq9gv7zTZJ1DBYjdI
+D5GnBy9XK3zaCbZUFaUZkfZtoibw6lDcKZdux06qNvITLmHnzVN3xE15vREuCzFf2zY1ykY/ed6f
+S1LuIwcDc82p4xxK7hE719xyHVk8AydEYcDRv8LQDGt36T9wvVceQF8dkOyxVFwUKzlt9DlP+NaR
+LHyw25TMGBEDBu6IpifyXkdsQyJp0iprFJlzlfQgKQPpi/2cNDaHLiNVh9rwM9BcIfyYvONKlqVd
+VQ+rzfDayfYdX9KYnKB8KiVged/qG3e3Nz7SEm1/jxSHed+6SvS9143fcc3et4GCztw5N8ZnuVi4
+QxRCq6ECAwEAAaOCBJ4wggSaMB8GA1UdIwQYMBaAFJKu1MuCtJnG0XsRbGXqxU1oIfmsMB0GA1Ud
+DgQWBBQZiPRYtG2fOqppEGU94T5W/64qFTCBrQYDVR0RBIGlMIGigRNocmVkcm9iYW5AZ21haWwu
+Y29tpIGKMIGHMRswGQYKKwYBBAGCpEIKAQwLSEVDVE9SIExVSVMxGDAWBgorBgEEAYKkQgoCDAhS
+RURST0JBTjEXMBUGCisGAQQBgqRCCgMMB05BUlZBRVoxGjAYBgorBgEEAYKkQgoEDAoxNzA4Nzky
+NzY1MRkwFwYJKwYBBAGBjxwBDApBLTEzMDQyMDI2MA4GA1UdDwEB/wQEAwIGwDAdBgNVHSUEFjAU
+BggrBgEFBQcDAgYIKwYBBQUHAwQwUAYDVR0fBEkwRzBFoEOgQYY/aHR0cDovL2NybC5hbmYuZXMv
+Y3JsL0FORkhpZ2hBc3N1cmFuY2VFY3VhZG9ySW50ZXJtZWRpYXRlQ0EuY3JsMIIBDQYDVR0gBIIB
+BDCCAQAwgecGDCsGAQQBgqRCAgUBAzCB1jAwBggrBgEFBQcCARYkaHR0cHM6Ly9hbmYuZXMvZWMv
+cmVwb3NpdG9yaW8tbGVnYWwvMIGhBggrBgEFBQcCAjCBlAyBkUNlcnRpZmljYWRvIGNvbmZvcm1l
+IGEgbGEgbGVnaXNsYWNpw7NuIGRlIGZpcm1hIGVsZWN0csOzbmljYS4gQW50ZXMgZGUgYWNlcHRh
+cmxvIGNvbXBydWViZSBpbnRlZ3JpZGFkLCBsaW1pdGFjaW9uZXMsIHZpZ2VuY2lhIHkgdXNvcyBh
+dXRvcml6YWRvcy4wCQYHBACL7EABATAJBgdghVQBAwUIMIGbBggrBgEFBQcBAQSBjjCBizAnBggr
+BgEFBQcwAYYbaHR0cDovL29jc3AuYW5mLmVzL3NwYWluL0FWMGAGCCsGAQUFBzAChlRodHRwOi8v
+d3d3LmFuZi5lcy9lcy9jZXJ0aWZpY2F0ZXMtZG93bmxvYWQvQU5GSGlnaEFzc3VyYW5jZUVjdWFk
+b3JJbnRlcm1lZGlhdGVDQS5jZXIwDAYDVR0TAQH/BAIwADAoBgkrBgEEAYGPHBMEGwwZNjY4ODk4
+NzM4ODY1LTYzMTM4ODM2NTMyNTAVBgorBgEEAYGPHBMCBAcMBTM3NDQyMCkGCisGAQQBgqRCEwEE
+GwwZNjMxMzg4MzY1MzI1LTU1Mjc1MzYxNjcxODAaBgorBgEEAYKkQgMBBAwMCjE3MDg3OTI3NjUw
+IgYKKwYBBAGCpEIDCgQUDBJVTklTQ0FOIENJQS4gTFREQS4wHQYKKwYBBAGCpEIDCwQPDA0xNzkx
+OTM3Mzg0MDAxMBIGCisGAQQBgqRCAwwEBAwCRUMwGwYKKwYBBAGCpEIDAgQNDAtIRUNUT1IgTFVJ
+UzAgBgorBgEEAYKkQgMDBBIMEFJFRFJPQkFOIE5BUlZBRVowHwYKKwYBBAGCpEIDBQQRDA9HRVJF
+TlRFIEdFTkVSQUwwFQYKKwYBBAGCpEIDCQQHDAVRVUlUTzAUBgorBgEEAYKkQi4BBAYMBDE0NjAw
+DQYJKoZIhvcNAQELBQADggIBAD2lYSk3y4QwCGu/gai5CqfyEK6pjN1abBJAgPGXrhdz11P4UkgF
+PkNF98Y3rnb4NkgikOxy60/LfAAed9CNfiLvnisBeGaCHr1zPlke30geKeEltiROb5JmXlLmKQeP
+8tbBvpWMAaBVeeKF0UVpb388GDfu4HjfIQRxGnTK5HcxWeDu1N0lkIBHCPY00w72LqPZ87waWg1l
+zzhx028Lz4OfngODXIGeEX8UKa9CivyRtdvFJ/NegqkEOYOGePgsS1rKDESkNlTyxZ5pBjTqJFBH
+P98DBG8UQqgdW3wsCJ7swbRt+mRxK+cYBM07zvaM7y7LDjEw4M03J5LUxBeTyPXHyix1+amjog4d
+jQ1H+uxJGZfkFcz9xf1rxGyto/OsTzvJXh2zjOxvEHt3YjiI8bSk/JKggdb8sInSldxvUlsozIEG
+igL1bHVtPABgqwpInEOD3wB4cg57b+FUGZivnrtYf1qNGsGRur1H/uYLPurG34sMSxcagV0YGPqp
+cv4WGKfIysHPr9QtYMkTrsQwdfD9b5d+V+MtwoQEW8PGmSn2m3jEWmeKogKzhN5q2fM9v7/I0qi7
+2Tny8cVNDsOnAiG/AST0GDg9IkmFn6Og0/5i3r5ETzTYX8xPfH4nTBsoe9sWtGH1LF4UVme9PZU5
+VKTJQv9cUVXMSE86VsPILFCu
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qcF5TGBzm3FGhT82FyJDlp0s25A8y9OC8QiF/ZHkk5+KWBApUCsO2ux0En2XJDmEyotgbEPPWZ89
+pMI4ozIa9xVYRXuPubMW3PRRclXjLIpvmIOV9S4QBoHUvAywnr6uEGA98pyPXzWRflUcjXyIaIit
+b81xxmn/HQDYWaH3LMKDIDTHR3SbTzhbaKvYL+802SdQwWI3SA+RpwcvVyt82gm2VBWlGZH2baIm
+8OpQ3CmXbsdOqjbyEy5h581Td8RNeb0RLgsxX9s2NcpGP3nen0tS7iMHA3PNqeMcSu4RO9fcch1Z
+PAMnRGHA0b/C0Axrd+k/cL1XHkBfHZDssVRcFCs5bfQ5T/jWkSx8sNuUzBgRAwbuiKYn8l5HbEMi
+adIqaxSZc5X0ICkD6Yv9nDQ2hy4jVYfa8DPQXCH8mLzjSpalXVUPq83w2sn2HV/SmJygfColYHnf
+6ht3tzc+0hJtf48Uh3nfukr0vdeN33HN3reBgs7cOTfGZ7lYuEMUQquh
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1036726-Object1045312"><etsi:QualifyingProperties Target="#Signature1036726"><etsi:SignedProperties Id="Signature1036726-SignedProperties925312"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-16T14:25:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>HDpN2XRy2/rWPaazxeXg2YkNbcE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>997175460824939815004510659</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-113339"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1304202601019007200200120299120003206140565710712</numeroAutorizacion>
+<fechaAutorizacion>2026-04-13T20:50:08-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version = '1.0' encoding = 'UTF-8'?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>GERARDO ORTIZ E HIJOS CIA LTDA</razonSocial>
+<ruc>0190072002001</ruc>
+<claveAcceso>1304202601019007200200120299120003206140565710712</claveAcceso>
+<codDoc>01</codDoc>
+<estab>029</estab>
+<ptoEmi>912</ptoEmi>
+<secuencial>000320614</secuencial>
+<dirMatriz>AV. CARLOS JULIO AROSEMENA S/N</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>13/04/2026</fechaEmision>
+<dirEstablecimiento>AV FRANCISCO DE ORELLANA</dirEstablecimiento>
+<contribuyenteEspecial>3517</contribuyenteEspecial>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>BELGICA LOAIZA</razonSocialComprador>
+<identificacionComprador>0950045922</identificacionComprador>
+<direccionComprador>SAMANES</direccionComprador>
+<totalSinImpuestos>47.99</totalSinImpuestos>
+<totalDescuento>3.12</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>16.04</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>31.95</baseImponible>
+<valor>4.79</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>52.78</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>19</formaPago>
+<total>52.78</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>XBA0019</codigoPrincipal>
+<descripcion>YOGURT ZYMIL SEMI FRESA PARMALAT 450G</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.6700</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.62</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.62</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY0004Z</codigoPrincipal>
+<descripcion>ARROZ REAL 2 KILOS</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.4872</precioUnitario>
+<descuento>0.70</descuento>
+<precioTotalSinImpuesto>2.79</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.79</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XY8L065</codigoPrincipal>
+<descripcion>LECHE DESLACTOSADA NUTRI 1L</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.5008</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.45</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.45</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYC1256</codigoPrincipal>
+<descripcion>TOMATE CHERRY</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>0.9784</precioUnitario>
+<descuento>0.03</descuento>
+<precioTotalSinImpuesto>0.95</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.95</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYC1307</codigoPrincipal>
+<descripcion>MINI CARROTS</descripcion>
+<cantidad>2.0000</cantidad>
+<precioUnitario>1.4103</precioUnitario>
+<descuento>0.08</descuento>
+<precioTotalSinImpuesto>2.74</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.74</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYK000U</codigoPrincipal>
+<descripcion>JENGIBRE KG</descripcion>
+<cantidad>0.0500</cantidad>
+<precioUnitario>2.8571</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>0.14</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="KG"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>0.14</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYK009F</codigoPrincipal>
+<descripcion>PAPA SUPERCHOLA GRANEL</descripcion>
+<cantidad>1.1400</cantidad>
+<precioUnitario>1.1429</precioUnitario>
+<descuento>0.04</descuento>
+<precioTotalSinImpuesto>1.26</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="KG"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.26</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYK3594</codigoPrincipal>
+<descripcion>ARANDANO ENVASE 250GR</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.8571</precioUnitario>
+<descuento>0.12</descuento>
+<precioTotalSinImpuesto>3.74</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>3.74</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>XYK3653</codigoPrincipal>
+<descripcion>ZAPALLO PICADO AUYAMA 800 GRAMOS</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.3857</precioUnitario>
+<descuento>0.04</descuento>
+<precioTotalSinImpuesto>1.35</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.35</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>4C91399</codigoPrincipal>
+<descripcion>JUGUE/GATO RELLENABLE CENT PETS YT117908</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.4057</precioUnitario>
+<descuento>0.04</descuento>
+<precioTotalSinImpuesto>1.37</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>1.37</baseImponible>
+<valor>0.21</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X1MV130</codigoPrincipal>
+<descripcion>MIKADO CREMA VAINILLA</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.9739</precioUnitario>
+<descuento>0.09</descuento>
+<precioTotalSinImpuesto>2.88</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>2.88</baseImponible>
+<valor>0.43</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X1MV291</codigoPrincipal>
+<descripcion>PAÑO ABSERBENTE WESTPOINT HOME</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.0218</precioUnitario>
+<descuento>0.06</descuento>
+<precioTotalSinImpuesto>1.96</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>1.96</baseImponible>
+<valor>0.29</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X729054</codigoPrincipal>
+<descripcion>JABON LIQUIDO ANTIBACTERIAL ALMENTRA KIY</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.6874</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.64</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>1.64</baseImponible>
+<valor>0.25</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X78253U</codigoPrincipal>
+<descripcion>F.INSTANTANEO RAPI. UDON 500GR</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.6864</precioUnitario>
+<descuento>0.59</descuento>
+<precioTotalSinImpuesto>3.10</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>3.10</baseImponible>
+<valor>0.47</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X7P805K</codigoPrincipal>
+<descripcion>BOLIGRAFO BIC PRECISION Y SUAVIDAD FASHI</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.6471</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.60</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>1.60</baseImponible>
+<valor>0.24</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X8605HK</codigoPrincipal>
+<descripcion>GRANOLA CROCANTE CON CHOCOLATE NATURES H</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.7181</precioUnitario>
+<descuento>0.05</descuento>
+<precioTotalSinImpuesto>1.67</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>1.67</baseImponible>
+<valor>0.25</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X900N11</codigoPrincipal>
+<descripcion>PH DOBLE  HJ. CORAL 12PQX4RLL  45M</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>1.9130</precioUnitario>
+<descuento>0.06</descuento>
+<precioTotalSinImpuesto>1.85</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>1.85</baseImponible>
+<valor>0.28</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X900Q95</codigoPrincipal>
+<descripcion>NUTRIBELA SHAMPO+TRATAMI HIALUR813.30GR</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>9.4796</precioUnitario>
+<descuento>0.28</descuento>
+<precioTotalSinImpuesto>9.20</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>9.20</baseImponible>
+<valor>1.38</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X920B44</codigoPrincipal>
+<descripcion>NUTRAPRO CAT CHUP TUNA/SALMON &amp; PREBIOTI</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>3.5562</precioUnitario>
+<descuento>0.11</descuento>
+<precioTotalSinImpuesto>3.45</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>3.45</baseImponible>
+<valor>0.52</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9502X2</codigoPrincipal>
+<descripcion>MAIZ DULCE FAC 184G CJ24UN</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>0.8677</precioUnitario>
+<descuento>0.03</descuento>
+<precioTotalSinImpuesto>0.84</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>0.84</baseImponible>
+<valor>0.13</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>X9604IJ</codigoPrincipal>
+<descripcion>AFEITADORA FLEX 3LAMINAS BIC 2UDS</descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>2.9866</precioUnitario>
+<descuento>0.60</descuento>
+<precioTotalSinImpuesto>2.39</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="Medida" valor="UN"/>
+<detAdicional nombre="Centro Logistico" valor="29"/>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>2.39</baseImponible>
+<valor>0.36</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Tipo Contribuyente">Gran Contribuyente, no aplica retencion en la fuente Impuesto a la Renta Resolucion NAC-GCFOIOC21-00000889-E</campoAdicional>
+<campoAdicional nombre="Lugar Venta">CORAL ALBORADA</campoAdicional>
+<campoAdicional nombre="ICE FUNDA EXCENTO">Resolucion Nro. MPCEIP-SCIT-2020-0041-R</campoAdicional>
+<campoAdicional nombre="Codigo">9999999</campoAdicional>
+<campoAdicional nombre="Deducible Alimentacion">7.31</campoAdicional>
+<campoAdicional nombre="Deducible Educacion">1.60</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature407421" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo631525">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference URI="#Signature407421-SignedProperties450880" Id="SignedPropertiesID557068" Type="http://uri.etsi.org/01903#SignedProperties">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ZgJHeh37rc2ooR1caZTrXda0MCs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1931808">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>sJJJ9YPjdS9PNv254PGZk3auq0s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#comprobante" Id="Reference-ID-865151">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yhbuy0FIRQ1xfxWYep8n8TwMH74=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue988205">
+yOIsdOBQ2Dnd0LGiki2vkjpTZt3vKwPb6lV0PpKoKgfoOPAe6acOfpPlyhhXh22zANusEC5Qwl/f
+f9Fk+GNA8gBH08zLU8gO+WJIXfHOjB2dav7pn6+NsM9+D/erZg+Spzg7nELjRAKunT0eJQB+dogo
+OU1y9KrcwbYSpP6mwnOb6+6uYrzl8TyVL5HR/cOHefhYuq5V3kuGoPyexKR3OEZ2oqEaj2IzSbdf
++caHTF/87W5JY1/Iz4ycMA+UrgIXycaUF8Mht4zBuPypjIO6akgz2YPwaAR0bV5/dpbnARMA0sgw
+bO4wgylwtpA8Mr6echxMc256Mo0E64yUCFL1ng==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1931808">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK0TCCCLmgAwIBAgIIT+5gpJcyO/swDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMjI0MjIyNjA5WhcNMjcxMjI0MjIyNjA5WjCB
+qDEmMCQGA1UEAwwdSFVHTyBBTkRSRVMgUVVFWkFEQSBJWlFVSUVSRE8xIDAeBgNVBAUTFzAxMDQ3
+MTQwMTktMjQxMjI1MTczNjAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM7IBuEyytdoBhh5Z+QUMCatDOfwwePTUKeX
+khWZktuAdg0U3bPPkIZb2CsyCRWoMBL16d2EMM7mNhXdVKSHVWCOnM5e5gt9swablZpa2C+DCkY+
++ncZoYLLfmADLWfvVWeyiGlYpgZ85XuijuLXP+J06Kh3D7Rr3Ww/d/N9//TibiYnNGhQhU7tr4EE
+Q78lPv1ZsWcCztNX6heGWwQ+/XdI3CL9I8GUutH2tviJHKf8EE4ol9vv2bZRO8NJozJYfth7IoNm
+s1Aw9FHSUo/NpLfJWzvinXvIhJs+RmttmSG+nX/wrWr8byy4Nx4PXBgc+0C4dymWHrKmag+rjnXB
+E1UCAwEAAaOCBgowggYGMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+N
+rmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCYGA1UdEQQfMB2BG2dlcmFy
+b3J0aXpAZ2VyYXJkb29ydGl6LmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBS
+BggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMA
+ZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEW
+gYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05v
+cm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJl
+c2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1Ud
+HwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJj
+cmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNV
+BAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIv
+Y3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vl
+cj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQzAdBgNVHQ4EFgQUTTQBQJhD+fLYNHLRztWwh67j0KUwKwYDVR0QBCQwIoAPMjAy
+NTEyMjQyMjI2MDlagQ8yMDI3MTIyNDIyMjYwOVowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwUE
+DAwKUFJFU0lERU5URTAaBgorBgEEAYKmcgMBBAwMCjAxMDQ3MTQwMTkwFgYKKwYBBAGCpnIDCQQI
+DAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMC0GCisGAQQBgqZyAwcEHwwdQVYgQ0FSTE9TIEpV
+TElPIEFST1NFTUVOQSBTIE4wGwYKKwYBBAGCpnIDAgQNDAtIVUdPIEFORFJFUzAfBgorBgEEAYKm
+cgMgBBEMDzY2NjY2NjY2NjY2NjY2NjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMM
+BAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdRVUVaQURBMC4GCisGAQQBgqZyAwoEIAweR0VS
+QVJETyBPUlRJWiBFIEhJSk9TIENJQSBMVERBMB0GCisGAQQBgqZyAwsEDwwNMDE5MDA3MjAwMjAw
+MTARBgorBgEEAYKmcgMdBAMMAS4wGQYKKwYBBAGCpnIDBAQLDAlJWlFVSUVSRE8wGgYKKwYBBAGC
+pnIDCAQMDAowOTY3MzcxNzAyMA0GCSqGSIb3DQEBCwUAA4ICAQAZHJkkPcgD9avISssT2+jpBk27
+SEA3k9PDYhek0Gdqu26UiacEulM6CssUg6o2wIirqmQktI5lfeoCKzBptNL+0nb8oCfqahPJxUsY
+LYTUOPcchbXSX4CrntlDjlet7BAR48NYJPOKqu8J8Z+Cj/4c2yhgkXZHd8xVHu/qZbacynSijKuB
+yuWGsQ4NQ8HSozKAugjuh4M5sRiQDK/roV1lsPu3NxoLgX30kFWdZEWFHEADt8Fd85ufoe3GBx3+
+mHg4oJeI6bj4jdejkJXJvavi/doKPIsxBsHJD9BGzJRIS+qd8IZrx6yUo3oh2jDFp400orvRQOaK
+kefIGZhf9xMpNBOGLPs0smdQLV+sy13+aUg7o250e4HlkHbJ8fA++O3xmYrbwnOyF8pVqlhE88Bh
+aXGg1tgMgCZY3uJXWFo+LccCvDc1GavJr6H18dQIf72DH/xVMq/cA/BBEs8VtCdq/0YjXoTGFtUJ
+p5zsSo70JaKalXFGP1WiVuBmYBqxSuvSVgcez23cTyQNPNXjJMj1YX4QGmuVat72RcuNTOtjiyPJ
+X9Ds4G0qVqky39ZrrZ2RT1PdzQKld9qJ8da3MRpHJuVlEbnq0Ank3uzGugr11pXLjYUXc0tqQZI9
+TZJabpJQK3g0iVG5puyFMwJfoKGkzt0vEYNhNO3q6CwDJuj9lw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zsgG4TLK12gGGHln5BQwJq0M5/DB49NQp5eSFZmS24B2DRTds8+QhlvYKzIJFagwEvXp3YQwzuY2
+Fd1UpIdVYI6czl7mC32zBpuVmlrYL4MKRj76dxmhgst+YAMtZ+9VZ7KIaVimBnzle6KO4tc/4nTo
+qHcPtGvdbD93833/9OJuJic0aFCFTu2vgQRDvyU+/VmxZwLO01fqF4ZbBD79d0jcIv0jwZS60fa2
++Ikcp/wQTiiX2+/ZtlE7w0mjMlh+2Hsig2azUDD0UdJSj82kt8lbO+Kde8iEmz5Ga22ZIb6df/Ct
+avxvLLg3Hg9cGBz7QLh3KZYesqZqD6uOdcETVQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature407421-Object559549"><etsi:QualifyingProperties Target="#Signature407421"><etsi:SignedProperties Id="Signature407421-SignedProperties450880"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-13T20:50:08-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>5GHD3haE6AdwVZL/hTET+lTa+ok=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>5759647233480997883</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-865151"><etsi:Description>Contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

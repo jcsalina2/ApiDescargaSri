@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2204202601179237925300120091050000302081234567818</numeroAutorizacion>
+<fechaAutorizacion>2026-04-22T19:31:39-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ACTIVE FUN DIVERSION S.A.</razonSocial>
+        <nombreComercial>MR JOY</nombreComercial>
+        <ruc>1792379253001</ruc>
+        <claveAcceso>2204202601179237925300120091050000302081234567818</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>009</estab>
+        <ptoEmi>105</ptoEmi>
+        <secuencial>000030208</secuencial>
+        <dirMatriz>PICHINCHA / QUITO / JIPIJAPA / REPUBLICA DEL SALVADOR N 34-107 Y SUIZA</dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>22/04/2026</fechaEmision>
+        <dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / AV. JOAQUIN ORRANTIA GONZALEZ Y JUAN TANCA MARENGO</dirEstablecimiento>
+        <contribuyenteEspecial>1322</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>EDWIN ABRIL </razonSocialComprador>
+        <identificacionComprador>0920991338</identificacionComprador>
+        <direccionComprador>Guayaquil</direccionComprador>
+        <totalSinImpuestos>36.74</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>36.73</baseImponible>
+                <tarifa>15.00</tarifa>
+                <valor>5.52</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>42.25</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>42.25</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>CLUBMRJOYAFILIACION</codigoPrincipal>
+            <codigoAuxiliar>CLUBMRJOYAFILIACION</codigoAuxiliar>
+            <descripcion>AFILIACIÓN CLUB MR. JOY</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>1.3000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1.30</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1.30</baseImponible>
+                    <valor>0.20</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>CLB008</codigoPrincipal>
+            <codigoAuxiliar>CLB008</codigoAuxiliar>
+            <descripcion>30 MIN EXTRA JOY STAR CLUB MR. JOY</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>7.3900</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>7.39</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>7.39</baseImponible>
+                    <valor>1.11</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>CLB010</codigoPrincipal>
+            <codigoAuxiliar>CLB010</codigoAuxiliar>
+            <descripcion>30 MIN EXTRA JOY PLANET PREMIUM CLUB MR. JOY</descripcion>
+            <cantidad>3.00</cantidad>
+            <precioUnitario>9.1300</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>27.39</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>27.39</baseImponible>
+                    <valor>4.11</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>4X5ENTRADACLUBMRJOY</codigoPrincipal>
+            <codigoAuxiliar>4X5ENTRADACLUBMRJOY</codigoAuxiliar>
+            <descripcion>4X5 ENTRADA CLUB MR JOY</descripcion>
+            <cantidad>1.00</cantidad>
+            <precioUnitario>0.0000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>0.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>SEG003</codigoPrincipal>
+            <codigoAuxiliar>SEG003</codigoAuxiliar>
+            <descripcion>SEGURO</descripcion>
+            <cantidad>5.00</cantidad>
+            <precioUnitario>0.1300</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.65</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>0.65</baseImponible>
+                    <valor>0.10</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">raul-one85@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Pago">SIN UTILIZACION DEL SISTEMA FINANCIERO</campoAdicional>
+        <campoAdicional nombre="Total">42.25</campoAdicional>
+    </infoAdicional>
+<ds:Signature Id="Signature899288" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo397090">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID381933" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature899288-SignedProperties182819">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>GohWuU+zIeJFoMpNElr//d7Iat0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1519164">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>20H+RnSnRdS+4NTnJqPJz0w2wQU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-770214" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7rZyV/ZFW8NqW+ixmuFy8O8CQfc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue357806">
+RCLzeEq/lvmC0yJ9+1x3QORXqV5p9OwfjtwYCFrcoCnTdTGZLKuTj+/qQ0lW4ESoTABLDFreY7w5
+sKTSKM52asZcexrxeEqrljfTbW+jYxz8YsBzHd9RPfKOYtwGXGpmKF1UK3ULSnDsTQGZomkPf5Y/
+ixeT/cK1GwR94/X+6MYYoc/dq+RcNnqV1vrD4PgSYCKJx0XD+tUp33PUrQlffXjSOXWmiCI8jovc
+u6+XpcvV0YwgDVqSIsFRMx32fEeu/JcnlZbJZET79bpxuiOXDYBQUCltCP57R092NDH285iLrSBr
+wIfRBphCMgwSP7p0wfmXurRFKyDL2Q9YhlGP/A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1519164">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMLjCCChagAwIBAgIEcU7yjzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMDgxNjM4NTFaFw0yNjExMDgxNjM4NTFaMIGnMSUw
+IwYDVQQDDBxST0JFUlRITyBBTkRSRVMgVklURVJJIFRFUkFOMSAwHgYDVQQFExcxMDAxNjY1ODA5
+LTA4MTEyNDExNDg0NjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCN0mC2Oh7FrrXSMwMg9MuWwRBSJAob0wdrYPn1626C
+fxBQZiUx+cE+q4+3Uni3rhMegnfnNxLsRK8tz4zk7vtNl5Uj1miAqVEU0YeMLzF5wRzlWsBiRT03
+nlcP3iRvDG1WCIjUS1tWlBKGTjARLG8Dmn7YJsKsVddjTWY8y12TBZThggPyyMCdevqQEU0vp8Gl
+fnX1HOMs/KHWmt5QKse5hsn7r0jvy7gt3PDu0d2Dcpw/CMRpjUbtJkgn3DOIOcNdYwUhavnIsAoM
+yxKQp11JDnd1cgPm625GiUk0D/JMnm0MsNyIhxsVNtxeaP2P7BD35WLXvpKxDyB5i8bcXU4JAgMB
+AAGjggdsMIIHaDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7
+hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2
+b2NhdGlvbkxpc3Q/YmFzZTAkBgNVHREEHTAbgRlydml0ZXJpdGVyYW5AeWFob28uY29tLm14MIIB
+EgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkA
+ZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCB
+oAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEu
+bmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3Mv
+UG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKiBgNVHR8E
+ggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9w
+dWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEL
+MAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9V
+PUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEg
+Uy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0
+cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2Vi
+L3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFEK7DW49
+4V67F3wktaLvJKbx2/uKMCsGA1UdEAQkMCKADzIwMjQxMTA4MTYzODUxWoEPMjAyNjExMDgxNjM4
+NTFaMAsGA1UdDwQEAwIF4DAgBgorBgEEAYKmcgMFBBIMEENPTlRBRE9SIEdFTkVSQUwwGgYKKwYB
+BAGCpnIDAQQMDAoxMDAxNjY1ODA5MBgGCisGAQQBgqZyAwkECgwISklQSUpBUEEwEQYKKwYBBAGC
+pnIDIgQDDAEuMDoGCisGAQQBgqZyAwcELAwqR0FTUEFSIERFIFZJTExBUlJPRUwgTiA0MCBZIDYg
+REUgRElDSUVNQlJFMB8GCisGAQQBgqZyAwIEEQwPUk9CRVJUSE8gQU5EUkVTMB8GCisGAQQBgqZy
+AyAEEQwPMDAyMDAxMDAwODk0NjkxMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwE
+CQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBlZJVEVSSTARBgorBgEEAYKmcgMeBAMMAS4wKAYK
+KwYBBAGCpnIDCgQaDBhBQ1RJVkUgRlVOIERJVkVSU0lPTiBTIEEwHQYKKwYBBAGCpnIDCwQPDA0x
+NzkyMzc5MjUzMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAVBgorBgEEAYKmcgMEBAcMBVRFUkFOMBoG
+CisGAQQBgqZyAwgEDAwKMDk5MTYzMDgxMjANBgkqhkiG9w0BAQsFAAOCAgEAkDz+kPaquVbSxk1g
+dxY0XQsXL8iio9vVxzHfHc7bcBtwibfA2qGMCzWYPh+DBfuCWLrZ1ZoSemoVNFLJfEagOGA9Mjfb
+Lnj/1u8B5pIFcUuYcF1WIavrANsBVT9/lHlkwuoUFHsg0/Z33IH/AiHTKcBz2I2hlOgZxkLScO6L
+nPsPerAB/2zmyRCeu7mTu/SeoEboPH9vP61hCwmGJ86bdIqHRe+Ebjlj+xAgEmKKLkAVcqHc0JxY
+HdwU/rK2wiey3a0QaxtKlxeNrruTT6G8OnCWIMlYnvOLAOqXSHF6qu37C5p57nmBxslRh8da6Geb
+kaWE/CoE66ZTwzAd2ag1V5E7LEtK/YZJPckLT6/HsMNLHQUqkw/1wzZBn36cB414ve8t64YpD+M9
+PhZO+koFr0Zmt+PpFH+/+bPeU6HyRL6DgzJ5p83c8uewYsfqBqToDucxQ8M1S1kL+5m6s7PJlL9o
+yubi4ywhSt7tJV1El5hxlRTVGsRCKKRKUSwXTC/r2XSszYaV+iQ1nnJLwhYISP1BAR92lx6MYGSp
+qud2arAYq737l2LC/Sv327NU6YSTW0jxqeJkWbE2nnJP4P3oDvDEcOTxu5OrJ592C2+DyFD18kjI
+O9OPUj2v14XqyGhNulcnp8nuLCyj7QhdUFUFVrxRRw/f+sEs2lkyhe5XlX8=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+jdJgtjoexa610jMDIPTLlsEQUiQKG9MHa2D59etugn8QUGYlMfnBPquPt1J4t64THoJ35zcS7ESv
+Lc+M5O77TZeVI9ZogKlRFNGHjC8xecEc5VrAYkU9N55XD94kbwxtVgiI1EtbVpQShk4wESxvA5p+
+2CbCrFXXY01mPMtdkwWU4YID8sjAnXr6kBFNL6fBpX519RzjLPyh1preUCrHuYbJ+69I78u4Ldzw
+7tHdg3KcPwjEaY1G7SZIJ9wziDnDXWMFIWr5yLAKDMsSkKddSQ53dXID5utuRolJNA/yTJ5tDLDc
+iIcbFTbcXmj9j+wQ9+Vi176SsQ8geYvG3F1OCQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature899288-Object364974"><etsi:QualifyingProperties Target="#Signature899288"><etsi:SignedProperties Id="Signature899288-SignedProperties182819"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-22T19:31:38-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>DcP/Sfy/9bQjSwl5o79lnF+AgHw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1900999311</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-770214"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

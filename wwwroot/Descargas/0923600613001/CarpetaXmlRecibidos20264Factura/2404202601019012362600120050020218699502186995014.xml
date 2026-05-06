@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2404202601019012362600120050020218699502186995014</numeroAutorizacion>
+<fechaAutorizacion>2026-04-24T23:20:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+  <factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ASEGURADORA DEL SUR C. A.</razonSocial>
+    <nombreComercial>ASEGURADORA DEL SUR C. A.</nombreComercial>
+    <ruc>0190123626001</ruc>
+    <claveAcceso>2404202601019012362600120050020218699502186995014</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>005</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>021869950</secuencial>
+    <dirMatriz>AV. DE LOS NARANJOS N44-463 Y AZUCENAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/04/2026</fechaEmision>
+    <dirEstablecimiento>FEDERICO PROANO 365 Y HONORATO DE LOYOLA | 072819721</dirEstablecimiento>
+    <contribuyenteEspecial>6925</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>VINTIMILLA SALTOS MARIELA JACQUELINE</razonSocialComprador>
+    <identificacionComprador>0923600613</identificacionComprador>
+    <totalSinImpuestos>.89</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>.89</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>.89</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>.89</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <descripcion>PRIMA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>.44</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>.44</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>.44</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2</codigoPrincipal>
+      <descripcion>SCVS</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>.02</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>.02</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>.02</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>3</codigoPrincipal>
+      <descripcion>DERECHOS EMISION</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>5</codigoPrincipal>
+      <descripcion>OTROS INGRESOS SIN IVA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>.43</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>.43</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>.43</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>4</codigoPrincipal>
+      <descripcion>S. SOCIAL CAMPESINO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="GRAN CONTRIBUYENTE">RESOLUCION N° NAC-GCFOIOC21-00001253-E</campoAdicional>
+    <campoAdicional nombre="SUCURSAL">CUENCA, ABRIL 24/2026</campoAdicional>
+    <campoAdicional nombre="DIRECCIONASEGURADO">CUENCA,|TELF:999-999999</campoAdicional>
+    <campoAdicional nombre="RP">32159565</campoAdicional>
+    <campoAdicional nombre="DESDE">28/02/2026</campoAdicional>
+    <campoAdicional nombre="HASTA">31/03/2026</campoAdicional>
+    <campoAdicional nombre="AGENTE">PAZMINO JATIVA AGENCIA ASESORA PRODUCTORA DE SEGUROS CIA.LTD</campoAdicional>
+    <campoAdicional nombre="VALOR ASEGURADO">1319.04</campoAdicional>
+    <campoAdicional nombre="RAMO">VIDA COLECTIVO</campoAdicional>
+    <campoAdicional nombre="CLASE">EMISIÓN/ALTAS</campoAdicional>
+    <campoAdicional nombre="NUMERO">5289590</campoAdicional>
+    <campoAdicional nombre="POLIZA">1162743</campoAdicional>
+    <campoAdicional nombre="COD_INSTITUCION_APS">6460</campoAdicional>
+    <campoAdicional nombre="CORREOELECTRONICO">retenciones@asur.ec</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-bbca6342-9471-4cc4-a58a-fc27386693a9"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-dd36b823-ca3a-40a5-a08b-52768b751ea2" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>HrhE3F8NCIWYeCd4OGUE+bbL2xvXkxXwkfJa5lRw7y0=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-bbca6342-9471-4cc4-a58a-fc27386693a9"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>xkpgBctZnBATZDNqEJ2akrdq4Hkap0RR002VBnDmfiA=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-bbca6342-9471-4cc4-a58a-fc27386693a9"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>X8d/vNKEbk2m3xWIMHFIXlEOdoGrSnrLYLBL0hrLLyg=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-bbca6342-9471-4cc4-a58a-fc27386693a9">WWUkDo4MdhHNB5Z9t83rlydGbzTYYZUHjRV5uXCx/DyhmTqj5wkuQPeaJ/twMgeXpw+YP0oWJzKWVSfPoiQj4OnGlqAkqFufSP7RopXVq8aKXfb8UA5vEUyQBoz/2EJu3YHr2Vl5ZudhuGlTu4004oLCy0LKGNFdVtgjjrhdBfX0aVqeoKkgDm8/DxMdBuYEux0AIdx9qzH3Q1S0rDAnWe1QFW8M5v5+aWiqWL5K+lbUayxEiLeOKhuZMI6TfN8y0XbxH/iZdoLwl7OoQOHkChysPfAqCl2PetTJ9e9Ao06WMU0M5SKBnXiMmOoOFSQvILKe3tSsq3abBrgtVg3ojQ==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-bbca6342-9471-4cc4-a58a-fc27386693a9"><ds:X509Data><ds:X509Certificate>MIIMDjCCCfagAwIBAgIEAL56kTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA5MDYxNTU0MDZaFw0yNjA5MDYxNTU0MDZaMIGYMSEwHwYDVQQDDBhST0RSSUdPIENFVkFMTE9TIEdVRVZBUkExFTATBgNVBAUTDDA2MDkyMjExMDM1MjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCuzfEIAyXOfoTmI5/NLNTKELHloaSsyGjctD8B67d8X0AdM1ANKQEvNcwJsU8uPbTGX1DQi3bwcMowR00y0+HeJ9qNxeDfjDuBqeda7vQpq/D3QT266hwG9cVGaanUmcw6KgvWyTFcIeuEQ5RihtqMyPoJZ9SCLANyjB0diQRdDi2Vi3KwDniH3S8B8Ny28TtZMK746Y7qq9M0wB6fTjW2yGNqkc3D2vSofMkrS5CYCPa+yDCqPTCNcTiulkiHzN02QwTGHXHn39ln6LS0OyZ4XPtX7Xf/pKo2YE7s/QKbThWLtGUXFs0ubSH9K9Mmo/P19JSpUP6dJFJ3a1KkAam1AgMBAAGjggdbMIIHVzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTAnBgNVHREEIDAegRx2YW5lc3NhLnJlc3RyZXBvQGNpdHl0ZWNoLmVjMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFIjLoB3XJw3t0L2O6k5ZX9pg55NCMCsGA1UdEAQkMCKADzIwMjIwOTA2MTU1NDA2WoEPMjAyNjA5MDYxNTU0MDZaMAsGA1UdDwQEAwIF4DAoBgorBgEEAYKmcgMFBBoMGFZJQ0VQUkVTSURFTlRFIEVKRUNVVElWTzAaBgorBgEEAYKmcgMBBAwMCjE3MDgyMjU2MjYwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4wNgYKKwYBBAGCpnIDBwQoDCZBVi4gREUgTE9TIE5BUkFOSk9TIE40NC00NjMgWSBBWlVDRU5BUzAXBgorBgEEAYKmcgMCBAkMB1JPRFJJR08wHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDAwODU2NDIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwIQ0VWQUxMT1MwKQYKKwYBBAGCpnIDCgQbDBlBU0VHVVJBRE9SQSBERUwgU1VSIEMuIEEuMB0GCisGAQQBgqZyAwsEDwwNMDE5MDEyMzYyNjAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBcGCisGAQQBgqZyAwQECQwHR1VFVkFSQTAaBgorBgEEAYKmcgMIBAwMCjA5OTM0NTM2MzcwDQYJKoZIhvcNAQELBQADggIBALGS2IkoIPIR/LY7sDn75z5QWpZJBEtjRqreKwO1lux30/gIcX3EU9dlEwDlPBaCipD4PhpPppnUgeAuuOwYbxvKei2QstNEOLbU2LB/wFpMSpyjsS0TmIGsnWCeDivLDbRwOSFg+2Sdo351PGByzuimJtCTwNIvXnf0sfnBlqhzdE8LfT8AX2VsfEo2bfzfAJvDtP/bT4pYmNxHlBjHmDc3vqyOB9mck+0cS0lBZ6Kwto5x5FVsUusNhqTk5M1CbOtHZoORHHoXwq4wcUxinC8NA5G31cs7i5pYlufef/zfru1j8YJfdd9uUi+MibrF1d+Emit5xYGemfusD2G9jZTGkxbEvW3mCJhVrNkPdFFME4VKhxGALXpTO0+oPX6PW9jib8sW88yUdfSiZBb7IrE8Y3gACtY+B6wuY1r/qKjvLCLWHduBF8hzzaDLDHKSogrD2gb3ylGaHiTNI7zihUEOcrLTCMVHzQ0YajkEcU0PlM938p4EmtbQ5rBFn4+fB2byvXaL6k+P/gIz0xvyY2tpRnPLwBxuCguj+0LUtXORaonPzn2qBCf5Un2t64HhPCqPslMCodBDl/HQ4nvhmrFXkhw/c3aPeRunCfRSSlADxlmg9Ekw5zGWNEathuI/XWKm/Fm+8Os5QKK1cTtYCcpd1v4bstNBnHRYne59EtzO</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>rs3xCAMlzn6E5iOfzSzUyhCx5aGkrMho3LQ/Aeu3fF9AHTNQDSkBLzXMCbFPLj20xl9Q0It28HDKMEdNMtPh3ifajcXg34w7gannWu70Kavw90E9uuocBvXFRmmp1JnMOioL1skxXCHrhEOUYobajMj6CWfUgiwDcowdHYkEXQ4tlYtysA54h90vAfDctvE7WTCu+OmO6qvTNMAen041tshjapHNw9r0qHzJK0uQmAj2vsgwqj0wjXE4rpZIh8zdNkMExh1x59/ZZ+i0tDsmeFz7V+13/6SqNmBO7P0Cm04Vi7RlFxbNLm0h/SvTJqPz9fSUqVD+nSRSd2tSpAGptQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-fbb8ffbe-cbaf-4095-9ca0-102476f5a9e2"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-253c44f8-8f8d-4e55-8870-2b4d0b0c0147" Target="#Signature-bbca6342-9471-4cc4-a58a-fc27386693a9"><xades:SignedProperties Id="SignedProperties-Signature-bbca6342-9471-4cc4-a58a-fc27386693a9"><xades:SignedSignatureProperties><xades:SigningTime>2026-04-24T20:07:59-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>Ioe+2I9lDTcCDKxMYRs7QfqC2GS0mJyIt8DTYydy08g=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>12483217</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-dd36b823-ca3a-40a5-a08b-52768b751ea2"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

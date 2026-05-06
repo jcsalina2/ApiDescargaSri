@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2504202601099327993500120040010000739640007658419</numeroAutorizacion>
+<fechaAutorizacion>2026-04-25T19:41:16-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>ANPECORP S.A.S.</razonSocial>
+	    <nombreComercial>ANPECORP S.A.S.</nombreComercial>
+	    <ruc>0993279935001</ruc>
+	    <claveAcceso>2504202601099327993500120040010000739640007658419</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>004</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000073964</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / AV. PRINCIPAL S/N</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>25/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / AV. PRINCIPAL S/N</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>MIGUEL ANGEL JARA ITURRALDE</razonSocialComprador>
+	    <identificacionComprador>0923295786001</identificacionComprador>
+		<direccionComprador>GOLONDRINAS 1-90 Y GORRIONES</direccionComprador>
+	    
+	    <totalSinImpuestos>39.56000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>39.56</baseImponible>
+				<valor>5.93000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>3.96000</propina>
+	    <importeTotal>49.45000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>49.45</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>BEBS001</codigoPrincipal>
+		<codigoAuxiliar>BEBS001</codigoAuxiliar>
+      	<descripcion>Agua mineral vidrio retornable 300ml</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.200000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.20</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.20000</baseImponible>
+          <valor>0.33</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>VEN480</codigoPrincipal>
+		<codigoAuxiliar>VEN480</codigoAuxiliar>
+      	<descripcion>CEVICHE DE PESCADO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.320000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.32</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>8.32000</baseImponible>
+          <valor>1.25</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>BEBS100</codigoPrincipal>
+		<codigoAuxiliar>BEBS100</codigoAuxiliar>
+      	<descripcion>Coca Cola Zero botella vidrio</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>2.080000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.16</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.16000</baseImponible>
+          <valor>0.62</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>VEN6617</codigoPrincipal>
+		<codigoAuxiliar>VEN6617</codigoAuxiliar>
+      	<descripcion>COPA SANGRIA TINTA PROM</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.440000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.44</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.44000</baseImponible>
+          <valor>0.52</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>VEN691</codigoPrincipal>
+		<codigoAuxiliar>VEN691</codigoAuxiliar>
+      	<descripcion>Llapingacho de la abuela</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>11.120000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>11.12</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>11.12000</baseImponible>
+          <valor>1.67</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>VEN629</codigoPrincipal>
+		<codigoAuxiliar>VEN629</codigoAuxiliar>
+      	<descripcion>Locro de pescado</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>10.320000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.32</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>10.32000</baseImponible>
+          <valor>1.55</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA PUNTO DE VENTA</campoAdicional>
+    		
+    			<campoAdicional nombre="MESA">ALTA 46</campoAdicional>
+    		
+    			<campoAdicional nombre="MESERO">DARWIN</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature767500">
+<ds:SignedInfo Id="Signature-SignedInfo540342">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID392628" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature767500-SignedProperties892313">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uhdyhkjQgoXONqeNfAQuIg5UIMs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate122439">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>0qNNyoF4njcdAl0AVt9UXlGVnfA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-145074" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>m5j8IowgHwCVs1lD3AtTaQNWnew=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue642488">
+VsFiiCDnVj9KmG2cxjyuHGVZx6AbXLu8An1OZdUdidNMHnmqWR8h3l/FGYFb+nWn50VvjaMEfCRU
+uzVpf4lw4204x7iswmykrQPr7WyTAyEH5nKJBeOEEZqTD5yyZRU46FEzSb/mRVbjtfdE+/yKH4DT
+dRCRaEC6mPYvOuNAJMG4jsz1PkMd9XeUaaxVs4Xl6/d7Wf3+Xx1qxQTpFiiEnYypJ8dOxd9i0Wi5
+rY2B8nvud3VhZqrKxmSJ0/XdkyNNzyIF3I39ew5gd7uZ8dYO9TgjdaqhTG9JyD9riAhtl0fXMXAD
+WvZH2oYY3CNGvBNk06n6ot5/PDwFCCOfDwIX2w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate122439">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL/zCCCeegAwIBAgIEezA3cTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA2MjUyMDMwNTRaFw0yODA2MjUyMDMwNTRaMIGpMScw
+JQYDVQQDDB5IRVJOQU4gUEFUUklDSU8gQU5EUkFERSBKQUNPTUUxIDAeBgNVBAUTFzA5MDk2NDI1
+MDYtMjUwNjI0MTU0MDQxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALKE+z54rhmH8UzmrlXbWhnSGswuc9ERd3faFJQD
+QACfenm3+6AzFnFXjUad3bBrnAkrtw+ggUoUBC/NTzt3Ux74vKyj9rTAQteh1LqxVPpvFeRvsKYW
+qgAb1xZag9COob2J0+w8QEttmsY/NUMRB4eIP17MpFMRvSnUukV12GODmcBQG2N07MvksZd3zUOM
+yxWGv8OmMlU2mSJXNl4DtgOKyJqLIQwhauHC1uKejG4K6W4hRngG5SKOTLZKmAYaupHGsY1ipA6G
+hyQufD8Vm55BTMW/X3b+iLMOs5dtH8TM6y9ljiJz7x8svTj7TX6RhSa1GevkflTWjRUPRjt8nc0C
+AwEAAaOCBzswggc3MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMCMGA1UdEQQcMBqBGGdsb2F5emFAY2hvcGNob3BzLmNvbS5lYzCC
+ARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABp
+AGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEA
+bDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRh
+dGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fk
+b3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYD
+VR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEu
+IDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEu
+bmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBE
+QVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB
+12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBTb
+K2fjl7LvmNUZ5nQ8UsXUAcjrOTArBgNVHRAEJDAigA8yMDI0MDYyNTIwMzA1NFqBDzIwMjgwNjI1
+MjAzMDU0WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYK
+KwYBBAGCpnIDAQQMDAowOTA5NjQyNTA2MBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEGCisGAQQB
+gqZyAyIEAwwBLjAlBgorBgEEAYKmcgMHBBcMFUFWIFBSSU5DSVBBTCBTIE4gWSBTTjAfBgorBgEE
+AYKmcgMCBBEMD0hFUk5BTiBQQVRSSUNJTzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDYwMzE4
+MTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYBBAGC
+pnIDAwQJDAdBTkRSQURFMB4GCisGAQQBgqZyAwoEEAwOQU5QRUNPUlAgUyBBIFMwHQYKKwYBBAGC
+pnIDCwQPDA0wOTkzMjc5OTM1MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgM
+BkpBQ09NRTAaBgorBgEEAYKmcgMIBAwMCjA5ODE0OTYwNDIwDQYJKoZIhvcNAQELBQADggIBACLj
+9ioOvl1qaQ5ry+GVMb+d3m3QzyGjcJ8MO5YtwgqHyEG/UiqwijoEJAm8S3LRebcuIAl6Bz8pPKN+
+9G55sbSB+raEJfyPJzu5avrnImNLQrANmCp6FveV9NhuAktWz6KA3ka4dOvvknPh2vHh9bYg/Sxl
+bL5O4/8W9cjf0VaLqcHUWSwookYjXK/Ve4rQ9jrwrE/uSOeTBgy8IcN6zh50A9Pw6QhGRMugmR5Z
+2xI/PHlxM9L7zMXFbXPSZ7gcWI+NLbRy7ttUHVeR6kcRTBjNodkwHWUE5mGYc+X8aA6mpIooVWXn
+ZnKepr3TnvpbFvG6SjqD1IUYKBZnx/2tETwNohH1nbYNtQ3OQIiaarDdtW2CkjIvqteKWwv+9uXW
+UCYtbCnCgDyE4yNX8pPJr/2OIJSDVbxkUT7riCVsmadoQiO8t3ZgUWPkZRU9QL96mP7cWOouAY6G
+ClsXfHzjD9RmQ0AWT48T6f1KskhJ4LNSHSBymqwquOoMqbZh8M5mqCuu/fDq6wZ6SiQykBGwc1OQ
+fiSBUvUOng9VlVSL3oK7qeI/JAU0ro6+ORI4ZRemRDpO0JxwUgiONCBdqDr8gaLzPoKAzXyTUy4d
+nQJvqHTdKWuUUfTWpHkFsc8XYX5/jtdWHWPVFwEF8sOnMQZJQtkbAkZmifMHENE/0SXqYdkl
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+soT7PniuGYfxTOauVdtaGdIazC5z0RF3d9oUlANAAJ96ebf7oDMWcVeNRp3dsGucCSu3D6CBShQE
+L81PO3dTHvi8rKP2tMBC16HUurFU+m8V5G+wphaqABvXFlqD0I6hvYnT7DxAS22axj81QxEHh4g/
+XsykUxG9KdS6RXXYY4OZwFAbY3Tsy+Sxl3fNQ4zLFYa/w6YyVTaZIlc2XgO2A4rImoshDCFq4cLW
+4p6MbgrpbiFGeAblIo5MtkqYBhq6kcaxjWKkDoaHJC58PxWbnkFMxb9fdv6Isw6zl20fxMzrL2WO
+InPvHyy9OPtNfpGFJrUZ6+R+VNaNFQ9GO3ydzQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature767500-Object628976"><etsi:QualifyingProperties Target="#Signature767500"><etsi:SignedProperties Id="Signature767500-SignedProperties892313"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-25T19:41:13-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>xMNWNxqnEJNFXp+OSi8hWwCj3Ps=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>2066757489</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0904202601099297487700120080040000169430128868913</numeroAutorizacion>
+<fechaAutorizacion>2026-04-09T13:12:55-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>COMERCIALIZADORA DE HUMITAS LA FORTALEZA LAFORTA S A</razonSocial><nombreComercial>LAFORTA S A</nombreComercial><ruc>0992974877001</ruc><claveAcceso>0904202601099297487700120080040000169430128868913</claveAcceso><codDoc>01</codDoc><estab>008</estab><ptoEmi>004</ptoEmi><secuencial>000016943</secuencial><dirMatriz>AVE  17 DE SEPTIEMBRE S N Y AMBATO </dirMatriz><agenteRetencion>3</agenteRetencion></infoTributaria><infoFactura><fechaEmision>09/04/2026</fechaEmision><dirEstablecimiento>SAUCES 6 MZ 1803 VILLA 4 - AV ISIDRO AYORA </dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ASTECNAVIND</razonSocialComprador><identificacionComprador>0993387909001</identificacionComprador><direccionComprador>  </direccionComprador><totalSinImpuestos>9.57</totalSinImpuestos><totalDescuento>0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>9.57</baseImponible><valor>1.44</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>11.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>11.00</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>14</codigoPrincipal><codigoAuxiliar>HUM</codigoAuxiliar><descripcion>HUMITAS</descripcion><cantidad>10.000000</cantidad><precioUnitario>0.869600</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>8.70</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="PRESENTACION" valor="UNIDAD"></detAdicional><detAdicional nombre="UM" valor="U"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>8.70</baseImponible><valor>1.30</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>79</codigoPrincipal><codigoAuxiliar>BCHO</codigoAuxiliar><descripcion>BOLOS DE CHOCOLATE</descripcion><cantidad>2.000000</cantidad><precioUnitario>0.217400</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>0.43</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="PRESENTACION" valor="UNIDAD"></detAdicional><detAdicional nombre="UM" valor="U"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.43</baseImponible><valor>0.07</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>81</codigoPrincipal><codigoAuxiliar>BCO</codigoAuxiliar><descripcion>BOLOS DE COCO</descripcion><cantidad>2.000000</cantidad><precioUnitario>0.217400</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>0.43</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="PRESENTACION" valor="UNIDAD"></detAdicional><detAdicional nombre="UM" valor="U"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>0.43</baseImponible><valor>0.07</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Direccion">  </campoAdicional><campoAdicional nombre="Email">contabilidad@astecnavind.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature369923">
+<ds:SignedInfo Id="Signature-SignedInfo879513">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID464402" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature369923-SignedProperties742237">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>qLK4X7erMJcuEJneti05r/OYEIs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1652119">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>3x5jBeRFTpLZEYD6kHH9kLY7BxY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-449878" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>SYCeJxsXs1WtdZ0r3scpMRtpUH8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue796646">
+zytG5rVR5Hu6i7uLJfvyRpipbbyr5VZE4u8CfPKswwOmk0+of2RmMS+kLu/5zMczzGFXsWees2L/
+sbfy3oqen32SeAeI65PBFUvx8iTBSEXX9lrcmx1CMNC+EcDhlAIeYj77wUn5lfC3sZ3/gKgQLavD
+ShRE5fzVFB1IfGYef6rwx8msZ2uFVI4vrPrRf57+Voi4AW5++WzEd5JcjkxtYHQuz8qeUmoxg1tS
+kTjWFNsAaNEqNJtEvGmpIGdn+XKGyDfd+L2Juyq5SSq4DmkRisCcls7lmmeH8lz0Xm2qKkdwYoWb
+NFsLmMcMNW6aJl9Zd17iAg3FughmfyNKtiuGsA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1652119">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILOTCCCSGgAwIBAgIMAzjbt+NIqXmRowzFMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjUwNzE3MjE1NTI2WhcNMjgwNzE2MjE1NTI2WjCCAdQxPTA7BgNVBAoMNENPTUVSQ0lB
+TElaQURPUkEgREUgSFVNSVRBUyBMQSBGT1JUQUxFWkEgTEFGT1JUQSBTLkExGjAYBgorBgEEAYKk
+QgoEDAowOTIxODcwNzg4MSgwJgYDVQQLDB9DZXJ0aWZpY2FkbyBQZXJzb25hIEp1cmlkaWNhIEVD
+MRcwFQYDVQQqDA5ORUxJQSBDUklTVElOQTEWMBQGA1UEYRMNMDk5Mjk3NDg3NzAwMTELMAkGA1UE
+BhMCRUMxEzARBgNVBAUTCjA5MjE4NzA3ODgxFTATBgNVBAQMDEFSSVpBR0EgTEFMQTEvMC0GA1UE
+AwwmMDkyMTg3MDc4OCBORUxJQSBDUklTVElOQSBBUklaQUdBIExBTEExGDAWBgNVBAwMD0dFUkVO
+VEUgR0VORVJBTDEpMCcGCSqGSIb3DQEJARYaY29udGFiaWxpZGFkQGxhZm9ydGFzYS5jb20xbTBr
+BgNVBA0MZFJlZy4gUHViLjpBQUEgSW5zY3JpcGNpw7NuOiAwMCwgVG9tbyBBQUEsIExpYnJvIDAs
+IEZvbGlvIDAsIEhvamEgMCBDYXJnbzpHRVJFTlRFIEdFTkVSQUwgTm90YXJpbzpBQUEwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDf4OC79kAmqwrnaE23rtRI/+PWenTBWoYNAsGw6Oxf
+Qo3r3iiapqvU2yqWQXKebgVm79Pym0ehM2z/71OYbCHDCGDzMoH4B9UINxaWD+rylXzfX91dl1aA
+PxVczei/aljX6ZsSIwGlgEubgJUuNJb3fIPFgFYRzqdjC7qJHZHP1sNQVDcahunUpkRbJCYFCk/R
+RpeNvoaJAsh5HtZ9WBNVZw53kNxwU7qEJMyPrsFgGA0/bjnChM0d84F1REd7+VEdSDyfuj3WF6h8
+1bqV/hyiGfsAwAW0VWEjYbsvuSIW6ktO+L1YAvOF6HBnoTgSAPtM4Db9u4KQxMrX/OQrOgyfAgMB
+AAGjggUhMIIFHTAfBgNVHSMEGDAWgBSSrtTLgrSZxtF7EWxl6sVNaCH5rDAdBgNVHQ4EFgQUyc2h
++NBWWuRQyibw7YxEmaF/zswwgbMGA1UdEQSBqzCBqIEaY29udGFiaWxpZGFkQGxhZm9ydGFzYS5j
+b22kgYkwgYYxHjAcBgorBgEEAYKkQgoBDA5ORUxJQSBDUklTVElOQTEXMBUGCisGAQQBgqRCCgIM
+B0FSSVpBR0ExFDASBgorBgEEAYKkQgoDDARMQUxBMRowGAYKKwYBBAGCpEIKBAwKMDkyMTg3MDc4
+ODEZMBcGCSsGAQQBgY8cAQwKQS0xNzA3MjAyNTAOBgNVHQ8BAf8EBAMCBsAwHQYDVR0lBBYwFAYI
+KwYBBQUHAwIGCCsGAQUFBwMEMFAGA1UdHwRJMEcwRaBDoEGGP2h0dHA6Ly9jcmwuYW5mLmVzL2Ny
+bC9BTkZIaWdoQXNzdXJhbmNlRWN1YWRvckludGVybWVkaWF0ZUNBLmNybDCCAQ0GA1UdIASCAQQw
+ggEAMIHnBgwrBgEEAYKkQgIFAQMwgdYwMAYIKwYBBQUHAgEWJGh0dHBzOi8vYW5mLmVzL2VjL3Jl
+cG9zaXRvcmlvLWxlZ2FsLzCBoQYIKwYBBQUHAgIwgZQMgZFDZXJ0aWZpY2FkbyBjb25mb3JtZSBh
+IGxhIGxlZ2lzbGFjacOzbiBkZSBmaXJtYSBlbGVjdHLDs25pY2EuIEFudGVzIGRlIGFjZXB0YXJs
+byBjb21wcnVlYmUgaW50ZWdyaWRhZCwgbGltaXRhY2lvbmVzLCB2aWdlbmNpYSB5IHVzb3MgYXV0
+b3JpemFkb3MuMAkGBwQAi+xAAQEwCQYHYIVUAQMFCDCBmwYIKwYBBQUHAQEEgY4wgYswJwYIKwYB
+BQUHMAGGG2h0dHA6Ly9vY3NwLmFuZi5lcy9zcGFpbi9BVjBgBggrBgEFBQcwAoZUaHR0cDovL3d3
+dy5hbmYuZXMvZXMvY2VydGlmaWNhdGVzLWRvd25sb2FkL0FORkhpZ2hBc3N1cmFuY2VFY3VhZG9y
+SW50ZXJtZWRpYXRlQ0EuY2VyMAwGA1UdEwEB/wQCMAAwKAYJKwYBBAGBjxwTBBsMGTY0NTU3MTE3
+NzI0NC02Mzg5MDgyODAzODgwHQYKKwYBBAGBjxwTAgQPDA0wOTkyOTc0ODc3MDAxMCkGCisGAQQB
+gqRCEwEEGwwZNjM4OTA4MjgwMzg4LTU1Mjc1MzYxNjcxODAaBgorBgEEAYKkQgMBBAwMCjA5MjE4
+NzA3ODgwRAYKKwYBBAGCpEIDCgQ2DDRDT01FUkNJQUxJWkFET1JBIERFIEhVTUlUQVMgTEEgRk9S
+VEFMRVpBIExBRk9SVEEgUy5BMB0GCisGAQQBgqRCAwsEDwwNMDk5Mjk3NDg3NzAwMTASBgorBgEE
+AYKkQgMMBAQMAkVDMB4GCisGAQQBgqRCAwIEEAwOTkVMSUEgQ1JJU1RJTkEwHAYKKwYBBAGCpEID
+AwQODAxBUklaQUdBIExBTEEwHwYKKwYBBAGCpEIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwFwYKKwYB
+BAGCpEIqAQQJDAdVSU8tMDE1MBQGCisGAQQBgqRCLgEEBgwEMTA5NTBQBgorBgEEAYKkQi8BBEIM
+QDhmMTRlZmE3NjY5MDBjMTYzYWYyZmQwZmE0YWRlOTYzNjk5N2Q0OGQwNmMxNjM0NWQ0ZGJjYThm
+YjY0NjkyYmEwDQYJKoZIhvcNAQELBQADggIBAKeivojLLy+h2U3LPFoeQZF6YSuBYz2Zt76bP4qT
+QPGb0JbNnhpCnIXV1Z1KvDaFbBT0u/pH516gRV8gBjhzulbP/FONjtyFoT9iMi2sQ00O0MVRmif+
+u48gD/mqb9pk94bjn5dChyl/zyNb1mFbRpHSBhthrQaXh/tnv3lBJwyj6eLctAJFdA9e8CiYG2GI
+bp4bmdcwTAMV9lnS9YzWC9E5TKpHEB7/FnpQ885bM3hcE+4yfsSgSzYYm9nnOkFfogY9bb+ZrHx/
+1+Wtl6vcBfoDWdXGZ3PzuT8s0fCkpe+9E+laCJxSutXD57kzf8IL8iCHXXLxoOlutp+rkKNGGSn2
+QTG5DY2dll0+1Xgn/2ZcC9uU3nqVAhJHKJSY88TLTnuGyMScOb5JpanbWkGjU19gP+9lvNQcRNzY
+mS7UKE2n+wiXnyp2ZM7C3WOXxWZKsuSOmxzOTBEmgw8cSPz4YZv1dtBYCpk60rZdKW+XmZ+zy7RN
+OzX4WrxyXSsFNTZVdEpl2lR6Yo01+bAZZhaSa0FUhN8JYmm271PJl5x0gQO7Gu1AoD6Q1Qw/fLog
+RtxKgXacRQQiOs6KmkFWpIusPtBkXBiRETXCVx3n6R6g0jA4+mHkXj3YnqmvycgALRLS+S3jABGu
+pi3qdAs91yvDf/FSR6yMuylddc2zk2YgYYXS
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3+Dgu/ZAJqsK52hNt67USP/j1np0wVqGDQLBsOjsX0KN694omqar1NsqlkFynm4FZu/T8ptHoTNs
+/+9TmGwhwwhg8zKB+AfVCDcWlg/q8pV831/dXZdWgD8VXM3ov2pY1+mbEiMBpYBLm4CVLjSW93yD
+xYBWEc6nYwu6iR2Rz9bDUFQ3Gobp1KZEWyQmBQpP0UaXjb6GiQLIeR7WfVgTVWcOd5DccFO6hCTM
+j67BYBgNP245woTNHfOBdURHe/lRHUg8n7o91heofNW6lf4cohn7AMAFtFVhI2G7L7kiFupLTvi9
+WALzhehwZ6E4EgD7TOA2/buCkMTK1/zkKzoMnw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature369923-Object963241"><etsi:QualifyingProperties Target="#Signature369923"><etsi:SignedProperties Id="Signature369923-SignedProperties742237"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-09T13:12:53-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>FFwgBq0tDuy6XBIaHqYyYTqELAc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>997192465753894765639961797</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-449878"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

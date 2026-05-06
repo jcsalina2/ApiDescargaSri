@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601019510333100120011000000016710103321410</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T13:57:59-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>BEBECORP S.A.S.</razonSocial><nombreComercial>BEBECORP S.A.S.</nombreComercial><ruc>0195103331001</ruc><claveAcceso>0204202601019510333100120011000000016710103321410</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>100</ptoEmi><secuencial>000001671</secuencial><dirMatriz>Gonzalo Cordero y Juan Iñiguez esquina, Edificio Santa Lucía</dirMatriz><contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe></infoTributaria><infoFactura><fechaEmision>02/04/2026</fechaEmision><dirEstablecimiento>Gonzalo Cordero y Juan Iñiguez esquina, Edificio Santa Lucía</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>JARA ITURRALDE MIGUEL ANGEL .</razonSocialComprador><identificacionComprador>0923295786</identificacionComprador><totalSinImpuestos>269.57</totalSinImpuestos><totalDescuento>0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>0.00</descuentoAdicional><baseImponible>269.57</baseImponible><valor>40.44</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><descuentoAdicional>0.00</descuentoAdicional><baseImponible>0.00</baseImponible><valor>0</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>310.01</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>310.01</total><plazo>0</plazo><unidadTiempo>Dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>000010105147</codigoPrincipal><codigoAuxiliar>035-20284-E52</codigoAuxiliar><descripcion>TIRANTES CON OJAL ARENA</descripcion><cantidad>1.0000</cantidad><precioUnitario>21.7391</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>21.74</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>21.74</baseImponible><valor>3.26</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>000032100164</codigoPrincipal><codigoAuxiliar>2016/2T2</codigoAuxiliar><descripcion>CALCETINES ALTOS BASICOS CANALE T2</descripcion><cantidad>2.0000</cantidad><precioUnitario>13.4782</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>26.96</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>26.96</baseImponible><valor>4.04</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>000010503407</codigoPrincipal><codigoAuxiliar>AK15T36M</codigoAuxiliar><descripcion>JERSEY HILO BASICO ARENA T36M</descripcion><cantidad>1.0000</cantidad><precioUnitario>43.4782</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>43.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>43.48</baseImponible><valor>6.52</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>00002ZB00934</codigoPrincipal><codigoAuxiliar>14648T25</codigoAuxiliar><descripcion>DALLAS MARINO T25</descripcion><cantidad>1.0000</cantidad><precioUnitario>64.3478</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>64.35</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>64.35</baseImponible><valor>9.65</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>000010104514</codigoPrincipal><codigoAuxiliar>038-20272-W26A53T36M</codigoAuxiliar><descripcion>CONJ. (CM,BOM) NINO PORTAFINO AZUL T36M</descripcion><cantidad>1.0000</cantidad><precioUnitario>91.3043</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>91.30</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>91.30</baseImponible><valor>13.70</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>000010604819</codigoPrincipal><codigoAuxiliar>MPA123</codigoAuxiliar><descripcion>TIRANTE NINO AZUL</descripcion><cantidad>1.0000</cantidad><precioUnitario>21.7350</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>21.74</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>21.74</baseImponible><valor>3.26</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION DEL ADQUIRENTE">GOLONDRINAS 190 Y GORRIONES</campoAdicional><campoAdicional nombre="TELEFONO">0990925962</campoAdicional><campoAdicional nombre="E-MAIL">arteyarmonia.escuela@gmail.com,variosdocuelectro@gmail.com</campoAdicional><campoAdicional nombre="CAMBIOS">LOS CAMBIOS DE MERCADERIA SERAN ACEPTADOS LUEGO DE 48 HORAS DE EMISION DE LA FACTURA; TRANSCURRIDAS LAS 48 HORAS NO SE ACEPTAN DEVOLUCIONES.</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature938514">
+<ds:SignedInfo Id="Signature-SignedInfo654410">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID23881" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature938514-SignedProperties605036">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>a12ZxGsb3dk2H6LpU4VSoSRIQLg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1103073">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hsOTLun7SwLBTuglKjdW6AUdxxk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-988319" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>HVviu2Grh9oZ+QTLZ2K2BaFrFIk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue896891">
+U2ciwFRZ4gKcglVyXMhuEdKPCac2lLGzmDzkVwfJyRJ3NW/G5DWsHRWYkJyi5lNqgWzBAhUuuuDY
+c08Ang2YiYAAJamjmnfn/zq5bkzN2+ioJNUG1JOaAJPmlkQSgKm0ByXoOfS5AMCWMqVzwo4aTcIh
+7khp9uKZbnb8TIrKY5Uvd21OLv61ngqfHAqhVQoyVk8VkFQ8e3TKWpZ1xdVHGbm3jEQRnQeq1k0l
+4gwAHrQJdOqkGulBS6an4S0aovlyBRNjEGpJuqOA8SmWayfgKbPOryws35Tc3tc7JVl5YVx+28kq
+uoKHJgHFcp6AL0KGFGEOil93y7p+ZPyigP7Cdg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1103073">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJgTCCB2mgAwIBAgIIZM9E6DTo1OEwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDcxMTAwMTQwMFoXDTI2MDcxMTAwMTQwMFowgdgxCzAJBgNVBAYTAkVDMRgwFgYDVQQKDA9C
+RUJFQ09SUCBTLkEuUy4xGDAWBgNVBAwMD0dFUkVOVEUgR0VORVJBTDEZMBcGA1UEBAwQQ1JFU1BP
+IEpBUkFNSUxMTzEXMBUGA1UEKgwOTUFSSUEgR0FCUklFTEExGTAXBgNVBAUTEElEQ0VDLTAxMDE4
+MzU2MDExKDAmBgNVBAMMH01BUklBIEdBQlJJRUxBIENSRVNQTyBKQVJBTUlMTE8xHDAaBgNVBGEM
+E1ZBVEVDLTAxOTUxMDMzMzEwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCXi7XD
+POjd6bNALGgorOySNQTzJW1gr4AtypASYIDUoXkLsm4U46lR9XwGpwdw/78opgjW+6vygeGVXfFJ
+1yHX8mt2X0Bk22+BY7+fUFUiBv3JE+KLO0ZH4wBIoO7yZWsrauusxV7HBT8RQh4EV/NThLTeU3H2
+54V513H28VZ3k0Ih4WMYE/51sHWuf3vZ6InEFBavkvfYF8pWPcfiiy6aDr6toTDx0V2NkFnccyJv
+80E4kdokBcK8Y6lkiFNDzoVvdQ58VzLMUAHI1AW+fDFBSi/RZIqaNfQ2ZE/stRLXVIzhZiGq7vr5
+pB5i36e8yPu+jOCIuRmKErIuSzdSn1YhAgMBAAGjggRrMIIEZzAbBgsrBgEEAYLxNmYDAQQMDAow
+MTAxODM1NjAxMB4GCysGAQQBgvE2ZgMLBA8MDTAxOTUxMDMzMzEwMDEwgdcGCCsGAQUFBwEBBIHK
+MIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQv
+dHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2Nz
+cDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3Nw
+Mi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUHZduEmQ8WarWpJw+oFXX
+J8vriZkwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBjgYD
+VR0gBIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFu
+YXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1BggrBgEFBQcCAjApDCdDRVJUSUZJQ0FETyBE
+RSBSRVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2Ny
+bDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6
+aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNy
+bDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBrAYDVR0R
+BIIBozCCAZ+BE3Npc3RlbWFzQHN5c21qZC5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMDEwMTgzNTYw
+MaAfBgsrBgEEAYLxNmYDAqAQDA5NQVJJQSBHQUJSSUVMQaAXBgsrBgEEAYLxNmYDA6AIDAZDUkVT
+UE+gGgYLKwYBBAGC8TZmAwSgCwwJSkFSQU1JTExPoCAGCysGAQQBgvE2ZgMFoBEMD0dFUkVOVEUg
+R0VORVJBTKAiBgsrBgEEAYLxNmYDB6ATDBFST0JFUlRPIENSRVNQTyBTTqAfBgsrBgEEAYLxNmYD
+CKAQDA4wMDU5Mzk4NDg4MTExOKAXBgsrBgEEAYLxNmYDCaAIDAZDVUVOQ0GgIAYLKwYBBAGC8TZm
+AwqgEQwPQkVCRUNPUlAgUy5BLlMuoB4GCysGAQQBgvE2ZgMLoA8MDTAxOTUxMDMzMzEwMDGgEwYL
+KwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAY
+BgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQAfjq/YhndKpdSsW4Ld
+GYIIsUqoqQH5lDyQvGR2mM0KKPYzMsEWU55TvjQSdwmUwO9PiTnlcLu6Pd+atpIks0J+cMqhigaT
+6DX8uNgbh7hYa9o9mzEgAi/z+7AxhEc3jTpfwU97GjefDzfF/AwReEd0+vqV6bbkbsG5iQ2DCBT2
+OMcoY7s5L9+OKqPq5AaFtTuh13IOy03QgVBWoxYeoB4JBLE0bZc7XGN5WQ9t57aQmaBx+NrGLSVC
+jcCUg+/fTZlKod6pzKBOOs6QSoLvDzr+ifp/64eepiy0fk+FWdlDryCmoym3XM4Rw+4evhCon9w2
+SxDLUZsHA1viafrvu3V3FnkMa6jqmxG5Cchdg/8deaqtz+2W3eN7elAqSuK+5rxT40ufy+Oj5+oA
+sK02ScVDGvjPHl2cic7mIu8+PIMOKwUvVs2ILljlV4XC8mMszS8OSp3PX9O0T5x1G6E8cUoypiKg
+5kLJ5MKzvR/O5LClIWpMEvNyfreAamOh+90FxacX3tcAnDQIGkmI/5bI8Jbg9Pa0ttHjNmGXqvH5
+txfPcRZl47jyyxaSOfebdAtsmDh3sKw/XNyl5UMbdDPdUk9Y2dqvs8sbq2Li6yHpbpU8ATh53t3V
+OA410uQ7d9llDuM9+3pcDBXdn15hcyJbYdsqkHX6CMozzSQ/RKWTBTHjEw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+l4u1wzzo3emzQCxoKKzskjUE8yVtYK+ALcqQEmCA1KF5C7JuFOOpUfV8BqcHcP+/KKYI1vur8oHh
+lV3xSdch1/Jrdl9AZNtvgWO/n1BVIgb9yRPiiztGR+MASKDu8mVrK2rrrMVexwU/EUIeBFfzU4S0
+3lNx9ueFeddx9vFWd5NCIeFjGBP+dbB1rn972eiJxBQWr5L32BfKVj3H4osumg6+raEw8dFdjZBZ
+3HMib/NBOJHaJAXCvGOpZIhTQ86Fb3UOfFcyzFAByNQFvnwxQUov0WSKmjX0NmRP7LUS11SM4WYh
+qu76+aQeYt+nvMj7vozgiLkZihKyLks3Up9WIQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature938514-Object386292"><etsi:QualifyingProperties Target="#Signature938514"><etsi:SignedProperties Id="Signature938514-SignedProperties605036"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T14:04:10-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>b37tsaUiF6kwvNebEKZwZ+vCni4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7264100488082674913</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-988319"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

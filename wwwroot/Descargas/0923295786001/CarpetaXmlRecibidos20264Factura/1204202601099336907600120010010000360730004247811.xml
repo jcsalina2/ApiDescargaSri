@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1204202601099336907600120010010000360730004247811</numeroAutorizacion>
+<fechaAutorizacion>2026-04-12T15:31:28-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>SFOGLIA S.A.S.</razonSocial>
+	    <nombreComercial>SFOGLIA S.A.S.</nombreComercial>
+	    <ruc>0993369076001</ruc>
+	    <claveAcceso>1204202601099336907600120010010000360730004247811</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000036073</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / GUAYAQUIL / IMBABURA Y PANAMÁ</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>12/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / GUAYAQUIL / IMBABURA Y PANAMÁ</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Miguel Jara </razonSocialComprador>
+	    <identificacionComprador>0923295786001</identificacionComprador>
+		
+	    
+	    <totalSinImpuestos>60.80000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>60.80</baseImponible>
+				<valor>9.12000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>6.08000</propina>
+	    <importeTotal>76.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>76.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>EXT040</codigoPrincipal>
+		<codigoAuxiliar>EXT040</codigoAuxiliar>
+      	<descripcion>Ensalada Fresca</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>4.800000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.80</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.80000</baseImponible>
+          <valor>0.72</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>BBD005</codigoPrincipal>
+		<codigoAuxiliar>BBD005</codigoAuxiliar>
+      	<descripcion>Jugo de mora</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.400000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.40</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.40000</baseImponible>
+          <valor>0.36</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FTC007</codigoPrincipal>
+		<codigoAuxiliar>FTC007</codigoAuxiliar>
+      	<descripcion>Lasagna bolognese</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>12.800000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.80</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>12.80000</baseImponible>
+          <valor>1.92</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>BBD003</codigoPrincipal>
+		<codigoAuxiliar>BBD003</codigoAuxiliar>
+      	<descripcion>Limonada</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>2.400000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>7.20</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.20000</baseImponible>
+          <valor>1.08</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>EXT042</codigoPrincipal>
+		<codigoAuxiliar>EXT042</codigoAuxiliar>
+      	<descripcion>Porción de Lomo 3/4</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>8.00000</baseImponible>
+          <valor>1.20</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FTC001</codigoPrincipal>
+		<codigoAuxiliar>FTC001</codigoAuxiliar>
+      	<descripcion>Spaghetti cacio e pepe</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>12.800000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.80</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>12.80000</baseImponible>
+          <valor>1.92</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>FTC010</codigoPrincipal>
+		<codigoAuxiliar>FTC010</codigoAuxiliar>
+      	<descripcion>Spaghetti con albóndigas al sughetto</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>12.800000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.80</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>12.80000</baseImponible>
+          <valor>1.92</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature982099">
+<ds:SignedInfo Id="Signature-SignedInfo977916">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID763638" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature982099-SignedProperties264794">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WiNcRa/ueQjpDRrnspb0DRi/IAU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate906196">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>KgnkCPkHCwRTHitRp6kJ6HIdjog=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-846249" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yxudC+XFfmdbppdzGgOqWoIBDkQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue507500">
+V0SYalePRazPsf1OJ56KuA2cwZVbO211LZwFgm0piiziENdSS0JigEPB0RZlIA+Zu5rC5t7i85MN
+/TxV1OHuZJIEF0EoP9Znv7lXAFZFshcbkOCwQ4Zl1cSs8Ur5/MDJknSjU99KptuzBjaCpVYp6h55
+tYYJQTMTgflaBv6AXCOtbKFCKVMsbTf700DQuRnz5htaZdbPxhngpIpfEmQSc/3g5r3FL0bPLS9h
+v97qrBHmGZqwgFLuNijihBZ+e7ILBHEnoHHQTCXcjRvh3BZp95GQz4R1mHvWY3UtG3UEeqogj9Oh
+hLSuVW/UaCFRXZL5pYaNBsjtMoiz3b08ALfwQQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate906196">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL9DCCCdygAwIBAgIEAfSlfjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA3MDcyMTU0MDZaFw0yNzA3MDcyMTU0MDZaMIGcMSUw
+IwYDVQQDDBxKVUFOIEZFTElQRSBUT1JSRVMgR1VUSUVSUkVaMRUwEwYDVQQFEwwwNzA3MjIxNzAz
+MzYxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAuuA/W3/qF2Rrxgb/tc2xJjsquB3RjdVKRF+vLZnfgx93ccErsiipbf9+
+WPDrDaKvmYHmEMD5gwgnisIjouTtgTZbydrZm/zcBj5t9pYgjxkYV/UaKDzoKQjEWUcVrMcmYsJp
+lCPmobFbxkCm22s13qD+GXZqlkvKDtJPagb2iXsCpaUX37zdpHXyzYJrE53hdqBiT2o72JTfRmEE
+wySltzLIxwqL3okle1+IRyAyjPr86jiGdTyNngvVz2/uC1yijpa4r0yMful49WtHfn7GLpX8MjOM
+EuPqgYjbO4EO/ViNuakbTU3DEG1J1owJ53663o8q3Qpm7Akc8UBCnF1BcwIDAQABo4IHPTCCBzkw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwJwYDVR0RBCAwHoEcZmlybWFzZWxlY3Ryb25pY2FzQHNpaWdvLmNvbTCCARUGA1UdIASC
+AQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEA
+ZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYB
+BAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVj
+L3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRp
+Y2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCC
+ApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGlj
+d2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNV
+BAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8v
+cG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJk
+aXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQZig9pB6S9agJV
+JpPWikmrc5S4jDArBgNVHRAEJDAigA8yMDIyMDcwNzIxNTQwNlqBDzIwMjcwNzA3MjE1NDA2WjAL
+BgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnID
+AQQMDAowOTIyNjUxOTU1MBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZyAyIE
+AwwBLjAhBgorBgEEAYKmcgMHBBMMEUlNQkFCVVJBIFkgUEFOQU1BMBsGCisGAQQBgqZyAwIEDQwL
+SlVBTiBGRUxJUEUwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDAwMjg5MTkwEwYKKwYBBAGCpnID
+IQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGVE9SUkVT
+MB4GCisGAQQBgqZyAwoEEAwOU0ZPR0xJQSBTLkEuUy4wHQYKKwYBBAGCpnIDCwQPDA0wOTkzMzY5
+MDc2MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wGQYKKwYBBAGCpnIDBAQLDAlHVVRJRVJSRVowGgYK
+KwYBBAGCpnIDCAQMDAowOTY3NDc3MDcyMA0GCSqGSIb3DQEBCwUAA4ICAQAPA/L6rPupEHA4FQwj
+ghdIx4Ub4Rk2dVJCnPELVdaLSCUeDH34oW6/zDwemFbpumNZBZ9aGDu/E2UfZhUbed8BK80EhJbj
+z/vTHnR+0DQ1hrgrBsTRhqLT1+yuPjrF2C/I0LL2Wzge3gbuCHJUqTaGmWQH3lMkqrhIG2LWn37G
+e9D9ZRfSt3E/8turBL8sPTKy/XrYX7nKQKAXZZPR2RKbOMUl6LDizDIu2l9POCvRS4Nfzx/6hIAv
+5r0Z8e6eIEWe02DGRbz/G0o8VyUJVH18MEaCs5zW0fosS1LsEHIN3M+zJtfoZLbaD01keDaC+2LV
+z70DdZi/nOcQTtbCu6OIIRAv0VxctvClHZjmiAEHADYKSc8QfV6NuiwBASAIxaCXCEKlSQJmAJOM
+fc7711XG2BjVejYSPuSNHIICiLo+3FLExhBpdCfcstvh+2xSyI7g34LCiVyNQxsEY39FcQrWmLUE
+gNFjmlwqJZaw2rGxo+tSKKU9gc3kMTogrDX0Mrs5fFqAxE0srO2v9TuaSaSCJ9457AMnb3FgSje8
+cpmBjkoW3VG5syPNQUUeYgCg/PRAmAHOGjmQWSXSh6vvcoew4WmY2CXo2tpwsEZj+WIRBX9aA4Dy
+msbPLLAz3uiRbZtQK7R8z/nHdtQBAVs1z9qZtY7+172ZTp6NagTCxaJq6g==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uuA/W3/qF2Rrxgb/tc2xJjsquB3RjdVKRF+vLZnfgx93ccErsiipbf9+WPDrDaKvmYHmEMD5gwgn
+isIjouTtgTZbydrZm/zcBj5t9pYgjxkYV/UaKDzoKQjEWUcVrMcmYsJplCPmobFbxkCm22s13qD+
+GXZqlkvKDtJPagb2iXsCpaUX37zdpHXyzYJrE53hdqBiT2o72JTfRmEEwySltzLIxwqL3okle1+I
+RyAyjPr86jiGdTyNngvVz2/uC1yijpa4r0yMful49WtHfn7GLpX8MjOMEuPqgYjbO4EO/ViNuakb
+TU3DEG1J1owJ53663o8q3Qpm7Akc8UBCnF1Bcw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature982099-Object38974"><etsi:QualifyingProperties Target="#Signature982099"><etsi:SignedProperties Id="Signature982099-SignedProperties264794"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-12T15:31:26-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>4rPE5iCN1xxwVHYIIvUtApFXbLc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>32810366</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

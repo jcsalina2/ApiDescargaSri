@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202601093258730600120040020002367580152422010</numeroAutorizacion>
+<fechaAutorizacion>2026-04-08T14:32:38-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>KANG CABRERA FRANKLIN GREGORIO</razonSocial><nombreComercial>DISTRIBUIDORA DE CARNE FK</nombreComercial><ruc>0932587306001</ruc><claveAcceso>0704202601093258730600120040020002367580152422010</claveAcceso><codDoc>01</codDoc><estab>004</estab><ptoEmi>002</ptoEmi><secuencial>000236758</secuencial><dirMatriz>COLINAS DE ALBORADA SOLAR 11 MZ 744</dirMatriz></infoTributaria><infoFactura><fechaEmision>07/04/2026</fechaEmision><dirEstablecimiento>COLINAS DE ALBORADA SOLAR 11 MZ 744</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ASTECNAVIND SAS</razonSocialComprador><identificacionComprador>0993387909001</identificacionComprador><direccionComprador>guayaquil</direccionComprador> <totalSinImpuestos>19.61</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>19.61</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>19.61</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>19.61</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>1303</codigoPrincipal><descripcion>PECHUGA FILETEADA </descripcion><cantidad>0.9</cantidad><precioUnitario>2.5</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>2.25</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="eItem" valor="512"></detAdicional></detallesAdicionales><impuestos><impuesto> <codigo>2</codigo>  <codigoPorcentaje>0</codigoPorcentaje> <tarifa>0.00</tarifa>  <baseImponible>2.25</baseImponible> <valor>0.00</valor> </impuesto>  </impuestos> </detalle><detalle><codigoPrincipal>1220</codigoPrincipal><descripcion>PULPA DE CERDO </descripcion><cantidad>1.43</cantidad><precioUnitario>2.8</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>4</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="eItem" valor="490"></detAdicional></detallesAdicionales><impuestos><impuesto> <codigo>2</codigo>  <codigoPorcentaje>0</codigoPorcentaje> <tarifa>0.00</tarifa>  <baseImponible>4</baseImponible> <valor>0.00</valor> </impuesto>  </impuestos> </detalle><detalle><codigoPrincipal>2901</codigoPrincipal><descripcion>CHORIZO FINAS HIERBAS </descripcion><cantidad>0.48</cantidad><precioUnitario>3.5</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>1.68</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="eItem" valor="721"></detAdicional></detallesAdicionales><impuestos><impuesto> <codigo>2</codigo>  <codigoPorcentaje>0</codigoPorcentaje> <tarifa>0.00</tarifa>  <baseImponible>1.68</baseImponible> <valor>0.00</valor> </impuesto>  </impuestos> </detalle><detalle><codigoPrincipal>1276</codigoPrincipal><descripcion>COSTILLA DE CERDO FILETEADA </descripcion><cantidad>3.12</cantidad><precioUnitario>3.25</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>10.14</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="eItem" valor="819"></detAdicional></detallesAdicionales><impuestos><impuesto> <codigo>2</codigo>  <codigoPorcentaje>0</codigoPorcentaje> <tarifa>0.00</tarifa>  <baseImponible>10.14</baseImponible> <valor>0.00</valor> </impuesto>  </impuestos> </detalle><detalle><codigoPrincipal>1401</codigoPrincipal><descripcion>CHORIZO CUENCANO </descripcion><cantidad>0.56</cantidad><precioUnitario>2.75</precioUnitario><descuento>0</descuento><precioTotalSinImpuesto>1.54</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="eItem" valor="526"></detAdicional></detallesAdicionales><impuestos><impuesto> <codigo>2</codigo>  <codigoPorcentaje>0</codigoPorcentaje> <tarifa>0.00</tarifa>  <baseImponible>1.54</baseImponible> <valor>0.00</valor> </impuesto>  </impuestos> </detalle></detalles><infoAdicional><campoAdicional nombre="eNumero">"1524220"</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature769181">
+<ds:SignedInfo Id="Signature-SignedInfo594406">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID460601" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature769181-SignedProperties881518">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2ESaJ4z/C5dddqfzylDmC1ZwJLE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1429008">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>VveJt07zSskKkQdq0sfRc0A555w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-885749" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>656YGgxIzxqXyNXBKDsIjxjvgBA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue116671">
+D9V/TCbe07ZVwiMfEhzgXLTdjzQpO/HENbLYHSySFhVGLxbeecalKAKEBZVi0G3MmCfVh0AyQdTw
+gDKNUstosuEAEiqOXw5XmaUuiWBbGP0aKzxMtirReZls4mW4KBvwGjoCJQUsWReGwkHX3Sf7/Gx4
+CeMOc2GFwiunf/MMPOVO6ge6abI73E/sTqQqD7KfzlxyfIxop8C0U2A+f6iQehcDBayREYt7JSiE
+KzWOimrNjS60G8tZbQ1niMY88Ob1PnDTEjhSbLDMsGrv7u+OectgYKqNLABz76epMUjusiVhqLid
+i6YJrbjoiIEQ4MFgVrIL7k7w7wy3xHyGbL46Mg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1429008">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILxjCCCa6gAwIBAgIEPmeO2jANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA0MjcyMTMyMzBaFw0yODA0MjYyMTMyMzBaMIGeMScw
+JQYDVQQDDB5GUkFOS0xJTiBHUkVHT1JJTyBLQU5HIENBQlJFUkExFTATBgNVBAUTDDI3MDQyMzE2
+NDIwMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDKoIa83uKiK+gm0IGEM6KCY4YLrNz7jXX8++VjQeVNTc97y6nq/s2A
+uBUzN0mjPurNOLi0ysQ6AJicjIREKurDvHncJXClUnDKx+tzO6mNi05abgMw0Rxe8wgbPHsPT4g9
+rbmx97G4vMShJ8t2htezbw2XqgpWs/QrPrGDuz3lRj3tsHKvuhmqHFnHQFR5yo/hjD8qmYn6NmP4
+PaXxXO7XS7VFlDmG4ub5nYAYSQZBEFF+CX7ZW62ugRWinmjaUli2d4bGhUi/N5/Uw0qxT1GBolII
+bF/EDHd0lSNDQF43pV7VjrWGAhoAxMab26Qz08KsReHO9O/8WIyObA0zLAJLAgMBAAGjggcNMIIH
+CTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTApBgNVHREEIjAggR5hdmljYXJuZXNka2FuZzIwMTZAaG90bWFpbC5jb20wggEGBgNV
+HSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMA
+YQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnIC
+ATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29u
+dGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUg
+Q2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9
+aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CB
+xKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0
+aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVy
+YWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlz
+dD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNF
+Q1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89
+U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUf8pqbwokTpFVwU5YZeMnFA9heYsw
+KwYDVR0QBCQwIoAPMjAyMzA0MjcyMTMyMzBagQ8yMDI4MDQyNjIxMzIzMFowCwYDVR0PBAQDAgXg
+MBoGCisGAQQBgqZyAwEEDAwKMDkzMjU4NzMwNjAZBgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDAR
+BgorBgEEAYKmcgMiBAMMAS4wGAYKKwYBBAGCpnIDBwQKDAhTT0xBUiAxMTAhBgorBgEEAYKmcgMC
+BBMMEUZSQU5LTElOIEdSRUdPUklPMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwMzkyNzk3MBEG
+CisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VD
+VUFET1IwFAYKKwYBBAGCpnIDAwQGDARLQU5HMBEGCisGAQQBgqZyAx4EAwwBLjAdBgorBgEEAYKm
+cgMLBA8MDTA5MzI1ODczMDYwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBcGCisGAQQBgqZyAwQECQwH
+Q0FCUkVSQTAaBgorBgEEAYKmcgMIBAwMCjA5ODQxNzk1NTYwDQYJKoZIhvcNAQELBQADggIBAHrk
+Uv1MDra8d3GkxT2tdHL99hIL0Jq3vx/j4VoVBYisQPCzu1sfB+aboY6S/5VKFXvC9P16vUZha5Er
+nxePqrZfAyYOC037nodQmFp+qQET3S2iEeEevPm0WXvhZ2Z89xrevPOYMQcZoPkYh5NQ564pT8KW
+EXHAfcAV2LW7HC7c0lJNKsuOa/cEIUyRmwJoH/CY7qlmNa70S7tPnQKM9F00ebZ8KfQgi0cckSIv
+ZtwXOGxjt1s8RGCUNctsqC4W0AEmuRx0Mwhr14e+lGtIucQHDS3wkq/Q0IPfO83u7UpGzz2fuPfV
+9gjklqgXbRiLI5n0N7yrToHFuj/gHb6hZMAk0sMVtrNGSQB7f3XQlePGIIe+ve5C1xkOmnaTZCDT
+Tv8fMYSj7VqlaQibH/JGh97PY/KeNKr2SsTGc2vb8niZfW050RzonOs/1aJIoX7TYRv0rAfrsRqU
+YQ9LNXUH7S0fKiwIyDS7Ee7D0CGY54mpLoiSfqtvM5OcGNz06LKm79jd+tTKAZHrHJIGM9X8P3fQ
+TJPQXIo35cylaADgDiuO74gA/9kSknqwEbSkVFqE3wVLF37hAgh+V3BfVeaC4rZGTJO1GQqekyZn
+A/STacN1oKtmuKQzNVaMLpULWyHaynreyh3b+tm4f8eX1ulijzKQsPOQxq9gtcWlZOahxBu+
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yqCGvN7ioivoJtCBhDOigmOGC6zc+411/PvlY0HlTU3Pe8up6v7NgLgVMzdJoz7qzTi4tMrEOgCY
+nIyERCrqw7x53CVwpVJwysfrczupjYtOWm4DMNEcXvMIGzx7D0+IPa25sfexuLzEoSfLdobXs28N
+l6oKVrP0Kz6xg7s95UY97bByr7oZqhxZx0BUecqP4Yw/KpmJ+jZj+D2l8Vzu10u1RZQ5huLm+Z2A
+GEkGQRBRfgl+2VutroEVop5o2lJYtneGxoVIvzef1MNKsU9RgaJSCGxfxAx3dJUjQ0BeN6Ve1Y61
+hgIaAMTGm9ukM9PCrEXhzvTv/FiMjmwNMywCSw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature769181-Object926256"><etsi:QualifyingProperties Target="#Signature769181"><etsi:SignedProperties Id="Signature769181-SignedProperties881518"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-08T14:32:38-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>uMzH75h3kBz2fhKUa7OK1MAYR0I=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1046974170</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-885749"><etsi:Description>powered by ElectroFacturas.com</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

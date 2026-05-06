@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3004202601090936816900120090010000417650000007216</numeroAutorizacion>
+<fechaAutorizacion>2026-04-30T14:07:21-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CAMPUZANO CASTILLO TOMAS ROLANDO</razonSocial>
+    <nombreComercial>Picanteria Olguita</nombreComercial>
+    <ruc>0909368169001</ruc>
+    <claveAcceso>3004202601090936816900120090010000417650000007216</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>009</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000041765</secuencial>
+    <dirMatriz>RECINTO DOS PINOS Calle: AV. PRINCIPAL Número: SN Carretera: VIA A MARCELINO - MARIDUEÑA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>30/04/2026</fechaEmision>
+    <dirEstablecimiento>RECINTO DOS PINOS Calle: AV. PRINCIPAL Número: SN Carretera: VIA A MARCELINO - MARIDUEÑA</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>Bélgica loaiza</razonSocialComprador>
+    <identificacionComprador>0950045922001</identificacionComprador>
+    <direccionComprador>guayaquil</direccionComprador>
+    <totalSinImpuestos>6.96</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>6.96</baseImponible>
+        <valor>1.04</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>8.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>8.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>ldlqa9zbi7kz9gnzkt8enlf6r</codigoPrincipal>
+      <descripcion>ARROZ CON PESCADO FRITO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>5.217400</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>5.22</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>5.22</baseImponible>
+          <valor>0.78</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ldlrx3bn5u17tj22i9xxluyy8</codigoPrincipal>
+      <descripcion>JUGO DE NARANJA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.739100</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.74</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.74</baseImponible>
+          <valor>0.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Telefono">0959257611</campoAdicional>
+    <campoAdicional nombre="Email">vandreasuarez@gmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature50212" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo961968">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID702787" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature50212-SignedProperties982405">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>KxJ4s36k4dGJtGhYR7cZivI+RKA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate193860">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>METLE7p1aHqtZkM3rjUwhFGHym4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-945087" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>KOzPQOr29pu4L7sejJjpWgSkP6I=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue895149">
+ggLCExNDPhy0knTGYkM3V1bb2iOpBU+5OpN8f3W8vKQStutW9Xm3MXLOEcCsYpML/7eZ6Ua/MYxc
+eS6mftcUPznyGaTIGQjhb4d9C/LwEdz8yh7poMGjxzyxWIvGsXKzRKMy6gc+d8a0MGUeEbqNIiE/
+SUt8rkzmGiMUWiJ0uHTTF58IKxGT0KFVYiZnsMQuri64g1miqSbcI4S3IRAWYzzcEnLd0knLB1Cn
+YPjawUQiwUzqRfm9GYvhd+Q4edWBBHvSbqV9iyqMUMDxvwDKtmSwjCJSt6HC0MMGEc0IFXcJBYeR
+xmJ18vmJovb/HyAC3Er2slF7ocLyrYx+gR6r9g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate193860">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH3TCCBsWgAwIBAgIFAMID8r8wDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI2
+MDExNDE5MDkzN1oXDTI4MDExNDE5MDkzN1owgZ0xCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEqMCgGA1UEAwwh
+VE9NQVMgUk9MQU5ETyAgQ0FNUFVaQU5PIENBU1RJTExPMSUwIwYJKoZIhvcNAQkBFhZhbmRyZXNh
+YjMwQGhvdG1haWwuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyd7azbYNvpzt
+1bTRYGDY2lg0scsNCbo3J/ce3L9Pv9IM7QN+nMHcn/o0mUBU8o49grrtwkU4hIy/ogmzNoG62Y0g
+aBKq/nGORCh9IjRnrA1/nYBGUOtgWFIqhpu8Hgf0RM6wCmCaLsq0grlWXfGsbKP3LoKxsOEsEmYO
+UDF0TqDvaAgvn1K1RBloTAvZfcmXZ/G7+yqbIVDefPdegmOY48yrG3I28B3q/KNGzEozTFrg7+CM
+gkzs04SGkm7XjPkYY9Bk4c7Vr3VusDPHioLpjaEWhCH/TQUIJjylGNvyTdcEgNVqtn1zacs6gT4o
+190fiKbOy/hzrLZpFUXs4iHxKQIDAQABo4IEdzCCBHMwGgYKKwYBBAGDz3YDAQQMDAowOTA5MzY4
+MTY5MB0GCisGAQQBg892AwIEDwwNVE9NQVMgUk9MQU5ETzAZBgorBgEEAYPPdgMDBAsMCUNBTVBV
+WkFOTzAYBgorBgEEAYPPdgMEBAoMCENBU1RJTExPMCAGCisGAQQBg892AwcEEgwQQ0RMQS4gTUlS
+QUZMT1JFUzAaBgorBgEEAYPPdgMIBAwMCjA5OTQ5MTYxMTAwGQYKKwYBBAGDz3YDCQQLDAlHdWF5
+YXF1aWwwFwYKKwYBBAGDz3YDDAQJDAdFQ1VBRE9SMB0GCisGAQQBg892AwsEDwwNMDkwOTM2ODE2
+OTAwMTAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBRa3sPpu01vAXuMGwOr8hzwYy1SrzAfBgNVHSME
+GDAWgBTtdkiwCvHJhoYMTEZk0gb4zNW9PjAOBgNVHQ8BAf8EBAMCBeAwOgYDVR0fBDMwMTAvoC2g
+K4YpaHR0cDovZW5leHQyLnh5ei9MYXp6YXRlQ0EyL2VtaXNvckNBMi5jcmwwggGEBgNVHSAEggF7
+MIIBdzB8BgorBgEEAYPPdgIBMG4wbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUgY2VydGlmaWNh
+ZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExh
+enphdGUgQ2lhLiBMdGRhLjCB9gYJKwYBBAGDz3YCMIHoMGwGCCsGAQUFBwICMGAaXkVsIHByZXNl
+bnRlIGNlcnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNl
+Z3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4weAYIKwYBBQUHAgIwbBpqRWwgcHJlc2VudGUg
+Y2VydGlmaWNhZG8gc3Vib3JkaW5hZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGlj
+YXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lhLiBMdGRhLjCCAQ4GA1UdEQSCAQUwggEBoBoG
+CisGAQQBg892AwGgDAwKMDkwOTM2ODE2OaAdBgorBgEEAYPPdgMCoA8MDVRPTUFTIFJPTEFORE+g
+GQYKKwYBBAGDz3YDA6ALDAlDQU1QVVpBTk+gGAYKKwYBBAGDz3YDBKAKDAhDQVNUSUxMT6AgBgor
+BgEEAYPPdgMHoBIMEENETEEuIE1JUkFGTE9SRVOgGgYKKwYBBAGDz3YDCKAMDAowOTk0OTE2MTEw
+oBkGCisGAQQBg892AwmgCwwJR3VheWFxdWlsoBcGCisGAQQBg892AwygCQwHRUNVQURPUqAdBgor
+BgEEAYPPdgMLoA8MDTA5MDkzNjgxNjkwMDEwPAYIKwYBBQUHAQEEMDAuMCwGCCsGAQUFBzABhiBo
+dHRwOi8vZW5leHQyLnh5ejo4Nzc3L2Fkc3Mvb2NzcDANBgkqhkiG9w0BAQsFAAOCAQEAsKThLXbW
+RZIhtmnsb6UG5ANLbV9oR1HsN+LLspLQVpjotDcoy2vGyR7WzVBJWFVPTMV4Q5KyLuMSTdWSsc2a
+lmXBOUlKMXPjZRuctTIJf9uuJOfrBGlPbjOQZZ66frYezl3nQ48THEpr4fas+g8ToI7FZiQq40li
+X5qYPcMHCu90xch8EMOdZZh6ShB1iXpGzS0fcNaWU6adYKSHpWmWRTfwHXHWktJ6Kq8nhxWYVdDx
+14Hy+iBXe8YYlA426ymkzjB+y30XrmDyVnkIHKLBqq4RaJbHyutGxdF9IOYnQipqUZu+Xh3XET/c
+D6IjGLQKtP9pocLTRDO9+qboIqZG+Q==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yd7azbYNvpzt1bTRYGDY2lg0scsNCbo3J/ce3L9Pv9IM7QN+nMHcn/o0mUBU8o49grrtwkU4hIy/
+ogmzNoG62Y0gaBKq/nGORCh9IjRnrA1/nYBGUOtgWFIqhpu8Hgf0RM6wCmCaLsq0grlWXfGsbKP3
+LoKxsOEsEmYOUDF0TqDvaAgvn1K1RBloTAvZfcmXZ/G7+yqbIVDefPdegmOY48yrG3I28B3q/KNG
+zEozTFrg7+CMgkzs04SGkm7XjPkYY9Bk4c7Vr3VusDPHioLpjaEWhCH/TQUIJjylGNvyTdcEgNVq
+tn1zacs6gT4o190fiKbOy/hzrLZpFUXs4iHxKQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature50212-Object164526"><etsi:QualifyingProperties Target="#Signature50212"><etsi:SignedProperties Id="Signature50212-SignedProperties982405"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-30T14:07:15-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>NgpVdADZtNj5JYMpbZaq2YEHp9E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3255038655</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-945087"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3004202601179194010500120260010000645693456794818</numeroAutorizacion>
+<fechaAutorizacion>2026-04-30T17:41:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+   <ambiente>2</ambiente>
+   <tipoEmision>1</tipoEmision>
+   <razonSocial>COLFASHION CIA.LTDA.</razonSocial>
+   <nombreComercial>COLFASHION CIA.LTDA.</nombreComercial>
+   <ruc>1791940105001</ruc>
+   <claveAcceso>3004202601179194010500120260010000645693456794818</claveAcceso>
+   <codDoc>01</codDoc>
+   <estab>026</estab>
+   <ptoEmi>001</ptoEmi>
+   <secuencial>000064569</secuencial>
+   <dirMatriz>AV. SHYRIS N32&#x002D;14 S1 Y DIEGO DE ALMAGRO, EDIF. TORRE NOVA, PISO 7, OFIC. 7A</dirMatriz>
+</infoTributaria>
+<infoFactura>
+   <fechaEmision>30/04/2026</fechaEmision>
+   <dirEstablecimiento>Km 1 Via Nueva Fe, frente a la policia Atascoso, local 20&#x002D;21, Paseo Shopping Quevedo, Los R&#x00ED;os.</dirEstablecimiento>
+<contribuyenteEspecial>664E</contribuyenteEspecial>
+<obligadoContabilidad>SI</obligadoContabilidad>
+   <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+   <razonSocialComprador>OFELIA PERALTA</razonSocialComprador>
+   <identificacionComprador>1205742867</identificacionComprador>
+   <totalSinImpuestos>54.20</totalSinImpuestos>
+   <totalDescuento>0.00</totalDescuento>
+   <totalConImpuestos>
+   <totalImpuesto>
+      <codigo>2</codigo>
+      <codigoPorcentaje>4</codigoPorcentaje>
+      <baseImponible>54.20</baseImponible>
+      <valor>8.13</valor>
+   </totalImpuesto>
+   </totalConImpuestos>
+   <propina>0.00</propina>
+   <importeTotal>62.33</importeTotal>
+   <moneda>Dolares</moneda>
+<pagos>
+<pago>
+<formaPago>19</formaPago>
+<total>62.33</total>
+<plazo>0</plazo>
+<unidadTiempo>DIAS</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+   <detalle>
+     <codigoPrincipal>291301</codigoPrincipal>
+     <descripcion>BOLSA KOAJ PAPEL</descripcion>
+     <cantidad>1.000000</cantidad>
+     <precioUnitario>0.304348</precioUnitario>
+     <descuento>0.00</descuento>
+     <precioTotalSinImpuesto>0.30</precioTotalSinImpuesto>
+     <impuestos>
+         <impuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <tarifa>15.00</tarifa>
+            <baseImponible>0.30</baseImponible>
+            <valor>0.05</valor>
+         </impuesto>
+     </impuestos>
+   </detalle>
+   <detalle>
+     <codigoPrincipal>105235761061</codigoPrincipal>
+     <descripcion>PANTALON KOAJ JEAN BAGGY 29000 4&#x002F;25</descripcion>
+     <cantidad>1.000000</cantidad>
+     <precioUnitario>26.947826</precioUnitario>
+     <descuento>0.00</descuento>
+     <precioTotalSinImpuesto>26.95</precioTotalSinImpuesto>
+     <impuestos>
+         <impuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <tarifa>15.00</tarifa>
+            <baseImponible>26.95</baseImponible>
+            <valor>4.04</valor>
+         </impuesto>
+     </impuestos>
+   </detalle>
+   <detalle>
+     <codigoPrincipal>105235781022</codigoPrincipal>
+     <descripcion>PANTALON KOAJ JEAN BAGGY 30933 1&#x002F;26</descripcion>
+     <cantidad>1.000000</cantidad>
+     <precioUnitario>26.947826</precioUnitario>
+     <descuento>0.00</descuento>
+     <precioTotalSinImpuesto>26.95</precioTotalSinImpuesto>
+     <impuestos>
+         <impuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <tarifa>15.00</tarifa>
+            <baseImponible>26.95</baseImponible>
+            <valor>4.04</valor>
+         </impuesto>
+     </impuestos>
+   </detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="DIRECCION">EL GUAYCAN</campoAdicional>
+<campoAdicional nombre="TELEFONO">0</campoAdicional>
+<campoAdicional nombre="EMAIL">tienda753.ec@gmail.com</campoAdicional>
+</infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-33009936"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="ReferenciaComprobante" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>N49O7xXvV2wnJoYZesus/hFpTIA=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenciaCertificado" URI="#Certificado"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Vz6mRlmiJZHa7Td8+cIUatmjl+U=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-1633715388"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>DmyjVhOJrFBup/Pnbum/YO7kfTk=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>QAa9zUFaxMVECYxYJ4TDNhEPjzFAlQocM0vo+WcNtCulV9SNyAtYf0WJ2eUB43TuIZzneNk8iA3EYXWVcIhTias5rFA8WrtWLd4hy1ZzotDFK54sLTR51kEFXrualWqp97cigDZZDux2/EwSqhUyOCZQFxI0mbfOa7L7MGnD4RNKKafg8VzK+Gxo7PfRqV5dPJqPBEF8a7SZTj9wiEo9GEazpgibjqv+QRA0rdRGHvp/dn/HwYaKCx1j4O6R620K3fbpnLyA8L6iq+hu8JVSMbGQ2iALqkMnwAlCMXt2Vnb9OK8jTcLF3xTaVlKUqpiGb/Hpk2nOreAk1sOPFUezDA==</ds:SignatureValue><ds:KeyInfo Id="Certificado"><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>pg+zMvWFkfWky8NF/kHq3Mk5pouvFZHDNKgumzq3v+8OQdWf/dAoxK9FGH6Pi49Hj6L4W8QcTs4H2lCflaPV93gnac+1mcntyohswGe5gsTsY4R0iMzlO/r/5+fPM9oOK8hIsM7RBmN12x/5MnMoUIHFblQ6l9AJE48BpCt3VUGY0GG22yNF9zacw5I4rCNT9ihicMAXifE/l/HhRmRBf7gCdI5LJFW569uYB0TZjxrV4O09le2ZV5+4nPZt2IA8yI8O6nMfTocCxnUq/2hNEFIO5DLsnXtqzYFo+xI6PEYMP5Gu0ySoZiXlZsKwe/ypgZ0SY8AD7jJ6SOqxG89DmQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709437507</ds:X509SerialNumber></ds:X509IssuerSerial><ds:X509SubjectName>CN=ILSE VANESA TORRELLAS BERRIZBEITIA, 2.5.4.5=0000174931, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509SubjectName><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><QualifyingProperties xmlns="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-33009936"><SignedProperties Id="SignedProperties-1633715388"><SignedSignatureProperties><SigningTime>2026-04-30T21:41:29.705Z</SigningTime><SigningCertificate><Cert><CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>WVPI3TFy314+pCEhuHoZaGapHxk=</ds:DigestValue></CertDigest><IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR, L=QUITO, OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE, O=BANCO CENTRAL DEL ECUADOR, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709437507</ds:X509SerialNumber></IssuerSerial></Cert></SigningCertificate></SignedSignatureProperties></SignedProperties></QualifyingProperties></ds:Object></ds:Signature>
+</factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

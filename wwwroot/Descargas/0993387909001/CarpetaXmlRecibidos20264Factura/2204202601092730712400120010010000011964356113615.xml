@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2204202601092730712400120010010000011964356113615</numeroAutorizacion>
+<fechaAutorizacion>2026-04-22T14:48:41-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>LOOR MURILLO WILSON ESTEBAN</razonSocial>
+	    <nombreComercial>LOOR MURILLO WILSON ESTEBAN</nombreComercial>
+	    <ruc>0927307124001</ruc>
+	    <claveAcceso>2204202601092730712400120010010000011964356113615</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000001196</secuencial>
+	    <dirMatriz>Km 25 Vía Perimetral, Lotización Inmaconsa Mz 36 Solar 13</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>22/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>Km 25 Vía Perimetral, Lotización Inmaconsa Mz 36 Solar 13</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>NO</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>ASTECNAVIND S.A.S.</razonSocialComprador>
+	    <identificacionComprador>0993387909001</identificacionComprador>
+		<direccionComprador>GUAZMO NORTE COOP 1 DE MAYO</direccionComprador>
+	    
+	    <totalSinImpuestos>2520.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>2520.00</baseImponible>
+				<valor>378.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>2898.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>2898.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>PIEZ BRONCE</codigoPrincipal>
+		<codigoAuxiliar>PIEZ BRONCE</codigoAuxiliar>
+      	<descripcion>PIEZAS EN BRONCE</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>924.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1848.00</precioTotalSinImpuesto>
+	  
+	  
+	  	<detallesAdicionales>
+			
+    			<detAdicional nombre="Detalle" valor="BRIDAS EN BRONCE AL ALUMINIO DE 255X210X185MM"/>
+    		
+      	</detallesAdicionales>
+      
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1848.00000</baseImponible>
+          <valor>277.20</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PIEZ BRONCE</codigoPrincipal>
+		<codigoAuxiliar>PIEZ BRONCE</codigoAuxiliar>
+      	<descripcion>PIEZAS EN BRONCE</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>336.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>672.00</precioTotalSinImpuesto>
+	  
+	  
+	  	<detallesAdicionales>
+			
+    			<detAdicional nombre="Detalle" valor="BRIDAS EN BRONCE AL ALUMINIO DE 160X120X100MM"/>
+    		
+      	</detallesAdicionales>
+      
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>672.00000</baseImponible>
+          <valor>100.80</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">ASTECNAVIND S.A.S.  BRIDAS EN BRONCE AL ALUMINIO DE 255X210X185MM  BRIDAS EN BRONCE AL ALUMINIO DE 160X120X100MM</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature802783">
+<ds:SignedInfo Id="Signature-SignedInfo971272">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID750685" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature802783-SignedProperties622673">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>blldnpsgeXIpqepU3zoeHni8aas=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate440128">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>YmGMELG6VaMUgCpPwt42vRuniAA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-230587" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>k5NeyIz92YB3mqmk6+O/MbNHyho=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue667975">
+EpmNbLiR2baaGgFKTeaF0j2Dom1TgNY+Eu5u0aGbb1Do7JzY4pVYkldBBUUIoteEMyw7s23IvaTk
+9lfKAzpNdMMD5dByEqlzxLjMQBAT0jb3nbgEUQknxwGr8zlmHwhOjHICCI4SGZUbi0/riTGfPCTR
+WEp64dKLqJF5xMuywW2Wb/HjXqw84YWEH7ufy6WEe2QBELz++Me6UndmVjb68Fe4mtfrzloVC+Ew
+cZzOnC9Roh2nr5WIiLFAGsGcfIo4rPyjlRWunxiQ7yUH+7Py4hGvHDv9lO6yA66g2vOsyWZzQhzv
+FIC6AXEfkJbb2sm88HmBP/u1dHnbGisyNOEHGg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate440128">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJOTCCByGgAwIBAgIISn4Gg+cATlswDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDgwNzE2MTcwMFoXDTI2MDgwNzE2MTcwMFowgZwxCzAJBgNVBAYTAkVDMRUwEwYDVQQEDAxM
+T09SIE1VUklMTE8xFzAVBgNVBCoMDldJTFNPTiBFU1RFQkFOMRkwFwYDVQQFExBJRENFQy0wOTI3
+MzA3MTI0MSQwIgYDVQQDDBtXSUxTT04gRVNURUJBTiBMT09SIE1VUklMTE8xHDAaBgNVBGEME1RJ
+TkVDLTA5MjczMDcxMjQwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCchAP/MwDI
+MxhqODC9N47/MgeHXTPqqF76jxRHmWY1AlUQF3apWDdpWLLfcadyitoBKTcM0XH5H/NbKe11XfIX
+1ICv5F7w1X+PrIUEop3wsozefiEuk91yS+kMiq7y7/WmrqjkfiFOIxh6CxoiOziNW85Nlzo4vsf0
+A/tgR/R4XZeP0uLSZQksAv9yNCpuv3Rw4vuTnfKXEZrnO31gwg1Ixu1Mdg42qLFeIXdOkDq1EZhk
+urE+43HmHC8REaOjQRX/6j2Dzy+W130+BQZQ+AWD6qEEBYAG/SdySMuJAWU6zuzcVxRJijLwR8k5
+49piBkC3bgco5RODgTZY822WGnX3AgMBAAGjggRfMIIEWzAbBgsrBgEEAYLxNmYDAQQMDAowOTI3
+MzA3MTI0MB4GCysGAQQBgvE2ZgMLBA8MDTA5MjczMDcxMjQwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUYQbvN5yUsyi8+6eCCCoZtN7U
+j/AwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0g
+BIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggGVBgNVHREEggGMMIIBiIEebm90aWZpY2FjaW9uZXNmaXJtYXNAc2lpZ28uY29toBsGCysGAQQB
+gvE2ZgMBoAwMCjA5MjczMDcxMjSgHwYLKwYBBAGC8TZmAwKgEAwOV0lMU09OIEVTVEVCQU6gFQYL
+KwYBBAGC8TZmAwOgBgwETE9PUqAYBgsrBgEEAYLxNmYDBKAJDAdNVVJJTExPoEQGCysGAQQBgvE2
+ZgMHoDUMM0tNIDE1IFZJQSBBIFNBTElUUkUgVVJCQU5JWkFDSU9OIExPUyBQUkFET1MgRVRBUEEg
+MaAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk2Nzg1MjAwNqAWBgsrBgEEAYLxNmYDCaAHDAVEQVVM
+RaAeBgsrBgEEAYLxNmYDC6APDA0wOTI3MzA3MTI0MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkG
+CysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJ
+DAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4ICAQAkpiuCuAKeL6YqLnbnzz8PWce7HKBkFc+9gn0b
+gw/0EcxY4TIA61MyVxbkt1NO/E2s1ktfhJ5yw96FBLGamgSodgkmhosgqWnrSh6ESmgBXmbAAVwk
+Blnn+Ki2qEKQ/KJmTmitS4UJavnDfRFEjyXNMOtxYFDWvmN6q0GdxmPE71hql782ouXirm58YsHz
+2sumyLIc/H/D5yIAPOMC5YeKfqYjOpFZgkVrGFYGYtGDl+uV0Q/fz0B61GRfJkE6kE08Y9Xwp7uS
+OO4V4hAr0WGSEiXKKqnnKaEaTJVCfX+kkHWfOO2udc9LmrENeRUlJG0ltGHG5BMnW97GqG2LPcSM
+ZiAaf+a38lnv7eD4voz11fhZw2wry2CWhAWDqJ1/UvriZRS3rUb4U90C4fvnlTbm4LwVUwv4siKW
+vjsczXHAWrucs/MWB7vvyO7JGF7qrpyIj2+IvBB8hQD3k7xkHPEc2py/Qj3AhHpKRhBmHIojfx+8
+7l42BW7OQ3Y+297ck6vzjfMh5imuL4GN/vNUwC6zOgplOtGlwZi2LJHWt7KLAOrCXyMj2nqf8WzI
+4nkitEajCVbKkm2iKxROd1tA/ILrOhMmh/NnGZEn+N9yECU9SFBAHs0f8LxtT7PtfLA/UX6t1ex/
+g6R+pp6yMZa1Xebb5RJixabXm0dK/uorMGYT2Q==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nIQD/zMAyDMYajgwvTeO/zIHh10z6qhe+o8UR5lmNQJVEBd2qVg3aViy33GncoraASk3DNFx+R/z
+WyntdV3yF9SAr+Re8NV/j6yFBKKd8LKM3n4hLpPdckvpDIqu8u/1pq6o5H4hTiMYegsaIjs4jVvO
+TZc6OL7H9AP7YEf0eF2Xj9Li0mUJLAL/cjQqbr90cOL7k53ylxGa5zt9YMINSMbtTHYONqixXiF3
+TpA6tRGYZLqxPuNx5hwvERGjo0EV/+o9g88vltd9PgUGUPgFg+qhBAWABv0nckjLiQFlOs7s3FcU
+SYoy8EfJOePaYgZAt24HKOUTg4E2WPNtlhp19w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature802783-Object178676"><etsi:QualifyingProperties Target="#Signature802783"><etsi:SignedProperties Id="Signature802783-SignedProperties622673"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-22T14:48:39-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>7pEWxUy6GNrggoJsM/k2O2N1F3E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>5367734969458249307</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

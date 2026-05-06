@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0204202601099233460600120010010001444200014442011</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T15:09:42-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>COMERCIALIZADORA SER WAY S.A.</razonSocial>
+    <nombreComercial>SER WAY</nombreComercial>
+    <ruc>0992334606001</ruc>
+    <claveAcceso>0204202601099233460600120010010001444200014442011</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000144420</secuencial>
+    <dirMatriz>GOMEZ RENDON 4620 Y CALLE 24 AVA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>02/04/2026</fechaEmision>
+    <dirEstablecimiento>GOMEZ RENDON 4620 Y CALLE 24 AVA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ABRIL TRIANA EDWIN RAUL</razonSocialComprador>
+    <identificacionComprador>0920991338001</identificacionComprador>
+    <direccionComprador>GUAYAS / MILAGRO / MILAGRO / LIZARDO GARCIA S/N Y ESTERO BERLIN ESQ. ATEGO 1323 AC, 2015. WDB970068FL848754, OM906910C1068200. GUARD. PEDRITO AVENDAÑO RIVA, 0999606898 </direccionComprador>
+    <totalSinImpuestos>103.06</totalSinImpuestos>
+    <totalSubsidio>0</totalSubsidio>
+    <totalDescuento>0.0000</totalDescuento>
+    <totalComprobantesReembolso>0</totalComprobantesReembolso>
+    <totalBaseImponibleReembolso>0</totalBaseImponibleReembolso>
+    <totalImpuestoReembolso>0</totalImpuestoReembolso>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>103.06</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>15.44</valor>
+        <valorDevolucionIva>0</valorDevolucionIva>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <fleteInternacional>0</fleteInternacional>
+    <seguroInternacional>0</seguroInternacional>
+    <gastosAduaneros>0</gastosAduaneros>
+    <gastosTransporteOtros>0</gastosTransporteOtros>
+    <importeTotal>118.5000</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>118.50</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+    <valorRetIva>0</valorRetIva>
+    <valorRetRenta>0</valorRetRenta>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>4.40175</codigoPrincipal>
+      <codigoAuxiliar>1</codigoAuxiliar>
+      <descripcion>PER.RUED.DEL.20×77 1113 LIQUID.</descripcion>
+      <cantidad>8.0000</cantidad>
+      <precioUnitario>3.47875</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>27.83</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Código" valor="4.40175"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>27.83</baseImponible>
+          <valor>4.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01.30.047</codigoPrincipal>
+      <codigoAuxiliar>2</codigoAuxiliar>
+      <descripcion>CAUCH.BARR.ESTABIL.DEL/POST.ATEGO/2 1725/1728S</descripcion>
+      <cantidad>2.0000</cantidad>
+      <precioUnitario>3.045</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>6.09</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Código" valor="01.30.047"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.09</baseImponible>
+          <valor>0.91</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01.37.050</codigoPrincipal>
+      <codigoAuxiliar>3</codigoAuxiliar>
+      <descripcion>TERM.BARR.DIRECC.DER.1621/1725/1720/1728/1730/1924</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>27.83</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>27.83</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Código" valor="01.37.050"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>27.83</baseImponible>
+          <valor>4.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ZL-2047</codigoPrincipal>
+      <codigoAuxiliar>4</codigoAuxiliar>
+      <descripcion>TERM.BARR.DIRECC.IZQ.ATEGO O500 1725/1728</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>25.22</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>25.22</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Código" valor="ZL-2047"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>25.22</baseImponible>
+          <valor>3.78</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>08771</codigoPrincipal>
+      <codigoAuxiliar>5</codigoAuxiliar>
+      <descripcion>TERM.VARILL.DER.T/HILO S5680/S6680/S690/16S150/16S</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>8.7</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>8.70</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Código" valor="08771"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>8.70</baseImponible>
+          <valor>1.30</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>01.24.228</codigoPrincipal>
+      <codigoAuxiliar>6</codigoAuxiliar>
+      <descripcion>MANGO PALANC.CAMB.CORT.C/TAPA 1620/1721/1730</descripcion>
+      <cantidad>1.0000</cantidad>
+      <precioUnitario>7.39</precioUnitario>
+      <descuento>0.0000</descuento>
+      <precioTotalSinImpuesto>7.39</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Código" valor="01.24.228"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.39</baseImponible>
+          <valor>1.11</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">raul-one85@hotmail.com,serwaysa@gmail.com,contabiliada@serway.com.ec</campoAdicional>
+    <campoAdicional nombre="Info Adicional ">2/4/2026 15:05:32</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature443063">
+<ds:SignedInfo Id="Signature-SignedInfo129333">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID488845" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature443063-SignedProperties614124">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>c/LMLKkQO+Fl9+R9OsWt0CUm1S0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1700666">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>9zaYsq4PLPlDrb3uAZGMSTGQpzA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-837663" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1VQh48VStKLP1wC8uiooIP+4PE8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue590367">
+HVIn3QhPeu/6OfH7IJNSPw1qI7rvHgRJZHAwrAOze/HZN63xdTRyMkxmAcdrwYrgNlwKPegDa//W
+SpYJcu0yW5M8fIJg3ASA4/61dbEiXr52mVSHDh5svvYOPI9qEJji8SiVVXmXhYM51Aochv0sbQX6
+roPpOSx+ql7xx2Un8J8YrWB5JPAL/qh8sQErHuTHKh/tPAlBi3nVlkZ+sAd07bmiP3zOBfREtQ7D
+GqSJNG6GozBs+ou+LGQGg11+dJhX9xGl4yHTfzuVC0QT2auKnk1ILFCZThtK1yyCLBzl6pCL6HbQ
+zx2OCtsU/u/zjJbNmDuPOibWuanbs+2CUCkjZQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1700666">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMBTCCCe2gAwIBAgIEMCpozDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzExMTAxNDI3MjhaFw0yNjExMDkxNDI3MjhaMIGbMSQw
+IgYDVQQDDBtBTkdFTCBEQVZJRCBTQU5DSE8gT1JFTExBTkExFTATBgNVBAUTDDEwMTEyMzA5Mzcx
+MTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYD
+VQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCUKTiYs6x7vBmuxPuqyB73ng0y+BQ30dSjrqVRYIGW3DgHL9Ie8KLw6Wul
+FJ9dyoA+M+8ZxX036qpB0iuZ6DtUsc+rSJkzwrjnKBwksoj+GbNQWeA10zBM95/U8v2+KUYd1/n2
+8B3TIwFMTsX+a4gBd9K7ad1vEmseej3itzli++b4hDLnJOd5BtCqlSLnQ3v0HYapzs6u2cN9tZ3P
+sSr0x12bY96TffWx95YZzKbviSQTlGCn8FzlXJxfcZMkrbnDi+tM3/qBZ5pBQXK4nDXu8eNRJEFr
+wxHOMEJUsGeFBbxSBQxUtAG9niUOXXTTx+tpr4uSkxn29h6OwpacXjz3AgMBAAGjggdPMIIHSzAM
+BgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEB
+BE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xk
+YXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/
+YmFzZTAdBgNVHREEFjAUgRJzZXJ3YXlAZWN1YS5uZXQuZWMwggEVBgNVHSAEggEMMIIBCDBiBgor
+BgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAg
+AFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIw
+gY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50
+L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0
+aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9
+aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CB
+xKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0
+aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVy
+YWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlz
+dD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNF
+Q1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89
+U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUFP+or0Qtw1BFo2SkO5Oc6DyrNbQw
+KwYDVR0QBCQwIoAPMjAyMzExMTAxNDI3MjhagQ8yMDI2MTEwOTE0MjcyOFowCwYDVR0PBAQDAgXg
+MB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMDcwMjE2
+NTk2MDAZBgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDARBgorBgEEAYKmcgMiBAMMAS4wMAYKKwYB
+BAGCpnIDBwQiDCBHT01FWiBSRU5ET04gNDYyMCBZIENBTExFIDI0IEFWQTAbBgorBgEEAYKmcgMC
+BA0MC0FOR0VMIERBVklEMB8GCisGAQQBgqZyAyAEEQwPMDA2MDAxMDAwMDUwMjI5MBMGCisGAQQB
+gqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBlNB
+TkNITzAsBgorBgEEAYKmcgMKBB4MHENPTUVSQ0lBTElaQURPUkEgU0VSIFdBWSBTIEEwHQYKKwYB
+BAGCpnIDCwQPDA0wOTkyMzM0NjA2MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wGAYKKwYBBAGCpnID
+BAQKDAhPUkVMTEFOQTAaBgorBgEEAYKmcgMIBAwMCjA5OTQzNjczNjIwDQYJKoZIhvcNAQELBQAD
+ggIBAJ6f/5nrNTnbUeLofhVDm/kq80DUbBZJaZg9jUmf7F4NFDi/in/rhbp3uCa4iSz+Y9i9Yu++
+eSJlUd5m/SwsUXyaF7uwcdTkMjjj0FpqufELNKMHkhDYDXyZ23OGi/FrmGtZqAmac+Q7KBKndyvF
+WJEhGLPzgJ5Kv6S2p2h2vPWOsF5uN608GmhBq1iIyBzId6YZM+fPjsdsF09Y6CAUAGmaroGGaNj1
+/JhMG0rFNWPQMKIXYdQPkRZzCv0rl2qu7nQb9hweMiXcd5eZ46ZNW2MuJttTE/J3XD0IT5fG1zh/
+RG+FfmI50VN4WPKX/SMyy8wTW0deDTMyz0aWmnMKlsScuidkW6iqmrf62PdKCR1uCpusOAwM9kTd
+oRWX8sRR+IiCMSBNoV1Mj7ka8lv/On3h+U1AEYi7EKN0vK4aBu8EbM+IqA+i2wHCLK5e4M1IVNVY
+95LR5ZnJI01hhltDviuL+od1GwrYpXintOo2Wf+t5x97I+cxOdAaOkbMecilRQSWhG2gAhgYOkvz
+0+TRUZmAcUwddy2pQpNZbwveqT9sG1BhJH3SBYUlrfgR2cKSEXb+ToURwjaXT6cO4YarGloepRFq
+K4jIVaLE8ILXfCDxU6bhf/mj5YprLPEqEIa2jIkmEMWkRR0fiufUYKO3uaHEimYh/kH+lofwMWky
+KZSw
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+lCk4mLOse7wZrsT7qsge954NMvgUN9HUo66lUWCBltw4By/SHvCi8OlrpRSfXcqAPjPvGcV9N+qq
+QdIrmeg7VLHPq0iZM8K45ygcJLKI/hmzUFngNdMwTPef1PL9vilGHdf59vAd0yMBTE7F/muIAXfS
+u2ndbxJrHno94rc5Yvvm+IQy5yTneQbQqpUi50N79B2Gqc7OrtnDfbWdz7Eq9Mddm2Pek331sfeW
+Gcym74kkE5Rgp/Bc5VycX3GTJK25w4vrTN/6gWeaQUFyuJw17vHjUSRBa8MRzjBCVLBnhQW8UgUM
+VLQBvZ4lDl1008fraa+LkpMZ9vYejsKWnF489w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature443063-Object253384"><etsi:QualifyingProperties Target="#Signature443063"><etsi:SignedProperties Id="Signature443063-SignedProperties614124"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-02T15:09:41-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>uWw1ReiPwTiIu3ei8s5vw6Y9u7M=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>808085708</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-837663"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202601171473962800120020010000008498269948011</numeroAutorizacion>
+<fechaAutorizacion>2026-04-29T16:50:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+
+<infoTributaria>
+
+<ambiente>2</ambiente>
+
+<tipoEmision>1</tipoEmision>
+
+<razonSocial>INLAGO FARINANGO EDUARDO RENE</razonSocial>
+
+<nombreComercial>FERREINNOVA CAYAMBE</nombreComercial>
+
+<ruc>1714739628001</ruc>
+
+<claveAcceso>2904202601171473962800120020010000008498269948011</claveAcceso>
+
+<codDoc>01</codDoc>
+
+<estab>002</estab>
+
+<ptoEmi>001</ptoEmi>
+
+<secuencial>000000849</secuencial>
+
+<dirMatriz>9 DE OCTUBRE OE0-36 Y ASCAZUBI</dirMatriz>
+
+</infoTributaria>
+
+<infoFactura>
+
+<fechaEmision>29/04/2026</fechaEmision>
+
+<dirEstablecimiento>9 DE OCTUBRE Y NATALIA JARRIN</dirEstablecimiento>
+
+<obligadoContabilidad>NO</obligadoContabilidad>
+
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+
+<razonSocialComprador>GUALAVISI GUAJAN DAVID</razonSocialComprador>
+
+<identificacionComprador>1716539133001</identificacionComprador>
+
+<direccionComprador>PAQUIESTANCIA</direccionComprador>
+
+<totalSinImpuestos>17.83</totalSinImpuestos>
+
+<totalDescuento>0.00</totalDescuento>
+
+<totalConImpuestos>
+
+<totalImpuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<descuentoAdicional>0.00</descuentoAdicional>
+
+<baseImponible>17.83</baseImponible>
+
+<valor>2.67</valor>
+
+</totalImpuesto>
+
+<totalImpuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>0</codigoPorcentaje>
+
+<descuentoAdicional>0.00</descuentoAdicional>
+
+<baseImponible>0.00</baseImponible>
+
+<valor>0.00</valor>
+
+</totalImpuesto>
+
+</totalConImpuestos>
+
+<propina>0.00</propina>
+
+<importeTotal>20.50</importeTotal>
+
+<moneda>DOLAR</moneda>
+
+<pagos>
+
+<pago>
+
+<formaPago>01</formaPago>
+
+<total>20.50</total>
+
+<plazo>0</plazo>
+
+<unidadTiempo>mes(es)</unidadTiempo>
+
+</pago>
+
+</pagos>
+
+</infoFactura>
+
+<detalles>
+
+<detalle>
+
+<codigoPrincipal>0002102</codigoPrincipal>
+
+<codigoAuxiliar>NA</codigoAuxiliar>
+
+<descripcion>CODO 1/2"X90° ROSCABLE PLASTIGAMA</descripcion>
+
+<cantidad>2.000000</cantidad>
+
+<precioUnitario>0.478260</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>0.96</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="2.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="U"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<tarifa>15.00</tarifa>
+
+<baseImponible>0.96</baseImponible>
+
+<valor>0.14</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+<detalle>
+
+<codigoPrincipal>0007191</codigoPrincipal>
+
+<codigoAuxiliar>NA</codigoAuxiliar>
+
+<descripcion>TEE 1/2" ROSCABLE PLASTIGAMA</descripcion>
+
+<cantidad>4.000000</cantidad>
+
+<precioUnitario>0.608700</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>2.43</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="4.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="U"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<tarifa>15.00</tarifa>
+
+<baseImponible>2.43</baseImponible>
+
+<valor>0.36</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+<detalle>
+
+<codigoPrincipal>0002473</codigoPrincipal>
+
+<codigoAuxiliar>NA</codigoAuxiliar>
+
+<descripcion>CRUZ 1/2" ROSCABLE POLIM.</descripcion>
+
+<cantidad>1.000000</cantidad>
+
+<precioUnitario>1.391300</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>1.39</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="1.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="U"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<tarifa>15.00</tarifa>
+
+<baseImponible>1.39</baseImponible>
+
+<valor>0.21</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+<detalle>
+
+<codigoPrincipal>0004806</codigoPrincipal>
+
+<codigoAuxiliar>NA</codigoAuxiliar>
+
+<descripcion>NEPLO 1/2" CORRIDO ROSCABLE PLASTIGAMA</descripcion>
+
+<cantidad>7.000000</cantidad>
+
+<precioUnitario>0.434780</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>3.04</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="7.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="U"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<tarifa>15.00</tarifa>
+
+<baseImponible>3.04</baseImponible>
+
+<valor>0.46</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+<detalle>
+
+<codigoPrincipal>0001277</codigoPrincipal>
+
+<codigoAuxiliar>NA</codigoAuxiliar>
+
+<descripcion>BUSHING 3/4"X1/2" ROSCABLE ROJO PLASTIM</descripcion>
+
+<cantidad>7.000000</cantidad>
+
+<precioUnitario>0.695650</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>4.87</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="7.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="U"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<tarifa>15.00</tarifa>
+
+<baseImponible>4.87</baseImponible>
+
+<valor>0.73</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+<detalle>
+
+<codigoPrincipal>0004819</codigoPrincipal>
+
+<codigoAuxiliar>NA</codigoAuxiliar>
+
+<descripcion>NEPLO 1/2" X 20CM ROSCABLE PLASTIGAMA</descripcion>
+
+<cantidad>6.000000</cantidad>
+
+<precioUnitario>0.695650</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>4.17</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="6.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="U"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<tarifa>15.00</tarifa>
+
+<baseImponible>4.17</baseImponible>
+
+<valor>0.63</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+<detalle>
+
+<codigoPrincipal>0004896</codigoPrincipal>
+
+<codigoAuxiliar>NA</codigoAuxiliar>
+
+<descripcion>NEPLO HG 1/2"X2" GALV.</descripcion>
+
+<cantidad>1.000000</cantidad>
+
+<precioUnitario>0.965220</precioUnitario>
+
+<descuento>0.00</descuento>
+
+<precioTotalSinImpuesto>0.97</precioTotalSinImpuesto>
+
+<detallesAdicionales>
+
+<detAdicional nombre="Factor" valor="1"></detAdicional>
+
+<detAdicional nombre="Cantidad" valor="1.00000"></detAdicional>
+
+<detAdicional nombre="Unidad" valor="U"></detAdicional>
+
+</detallesAdicionales>
+
+<impuestos>
+
+<impuesto>
+
+<codigo>2</codigo>
+
+<codigoPorcentaje>4</codigoPorcentaje>
+
+<tarifa>15.00</tarifa>
+
+<baseImponible>0.97</baseImponible>
+
+<valor>0.15</valor>
+
+</impuesto>
+
+</impuestos>
+
+</detalle>
+
+</detalles>
+
+<infoAdicional>
+
+<campoAdicional nombre="direccionCliente">PAQUIESTANCIA</campoAdicional>
+
+<campoAdicional nombre="telefonoCliente">*</campoAdicional>
+
+<campoAdicional nombre="correoCliente">rosescousinsg.dtf@hotmail.com</campoAdicional>
+
+<campoAdicional nombre="codigoVendedor">V3</campoAdicional>
+
+<campoAdicional nombre="nombreVendedor">JHONATAN</campoAdicional>
+
+<campoAdicional nombre="DSCTO_VALOR">0.00</campoAdicional>
+
+<campoAdicional nombre="BaseIVA">17.83</campoAdicional>
+
+<campoAdicional nombre="BaseCero">0.00</campoAdicional>
+
+<campoAdicional nombre="BaseNOobjIVA">0.00</campoAdicional>
+
+</infoAdicional>
+
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature404931">
+<ds:SignedInfo Id="Signature-SignedInfo822688">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID935095" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature404931-SignedProperties201135">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1iJ7BAmUOZ6LbA9vliymhE3EtZc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1645063">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>gxIQXYCXpE3BgEA84m0yRXtq4YI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-125073" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>OIKaK+HoRmk965GsTwZUYueCC00=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1010764">
+L5ewROUmcW6srGHZ6klVZBS8K/tcZYo3UlxM8npdb3aq8XbkFkPm0jO/GhQiUpbGbdvkwyRnr6DB
+0gX/67yuGpTZxY9qordWrBLJuOY2PpO+8p0mP/qg8WbDZjgoDS9bWR8bKRqAV8vcdn2Uz+8qL40r
+bw1Nn6nOm0uvTb4jswKiGXVlmp6h0XVFB2k63m7NK5k/VaBE7I5Lf/eyQnNPa8+DFl25zr/2b4QV
+3TxPlqoap3k+a6bRweYwYrCKk8hdNPtLSI/MuVgXLMPWSXpLkDftDgc2mqKUveLfu4H+BV+FwKsM
+doSuVT54bbLj8jyFLZdh6LI4pFU0zA6KRDW9qw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1645063">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK0DCCCLigAwIBAgIMAzoaXwYFQTsuwtZ7MA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjUwNTEzMTY0NTA5WhcNMjkwNTEyMTY0NTA5WjCCAZExJjAkBgNVBAoMHUlOTEFHTyBG
+QVJJTkFOR08gRURVQVJETyBSRU5FMRowGAYKKwYBBAGCpEIKBAwKMTcxNDczOTYyODErMCkGA1UE
+CwwiQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsIFJVQyBFQzEVMBMGA1UEKgwMRURVQVJETyBS
+RU5FMRYwFAYDVQRhEw0xNzE0NzM5NjI4MDAxMQswCQYDVQQGEwJFQzETMBEGA1UEBRMKMTcxNDcz
+OTYyODEZMBcGA1UEBAwQSU5MQUdPIEZBUklOQU5HTzExMC8GA1UEAwwoMTcxNDczOTYyOCBFRFVB
+UkRPIFJFTkUgSU5MQUdPIEZBUklOQU5HTzEmMCQGCSqGSIb3DQEJARYXZmVycmVpbm5vdmFAaG90
+bWFpbC5jb20xMTAvBgNVBA0MKENlcnRpZmljYWRvIHBhcmEgUGVyc29uYSBOYXR1cmFsIGNvbiBS
+VUMxEjAQBgNVBAgMCVBJQ0hJTkNIQTEQMA4GA1UEBwwHQ0FZQU1CRTCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAJ2H1o4/0oZEhpSqoktHCeILG8mQOatTNjX2VrbdNCnnG5//Km60Q9c4
+rQ16lqEhSEDGVSqMLNnpioIKO5ujeOU0F7fJjYiXiM5MLyKp6ISRZtLKNqyG7+0cCl28F5XUDumc
+VQ1y8pxAJxKHQ8+zMwxuqdUEzjd1s6OKVr75U1OlI9Ouf8P7UrjuR/ORy9dEDB9UHoicXYYUF0ok
+WEqFjX+4SrmhsgGQJtRSVW/Kd9oTj3WSIn2rQTNVaNjuX417jfW3BjLVgadEbZ4TSjgl+on925wV
+wLPbNRzMoredPCTOlVhuYs20pNg3Cg3DBOQ8CmowWn4EHdd+pDIsJQ/v+mECAwEAAaOCBPswggT3
+MB8GA1UdIwQYMBaAFJKu1MuCtJnG0XsRbGXqxU1oIfmsMB0GA1UdDgQWBBSzWZVNs0SE/BlX8leG
+QKF/werFmjCBsgYDVR0RBIGqMIGngRdmZXJyZWlubm92YUBob3RtYWlsLmNvbaSBizCBiDEcMBoG
+CisGAQQBgqRCCgEMDEVEVUFSRE8gUkVORTEWMBQGCisGAQQBgqRCCgIMBklOTEFHTzEZMBcGCisG
+AQQBgqRCCgMMCUZBUklOQU5HTzEaMBgGCisGAQQBgqRCCgQMCjE3MTQ3Mzk2MjgxGTAXBgkrBgEE
+AYGPHAEMCkEtMTMwNTIwMjUwDgYDVR0PAQH/BAQDAgbAMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggr
+BgEFBQcDBDBQBgNVHR8ESTBHMEWgQ6BBhj9odHRwOi8vY3JsLmFuZi5lcy9jcmwvQU5GSGlnaEFz
+c3VyYW5jZUVjdWFkb3JJbnRlcm1lZGlhdGVDQS5jcmwwggENBgNVHSAEggEEMIIBADCB5wYMKwYB
+BAGCpEICBQEDMIHWMDAGCCsGAQUFBwIBFiRodHRwczovL2FuZi5lcy9lYy9yZXBvc2l0b3Jpby1s
+ZWdhbC8wgaEGCCsGAQUFBwICMIGUDIGRQ2VydGlmaWNhZG8gY29uZm9ybWUgYSBsYSBsZWdpc2xh
+Y2nDs24gZGUgZmlybWEgZWxlY3Ryw7NuaWNhLiBBbnRlcyBkZSBhY2VwdGFybG8gY29tcHJ1ZWJl
+IGludGVncmlkYWQsIGxpbWl0YWNpb25lcywgdmlnZW5jaWEgeSB1c29zIGF1dG9yaXphZG9zLjAJ
+BgcEAIvsQAEBMAkGB2CFVAEDBQgwgZsGCCsGAQUFBwEBBIGOMIGLMCcGCCsGAQUFBzABhhtodHRw
+Oi8vb2NzcC5hbmYuZXMvc3BhaW4vQVYwYAYIKwYBBQUHMAKGVGh0dHA6Ly93d3cuYW5mLmVzL2Vz
+L2NlcnRpZmljYXRlcy1kb3dubG9hZC9BTkZIaWdoQXNzdXJhbmNlRWN1YWRvckludGVybWVkaWF0
+ZUNBLmNlcjAMBgNVHRMBAf8EAjAAMCgGCSsGAQQBgY8cEwQbDBk2Mzk5MzgyMDM3ODItNDg0NjU2
+NDczNDQwMBUGCisGAQQBgY8cEwIEBwwFMzc0NDIwKQYKKwYBBAGCpEITAQQbDBk0ODQ2NTY0NzM0
+NDAtNDc2ODE5NzQ3MDk1MBoGCisGAQQBgqRCAwEEDAwKMTcxNDczOTYyODAtBgorBgEEAYKkQgMK
+BB8MHUlOTEFHTyBGQVJJTkFOR08gRURVQVJETyBSRU5FMB0GCisGAQQBgqRCAwsEDwwNMTcxNDcz
+OTYyODAwMTASBgorBgEEAYKkQgMMBAQMAkVDMBwGCisGAQQBgqRCAwIEDgwMRURVQVJETyBSRU5F
+MCAGCisGAQQBgqRCAwMEEgwQSU5MQUdPIEZBUklOQU5HTzAXBgorBgEEAYKkQgMJBAkMB0NBWUFN
+QkUwFwYKKwYBBAGCpEIqAQQJDAdVSU8tMDAzMBQGCisGAQQBgqRCLgEEBgwEMTQ2MDBQBgorBgEE
+AYKkQi8BBEIMQDEzMTNhYjg5NGY4YzIyMTY5MzEwY2Q0NjBkNzUzMmRkYjMyMzgxNzkyZDkwNGM4
+MjE3ODRiOTYzZjk1YzkwNjEwDQYJKoZIhvcNAQELBQADggIBADF5B8O7tDkk+TCsGZooFFOdR3HA
+dM9NXewMKl0LAi4rWO3aX8EvnG0J+T05aEfP1XzoEl370CyXNmI65RKaKuMzYsfSxXWHWf3+pmIa
+fNtKbpsYYuJ0PlxxQ8ufDke88+iLj+0GVEhDzqNEfs9UIRK9/qjMDVJOgp6mSktqbfhbWDI+HymU
+Aq3N8h2Tqp/+2iDkLEa1cUAYwMQL/YzcN+41tCXROljEFx1oRaWIsxE3gaoFKV0lQlNurcwEDtq6
+nVNuFyqPbVXXml22Xj/+hYXVh1siUhOLiWrR+2cBSFwQnEXtY1TOjQ6yxbUb9jGPL1mkYHzxMDN9
+SbXM0HmHROLgL6e1j4Fkfpv3985hZBKY9p0quswo2jRmeKYOnmbaYNVVg5C59w/upZbh5eKVnwnr
+sbdib3liDHcfmbulXznQ2MeCmSrCjTrmlrM6vkyA5CEoG+srsdfortV9F1/e6yDxsbdFJAraXGON
+PdkRnR+ApQBr4PYL+jTY6M3G9uyT9XT1Po/TUjAfyd8YIqIaceVgndMYiGGmhZ6BTkJYkXIvCjz+
+QVuz1LckatL9t8dkVQwIpdbbhA7qnBdoCZC5vOwCFTYZGdmrlgIqjgrXnpPi/7ESkOTze/IFFBS6
+nCHdYLE3xX21fm1VBTrHLR19DXVIkqQGYzyLW4CLQ4Pqed+g
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nYfWjj/ShkSGlKqiS0cJ4gsbyZA5q1M2NfZWtt00Kecbn/8qbrRD1zitDXqWoSFIQMZVKows2emK
+ggo7m6N45TQXt8mNiJeIzkwvIqnohJFm0so2rIbv7RwKXbwXldQO6ZxVDXLynEAnEodDz7MzDG6p
+1QTON3Wzo4pWvvlTU6Uj065/w/tSuO5H85HL10QMH1QeiJxdhhQXSiRYSoWNf7hKuaGyAZAm1FJV
+b8p32hOPdZIifatBM1Vo2O5fjXuN9bcGMtWBp0RtnhNKOCX6if3bnBXAs9s1HMyit508JM6VWG5i
+zbSk2DcKDcME5DwKajBafgQd136kMiwlD+/6YQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature404931-Object612530"><etsi:QualifyingProperties Target="#Signature404931"><etsi:SignedProperties Id="Signature404931-SignedProperties201135"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-29T16:50:42-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>rNKO6jekoR9FXZBHVFerLJ7xs4A=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>998697261404749973044778619</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-125073"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1004202601099285755200120010030000171930003571916</numeroAutorizacion>
+<fechaAutorizacion>2026-04-10T13:50:14-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>DITOLIRO S.A.</razonSocial>
+	    <nombreComercial>MIYAKO SUSHI</nombreComercial>
+	    <ruc>0992857552001</ruc>
+	    <claveAcceso>1004202601099285755200120010030000171930003571916</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>003</ptoEmi>
+	    <secuencial>000017193</secuencial>
+	    <dirMatriz>TARQUI / EBANOS 126 Y V.E.ESTRADA-BALSAMOS</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>10/04/2026</fechaEmision>
+		
+			<dirEstablecimiento>TARQUI / EBANOS 126 Y V.E.ESTRADA-BALSAMOS</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>ERIKA FERNANDEZ</razonSocialComprador>
+	    <identificacionComprador>0920196813</identificacionComprador>
+		<direccionComprador>xxxxxx</direccionComprador>
+	    
+	    <totalSinImpuestos>39.22000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>39.22</baseImponible>
+				<valor>5.88000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>45.10000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>45.10</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>BEB002</codigoPrincipal>
+		<codigoAuxiliar>BEB002</codigoAuxiliar>
+      	<descripcion>AGUA MINERAL</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.610000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.61</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.61000</baseImponible>
+          <valor>0.24</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PLT006</codigoPrincipal>
+		<codigoAuxiliar>PLT006</codigoAuxiliar>
+      	<descripcion>KATSUDON</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>12.300000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.30</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>12.30000</baseImponible>
+          <valor>1.84</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>RAM006</codigoPrincipal>
+		<codigoAuxiliar>RAM006</codigoAuxiliar>
+      	<descripcion>MISO RAMEN</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>10.700000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.70</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>10.70000</baseImponible>
+          <valor>1.60</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>ROLL019</codigoPrincipal>
+		<codigoAuxiliar>ROLL019</codigoAuxiliar>
+      	<descripcion>SUMO ROLL</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>12.610000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>12.61</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>12.61000</baseImponible>
+          <valor>1.89</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>BEB003</codigoPrincipal>
+		<codigoAuxiliar>BEB003</codigoAuxiliar>
+      	<descripcion>TE HELADO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.00000</baseImponible>
+          <valor>0.30</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature755810">
+<ds:SignedInfo Id="Signature-SignedInfo64744">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID850558" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature755810-SignedProperties354578">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4TqGIzkxjs7nGK8yhP/aFquneUE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate25063">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>KcGNf3LG5l8m80nBDws/JVtCMVE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-981731" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>M+GCp1PCvE1M04v93UV4q3AFpq0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue254553">
+RxF7ml8mFxIBbvoGQPjpT+AibU/CGe5+Me7UOb2fnTbveelY7uEC6moCU81vQBkKY5c8UAs6sqt8
+HZi7IYOEzoT78CDBBBO+WaKdpE6jXDLxbhKJw6IOHjIPuKHDxUNyMw0blOjM21t0MNlwvXgdumoV
+9nuydTM9+QCu2mRaULTgaLADDmc7Dlj6JfZks43+Y2IIaI0VUst9jyPqcsVy5yx0LIU3TC69WTd1
+W0MCfBbay/6UMad7z5UeHEKI1l1qhn+1oCCENrk5y5tWOfcYm3AdoPwid7Z/iIB0ZYlvLljU81zc
+LnKpoxkO9wEtVW4mTOxF2wvc62NjncpysfnCKg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate25063">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKsDCCCJigAwIBAgIEeZOgOjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA0MTcxODQ0MzdaFw0yNjA0MTcxODQ0MzdaMIGhMR8w
+HQYDVQQDDBZLRVZJTiBBTkRSRSBSSVZBUyBNRVJBMSAwHgYDVQQFExcwOTIyNjE1MjgxLTE3MDQy
+NTEzNTQyNjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCnhoFR+jq4lMkhBFHqcg4EBU9OGTSeWHK8bo6rmseFwzrCyXgU
+GQSn6YNbp/nOdHaVinudjrbIkrTntkZFEy2YJ+2LYrqHMT+9cdTT52+Vm6Vts3oPezso2eSfdGNv
+/tn4pMppHoO6amVhH6i+qT+VXlI67jhWYnHaMdpvRseTkYCwDtHDxMQDiXxFI653hvryLJQ9r5GM
+aTFQcehWJ1st9PkTjYSPct5iEasmRB9r/ymcKm+ZDg7hTXXCojIyFgjmFsYW053DKF0WhoLTbLmL
+t0SZz/2Q51y0+iKRLXya4o3vqEkNOMY/cfPIprdxqZyjlDgcIa9iB3o1EZKerYNbAgMBAAGjggX0
+MIIF8DAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsG
+AQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVj
+L2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAgBgNVHREEGTAXgRVrZXZpbnJpdmFzbUBnbWFp
+bC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMA
+ZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABM
+AGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2Vy
+dGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBk
+ZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiG
+Nmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKB
+n6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNV
+UklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0
+cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHd
+oIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2Ev
+cHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0O
+BBYEFNirN8BQ1o0LiGl1zEmgnklZ3JTIMCsGA1UdEAQkMCKADzIwMjUwNDE3MTg0NDM3WoEPMjAy
+NjA0MTcxODQ0MzdaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJB
+TDAaBgorBgEEAYKmcgMBBAwMCjA5MjI2MTUyODEwFgYKKwYBBAGCpnIDCQQIDAZUQVJRVUkwEQYK
+KwYBBAGCpnIDIgQDDAEuMDEGCisGAQQBgqZyAwcEIwwhRUJBTk9TIDEyNiBZIFYgRSBFU1RSQURB
+IEJBTFNBTU9TMBsGCisGAQQBgqZyAwIEDQwLS0VWSU4gQU5EUkUwHwYKKwYBBAGCpnIDIAQRDA8w
+MDEwMDIwMDA5ODQxMTUwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VB
+RE9SMBUGCisGAQQBgqZyAwMEBwwFUklWQVMwHAYKKwYBBAGCpnIDCgQODAxESVRPTElSTyBTIEEw
+HQYKKwYBBAGCpnIDCwQPDA0wOTkyODU3NTUyMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAUBgorBgEE
+AYKmcgMEBAYMBE1FUkEwGgYKKwYBBAGCpnIDCAQMDAowOTg4MTAyNzU2MA0GCSqGSIb3DQEBCwUA
+A4ICAQBIiUVjj8NtbyZftMg8pEIpFiLQi/PwLeVeLruMypl/6Gt9+t6pvljr0bhI8aqitXxuHilj
+ciJrAKNBSQ/S/N7tFPtONKYzrpyqwkFgXFEH927S1irQx60dvffAmIvj25QsJngFHQPVIr0MybzQ
+jaOyVEzS3Ob5jHgsZdLqPyu9a+SwdNKmY9SezjPANuWSfcne1676074znuk93hkuGDqW/VXeDsg7
+9FbzcpHEc0L8zB/OTqhSZiZAeYrekWn7riWFPL4/r55d5zJGfDTPC3KenYQcAHJpcLbT8F76pAg8
+FTjaQx0XKyuGBtpp1Z2GjldngSSz7FcpRM0bkyucW9azcdR/GiTcwLv4OCBj/RNRiRRViWn2GMxi
+csDbzYerDgxK4aFooU2GVPRRaxZwyhWMGqvCQ/vkbr+lwk3kBYQFxYvOJo0EQF2UZUelFdcy/Bem
+yQD31WwOkX3h7S9aci1CI4JvZRDR+d77nKSClpSmTbZEBQIzjeoIonpnWe3PvV86svbFgEoS7wtV
+rs0TelRV5KQnljOCcSdP4LcsCVXlEbJplWAAVix64EBYqN6AlT/qC0SQqZkLDRoh/gzTLRpoikyO
+mT7DmB3URb0lJh5ZROarmO+FQOPB8u1KaH9cm2RQTFuAXjUUzM3ngKY61FH3DpOD2a3Ur68h+k34
+mSZSbQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+p4aBUfo6uJTJIQRR6nIOBAVPThk0nlhyvG6Oq5rHhcM6wsl4FBkEp+mDW6f5znR2lYp7nY62yJK0
+57ZGRRMtmCfti2K6hzE/vXHU0+dvlZulbbN6D3s7KNnkn3Rjb/7Z+KTKaR6DumplYR+ovqk/lV5S
+Ou44VmJx2jHab0bHk5GAsA7Rw8TEA4l8RSOud4b68iyUPa+RjGkxUHHoVidbLfT5E42Ej3LeYhGr
+JkQfa/8pnCpvmQ4O4U11wqIyMhYI5hbGFtOdwyhdFoaC02y5i7dEmc/9kOdctPoikS18muKN76hJ
+DTjGP3HzyKa3camco5Q4HCGvYgd6NRGSnq2DWw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature755810-Object686472"><etsi:QualifyingProperties Target="#Signature755810"><etsi:SignedProperties Id="Signature755810-SignedProperties354578"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-10T13:50:12-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>QAWFvfAq3X4yyfbAYu2qH+PLEyk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>2039717946</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

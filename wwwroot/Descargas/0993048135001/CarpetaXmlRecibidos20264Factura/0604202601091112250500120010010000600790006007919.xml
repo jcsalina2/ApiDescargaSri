@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0604202601091112250500120010010000600790006007919</numeroAutorizacion>
+<fechaAutorizacion>2026-04-06T13:47:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>GARCIA OCANA DORA ESTELA</razonSocial>
+		<nombreComercial>SOLOFILTROS</nombreComercial>
+		<ruc>0911122505001</ruc>
+		<claveAcceso>0604202601091112250500120010010000600790006007919</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>001</ptoEmi>
+		<secuencial>000060079</secuencial>
+		<dirMatriz>GUAYAQUIL - DIEZ DE DE AGOSTO 1808 Y JOSE MASCOTE</dirMatriz>
+		<agenteRetencion>1</agenteRetencion>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>06/04/2026</fechaEmision>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>TRANSWILQ S.A.</razonSocialComprador>
+		<identificacionComprador>0993048135001</identificacionComprador>
+		<direccionComprador>BASTION POPULAR BLOQUE 2</direccionComprador>
+		<totalSinImpuestos>43.48</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<baseImponible>43.48</baseImponible>
+				<valor>6.52</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>50.00</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>01</formaPago>
+				<total>50.00</total>
+				<plazo>0</plazo>
+				<unidadTiempo>DIAS</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>VARAAK-109</codigoPrincipal>
+			<codigoAuxiliar>0</codigoAuxiliar>
+			<descripcion>ADV FSAIRE KIT SINOTRUCK V3 290T A7 336 T-A7 420</descripcion>
+			<cantidad>1.00</cantidad>
+			<precioUnitario>43.480000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>43.48</precioTotalSinImpuesto>
+			<detallesAdicionales>
+				<detAdicional nombre="IDFACTURA" valor="60079"/>
+				<detAdicional nombre="PROMOCION" valor="0.00"/>
+				<detAdicional nombre="WCADVCTO" valor="0"/>
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15</tarifa>
+					<baseImponible>43.48</baseImponible>
+					<valor>6.52</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Direccion">BASTION POPULAR BLOQUE 2</campoAdicional>
+		<campoAdicional nombre="Email">TRANSWILQ@GMAIL.COM</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature881616">
+<ds:SignedInfo Id="Signature-SignedInfo12983">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID817108" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature881616-SignedProperties592275">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>KVom/lGQQy3NAt6mET5sHV+gL74=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1445903">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>SvXqkr6uSk7Oh50jFkS3AZDJp+E=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-251182" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>IaHgdN4o9p5yTeZPShrguRxxz6k=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue105266">
+cRRMDBwNp8Cs2BqjkskKsPhST88UKbHyOUC8pzj8SG82pN8FcTAFBQpdVx7MnmO3mP5HWUwQ48k4
+HYtNm3ZlFc4cDsE5zR3newBqgMj8ocQbkd/jwO8UoKb7f8vTB4Qm9yFxbrUXyaoSemmilU27xQV+
+nrSRlX5zRLYZF9lfInIe9WXoIWOB2RaMrkSaAIY/FgaRL96MO/gfmsI/vZu28G6ToDlNStUivL+f
+LHi9RdSHCjTPpMgyfLp0cEle7MI95aJY9A8HlkiP9zDH8CftFrFi1EpxryPNYkUYKTedY7vPhmuW
+tsbq3gaFZS0Sdg87aqPtbY9rxGa34HS2pl5s8A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1445903">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKlTCCCH2gAwIBAgIIJtIWLaRH21gwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMjEyMTcxMDQ4WhcNMjcxMjEyMTcxMDQ4WjCB
+ozEhMB8GA1UEAwwYRE9SQSBFU1RFTEEgR0FSQ0lBIE9DQU5BMSAwHgYDVQQFExcwOTExMTIyNTA1
+LTEyMTIyNTEyMjAzNjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDTzA2JiYcDhAuCEJXhVMP2a+b1WO/OzbDM8qWd7moG
+XCPu4IR7KmNWJFaqYapDKC4yHhszWLvvDG2EhsGlOQ/xa57v9gCYkYj7b5OBA3gC1uuRE5smYLfZ
+lR7dMZxKVhKdfb1OnCjXwHqC0EBeM9NfgH1MLvvBS0uhAnib/2+Y9umkYiK6+xgj7Wp+6YmG8bpz
+F5IURc9sjmUgC3b/3hm04pjW7EMXsVCJe2OdSykb+LOL+BXdsuyHUtQaqHpoGEOzKn3EKEOoHU1E
+9Xzer+sAhZNCHfvccvb84EWmsnhAdSaSk/qeo56CB0fTkO7TO3QSmtMpnBPWQZvBcZgLJDrzAgMB
+AAGjggXTMIIFzzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAiBgNVHREEGzAZgRdzb2xvZmlsdHJv
+c0Bob3RtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIw
+Ph48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1
+AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlm
+aWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHeoDqgOIY2aHR0cDov
+L2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2NybGZpbGUuY3JsooGfpIGcMIGZ
+MTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8vY3Js
+Mi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmwwgeCggd2ggdqGgddo
+dHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3
+ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUj9vi
+70kTsvzsxGrflXzwRODJhJkwKwYDVR0QBCQwIoAPMjAyNTEyMTIxNzEwNDhagQ8yMDI3MTIxMjE3
+MTA0OFowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMDkxMTEyMjUwNTAgBgorBgEEAYKm
+cgMJBBIMEE5VRVZFIERFIE9DVFVCUkUwEQYKKwYBBAGCpnIDIgQDDAEuMDAGCisGAQQBgqZyAwcE
+IgwgMTAgREUgQUdPU1RPIDE4MDggWSBKT1NFIE1BU0NPVEUwGwYKKwYBBAGCpnIDAgQNDAtET1JB
+IEVTVEVMQTAQBgorBgEEAYKmcgMgBAIMADARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnID
+IQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGR0FSQ0lB
+MBoGCisGAQQBgqZyAx4EDAwKRVNUVURJQU5URTAdBgorBgEEAYKmcgMLBA8MDTA5MTExMjI1MDUw
+MDEwEQYKKwYBBAGCpnIDHQQDDAEuMBUGCisGAQQBgqZyAwQEBwwFT0NBTkEwGgYKKwYBBAGCpnID
+CAQMDAowOTk4MjY5NTM5MA0GCSqGSIb3DQEBCwUAA4ICAQBRweOrLjITTjzK8oGoN2nEEb7U4u7Q
+5Sp0R0HSwi6Si8MnoFs2UEXMth3KLSVFlUfnwFSWHp8gvda1fN9/RQT38tWHnurwlv8Nfk+T1SyV
+//rkaODmTKhivaufdGTlpTIAnQqWCDTteJCovhkZHn17Ay0QEFJ4iolxhVJW32uZjOBYV/SBEq9j
+xgNIjX7pmVCHtafibBvxBbFbtjXW7aaLfavlIYHQZScy5uTmPBUgNXx/y3lc9oIwi2JdnsqVX3Nm
+p0IPfvWKQjtImRsZFvJfSKXj/5aFe5m3h4j3prG6en49GaNzulO/xODUYUyyPDq01RlUqvUA8E8Y
+m6dHZ8XVa+EsW7RE5sO21Fcf0gvkBoHOmnDT0xEkOJmnFYX0QETbKm/wlDUQkQkystAINUY4wZT2
+mvDxaLtBrzZVoa+b+chsUWFM/XgPzD9npJIlB9Sjfkw9G0QdDfy7AfYeMSll5A1OxzzHMUPdblOO
+dg+8VATHyMBSiwJjukthlsC+nBY4yXA36VSuyScgYNxZqEgLN5IoKM1xQ4wwBCbE5JUurGFKfbwo
+fi5jIlHBKGQpXGt2tDzv8XtksAIYRQezXK1WFU45ghC2o6oi+r3G9vtLxW7FOjP29NRA9Nu07V6E
+PN6kTYqjgUYwxQCaQdtkGRvP6TYq/eCoo5V2MHpV/AHwNw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+08wNiYmHA4QLghCV4VTD9mvm9Vjvzs2wzPKlne5qBlwj7uCEeypjViRWqmGqQyguMh4bM1i77wxt
+hIbBpTkP8Wue7/YAmJGI+2+TgQN4AtbrkRObJmC32ZUe3TGcSlYSnX29Tpwo18B6gtBAXjPTX4B9
+TC77wUtLoQJ4m/9vmPbppGIiuvsYI+1qfumJhvG6cxeSFEXPbI5lIAt2/94ZtOKY1uxDF7FQiXtj
+nUspG/izi/gV3bLsh1LUGqh6aBhDsyp9xChDqB1NRPV83q/rAIWTQh373HL2/OBFprJ4QHUmkpP6
+nqOeggdH05Du0zt0EprTKZwT1kGbwXGYCyQ68w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature881616-Object796565"><etsi:QualifyingProperties Target="#Signature881616"><etsi:SignedProperties Id="Signature881616-SignedProperties592275"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-04-06T13:41:59-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>qFYWlx2TivO3rD+zFcrhBJwEgPY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2797322703836011352</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-251182"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

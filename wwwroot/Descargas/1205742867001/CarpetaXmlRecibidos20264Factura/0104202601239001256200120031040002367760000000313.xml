@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202601239001256200120031040002367760000000313</numeroAutorizacion>
+<fechaAutorizacion>2026-04-02T00:46:47-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>TELEALFACOM S.A.</razonSocial>
+    <nombreComercial>ALFANET</nombreComercial>
+    <ruc>2390012562001</ruc>
+    <claveAcceso>0104202601239001256200120031040002367760000000313</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>104</ptoEmi>
+    <secuencial>000236776</secuencial>
+    <dirMatriz>AV. SANTA MARIA TOACHI Y AVENIDA 1, Aa, Pichincha (EC), Los Rios, Ecuador</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/04/2026</fechaEmision>
+    <dirEstablecimiento>LOS RIOS / QUEVEDO / QUEVEDO / AV. CARLOS JULIO AROSEMENA S/N Y AV. CARLOS KURE MONTES</dirEstablecimiento>
+    <contribuyenteEspecial>291</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>PERALTA CUSME OFELIA AUXILIADORA</razonSocialComprador>
+    <identificacionComprador>1205742867</identificacionComprador>
+    <direccionComprador>GUAYACAN SEGUNDA ETAPA MZ-3 VILLA 20 </direccionComprador>
+    <totalSinImpuestos>25.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>25.00</baseImponible>
+        <valor>3.75</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>28.75</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>28.75</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>RESID_035</codigoPrincipal>
+      <descripcion>PLAN_AMATEUR_FO</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>25.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>25.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>25.00</baseImponible>
+          <valor>3.75</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="email">ofeliaperaltacusme1983@hotmal.com</campoAdicional>
+    <campoAdicional nombre="novedades">Esta factura cubre el siguiente periodo: 01/04/2026 - 30/04/2026</campoAdicional>
+    <campoAdicional nombre="pedido">9697</campoAdicional>
+    <campoAdicional nombre="direccion">GUAYACAN SEGUNDA ETAPA MZ-3 VILLA 20 </campoAdicional>
+    <campoAdicional nombre="telefono">0995908742</campoAdicional>
+    <campoAdicional nombre="formaPago">Pago regular</campoAdicional>
+    <campoAdicional nombre="totalLetras">VeintiOcho  con 75/100</campoAdicional>
+    <campoAdicional nombre="principal">GUAYACAN SEGUNDA ETAPA MZ-3 VILLA 20 </campoAdicional>
+    <campoAdicional nombre="instalado">GUAYACAN SEGUNDA ETAPA MZ-3 VILLA 20 </campoAdicional>
+    <campoAdicional nombre="fechaMaximaPago">11/04/2026</campoAdicional>
+    <campoAdicional nombre="velocidadPlan">800 Mbps</campoAdicional>
+    <campoAdicional nombre="atencionReclamos1">Alfanet pone a su disposición nuestros canales de atención: 02 373 1070, el correo info@alfanet.ec y nuestro sitio web http://www.alfanet.ec</campoAdicional>
+    <campoAdicional nombre="atencionReclamos2">Si su reclamo NO ha sido resuelto por el prestador, ingrese su queja a través del formulario respectivo en www.gob.ec</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature40bac020-528c-4d93-be3b-672bc34460d8">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" Id="SignedPropertiesID719224ce-2edd-4e56-8e98-4eb8d7a685a5" URI="#Signature40bac020-528c-4d93-be3b-672bc34460d8-SignedPropertiesID209a56c5-b44f-4455-b833-95e90dcabe05">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rznG3Fkm+vcZeeOoopBYZTExrjI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate62f3d55f-053b-4714-b596-dc6111c17442">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>hZcCa9Eq0ImLSd+3O3N7HMVQRtI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#comprobante" Id="Reference-ID-1aabbc89-0a54-4e10-9ced-bc3d1c3b48f9">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>LPHbBYQJT6MSqPXc1cCeVyRRctk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>SxViKdrXH81OzgHoxFYUUx1A90luIxZ6P57zIQgbjMacPXhqf6akqZxN2YOx4L1apztPrFmrj5vT
+UFbjnufTLIa0rA+TawmcrC5SC2cYRjMFUGU5xcj6GIKiA6/WcM7rFIas2VkGe/4q+mPx91S7BVIv
+2GfwLomdy7BENQ79ol8QwKTBtxsONp3qhi9TWb81WylIeXUrNM+ZD9B8gb6bm4uDHzELdHsvH8Ba
+mIsKS7PxQP5GlKarbCBMUgFV4bJfSK1boip2nu8ikcZSKOelmDZC8W7GINQwBnlVlHCEjxhzOThO
+37Zj02VeQOpAwktoMVrQZQ68kRZgE+CjIJLKzw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate62f3d55f-053b-4714-b596-dc6111c17442">
+<ds:X509Data>
+<ds:X509Certificate>MIILBjCCCO6gAwIBAgIIBbvuVrbiaNUwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTAzMTM1NDQ0WhcNMzAwOTAzMTM1NDQ0WjCB
+qjEoMCYGA1UEAwwfSlVBTiBDQVJMT1MgR1VBTE9UVU5BIEhFTlJJUVVFWjEgMB4GA1UEBRMXMTcx
+NDg0NjA0My0wMzA5MjUwOTA0MzUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq/gK0aD324y4NWZYm0LJNnN1GlMbAY70
+2NjCJr+dPQCj6Ni42k7OwKZspfnJkMrG29yuU/RkcRMf8+bFi5/zBzRdndR5OhgfxhZSeZWngl8E
+CAFiPis6MuOukL0kTlnStmYvAmh8jez4raF/6EirBTwduFTjNEEdHNcNX1YqXAghK5nRthKC2PBw
+oo8iU2tc3LL5vNP3JDkF5AC/PvlL+8/bhYSq3a4Y1spwuLsELb0G0v9XfuVHfdP6LtAJlw28pSdd
+SFMA/bARYhIVypQB1PT9DQsQn/nv+HArf2AgJaySFf/Oma+vFNM/1v9AeVCH6ydwsFYPFTVhwoS9
+jaPqMwIDAQABo4IGPTCCBjkwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktV
+v42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIQYDVR0RBBowGIEWamNn
+dWFsb3R1bmFoQGdtYWlsLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggr
+BgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBu
+AHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJo
+dHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1h
+dGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2Vu
+dGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSC
+AgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwx
+L2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYT
+AkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3Js
+ZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQzAdBgNVHQ4EFgQU23ewgR7jWdq/5LNJO4VNMqA72wgwKwYDVR0QBCQwIoAPMjAyNTA5
+MDMxMzU0NDRagQ8yMDMwMDkwMzEzNTQ0NFowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwP
+R0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTcxNDg0NjA0MzBVBgorBgEEAYKmcgMJ
+BEcMRVNBTlRPIERPTUlOR08gREUgTE9TIENPTE9SQURPUyBDQUJFQ0VSQSBDQU5UT05BTCBZIENB
+UElUQUwgUFJPVklOQ0lBTDARBgorBgEEAYKmcgMiBAMMAS4wLgYKKwYBBAGCpnIDBwQgDB5WSUEg
+Q0hPTkUgUyBOIFkgTUFSR0VOIERFUkVDSE8wGwYKKwYBBAGCpnIDAgQNDAtKVUFOIENBUkxPUzAf
+BgorBgEEAYKmcgMgBBEMDzAxMjAwMTAwMDAwODI3NjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgor
+BgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGCpnIDAwQLDAlHVUFMT1RVTkEwHwYKKwYBBAGC
+pnIDCgQRDA9URUxFQUxGQUNPTSBTIEEwHQYKKwYBBAGCpnIDCwQPDA0yMzkwMDEyNTYyMDAxMBEG
+CisGAQQBgqZyAx0EAwwBLjAZBgorBgEEAYKmcgMEBAsMCUhFTlJJUVVFWjAaBgorBgEEAYKmcgMI
+BAwMCjA5OTA1OTQ2NTMwDQYJKoZIhvcNAQELBQADggIBAGd/ALh4lTuVAewOQq3gSRqVrcRsI6qS
+5rb8GVJdavllkCV/T5h4oXAfDW5wdRQsIF4MhEBZgmEWZKvX6PwRjUg8k8d3nJvLbokhR3n1xa7x
+sylrU8Gs3nIryyqkJ8dxD2IYir5mY2G7XXBQ9OGCOHMqEbhw6UDJsMSl97JwDuHFFVHVPYSbtNfx
+2s51Zqm2DXgeh3UsI09Haau3wOk/AKCppbF6wSO/jOaNrrATfAgCOXY3saZIbQmt1zGDzN33J5y0
+E+rb5yTrMw07g4OhBjybU1SIJQnIj/4SZbQ4eh72QsCQCXEgODlz6GFcIEjQ6+GJe/cr7+QgwDDB
+oFpkHZkm1sD7YNIXPvFqhnsjqU+Fr7b8rWDu4YGIv0DHoIOghHBkSjr6rgTcHC2MVcwUP7sNpYS2
+7VvmqXgJArCjT4cJC+W21ggMCGxSY/r5T1E1i7DHtvGGF6mbBKP4h728iKba4QpCpUd9/O64vFtf
+xAetArJdzC/oQN3UcZLDOk+tces0fOpqdt+h0E7ONqGQqqCQIdshOVQbaLhZ2OWr0Gxc/7K+tKbt
+UAaPincfp4PWgtCehWICxXADkz+p9QLbLSxeBLW/vria2XKDf23TvN2RUb6a4sqcSUpBfwiSiq4U
+MsfhZJ9YN8SzzkiknrzpCu+G2JcZYsKha3o6GkKyRW1g
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>q/gK0aD324y4NWZYm0LJNnN1GlMbAY702NjCJr+dPQCj6Ni42k7OwKZspfnJkMrG29yuU/RkcRMf
+8+bFi5/zBzRdndR5OhgfxhZSeZWngl8ECAFiPis6MuOukL0kTlnStmYvAmh8jez4raF/6EirBTwd
+uFTjNEEdHNcNX1YqXAghK5nRthKC2PBwoo8iU2tc3LL5vNP3JDkF5AC/PvlL+8/bhYSq3a4Y1spw
+uLsELb0G0v9XfuVHfdP6LtAJlw28pSddSFMA/bARYhIVypQB1PT9DQsQn/nv+HArf2AgJaySFf/O
+ma+vFNM/1v9AeVCH6ydwsFYPFTVhwoS9jaPqMw==
+</ds:Modulus>
+<ds:Exponent>AQAB
+</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature40bac020-528c-4d93-be3b-672bc34460d8" Id="Signature40bac020-528c-4d93-be3b-672bc34460d8"><etsi:SignedProperties Id="Signature40bac020-528c-4d93-be3b-672bc34460d8-SignedPropertiesID209a56c5-b44f-4455-b833-95e90dcabe05"><etsi:SignedSignatureProperties><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>WjYFA0npEvzUswdGx/N9sydGYrw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA</ds:X509IssuerName><ds:X509SerialNumber>413185847037421781</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate><etsi:SignaturePolicyIdentifier><etsi:SignaturePolicyImplied/></etsi:SignaturePolicyIdentifier></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1aabbc89-0a54-4e10-9ced-bc3d1c3b48f9"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

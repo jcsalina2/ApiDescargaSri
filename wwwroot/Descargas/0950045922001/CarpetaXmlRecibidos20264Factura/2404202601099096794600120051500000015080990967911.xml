@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2404202601099096794600120051500000015080990967911</numeroAutorizacion>
+<fechaAutorizacion>2026-04-25T01:23:20-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>JUNTA DE BENEFICENCIA DE GUAYAQUIL</razonSocial>
+    <nombreComercial>JUNTA DE BENEFICENCIA DE GUAYAQUIL</nombreComercial>
+    <ruc>0990967946001</ruc>
+    <claveAcceso>2404202601099096794600120051500000015080990967911</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>005</estab>
+    <ptoEmi>150</ptoEmi>
+    <secuencial>000001508</secuencial>
+    <dirMatriz>VELEZ 109 Y PEDRO CARBO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/04/2026</fechaEmision>
+    <dirEstablecimiento>AV. PEDRO MENENDEZ S/N Y AV. MORAN DE BUITRON</dirEstablecimiento>
+    <contribuyenteEspecial>5505</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>LOAIZA SUAREZ, BELGICA ANDREA </razonSocialComprador>
+    <identificacionComprador>0950045922</identificacionComprador>
+    <totalSinImpuestos>40.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>40.00</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>40.00</importeTotal>
+    <moneda>DOL</moneda>
+    <pagos>
+      <pago>
+        <formaPago>17</formaPago>
+        <total>40.00</total>
+        <plazo>0.00</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>40150</codigoPrincipal>
+      <codigoAuxiliar>40150</codigoAuxiliar>
+      <descripcion>NEUROPSICOLOGIA INICIAL</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>40.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>40.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Establecimiento:">INSTITUTO DE NEUROCIENCIAS</campoAdicional>
+    <campoAdicional nombre="Tipo Paciente">PARTICULAR GENERAL</campoAdicional>
+    <campoAdicional nombre="Historia Clínica">383479</campoAdicional>
+    <campoAdicional nombre="Paciente">LOAIZA SUAREZ, BELGICA ANDREA</campoAdicional>
+  </infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-543960454">
+	<ds:SignedInfo>
+		<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+		<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+		<ds:Reference URI="#comprobante">
+			<ds:Transforms>
+				<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+			</ds:Transforms>
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>5l/l+SGWHO5CHQMTnO2sPCt4KD4=</ds:DigestValue>
+		</ds:Reference>
+		<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-824020346">
+			<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+			<ds:DigestValue>KugkY4hvYi9oBuj0M4PpzWfcnb4=</ds:DigestValue>
+		</ds:Reference>
+	</ds:SignedInfo>
+	<ds:SignatureValue>
+DqYjX01SA/BxpB7/zhXWzRkC1ELIcsO7EqR0QQ7OLz8z8r0ZZ0mdt/M93gxjneKt
+3vD+P9IOe64YCYOuSHCQEik1UVxo+sHkZG5n9tUx3wKL92ZRBS2TPwRYcMbpyKSj
+ajZTnaX3c1ziay7sJ4xCkQ9yOJg7nz1CXKYZSd5KgpbYYN4J48As5vkPNHpXKfHz
+2wuqdFImpIZplnRHqTIOuXm2zEswbMpUfCT82lcoUXxHIZp9k887fTVEKj8t+vX4
+C0a9kuwSAYtqXs8Z1e38tEXU5U8s9fvvmSUaU7Nmqnyhw47NF+8P7/sEo/FS+uJh
+uXyrCfCvLcL3FvUmG2Clpg==
+	</ds:SignatureValue>
+	<ds:KeyInfo>
+		<ds:KeyValue>
+			<ds:RSAKeyValue>
+				<ds:Modulus>
+xZv47XG/wil3U54DZWrB8mTJ933PwMsRxPy47xBZyFWVbDolVGPSOsWt0RNIC8Bs
+n6HN1BxamTzpmNWu5MBHaXlxM7+KQigXWRCjf1PYzeUsL/qBUwiRdVs++CDJLF2g
+KlLGuB6zCXASnEJh08/aYz1lGxzwybEOsnllCaFe3/DWjExEQhZ+PnpAr4LMRtQH
+y7ThelgWJT04ICgpwgjorEXWV1p4Xgl0zZBS8s+9F7W4LRFzQI0UF/JwtYs/AEgy
+lqitlQS4OFqNF55m1IqaUF0rn0oR2R6qH6W1ypdkiH8111zcUP/YWzAVbdQaZRym
+bWJbQnokkv2HtuSF8YsbAQ==
+				</ds:Modulus>
+				<ds:Exponent>AQAB</ds:Exponent>
+			</ds:RSAKeyValue>
+		</ds:KeyValue>
+		<ds:X509Data>
+			<ds:X509IssuerSerial>
+				<ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName>
+				<ds:X509SerialNumber>2022417376</ds:X509SerialNumber>
+			</ds:X509IssuerSerial>
+			<ds:X509SubjectName>C=EC, O=SECURITY DATA S.A. 2, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, 2.5.4.5=0921226056-240325120622, CN=DAYSE CINTHYA FALCONES ASTUDILLO</ds:X509SubjectName>
+			<ds:X509Certificate>
+MIIK5jCCCM6gAwIBAgIEeIuj4DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMC
+RUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAe
+Fw0yNTAzMjQxNjU2MjlaFw0yNzAzMjQxNjU2MjlaMIGrMSkwJwYDVQQDDCBEQVlT
+RSBDSU5USFlBIEZBTENPTkVTIEFTVFVESUxMTzEgMB4GA1UEBRMXMDkyMTIyNjA1
+Ni0yNDAzMjUxMjA2MjIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIx
+CzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxZv4
+7XG/wil3U54DZWrB8mTJ933PwMsRxPy47xBZyFWVbDolVGPSOsWt0RNIC8Bsn6HN
+1BxamTzpmNWu5MBHaXlxM7+KQigXWRCjf1PYzeUsL/qBUwiRdVs++CDJLF2gKlLG
+uB6zCXASnEJh08/aYz1lGxzwybEOsnllCaFe3/DWjExEQhZ+PnpAr4LMRtQHy7Th
+elgWJT04ICgpwgjorEXWV1p4Xgl0zZBS8s+9F7W4LRFzQI0UF/JwtYs/AEgylqit
+lQS4OFqNF55m1IqaUF0rn0oR2R6qH6W1ypdkiH8111zcUP/YWzAVbdQaZRymbWJb
+Qnokkv2HtuSF8YsbAQIDAQABo4IGIDCCBhwwDAYDVR0TAQH/BAIwADAfBgNVHSME
+GDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYB
+BQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9w
+dWJsaWN3ZWIvc3RhdHVzL29jc3AwIQYDVR0RBBowGIEWZGZhbGNvbmVzQGpiZ3ll
+Lm9yZy5lYzCCARIGA1UdIASCAQkwggEFMGAGCisGAQQBgqZyAgowUjBQBggrBgEF
+BQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAATQBpAGUAbQBi
+AHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZyAgQwgZEwgY4G
+CCsGAQUFBwIBFoGBaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1j
+b250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1Bv
+bGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRmMB0G
+A1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHe
+oDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwx
+L2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VD
+VVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8vY3Js
+Mi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmwwgeCg
+gd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlz
+c3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VS
+SVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQULI729x9N
+gTKJuvKZ5FaTTt4f8SwwKwYDVR0QBCQwIoAPMjAyNTAzMjQxNjU2MjlagQ8yMDI3
+MDMyNDE2NTYyOVowCwYDVR0PBAQDAgXgMCAGCisGAQQBgqZyAwUEEgwQQ09OVEFE
+T1IgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjA5MjEyMjYwNTYwGgYKKwYBBAGC
+pnIDCQQMDApST0NBRlVFUlRFMBEGCisGAQQBgqZyAyIEAwwBLjAnBgorBgEEAYKm
+cgMHBBkMF1ZFTEVaIDEwOSBZIFBFRFJPIENBUkJPMB0GCisGAQQBgqZyAwIEDwwN
+REFZU0UgQ0lOVEhZQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDczMDkwMjAT
+BgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYK
+KwYBBAGCpnIDAwQKDAhGQUxDT05FUzARBgorBgEEAYKmcgMeBAMMAS4wMgYKKwYB
+BAGCpnIDCgQkDCJKVU5UQSBERSBCRU5FRklDRU5DSUEgREUgR1VBWUFRVUlMMB0G
+CisGAQQBgqZyAwsEDwwNMDk5MDk2Nzk0NjAwMTARBgorBgEEAYKmcgMdBAMMAS4w
+GQYKKwYBBAGCpnIDBAQLDAlBU1RVRElMTE8wGgYKKwYBBAGCpnIDCAQMDAowOTg1
+ODUxMzMxMA0GCSqGSIb3DQEBCwUAA4ICAQA2uUa2oO7t/5cq+4Xhy7TzgSF2ZXeN
+GxcRmjk1Bu2kRN5jPjHJbOIO35kNNDuhSlMxhQzxQoPpkqDgDgofBvwXvhd3B4GZ
+1Tz+aV7HwZNlCNUAuOQvL8W+Paq7XEXBjyh5e6/8DOMA4+73fLNvZklwkOdIA0AX
+OxvDjlPHKzpp4zyh1KLsyCV35WdJr6aCueB42p+d5xtx5EzNXMQuTMkcvE03pil3
+DrFEzV56KIr23DnL4ALpo4JJJJdwsWiVXqYLpGAp0X7YfJEtzWtIIgHCJDn6rebD
+zg6qyWUTIC6DphIG2f12L7eMXaQu/3EwPFYKrw8XfJrNQDs6cGcBOC+kNMB1At6f
+uZrVdPRmMRtPndZVlJaefp2Jx5CejLBE6iUI+146R8l3Tl67nNcalTtmvBsdNK9H
+yKOW6OegddToL+U3rpvCo8yQkc4nJTbDoChksXVgUfEHEAg94ZEIEmPfUEWD/mZA
+kTtGOun9GBgbJddfUTV2fF2ioOOBAPIjOBLHKgBH0EsitJwgvY5bmVaB7GAvpV75
+0fHERX5zB4ps02SXBLyWTg6tTg+C5XAiofn9CwFuwRlAeLNx+9g36HPbNuaTE2sl
+eIELRjAXPDgnlz8zPViQlbGm7Q25gz1g0u3vHG6ucK1dxOVFs3FJTSQNAlIpaOl9
+wdgMvyUlqLYZhg==
+			</ds:X509Certificate>
+		</ds:X509Data>
+	</ds:KeyInfo>
+	<ds:Object>
+		<etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature-543960454">
+			<etsi:SignedProperties Id="SignedProperties-824020346">
+				<etsi:SignedSignatureProperties>
+					<etsi:SigningTime>2026-04-25T01:08:48.741Z</etsi:SigningTime>
+					<etsi:SigningCertificate>
+						<etsi:Cert>
+							<etsi:CertDigest>
+								<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+								<ds:DigestValue>n/JkNKBC6RRv/sHXuG/ont7PCRo=</ds:DigestValue>
+							</etsi:CertDigest>
+							<etsi:IssuerSerial>
+								<ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName>
+								<ds:X509SerialNumber>2022417376</ds:X509SerialNumber>
+							</etsi:IssuerSerial>
+						</etsi:Cert>
+					</etsi:SigningCertificate>
+				</etsi:SignedSignatureProperties>
+			</etsi:SignedProperties>
+		</etsi:QualifyingProperties>
+	</ds:Object>
+</ds:Signature>
+</factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
