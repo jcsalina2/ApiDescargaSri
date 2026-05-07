@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0202202601179125611500120013271230829564892681314</numeroAutorizacion>
+<fechaAutorizacion>2026-02-02T09:46:11-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>OTECEL S.A.</razonSocial><nombreComercial>MOVISTAR</nombreComercial><ruc>1791256115001</ruc><claveAcceso>0202202601179125611500120013271230829564892681314</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>327</ptoEmi><secuencial>123082956</secuencial><dirMatriz>CENTRO CORPORATIVO EKOPARK, TORRE 3 AV. SIMÓN BOLÍVAR Y VÍA A NAYÓN QUITO-ECUADOR</dirMatriz></infoTributaria><infoFactura><fechaEmision>02/02/2026</fechaEmision><dirEstablecimiento>CENTRO CORPORATIVO EKOPARK, TORRE 3 AV. SIMÓN BOLÍVAR Y VÍA A NAYÓN QUITO-ECUADOR</dirEstablecimiento><contribuyenteEspecial>0011</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>SALINAS ELIZALDE JUAN CARLOS SALINAS ELIZALDE JUAN CARLOS</razonSocialComprador><identificacionComprador>0929761104001</identificacionComprador><direccionComprador>BARRIO BASTION POPULAR AV MZN 616 SOLAR 4 AV   1CDRA RESTAURANT OLE OLE /A 1CDRA IGLESIA  EL PADR  GUAYAQUIL-ECUADOR</direccionComprador><totalSinImpuestos>15.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>15.00</baseImponible><tarifa>15.00</tarifa><valor>2.25</valor></totalImpuesto></totalConImpuestos><importeTotal>17.25</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>17.25</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>20101</codigoPrincipal><codigoAuxiliar>0</codigoAuxiliar><descripcion>MOVISTAR EMPRESAS IRON</descripcion><cantidad>1</cantidad><precioUnitario>15.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>15.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>15.00</baseImponible><valor>2.25</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Teléfono">022227700</campoAdicional><campoAdicional nombre="Página web">www.movistar.com.ec</campoAdicional><campoAdicional nombre="rucFirmante">1791256115001</campoAdicional><campoAdicional nombre="Factura">001-327-123082956</campoAdicional><campoAdicional nombre="email">juansalinas_e@hotmail.com</campoAdicional><campoAdicional nombre="account">48926813</campoAdicional><campoAdicional nombre="MSISDN">963107183</campoAdicional><campoAdicional nombre="DireccionComprador">BARRIO BASTION POPULAR AV MZN 616 SOLAR 4 AV   1CDRA RESTAURANT OLE OLE /A 1CDRA IGLESIA  EL PADR  GUAYAQUIL-ECUADOR</campoAdicional><campoAdicional nombre="NoOrdenFactura">216111195</campoAdicional><campoAdicional nombre="FormaPago">20</campoAdicional><campoAdicional nombre="Valor">17.25</campoAdicional><campoAdicional nombre="Gran Contribuyente Nro">NAC-GCFOIOC21-00000869-E</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature365280">
+<ds:SignedInfo Id="Signature-SignedInfo313976">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID170589" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature365280-SignedProperties239770">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7Rt+B5j6Gou74MJO/tVxumLOCZg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1793751">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kdOfe1iFxV7uZSoZVVWIDj+YdAk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-942792" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Uivht5O5RPpF0LlNQTeFKnUldl4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue884448">
+Qw3bK1c8xGHMWK9djjiYX6A2MH7nQRcHzG/gG9q/ux4qZDM/ih/4T9Yzk16NxeeIDYXgQKJNZuJY
+qNVVThwyYG75+Ba+/u21yt2tfnI+CHlbP/NzZXAu7MeaReXDIZdgSPsW4NLMx0214e51jo6bilFI
+ZZouC9wrIsWfq+1gqCTnfY9c3+Y3apopFRI3pVS6LfOmu6ThPBLJW9EJfF0jBqWeMGaim/xLZqnc
+eaRTfkRFli24vbIpgAWAPRSp7nOvYE5D0LgtM/JRF18xh4Hc8jN4WpwMhrttMRKCyBip+OTE9j+0
+Qb6toNXvJaisIXlIsk5Cu2rcVD6RMgqahhlLWQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1793751">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMBjCCCe6gAwIBAgIEasXoHDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA1MzAxNjQyMjFaFw0yNjA1MzAxNjQyMjFaMIGaMSMw
+IQYDVQQDDBpNQVRJTERFIFBBTUVMQSBMQVJBIFRPUlJFUzEVMBMGA1UEBRMMMzAwNTI0MTE1MTUy
+MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAKyYQ9ZYjkQg/sBPDGgIUjDDuEjXM1y8LoeFWWkXBZ3rk1NFBtKY1h5r2rJX
+CFemU1SdEojV1c464BKrSlg4o7zqhpnTFH+xJ3QuFG4legCPsmPDMwvpHiKpBHANaYejqj9mKo4c
+5z3QxX74hS5Dbka35ysICGBcSIlugsqYTxegeD75yVBOnVHgH7LpIfYIIHUJcGyMsF8jyV6lmNDt
+LbVoaIRrGwiCOsxJgaYHe//76HwehKheFcmEhdWh1C3NAyG7ahLeb35YdQx2yca/GDfYAtmOgAxu
+iz72cyA10MwfgdO0Dh6wbFSIBzir8W25l8pMDMvUrfCEw4FLucdBHhMCAwEAAaOCB1EwggdNMAwG
+A1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEE
+TTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2Ev
+cHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRh
+cHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9i
+YXNlMCYGA1UdEQQfMB2BG21hdGlsZGUubGFyYUB0ZWxlZm9uaWNhLmNvbTCCARIGA1UdIASCAQkw
+ggEFMGAGCisGAQQBgqZyAgowUjBQBggrBgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABv
+ACAAZABlACAATQBpAGUAbQBiAHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwgaAGCisGAQQBgqZy
+AgQwgZEwgY4GCCsGAQUFBwIBFoGBaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1j
+b250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBk
+ZSBDZXJ0aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRmMIICogYDVR0fBIICmTCCApUwgeWg
+QaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBT
+VUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9S
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERF
+IENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVD
+P2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFs
+LW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2Nl
+cnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNB
+LTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBRhoQHhdUkq7EK/8zBHS1Us
+1DLgTDArBgNVHRAEJDAigA8yMDI0MDUzMDE2NDIyMVqBDzIwMjYwNTMwMTY0MjIxWjALBgNVHQ8E
+BAMCBeAwNgYKKwYBBAGCpnIDBQQoDCZHRVJFTlRFIEZJTkFOWkFTIENPTlRBQklMSURBRCBZIEZJ
+U0NBTDAaBgorBgEEAYKmcgMBBAwMCjE3MTc3Mzc2MjkwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzAR
+BgorBgEEAYKmcgMiBAMMAS4wLAYKKwYBBAGCpnIDBwQeDBxBViBTSU1PTiBCT0xJVkFSIFMgTiBZ
+IE5BWU9OMB4GCisGAQQBgqZyAwIEEAwOTUFUSUxERSBQQU1FTEEwHwYKKwYBBAGCpnIDIAQRDA8w
+MDIwMDEwMDA4MjAwODAwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VB
+RE9SMBQGCisGAQQBgqZyAwMEBgwETEFSQTAaBgorBgEEAYKmcgMKBAwMCk9URUNFTCBTIEEwHQYK
+KwYBBAGCpnIDCwQPDA0xNzkxMjU2MTE1MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFgYKKwYBBAGC
+pnIDBAQIDAZUT1JSRVMwGgYKKwYBBAGCpnIDCAQMDAowOTg0MTY4NjU1MA0GCSqGSIb3DQEBCwUA
+A4ICAQBpN/y1XggiiI6b7WWQ6PudWyrGYNHbtykhyOU8WcBirHflhFl0zrLKjLjbRunmG9vJqJIH
+w3I39DtdbA6Focwhqm4nOfD1EM24ozo3j1R7Fx3xduCHDhUaSHKDuIMaA1SNc10D66e3nrga6YNf
+PXpbCaMVZ3awJDYbf745hF4C13XpIAD06th+y6w9Hl6nbnLbQd/8yqOLZYsmIdtePZvOPBpHPvaz
++uxo8XwkodpQ7YLA6AIo2ftDlCszrdoQOuW/6UdMxz6+NoGuLyUSS1vcezXOJx53bs0LJ332wag2
+fVXYk1VS5NXisiu9AnPu4uj08qI9A91Gf9dfLY9m3a6oaqx10PZKN+LLosPonneFThf+IOvEcEP2
+1xmPaKMu4nfg/WB8VQCXX42dnfnAPXOH9FYWThLnGxg55HOZVjGWJ6I4KHSEZWeyqA1njZ5gpfuC
+5dnCtjUqViazjcpcvcalJksgddrK8K+5N0H261uMwsUyjpdH4W67wYMXmj6d4jJSRaz55DiDRm7m
+qB7mOjDnmrpGi0W0rmsVhGzQvFFHmGUwbE2Y7+ohaPfaQ/z/UaTf6TGco7HsX2Fm9aVWWnXo5DIo
+iOeEcCgypQJ2Vm+j0FkPmdscUWMRSDqQDNVKl4ocKqkbjBmB4NrMwyAOVXfCpgRK1N6Qr988g8Tq
+9CrlQQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rJhD1liORCD+wE8MaAhSMMO4SNczXLwuh4VZaRcFneuTU0UG0pjWHmvaslcIV6ZTVJ0SiNXVzjrg
+EqtKWDijvOqGmdMUf7EndC4UbiV6AI+yY8MzC+keIqkEcA1ph6OqP2YqjhznPdDFfviFLkNuRrfn
+KwgIYFxIiW6CyphPF6B4PvnJUE6dUeAfsukh9gggdQlwbIywXyPJXqWY0O0ttWhohGsbCII6zEmB
+pgd7//vofB6EqF4VyYSF1aHULc0DIbtqEt5vflh1DHbJxr8YN9gC2Y6ADG6LPvZzIDXQzB+B07QO
+HrBsVIgHOKvxbbmXykwMy9St8ITDgUu5x0EeEw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature365280-Object690049"><etsi:QualifyingProperties Target="#Signature365280"><etsi:SignedProperties Id="Signature365280-SignedProperties239770"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-02T09:46:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>MMu+F6j01Ik8+9ewA8jIvadQ7A4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1791354908</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-942792"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2602202601099336854000120020040001530741234567816</numeroAutorizacion>
+<fechaAutorizacion>2026-02-26T10:09:03-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>VEPAGAS S.A.</razonSocial>
+    <ruc>0993368540001</ruc>
+    <claveAcceso>2602202601099336854000120020040001530741234567816</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>004</ptoEmi>
+    <secuencial>000153074</secuencial>
+    <dirMatriz>Km 2.5 Vial 1 - Daule</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>26/02/2026</fechaEmision>
+    <dirEstablecimiento>GUAYAS / DAULE / LA AURORA (SA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>JUAN CARLOS SALINAS</razonSocialComprador>
+    <identificacionComprador>0929761104</identificacionComprador>
+    <totalSinImpuestos>13.04</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>13.04</baseImponible>
+        <valor>1.96</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>15</importeTotal>
+    <moneda>DOLAR</moneda>
+    <placa>GTP5156</placa>
+    <pagos>
+      <pago>
+        <formaPago>16</formaPago>
+        <total>15</total>
+        <plazo>00</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>0174</codigoPrincipal>
+      <codigoAuxiliar>0174</codigoAuxiliar>
+      <descripcion>EXTRA CON ETHANOL</descripcion>
+      <cantidad>5.43</cantidad>
+      <precioUnitario>2.402609</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>13.04</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>13.04</baseImponible>
+          <valor>1.96</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="PLACA">GTP5156</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature86752">
+<ds:SignedInfo Id="Signature-SignedInfo405882">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID778975" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature86752-SignedProperties515901">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>S5h+kMrZ3tAxOoiVgqsC/OX3fBE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1478612">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dqW8b8ufpQu7xzP8dWufvjNBLiQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-585473" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4791Dzr2uXf2JtpeNayEvo9v8AM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue163159">
+XbqMM+Zv77p/DjZnECpgrCrkbjxRdbJqtIjvIzvUIwAm96W8aOx5ErQvp/BHgynF3bsgN+zBU9g/
+IIQ1b2zP1ddBCJv/5lOJywOt6BnnrPzscfK8K9rLMa+4MjTO0AgA31ZNKQEw0qsIemTwUCKBPEgv
+CPoWU4kmcGcIOJTIQu9scHX72JV+84L6EI3kMZU1TcOhp2haxbDjWrRYWSEqSXUb3VqLh8zoMVh7
++hPKVlK8mmY92wb9yZzHyO2bWrgSlij1KaTxqGUZgmiXUys8qeRd4Yauro8teCzGcM3wKkEsPYEq
+CbApkPAhFkf435+XuXllKwllMoAlxk+FWCQn7w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1478612">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMJzCCCg+gAwIBAgIEeDuM0zANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA5MTIyMDM3MjZaFw0yNjA5MTIyMDM3MjZaMIGpMScw
+JQYDVQQDDB5FRFVBUkRPIEdFT1ZBTk5ZIE1BUlVSSSBSSVZFUkExIDAeBgNVBAUTFzA5MTY1MTI3
+NjctMTIwOTI0MTU0NzIwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALfiEhcTfa02pfvuskDEBiLEldHh2SZf0RT1VQ54
+2pc3I0I0ovUSXN06wfK+Qz2PNUjrZ1ivoNwev3tYaVP+w8ve2iK3Azn01YwZnPyz/3/5mYAswEqQ
+80HjsktzpBrpN30pEhBDs/khx5h4+7ZSowOTdUs7K7KxEMuUrF+sxHz8aAjoVc8wHQdU+TSDgLF3
+L6GaB2+8QoEsNzYwWYF59y1W2oRd7xrcac4RMSd68vboloo9C1ZhFfBlakqMvEZPXeZQ3+1/Dnk3
+F98u5mbFw+w3K1BbCp3d/5CcrGUCtNjJwYLNKXsjIxUBf4w44bZC/Fsab5pMiCq9pyY16EzjWPkC
+AwEAAaOCB2MwggdfMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMB4GA1UdEQQXMBWBE2dtYXJ1cmlAdmVwYW1pbC5jb20wggESBgNV
+HSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkA
+YwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgor
+BgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xp
+dGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSCApkw
+ggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczov
+L3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2Vi
+ZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU/qpr+l9r5c0Z
+zlRQZmkWiLQSgR8wKwYDVR0QBCQwIoAPMjAyNDA5MTIyMDM3MjZagQ8yMDI2MDkxMjIwMzcyNlow
+CwYDVR0PBAQDAgXgMBgGCisGAQQBgqZyAwUECgwIQ09OVEFET1IwGgYKKwYBBAGCpnIDAQQMDAow
+OTE2NTEyNzY3MEAGCisGAQQBgqZyAwkEMgwwR1VBWUFRVUlMIENBQkVDRVJBIENBTlRPTkFMIFkg
+Q0FQSVRBTCBQUk9WSU5DSUFMMBEGCisGAQQBgqZyAyIEAwwBLjA/BgorBgEEAYKmcgMHBDEML0FW
+IEZSQU5DSVNDTyBERSBPUkVMTEFOQSBTIE4gWSBNSUdVRUwgSCBBTENJVkFSMCAGCisGAQQBgqZy
+AwIEEgwQRURVQVJETyBHRU9WQU5OWTAfBgorBgEEAYKmcgMgBBEMDzAwODAwMTAwMDAwOTcwNDAT
+BgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnID
+AwQIDAZNQVJVUkkwGwYKKwYBBAGCpnIDCgQNDAtWRVBBR0FTIFMgQTAdBgorBgEEAYKmcgMLBA8M
+DTA5OTMzNjg1NDAwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBYGCisGAQQBgqZyAwQECAwGUklWRVJB
+MBAGCisGAQQBgqZyAwgEAgwAMA0GCSqGSIb3DQEBCwUAA4ICAQDCPF9RQc5u8oZcqlHRCbks0eRP
+Dl/YR5O4pJO7wuRkczLordNNpsHGX3iz3KMO7X2phhrRded77sHDIS+EoUlK85UykiosBbY2utHP
+tA0aaM4PNJneF2QsZScSwrAo2+vdxA/QFGxZ37VRI+LGFo+xdOEkISeGv2hegnRV+q9iqV96pmkW
+psY2j3CPleJ8Tx4K3e0nrd6Ya1iJGGH9WzFDead1jpUZnaWR6Lq4Soh0j79ZQ6c09vD7OOp/dofT
+bIXp4VWPux7aAOJpybHnhrtoLXJTj5duvKaJVcJTmje21MczwEpBwyvba5L2x7JpXvZW2/fGjPB5
+j0/rBp/05I/TWTN6xsWi1eItu1UsxgEDdmRIGFFgHiFbQ4mLQxqbEXJHjLfz6TaU+35iDgQWshVk
+LuEsOi30Zcxa5+K6m6tCeD/SdQHWUzO1p0ApmO56fWnE0kWYi199OdBxqxWNNW4xWQ8pBn0vaoKq
+jvXbq41C9+I/m4licF9oWhlJjWMwaX1MQeqE715PIQu5olRtTNkJOVDc8C9aFc227sF2iTCz/VWE
+3MevWbpxINARWD12VKqswSRwPiqpzv8uswlsV9yhTILc6dLulG65wIOiPkR/4TJvfrRyc21m0jdK
+queAal3M914FxiHyZGfyA1YPUdxXJ9rtrbUH9J50kRetgGD4fQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+t+ISFxN9rTal++6yQMQGIsSV0eHZJl/RFPVVDnjalzcjQjSi9RJc3TrB8r5DPY81SOtnWK+g3B6/
+e1hpU/7Dy97aIrcDOfTVjBmc/LP/f/mZgCzASpDzQeOyS3OkGuk3fSkSEEOz+SHHmHj7tlKjA5N1
+SzsrsrEQy5SsX6zEfPxoCOhVzzAdB1T5NIOAsXcvoZoHb7xCgSw3NjBZgXn3LVbahF3vGtxpzhEx
+J3ry9uiWij0LVmEV8GVqSoy8Rk9d5lDf7X8OeTcX3y7mZsXD7DcrUFsKnd3/kJysZQK02MnBgs0p
+eyMjFQF/jDjhtkL8WxpvmkyIKr2nJjXoTONY+Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature86752-Object806926"><etsi:QualifyingProperties Target="#Signature86752"><etsi:SignedProperties Id="Signature86752-SignedProperties515901"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-26T10:07:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>zZ/J7T/X9Kj3QR4cluDNaGH9wOU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2017168595</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-585473"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

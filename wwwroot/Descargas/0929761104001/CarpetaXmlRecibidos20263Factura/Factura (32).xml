@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2203202601092529567700120031000000178360925295614</numeroAutorizacion>
+<fechaAutorizacion>2026-03-22T15:40:30-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CAO SU RUITIAN</razonSocial>
+    <nombreComercial>CHIFA LONGZHU</nombreComercial>
+    <ruc>0925295677001</ruc>
+    <claveAcceso>2203202601092529567700120031000000178360925295614</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>003</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000017836</secuencial>
+    <dirMatriz>Plaza San Miguel, La Joya, Av. Principal local No1</dirMatriz>
+    <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>22/03/2026</fechaEmision>
+    <dirEstablecimiento>Plaza San Miguel, La Joya, Av. Principal local No1</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>JUAN CARLOS SALINA</razonSocialComprador>
+    <identificacionComprador>0929761104</identificacionComprador>
+    <direccionComprador>VILLA DEL REY KATE 2/20</direccionComprador>
+    <totalSinImpuestos>13.04</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>13.04</baseImponible>
+        <valor>1.96</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>3</codigo>
+        <codigoPorcentaje>3031</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>15.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>15</total>
+      </pago>
+    </pagos>
+    <valorRetIva>0.00</valorRetIva>
+    <valorRetRenta>0.00</valorRetRenta>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>47</codigoPrincipal>
+      <descripcion>POLLO APANADO</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>6.52</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>13.04</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>13.04</baseImponible>
+          <valor>1.96</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="CORREO">juansalinas_e@hotmail.com</campoAdicional>
+    <campoAdicional nombre="TELÉFONO">0963107183</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature423495006"><ds:SignedInfo Id="Signature-SignedInfo1851106707"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID1073055594" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature423495006-SignedProperties1460866098"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>hiLS8ME+klEteK7nHE2ty8ovxIk=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1200749735"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>JYnrniPmejx9bhjS3Ewk3x2+yg4=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-1229843624" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>jpKLlCL4T8aGhjpvsga+fP7+Phw=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue1843870139">ZIBgO6TJ+9QWIWKfQV6w6YGHwypqtRx6mzpdTJL/RuCnQO+isF/wahpIpn0mAavvs8rpqSeHbk7E
+rC7ogx7RYjip7xQini/djtnvQh4OzFXOfnfYmxjI9ClE/FP0dagYdb1RtDofuCYQwgxsa/31kBuD
+1l0I4UVU8+ERsmH2w6tcwrA1IO/mIl/9lKObrkacv/4zC5ihWv0EHp+uJtRo9QmZ6aNiyzlRpP+w
+D/I4TprM2To0p++HX5sxGp/ZobFcZ51bZBd93xZi9fsR0FuACQfvwIKnedg/JOiJYlDvt9eDElG7
+1MUcvUPr/n24ZT6BylEck21/cGVoEwVkWdjq2Q==
+</ds:SignatureValue><ds:KeyInfo Id="Certificate1200749735"><ds:X509Data><ds:X509Certificate>MIII6zCCBtOgAwIBAgIIQDQw8pUVT8MwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTIwOTAxNDQwMFoXDTI4MTIwODAxNDQwMFowgYIxCzAJBgNVBAYTAkVDMQ8wDQYDVQQEDAZD
+QU8gU1UxEDAOBgNVBCoMB1JVSVRJQU4xGTAXBgNVBAUTEElEQ0VDLTA5MjUyOTU2NzcxFzAVBgNV
+BAMMDlJVSVRJQU4gQ0FPIFNVMRwwGgYDVQRhDBNUSU5FQy0wOTI1Mjk1Njc3MDAxMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgrvZBetQnFLpxJ75PJzDeSB26fpnEZ9On6KcUp1GOJfX
+LXska4F6dtfdmSPbYmdJrqe8ySasAu2xf7BuLMvWtKWj5pZUMzcpCYe7OR68T4QuYM9Eq8++NQ9t
+a6wsAeXkHiyapBoS22og+beyGgCpZ9taUiZ5P3eC58CFOkqE7PQCER5ykSv2AFSwt0Z2Ivf8EBun
+kSONXLie2eH02SWHdhLBk0CZ8yQEQ4bfw1S8CnNEIOwr4EWk/ht4hHW2Y1RUDwByY+BxIPFGbFqn
+9ZIy6A/JKRzVUPaQZzSo0k41IFdkP9aBtpFPmanCV+d1Xu5l5TdLs4KS4PcF8j8d17g9lQIDAQAB
+o4IEKzCCBCcwGwYLKwYBBAGC8TZmAwEEDAwKMDkyNTI5NTY3NzAeBgsrBgEEAYLxNmYDCwQPDA0w
+OTI1Mjk1Njc3MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51
+YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUx
+LmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29j
+c3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2Nz
+cC8wHQYDVR0OBBYEFKCO550OjMHS4TIZuFgDnBxqjahkMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgw
+FoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkGA1UdIASBkTCBjjCBiwYMKwYBBAGC8TZmAgEBMHsw
+NwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8w
+QAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8gREUgUEVSU09OQSBOQVRVUkFMIE8gRklTSUNBIEVO
+IEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1
+YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAw
+HQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBYQYDVR0RBIIBWDCCAVSBEXJ0Y3M0MDRA
+Z21haWwuY29toBsGCysGAQQBgvE2ZgMBoAwMCjA5MjUyOTU2NzegGAYLKwYBBAGC8TZmAwKgCQwH
+UlVJVElBTqAUBgsrBgEEAYLxNmYDA6AFDANDQU+gEwYLKwYBBAGC8TZmAwSgBAwCU1WgKgYLKwYB
+BAGC8TZmAwegGwwZS0VOTkVEWSBOT1JURSBNWiAyMDcgViAyMaAfBgsrBgEEAYLxNmYDCKAQDA4w
+MDU5Mzk2OTI0OTI2OKAWBgsrBgEEAYLxNmYDCaAHDAVCQUxBT6AeBgsrBgEEAYLxNmYDC6APDA0w
+OTI1Mjk1Njc3MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNP
+TkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEB
+CwUAA4ICAQCEOfA3AzlD/AHeQvj0jfTqyChsGw1Abnr9ACYtB//1e3L0i21jEdT14aesoDKRP/CB
+015HkdZ4Qh1TAZCkTeADCgR9eg9ZSC9IW2pgpXjfV76VRr5IB3YShtAYL6QqXE2Ky8vg8P6GtcAN
+hZFicVhibctSGtRT7c1HeqAhXkbxWdC3J0rbk2ujHwibf3ZbrpN6XHzhGEKhEAYZdSTZbFd65r53
+WNNQQOscK1VmA6biweKMQF6XH1wXrcJ2rVoe84N4wwhSC7dDUZXXur8OYJTrKRNKJ0uNJa8RNK6c
+JOfBgY4iEq0+t1CguStaYnkRzj6LBwopyg3DQplRSQiQfr/5l5Q7gIHxsKDoZrUFepXFqamd/lbD
+C6MYITzXJ+EZYgBOnQe/X0zCJ1/xasBmzztZPu9ROBYd3SsBxc/4EJwOM6GeWQ/CSH3LTayF2DFu
+vsCCP0EjODA38Q3sUFc1sqAcV+Hb+EmavXFMhJp/77iEYWU0C9xxRT8YwMD5CxZcUP0AvKT9cszh
+QfnRgwccycixVZmRANJ7OpuGygS6fgrXIAuuwRWW86x5C7NMVrdK3M3VMIfJTdULQAZL7Xwef9uu
+JukM6hrmn/bC9V4ouCkxG1Z+lXzw5K27DADEzgC/xmaxk02NiqSAJwShg6yIP5SlmFKVHtZC7tQ6
+8dghbIhNBw==
+</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>grvZBetQnFLpxJ75PJzDeSB26fpnEZ9On6KcUp1GOJfXLXska4F6dtfdmSPbYmdJrqe8ySasAu2x
+f7BuLMvWtKWj5pZUMzcpCYe7OR68T4QuYM9Eq8++NQ9ta6wsAeXkHiyapBoS22og+beyGgCpZ9ta
+UiZ5P3eC58CFOkqE7PQCER5ykSv2AFSwt0Z2Ivf8EBunkSONXLie2eH02SWHdhLBk0CZ8yQEQ4bf
+w1S8CnNEIOwr4EWk/ht4hHW2Y1RUDwByY+BxIPFGbFqn9ZIy6A/JKRzVUPaQZzSo0k41IFdkP9aB
+tpFPmanCV+d1Xu5l5TdLs4KS4PcF8j8d17g9lQ==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature423495006-Object1024114825"><etsi:QualifyingProperties Target="#Signature423495006"><etsi:SignedProperties Id="Signature423495006-SignedProperties1460866098"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-22T15:40:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>5I3v11U2i0mPSc/QWuDJOSi+br4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>4626376535657762755</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1229843624"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
+]]></comprobante>
+<mensajes/>
+</autorizacion>
+

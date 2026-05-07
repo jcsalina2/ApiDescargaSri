@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1402202601099277562900120810020004923290004923219</numeroAutorizacion>
+<fechaAutorizacion>2026-02-14T18:47:59-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>FARMACIAS KEYLA SA FARMAKEYLA</razonSocial>
+<nombreComercial>FARMACIAS KEYLA SA FARMAKEYLA</nombreComercial>
+<ruc>0992775629001</ruc>
+<claveAcceso>1402202601099277562900120810020004923290004923219</claveAcceso>
+<codDoc>01</codDoc>
+<estab>081</estab>
+<ptoEmi>002</ptoEmi>
+<secuencial>000492329</secuencial>
+<dirMatriz>PORTETE 5615 B Y LA 29 AVA Y 30 AVA</dirMatriz>
+
+</infoTributaria>
+<infoFactura>
+<fechaEmision>14/02/2026</fechaEmision>
+<dirEstablecimiento>CONJUNTO RESIDENCIAL LA JOYA</dirEstablecimiento>
+<contribuyenteEspecial>745J</contribuyenteEspecial>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>JUAN CARLOS SALINAS</razonSocialComprador>
+<identificacionComprador>0929761104</identificacionComprador>
+<direccionComprador>VILLA DEL REY</direccionComprador>
+<totalSinImpuestos>5.00</totalSinImpuestos>
+<totalDescuento>2.00</totalDescuento>
+<totalConImpuestos><totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>  
+<baseImponible>5.00</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto></totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>5.00</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>16</formaPago>  
+<total>5.00</total>  
+<plazo>0</plazo>  
+<unidadTiempo>DIAS</unidadTiempo>  
+</pago>
+</pagos>
+</infoFactura>
+<detalles><detalle>
+<codigoPrincipal>0214-00091</codigoPrincipal>
+<codigoAuxiliar>0214-00091</codigoAuxiliar>
+<descripcion>ENTEROGERMINA 5ML X10 VIALES</descripcion>
+<cantidad>4</cantidad>
+<precioUnitario>1.75000</precioUnitario>
+<descuento>2.00</descuento>
+<precioTotalSinImpuesto>5.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>5.00</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle></detalles>
+<infoAdicional>
+<campoAdicional nombre="TIPOCONTRIBUYENTE">REGIMEN GENERAL</campoAdicional>
+<campoAdicional nombre="CONTRIBUYENTE ESPECIAL">SI</campoAdicional>
+<campoAdicional nombre="NUMERO RESOLUCION">745J</campoAdicional>
+<campoAdicional nombre="OBLIGADO CONTABILIDAD">SI</campoAdicional>
+<campoAdicional nombre="Direccion">VILLA DEL REY</campoAdicional>
+<campoAdicional nombre="Telefono">000</campoAdicional>
+<campoAdicional nombre="Email">SIN CORREO</campoAdicional>
+</infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature339312">
+<ds:SignedInfo Id="Signature-SignedInfo356160">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID157460" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature339312-SignedProperties38340">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>aN2ExinoGdYoe+u7HgSMoxfTEFY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1950418">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5wBNrVwP3gY6pmrTzZqrv+iDSSM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-304067" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qSC7JJ3EsDv4hHaCZFAD60SOiS0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue973512">
+r9meNvPkWG+7Rs8Neg2+jKELhHCBNjpSXnXTi/xEM7Krj5BHfrb+eSaZKKiPVdEKfNfj4HTkJVEr
+Nx6YLBKvpsVFnUh1qjpnv3bhFS62a8Gsqc1A1rghowjZFxAqbokJFpJschuys2UNGOPEXvZm3Bc/
+jMeVhzi7EQZnDmWMB+jhD1IBiIk6zgb7QCUroxceorl+M5L7GCHajEXOMGH4U5+DhPJvN/9ljeys
+aYIBQDkGWrYI5ZIj0+uYht5iW3tUdfGf8/tpiixyQvyJlGt4hcBaJrCwYJG4HN1QM6DzP65mayq3
+6/MJ+AbY8DuVnlorEo8Nkfla6C8yLWDREx3Tog==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1950418">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILADCCCOigAwIBAgIIcUN3udwFG5UwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMjEwMTkzMjMwWhcNMzEwMjEwMTkzMjMwWjCB
+qDEmMCQGA1UEAwwdSE9MR0VSIEFSTUFORE8gSklNRU5FWiBHQVJDSUExIDAeBgNVBAUTFzAyMDEx
+NDI5NzMtMTAwMjI2MTQ0MjIwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOQu0LWARYSnqZEGaCCML1uc2jhVAZrp/ujL
+SXG+FjOR4plvpXw0JZODMkmkizQuVllDlKktNig3EpYuKwrdroleZvKvKwV0/h1zSz8azaiGB+rE
+JNLGM1Ki0FsfGh7bgllNDeAHsdz/LlXtSrYb89aPFe0I5Hdr+C0bJUpOy2IR1ZNXD9lkwOcFOkpE
+z6z/d2K35yrc83BnqueFAYPD7UIrD0gAy7MVN5ZXngkajstbvCUxy/wIxhZPfBAa2oYRnpmTKph4
+Rm2l8gZ7HYikqR0wkNfeeE0LACABdW8Y1qq2y/Z48B1udTu21ouE9ulflULTS3c3kVenJwYSB4ep
+768CAwEAAaOCBjkwggY1MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+N
+rmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCUGA1UdEQQeMByBGmhvbGdl
+cl9qaW1lbmV6QGhvdG1haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIG
+CCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBl
+AG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaB
+gmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9y
+bWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVz
+ZW50YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0f
+BIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNy
+bDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UE
+BhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9j
+cmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVy
+PUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1F
+TlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMu
+QS4gMixDPUVDMB0GA1UdDgQWBBSX7bMOlfr2fYHf/OvnZscW9WFB9jArBgNVHRAEJDAigA8yMDI2
+MDIxMDE5MzIzMFqBDzIwMzEwMjEwMTkzMjMwWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQR
+DA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAowMjAxMTQyOTczMEAGCisGAQQBgqZy
+AwkEMgwwR1VBWUFRVUlMIENBQkVDRVJBIENBTlRPTkFMIFkgQ0FQSVRBTCBQUk9WSU5DSUFMMBEG
+CisGAQQBgqZyAyIEAwwBLjAuBgorBgEEAYKmcgMHBCAMHlBPUlRFVEUgNTgwMDIgRU5UUkUgTEEg
+MzIgWSAzMzAeBgorBgEEAYKmcgMCBBAMDkhPTEdFUiBBUk1BTkRPMB8GCisGAQQBgqZyAyAEEQwP
+MDAxMDAyMDAxMTA5NTM3MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNV
+QURPUjAXBgorBgEEAYKmcgMDBAkMB0pJTUVORVowLgYKKwYBBAGCpnIDCgQgDB5GQVJNQUNJQVMg
+S0VZTEEgUyBBIEZBUk1BS0VZTEEwHQYKKwYBBAGCpnIDCwQPDA0wOTkyNzc1NjI5MDAxMBEGCisG
+AQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBkdBUkNJQTAaBgorBgEEAYKmcgMIBAwMCjA5
+Mzk5MTU3NjgwDQYJKoZIhvcNAQELBQADggIBACvjGt83I1duPEnrnEuZr6SM+y7XVjYn6KIrQJY2
+MPSonFHPG0XaE/HiJbVLuj9X8IDyVXjmSsZRKvNAk//UGg0g3LWxIAKl3BZZWzE6IOMGRNwh9log
+OMpuq2aBoEjZfNx3S8XdZIBtVDEZqu4W8EkR1JKfYmdi9gxaF+Y2BM4W57J4ZKpbxSpBsmGFUOWt
+MC2cKkg3CXcYJpgV2ciYW3aQk+chYza5hvl7GezAaLaxnY8iZ8GT124kGrS2QLuGZoB7fy2yKqCN
+JvIpYu3gNcMLP1xBl6wiseP1uMS1QfZGL2YysH6Njl9MTqqujn+K6xdC+dqsX7xsJbMeEUkfxDoq
+dm2uKCzF09dRHHjxpoTVb9MlJyaUwv2yJ4RjjyL82J3BqPQNcKWENT6j/NaJlCXxsZ1++JU5uA9u
+Dn7YZxXkb9RMPYqAxH6k5r22bhwllLTccQ/a6lbHhiuF279rabGQ8GDY8i0JEl2JrtD4Vnc28dpa
+0q6pODVEipWsUJWhkBgkcnEouXX5i5OFoKCa/cL6cAfVlln7jTWMvhiIKygvzi77UQrChUzzDwsW
+m6NG0N6Y9+PrWzmCtW5a2kRSKczOo83Q6VktICdsd9HfU432F3haQ8N1HzwdSWtgfuXsINywz3kk
+jSUZyVSOZ+2q5MsWQ6AXqKAvYHg2dLBBlmL4
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+5C7QtYBFhKepkQZoIIwvW5zaOFUBmun+6MtJcb4WM5HimW+lfDQlk4MySaSLNC5WWUOUqS02KDcS
+li4rCt2uiV5m8q8rBXT+HXNLPxrNqIYH6sQk0sYzUqLQWx8aHtuCWU0N4Aex3P8uVe1Kthvz1o8V
+7Qjkd2v4LRslSk7LYhHVk1cP2WTA5wU6SkTPrP93YrfnKtzzcGeq54UBg8PtQisPSADLsxU3llee
+CRqOy1u8JTHL/AjGFk98EBrahhGemZMqmHhGbaXyBnsdiKSpHTCQ1954TQsAIAF1bxjWqrbL9njw
+HW51O7bWi4T26V+VQtNLdzeRV6cnBhIHh6nvrw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature339312-Object931994"><etsi:QualifyingProperties Target="#Signature339312"><etsi:SignedProperties Id="Signature339312-SignedProperties38340"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-14T18:47:58-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>rkdkWmaG6NZig81oMF19HLk66pw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>8161498589869448085</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-304067"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

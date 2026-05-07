@@ -32,6 +32,8 @@ namespace ApiDescargaSriV9.CDescarga
     }
     public class CDescarga
     {
+        /// <summary>Retorno de <see cref="CComprobantesElectrnicosRecibidos"/> cuando no hay comprobantes para el filtro en el SRI.</summary>
+        public const string ResultadoRecibidosSinDatosSincronizados = "__SRI_RECIBIDOS_SIN_DATOS__";
 
         int NumeroFilasdata = 0;
         int NumeroFilas = 0;
@@ -208,9 +210,9 @@ namespace ApiDescargaSriV9.CDescarga
             Thread.Sleep(200);
             webDriver.FindElement(By.Id("usuario")).SendKeys(recibidosDto.Usuario);
             Thread.Sleep(200);
-            webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password);
+            webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password ?? "");
             Thread.Sleep(200);
-            webDriver.FindElement(By.Id("ciAdicional")).SendKeys(recibidosDto.UsuarioAdicional);
+            webDriver.FindElement(By.Id("ciAdicional")).SendKeys("");
 
 
             Thread.Sleep(200);
@@ -461,9 +463,9 @@ namespace ApiDescargaSriV9.CDescarga
             Thread.Sleep(200);
             webDriver.FindElement(By.Id("usuario")).SendKeys(recibidosDto.Usuario);
             Thread.Sleep(200);
-            webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password);
+            webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password ?? "");
             Thread.Sleep(200);
-            webDriver.FindElement(By.Id("ciAdicional")).SendKeys(recibidosDto.UsuarioAdicional);
+            webDriver.FindElement(By.Id("ciAdicional")).SendKeys("");
 
 
             Thread.Sleep(200);
@@ -999,9 +1001,9 @@ namespace ApiDescargaSriV9.CDescarga
             Thread.Sleep(200);
             webDriver.FindElement(By.Id("usuario")).SendKeys(recibidosDto.Usuario);
             Thread.Sleep(200);
-            webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password);
+            webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password ?? "");
             Thread.Sleep(200);
-            webDriver.FindElement(By.Id("ciAdicional")).SendKeys(recibidosDto.UsuarioAdicional);
+            webDriver.FindElement(By.Id("ciAdicional")).SendKeys("");
 
 
             Thread.Sleep(200);
@@ -1820,9 +1822,8 @@ namespace ApiDescargaSriV9.CDescarga
             Thread.Sleep(200);
             webDriver.FindElement(By.Id("usuario")).SendKeys(recibidosDto.Usuario);
             Thread.Sleep(200);
-            webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password);
+            webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password ?? "");
             Thread.Sleep(200);
-            //webDriver.FindElement(By.Id("ciAdicional")).SendKeys(recibidosDto.UsuarioAdicional);
 
 
             Thread.Sleep(200);
@@ -1932,8 +1933,35 @@ namespace ApiDescargaSriV9.CDescarga
                             Thread.Sleep(1500);
                         }
 
-                        IWebElement tablaCompRecibidos = new WebDriverWait(webDriver, TimeSpan.FromSeconds(30))
-                            .Until(ExpectedConditions.ElementExists(By.Id("frmPrincipal:tablaCompRecibidos")));
+                        IWebElement? tablaCompRecibidos = null;
+                        var limiteTablaOMensaje = DateTime.UtcNow.AddSeconds(30);
+                        while (DateTime.UtcNow < limiteTablaOMensaje)
+                        {
+                            if (ExisteMensajeSinDatosGlobal(webDriver))
+                            {
+                                try { webDriver.Quit(); } catch { /* ignore */ }
+                                return ResultadoRecibidosSinDatosSincronizados;
+                            }
+
+                            tablaCompRecibidos = webDriver.FindElements(By.Id("frmPrincipal:tablaCompRecibidos")).FirstOrDefault();
+                            if (tablaCompRecibidos != null)
+                                break;
+
+                            Thread.Sleep(300);
+                        }
+
+                        if (tablaCompRecibidos == null)
+                        {
+                            try { webDriver.Quit(); } catch { /* ignore */ }
+                            return ResultadoRecibidosSinDatosSincronizados;
+                        }
+
+                        EsperarAjaxPrimeFaces(webDriver, 25);
+                        if (!EsperarXmlLinksRecibidosOEstadoVacio(webDriver, tablaCompRecibidos, esperaMaxSegundos: 45))
+                        {
+                            try { webDriver.Quit(); } catch { /* ignore */ }
+                            return ResultadoRecibidosSinDatosSincronizados;
+                        }
 
                         // =========================
                         // 6) Procesar paginación
@@ -1994,6 +2022,12 @@ namespace ApiDescargaSriV9.CDescarga
                     {
                         Console.WriteLine("[ERROR] Bloque interno: " + ex1.Message);
 
+                        if (ExisteMensajeSinDatosGlobal(webDriver))
+                        {
+                            try { webDriver.Quit(); } catch { /* ignore */ }
+                            return ResultadoRecibidosSinDatosSincronizados;
+                        }
+
                         // Si hay captcha incorrecta, mejor reintentar sin romper todo
                         if (HayMensajeCaptchaIncorrecta(webDriver))
                         {
@@ -2013,6 +2047,13 @@ namespace ApiDescargaSriV9.CDescarga
                 catch (Exception ex2)
                 {
                     Console.WriteLine("[ERROR] Bloque externo: " + ex2.Message);
+
+                    if (ExisteMensajeSinDatosGlobal(webDriver))
+                    {
+                        try { webDriver.Quit(); } catch { /* ignore */ }
+                        return ResultadoRecibidosSinDatosSincronizados;
+                    }
+
                     genero = "NO";
                     webDriver.Navigate().GoToUrl("https://srienlinea.sri.gob.ec/tuportal-internet/accederAplicacion.jspa?redireccion=57&idGrupo=55");
                     continue;
@@ -2822,6 +2863,83 @@ namespace ApiDescargaSriV9.CDescarga
             return directorioArchivo;
 
         }
+
+        /// <summary>
+        /// Tras Buscar en recibidos: espera a que aparezcan enlaces XML (hay datos) o un estado claro de tabla vacía.
+        /// Devuelve false si no hay enlaces descargables (sin datos / timeout sin XML).
+        /// </summary>
+        private static bool EsperarXmlLinksRecibidosOEstadoVacio(IWebDriver webDriver, IWebElement tablaCompRecibidos, int esperaMaxSegundos)
+        {
+            var limite = DateTime.UtcNow.AddSeconds(esperaMaxSegundos);
+            while (DateTime.UtcNow < limite)
+            {
+                try
+                {
+                    // Mensaje explícito del portal cuando no existen registros para el filtro.
+                    if (ExisteMensajeSinDatosGlobal(webDriver))
+                    {
+                        return false;
+                    }
+
+                    foreach (var el in webDriver.FindElements(By.CssSelector(".ui-messages-warn-summary")))
+                    {
+                        var txt = (el.Text ?? string.Empty).Trim();
+                        if (el.Displayed && txt.Contains("No existen datos", StringComparison.OrdinalIgnoreCase))
+                            return false;
+                    }
+
+                    foreach (var el in webDriver.FindElements(By.CssSelector(".ui-datatable-empty-message")))
+                    {
+                        if (el.Displayed)
+                            return false;
+                    }
+
+                    foreach (var el in webDriver.FindElements(By.XPath("//*[contains(@class,'ui-datatable')]//*[contains(text(),'No existen')]")))
+                    {
+                        if (el.Displayed)
+                            return false;
+                    }
+
+                    if (tablaCompRecibidos.FindElements(By.XPath(".//*[contains(@id,'lnkXml')]")).Count > 0)
+                        return true;
+                }
+                catch
+                {
+                    // sigue esperando
+                }
+
+                Thread.Sleep(450);
+            }
+
+            try
+            {
+                return tablaCompRecibidos.FindElements(By.XPath(".//*[contains(@id,'lnkXml')]")).Count > 0;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        private static bool ExisteMensajeSinDatosGlobal(IWebDriver webDriver)
+        {
+            try
+            {
+                var body = webDriver.FindElements(By.TagName("body")).FirstOrDefault();
+                var bodyText = (body?.Text ?? string.Empty).Trim();
+                if (string.IsNullOrEmpty(bodyText))
+                    return false;
+
+                return bodyText.Contains("No existen datos para los parámetros", StringComparison.OrdinalIgnoreCase)
+                    || bodyText.Contains("No existen datos para los parametros", StringComparison.OrdinalIgnoreCase)
+                    || bodyText.Contains("No existen datos", StringComparison.OrdinalIgnoreCase);
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
         public void ProcessTableData(IWebDriver driver, IWebElement table, int paginador)
         {
             ScrollDerechaPagina(driver);

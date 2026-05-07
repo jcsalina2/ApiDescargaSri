@@ -4,11 +4,14 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System;
+using System.Collections.Generic;
 using System.Diagnostics;
+using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
+using System.Xml.Linq;
 
 namespace ApiDescargaSriV9.Controllers
 {
@@ -51,9 +54,7 @@ namespace ApiDescargaSriV9.Controllers
             if (!TryGetComprobanteRecibidos(sriDatosRecibidos.Comprobante, out var comprobante))
                 return BadRequest("Comprobante no v�lido.");
 
-            var nombreCarpeta = sriDatosRecibidos.Dia > 0
-                ? "CarpetaXmlRecibidos" + sriDatosRecibidos.Anio + sriDatosRecibidos.Mes + sriDatosRecibidos.Dia + comprobante
-                : "CarpetaXmlRecibidos" + sriDatosRecibidos.Anio + sriDatosRecibidos.Mes + comprobante;
+            var nombreCarpeta = GetNombreCarpetaXmlRecibidos(sriDatosRecibidos, comprobante);
             var directorioArchivo = Path.Combine(directorioArchivoPrincipal, nombreCarpeta);
 
             if (HasXmlFiles(directorioArchivo))
@@ -65,6 +66,9 @@ namespace ApiDescargaSriV9.Controllers
                 Directory.CreateDirectory(directorioArchivo);
 
             var rutaCarpeta = cDescarga.CComprobantesElectrnicosRecibidos(sriDatosRecibidos, comprobante);
+            if (string.Equals(rutaCarpeta, ApiDescargaSriV9.CDescarga.CDescarga.ResultadoRecibidosSinDatosSincronizados, StringComparison.Ordinal))
+                return Ok("No hay data para los parametros ingresados");
+
             if (!string.IsNullOrWhiteSpace(rutaCarpeta) &&
                 Directory.Exists(rutaCarpeta) &&
                 IsPathInsideRoot(directorioArchivoPrincipal, rutaCarpeta) &&
@@ -84,6 +88,92 @@ namespace ApiDescargaSriV9.Controllers
 
 
 
+        }
+
+        /// <summary>
+        /// Devuelve el contenido textual de cada XML ya descargado para los mismos filtros que GetXmlFolderElectrnicosRecibidos.
+        /// Solo lee archivos existentes en disco; no ejecuta descarga ni Selenium. Si no hay XML en la carpeta, responde 200 con lista vacía.
+        /// Para sincronizar desde el SRI primero, usar GetXmlFolderElectrnicosRecibidos.
+        /// </summary>
+        [HttpGet("GetXmlStringsElectrnicosRecibidos")]
+        [ProducesResponseType(typeof(List<XmlRecibidoItemDto>), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public ActionResult<List<XmlRecibidoItemDto>> GetXmlStringsElectrnicosRecibidos([FromQuery] SriDatosRecibidosDto sriDatosRecibidos)
+        {
+            if (sriDatosRecibidos == null)
+                return BadRequest("Solicitud no v�lida.");
+
+            if (!TryValidateRecibidosQuery(sriDatosRecibidos, out var validationError))
+                return BadRequest(validationError);
+
+            if (!TryResolveSafeDownloadRootByRuc(sriDatosRecibidos.Usuario, out var directorioArchivoPrincipal))
+                return BadRequest("RUC o ruta no permitidos.");
+
+            if (!TryGetComprobanteRecibidos(sriDatosRecibidos.Comprobante, out var comprobante))
+                return BadRequest("Comprobante no v�lido.");
+
+            var nombreCarpeta = GetNombreCarpetaXmlRecibidos(sriDatosRecibidos, comprobante);
+            var directorioArchivo = Path.Combine(directorioArchivoPrincipal, nombreCarpeta);
+
+            if (!HasXmlFiles(directorioArchivo))
+                return Ok(new List<XmlRecibidoItemDto>());
+
+            try
+            {
+                return Ok(ReadXmlRecibidoItems(directorioArchivo));
+            }
+            catch (IOException ex)
+            {
+                _logger.LogError(ex, "Error leyendo XML en {Carpeta}", directorioArchivo);
+                return BadRequest("No se pudo leer los archivos XML.");
+            }
+        }
+
+        private static string GetNombreCarpetaXmlRecibidos(SriDatosRecibidosDto dto, string comprobante)
+        {
+            return dto.Dia > 0
+                ? "CarpetaXmlRecibidos" + dto.Anio + dto.Mes + dto.Dia + comprobante
+                : "CarpetaXmlRecibidos" + dto.Anio + dto.Mes + comprobante;
+        }
+
+        private static List<XmlRecibidoItemDto> ReadXmlRecibidoItems(string folderPath)
+        {
+            var rutas = Directory
+                .EnumerateFiles(folderPath, "*.xml", SearchOption.TopDirectoryOnly)
+                .OrderBy(Path.GetFileName, StringComparer.OrdinalIgnoreCase)
+                .ToList();
+
+            var lista = new List<XmlRecibidoItemDto>(rutas.Count);
+            foreach (var ruta in rutas)
+            {
+                var texto = System.IO.File.ReadAllText(ruta, Encoding.UTF8);
+                var clave = TryExtractClaveAcceso(texto) ?? Path.GetFileNameWithoutExtension(ruta) ?? "";
+                lista.Add(new XmlRecibidoItemDto { ClaveAcceso = clave, Xml = texto });
+            }
+
+            return lista;
+        }
+
+        /// <summary>
+        /// Intenta leer claveAcceso del documento; si no existe, numeroAutorizacion (como en el renombrado de archivos).
+        /// </summary>
+        private static string? TryExtractClaveAcceso(string xmlText)
+        {
+            try
+            {
+                var doc = XDocument.Parse(xmlText, LoadOptions.PreserveWhitespace);
+                var clave = doc.Descendants()
+                    .FirstOrDefault(e => e.Name.LocalName == "claveAcceso")?.Value?.Trim();
+                if (!string.IsNullOrEmpty(clave))
+                    return clave;
+                var auth = doc.Descendants()
+                    .FirstOrDefault(e => e.Name.LocalName == "numeroAutorizacion")?.Value?.Trim();
+                return string.IsNullOrEmpty(auth) ? null : auth;
+            }
+            catch
+            {
+                return null;
+            }
         }
 
         private static bool TryValidateRecibidosQuery(SriDatosRecibidosDto dto, out string? error)
@@ -194,12 +284,6 @@ namespace ApiDescargaSriV9.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<ActionResult<ViewDatosRecibidosDto>> GetTablasElectrnicosRecibidos([FromQuery] SriDatosRecibidosDto sriDatosRecibidos)
         {
-
-            if (string.IsNullOrEmpty(sriDatosRecibidos.UsuarioAdicional))
-            {
-                sriDatosRecibidos.UsuarioAdicional = "";
-            }
-
 
             if (sriDatosRecibidos != null)
             {

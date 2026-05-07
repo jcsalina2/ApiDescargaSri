@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0803202601099221429500120411000000078001234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-03-08T17:20:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>TALMAX SA</razonSocial>
+    <nombreComercial>TALMAX SA</nombreComercial>
+    <ruc>0992214295001</ruc>
+    <claveAcceso>0803202601099221429500120411000000078001234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>041</estab>
+    <ptoEmi>100</ptoEmi>
+    <secuencial>000007800</secuencial>
+    <dirMatriz>CENTRO DE OPERACIONES ALMAX 3 KM 14.5 VIA SAMBORONDON</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>08/03/2026</fechaEmision>
+    <dirEstablecimiento>CITYMALL</dirEstablecimiento>
+    <contribuyenteEspecial>043-E</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>SLINAS JUAN CARLOS</razonSocialComprador>
+    <identificacionComprador>0929761104</identificacionComprador>
+    <totalSinImpuestos>14.51</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>14.51</baseImponible>
+        <valor>2.18</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>16.69</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>16.69</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>7300000000757</codigoPrincipal>
+      <descripcion>FILTRO IM018</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>8.260900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.26</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>8.26</baseImponible>
+          <valor>1.24</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>015561171014</codigoPrincipal>
+      <descripcion>NUTRAFIN BASIX PECES 12 G</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.249900</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.25</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>6.25</baseImponible>
+          <valor>0.94</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>0600000000157</codigoPrincipal>
+      <descripcion>FUNDAS DINA MEDIA CITY PET RECICLABLE</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Ciudad:">GYQ</campoAdicional>
+    <campoAdicional nombre="Telefono:"> </campoAdicional>
+    <campoAdicional nombre="Término:">EFECTIVO</campoAdicional>
+    <campoAdicional nombre="Vencimiento:">09-Mar-2026</campoAdicional>
+    <campoAdicional nombre="Vendedor:">MIELES LOPEZ CARLOS ALBERTO                                                                                                                                                                             </campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature80418" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo Id="Signature-SignedInfo83541"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID55864" URI="#Signature80418-SignedProperties66489" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>cTHejT2gBXHCz1vz3/krVafT0Qs=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate95356"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>aQtzmhCshB+cv+ArPriM6l2+a64=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-97248" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>BdVqOCSnQPh5WVKb7t4s0CtQPFY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue83658">BC5jh5iScs5pgUU0GDGjo8zHdpl0zKdbHoT5GFiYV4icfOWHb2U53hjzYco3v6iHVWL28G2afV7n
+aF8DIPWmLCxHGhgo1OXPR2PFCxJXFPAwd3Zr1ugHva2bO3YRJluFgzcgf0Xg9tJ/4BoVBA+YZb3u
+zvuBOGjoerFvb9GVBV0VaXzhvw5tGEBFZRYNSa/DpETK01LH7Q++Y8pGSPdf+3Jo6lGW27bdAZmq
+RjNbdsxgyPW3rUfWDMOsC/tVvtLHkahFn/XkRzxRbghGXoGRiItvVL7QkOkCf4DKFLvbUq+oi/Gp
+BCF18dCfy1oA8oCMOyOEoxXCYCcVOsjAgKwJdA==</ds:SignatureValue><ds:KeyInfo Id="Certificate95356"><ds:X509Data><ds:X509Certificate>MIIJhjCCB26gAwIBAgIIRFUxexSFT+swDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMTIxMjE2NTcwMFoXDTI2MTIxMTE2NTcwMFowgc4xCzAJBgNVBAYTAkVDMRQwEgYDVQQKDAtU
+QUxNQVggUy5BLjEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMRYwFAYDVQQEDA1MSVJBIENBU1RJ
+TExPMRcwFQYDVQQqDA5NQVJJQSBDUklTVElOQTEZMBcGA1UEBRMQSURDRUMtMDkyMjE0Mjk3MTEl
+MCMGA1UEAwwcTUFSSUEgQ1JJU1RJTkEgTElSQSBDQVNUSUxMTzEcMBoGA1UEYQwTVkFURUMtMDk5
+MjIxNDI5NTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKUP4HXEKQAB0f65wyOY
+jfwW9+NPFB/fqoCRYCFwwndr79FFXwiz6+U/wwMUN2CQuJSOjFl60ZuL4Mc5VBQDVWSYUv6+hUHt
+3XMC84lxzj+wJmAW4H0iCYTtqA7rvV3aBc1loeF+E3cHIzncdhNbYIhlLjNR2U5c1mYPkb59W1QK
+pg3++YvHOz8vsNLfw7jtjH68eSNm/VokyDoIpGZkZxWgF0K+8sWq94Oe6XyOtErpr4hn7NL6m9in
+eL+t60OmR49VNf5cYN+c34oairKYK6HYrIZf1hJAULju9UhAxsUPPPg7Iq+i91Q0MDqSnKbx9yz+
+5FfOafRhbEwkUNVcKoECAwEAAaOCBHowggR2MBsGCysGAQQBgvE2ZgMBBAwMCjA5MjIxNDI5NzEw
+HgYLKwYBBAGC8TZmAwsEDwwNMDk5MjIxNDI5NTAwMTCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYB
+BQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlm
+aWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBTUhJkwWIPQMI90eyB9w0VgQ25NzjAMBgNV
+HRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGOBgNVHSAEgYYwgYMw
+gYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20v
+cHVibGljL3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJRklDQURPIERFIFJFUFJFU0VO
+VEFOVEUgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3Js
+Mi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB
+/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggG7BgNVHREEggGyMIIBroET
+Z2VyZW5jaWFAY2l0eXBldC5lY6AbBgsrBgEEAYLxNmYDAaAMDAowOTIyMTQyOTcxoB8GCysGAQQB
+gvE2ZgMCoBAMDk1BUklBIENSSVNUSU5BoBUGCysGAQQBgvE2ZgMDoAYMBExJUkGgGQYLKwYBBAGC
+8TZmAwSgCgwIQ0FTVElMTE+gIAYLKwYBBAGC8TZmAwWgEQwPR0VSRU5URSBHRU5FUkFMoDIGCysG
+AQQBgvE2ZgMHoCMMIVZBIEEgU0FNQk9ST05ET04gRURJRklDSU8gQUxNQVggM6AfBgsrBgEEAYLx
+NmYDCKAQDA4wMDU5Mzk5NDMzNjAwMKAdBgsrBgEEAYLxNmYDCaAODAxTQU1CT1JPTkTDk06gHAYL
+KwYBBAGC8TZmAwqgDQwLVEFMTUFYIFMuQS6gHgYLKwYBBAGC8TZmAwugDwwNMDk5MjIxNDI5NTAw
+MaATBgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRBTlRFIExF
+R0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBACJw8zZ5aCk/
+8PcKAtdflCsejP6zUFRKcdQaRx7eeTaTsPPJEdwd1UuyC8Py8XCkuZwo4rguwviGvYxyco7y7OY5
+Ra5mU/KnuXNuM/lhjMLcordCGLQXMtfsFUh3VLYb3CNDXwUuJSawor/+vbHh/LhNqu3PWjsFF30C
+jMfwAqetjRBkkeP2KD0qLadisirBE1LkvxpUIdLmH2UUgw/jD5XxjelV4y6ywgP4BCH7AovA6Qba
+VeSMChSmkcZpMtZE+9ucPrP4fJg4a1Iw3OU3LjqSuAT3x++DL6lgUZj3Kiu5/PQ5MPOQCIvACHFh
+Fxagx1mM0Y0/deiH893W0Z+dGlMxjcMp/hdF4R5DpJuQJyt9Ry47EXLyhZWCkgLOYe+pIXzjNT5k
+mtz0KsnJ3q48ogQdNBdrAGHPNa+AfbgJegv8h64WHeNchYTxfJI/Ec3WhS73eWzsihrxVsBu4C9a
+jM5Rho+YxsfPc4D877CFGzRYxy6+roqdH4Hxa2jteap+U8y4O3SZPzn2SVwjLFooV4uq9q51g9PY
+fAKVwvrtXnUfsfWJy21pDEMrNQf+FKzcV1Rc/CTT6lpFMu5MIF0HIXlfB+2d94qMg/TIpmonmqGY
+i7VzsBczVBMJuYZwqsH6wyOOr5bC1wDuf4Q6Rabc21cv/84NXRwbDtp1pj0BDHuA</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>pQ/gdcQpAAHR/rnDI5iN/Bb3408UH9+qgJFgIXDCd2vv0UVfCLPr5T/DAxQ3YJC4lI6MWXrRm4vg
+xzlUFANVZJhS/r6FQe3dcwLziXHOP7AmYBbgfSIJhO2oDuu9XdoFzWWh4X4TdwcjOdx2E1tgiGUu
+M1HZTlzWZg+Rvn1bVAqmDf75i8c7Py+w0t/DuO2Mfrx5I2b9WiTIOgikZmRnFaAXQr7yxar3g57p
+fI60SumviGfs0vqb2Kd4v63rQ6ZHj1U1/lxg35zfihqKspgrodishl/WEkBQuO71SEDGxQ88+Dsi
+r6L3VDQwOpKcpvH3LP7kV85p9GFsTCRQ1VwqgQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature80418-Object64159"><etsi:QualifyingProperties Target="#Signature80418"><etsi:SignedProperties Id="Signature80418-SignedProperties66489"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-08T17:19:58</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>+PokQKAT1vlGDY0Byp3+A2bmUSI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>4923896172294524907</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-97248"><etsi:Description>Servicios IT, Luis Orellana Escalante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

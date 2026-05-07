@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1203202601099309914700120050010000118754070423513</numeroAutorizacion>
+<fechaAutorizacion>2026-03-24T16:58:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>CORPORACION PEZ AZUL PEZAZUL S.A.</razonSocial>
+	    <nombreComercial>CORPORACION PEZ AZUL</nombreComercial>
+	    <ruc>0993099147001</ruc>
+	    <claveAcceso>1203202601099309914700120050010000118754070423513</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>005</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000011875</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / GUAYAQUIL / CIUDADELA GUAYAQUIL 18 Y manzana 2</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>12/03/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / GUAYAQUIL / CIUDADELA GUAYAQUIL 18 Y manzana 2</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Juan Carlos Salinas</razonSocialComprador>
+	    <identificacionComprador>0929761104</identificacionComprador>
+		<direccionComprador>xxxxxx</direccionComprador>
+	    
+	    <totalSinImpuestos>9.98000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>9.98</baseImponible>
+				<valor>1.50000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>11.48000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>01</formaPago>
+	    		<total>11.48</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>PTBOLLO003</codigoPrincipal>
+		<codigoAuxiliar>PTBOLLO003</codigoAuxiliar>
+      	<descripcion>BOLLO DE PESCADO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>2.570000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.57</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.57000</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PTCHIFLE001</codigoPrincipal>
+		<codigoAuxiliar>PTCHIFLE001</codigoAuxiliar>
+      	<descripcion>CHIFLES</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.869600</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.87</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.87000</baseImponible>
+          <valor>0.13</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>PTBEBIDA015</codigoPrincipal>
+		<codigoAuxiliar>PTBEBIDA015</codigoAuxiliar>
+      	<descripcion>COCA COLA 500ML</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.570000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.57</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.57000</baseImponible>
+          <valor>0.24</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>COMMESAENCECHIFCOCA</codigoPrincipal>
+		<codigoAuxiliar>COMMESAENCECHIFCOCA</codigoAuxiliar>
+      	<descripcion>COMBO MESA ENCEBOLLADO + CHIFLE + COCA COLA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>4.970000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.97</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.97000</baseImponible>
+          <valor>0.75</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature521778">
+<ds:SignedInfo Id="Signature-SignedInfo508836">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID532213" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature521778-SignedProperties727470">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5YxtrK17Ws4VC0SpTZAdwrivRR4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate973354">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5bj1A8QGW0ySTwu9sdM8G5l9kmo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-593646" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>/BI+KZmIKgODZL/WEAQ5DoCFYLs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue268099">
+vkf8hIc+Rg5q/uUKXF0D5I4ZqcOPNmgKSgunLVWG9R0yxOxWflDCyeLktorYmZUshXxHUnfhvO23
+tq0gW+5J2dQqaq1CsVugK16aZR/wPkxQfcnaEzI5xh8piCIB7v/ZXHipNOCHAek3nKfXUjgEPWqu
+/Bzxvaa6sLWZcxsnTpB7ZGivmRHgAml2i8v7qNiTdOcd0RiSovEOZbQ5SymPZZ4WO96ZK01+1Jm6
+GWRaiol+cq1ux2mEibP9rR3/gVXODLK3BEMGoCdWvBtYCbCPWHRJcwXPCcFKKJIEBAkFyK6MHWTq
+ZEpqeDu+QOysieq6fMv2cGNhHRdj15LUkHR8SQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate973354">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIMDCCBhigAwIBAgIQd369ySLmg68FEPr2wtJIFDANBgkqhkiG9w0BAQsFADCBtTELMAkGA1UE
+BhMCRUMxGDAWBgNVBAoMD0RhdGlsbWVkaWEgUy5BLjEwMC4GA1UECwwnRW50aWRhZCBkZSBjZXJ0
+aWZpY2FjaW9uIGRlIGluZm9ybWFjaW9uMQ8wDQYDVQQIDAZHdWF5YXMxNTAzBgNVBAMMLERhdGls
+IEF1dG9yaWRhZCBkZSBDZXJ0aWZpY2FjaW9uIFN1Ym9yZGluYWRhMRIwEAYDVQQHDAlHdWF5YXF1
+aWwwHhcNMjUwMzMxMTgxOTA1WhcNMjgwMzMwMTkxOTA1WjCBqDEnMCUGA1UEAwweUmF5bmllcm8g
+TWF1cmljaW8gSnVyYWRvIEFyaWFzMSMwIQYJKoZIhvcNAQkBFhRwZXphenVsMjAyQGdtYWlsLmNv
+bTEqMCgGA1UECgwhQ29ycG9yYWNpb24gUGV6IEF6dWwgUGV6YXp1bCBTLkEuMR8wHQYDVQQLDBZD
+ZXJ0aWZpY2Fkb3MgRGlnaXRhbGVzMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAOo6YmZky4P/z5rhlfwfQSAZjYk7tggryKwxf62X/fjfWDMrai21L6jHosXkunoW
+HXB7sM0T+PoBrOVRqRNtgkexTaFP1J8+Q8fMCo/Kz7ZJKEp4Pj8y4zSP+xzUre1qwfrbCBJMyVcY
+CtsZnPJaoLHMVMW1m97GhUeyHCWl/oHBdH5kql21DakdbvkSXi2cUikXeA70t8Mi1MqQUv8dQz5Q
+85sv9PYzx9QkY8pvQtd9F6JBc0lvR8udFJ+KxSuUPixylVZdSEiMYFoaj0qOz15BpeKaZ8s+nN/7
+/DgCXQIVLcpVd0JveEoumSSR7ste1E8PJRkyo2XZJw3zfsPwC1UCAwEAAaOCA0UwggNBMB8GA1Ud
+EQQYMBaBFHBlemF6dWwyMDJAZ21haWwuY29tMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAU5Wb5snh2
+G2r0z8t4UMUFHzqd4HcwHQYDVR0OBBYEFMViuthmXALK5giR5TzwfRX2SmzrMIGjBgNVHSAEgZsw
+gZgwgZUGCysGAQQBg5sjAgUBMIGFMIGCBggrBgEFBQcCARZ2aHR0cHM6Ly9kYXRpbC1vcy1wdWJs
+aWMuczMudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vOThlMjFkYmQtYjZlYy00ZTgzLWI5ZTktZDRh
+ZTEyYjRkOTY3L0RhdGlsX0NQU19QZXJzb25hX0p1cmlkaWNhLnBkZjBvBgNVHR8EaDBmMGSgYqBg
+hl5odHRwOi8vZGF0aWwtc3ViY2EtY3JsLnMzLnVzLXdlc3QtMi5hbWF6b25hd3MuY29tL2NybC9h
+MDc4OGVlMC03OGJiLTQwNmItYjM4YS0zMmUzNmFhNGRiZGIuY3JsMEcGCCsGAQUFBwEBBDswOTA3
+BggrBgEFBQcwAYYraHR0cDovL29jc3AuYWNtLXBjYS51cy13ZXN0LTIuYW1hem9uYXdzLmNvbTAO
+BgNVHQ8BAf8EBAMCBsAwGgYKKwYBBAGDmyMDAQQMDAowOTE3NjMyOTM3MCEGCisGAQQBg5sjAwIE
+EwwRUmF5bmllcm8gTWF1cmljaW8wFgYKKwYBBAGDmyMDAwQIDAZKdXJhZG8wFQYKKwYBBAGDmyMD
+BAQHDAVBcmlhczAbBgorBgEEAYObIwMFBA0MC1RyYWJhamFkb3JhMBkGCisGAQQBg5sjAwcECwwJ
+R3VheWFxdWlsMBkGCisGAQQBg5sjAwgECwwJMDQ1MDI5MzEwMBkGCisGAQQBg5sjAwkECwwJR3Vh
+eWFxdWlsMDEGCisGAQQBg5sjAwoEIwwhQ29ycG9yYWNpb24gUGV6IEF6dWwgUGV6YXp1bCBTLkEu
+MB0GCisGAQQBg5sjAwsEDwwNMDk5MzA5OTE0NzAwMTASBgorBgEEAYObIwMMBAQMAkVDMCEGCisG
+AQQBg5sjAyAEEwwRMDAxLTAwMi0wMDAwMzQyMTEwDQYJKoZIhvcNAQELBQADggIBAIr6FLy5hifP
+M1gCTYvu/OB44L68yb8gikVV1UbKaB4I5PiqKDXfL8rpGP7YlgBSZgoqSi8QvPXarF9hg6TVoWNb
+pxSJMumEOASGF1TcIafsuG2vIWxEDtQmdNla7LFrMfoYe4UYF8NdvI98J1z2zESPAz/BpXHXAvjW
+2ZqdkD+lENxhZvtd9wt3Yi9so/L2fB9uu2T2Jrjfjswb0VyaJ6YFf6jcX4Nsd9e8xnAWoMRFE/KL
+lEFwrbFLyCV2aX3K67rFSZxtz/ALC7vIenGu/FyJ1X6oC6owYs8lBe0DJGc6I9MUrtLqGSevAEXg
+1W9KgpUEU3Nk76mfO3w9eyOdU86ERPMtfIhYOVOUmq5A3hWfMcG6f/Js28BsJ/sGSylw+r48j7+E
+lwX/meWjpkOEYR8xNgA1djO7df+4VrBFkp8jbh4pSvitCgmWtGtbtY1Rjd6MW4p1Y5pR0nj1YdxY
+BcTYhrMYCoAclBNHyu/a4F1SnvE2BdTFwqHkhgRZVc3tdxqVvgdyeAwQ2QFFnSbTdx843v7c26YK
+TDk5Gddrvnt8BUnm4kDLcZL9FCBo/BdNc2NcpXwkKKMIojexLNNIJiYPlXQc4Iq7seoJMXzPvU3h
+45E9B3vet4G6jK5uw8ayRa4r1ml4ZoHgOGa94oNw4XiMlabGUY0xE0b/TTILpio+
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+6jpiZmTLg//PmuGV/B9BIBmNiTu2CCvIrDF/rZf9+N9YMytqLbUvqMeixeS6ehYdcHuwzRP4+gGs
+5VGpE22CR7FNoU/Unz5Dx8wKj8rPtkkoSng+PzLjNI/7HNSt7WrB+tsIEkzJVxgK2xmc8lqgscxU
+xbWb3saFR7IcJaX+gcF0fmSqXbUNqR1u+RJeLZxSKRd4DvS3wyLUypBS/x1DPlDzmy/09jPH1CRj
+ym9C130XokFzSW9Hy50Un4rFK5Q+LHKVVl1ISIxgWhqPSo7PXkGl4ppnyz6c3/v8OAJdAhUtylV3
+Qm94Si6ZJJHuy17UTw8lGTKjZdknDfN+w/ALVQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature521778-Object827088"><etsi:QualifyingProperties Target="#Signature521778"><etsi:SignedProperties Id="Signature521778-SignedProperties727470"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-24T16:58:00-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>oA+YUasIjEGb3/ugz00Z5vG0PyQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Datil Autoridad de Certificacion Subordinada,C=EC,L=Guayaquil,ST=Guayas,O=Datilmedia S.A.,OU=Entidad de certificacion de informacion</ds:X509IssuerName><ds:X509SerialNumber>158836210213657297820581498420743784468</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

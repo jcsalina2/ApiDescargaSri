@@ -8,6 +8,7 @@
     <OutputType>Exe</OutputType>
     <EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
     <IncludeSymbols>True</IncludeSymbols>
+    <DefaultItemExcludes>$(DefaultItemExcludes);wwwroot\ChromeProfiles\**</DefaultItemExcludes>
   </PropertyGroup>
 
   <ItemGroup>

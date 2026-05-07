@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3103202601139193871200120010010000000034461948213</numeroAutorizacion>
+<fechaAutorizacion>2026-03-31T19:07:49-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CONAFISE S.A.S.</razonSocial><ruc>1391938712001</ruc><claveAcceso>3103202601139193871200120010010000000034461948213</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000000003</secuencial><dirMatriz>MANABI / CHONE / CHONE / CIUDADELA MARIO LOOR Y SANTA RITA-CHONE</dirMatriz></infoTributaria><infoFactura><fechaEmision>31/03/2026</fechaEmision><dirEstablecimiento>Chone</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>SALINAS ELIZALDE JUAN CARLOS</razonSocialComprador><identificacionComprador>0929761104001</identificacionComprador><direccionComprador>GUAYAS / GUAYAQUIL / TARQUI /  SOLAR 3</direccionComprador><totalSinImpuestos>86.96</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>86.96</baseImponible><valor>13.04</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>100.00</importeTotal><moneda>DÓLAR</moneda><pagos><pago><formaPago>20</formaPago><total>100.00</total><plazo>1</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>01</codigoPrincipal><codigoAuxiliar>01</codigoAuxiliar><descripcion>Servicios </descripcion><cantidad>1.00</cantidad><precioUnitario>86.960000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>86.96</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>86.96</baseImponible><valor>13.04</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Notas">Servicios de contabilidad mes de marzo 2026.</campoAdicional><campoAdicional nombre="Email">juansalinas_e@hotmail.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature501443">
+<ds:SignedInfo Id="Signature-SignedInfo1040518">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID876794" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature501443-SignedProperties896072">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>7ri4HvYbepwlql6ofiUYL9IlSuw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1699679">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>8slY3Rns1UabGdp2VJ4h/Va/4mo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-424089" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1Re/OjgZjw9d+CnHNG/AKx8G/vU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue136031">
+D3Z4YncAU+BGtDpInIcDpfHkjjyg2l+rHR/kO2HLXnbhthGGVovav8bpX9dtZ/ab1pmKdAmUyTG/
+8uwlFSkF9+IrOl9GDEQf8YcyeLVoScz5PX5KWwOdB8ms8Qmq8xVv16ksm6yOKWDDp8Y5hIRTplag
+n05HsIuVMi5R5lG5RmtBYaeJt385IoujdMl/cVeniy6R91iFrxCqwR7L0z0nAe1+LkDVGU0gSa6t
+H8ZdYHRVvJgPkv0h8d2V3KDKTKibFE19jcH1n/UeX+jTm3RVGvYxrUIGaZJCrduyhSyY2Z35Z3ky
+ZJMSuAYXSTKLPkunPS4RLwQLMnV/FLkf6NwomQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1699679">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJyTCCB7GgAwIBAgIIaR+0WJFsB5kwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI2MDIwNDIzMzkwMFoXDTI3MDIwNDIzMzkwMFowgd4xCzAJBgNVBAYTAkVDMRgwFgYDVQQKDA9D
+T05BRklTRSBTLkEuUy4xGDAWBgNVBAwMD0dFUkVOVEUgR0VORVJBTDEaMBgGA1UEBAwRWkFNQlJB
+Tk8gRklHVUVST0ExGTAXBgNVBCoMEEpFTklGRkVSIE5JQ09MTEUxGTAXBgNVBAUTEElEQ0VDLTEz
+MTY0NzE0NjMxKzApBgNVBAMMIkpFTklGRkVSIE5JQ09MTEUgWkFNQlJBTk8gRklHVUVST0ExHDAa
+BgNVBGEME1ZBVEVDLTEzOTE5Mzg3MTIwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCAI0D3BZfk/dC/6++xOYyHeJobuYerzSXD19Sb74CNgkzqR3ZjDSc3qILicRlvzLAQpPYdg7Qn
+twI9GS8E4qBVRMa6lxocgYJfnhY/8dzQfaDCk7TLDQB7ttz4jfx7uskMBphEoxioG0VtLidNJioq
+BixQ7mt8CZ3JEEUos/IrG3+gT63AtcX7/xQVUhRj9R1W3dybx0quThNYbhgWGJMRUxo1yb2lfAU9
+oXYcvHklaZFZ98yhrI2cn1oikR6GzaxgH0CNsUDNDtIkx+vsn9leTZYJh3Cvi0Qp5061l3GAIHfm
+34fKTPJdTmIQe9n6UZ039l/DFqEW4Dt9rN3k6/XrAgMBAAGjggStMIIEqTAbBgsrBgEEAYLxNmYD
+AQQMDAoxMzE2NDcxNDYzMB4GCysGAQQBgvE2ZgMLBA8MDTEzOTE5Mzg3MTIwMDEwgdcGCCsGAQUF
+BwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93
+bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTIuY3J0MDYGCCsGAQUFBzABhipodHRw
+Oi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6
+Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUTO8KsLTVVbGJ
+jPUUbS6wvvC5czAwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz
+/TCBjgYDVR0gBIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3BggrBgEFBQcCARYraHR0cHM6Ly93
+d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1BggrBgEFBQcCAjApDCdDRVJUSUZJ
+Q0FETyBERSBSRVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0
+cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBA
+oD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGlu
+YWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIB
+7gYDVR0RBIIB5TCCAeGBFmNvbmFmaXNlLnNhc0BnbWFpbC5jb22gGwYLKwYBBAGC8TZmAwGgDAwK
+MTMxNjQ3MTQ2M6AhBgsrBgEEAYLxNmYDAqASDBBKRU5JRkZFUiBOSUNPTExFoBkGCysGAQQBgvE2
+ZgMDoAoMCFpBTUJSQU5PoBkGCysGAQQBgvE2ZgMEoAoMCEZJR1VFUk9BoCAGCysGAQQBgvE2ZgMF
+oBEMD0dFUkVOVEUgR0VORVJBTKBfBgsrBgEEAYLxNmYDB6BQDE5DQUxMRTogQ0lVREFERUxBIE1B
+UklPIExPT1IgSU5URVJTRUNDSU46IFNBTlRBIFJJVEEtQ0hPTkUgTk1FUk8gREUgUElTTzogMSBS
+RUagHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5ODM1NTU3MDWgFgYLKwYBBAGC8TZmAwmgBwwFQ0hP
+TkWgIAYLKwYBBAGC8TZmAwqgEQwPQ09OQUZJU0UgUy5BLlMuoB4GCysGAQQBgvE2ZgMLoA8MDTEz
+OTE5Mzg3MTIwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgJAYLKwYBBAGC8TZmAzKgFQwTUkVQUkVT
+RU5UQU5URSBMRUdBTKAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4IC
+AQBvSQGXsdVDIvDeAPzxUD9GbQNUL8K4lJDIeZbZNQyiYLyON3mCH+JxER6mrhzkA6Df8+/XAULZ
+z6dAI0AV1TcuV2MXIR7l/Zbhz7WlgqccIGO4lURAotmX2Sw1LX9DOrhLpwOcMaN2TlkoQMXJH5nr
+mQkRBXBwUpct/BwKKw13amfwv9RfllPWOdff2Wglu8hqC1QO5SppKh15ntQQk/+3efwT3JY3TQVL
+VKIE9IMDt6GBwQ2DRdB3Jwpvp3cTQ/I/wkHss8Aa2DnlRw9Fn/ULOQ5SwClYR+SAohbkkW6I/Fcv
+P541t7wddDJdMFFfaWvl47BOAPg59dYM3CUBGE69jABcdkcpGqPADA3GYum6jdZxebO+LGPOCAsY
+U9AsLQtepbVsXcuTUYp8FnJCs0H1gnvgAfvzW5qNRrvb9pa1c4bYFtUQH8HiNYxyFazcyHhR7NjQ
+RzTYlMu9afmrkNN4HBv8sIWGEDOuZS59lDXyBfQpSBiAe4NeMrqtoO89f7AFM/o6/hhh87KRtlRu
+76we4LiBNTTr5ulmIKbkyP7X7G+UO3nbn5IqQ8gpYo999qsb1qRMH+JOok64CB45l3XwEr+VAh8m
+vtbRGC0sunyjjWta3KYWE+cYhDz1IqAsBfTtbMqwyotXK4ZS/FpoATpO6PveVG78w9cMttR9+TUT
+WQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gCNA9wWX5P3Qv+vvsTmMh3iaG7mHq80lw9fUm++AjYJM6kd2Yw0nN6iC4nEZb8ywEKT2HYO0J7cC
+PRkvBOKgVUTGupcaHIGCX54WP/Hc0H2gwpO0yw0Ae7bc+I38e7rJDAaYRKMYqBtFbS4nTSYqKgYs
+UO5rfAmdyRBFKLPyKxt/oE+twLXF+/8UFVIUY/UdVt3cm8dKrk4TWG4YFhiTEVMaNcm9pXwFPaF2
+HLx5JWmRWffMoayNnJ9aIpEehs2sYB9AjbFAzQ7SJMfr7J/ZXk2WCYdwr4tEKedOtZdxgCB35t+H
+ykzyXU5iEHvZ+lGdN/ZfwxahFuA7fazd5Ov16w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature501443-Object1026702"><etsi:QualifyingProperties Target="#Signature501443"><etsi:SignedProperties Id="Signature501443-SignedProperties896072"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-31T19:07:48-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>m/AH+ZKQZ/kOsXCAUnTkXrREyjg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7574971390750361497</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-424089"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

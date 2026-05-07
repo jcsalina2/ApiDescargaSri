@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0303202601091235773800120130020000060210000434811</numeroAutorizacion>
+<fechaAutorizacion>2026-03-03T15:39:36-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>MONTUFAR HERNANDEZ MELBA TANIA</razonSocial>
+	    <nombreComercial>GAME STATION</nombreComercial>
+	    <ruc>0912357738001</ruc>
+	    <claveAcceso>0303202601091235773800120130020000060210000434811</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>013</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000006021</secuencial>
+	    <dirMatriz>MATRIZ: AV. FRANCISCO DE ORELLANA Y GUILLERMO PAREJA C.C. RIOCENTRO NORTE LOCAL 105</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>03/03/2026</fechaEmision>
+		
+			<dirEstablecimiento>MATRIZ: AV. FRANCISCO DE ORELLANA Y GUILLERMO PAREJA C.C. RIOCENTRO NORTE LOCAL 105</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Juan Carlos Salinas</razonSocialComprador>
+	    <identificacionComprador>0929761104</identificacionComprador>
+		<direccionComprador>Villas Del Rey</direccionComprador>
+	    
+	    <totalSinImpuestos>26.95000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>26.95</baseImponible>
+				<valor>4.04000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>30.99000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>01</formaPago>
+	    		<total>30.99</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>FC-d65</codigoPrincipal>
+		<codigoAuxiliar>FC-d65</codigoAuxiliar>
+      	<descripcion>Figura de Coleccion</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>10.430000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>10.43</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>10.43000</baseImponible>
+          <valor>1.56</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>K-414</codigoPrincipal>
+		<codigoAuxiliar>K-414</codigoAuxiliar>
+      	<descripcion>Kit De Figuras</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>16.520000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>16.52</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>16.52000</baseImponible>
+          <valor>2.48</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA DESDE PUNTO DE VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature758744">
+<ds:SignedInfo Id="Signature-SignedInfo888579">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID928793" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature758744-SignedProperties220893">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>V0Ql8xDVXffHZ4bfhAP3BOJsn5o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate441128">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cVwL8/Zh/5jAbCt9yahCingjITE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-917344" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5zlSPLkJlp4IgmHlQaE0SY9EquE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue274309">
+n8cmtMNs1jtOjeucvvszBPEy85BqwRD4jFFZkT/cBNj8e67wpTiSQjmapoL+9GLBCkuVYYgiyoI4
+BFVDM8Mh4BIaYqNe4Irwy0e5kmkL2SZvs7QozxdfF22ashwEQ8UwttDtqc9i0xfy7UHh3NsU0lxl
+gmJSm8x0OS5qVt1UWDkHvETJnFzkYfAgCs/fo/fK7S39XSeKHLtLXU3qSuP8DuxjgQUDFCYlTVLy
+svr6QuEDfWjKjrEz7hTdrh4ukkKjwODvv3oG4BFxI+6vfNB2hHfTavRJznU0lAZezaCk+1ImP1c9
+2GUUuYztGdRv6cECmTU7vAGX1dVeY5mEJC9T2w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate441128">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJVzCCBz+gAwIBAgIIeIUyZQse3SEwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDgxMzE3MDgwMFoXDTI3MDgxMzE3MDgwMFowgaIxCzAJBgNVBAYTAkVDMRswGQYDVQQEDBJN
+T05UVUZBUiBIRVJOQU5ERVoxFDASBgNVBCoMC01FTEJBIFRBTklBMRkwFwYDVQQFExBJRENFQy0w
+OTEyMzU3NzM4MScwJQYDVQQDDB5NRUxCQSBUQU5JQSBNT05UVUZBUiBIRVJOQU5ERVoxHDAaBgNV
+BGEME1RJTkVDLTA5MTIzNTc3MzgwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDI
+hWA3kQwCK209xO3rzRujJvGKJp9pD86Ueoi4yiUfRU7u2gBz2CigE1BGUCB4CHhVsSLKs8TaIl3p
+62aRDzmRp4i6oV8tivwvW6JYwl4s64ocVqRNTdLRV8L9Kw9TE1HViOiLzZ2CL2ujdLWxuM4UjVsW
+GYO+VK17AJHTl66sGE5PA3dI0t0ijoJHiSXXOfs6Pl2tb6JsJG+SBoikTMDYa0k24mOrzteNLRrT
+5XUWgH461gwTmlAQ/LxTUaca5yq7l4Bskm47oU/tFfeQcHuQ0RLpFu0RW8MhkYYhrQYMaw1jPbXa
+kmDHG2V5M0aDUbtPkFp7TsR1R8PLNrSWBjkNAgMBAAGjggR3MIIEczAbBgsrBgEEAYLxNmYDAQQM
+DAowOTEyMzU3NzM4MB4GCysGAQQBgvE2ZgMLBA8MDTA5MTIzNTc3MzgwMDEwgdcGCCsGAQUFBwEB
+BIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxv
+YWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8v
+b2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9v
+Y3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUpI8rLKmvB9lUCu81
+Gxtggpf83pEwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCB
+mQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FE
+TyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECg
+PqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5h
+ZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Ey
+c3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYB
+BQUHAwQwggGtBgNVHREEggGkMIIBoIEdam9zZWxpdG9tb3JhbGVzMTVAaG90bWFpbC5jb22gGwYL
+KwYBBAGC8TZmAwGgDAwKMDkxMjM1NzczOKAcBgsrBgEEAYLxNmYDAqANDAtNRUxCQSBUQU5JQaAZ
+BgsrBgEEAYLxNmYDA6AKDAhNT05UVUZBUqAaBgsrBgEEAYLxNmYDBKALDAlIRVJOQU5ERVqgVgYL
+KwYBBAGC8TZmAwegRwxFR1VBWUFTICAgR1VBWUFRVUlMICAgWElNRU5BICAgQVYuIDI1IERFIEpV
+TElPIFMgTiBZIEFWLiBQSU8gSkFSQU1JTExPoB8GCysGAQQBgvE2ZgMIoBAMDjAwNTkzOTk5NDI2
+ODkwoBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAeBgsrBgEEAYLxNmYDC6APDA0wOTEyMzU3
+NzM4MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEgTkFU
+VVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUAA4IC
+AQCCs+bk0Oj4PKt6d1hBb/xudbl1SIKmw3jvfX9zrOMZlmWTiulxocWs/2Abxf/Eq2WpCljgpfSa
+4J6qOh3cwK58RYDnYp2A4wop8fVjOww6rBWH3+8WBEs1mGJ9OTc1+Fd8/PPP++TOavUq73bfTyZ0
+VpyAcOikiA3GWgkwcaGwGmAQ6XUaY8a+8alpqDF1e2Rylf6iM0G6a8PGltpiiCzy0aIHKPiByL79
+7vf+cpjAShUxWAqM0QKmgJWnR3TU5OqO/G8HjlHMzlk6EOSF+5bHCUHskgybAubJAQ3YvbOCdPEw
+nis40OCDVDg+xtIuI6HUn69IZCpQ2N1JDcgk2MWCw0qiibI7dXps9qPjA05EPhEYXBtsLj+kjM8x
+JdXI+ccmtfYj4KFbH27LKPc+CJZ2gcDDSaBoXlnvaGIVP7LUuyV8nCb+d7TNddf2Z3t8Su4/UZO8
+R5Yp8kcF6X7F4GKkI1TqI8tGRndaHTZHltcWMS3+OEyVWw/50RUl6+I/MbCQPB9YmCHnCOpLLOQD
+lanv2q+uAMYztLGXCwUl0D6aH6aAAuMQp5nWQUVaBs+CWJ5Rj3qUyxJiZSAojXG7XTYiZJxv26Hz
+nAOeg8tn/GP7ip3XJuVKRb8UoKEsLLcmgf2S5THzRxCU9v16pxBVp5RpTZH02MpRBi1WRxSljx23
+4A==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yIVgN5EMAittPcTt680boybxiiafaQ/OlHqIuMolH0VO7toAc9gooBNQRlAgeAh4VbEiyrPE2iJd
+6etmkQ85kaeIuqFfLYr8L1uiWMJeLOuKHFakTU3S0VfC/SsPUxNR1Yjoi82dgi9ro3S1sbjOFI1b
+FhmDvlStewCR05eurBhOTwN3SNLdIo6CR4kl1zn7Oj5drW+ibCRvkgaIpEzA2GtJNuJjq87XjS0a
+0+V1FoB+OtYME5pQEPy8U1GnGucqu5eAbJJuO6FP7RX3kHB7kNES6RbtEVvDIZGGIa0GDGsNYz21
+2pJgxxtleTNGg1G7T5Bae07EdUfDyza0lgY5DQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature758744-Object74591"><etsi:QualifyingProperties Target="#Signature758744"><etsi:SignedProperties Id="Signature758744-SignedProperties220893"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-03T15:39:34-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>IOYw4rtDga0c5mpobPbaYSrq77Q=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>8684402866013527329</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

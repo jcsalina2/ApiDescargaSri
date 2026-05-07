@@ -63,26 +63,22 @@ namespace ApiDescargaSriV9.Controllers
                         comprobante = "Factura";
                         break;
                     case 2:
-                        comprobante = "LiquidaciÛn";
+                        comprobante = "Liquidaciùn";
                         break;
                     case 3:
-                        comprobante = "NotasCrÈdito";
+                        comprobante = "NotasCrùdito";
                         break;
                     case 4:
-                        comprobante = "NotasDÈbito";
+                        comprobante = "NotasDùbito";
                         break;
                     case 6:
-                        comprobante = "RetenciÛn";
+                        comprobante = "Retenciùn";
                         break;
                     default:
                         comprobante = "Error";
                         break;
                 }
 
-                if (string.IsNullOrEmpty(sriDatosRecibidos.UsuarioAdicional))
-                {
-                    sriDatosRecibidos.UsuarioAdicional = "";
-                }
                 var empresa = await context.Empresas.FirstOrDefaultAsync(x => x.EmpresaApikey == sriDatosRecibidos.apikey);
                 if (empresa == null)
                 {
@@ -297,25 +293,20 @@ namespace ApiDescargaSriV9.Controllers
                     comprobante = "Factura";
                     break;
                 case 2:
-                    comprobante = "LiquidaciÛn";
+                    comprobante = "Liquidaciùn";
                     break;
                 case 3:
-                    comprobante = "NotasCrÈdito";
+                    comprobante = "NotasCrùdito";
                     break;
                 case 4:
-                    comprobante = "NotasDÈbito";
+                    comprobante = "NotasDùbito";
                     break;
                 case 6:
-                    comprobante = "RetenciÛn";
+                    comprobante = "Retenciùn";
                     break;
                 default:
                     comprobante = "Error";
                     break;
-            }
-
-            if (string.IsNullOrEmpty(sriDatosRecibidos.UsuarioAdicional))
-            {
-                sriDatosRecibidos.UsuarioAdicional = "";
             }
 
             var TablasElectrnicosRecibido = cDescarga.CComprobantesElectrnicosRecibidosTablasXml(sriDatosRecibidos, comprobante);
@@ -350,15 +341,15 @@ namespace ApiDescargaSriV9.Controllers
     {
         "Id",
         "Nro",
-        "RUC/RazÛn Social Emisor",
+        "RUC/Razùn Social Emisor",
         "Tipo de Serie de Comprobante",
-        "Clave de Acceso/AutorizaciÛn",
-        "Fecha y Hora de AutorizaciÛn",
-        "Fecha de EmisiÛn",
-        "Tipo de EmisiÛn",
+        "Clave de Acceso/Autorizaciùn",
+        "Fecha y Hora de Autorizaciùn",
+        "Fecha de Emisiùn",
+        "Tipo de Emisiùn",
         "Ambiente",
-        "Tipo de EmisiÛn",
-        "RazÛn Social",
+        "Tipo de Emisiùn",
+        "Razùn Social",
         "Nombre Comercial",
         "RUC",
         "Clave de Acceso",
@@ -367,15 +358,15 @@ namespace ApiDescargaSriV9.Controllers
         "PtoEmi",
         "Secuencial",
         "Dir Matriz",
-        "Fecha de EmisiÛn",
+        "Fecha de Emisiùn",
         "Contribuyente Especial",
         "Obligado Contabilidad",
-        "RazÛn Social Comprador",
-        "IdentificaciÛn Comprador",
+        "Razùn Social Comprador",
+        "Identificaciùn Comprador",
         "Total Sin Impuestos",
         "Total Descuento",
-        "CÛdigo de Impuesto",
-        "CÛdigo de Porcentaje",
+        "Cùdigo de Impuesto",
+        "Cùdigo de Porcentaje",
         "Base Imponible",
         "Tarifa",
         "Valor",
@@ -422,7 +413,7 @@ namespace ApiDescargaSriV9.Controllers
                             worksheet.Cell(i + 2, 25).Value = comprobante1.TotalSinImpuestos;
                             worksheet.Cell(i + 2, 26).Value = comprobante1.TotalDescuento;
 
-                            // CÛdigo de Impuesto, CÛdigo de Porcentaje, Base Imponible, Tarifa, Valor (en caso de m˙ltiples impuestos)
+                            // Cùdigo de Impuesto, Cùdigo de Porcentaje, Base Imponible, Tarifa, Valor (en caso de mùltiples impuestos)
                             var totalImpuesto = comprobante1.TotalConImpuestos.TotalImpuesto.FirstOrDefault();
                             if (totalImpuesto != null)
                             {
@@ -436,7 +427,7 @@ namespace ApiDescargaSriV9.Controllers
                             worksheet.Cell(i + 2, 32).Value = comprobante1.Propina;
                             worksheet.Cell(i + 2, 33).Value = comprobante1.ImporteTotal;
 
-                            // Forma de Pago, Total Pago (en caso de m˙ltiples pagos)
+                            // Forma de Pago, Total Pago (en caso de mùltiples pagos)
                             var pago = comprobante1.Pagos.Pago.FirstOrDefault();
                             if (pago != null)
                             {
@@ -458,7 +449,7 @@ namespace ApiDescargaSriV9.Controllers
                     }
                     catch (Exception ex)
                     {
-                        // Manejar cualquier error que pueda ocurrir durante la conversiÛn
+                        // Manejar cualquier error que pueda ocurrir durante la conversiùn
                         return BadRequest(ex.Message);
                     }
 
@@ -519,25 +510,20 @@ namespace ApiDescargaSriV9.Controllers
                     comprobante = "Factura";
                     break;
                 case 2:
-                    comprobante = "LiquidaciÛn";
+                    comprobante = "Liquidaciùn";
                     break;
                 case 3:
-                    comprobante = "NotasCrÈdito";
+                    comprobante = "NotasCrùdito";
                     break;
                 case 4:
-                    comprobante = "NotasDÈbito";
+                    comprobante = "NotasDùbito";
                     break;
                 case 6:
-                    comprobante = "RetenciÛn";
+                    comprobante = "Retenciùn";
                     break;
                 default:
                     comprobante = "Error";
                     break;
-            }
-
-            if (string.IsNullOrEmpty(sriDatosRecibidos.UsuarioAdicional))
-            {
-                sriDatosRecibidos.UsuarioAdicional = "";
             }
 
             var TablasElectrnicosRecibido = cDescarga.CComprobantesElectrnicosRecibidosTablasXmlJson(sriDatosRecibidos, comprobante);

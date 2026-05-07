@@ -284,8 +284,8 @@ namespace ApiDescargaSriV9.Dto
 
         public string Usuario { get; set; }
 
-        public string? UsuarioAdicional { get; set; }
-        public string Password { get; set; }
+        /// <summary>Opcional. Solo necesaria si el flujo descarga desde el SRI (Selenium).</summary>
+        public string? Password { get; set; }
 
         public int Dia { get; set; }
 

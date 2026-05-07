@@ -237,7 +237,6 @@ C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\staticwebassets\
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\staticwebassets\msbuild.buildMultiTargeting.ApiDescargaSriV9.props
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\staticwebassets\msbuild.buildTransitive.ApiDescargaSriV9.props
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\staticwebassets.pack.json
-C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\staticwebassets.upToDateCheck.txt
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ApiDesca.3C4D636E.Up2Date
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ApiDescargaSriV9.dll
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\refint\ApiDescargaSriV9.dll
@@ -245,3 +244,4 @@ C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ApiDescargaSriV9
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ApiDescargaSriV9.genruntimeconfig.cache
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ref\ApiDescargaSriV9.dll
 C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\ApiDescargaSriV9.sourcelink.json
+C:\Users\lapto\Videos\ApiDescargav9\obj\Debug\net8.0-windows7.0\staticwebassets.upToDateCheck.txt

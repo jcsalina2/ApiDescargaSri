@@ -249,11 +249,6 @@
         "IsRequired": false
       },
       {
-        "Name": "UsuarioAdicional",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
         "Name": "Password",
         "Type": "System.String",
         "IsRequired": false
@@ -342,11 +337,6 @@
     "Parameters": [
       {
         "Name": "Usuario",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "UsuarioAdicional",
         "Type": "System.String",
         "IsRequired": false
       },
@@ -443,11 +433,6 @@
         "IsRequired": false
       },
       {
-        "Name": "UsuarioAdicional",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
         "Name": "Password",
         "Type": "System.String",
         "IsRequired": false
@@ -536,11 +521,6 @@
     "Parameters": [
       {
         "Name": "Usuario",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "UsuarioAdicional",
         "Type": "System.String",
         "IsRequired": false
       },
@@ -714,7 +694,74 @@
         "IsRequired": false
       },
       {
-        "Name": "UsuarioAdicional",
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Dia",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Anio",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Mes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Comprobante",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 201
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiDescargaSriV9.Controllers.DescargaXmlController",
+    "Method": "GetXmlStringsElectrnicosRecibidos",
+    "RelativePath": "DescargaXml/GetXmlStringsElectrnicosRecibidos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Usuario",
         "Type": "System.String",
         "IsRequired": false
       },
@@ -746,9 +793,29 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 201
+        "Type": "System.Collections.Generic.List\u00601[[ApiDescargaSriV9.Dto.XmlRecibidoItemDto, ApiDescargaSriV9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
       },
       {
         "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",

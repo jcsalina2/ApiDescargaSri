@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1403202601099337421800120020020004457620044622214</numeroAutorizacion>
+<fechaAutorizacion>2026-03-14T15:42:49-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>GASOMARKET S.A.S.</razonSocial>
+	    <nombreComercial>GASOMARKET S.A.S.</nombreComercial>
+	    <ruc>0993374218001</ruc>
+	    <claveAcceso>1403202601099337421800120020020004457620044622214</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>002</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000445762</secuencial>
+	    <dirMatriz>GUAYAS / SAMBORONDON / LA PUNTILLA SATELITE /KM 3 VÍA A SAMBORONDON</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>14/03/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / SAMBORONDON / LA PUNTILLA SATELITE /KM 3 VÍA A SAMBORONDON</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>JUAN CARLOS SALINAS </razonSocialComprador>
+	    <identificacionComprador>0929761104</identificacionComprador>
+		<direccionComprador>xxxxxx</direccionComprador>
+	    
+	    <totalSinImpuestos>14.02000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>14.02</baseImponible>
+				<valor>2.10000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>16.12000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>19</formaPago>
+	    		<total>16.12</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>7861075202217</codigoPrincipal>
+		<codigoAuxiliar>7861075202217</codigoAuxiliar>
+      	<descripcion>AGUA ALL NAT 625cc x24</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.535720</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.54</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.54000</baseImponible>
+          <valor>0.08</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>78600942</codigoPrincipal>
+		<codigoAuxiliar>78600942</codigoAuxiliar>
+      	<descripcion>COCA COLA E ORIGINAL 500 ML PET (12)</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.782610</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.78</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.78000</baseImponible>
+          <valor>0.12</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>CIE-COM-003</codigoPrincipal>
+		<codigoAuxiliar>CIE-COM-003</codigoAuxiliar>
+      	<descripcion>COMBO BBQ + PAPAS</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.608600</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.61</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.61000</baseImponible>
+          <valor>0.99</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>CIE-COM-001</codigoPrincipal>
+		<codigoAuxiliar>CIE-COM-001</codigoAuxiliar>
+      	<descripcion>COMBO HAMBURGUESA CHEESE BURGER + PAPAS</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.086960</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.09</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.09000</baseImponible>
+          <valor>0.91</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">Clave wifi: unahamburguesa</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature317752">
+<ds:SignedInfo Id="Signature-SignedInfo818373">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID561700" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature317752-SignedProperties242189">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>piWCxa86Hfc6smds5rB6bk6pqGw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate800445">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Kqbqynorf2+l+GVYSTlmwbqOZcc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-506429" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>P9pNBIh+0w4AsG1ZthZtTF8y07A=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue317443">
+cdax9JGufBEgSVnEhA1tOzj3hlxXhItgfXtNwQscwb3UR7xSJmqvoiQhGnR98zw09E3i2Jc5NiOm
+igcPBGrzbjiuWX7iFQYHUxRHK9JX9O9WohOO8S0VdNCSSJ3xE7dos9AX7Iuf8NCHNoa7baacZBUz
+HnpHCcksWWRf7Soz36VHFRsT0FVq+FWwEc41+WVQT5Wo6gVcz8W2DL0EEzlE7JTQJakwqCfoVMk1
+ta9v8mr8Tv06g4OiGAGJWSUHd2qE7aLH2ycl0X94Bc49/GZ++BwpvXxpyYrc9UVutRm2qbX4uQoc
+TPo4P2Ryu8hGZQ5bdj7TdUgjRnSpkTryDDjGMg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate800445">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJojCCB4qgAwIBAgIIC+aE9/3vh/QwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDkxOTIyMDYwMFoXDTI3MDkxOTIyMDYwMFowgdAxCzAJBgNVBAYTAkVDMRowGAYDVQQKDBFH
+QVNPTUFSS0VUIFMuQS5TLjEYMBYGA1UEDAwPR0VSRU5URSBHRU5FUkFMMRUwEwYDVQQEDAxNT1JB
+TCBPUlRFR0ExFjAUBgNVBCoMDU1BUklBIExFVElDSUExGTAXBgNVBAUTEElEQ0VDLTA5MTQzNjA1
+ODExIzAhBgNVBAMMGk1BUklBIExFVElDSUEgTU9SQUwgT1JURUdBMRwwGgYDVQRhDBNWQVRFQy0w
+OTkzMzc0MjE4MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAntE8olg/PKZyXRDh
+LkXtJYfnEc+9r9BZsXomJO4Gkgc3mDjYTLLqnt75gZzsVr4hUgXy47nGX7thc8jGsvG3TpOHw61Z
+KnOrsMim3mjrXlr2+XGzRAhY7cSKqRvwwJjJBAKslzYKWTY7Thu0aP+jmM0yxin9g619QUcm4ATP
+CQQmKFz3MlZBYgBfbXZgqaETFHoMk3RH/Cmw37yv5pFteYJ1fSY02IgzH+LXqgmrW4cNIvF15Ugn
+PWM8mMigy0+kj4ztweswuLl6C0tiKdhpDKGHV/ANJStqHfJ6ArmbCjouisfpKLZW7P8S+yjtUce5
+MnoG2pL7ycffoB0JCvB/3wIDAQABo4IElDCCBJAwGwYLKwYBBAGC8TZmAwEEDAwKMDkxNDM2MDU4
+MTAeBgsrBgEEAYLxNmYDCwQPDA0wOTkzMzc0MjE4MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggr
+BgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0
+aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0
+YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFM5/E+nVwioBLLBUMnrM9ukqJ3GIMAwG
+A1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgY4GA1UdIASBhjCB
+gzCBgAYMKwYBBAGC8TZmAgMBMHAwNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNv
+bS9wdWJsaWMvcGtpL2RwYy1lYy8wNQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVT
+RU5UQU5URSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0
+YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9j
+cmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0P
+AQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAdUGA1UdEQSCAcwwggHI
+gR5ub3RpZmljYWNpb25lc2Zpcm1hc0BzaWlnby5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMDkxNDM2
+MDU4MaAeBgsrBgEEAYLxNmYDAqAPDA1NQVJJQSBMRVRJQ0lBoBYGCysGAQQBgvE2ZgMDoAcMBU1P
+UkFMoBcGCysGAQQBgvE2ZgMEoAgMBk9SVEVHQaAgBgsrBgEEAYLxNmYDBaARDA9HRVJFTlRFIEdF
+TkVSQUygPQYLKwYBBAGC8TZmAwegLgwsQkFSUklPOiBMQSBNT0RFUk5BIExPVCBUT1JORVJPIElJ
+SSBOTUVSTzogU06gHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5Njc4NTIwMDagHQYLKwYBBAGC8TZm
+AwmgDgwMU0FNQk9ST05Ew5NOoCIGCysGAQQBgvE2ZgMKoBMMEUdBU09NQVJLRVQgUy5BLlMuoB4G
+CysGAQQBgvE2ZgMLoA8MDTA5OTMzNzQyMTgwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgJAYLKwYB
+BAGC8TZmAzKgFQwTUkVQUkVTRU5UQU5URSBMRUdBTKAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZP
+MA0GCSqGSIb3DQEBCwUAA4ICAQATV5GImNTU2GEQ91hMiy/qSL0RDurbz8YJgJo05SAhew8wSuCx
+34I/Caj9HfHcjS1Vtj4YFz2CE4zH982P+bqVnelICHRom2MGA0gmNvRSrd3g33sXL5JB1cCwlRp7
+d5/aSmO7Pm1ZSr1GDS7J3Po5lRIp+V5nHiTyREFSGJyUJHgTeum+kXj8Vlfq8EF+p3K44LGZFAOU
+TlW1rHcMOdF0Bc/ePAvgDbC0VunR0qDxfk4qNlR/gWFJ5O/eCPO0IbE0SMBd2sHqq/mdrZyz0MYh
+QQ/0Z5ZH/k1dkAwuPOl8azWwct5/CpAKs5bPi/JMGPVyb9C3A94B+kj+M0PE9x2IsU1/aw/YZpfY
+bXMlVxoqc/mmjTCj8H8RUW5gcl2xOD9Wj3A0ETus0RZUu6tkacgwC/HIasUar3FRwXe8kR7jFJr7
+bDHEoE5hweWtl1b4QdbZIMYjbiNWYLaR1wVAIil9QThsbGdGZaoxcyXvMH5yLevuJ8btR7KuVtFJ
+rqgexVP1vevCxWMJJrC3yYhgS4KR0m9pQi6Yk3QU3RcBqEoRhq0jR/nVuJuk7b2GV/VSsOD90EOJ
++03MGIyu902fEZVlaLodCNhO5r1Y5L6V17Uz6d5jbsrnlpWB6oTGBvbn6ahssZ91fmTUIu9oTJSk
+Oo0JahVuLPhHHGgOrnGmPyZtAA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ntE8olg/PKZyXRDhLkXtJYfnEc+9r9BZsXomJO4Gkgc3mDjYTLLqnt75gZzsVr4hUgXy47nGX7th
+c8jGsvG3TpOHw61ZKnOrsMim3mjrXlr2+XGzRAhY7cSKqRvwwJjJBAKslzYKWTY7Thu0aP+jmM0y
+xin9g619QUcm4ATPCQQmKFz3MlZBYgBfbXZgqaETFHoMk3RH/Cmw37yv5pFteYJ1fSY02IgzH+LX
+qgmrW4cNIvF15UgnPWM8mMigy0+kj4ztweswuLl6C0tiKdhpDKGHV/ANJStqHfJ6ArmbCjouisfp
+KLZW7P8S+yjtUce5MnoG2pL7ycffoB0JCvB/3w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature317752-Object515618"><etsi:QualifyingProperties Target="#Signature317752"><etsi:SignedProperties Id="Signature317752-SignedProperties242189"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-14T15:42:46-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>wQ5Jg9FhKAfZD05pMFUc+Vh7u70=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>857518979712780276</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
