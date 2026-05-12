@@ -12,7 +12,8 @@ namespace ApiDescargaSriV9.Dto
 
     public class EmpresaAdminController : ControllerBase
     {
-        DateTime currentTimePacific = TimeZoneInfo.ConvertTime(DateTime.Now, TimeZoneInfo.FindSystemTimeZoneById("SA Pacific Standard Time"));
+        DateTime currentTimePacific = TimeZoneInfo.ConvertTime(DateTime.Now,
+            TimeZoneInfo.FindSystemTimeZoneById(OperatingSystem.IsWindows() ? "SA Pacific Standard Time" : "America/Guayaquil"));
 
 
         private readonly AplicationDbContext context;

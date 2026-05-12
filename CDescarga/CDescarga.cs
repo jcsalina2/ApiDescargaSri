@@ -3,6 +3,7 @@ using ApiDescargaSriV9.Helpers;
 using ApiDescargaSriV9.Services;
 using DocumentFormat.OpenXml.Bibliography;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using OpenQA.Selenium;
@@ -39,13 +40,20 @@ namespace ApiDescargaSriV9.CDescarga
         int NumeroFilas = 0;
 
         private readonly IWebHostEnvironment env;
+        private readonly ILogger<CDescarga> _logger;
 
-
-
-        public CDescarga(IWebHostEnvironment env)
+        public CDescarga(IWebHostEnvironment env, ILogger<CDescarga> logger)
         {
             this.env = env;
+            _logger = logger;
+        }
 
+        private static ChromeDriverService CreateDriverService()
+        {
+            var dir = OperatingSystem.IsWindows() ? AppContext.BaseDirectory : "/usr/local/bin";
+            var svc = ChromeDriverService.CreateDefaultService(dir);
+            svc.HideCommandPromptWindow = true;
+            return svc;
         }
 
         private static void StartBrowserAutoCloseTimer(IWebDriver webDriver, int minutes = 4)
@@ -81,6 +89,15 @@ namespace ApiDescargaSriV9.CDescarga
             {
                 Directory.CreateDirectory(profilePath);
             }
+
+            // Eliminar lock files que quedan cuando Chrome crashea, para que la próxima
+            // instancia pueda arrancar con el mismo perfil sin error SessionNotCreated.
+            foreach (var lockFile in new[] { "SingletonLock", "SingletonSocket", "SingletonCookie" })
+            {
+                var path = Path.Combine(profilePath, lockFile);
+                if (File.Exists(path)) try { File.Delete(path); } catch { /* ignorar */ }
+            }
+
             return profilePath;
         }
 
@@ -97,6 +114,19 @@ namespace ApiDescargaSriV9.CDescarga
             options.AddArgument("--profile-directory=Default");
             options.AddArgument("--no-first-run");
             options.AddArgument("--no-default-browser-check");
+
+            // Flags obligatorios para correr Chrome dentro de contenedor Docker/Linux
+            if (!OperatingSystem.IsWindows())
+            {
+                options.AddArgument("--no-sandbox");
+                options.AddArgument("--disable-dev-shm-usage");
+                options.AddArgument("--disable-gpu");
+                options.AddArgument("--window-size=1920,1080");
+                options.AddArgument("--start-maximized");
+                options.AddArgument("--disable-extensions-except=");
+                options.AddArgument("--disable-software-rasterizer");
+                options.AddArgument("--remote-debugging-port=0");
+            }
         }
 
         string apiKey = "3885f9c72a38b519d36f5b312e9104c9";
@@ -163,13 +193,13 @@ namespace ApiDescargaSriV9.CDescarga
 
       //      options.AddExtension(@"wwwroot\\2cap\\RECA.crx");
 
-            IWebDriver webDriver = new ChromeDriver(options);
+            IWebDriver webDriver = new ChromeDriver(CreateDriverService(), options);
             StartBrowserAutoCloseTimer(webDriver);
 
 
 
 
-            webDriver.Manage().Window.Maximize();
+            if (OperatingSystem.IsWindows()) webDriver.Manage().Window.Maximize();
 
             Thread.Sleep(200);
 
@@ -427,7 +457,7 @@ namespace ApiDescargaSriV9.CDescarga
             ChromeOptions options = new ChromeOptions();
             string directorioArchivoPrincipal = Path.Combine(env.WebRootPath, recibidosDto.Usuario);
             string directorioArchivo = Path.Combine(directorioArchivoPrincipal, "CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + comprobante);
-            string rutaRecibido = directorioArchivoPrincipal + @"\CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + comprobante + ".zip";
+            string rutaRecibido = Path.Combine(directorioArchivoPrincipal, "CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + comprobante + ".zip");
 
             if (!Directory.Exists(directorioArchivoPrincipal))
             {
@@ -442,13 +472,13 @@ namespace ApiDescargaSriV9.CDescarga
             ConfigureDownloadChromeOptions(options, directorioArchivo, "RecibidosTablasXmlJson", recibidosDto.Usuario);
           //  options.AddExtension(@"wwwroot\\2cap\\RECA.crx");
 
-            IWebDriver webDriver = new ChromeDriver(options); ;
+            IWebDriver webDriver = new ChromeDriver(CreateDriverService(), options);
             StartBrowserAutoCloseTimer(webDriver);
 
 
 
 
-            webDriver.Manage().Window.Maximize();
+            if (OperatingSystem.IsWindows()) webDriver.Manage().Window.Maximize();
 
             Thread.Sleep(200);
 
@@ -515,7 +545,7 @@ namespace ApiDescargaSriV9.CDescarga
 
                         DelayHumano();
                         IWebElement btnBuscar = new WebDriverWait(webDriver, TimeSpan.FromSeconds(10))
-                          .Until(ExpectedConditions.ElementToBeClickable(By.Id("frmPrincipal:btnBuscar")));
+                          .Until(ExpectedConditions.ElementToBeClickable(By.Id("frmPrincipal:btnConsultarSinRe")));
                         // Hover real
                         DelayHumano();
                         HoverElemento(webDriver, btnBuscar);
@@ -939,7 +969,7 @@ namespace ApiDescargaSriV9.CDescarga
             ChromeOptions options = new ChromeOptions();
             string directorioArchivoPrincipal = Path.Combine(env.WebRootPath, recibidosDto.Usuario);
             string directorioArchivo = Path.Combine(directorioArchivoPrincipal, "CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + comprobante);
-            string rutaRecibido = directorioArchivoPrincipal + @"\CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + comprobante + ".zip";
+            string rutaRecibido = Path.Combine(directorioArchivoPrincipal, "CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + comprobante + ".zip");
 
             if (!Directory.Exists(directorioArchivoPrincipal))
             {
@@ -952,15 +982,15 @@ namespace ApiDescargaSriV9.CDescarga
 
 
             ConfigureDownloadChromeOptions(options, directorioArchivo, "RecibidosTablas", recibidosDto.Usuario);
-            options.AddExtension(@"wwwroot\\2cap\\RECA.crx");
+            if (OperatingSystem.IsWindows()) options.AddExtension(@"wwwroot\2cap\RECA.crx");
 
-            IWebDriver webDriver = new ChromeDriver(options); ;
+            IWebDriver webDriver = new ChromeDriver(CreateDriverService(), options);
             StartBrowserAutoCloseTimer(webDriver);
 
 
 
 
-            webDriver.Manage().Window.Maximize();
+            if (OperatingSystem.IsWindows()) webDriver.Manage().Window.Maximize();
 
             Thread.Sleep(200);
 
@@ -1670,17 +1700,23 @@ namespace ApiDescargaSriV9.CDescarga
 
         }
 
-        public string 
+        public string
             CComprobantesElectrnicosRecibidos(SriDatosRecibidosDto recibidosDto, string comprobante)
         {
-            DateTime currentTimePacific = TimeZoneInfo.ConvertTime(DateTime.Now, TimeZoneInfo.FindSystemTimeZoneById("SA Pacific Standard Time"));
+            _logger.LogInformation("[SRI] Inicio CComprobantesElectrnicosRecibidos | Usuario={U} Anio={A} Mes={M} Dia={D} Comprobante={C}",
+                recibidosDto.Usuario, recibidosDto.Anio, recibidosDto.Mes, recibidosDto.Dia, comprobante);
+
+            DateTime currentTimePacific = TimeZoneInfo.ConvertTime(DateTime.Now,
+                TimeZoneInfo.FindSystemTimeZoneById(OperatingSystem.IsWindows() ? "SA Pacific Standard Time" : "America/Guayaquil"));
+            _logger.LogInformation("[SRI] Hora Pacífico: {Hora}", currentTimePacific);
+
             ChromeOptions options = new ChromeOptions();
             string directorioArchivoPrincipal, directorioArchivo, rutaRecibido;
             if (recibidosDto.Dia > 0)
             {
                 directorioArchivoPrincipal = Path.Combine(env.WebRootPath, "Descargas", recibidosDto.Usuario);
                 directorioArchivo = Path.Combine(directorioArchivoPrincipal, "CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + recibidosDto.Dia.ToString() + comprobante);
-                rutaRecibido = directorioArchivoPrincipal + @"\CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + recibidosDto.Dia.ToString() + comprobante + ".zip";
+                rutaRecibido = Path.Combine(directorioArchivoPrincipal, "CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + recibidosDto.Dia.ToString() + comprobante + ".zip");
 
                 if (!Directory.Exists(directorioArchivoPrincipal))
                 {
@@ -1696,7 +1732,7 @@ namespace ApiDescargaSriV9.CDescarga
             {
                 directorioArchivoPrincipal = Path.Combine(env.WebRootPath, "Descargas", recibidosDto.Usuario);
                 directorioArchivo = Path.Combine(directorioArchivoPrincipal, "CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + comprobante);
-                rutaRecibido = directorioArchivoPrincipal + @"\CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + comprobante + ".zip";
+                rutaRecibido = Path.Combine(directorioArchivoPrincipal, "CarpetaXmlRecibidos" + recibidosDto.Anio.ToString() + recibidosDto.Mes.ToString() + comprobante + ".zip");
 
                 if (!Directory.Exists(directorioArchivoPrincipal))
                 {
@@ -1709,6 +1745,7 @@ namespace ApiDescargaSriV9.CDescarga
 
             }
 
+            _logger.LogInformation("[SRI] Directorios | Principal={P} | Archivo={A}", directorioArchivoPrincipal, directorioArchivo);
 
             ConfigureDownloadChromeOptions(options, directorioArchivo, "Recibidos", recibidosDto.Usuario);
 
@@ -1736,7 +1773,10 @@ namespace ApiDescargaSriV9.CDescarga
             //var driverExe = Path.Combine(driverDir, "chromedriver.exe");
             //if (!File.Exists(driverExe))
             //    throw new FileNotFoundException("No existe chromedriver.exe en: " + driverExe);
-            IWebDriver webDriver = new ChromeDriver(options); 
+            var _driverDir = OperatingSystem.IsWindows() ? AppContext.BaseDirectory : "/usr/local/bin";
+            _logger.LogInformation("[CHROME] Iniciando ChromeDriver desde {Dir}...", _driverDir);
+            IWebDriver webDriver = new ChromeDriver(CreateDriverService(), options);
+            _logger.LogInformation("[CHROME] ChromeDriver OK");
             StartBrowserAutoCloseTimer(webDriver);
 
 
@@ -1778,7 +1818,7 @@ namespace ApiDescargaSriV9.CDescarga
 
             // StartMonitoring es async en Selenium .NET
 
-            webDriver.Manage().Window.Maximize();
+            if (OperatingSystem.IsWindows()) webDriver.Manage().Window.Maximize();
 
             Thread.Sleep(200);
 
@@ -1817,24 +1857,41 @@ namespace ApiDescargaSriV9.CDescarga
 
 
 
+            _logger.LogInformation("[SRI] Navegando a página de login...");
             webDriver.Navigate().GoToUrl("https://srienlinea.sri.gob.ec/auth/realms/Internet/protocol/openid-connect/auth?client_id=app-sri-claves-angular&redirect_uri=https%3A%2F%2Fsrienlinea.sri.gob.ec%2Fsri-en-linea%2F%2Fcontribuyente%2Fperfil&state=b4595c20-a2ef-45b9-9a2b-77de9fe36b58&nonce=4ba3a978-0bd7-4d22-a2a7-9cd42f0e58e1&response_mode=fragment&response_type=code&scope=openid");
+            _logger.LogInformation("[SRI] URL tras navegar a login: {U}", webDriver.Url);
 
-            Thread.Sleep(200);
-            webDriver.FindElement(By.Id("usuario")).SendKeys(recibidosDto.Usuario);
-            Thread.Sleep(200);
-            webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password ?? "");
-            Thread.Sleep(200);
+            // Si el perfil tiene sesión activa el SRI redirige directo al portal,
+            // en ese caso no hay formulario de login y lo saltamos.
+            bool hayFormularioLogin = false;
+            try
+            {
+                new WebDriverWait(webDriver, TimeSpan.FromSeconds(5))
+                    .Until(ExpectedConditions.ElementIsVisible(By.Id("usuario")));
+                hayFormularioLogin = true;
+            }
+            catch (WebDriverTimeoutException)
+            {
+                _logger.LogInformation("[SRI] Sesión activa en perfil, sin formulario de login. URL={U}", webDriver.Url);
+            }
 
-
-            Thread.Sleep(200);
-            webDriver.FindElement(By.Id("kc-login")).Submit();
-            Thread.Sleep(200);
-
-
-
+            if (hayFormularioLogin)
+            {
+                _logger.LogInformation("[SRI] Formulario de login detectado. Ingresando credenciales...");
+                webDriver.FindElement(By.Id("usuario")).SendKeys(recibidosDto.Usuario);
+                Thread.Sleep(200);
+                webDriver.FindElement(By.Id("password")).SendKeys(recibidosDto.Password ?? "");
+                Thread.Sleep(200);
+                webDriver.FindElement(By.Id("kc-login")).Submit();
+                Thread.Sleep(200);
+                _logger.LogInformation("[SRI] Login enviado. URL post-login: {U}", webDriver.Url);
+                Thread.Sleep(5000);
+            }
 
             Thread.Sleep(5000);
+            _logger.LogInformation("[SRI] Navegando al portal de comprobantes recibidos...");
             webDriver.Navigate().GoToUrl("https://srienlinea.sri.gob.ec/tuportal-internet/accederAplicacion.jspa?redireccion=57&idGrupo=55");
+            _logger.LogInformation("[SRI] Portal cargado. URL: {U}", webDriver.Url);
 
             string genero = "NO";
 
@@ -1851,6 +1908,8 @@ namespace ApiDescargaSriV9.CDescarga
                         // =========================
                         // 1) Selección de filtros (PRIMERO)
                         // =========================
+                        _logger.LogInformation("[SRI] Seleccionando filtros: Año={A} Mes={M} Dia={D} Comprobante={C}",
+                            recibidosDto.Anio, recibidosDto.Mes, recibidosDto.Dia, recibidosDto.Comprobante);
                         var selectanio = new SelectElement(webDriver.FindElement(By.Id("frmPrincipal:ano")));
                         selectanio.SelectByValue(recibidosDto.Anio);
                         EsperarAjaxPrimeFaces(webDriver);
@@ -1866,47 +1925,48 @@ namespace ApiDescargaSriV9.CDescarga
                         var selectComprobante = new SelectElement(webDriver.FindElement(By.Id("frmPrincipal:cmbTipoComprobante")));
                         selectComprobante.SelectByValue(recibidosDto.Comprobante.ToString());
                         EsperarAjaxPrimeFaces(webDriver);
+                        _logger.LogInformation("[SRI] Filtros seleccionados OK");
 
-                        // =========================
-                        // 2) Aquí el usuario resuelve el CAPTCHA manualmente
-                        //    (NO hacemos bypass: solo esperamos token)
-                        // =========================
-                        // Si el captcha está visible, esperamos token. Si no, igual intentamos esperar un momento.
-                        //if (HayIframeRecaptcha(webDriver))
-                        //{
-                        //    // Espera a que tú lo resuelvas
-                        //    EsperarTokenRecaptcha(webDriver, timeoutSeg: 120);
-                        //}
+                        // Diagnóstico: título, frames e iframes presentes
+                        _logger.LogInformation("[SRI-DIAG] Título página: {T}", webDriver.Title);
+                        _logger.LogInformation("[SRI-DIAG] URL actual: {U}", webDriver.Url);
+                        var frames = webDriver.FindElements(By.TagName("iframe"));
+                        _logger.LogInformation("[SRI-DIAG] iframes encontrados: {N}", frames.Count);
+                        for (int fi = 0; fi < frames.Count; fi++)
+                        {
+                            var src = frames[fi].GetAttribute("src") ?? "";
+                            var id2  = frames[fi].GetAttribute("id")  ?? "";
+                            _logger.LogInformation("[SRI-DIAG]   iframe[{I}] id={Id} src={S}", fi, id2, src);
+                        }
 
-                        //// Log de token (para validar que realmente está)
-                        //var token = ObtenerTokenRecaptcha(webDriver);
-                        //Console.WriteLine($"[reCAPTCHA] token length: {token?.Length ?? 0}");
+                        // Verificar si el botón existe en el DOM (aunque no sea clickeable)
+                        var btnEnDom = webDriver.FindElements(By.Id("frmPrincipal:btnConsultarSinRe"));
+                        _logger.LogInformation("[SRI-DIAG] btnConsultarSinRe en DOM: {N}", btnEnDom.Count);
 
-                        // =========================
-                        // 3) Click en Buscar (INMEDIATO después del token)
-                        // =========================
+                        // Verificar si hay captcha visible
+                        var hayRecaptcha = webDriver.FindElements(By.CssSelector("iframe[src*='recaptcha']"));
+                        _logger.LogInformation("[SRI-DIAG] iframes recaptcha: {N}", hayRecaptcha.Count);
+
                         EsperarAjaxPrimeFaces(webDriver, 20);
-                      
-
                         SimularMovimientoHumano(webDriver);
                         ScrollHumano(webDriver);
-                     
                         EsperarAjaxPrimeFaces(webDriver, 20);
 
+                        _logger.LogInformation("[SRI] Buscando botón Buscar y haciendo click...");
                         DelayHumano();
                         IWebElement btnBuscar = new WebDriverWait(webDriver, TimeSpan.FromSeconds(10))
-                          .Until(ExpectedConditions.ElementToBeClickable(By.Id("frmPrincipal:btnBuscar")));
-                        // Hover real
+                          .Until(ExpectedConditions.ElementToBeClickable(By.Id("frmPrincipal:btnConsultarSinRe")));
                         DelayHumano();
                         HoverElemento(webDriver, btnBuscar);
                         DelayHumano();
                         MoveToAndClick(webDriver, btnBuscar);
+                        _logger.LogInformation("[SRI] Click en Buscar ejecutado. URL={U}", webDriver.Url);
 
                         if (ExisteMensajeCaptchaIncorrectaCss(webDriver, 5))
                         {
+                            _logger.LogWarning("[SRI] Captcha incorrecto detectado, reintentando...");
                             genero = "NO";
                             continue;
-                            // reintento
                         }
                         // Click final
 
@@ -1933,12 +1993,14 @@ namespace ApiDescargaSriV9.CDescarga
                             Thread.Sleep(1500);
                         }
 
+                        _logger.LogInformation("[SRI] Esperando tabla de resultados (máx 30s)...");
                         IWebElement? tablaCompRecibidos = null;
                         var limiteTablaOMensaje = DateTime.UtcNow.AddSeconds(30);
                         while (DateTime.UtcNow < limiteTablaOMensaje)
                         {
                             if (ExisteMensajeSinDatosGlobal(webDriver))
                             {
+                                _logger.LogInformation("[SRI] SRI respondió: sin datos para los parámetros ingresados");
                                 try { webDriver.Quit(); } catch { /* ignore */ }
                                 return ResultadoRecibidosSinDatosSincronizados;
                             }
@@ -1952,13 +2014,16 @@ namespace ApiDescargaSriV9.CDescarga
 
                         if (tablaCompRecibidos == null)
                         {
+                            _logger.LogWarning("[SRI] Tabla no encontrada tras 30s. URL={U}", webDriver.Url);
                             try { webDriver.Quit(); } catch { /* ignore */ }
                             return ResultadoRecibidosSinDatosSincronizados;
                         }
 
+                        _logger.LogInformation("[SRI] Tabla encontrada. Esperando links XML...");
                         EsperarAjaxPrimeFaces(webDriver, 25);
                         if (!EsperarXmlLinksRecibidosOEstadoVacio(webDriver, tablaCompRecibidos, esperaMaxSegundos: 45))
                         {
+                            _logger.LogWarning("[SRI] No se encontraron links XML en la tabla (vacía o timeout)");
                             try { webDriver.Quit(); } catch { /* ignore */ }
                             return ResultadoRecibidosSinDatosSincronizados;
                         }
@@ -1969,30 +2034,33 @@ namespace ApiDescargaSriV9.CDescarga
                         var paginator = tablaCompRecibidos.FindElement(By.ClassName("ui-paginator-current")).Text;
                         paginator = paginator.Replace("(", "").Replace(")", "");
                         paginator = paginator.Substring(5);
+                        _logger.LogInformation("[SRI] Páginas a procesar: {P}", paginator);
 
                         for (int i = 1; i <= Convert.ToInt32(paginator); i++)
                         {
+                            _logger.LogInformation("[SRI] Procesando página {I}/{Total}", i, paginator);
                             ProcessTableData(webDriver, tablaCompRecibidos, i);
                             ClickNextPageT(webDriver);
                         }
-                
+
                         // =========================
-                        // 7) Limpieza + zip (tu código igual)
+                        // 7) Limpieza + zip
                         // =========================
+                        _logger.LogInformation("[SRI] Esperando descarga de archivos (3s)...");
                         Thread.Sleep(3000);
-                        
 
                         var dir = Path.GetDirectoryName(directorioArchivo);
                         if (!string.IsNullOrWhiteSpace(dir) && !Directory.Exists(dir))
                             Directory.CreateDirectory(dir);
 
-                   
                         jsExecutor.ExecuteScript("window.localStorage.clear()");
                         jsExecutor.ExecuteScript("window.sessionStorage.clear();");
                         webDriver.Manage().Cookies.DeleteAllCookies();
                         webDriver.Manage().Network.StartMonitoring();
                         Thread.Sleep(100);
+                        _logger.LogInformation("[CHROME] Cerrando navegador...");
                         webDriver.Quit();
+                        _logger.LogInformation("[CHROME] Navegador cerrado");
 
                         DirectoryInfo di = new DirectoryInfo(directorioArchivo);
                         string ruta = ""; string nombreNuevo = "";
@@ -2015,30 +2083,31 @@ namespace ApiDescargaSriV9.CDescarga
                             }
                         }
 
+                        var xmlsGenerados = new DirectoryInfo(directorioArchivo).GetFiles("*.xml").Length;
+                        _logger.LogInformation("[SRI] Proceso completado. XMLs en carpeta: {Count} | Ruta: {R}", xmlsGenerados, directorioArchivo);
                         genero = "SI";
                         return directorioArchivo;
                     }
                     catch (Exception ex1)
                     {
-                        Console.WriteLine("[ERROR] Bloque interno: " + ex1.Message);
+                        _logger.LogError(ex1, "[ERROR] Bloque interno: {Msg} | URL={U}", ex1.Message, webDriver.Url);
 
                         if (ExisteMensajeSinDatosGlobal(webDriver))
                         {
+                            _logger.LogInformation("[SRI] Sin datos (detectado en catch)");
                             try { webDriver.Quit(); } catch { /* ignore */ }
                             return ResultadoRecibidosSinDatosSincronizados;
                         }
 
-                        // Si hay captcha incorrecta, mejor reintentar sin romper todo
                         if (HayMensajeCaptchaIncorrecta(webDriver))
                         {
-                            Console.WriteLine("[SRI] Captcha incorrecta en catch. Vuelve a resolver y reintentamos...");
+                            _logger.LogWarning("[SRI] Captcha incorrecta en catch. Esperando resolución...");
                             EsperarTokenRecaptcha(webDriver, 120);
-
                             genero = "NO";
                             continue;
                         }
 
-                        // Caso general: reinicia
+                        _logger.LogWarning("[SRI] Error general, reintentando desde portal...");
                         genero = "NO";
                         webDriver.Navigate().GoToUrl("https://srienlinea.sri.gob.ec/tuportal-internet/accederAplicacion.jspa?redireccion=57&idGrupo=55");
                         continue;
@@ -2083,7 +2152,7 @@ namespace ApiDescargaSriV9.CDescarga
             //                    Thread.Sleep(100);
 
             //                    IWebElement captchalableElement = new WebDriverWait(webDriver, TimeSpan.FromSeconds(10))
-            //                    .Until(ExpectedConditions.ElementToBeClickable(By.Id("frmPrincipal:btnBuscar")));
+            //                    .Until(ExpectedConditions.ElementToBeClickable(By.Id("frmPrincipal:btnConsultarSinRe")));
 
             //                    Thread.Sleep(1000);
             //                    captchalableElement.Click();
@@ -2490,12 +2559,11 @@ namespace ApiDescargaSriV9.CDescarga
                 Directory.CreateDirectory(directorioArchivo);
             }
             ConfigureDownloadChromeOptions(options, directorioArchivo, "Emitidos", emitidosDto.Usuario);
-            options.AddExtension(@"wwwroot\\2cap\\RECA.crx");
+            if (OperatingSystem.IsWindows()) options.AddExtension(@"wwwroot\2cap\RECA.crx");
 
-
-            IWebDriver webDriver = new ChromeDriver(options);
+            IWebDriver webDriver = new ChromeDriver(CreateDriverService(), options);
             StartBrowserAutoCloseTimer(webDriver);
-            webDriver.Manage().Window.Maximize();
+            if (OperatingSystem.IsWindows()) webDriver.Manage().Window.Maximize();
             IJavaScriptExecutor jsExecutor = (IJavaScriptExecutor)webDriver;
 
 

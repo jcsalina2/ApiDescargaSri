@@ -1,0 +1,19 @@
+services:
+  api:
+    build: .
+    container_name: api-descarga-sri
+    ports:
+      - "8082:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      # Configura tu cadena de conexión Oracle aquí:
+      - ConnectionStrings__DefaultConnection=User Id=USUARIO;Password=CLAVE;Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=HOST)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=SERVICIO)));
+    volumes:
+      - chrome_profiles:/app/wwwroot/ChromeProfiles
+      - descargas:/app/wwwroot/Descargas
+    shm_size: 2gb
+    restart: unless-stopped
+
+volumes:
+  chrome_profiles:
+  descargas:

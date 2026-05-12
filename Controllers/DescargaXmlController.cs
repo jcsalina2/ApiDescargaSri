@@ -42,44 +42,74 @@ namespace ApiDescargaSriV9.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public ActionResult GetXmlFolderElectrnicosRecibidos([FromQuery] SriDatosRecibidosDto sriDatosRecibidos)
         {
+            _logger.LogInformation("[CTR] GetXmlFolderElectrnicosRecibidos | Usuario={U} Anio={A} Mes={M} Dia={D} Comprobante={C}",
+                sriDatosRecibidos?.Usuario, sriDatosRecibidos?.Anio, sriDatosRecibidos?.Mes, sriDatosRecibidos?.Dia, sriDatosRecibidos?.Comprobante);
+
             if (sriDatosRecibidos == null)
+            {
+                _logger.LogWarning("[CTR] Request nulo");
                 return BadRequest("Solicitud no v�lida.");
+            }
 
             if (!TryValidateRecibidosQuery(sriDatosRecibidos, out var validationError))
+            {
+                _logger.LogWarning("[CTR] Validación fallida: {Error}", validationError);
                 return BadRequest(validationError);
+            }
 
             if (!TryResolveSafeDownloadRootByRuc(sriDatosRecibidos.Usuario, out var directorioArchivoPrincipal))
+            {
+                _logger.LogWarning("[CTR] RUC inválido o ruta no permitida: {RUC}", sriDatosRecibidos.Usuario);
                 return BadRequest("RUC o ruta no permitidos.");
+            }
 
             if (!TryGetComprobanteRecibidos(sriDatosRecibidos.Comprobante, out var comprobante))
+            {
+                _logger.LogWarning("[CTR] Comprobante inválido: {C}", sriDatosRecibidos.Comprobante);
                 return BadRequest("Comprobante no v�lido.");
+            }
 
             var nombreCarpeta = GetNombreCarpetaXmlRecibidos(sriDatosRecibidos, comprobante);
             var directorioArchivo = Path.Combine(directorioArchivoPrincipal, nombreCarpeta);
+            _logger.LogInformation("[CTR] Comprobante={C} | Carpeta={Dir}", comprobante, directorioArchivo);
 
             if (HasXmlFiles(directorioArchivo))
+            {
+                _logger.LogInformation("[CTR] XMLs ya existen en disco, retornando sin Selenium");
                 return Ok("todo bien");
+            }
 
             if (!Directory.Exists(directorioArchivoPrincipal))
                 Directory.CreateDirectory(directorioArchivoPrincipal);
             if (!Directory.Exists(directorioArchivo))
                 Directory.CreateDirectory(directorioArchivo);
 
+            _logger.LogInformation("[CTR] Iniciando descarga Selenium...");
             var rutaCarpeta = cDescarga.CComprobantesElectrnicosRecibidos(sriDatosRecibidos, comprobante);
+            _logger.LogInformation("[CTR] Selenium retornó: {R}", rutaCarpeta);
+
             if (string.Equals(rutaCarpeta, ApiDescargaSriV9.CDescarga.CDescarga.ResultadoRecibidosSinDatosSincronizados, StringComparison.Ordinal))
+            {
+                _logger.LogInformation("[CTR] SRI sin datos para los parámetros");
                 return Ok("No hay data para los parametros ingresados");
+            }
 
             if (!string.IsNullOrWhiteSpace(rutaCarpeta) &&
                 Directory.Exists(rutaCarpeta) &&
                 IsPathInsideRoot(directorioArchivoPrincipal, rutaCarpeta) &&
                 HasXmlFiles(rutaCarpeta))
             {
+                _logger.LogInformation("[CTR] OK - XMLs en ruta retornada: {R}", rutaCarpeta);
                 return Ok("todo bien");
             }
 
             if (HasXmlFiles(directorioArchivo))
+            {
+                _logger.LogInformation("[CTR] OK - XMLs en carpeta destino: {D}", directorioArchivo);
                 return Ok("todo bien");
+            }
 
+            _logger.LogError("[CTR] No se generaron XMLs. rutaCarpeta={R} | directorioArchivo={D}", rutaCarpeta, directorioArchivo);
             return BadRequest("NO se genero Vuelva a Intentar");
 
 

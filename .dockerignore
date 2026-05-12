@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+wwwroot/ChromeProfiles/
+wwwroot/Descargas/
+*.user
+*.log
+logs_ws.txt
+.DS_Store
+docker-compose*.yml

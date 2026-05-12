@@ -1,1 +1,54 @@
+## Visual Studio / IDE
 /.vs
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+.idea/
+
+## Build output
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+publish/
+artifacts/
+
+## .NET compilados
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+project.lock.json
+project.fragment.lock.json
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+## Publish profiles (archivos de usuario)
+**/Properties/PublishProfiles/*.pubxml.user
+
+## Carpetas generadas en wwwroot
+wwwroot/ChromeProfiles/
+wwwroot/Descargas/
+wwwroot/2cap/
+
+## Logs
+*.log
+logs_ws.txt
+logs/
+
+## Configuración con secretos
+appsettings.Development.json
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
