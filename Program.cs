@@ -25,8 +25,8 @@ builder.Services.AddCors();
 builder.Services.AddAutoMapper(typeof(Program).Assembly);
 builder.Services.AddHttpContextAccessor();
 
-builder.Services.AddDbContext<AplicationDbContext>
-    (options => options.UseOracle(builder.Configuration.GetConnectionString("DefaultConnection")));
+// builder.Services.AddDbContext<AplicationDbContext>
+//     (options => options.UseOracle(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddControllers().AddOData(options =>
 {
     options.Count().Filter().OrderBy().Expand().Select().SetMaxTop(100);
