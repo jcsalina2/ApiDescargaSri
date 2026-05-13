@@ -1,0 +1,25 @@
+name: Deploy ApiDescargaSri
+
+on:
+  push:
+    branches:
+      - QA
+      - PROD
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            cd ~/projects/ApiDescargaSri
+            git fetch --all
+            git reset --hard origin/${{ github.ref_name }}
+            docker compose up -d --build
+            docker image prune -f
