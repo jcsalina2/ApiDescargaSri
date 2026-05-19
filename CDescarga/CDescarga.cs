@@ -41,11 +41,14 @@ namespace ApiDescargaSriV9.CDescarga
 
         private readonly IWebHostEnvironment env;
         private readonly ILogger<CDescarga> _logger;
+        private readonly string _btnBuscarRecibidosId;
 
-        public CDescarga(IWebHostEnvironment env, ILogger<CDescarga> logger)
+        public CDescarga(IWebHostEnvironment env, ILogger<CDescarga> logger, IConfiguration configuration)
         {
             this.env = env;
             _logger = logger;
+            _btnBuscarRecibidosId = configuration["SriElementIds:BtnBuscarRecibidos"] ?? "frmPrincipal:btnBuscar";
+            _logger.LogInformation("[SRI-CONFIG] BtnBuscarRecibidos cargado desde config: '{Id}'", _btnBuscarRecibidosId);
         }
 
         private static ChromeDriverService CreateDriverService()
@@ -543,14 +546,17 @@ namespace ApiDescargaSriV9.CDescarga
 
                         EsperarAjaxPrimeFaces(webDriver, 20);
 
+                        _logger.LogInformation("[SRI] Buscando botón Buscar (id='{Id}')...", _btnBuscarRecibidosId);
                         DelayHumano();
                         IWebElement btnBuscar = new WebDriverWait(webDriver, TimeSpan.FromSeconds(10))
-                          .Until(ExpectedConditions.ElementToBeClickable(By.Id("frmPrincipal:btnConsultarSinRe")));
+                          .Until(ExpectedConditions.ElementToBeClickable(By.Id(_btnBuscarRecibidosId)));
+                        _logger.LogInformation("[SRI] Botón Buscar encontrado y clickeable");
                         // Hover real
                         DelayHumano();
                         HoverElemento(webDriver, btnBuscar);
                         DelayHumano();
                         MoveToAndClick(webDriver, btnBuscar);
+                        _logger.LogInformation("[SRI] Click en Buscar ejecutado (tablas)");
 
                         if (ExisteMensajeCaptchaIncorrectaCss(webDriver, 5))
                         {
@@ -1940,8 +1946,8 @@ namespace ApiDescargaSriV9.CDescarga
                         }
 
                         // Verificar si el botón existe en el DOM (aunque no sea clickeable)
-                        var btnEnDom = webDriver.FindElements(By.Id("frmPrincipal:btnConsultarSinRe"));
-                        _logger.LogInformation("[SRI-DIAG] btnConsultarSinRe en DOM: {N}", btnEnDom.Count);
+                        var btnEnDom = webDriver.FindElements(By.Id(_btnBuscarRecibidosId));
+                        _logger.LogInformation("[SRI-DIAG] btnBuscar (id='{Id}') en DOM: {N}", _btnBuscarRecibidosId, btnEnDom.Count);
 
                         // Verificar si hay captcha visible
                         var hayRecaptcha = webDriver.FindElements(By.CssSelector("iframe[src*='recaptcha']"));
@@ -1952,10 +1958,11 @@ namespace ApiDescargaSriV9.CDescarga
                         ScrollHumano(webDriver);
                         EsperarAjaxPrimeFaces(webDriver, 20);
 
-                        _logger.LogInformation("[SRI] Buscando botón Buscar y haciendo click...");
+                        _logger.LogInformation("[SRI] Buscando botón Buscar (id='{Id}')...", _btnBuscarRecibidosId);
                         DelayHumano();
                         IWebElement btnBuscar = new WebDriverWait(webDriver, TimeSpan.FromSeconds(10))
-                          .Until(ExpectedConditions.ElementToBeClickable(By.Id("frmPrincipal:btnConsultarSinRe")));
+                          .Until(ExpectedConditions.ElementToBeClickable(By.Id(_btnBuscarRecibidosId)));
+                        _logger.LogInformation("[SRI] Botón Buscar encontrado y clickeable. URL={U}", webDriver.Url);
                         DelayHumano();
                         HoverElemento(webDriver, btnBuscar);
                         DelayHumano();
